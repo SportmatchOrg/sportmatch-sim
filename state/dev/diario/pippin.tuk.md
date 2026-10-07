@@ -1,3 +1,4 @@
 - 2026-10-07 00:18 · se anotó al fútbol del jueves en River Courts (vuelve a jugar de a poco)
 - 2026-10-07 07:09 · ya anotado al fútbol del jueves, no buscó más
 - 2026-10-07 14:44 · vio que lo aceptaron, solo miró
+- 2026-10-07 18:25 · miró partidos; ya está anotado al del jueves, no buscó más

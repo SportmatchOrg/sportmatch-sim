@@ -60,11 +60,11 @@
     "cupo": 10
   },
   "cmuykg6rc00fa01s43ihz3ef6": {
-    "jugadores": [],
-    "pendientes": [
+    "jugadores": [
       "mace.windu",
       "bellatrix.lestrange"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -85,6 +85,19 @@
     "cancelado": false,
     "organizador": "bellatrix.lestrange",
     "fecha": "2026-10-11T14:00:00.000Z",
+    "deporte": "PADEL",
+    "cupo": 4
+  },
+  "cmuyma6ku00h701s4i5bxb1xj": {
+    "jugadores": [],
+    "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "mace.windu",
+    "fecha": "2026-10-09T23:00:00.000Z",
     "deporte": "PADEL",
     "cupo": 4
   }

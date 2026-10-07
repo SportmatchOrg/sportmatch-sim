@@ -2,3 +2,4 @@
 - 2026-10-07 07:09 · miró la app, sin novedades
 - 2026-10-07 14:44 · se anotó al tenis del sábado en Tigre Pádel Club
 - 2026-10-07 17:35 · vio que lo aceptaron en el partido, nada más por hoy
+- 2026-10-07 18:25 · miró partidos, nada de básquet ni tenis temprano; no se anotó a nada

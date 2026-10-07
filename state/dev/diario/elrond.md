@@ -2,3 +2,4 @@
 - 2026-10-07 00:18 · armó tenis dobles el sábado en Tigre Pádel Club
 - 2026-10-07 07:09 · miró la app, tranquilo
 - 2026-10-07 17:34 · aceptó a Ron en su partido y armó fútbol el viernes 20:30 en Fútbol 5 Nordelta
+- 2026-10-07 18:25 · aceptó a Mace y Bellatrix en su partido de fútbol
