@@ -32,13 +32,14 @@ partido, si se baja tarde, si le toca organizar o unirse hoy) ya lo sortea el CL
         Cupos típicos: FUTBOL 10 o 12, PADEL 4, TENIS 2 o 4, BASQUET 6 a 10, RUNNING 4 a 12.
         Descripción opcional, corta, como la escribiría esa persona. El organizador-finde solo arma sábado o
         domingo a la mañana; el organizador-exigente arma ADVANCED.
-   5. Agregá **una línea** al final de `state/diario/<handle>.md`:
-      `- 2026-10-06 18:30 · se unió al fútbol del jueves en Club Pilar (le gusta jugar de noche)`
+   5. Anotá **una línea** en su diario con `node src/cli.ts <handle> diario "texto"` (el CLI pone la fecha y
+      hora reales; no edites el archivo a mano). Ejemplo de texto:
+      `se unió al fútbol del jueves en Club Pilar (le gusta jugar de noche)`
 4. Al final, `node src/cli.ts estado` y un resumen de 3–5 líneas de qué pasó.
 
 ## Reglas
 
-- Todo contra la API pasa por `node src/cli.ts`. Nada de `curl`, nada de editar a mano `state/*.json`.
+- Todo contra la API pasa por `node src/cli.ts`. Nada de `curl`, nada de editar a mano `state/`.
 - Máximo 3 acciones por persona por corrida. Nadie hace todo: que haya personas que solo miran.
 - `partidos` muestra solo partidos de otras personas simuladas. No uses `--todos`: no se le mandan
   solicitudes a los humanos del equipo.

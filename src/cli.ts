@@ -4,7 +4,10 @@
 //   node src/cli.ts sortear                  bajas tardías y asistencia de los partidos (dados)
 //   node src/cli.ts estado                   resumen de lo que hay en la app simulada
 //   node src/cli.ts <handle> <comando> ...   acciones de una persona (ver `ayuda`)
+import { appendFileSync, mkdirSync } from 'node:fs';
+import { dirname, join } from 'node:path';
 import {
+  ROOT,
   api,
   ApiError,
   arquetipoDe,
@@ -16,6 +19,7 @@ import {
   guardarUsuarios,
   handlePorUserId,
   hoyAR,
+  inicio,
   log,
   partidos,
   persona,
@@ -115,6 +119,10 @@ const activa = (p: Persona, dia: string, diaSemana: number) => {
 };
 
 const hoy = () => {
+  if (!inicio()) {
+    console.log('La simulación no arrancó todavía. Correr: node src/create-bots.ts');
+    return;
+  }
   const dia = hoyAR();
   const diaSemana = diaSemanaAR();
   const max = Number(flag('max') ?? 12);
@@ -392,6 +400,16 @@ const comandos: Record<string, (handle: string, rest: string[]) => Promise<void>
     console.log(`Calificación enviada: ${res.count} puntajes, ${res.noShowCount} no-shows.`);
   },
 
+  async diario(handle, rest) {
+    const texto = rest.join(' ').trim();
+    if (!texto) throw new Error('Uso: <handle> diario "qué hizo y por qué"');
+    const ahora = new Date().toLocaleString('sv-SE', { timeZone: 'America/Argentina/Buenos_Aires' }).slice(0, 16);
+    const path = join(ROOT, 'state/diario', `${handle}.md`);
+    mkdirSync(dirname(path), { recursive: true });
+    appendFileSync(path, `- ${ahora} · ${texto}\n`);
+    console.log('Anotado.');
+  },
+
   async notifs(handle) {
     const lista = await api<any[]>(handle, 'GET', '/notifications');
     const nuevas = lista.filter((n) => !n.readAt);
@@ -441,7 +459,7 @@ const AYUDA = `Globales: hoy [--max 12] | sortear | estado
 Persona: <handle> perfil | partidos [--deporte X] [--todos] | mios | notifs [--leer]
          crear --deporte --nivel --dia --hora --lugar <n> --cupo [--desc] | unirse <id> | bajarse <id>
          solicitudes <id> | aceptar <id> <reqId> | rechazar <id> <reqId> | cancelar <id> --motivo
-         pendiente <id> | calificar <id> --puntajes uid=4,uid=5 [--comentarios '{"uid":"..."}']
+         pendiente <id> | calificar <id> --puntajes uid=4,uid=5 [--comentarios '{"uid":"..."}'] | diario "texto"
 Niveles: ${NIVELES.join(', ')} · Arquetipos: ${Object.keys(arquetipos()).join(', ')}`;
 
 try {

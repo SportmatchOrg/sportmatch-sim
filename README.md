@@ -26,6 +26,23 @@ claude -p "Hacé una corrida según CLAUDE.md" --model sonnet
 `CLAUDE.md` tiene los pasos. En cada corrida entran como mucho 12 personas (`hoy --max 12`): primero las
 que tienen algo pendiente (aceptar solicitudes, calificar, cancelar) y después se completa al azar.
 
+## Automático (GitHub Actions)
+
+`.github/workflows/simular.yml` corre a las 00:10, 06:10, 12:10 y 18:10 (hora argentina), commitea `state/` a
+`main` y, si la corrida falla, avisa en Discord (distingue "sin límite de uso" de otros errores). También se
+lanza a mano desde Actions → *Corrida de usuarios simulados* → *Run workflow*, con el tope de personas.
+
+| Nombre | Tipo | Valor |
+|---|---|---|
+| `CLAUDE_CODE_OAUTH_TOKEN` | secret | `claude setup-token` (usa la suscripción de quien lo genera; vence al año) |
+| `FIREBASE_API_KEY` | secret | la del `.env` |
+| `BOT_PASSWORD` | secret | la del `.env` |
+| `DISCORD_WEBHOOK` | secret | webhook del canal donde avisar |
+| `API_URL` | variable | URL del back (dev o prod) |
+
+Para pasar de Claude Pro a pagar por uso, reemplazar `CLAUDE_CODE_OAUTH_TOKEN` por `ANTHROPIC_API_KEY` en el
+workflow.
+
 ## Personas
 
 - `personas/pool.json` — 60 personajes de Harry Potter (21), Star Wars (20) y El Señor de los Anillos
@@ -47,7 +64,7 @@ Arranca vacío y lo va llenando la simulación:
 - `inicio.json` — el día en que arrancó (lo crea el primer `create-bots`)
 - `usuarios.json` — handle → id del usuario en el back
 - `partidos.json` — partidos de los bots: jugadores, solicitudes pendientes, asistencia sorteada, quién califica
-- `diario/<handle>.md` — lo que hizo cada persona; Claude lo lee en la corrida siguiente
+- `diario/<handle>.md` — lo que hizo cada persona (lo escribe `cli.ts <handle> diario`); Claude lo lee en la corrida siguiente
 - `acciones.log` — cada acción contra la API, con fecha
 - `.tokens.json` — tokens de Firebase en caché (no se versiona)
 

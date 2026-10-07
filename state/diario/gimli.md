@@ -1,0 +1,1 @@
+- 2026-10-06 21:54 · armó un fútbol de 10 el jueves en River Courts (después del laburo, con gente nueva)

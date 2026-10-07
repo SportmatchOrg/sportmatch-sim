@@ -1,0 +1,17 @@
+{
+  "cmuxea1ur00ba01s4qehkgppd": {
+    "jugadores": [],
+    "pendientes": [
+      "bellatrix.lestrange"
+    ],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "gimli",
+    "fecha": "2026-10-08T23:30:00.000Z",
+    "deporte": "FUTBOL",
+    "cupo": 10
+  }
+}
