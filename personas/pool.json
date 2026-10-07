@@ -1,0 +1,760 @@
+[
+  {
+    "handle": "fred.weasley",
+    "nombre": "Fred Weasley",
+    "email": "fred.weasley@sim-sportmatch.test",
+    "arquetipo": "faltador",
+    "deportes": [
+      "FUTBOL",
+      "RUNNING"
+    ],
+    "zona": "pilar",
+    "rasgo": "juega con amigos y suma gente cuando falta",
+    "diaLlegada": 0
+  },
+  {
+    "handle": "galadriel",
+    "nombre": "Galadriel",
+    "email": "galadriel@sim-sportmatch.test",
+    "arquetipo": "irregular",
+    "deportes": [
+      "BASQUET"
+    ],
+    "zona": "caba",
+    "rasgo": "principiante entusiasta",
+    "diaLlegada": 0
+  },
+  {
+    "handle": "gimli",
+    "nombre": "Gimli",
+    "email": "gimli@sim-sportmatch.test",
+    "arquetipo": "irregular",
+    "deportes": [
+      "FUTBOL"
+    ],
+    "zona": "caba",
+    "rasgo": "sociable, le gusta conocer gente nueva",
+    "diaLlegada": 0
+  },
+  {
+    "handle": "eowyn",
+    "nombre": "Éowyn",
+    "email": "eowyn@sim-sportmatch.test",
+    "arquetipo": "baja-tarde",
+    "deportes": [
+      "RUNNING",
+      "BASQUET",
+      "PADEL"
+    ],
+    "zona": "pilar",
+    "rasgo": "sociable, le gusta conocer gente nueva",
+    "diaLlegada": 0
+  },
+  {
+    "handle": "yoda",
+    "nombre": "Yoda",
+    "email": "yoda@sim-sportmatch.test",
+    "arquetipo": "solo-se-une",
+    "deportes": [
+      "PADEL"
+    ],
+    "zona": "pilar",
+    "rasgo": "prefiere los fines de semana a la mañana",
+    "diaLlegada": 0
+  },
+  {
+    "handle": "ron.weasley",
+    "nombre": "Ron Weasley",
+    "email": "ron.weasley@sim-sportmatch.test",
+    "arquetipo": "solo-se-une",
+    "deportes": [
+      "BASQUET",
+      "TENIS"
+    ],
+    "zona": "norte",
+    "rasgo": "madruga, prefiere jugar antes de las 9",
+    "diaLlegada": 0
+  },
+  {
+    "handle": "quigon.jinn",
+    "nombre": "Qui-Gon Jinn",
+    "email": "quigon.jinn@sim-sportmatch.test",
+    "arquetipo": "finde",
+    "deportes": [
+      "RUNNING",
+      "PADEL"
+    ],
+    "zona": "norte",
+    "rasgo": "sociable, le gusta conocer gente nueva",
+    "diaLlegada": 0
+  },
+  {
+    "handle": "pippin.tuk",
+    "nombre": "Pippin Tuk",
+    "email": "pippin.tuk@sim-sportmatch.test",
+    "arquetipo": "calificador-severo",
+    "deportes": [
+      "FUTBOL"
+    ],
+    "zona": "pilar",
+    "rasgo": "vuelve a hacer deporte después de años",
+    "diaLlegada": 0
+  },
+  {
+    "handle": "rubeus.hagrid",
+    "nombre": "Rubeus Hagrid",
+    "email": "rubeus.hagrid@sim-sportmatch.test",
+    "arquetipo": "finde",
+    "deportes": [
+      "FUTBOL"
+    ],
+    "zona": "pilar",
+    "rasgo": "estudiante, tiene tardes libres",
+    "diaLlegada": 0
+  },
+  {
+    "handle": "elrond",
+    "nombre": "Elrond",
+    "email": "elrond@sim-sportmatch.test",
+    "arquetipo": "organizador",
+    "deportes": [
+      "FUTBOL",
+      "TENIS"
+    ],
+    "zona": "norte",
+    "rasgo": "relajado, juega para despejarse",
+    "diaLlegada": 0
+  },
+  {
+    "handle": "bellatrix.lestrange",
+    "nombre": "Bellatrix Lestrange",
+    "email": "bellatrix.lestrange@sim-sportmatch.test",
+    "arquetipo": "fanatico",
+    "deportes": [
+      "FUTBOL",
+      "PADEL"
+    ],
+    "zona": "caba",
+    "rasgo": "juega con amigos y suma gente cuando falta",
+    "diaLlegada": 0
+  },
+  {
+    "handle": "faramir",
+    "nombre": "Faramir",
+    "email": "faramir@sim-sportmatch.test",
+    "arquetipo": "organizador-finde",
+    "deportes": [
+      "RUNNING",
+      "PADEL"
+    ],
+    "zona": "pilar",
+    "rasgo": "relajado, juega para despejarse",
+    "diaLlegada": 0
+  },
+  {
+    "handle": "mace.windu",
+    "nombre": "Mace Windu",
+    "email": "mace.windu@sim-sportmatch.test",
+    "arquetipo": "organizador",
+    "deportes": [
+      "FUTBOL",
+      "PADEL"
+    ],
+    "zona": "norte",
+    "rasgo": "sociable, le gusta conocer gente nueva",
+    "diaLlegada": 0
+  },
+  {
+    "handle": "draco.malfoy",
+    "nombre": "Draco Malfoy",
+    "email": "draco.malfoy@sim-sportmatch.test",
+    "arquetipo": "irregular",
+    "deportes": [
+      "BASQUET",
+      "TENIS"
+    ],
+    "zona": "pilar",
+    "rasgo": "principiante entusiasta",
+    "diaLlegada": 2
+  },
+  {
+    "handle": "minerva.mcgonagall",
+    "nombre": "Minerva McGonagall",
+    "email": "minerva.mcgonagall@sim-sportmatch.test",
+    "arquetipo": "organizador-exigente",
+    "deportes": [
+      "FUTBOL",
+      "PADEL"
+    ],
+    "zona": "caba",
+    "rasgo": "estudiante, tiene tardes libres",
+    "diaLlegada": 2
+  },
+  {
+    "handle": "leia.organa",
+    "nombre": "Leia Organa",
+    "email": "leia.organa@sim-sportmatch.test",
+    "arquetipo": "ocasional",
+    "deportes": [
+      "FUTBOL"
+    ],
+    "zona": "norte",
+    "rasgo": "sociable, le gusta conocer gente nueva",
+    "diaLlegada": 3
+  },
+  {
+    "handle": "frodo.bolson",
+    "nombre": "Frodo Bolsón",
+    "email": "frodo.bolson@sim-sportmatch.test",
+    "arquetipo": "organizador-que-cancela",
+    "deportes": [
+      "BASQUET",
+      "FUTBOL"
+    ],
+    "zona": "norte",
+    "rasgo": "competitivo, juega para ganar",
+    "diaLlegada": 3
+  },
+  {
+    "handle": "harry.potter",
+    "nombre": "Harry Potter",
+    "email": "harry.potter@sim-sportmatch.test",
+    "arquetipo": "ocasional",
+    "deportes": [
+      "FUTBOL",
+      "RUNNING"
+    ],
+    "zona": "pilar",
+    "rasgo": "prefiere los fines de semana a la mañana",
+    "diaLlegada": 3
+  },
+  {
+    "handle": "aragorn",
+    "nombre": "Aragorn",
+    "email": "aragorn@sim-sportmatch.test",
+    "arquetipo": "se-va",
+    "deportes": [
+      "PADEL",
+      "FUTBOL",
+      "BASQUET"
+    ],
+    "zona": "pilar",
+    "rasgo": "principiante entusiasta",
+    "diaLlegada": 4
+  },
+  {
+    "handle": "gollum",
+    "nombre": "Gollum",
+    "email": "gollum@sim-sportmatch.test",
+    "arquetipo": "calificador-severo",
+    "deportes": [
+      "TENIS"
+    ],
+    "zona": "norte",
+    "rasgo": "madruga, prefiere jugar antes de las 9",
+    "diaLlegada": 5
+  },
+  {
+    "handle": "remus.lupin",
+    "nombre": "Remus Lupin",
+    "email": "remus.lupin@sim-sportmatch.test",
+    "arquetipo": "ocasional",
+    "deportes": [
+      "TENIS"
+    ],
+    "zona": "caba",
+    "rasgo": "madruga, prefiere jugar antes de las 9",
+    "diaLlegada": 5
+  },
+  {
+    "handle": "boromir",
+    "nombre": "Boromir",
+    "email": "boromir@sim-sportmatch.test",
+    "arquetipo": "solo-se-une",
+    "deportes": [
+      "BASQUET",
+      "TENIS"
+    ],
+    "zona": "norte",
+    "rasgo": "puntual y organizado",
+    "diaLlegada": 6
+  },
+  {
+    "handle": "jar.jar.binks",
+    "nombre": "Jar Jar Binks",
+    "email": "jar.jar.binks@sim-sportmatch.test",
+    "arquetipo": "fantasma",
+    "deportes": [
+      "FUTBOL"
+    ],
+    "zona": "norte",
+    "rasgo": "puntual y organizado",
+    "diaLlegada": 7
+  },
+  {
+    "handle": "lando.calrissian",
+    "nombre": "Lando Calrissian",
+    "email": "lando.calrissian@sim-sportmatch.test",
+    "arquetipo": "fantasma",
+    "deportes": [
+      "BASQUET"
+    ],
+    "zona": "caba",
+    "rasgo": "puntual y organizado",
+    "diaLlegada": 7
+  },
+  {
+    "handle": "legolas",
+    "nombre": "Legolas",
+    "email": "legolas@sim-sportmatch.test",
+    "arquetipo": "se-va",
+    "deportes": [
+      "FUTBOL"
+    ],
+    "zona": "caba",
+    "rasgo": "principiante entusiasta",
+    "diaLlegada": 8
+  },
+  {
+    "handle": "bilbo.bolson",
+    "nombre": "Bilbo Bolsón",
+    "email": "bilbo.bolson@sim-sportmatch.test",
+    "arquetipo": "curioso",
+    "deportes": [
+      "FUTBOL"
+    ],
+    "zona": "pilar",
+    "rasgo": "relajado, juega para despejarse",
+    "diaLlegada": 8
+  },
+  {
+    "handle": "padme.amidala",
+    "nombre": "Padmé Amidala",
+    "email": "padme.amidala@sim-sportmatch.test",
+    "arquetipo": "vuelve",
+    "deportes": [
+      "FUTBOL",
+      "BASQUET"
+    ],
+    "zona": "pilar",
+    "rasgo": "competitivo, juega para ganar",
+    "diaLlegada": 9
+  },
+  {
+    "handle": "saruman",
+    "nombre": "Saruman",
+    "email": "saruman@sim-sportmatch.test",
+    "arquetipo": "novato",
+    "deportes": [
+      "PADEL"
+    ],
+    "zona": "norte",
+    "rasgo": "competitivo, juega para ganar",
+    "diaLlegada": 10
+  },
+  {
+    "handle": "cho.chang",
+    "nombre": "Cho Chang",
+    "email": "cho.chang@sim-sportmatch.test",
+    "arquetipo": "fantasma",
+    "deportes": [
+      "FUTBOL",
+      "PADEL",
+      "BASQUET"
+    ],
+    "zona": "pilar",
+    "rasgo": "competitivo, juega para ganar",
+    "diaLlegada": 10
+  },
+  {
+    "handle": "chewbacca",
+    "nombre": "Chewbacca",
+    "email": "chewbacca@sim-sportmatch.test",
+    "arquetipo": "baja-tarde",
+    "deportes": [
+      "FUTBOL",
+      "PADEL"
+    ],
+    "zona": "pilar",
+    "rasgo": "sociable, le gusta conocer gente nueva",
+    "diaLlegada": 11
+  },
+  {
+    "handle": "lucius.malfoy",
+    "nombre": "Lucius Malfoy",
+    "email": "lucius.malfoy@sim-sportmatch.test",
+    "arquetipo": "se-va",
+    "deportes": [
+      "BASQUET"
+    ],
+    "zona": "pilar",
+    "rasgo": "estudiante, tiene tardes libres",
+    "diaLlegada": 12
+  },
+  {
+    "handle": "dobby",
+    "nombre": "Dobby",
+    "email": "dobby@sim-sportmatch.test",
+    "arquetipo": "faltador-cronico",
+    "deportes": [
+      "PADEL"
+    ],
+    "zona": "caba",
+    "rasgo": "exigente con el nivel del partido",
+    "diaLlegada": 13
+  },
+  {
+    "handle": "luke.skywalker",
+    "nombre": "Luke Skywalker",
+    "email": "luke.skywalker@sim-sportmatch.test",
+    "arquetipo": "solo-se-une",
+    "deportes": [
+      "BASQUET",
+      "RUNNING"
+    ],
+    "zona": "pilar",
+    "rasgo": "juega con amigos y suma gente cuando falta",
+    "diaLlegada": 14
+  },
+  {
+    "handle": "darth.vader",
+    "nombre": "Darth Vader",
+    "email": "darth.vader@sim-sportmatch.test",
+    "arquetipo": "ocasional",
+    "deportes": [
+      "BASQUET"
+    ],
+    "zona": "pilar",
+    "rasgo": "juega después del trabajo, de noche",
+    "diaLlegada": 14
+  },
+  {
+    "handle": "severus.snape",
+    "nombre": "Severus Snape",
+    "email": "severus.snape@sim-sportmatch.test",
+    "arquetipo": "curioso",
+    "deportes": [
+      "TENIS",
+      "RUNNING"
+    ],
+    "zona": "caba",
+    "rasgo": "prefiere los fines de semana a la mañana",
+    "diaLlegada": 14
+  },
+  {
+    "handle": "obiwan.kenobi",
+    "nombre": "Obi-Wan Kenobi",
+    "email": "obiwan.kenobi@sim-sportmatch.test",
+    "arquetipo": "novato",
+    "deportes": [
+      "RUNNING",
+      "FUTBOL"
+    ],
+    "zona": "norte",
+    "rasgo": "juega con amigos y suma gente cuando falta",
+    "diaLlegada": 15
+  },
+  {
+    "handle": "arwen",
+    "nombre": "Arwen",
+    "email": "arwen@sim-sportmatch.test",
+    "arquetipo": "vuelve",
+    "deportes": [
+      "TENIS",
+      "PADEL"
+    ],
+    "zona": "caba",
+    "rasgo": "estudiante, tiene tardes libres",
+    "diaLlegada": 15
+  },
+  {
+    "handle": "rey",
+    "nombre": "Rey",
+    "email": "rey@sim-sportmatch.test",
+    "arquetipo": "novato",
+    "deportes": [
+      "PADEL",
+      "FUTBOL"
+    ],
+    "zona": "pilar",
+    "rasgo": "relajado, juega para despejarse",
+    "diaLlegada": 17
+  },
+  {
+    "handle": "hermione.granger",
+    "nombre": "Hermione Granger",
+    "email": "hermione.granger@sim-sportmatch.test",
+    "arquetipo": "organizador-finde",
+    "deportes": [
+      "FUTBOL",
+      "TENIS"
+    ],
+    "zona": "pilar",
+    "rasgo": "competitivo, juega para ganar",
+    "diaLlegada": 17
+  },
+  {
+    "handle": "kylo.ren",
+    "nombre": "Kylo Ren",
+    "email": "kylo.ren@sim-sportmatch.test",
+    "arquetipo": "baja-tarde",
+    "deportes": [
+      "BASQUET",
+      "PADEL"
+    ],
+    "zona": "pilar",
+    "rasgo": "sociable, le gusta conocer gente nueva",
+    "diaLlegada": 17
+  },
+  {
+    "handle": "cedric.diggory",
+    "nombre": "Cedric Diggory",
+    "email": "cedric.diggory@sim-sportmatch.test",
+    "arquetipo": "fanatico",
+    "deportes": [
+      "PADEL"
+    ],
+    "zona": "norte",
+    "rasgo": "competitivo, juega para ganar",
+    "diaLlegada": 18
+  },
+  {
+    "handle": "sirius.black",
+    "nombre": "Sirius Black",
+    "email": "sirius.black@sim-sportmatch.test",
+    "arquetipo": "novato",
+    "deportes": [
+      "FUTBOL"
+    ],
+    "zona": "pilar",
+    "rasgo": "exigente con el nivel del partido",
+    "diaLlegada": 19
+  },
+  {
+    "handle": "boba.fett",
+    "nombre": "Boba Fett",
+    "email": "boba.fett@sim-sportmatch.test",
+    "arquetipo": "curioso",
+    "deportes": [
+      "PADEL",
+      "FUTBOL",
+      "RUNNING"
+    ],
+    "zona": "pilar",
+    "rasgo": "vuelve a hacer deporte después de años",
+    "diaLlegada": 20
+  },
+  {
+    "handle": "albus.dumbledore",
+    "nombre": "Albus Dumbledore",
+    "email": "albus.dumbledore@sim-sportmatch.test",
+    "arquetipo": "organizador-que-cancela",
+    "deportes": [
+      "TENIS",
+      "FUTBOL"
+    ],
+    "zona": "norte",
+    "rasgo": "sociable, le gusta conocer gente nueva",
+    "diaLlegada": 21
+  },
+  {
+    "handle": "luna.lovegood",
+    "nombre": "Luna Lovegood",
+    "email": "luna.lovegood@sim-sportmatch.test",
+    "arquetipo": "finde",
+    "deportes": [
+      "BASQUET",
+      "PADEL"
+    ],
+    "zona": "caba",
+    "rasgo": "madruga, prefiere jugar antes de las 9",
+    "diaLlegada": 21
+  },
+  {
+    "handle": "theoden",
+    "nombre": "Théoden",
+    "email": "theoden@sim-sportmatch.test",
+    "arquetipo": "solo-se-une",
+    "deportes": [
+      "FUTBOL"
+    ],
+    "zona": "caba",
+    "rasgo": "puntual y organizado",
+    "diaLlegada": 22
+  },
+  {
+    "handle": "sauron",
+    "nombre": "Sauron",
+    "email": "sauron@sim-sportmatch.test",
+    "arquetipo": "ocasional",
+    "deportes": [
+      "TENIS"
+    ],
+    "zona": "pilar",
+    "rasgo": "juega después del trabajo, de noche",
+    "diaLlegada": 23
+  },
+  {
+    "handle": "merry.brandigamo",
+    "nombre": "Merry Brandigamo",
+    "email": "merry.brandigamo@sim-sportmatch.test",
+    "arquetipo": "faltador-cronico",
+    "deportes": [
+      "PADEL"
+    ],
+    "zona": "caba",
+    "rasgo": "puntual y organizado",
+    "diaLlegada": 23
+  },
+  {
+    "handle": "poe.dameron",
+    "nombre": "Poe Dameron",
+    "email": "poe.dameron@sim-sportmatch.test",
+    "arquetipo": "faltador",
+    "deportes": [
+      "RUNNING",
+      "FUTBOL",
+      "PADEL"
+    ],
+    "zona": "pilar",
+    "rasgo": "relajado, juega para despejarse",
+    "diaLlegada": 23
+  },
+  {
+    "handle": "ginny.weasley",
+    "nombre": "Ginny Weasley",
+    "email": "ginny.weasley@sim-sportmatch.test",
+    "arquetipo": "faltador",
+    "deportes": [
+      "PADEL"
+    ],
+    "zona": "norte",
+    "rasgo": "exigente con el nivel del partido",
+    "diaLlegada": 23
+  },
+  {
+    "handle": "finn",
+    "nombre": "Finn",
+    "email": "finn@sim-sportmatch.test",
+    "arquetipo": "organizador-exigente",
+    "deportes": [
+      "FUTBOL",
+      "RUNNING"
+    ],
+    "zona": "pilar",
+    "rasgo": "prefiere los fines de semana a la mañana",
+    "diaLlegada": 24
+  },
+  {
+    "handle": "anakin.skywalker",
+    "nombre": "Anakin Skywalker",
+    "email": "anakin.skywalker@sim-sportmatch.test",
+    "arquetipo": "solo-se-une",
+    "deportes": [
+      "PADEL"
+    ],
+    "zona": "pilar",
+    "rasgo": "sociable, le gusta conocer gente nueva",
+    "diaLlegada": 25
+  },
+  {
+    "handle": "han.solo",
+    "nombre": "Han Solo",
+    "email": "han.solo@sim-sportmatch.test",
+    "arquetipo": "organizador",
+    "deportes": [
+      "FUTBOL"
+    ],
+    "zona": "norte",
+    "rasgo": "puntual y organizado",
+    "diaLlegada": 26
+  },
+  {
+    "handle": "grogu",
+    "nombre": "Grogu",
+    "email": "grogu@sim-sportmatch.test",
+    "arquetipo": "curioso",
+    "deportes": [
+      "PADEL"
+    ],
+    "zona": "pilar",
+    "rasgo": "juega después del trabajo, de noche",
+    "diaLlegada": 26
+  },
+  {
+    "handle": "george.weasley",
+    "nombre": "George Weasley",
+    "email": "george.weasley@sim-sportmatch.test",
+    "arquetipo": "fanatico",
+    "deportes": [
+      "FUTBOL"
+    ],
+    "zona": "pilar",
+    "rasgo": "sociable, le gusta conocer gente nueva",
+    "diaLlegada": 27
+  },
+  {
+    "handle": "sam.gamyi",
+    "nombre": "Sam Gamyi",
+    "email": "sam.gamyi@sim-sportmatch.test",
+    "arquetipo": "organizador",
+    "deportes": [
+      "PADEL",
+      "FUTBOL",
+      "TENIS"
+    ],
+    "zona": "caba",
+    "rasgo": "principiante entusiasta",
+    "diaLlegada": 27
+  },
+  {
+    "handle": "neville.longbottom",
+    "nombre": "Neville Longbottom",
+    "email": "neville.longbottom@sim-sportmatch.test",
+    "arquetipo": "solo-se-une",
+    "deportes": [
+      "FUTBOL"
+    ],
+    "zona": "pilar",
+    "rasgo": "competitivo, juega para ganar",
+    "diaLlegada": 28
+  },
+  {
+    "handle": "molly.weasley",
+    "nombre": "Molly Weasley",
+    "email": "molly.weasley@sim-sportmatch.test",
+    "arquetipo": "organizador-finde",
+    "deportes": [
+      "RUNNING"
+    ],
+    "zona": "norte",
+    "rasgo": "exigente con el nivel del partido",
+    "diaLlegada": 29
+  },
+  {
+    "handle": "darth.maul",
+    "nombre": "Darth Maul",
+    "email": "darth.maul@sim-sportmatch.test",
+    "arquetipo": "se-va",
+    "deportes": [
+      "FUTBOL",
+      "BASQUET"
+    ],
+    "zona": "norte",
+    "rasgo": "relajado, juega para despejarse",
+    "diaLlegada": 30
+  },
+  {
+    "handle": "gandalf",
+    "nombre": "Gandalf",
+    "email": "gandalf@sim-sportmatch.test",
+    "arquetipo": "vuelve",
+    "deportes": [
+      "FUTBOL",
+      "TENIS"
+    ],
+    "zona": "pilar",
+    "rasgo": "juega con amigos y suma gente cuando falta",
+    "diaLlegada": 30
+  }
+]

@@ -1,0 +1,12 @@
+[
+  { "nombre": "Club Pilar · Cancha 2", "lat": -34.4587, "lng": -58.9142, "deportes": ["FUTBOL", "TENIS", "PADEL"] },
+  { "nombre": "Polideportivo Del Viso", "lat": -34.4489, "lng": -58.7976, "deportes": ["FUTBOL", "BASQUET"] },
+  { "nombre": "Pádel Point Pilar", "lat": -34.4421, "lng": -58.8695, "deportes": ["PADEL"] },
+  { "nombre": "Campus Austral · Canchas", "lat": -34.4590, "lng": -58.9130, "deportes": ["FUTBOL", "BASQUET", "TENIS", "RUNNING"] },
+  { "nombre": "Parque Pilar · Circuito", "lat": -34.4370, "lng": -58.9060, "deportes": ["RUNNING"] },
+  { "nombre": "River Courts · Cancha 2", "lat": -34.5453, "lng": -58.4498, "deportes": ["FUTBOL", "TENIS"] },
+  { "nombre": "Bosques de Palermo · Lago", "lat": -34.5706, "lng": -58.4176, "deportes": ["RUNNING"] },
+  { "nombre": "Club Belgrano · Gimnasio", "lat": -34.5627, "lng": -58.4562, "deportes": ["BASQUET", "PADEL"] },
+  { "nombre": "Fútbol 5 Nordelta", "lat": -34.4044, "lng": -58.6414, "deportes": ["FUTBOL"] },
+  { "nombre": "Tigre Pádel Club", "lat": -34.4260, "lng": -58.5796, "deportes": ["PADEL", "TENIS"] }
+]

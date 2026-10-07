@@ -1,0 +1,17 @@
+{
+  "name": "sportmatch-sim",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=22.18"
+  },
+  "scripts": {
+    "sim": "node src/cli.ts",
+    "create-bots": "node src/create-bots.ts",
+    "typecheck": "tsc"
+  },
+  "devDependencies": {
+    "@types/node": "^22.20.5",
+    "typescript": "^7.0.2"
+  }
+}

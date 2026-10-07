@@ -1,0 +1,97 @@
+{
+  "organizador": {
+    "descripcion": "Arma partidos seguido y casi nunca falta. Acepta a casi todos los que piden unirse.",
+    "actividad": 0.6, "p_organizar": 0.45, "p_unirse": 0.25, "p_cancelar": 0.15,
+    "p_noShow": 0.02, "p_bajaTarde": 0.03, "p_calificar": 0.9
+  },
+  "organizador-finde": {
+    "descripcion": "Organiza solo partidos de sábado o domingo a la mañana. Entre semana casi no entra.",
+    "actividad": 0.5, "p_organizar": 0.5, "p_unirse": 0.15, "p_cancelar": 0.1,
+    "p_noShow": 0.03, "p_bajaTarde": 0.03, "p_calificar": 0.8,
+    "diasSemana": [4, 5, 6, 0]
+  },
+  "organizador-que-cancela": {
+    "descripcion": "Publica partidos con entusiasmo pero cancela muchos cuando no se llenan rápido.",
+    "actividad": 0.55, "p_organizar": 0.5, "p_unirse": 0.2, "p_cancelar": 0.6,
+    "p_noShow": 0.05, "p_bajaTarde": 0.05, "p_calificar": 0.6
+  },
+  "organizador-exigente": {
+    "descripcion": "Organiza partidos ADVANCED y es selectivo: rechaza más o menos a uno de cada tres que piden unirse.",
+    "actividad": 0.5, "p_organizar": 0.4, "p_unirse": 0.2, "p_cancelar": 0.2,
+    "p_noShow": 0.02, "p_bajaTarde": 0.02, "p_calificar": 0.9
+  },
+  "solo-se-une": {
+    "descripcion": "Nunca organiza. Busca partidos de sus deportes y se anota seguido.",
+    "actividad": 0.5, "p_organizar": 0, "p_unirse": 0.7, "p_cancelar": 0,
+    "p_noShow": 0.05, "p_bajaTarde": 0.05, "p_calificar": 0.6
+  },
+  "fanatico": {
+    "descripcion": "Entra todos los días y se anota a todo lo que puede de sus deportes. Muy confiable.",
+    "actividad": 0.9, "p_organizar": 0.15, "p_unirse": 0.85, "p_cancelar": 0.05,
+    "p_noShow": 0.01, "p_bajaTarde": 0.02, "p_calificar": 0.95
+  },
+  "novato": {
+    "descripcion": "Recién empieza: solo se une a partidos BEGINNER o INTERMEDIATE, nunca ADVANCED. Califica generoso.",
+    "actividad": 0.4, "p_organizar": 0.02, "p_unirse": 0.5, "p_cancelar": 0,
+    "p_noShow": 0.06, "p_bajaTarde": 0.06, "p_calificar": 0.7
+  },
+  "curioso": {
+    "descripcion": "Entra seguido a mirar partidos pero casi nunca se anota.",
+    "actividad": 0.6, "p_organizar": 0, "p_unirse": 0.08, "p_cancelar": 0,
+    "p_noShow": 0.05, "p_bajaTarde": 0.05, "p_calificar": 0.4
+  },
+  "calificador-severo": {
+    "descripcion": "Se une seguido y califica duro: 2 o 3 la mayoría de las veces, 5 casi nunca.",
+    "actividad": 0.5, "p_organizar": 0.05, "p_unirse": 0.6, "p_cancelar": 0,
+    "p_noShow": 0.03, "p_bajaTarde": 0.03, "p_calificar": 0.95
+  },
+  "faltador": {
+    "descripcion": "Se anota con entusiasmo pero muchas veces no va. Rara vez califica.",
+    "actividad": 0.45, "p_organizar": 0.05, "p_unirse": 0.65, "p_cancelar": 0.3,
+    "p_noShow": 0.25, "p_bajaTarde": 0.08, "p_calificar": 0.3
+  },
+  "faltador-cronico": {
+    "descripcion": "Falta a casi la mitad de los partidos a los que se anota. Nunca califica.",
+    "actividad": 0.4, "p_organizar": 0, "p_unirse": 0.6, "p_cancelar": 0,
+    "p_noShow": 0.45, "p_bajaTarde": 0.1, "p_calificar": 0
+  },
+  "baja-tarde": {
+    "descripcion": "Se une a todo y después se baja a último momento.",
+    "actividad": 0.45, "p_organizar": 0.05, "p_unirse": 0.6, "p_cancelar": 0.3,
+    "p_noShow": 0.06, "p_bajaTarde": 0.3, "p_calificar": 0.5
+  },
+  "irregular": {
+    "descripcion": "A veces es el más comprometido y a veces falta o se baja. Ni muy confiable ni muy poco.",
+    "actividad": 0.45, "p_organizar": 0.1, "p_unirse": 0.55, "p_cancelar": 0.3,
+    "p_noShow": 0.12, "p_bajaTarde": 0.12, "p_calificar": 0.5
+  },
+  "ocasional": {
+    "descripcion": "Entra de vez en cuando. Cuando entra, mira y a veces se une.",
+    "actividad": 0.15, "p_organizar": 0.1, "p_unirse": 0.45, "p_cancelar": 0.2,
+    "p_noShow": 0.05, "p_bajaTarde": 0.05, "p_calificar": 0.5
+  },
+  "finde": {
+    "descripcion": "Solo usa la app de jueves a domingo para jugar el fin de semana.",
+    "actividad": 0.45, "p_organizar": 0.05, "p_unirse": 0.6, "p_cancelar": 0.2,
+    "p_noShow": 0.05, "p_bajaTarde": 0.05, "p_calificar": 0.5,
+    "diasSemana": [4, 5, 6, 0]
+  },
+  "se-va": {
+    "descripcion": "Arranca activo y a las pocas semanas deja de usar la app.",
+    "actividad": 0.5, "p_organizar": 0.1, "p_unirse": 0.55, "p_cancelar": 0.2,
+    "p_noShow": 0.08, "p_bajaTarde": 0.08, "p_calificar": 0.5,
+    "diasActivo": 12, "p_volver": 0.03
+  },
+  "vuelve": {
+    "descripcion": "Usa la app, desaparece un par de semanas y después vuelve con ganas.",
+    "actividad": 0.5, "p_organizar": 0.1, "p_unirse": 0.6, "p_cancelar": 0.2,
+    "p_noShow": 0.06, "p_bajaTarde": 0.06, "p_calificar": 0.6,
+    "pausa": { "desde": 5, "hasta": 18 }
+  },
+  "fantasma": {
+    "descripcion": "Se crea la cuenta y nunca más vuelve a entrar.",
+    "actividad": 0, "p_organizar": 0, "p_unirse": 0, "p_cancelar": 0,
+    "p_noShow": 0, "p_bajaTarde": 0, "p_calificar": 0,
+    "diasActivo": 0, "p_volver": 0
+  }
+}
