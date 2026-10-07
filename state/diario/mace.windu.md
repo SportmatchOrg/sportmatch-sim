@@ -1,2 +1,3 @@
 - 2026-10-07 00:01 · miró la app, el único partido era de fútbol lejos de su zona; pasó
 - 2026-10-07 14:44 · pasó a mirar, nada nuevo
+- 2026-10-07 17:34 · se anotó al fútbol del viernes en Nordelta (conoce gente nueva)

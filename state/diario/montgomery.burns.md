@@ -1,2 +1,3 @@
 - 2026-10-07 07:09 · miró partidos de running, no había ninguno
 - 2026-10-07 14:44 · miró partidos: no hay running, no se anotó a nada
+- 2026-10-07 17:35 · miró la app, sin carreras en Pilar

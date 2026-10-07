@@ -2,3 +2,4 @@
 - 2026-10-07 00:18 · organizó pádel el viernes en Club Belgrano
 - 2026-10-07 07:09 · miró partidos, no había otro de fútbol ni pádel para sumarse
 - 2026-10-07 14:44 · aceptó a Éowyn en su partido; no encontró nada de fútbol ni pádel para anotarse
+- 2026-10-07 17:35 · se anotó al fútbol de Nordelta y armó pádel el domingo a la mañana en Club Belgrano

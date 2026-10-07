@@ -17,10 +17,10 @@
     "cupo": 10
   },
   "cmuxjf6al00d601s4bz3z5bya": {
-    "jugadores": [],
-    "pendientes": [
+    "jugadores": [
       "ron.weasley"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -58,5 +58,34 @@
     "fecha": "2026-10-10T23:00:00.000Z",
     "deporte": "FUTBOL",
     "cupo": 10
+  },
+  "cmuykg6rc00fa01s43ihz3ef6": {
+    "jugadores": [],
+    "pendientes": [
+      "mace.windu",
+      "bellatrix.lestrange"
+    ],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "elrond",
+    "fecha": "2026-10-09T23:30:00.000Z",
+    "deporte": "FUTBOL",
+    "cupo": 10
+  },
+  "cmuykguqj00fr01s4wy2wxijc": {
+    "jugadores": [],
+    "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "bellatrix.lestrange",
+    "fecha": "2026-10-11T14:00:00.000Z",
+    "deporte": "PADEL",
+    "cupo": 4
   }
 }

@@ -1,3 +1,4 @@
 - 2026-10-06 21:54 · entró a mirar y leyó notificaciones, nada nuevo
 - 2026-10-07 00:18 · armó tenis dobles el sábado en Tigre Pádel Club
 - 2026-10-07 07:09 · miró la app, tranquilo
+- 2026-10-07 17:34 · aceptó a Ron en su partido y armó fútbol el viernes 20:30 en Fútbol 5 Nordelta

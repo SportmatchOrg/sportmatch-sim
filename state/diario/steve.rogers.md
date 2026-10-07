@@ -1,1 +1,2 @@
 - 2026-10-07 14:44 · armó un fútbol ADVANCED el sábado 20 h en Club Pilar
+- 2026-10-07 17:35 · revisó su partido de Pilar, sin movimiento
