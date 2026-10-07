@@ -13,4 +13,6 @@ console.log(
     `costo equivalente API: US$ ${salida.total_cost_usd?.toFixed(2) ?? '?'}`,
 );
 
-if (salida.is_error || salida.subtype !== 'success') process.exit(1);
+// CLAUDE.md le pide a Claude que termine con CORRIDA_FALLIDA si no pudo hacer la corrida.
+const fallida = /CORRIDA_FALLIDA/.test(salida.result ?? '');
+if (salida.is_error || salida.subtype !== 'success' || fallida) process.exit(1);
