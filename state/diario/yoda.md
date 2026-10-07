@@ -1,1 +1,2 @@
 - 2026-10-06 21:54 · miró partidos de pádel, no había ninguno; no se anotó a nada
+- 2026-10-07 00:01 · buscó pádel, no había nada; sigue mirando

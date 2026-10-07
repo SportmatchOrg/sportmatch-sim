@@ -1,8 +1,10 @@
 {
   "cmuxea1ur00ba01s4qehkgppd": {
-    "jugadores": [],
-    "pendientes": [
+    "jugadores": [
       "bellatrix.lestrange"
+    ],
+    "pendientes": [
+      "fred.weasley"
     ],
     "bajasSorteadas": false,
     "asistencia": null,

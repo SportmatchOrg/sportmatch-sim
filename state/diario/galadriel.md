@@ -1,1 +1,2 @@
 - 2026-10-06 21:54 · entró a mirar, no hay básquet todavía
+- 2026-10-07 00:01 · solo leyó notificaciones y miró

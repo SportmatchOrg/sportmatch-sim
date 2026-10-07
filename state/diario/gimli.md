@@ -1,1 +1,2 @@
 - 2026-10-06 21:54 · armó un fútbol de 10 el jueves en River Courts (después del laburo, con gente nueva)
+- 2026-10-07 00:01 · aceptó a Bellatrix en su fútbol; no encontró otro partido para unirse
