@@ -1,3 +1,4 @@
 - 2026-10-06 21:54 · miró partidos de pádel, no había ninguno; no se anotó a nada
 - 2026-10-07 00:01 · buscó pádel, no había nada; sigue mirando
 - 2026-10-07 00:18 · buscó pádel, no encontró partidos
+- 2026-10-07 14:44 · miró la app, sin ganas de anotarse hoy

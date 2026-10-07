@@ -1,2 +1,3 @@
 - 2026-10-07 00:01 · no encontró básquet ni tenis a la mañana; no se anotó
 - 2026-10-07 07:09 · miró la app, sin novedades
+- 2026-10-07 14:44 · se anotó al tenis del sábado en Tigre Pádel Club

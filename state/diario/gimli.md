@@ -2,3 +2,4 @@
 - 2026-10-07 00:01 · aceptó a Bellatrix en su fútbol; no encontró otro partido para unirse
 - 2026-10-07 00:17 · aceptó la solicitud de Fred Weasley a su partido de fútbol
 - 2026-10-07 07:09 · aceptó la solicitud de Pippin Tuk a su fútbol
+- 2026-10-07 14:44 · revisó notificaciones, sin novedades

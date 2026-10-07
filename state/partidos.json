@@ -18,7 +18,9 @@
   },
   "cmuxjf6al00d601s4bz3z5bya": {
     "jugadores": [],
-    "pendientes": [],
+    "pendientes": [
+      "ron.weasley"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -30,10 +32,10 @@
     "cupo": 4
   },
   "cmuxjf8eb00d901s43adfk92w": {
-    "jugadores": [],
-    "pendientes": [
+    "jugadores": [
       "eowyn"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -43,5 +45,18 @@
     "fecha": "2026-10-09T23:00:00.000Z",
     "deporte": "PADEL",
     "cupo": 4
+  },
+  "cmuyedmrm00ef01s4i53e7753": {
+    "jugadores": [],
+    "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "steve.rogers",
+    "fecha": "2026-10-10T23:00:00.000Z",
+    "deporte": "FUTBOL",
+    "cupo": 10
   }
 }

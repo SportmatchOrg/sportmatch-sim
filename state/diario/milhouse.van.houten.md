@@ -1,0 +1,1 @@
+- 2026-10-07 14:44 · miró la app, todavía no se anima
