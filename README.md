@@ -45,10 +45,12 @@ workflow.
 
 ## Personas
 
-- `personas/pool.json` — 60 personajes de Harry Potter (21), Star Wars (20) y El Señor de los Anillos
-  (19). Cada uno tiene arquetipo, deportes, zona, un rasgo y `diaLlegada`: los días después del inicio
-  en que crea su cuenta. El primer día llegan 13 (3 organizadores entre ellos); el resto, de a ~1,6 por
-  día durante un mes.
+- `personas/pool.json` — 159 personajes muy conocidos: Harry Potter, Star Wars, El Señor de los Anillos,
+  Marvel, DC, Los Simpson, Toy Story, Piratas del Caribe, Volver al futuro, Matrix, Shrek, El rey león,
+  Friends, Game of Thrones, Pixar, Breaking Bad y otros clásicos. Cada uno tiene arquetipo, deportes, zona,
+  un rasgo y `diaLlegada`: los días después del inicio en que crea su cuenta. El día 0 llegaron 13 (3
+  organizadores entre ellos); el resto llega de a 3 a 6 por día (al azar, para que "Usuarios nuevos por
+  semana" fluctúe) hasta el día 33, así la serie no se corta antes de noviembre.
 - `personas/arquetipos.json` — 18 comportamientos con sus probabilidades (`actividad`, `p_organizar`,
   `p_unirse`, `p_cancelar`, `p_noShow`, `p_bajaTarde`, `p_calificar`) y opcionales de calendario
   (`diasActivo`, `pausa`, `diasSemana`, `p_volver`):
