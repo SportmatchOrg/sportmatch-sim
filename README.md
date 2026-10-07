@@ -28,7 +28,8 @@ que tienen algo pendiente (aceptar solicitudes, calificar, cancelar) y después 
 
 ## Automático (GitHub Actions)
 
-`.github/workflows/simular.yml` corre a las 00:10, 06:10, 12:10 y 18:10 (hora argentina), commitea `state/` a
+`.github/workflows/simular.yml` corre cada 3 horas a los :10 (00:10, 03:10 … 21:10, hora argentina; GitHub puede
+demorarlas), commitea `state/` a
 `main` y, si la corrida falla, avisa en Discord (distingue "sin límite de uso" de otros errores). También se
 lanza a mano desde Actions → *Corrida de usuarios simulados* → *Run workflow*, con el tope de personas.
 

@@ -1,12 +1,13 @@
 name: Corrida de usuarios simulados
 
-# Cada 6 h, a las 00:10, 06:10, 12:10 y 18:10 de Argentina (UTC−3 → 03:10, 09:10, 15:10, 21:10 UTC).
+# Cada 3 h, a los :10 (00:10, 03:10, 06:10 … 21:10 de Argentina; en UTC es la misma grilla corrida 3 h).
+# GitHub puede demorar o saltear corridas programadas cuando tiene mucha carga.
 # Claude usa la suscripción de quien generó CLAUDE_CODE_OAUTH_TOKEN (`claude setup-token`).
 # Si la corrida falla (por ejemplo, sin límite de uso), avisa en Discord.
 
 on:
   schedule:
-    - cron: '10 3,9,15,21 * * *'
+    - cron: '10 */3 * * *'
   workflow_dispatch:
     inputs:
       max:
