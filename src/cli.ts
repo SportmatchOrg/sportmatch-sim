@@ -4,10 +4,12 @@
 //   node src/cli.ts sortear                  bajas tardías y asistencia de los partidos (dados)
 //   node src/cli.ts estado                   resumen de lo que hay en la app simulada
 //   node src/cli.ts <handle> <comando> ...   acciones de una persona (ver `ayuda`)
-import { appendFileSync, mkdirSync } from 'node:fs';
+import { appendFileSync, existsSync, mkdirSync, readFileSync } from 'node:fs';
 import { dirname, join } from 'node:path';
 import {
+  ENTORNO,
   ROOT,
+  STATE,
   api,
   ApiError,
   arquetipoDe,
@@ -252,6 +254,7 @@ const estado = () => {
   const asistencias = jugados.flatMap(([, m]) => Object.values(m.asistencia!)).length;
   console.log(
     [
+      `entorno: ${ENTORNO}`,
       `personas con cuenta: ${Object.keys(usuarios()).length}/${pool().length}`,
       `partidos registrados: ${all.length} (próximos ${futuros.length}, jugados ${jugados.length}, cancelados ${all.filter(([, m]) => m.cancelado).length})`,
       `faltas sorteadas: ${faltas}/${asistencias}`,
@@ -401,10 +404,15 @@ const comandos: Record<string, (handle: string, rest: string[]) => Promise<void>
   },
 
   async diario(handle, rest) {
+    const path = join(ROOT, STATE, 'diario', `${handle}.md`);
     const texto = rest.join(' ').trim();
-    if (!texto) throw new Error('Uso: <handle> diario "qué hizo y por qué"');
+    if (!texto) {
+      // Sin texto: muestra las últimas entradas.
+      const lineas = existsSync(path) ? readFileSync(path, 'utf8').trim().split('\n') : [];
+      console.log(lineas.slice(-8).join('\n') || 'Diario vacío: es su primera vez en la app.');
+      return;
+    }
     const ahora = new Date().toLocaleString('sv-SE', { timeZone: 'America/Argentina/Buenos_Aires' }).slice(0, 16);
-    const path = join(ROOT, 'state/diario', `${handle}.md`);
     mkdirSync(dirname(path), { recursive: true });
     appendFileSync(path, `- ${ahora} · ${texto}\n`);
     console.log('Anotado.');
@@ -459,7 +467,7 @@ const AYUDA = `Globales: hoy [--max 12] | sortear | estado
 Persona: <handle> perfil | partidos [--deporte X] [--todos] | mios | notifs [--leer]
          crear --deporte --nivel --dia --hora --lugar <n> --cupo [--desc] | unirse <id> | bajarse <id>
          solicitudes <id> | aceptar <id> <reqId> | rechazar <id> <reqId> | cancelar <id> --motivo
-         pendiente <id> | calificar <id> --puntajes uid=4,uid=5 [--comentarios '{"uid":"..."}'] | diario "texto"
+         pendiente <id> | calificar <id> --puntajes uid=4,uid=5 [--comentarios '{"uid":"..."}'] | diario ["texto"]
 Niveles: ${NIVELES.join(', ')} · Arquetipos: ${Object.keys(arquetipos()).join(', ')}`;
 
 try {

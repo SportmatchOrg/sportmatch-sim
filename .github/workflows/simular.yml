@@ -4,12 +4,21 @@ name: Corrida de usuarios simulados
 # GitHub puede demorar o saltear corridas programadas cuando tiene mucha carga.
 # Claude usa la suscripción de quien generó CLAUDE_CODE_OAUTH_TOKEN (`claude setup-token`).
 # Si la corrida falla (por ejemplo, sin límite de uso), avisa en Discord.
+#
+# Entornos: las corridas programadas recorren los de la variable SIM_ENTORNOS ("dev", "dev,prod"…;
+# sin la variable, solo dev). Cada entorno usa su URL (variables API_URL y API_URL_PROD) y su estado
+# en state/<entorno>/. A mano se puede correr uno puntual desde "Run workflow".
 
 on:
   schedule:
     - cron: '10 */3 * * *'
   workflow_dispatch:
     inputs:
+      entorno:
+        description: Entorno
+        type: choice
+        options: [dev, prod]
+        default: dev
       max:
         description: Tope de personas en esta corrida
         default: '12'
@@ -22,9 +31,30 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
+  entornos:
+    runs-on: ubuntu-latest
+    outputs:
+      lista: ${{ steps.lista.outputs.lista }}
+    steps:
+      - id: lista
+        env:
+          ELEGIDO: ${{ inputs.entorno }}
+          PROGRAMADOS: ${{ vars.SIM_ENTORNOS || 'dev' }}
+        run: |
+          echo "lista=$(echo "${ELEGIDO:-$PROGRAMADOS}" | jq -Rc 'split(",") | map(gsub(" "; "")) | map(select(length > 0))')" >> "$GITHUB_OUTPUT"
+
   corrida:
+    needs: entornos
     runs-on: ubuntu-latest
     timeout-minutes: 40
+    strategy:
+      # De a uno: cada entorno commitea su estado y no deben pisarse.
+      max-parallel: 1
+      fail-fast: false
+      matrix:
+        entorno: ${{ fromJSON(needs.entornos.outputs.lista) }}
+    env:
+      SIM_ENV: ${{ matrix.entorno }}
 
     steps:
       - uses: actions/checkout@v4
@@ -38,14 +68,23 @@ jobs:
 
       - name: Escribir .env
         env:
-          API_URL: ${{ vars.API_URL }}
+          URL_DEV: ${{ vars.API_URL }}
+          URL_PROD: ${{ vars.API_URL_PROD }}
           FIREBASE_API_KEY: ${{ secrets.FIREBASE_API_KEY }}
           BOT_PASSWORD: ${{ secrets.BOT_PASSWORD }}
         run: |
-          for var in API_URL FIREBASE_API_KEY BOT_PASSWORD; do
-            if [ -z "${!var}" ]; then echo "::error::Falta $var (API_URL es variable del repo; las otras, secretos)"; exit 1; fi
+          case "$SIM_ENV" in
+            dev) API_URL="$URL_DEV"; VAR=API_URL ;;
+            prod) API_URL="$URL_PROD"; VAR=API_URL_PROD ;;
+            *) echo "::error::Entorno desconocido: $SIM_ENV"; exit 1 ;;
+          esac
+          # Sin fallback: un entorno sin su URL no corre (nunca prod contra dev ni al revés).
+          if [ -z "$API_URL" ]; then echo "::error::Falta la variable del repo $VAR"; exit 1; fi
+          for var in FIREBASE_API_KEY BOT_PASSWORD; do
+            if [ -z "${!var}" ]; then echo "::error::Falta el secreto $var"; exit 1; fi
           done
-          printf 'API_URL=%s\nFIREBASE_API_KEY=%s\nBOT_PASSWORD=%s\n' "$API_URL" "$FIREBASE_API_KEY" "$BOT_PASSWORD" > .env
+          printf 'API_URL_%s=%s\nFIREBASE_API_KEY=%s\nBOT_PASSWORD=%s\n' \
+            "${SIM_ENV^^}" "$API_URL" "$FIREBASE_API_KEY" "$BOT_PASSWORD" > .env
 
       - name: Corrida
         id: corrida
@@ -73,7 +112,7 @@ jobs:
             echo "Sin cambios en state/."
             exit 0
           fi
-          git commit -m "sim: corrida $(TZ=America/Argentina/Buenos_Aires date '+%Y-%m-%d %H:%M')"
+          git commit -m "sim($SIM_ENV): corrida $(TZ=America/Argentina/Buenos_Aires date '+%Y-%m-%d %H:%M')"
           for intento in 1 2 3; do
             git pull --rebase -q && git push -q && exit 0
             sleep 5

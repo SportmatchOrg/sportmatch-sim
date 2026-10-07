@@ -10,7 +10,7 @@ Las cuentas usan el dominio `@sim-sportmatch.test`: para filtrar los bots en cua
 ## Setup
 
 ```
-cp .env.example .env        # API_URL, FIREBASE_API_KEY (la pública del front), BOT_PASSWORD
+cp .env.example .env        # SIM_ENV, API_URL_DEV/PROD, FIREBASE_API_KEY (la pública del front), BOT_PASSWORD
 node src/create-bots.ts     # fija el día de inicio y da de alta a las personas que ya "llegaron"
 ```
 
@@ -39,7 +39,15 @@ lanza a mano desde Actions → *Corrida de usuarios simulados* → *Run workflow
 | `FIREBASE_API_KEY` | secret | la del `.env` |
 | `BOT_PASSWORD` | secret | la del `.env` |
 | `DISCORD_WEBHOOK` | secret | webhook del canal donde avisar |
-| `API_URL` | variable | URL del back (dev o prod) |
+| `API_URL` | variable | URL del back de dev |
+| `API_URL_PROD` | variable | URL del back de prod |
+| `SIM_ENTORNOS` | variable | entornos de las corridas programadas: `dev` (default), `prod` o `dev,prod` |
+
+**Entornos.** Cada entorno tiene su propio estado (`state/dev/`, `state/prod/`) y su URL; dev, prod y local
+comparten el proyecto de Firebase, así que las cuentas de los bots son las mismas. Las corridas programadas
+recorren `SIM_ENTORNOS` de a uno; *Run workflow* deja elegir uno. Prender prod = cargar `API_URL_PROD` y
+poner `SIM_ENTORNOS=dev,prod` (o `prod`): la primera corrida fija su día de inicio y las altas arrancan
+desde ahí. Local: `SIM_ENV=prod node src/cli.ts ...` con `API_URL_PROD` en el `.env`.
 
 Para pasar de Claude Pro a pagar por uso, reemplazar `CLAUDE_CODE_OAUTH_TOKEN` por `ANTHROPIC_API_KEY` en el
 workflow.
@@ -60,16 +68,16 @@ workflow.
   finde, se-va, vuelve, fantasma.
 - `personas/lugares.json` — las canchas donde se pueden armar partidos, con coordenadas y deportes.
 
-## Estado (`state/`)
+## Estado (`state/<entorno>/`)
 
-Arranca vacío y lo va llenando la simulación:
+Uno por entorno. Arranca vacío y lo va llenando la simulación:
 
 - `inicio.json` — el día en que arrancó (lo crea el primer `create-bots`)
 - `usuarios.json` — handle → id del usuario en el back
 - `partidos.json` — partidos de los bots: jugadores, solicitudes pendientes, asistencia sorteada, quién califica
-- `diario/<handle>.md` — lo que hizo cada persona (lo escribe `cli.ts <handle> diario`); Claude lo lee en la corrida siguiente
+- `diario/<handle>.md` — lo que hizo cada persona (`cli.ts <handle> diario "..."` escribe; sin texto, lee)
 - `acciones.log` — cada acción contra la API, con fecha
-- `.tokens.json` — tokens de Firebase en caché (no se versiona)
+- `state/.tokens.json` — tokens de Firebase en caché, compartidos entre entornos (no se versiona)
 
-Para empezar de cero: borrar las cuentas `@sim-sportmatch.test` en Firebase, sus filas en la base, y
-vaciar `state/` (dejando `.gitkeep`).
+Para empezar de cero un entorno: borrar las filas de los bots en su base y vaciar `state/<entorno>/`. Las
+cuentas de Firebase se comparten entre entornos: borrarlas solo si se reinician todos.

@@ -22,7 +22,15 @@ const env = (name: string): string => {
   return value;
 };
 
-export const API_URL = () => env('API_URL').replace(/\/$/, '');
+/** Entorno contra el que corre la simulación. Cada uno tiene su propia URL y su propio estado. */
+export const ENTORNO = process.env.SIM_ENV || 'dev';
+if (!/^[a-z]+$/.test(ENTORNO)) throw new Error(`SIM_ENV inválido: ${ENTORNO}`);
+
+/** Carpeta de estado del entorno: state/dev, state/prod… */
+export const STATE = `state/${ENTORNO}`;
+
+// API_URL_DEV, API_URL_PROD… Sin fallback a otra URL: correr prod contra dev (o al revés) mezcla estados.
+export const API_URL = () => env(`API_URL_${ENTORNO.toUpperCase()}`).replace(/\/$/, '');
 
 // --- archivos -------------------------------------------------------------
 
@@ -38,7 +46,7 @@ export const writeJson = (relPath: string, data: unknown) => {
 };
 
 export const log = (line: string) => {
-  const path = join(ROOT, 'state/acciones.log');
+  const path = join(ROOT, STATE, 'acciones.log');
   mkdirSync(dirname(path), { recursive: true });
   appendFileSync(path, `${new Date().toISOString()} ${line}\n`);
 };
@@ -53,7 +61,7 @@ export type Persona = {
   deportes: string[];
   zona: string;
   rasgo: string;
-  /** días desde el inicio de la simulación (state/inicio.json) en que se crea la cuenta */
+  /** días desde el inicio de la simulación (state/<entorno>/inicio.json) en que se crea la cuenta */
   diaLlegada: number;
   /** fecha calculada: inicio + diaLlegada */
   llegada: string;
@@ -79,7 +87,7 @@ export type Arquetipo = {
 };
 
 /** Fecha en que arrancó la simulación; la fija el primer create-bots. */
-export const inicio = (): string | null => readJson<{ fecha: string } | null>('state/inicio.json', null)?.fecha ?? null;
+export const inicio = (): string | null => readJson<{ fecha: string } | null>(`${STATE}/inicio.json`, null)?.fecha ?? null;
 
 const sumarDias = (fecha: string, dias: number) =>
   new Date(Date.parse(fecha) + dias * 86_400_000).toISOString().slice(0, 10);
@@ -126,12 +134,12 @@ export type PartidoRegistrado = {
   cancelado: boolean;
 };
 
-export const usuarios = (): Usuarios => readJson('state/usuarios.json', {});
-export const guardarUsuarios = (data: Usuarios) => writeJson('state/usuarios.json', data);
+export const usuarios = (): Usuarios => readJson(`${STATE}/usuarios.json`, {});
+export const guardarUsuarios = (data: Usuarios) => writeJson(`${STATE}/usuarios.json`, data);
 export const partidos = (): Record<string, PartidoRegistrado> =>
-  readJson('state/partidos.json', {});
+  readJson(`${STATE}/partidos.json`, {});
 export const guardarPartidos = (data: Record<string, PartidoRegistrado>) =>
-  writeJson('state/partidos.json', data);
+  writeJson(`${STATE}/partidos.json`, data);
 
 export const handlePorUserId = (): Record<string, string> =>
   Object.fromEntries(Object.entries(usuarios()).map(([handle, id]) => [id, handle]));

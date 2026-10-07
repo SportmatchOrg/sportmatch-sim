@@ -23,8 +23,8 @@ if (path && existsSync(path) && readFileSync(path, 'utf8').trim()) {
 const hora = new Date().toLocaleString('es-AR', { timeZone: 'America/Argentina/Buenos_Aires' });
 const content = [
   sinLimite
-    ? `⚠️ **sportmatch-sim**: la corrida de las ${hora} no se hizo — la cuenta de Claude se quedó sin límite de uso.`
-    : `❌ **sportmatch-sim**: la corrida de las ${hora} falló.`,
+    ? `⚠️ **sportmatch-sim (${process.env.SIM_ENV ?? 'dev'})**: la corrida de las ${hora} no se hizo — la cuenta de Claude se quedó sin límite de uso.`
+    : `❌ **sportmatch-sim (${process.env.SIM_ENV ?? 'dev'})**: la corrida de las ${hora} falló.`,
   `> ${detalle}`,
   process.env.RUN_URL ?? '',
 ].join('\n');

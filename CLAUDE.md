@@ -13,7 +13,7 @@ partido, si se baja tarde, si le toca organizar o unirse hoy) ya lo sortea el CL
 2. `node src/cli.ts hoy --max 12` — quiénes entran y qué les toca. Si dice "Altas pendientes", corré el comando que
    indica (`node src/create-bots.ts ...`) y después `hoy` de nuevo.
 3. Por cada persona que entra, una por vez:
-   1. Leé `state/diario/<handle>.md` si existe (sus últimas entradas alcanzan).
+   1. `node src/cli.ts <handle> diario` (sin texto) muestra sus últimas entradas: lo que hizo antes.
    2. `node src/cli.ts <handle> notifs --leer` (casi siempre; un ocasional a veces no las lee: omitilo).
    3. Hacé primero lo que dice **tiene que**:
       - *revisar solicitudes*: `solicitudes <id>` y `aceptar`/`rechazar`. Según el arquetipo: la mayoría acepta

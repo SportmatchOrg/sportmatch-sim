@@ -1,13 +1,13 @@
 // Alta de las cuentas de Firebase de las personas y registro de su id en el back.
 // Uso: node src/create-bots.ts [handle ...]   (sin argumentos: todas las que ya llegaron)
 // También sincroniza el nombre si cambió en personas/pool.json.
-import { actualizarNombre, api, guardarUsuarios, hoyAR, inicio, pool, signUp, usuarios, writeJson } from './lib.ts';
+import { ENTORNO, STATE, actualizarNombre, api, guardarUsuarios, hoyAR, inicio, pool, signUp, usuarios, writeJson } from './lib.ts';
 
 const handles = process.argv.slice(2);
 const hoy = hoyAR();
 if (!inicio()) {
-  writeJson('state/inicio.json', { fecha: hoy });
-  console.log(`Simulación iniciada el ${hoy}.`);
+  writeJson(`${STATE}/inicio.json`, { fecha: hoy });
+  console.log(`Simulación en ${ENTORNO} iniciada el ${hoy}.`);
 }
 const objetivo = pool().filter((p) =>
   handles.length ? handles.includes(p.handle) : p.llegada <= hoy,
