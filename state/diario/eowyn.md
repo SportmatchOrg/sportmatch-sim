@@ -1,1 +1,2 @@
 - 2026-10-07 00:01 · miró partidos, no había de running, básquet ni pádel
+- 2026-10-07 07:10 · pidió unirse al pádel del viernes en Club Belgrano (le gusta sumarse a todo)

@@ -2,11 +2,10 @@
   "cmuxea1ur00ba01s4qehkgppd": {
     "jugadores": [
       "bellatrix.lestrange",
-      "fred.weasley"
-    ],
-    "pendientes": [
+      "fred.weasley",
       "pippin.tuk"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -32,7 +31,9 @@
   },
   "cmuxjf8eb00d901s43adfk92w": {
     "jugadores": [],
-    "pendientes": [],
+    "pendientes": [
+      "eowyn"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
