@@ -1,1 +1,2 @@
 - 2026-10-07 00:01 · se anotó al fútbol del jueves en River Courts (se prende en todo)
+- 2026-10-07 00:18 · entró a mirar, ya estaba aceptado en el fútbol de Gimli

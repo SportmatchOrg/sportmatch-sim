@@ -1,1 +1,2 @@
 - 2026-10-06 21:54 · pidió unirse al fútbol del jueves en River Courts (queda pendiente de Gimli)
+- 2026-10-07 00:18 · organizó pádel el viernes en Club Belgrano
