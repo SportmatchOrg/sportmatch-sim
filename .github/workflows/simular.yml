@@ -7,7 +7,7 @@ name: Corrida de usuarios simulados
 #
 # Entornos: las corridas programadas recorren los de la variable SIM_ENTORNOS ("dev", "dev,prod"…;
 # sin la variable, solo dev). Cada entorno usa su URL (variables API_URL y API_URL_PROD) y su estado
-# en state/<entorno>/. A mano se puede correr uno puntual desde "Run workflow".
+# en state/<entorno>/. A mano, desde "Run workflow": los dos (uno detrás del otro) o uno puntual.
 
 on:
   schedule:
@@ -15,12 +15,12 @@ on:
   workflow_dispatch:
     inputs:
       entorno:
-        description: Entorno
+        description: Entorno (dev,prod corre los dos, uno detrás del otro)
         type: choice
-        options: [dev, prod]
-        default: dev
+        options: ['dev,prod', dev, prod]
+        default: 'dev,prod'
       max:
-        description: Tope de personas en esta corrida
+        description: Tope de personas por entorno en esta corrida
         default: '12'
 
 permissions:

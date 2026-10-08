@@ -46,7 +46,7 @@ lanza a mano desde Actions → *Corrida de usuarios simulados* → *Run workflow
 
 **Entornos.** Cada entorno tiene su propio estado (`state/dev/`, `state/prod/`) y su URL; dev, prod y local
 comparten el proyecto de Firebase, así que las cuentas de los bots son las mismas. Las corridas programadas
-recorren `SIM_ENTORNOS` de a uno; *Run workflow* deja elegir uno. Prender prod = cargar `API_URL_PROD` y
+recorren `SIM_ENTORNOS` de a uno; *Run workflow* corre `dev,prod` (los dos, uno detrás del otro) o uno solo. Prender prod = cargar `API_URL_PROD` y
 poner `SIM_ENTORNOS=dev,prod` (o `prod`): la primera corrida fija su día de inicio y las altas arrancan
 desde ahí. Local: `SIM_ENV=prod node src/cli.ts ...` con `API_URL_PROD` en el `.env`.
 
