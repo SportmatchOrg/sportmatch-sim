@@ -6,3 +6,4 @@
 - 2026-10-07 00:38 · aceptó a Rubeus Hagrid en su futbol del vie 09/10 22:00
 - 2026-10-07 22:38 · calificó el partido y se anotó al fútbol del lunes en Campus Austral (competitivo, busca ganar)
 - 2026-10-08 15:40 · aceptó a Gimli en su fútbol del viernes y pidió unirse al fútbol del martes en Club Pilar (competitiva)
+- 2026-10-08 15:49 · aceptó a Marty McFly en su fútbol y pidió unirse al fútbol del jueves en River Courts (competitiva)

@@ -5,3 +5,4 @@
 - 2026-10-05 21:55 · pidió unirse al futbol de Hermione Granger del sáb 10/10 10:00 en Club Pilar · Cancha 2
 - 2026-10-06 03:26 · pidió unirse al futbol de Sam Gamyi del mié 07/10 21:00 en River Courts · Cancha 2
 - 2026-10-07 21:35 · calificó el futbol del mié 07/10 21:00
+- 2026-10-08 15:50 · pidió unirse al fútbol del viernes 20:30 en Fútbol 5 Nordelta (puntual, organizado)

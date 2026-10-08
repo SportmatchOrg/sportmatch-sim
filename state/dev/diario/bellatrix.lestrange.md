@@ -50,3 +50,4 @@
 - 2026-10-07 22:38 · en realidad ya estaba anotada a Nordelta; probó otro fútbol de River Courts del viernes
 - 2026-10-08 07:29 · aceptó a Yoda en su pádel y pidió sumarse al fútbol ADVANCED de Steve en Pilar
 - 2026-10-08 15:40 · aceptó a Sam y a Éowyn en su pádel del domingo en Belgrano; nada más
+- 2026-10-08 15:51 · leyó notificaciones y miró partidos; hoy nada nuevo
