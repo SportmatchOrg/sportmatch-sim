@@ -1,0 +1,1 @@
+- 2026-10-08 15:40 · armó fútbol ADVANCED el lunes 21 h en Club Pilar (después del trabajo)

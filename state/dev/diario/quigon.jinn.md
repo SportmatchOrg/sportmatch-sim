@@ -13,3 +13,4 @@
 - 2026-10-06 00:43 · calificó el padel del lun 05/10 22:00 (reportó que faltó Jon Snow)
 - 2026-10-06 09:48 · aceptó a Davy Jones en su running del jue 08/10 20:30
 - 2026-10-08 07:29 · pidió unirse al pádel del viernes en Tigre (para arrancar el finde)
+- 2026-10-08 15:40 · leyó que Mace lo aceptó en el pádel del viernes; no se anotó a nada más

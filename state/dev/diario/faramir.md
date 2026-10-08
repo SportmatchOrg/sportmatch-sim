@@ -18,3 +18,4 @@
 - 2026-10-04 12:49 · aceptó a Qui-Gon Jinn en su padel del sáb 10/10 09:30
 - 2026-10-04 12:49 · rechazó a Yoda en su padel del sáb 10/10 09:30
 - 2026-10-04 12:49 · aceptó a Bellatrix Lestrange en su padel del sáb 10/10 09:30
+- 2026-10-08 15:40 · armó un running tranqui el domingo 9 h en Parque Pilar (para despejarse)

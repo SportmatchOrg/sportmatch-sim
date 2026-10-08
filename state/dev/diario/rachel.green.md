@@ -1,0 +1,1 @@
+- 2026-10-08 15:40 · primera vez en la app, miró partidos y no se anotó a nada

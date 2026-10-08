@@ -22,3 +22,4 @@
 - 2026-10-06 09:48 · aceptó a Fred Weasley en su futbol del sáb 10/10 10:00
 - 2026-10-06 09:48 · aceptó a Chewbacca en su futbol del sáb 10/10 10:00
 - 2026-10-06 21:43 · aceptó a Harry Potter en su futbol del sáb 10/10 10:00
+- 2026-10-08 15:40 · aceptó a Rubeus en su fútbol del sábado a la mañana; nada más

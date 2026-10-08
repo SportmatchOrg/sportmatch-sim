@@ -50,10 +50,10 @@
     "cupo": 4
   },
   "cmuyedmrm00ef01s4i53e7753": {
-    "jugadores": [],
-    "pendientes": [
+    "jugadores": [
       "bellatrix.lestrange"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -82,7 +82,9 @@
   },
   "cmuykguqj00fr01s4wy2wxijc": {
     "jugadores": [
-      "yoda"
+      "yoda",
+      "sam.gamyi",
+      "eowyn"
     ],
     "pendientes": [],
     "bajasSorteadas": false,
@@ -97,11 +99,10 @@
   },
   "cmuyma6ku00h701s4i5bxb1xj": {
     "jugadores": [
-      "chewbacca"
-    ],
-    "pendientes": [
+      "chewbacca",
       "quigon.jinn"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -793,11 +794,10 @@
       "steve.rogers",
       "fred.weasley",
       "chewbacca",
-      "harry.potter"
-    ],
-    "pendientes": [
+      "harry.potter",
       "rubeus.hagrid"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -990,10 +990,11 @@
     "cupo": 9,
     "jugadores": [
       "bellatrix.lestrange",
-      "rubeus.hagrid"
+      "rubeus.hagrid",
+      "gimli"
     ],
     "pendientes": [
-      "gimli"
+      "marty.mcfly"
     ],
     "bajasSorteadas": false,
     "asistencia": null,
@@ -1076,10 +1077,10 @@
     "cancelSorteado": true
   },
   "cmuyvb95v00mh01s4mcmxkmxj": {
-    "jugadores": [],
-    "pendientes": [
+    "jugadores": [
       "eowyn"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -1093,7 +1094,10 @@
   },
   "cmuze9f8x00qm01s4i38ludmf": {
     "jugadores": [],
-    "pendientes": [],
+    "pendientes": [
+      "padme.amidala",
+      "sirius.black"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -1118,5 +1122,33 @@
     "deporte": "TENIS",
     "cupo": 3,
     "creado": "2026-10-08T10:29:14.753Z"
+  },
+  "cmuzvslwc00ty01s41ntvmal2": {
+    "jugadores": [],
+    "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "faramir",
+    "fecha": "2026-10-11T12:00:00.000Z",
+    "deporte": "RUNNING",
+    "cupo": 5,
+    "creado": "2026-10-08T18:39:59.379Z"
+  },
+  "cmuzvsynx00u701s45m9dngjg": {
+    "jugadores": [],
+    "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "hector.barbossa",
+    "fecha": "2026-10-13T00:00:00.000Z",
+    "deporte": "FUTBOL",
+    "cupo": 9,
+    "creado": "2026-10-08T18:40:15.917Z"
   }
 }
