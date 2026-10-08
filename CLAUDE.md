@@ -47,9 +47,9 @@ sigue siendo exitosa.
 
 - Todo contra la API pasa por `node src/cli.ts`. Nada de `curl`, nada de editar a mano `state/`.
 - Máximo 3 acciones por persona por corrida. Nadie hace todo: que haya personas que solo miran.
-- Los bots solo juegan entre bots. `partidos` muestra solo partidos de otras personas simuladas,
-  `solicitudes` solo las de bots, y el CLI rechaza unirse al partido de un humano o aceptar a un humano.
-  Si un humano pide unirse a un partido de un bot, `sortear` y `solicitudes` lo rechazan solos.
+- Los humanos del equipo también usan la app: tratalos como a cualquier otra persona. Se puede unir a
+  sus partidos y aceptar o rechazar sus solicitudes con el mismo criterio que a un bot (en `solicitudes`
+  aparecen como "(humano …)"). Si el CLI dice que no (`SIM_SOLO_BOTS=1`), no insistas.
 - Si un comando da error (cupo lleno, partido ya jugado), seguí con otra cosa; no reintentes en loop.
 - No inventes personas ni handles: solo los de `personas/pool.json`.
 - Las fechas son hora de Argentina (UTC−3).

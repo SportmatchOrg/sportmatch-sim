@@ -26,6 +26,12 @@ const env = (name: string): string => {
 export const ENTORNO = process.env.SIM_ENV || 'dev';
 if (!/^[a-z]+$/.test(ENTORNO)) throw new Error(`SIM_ENV inválido: ${ENTORNO}`);
 
+/**
+ * SIM_SOLO_BOTS=1: los bots solo juegan entre bots (no se unen a partidos de humanos y rechazan las
+ * solicitudes de humanos). Por defecto apagado: los bots tratan a los humanos como a cualquiera.
+ */
+export const SOLO_BOTS = process.env.SIM_SOLO_BOTS === '1';
+
 /** Carpeta de estado del entorno: state/dev, state/prod… */
 export const STATE = `state/${ENTORNO}`;
 
@@ -128,6 +134,7 @@ export const activa = (p: Persona, dia: string, diaSemana: number) => {
 export type Usuarios = Record<string, string>;
 
 export type PartidoRegistrado = {
+  /** handle del bot que lo organiza, o `humano:<userId>` si es de un humano y se unió algún bot */
   organizador: string;
   fecha: string;
   deporte: string;
@@ -136,6 +143,10 @@ export type PartidoRegistrado = {
   jugadores: string[];
   /** handles con solicitud pendiente */
   pendientes: string[];
+  /** solicitudes pendientes de humanos (las cuenta `sortear`; el organizador las revisa como las demás) */
+  pendientesHumanos?: number;
+  /** participantes en la API, bots y humanos (lo actualiza `sortear`) */
+  anotados?: number;
   bajasSorteadas: boolean;
   /** handle → fue o no; se completa cuando el partido ya se jugó */
   asistencia: Record<string, boolean> | null;

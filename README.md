@@ -42,6 +42,7 @@ lanza a mano desde Actions → *Corrida de usuarios simulados* → *Run workflow
 | `API_URL` | variable | URL del back de dev |
 | `API_URL_PROD` | variable | URL del back de prod |
 | `SIM_ENTORNOS` | variable | entornos de las corridas programadas: `dev` (default), `prod` o `dev,prod` |
+| `SIM_SOLO_BOTS` | variable | `1`: los bots solo juegan entre bots y rechazan a los humanos. Vacío o `0` (default): también juegan con los humanos del equipo |
 
 **Entornos.** Cada entorno tiene su propio estado (`state/dev/`, `state/prod/`) y su URL; dev, prod y local
 comparten el proyecto de Firebase, así que las cuentas de los bots son las mismas. Las corridas programadas

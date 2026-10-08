@@ -13,6 +13,7 @@ import {
   api,
   ApiError,
   CUPOS,
+  SOLO_BOTS,
   activa,
   arquetipoDe,
   arquetipos,
@@ -76,9 +77,11 @@ const userIdDe = async (handle: string) => {
 
 const nombreDe = (userId: string) => handlePorUserId()[userId] ?? `(humano ${userId.slice(-4)})`;
 
-// Los bots solo juegan entre bots: nunca se unen a un partido de un humano ni aceptan a un humano en
-// el suyo. Así ninguna acción simulada se mezcla con cuentas reales en los KPIs (dev y prod).
 const esBot = (userId: string) => userId in handlePorUserId();
+/** Partidos de humanos a los que se unió algún bot: se registran como `humano:<userId>`. */
+const esDeHumano = (organizador: string) => organizador.startsWith('humano:');
+// Con SIM_SOLO_BOTS=1 los bots solo juegan entre bots; por defecto también con humanos.
+const permitido = (userId: string) => !SOLO_BOTS || esBot(userId);
 
 /** Rechaza las solicitudes pendientes de humanos a un partido de un bot (les llega la notificación). */
 const rechazarHumanos = async (organizador: string, id: string, reqs: any[]) => {
@@ -150,20 +153,21 @@ const hoy = () => {
     for (const [id, m] of Object.entries(registro)) {
       if (m.cancelado) continue;
       const empieza = Date.parse(m.fecha);
-      if (m.organizador === p.handle && m.pendientes.length && empieza > ahora)
-        obligatorio.push(`revisar solicitudes del partido ${id} (${m.pendientes.length})`);
+      const porRevisar = m.pendientes.length + (m.pendientesHumanos ?? 0);
+      if (m.organizador === p.handle && porRevisar && empieza > ahora)
+        obligatorio.push(`revisar solicitudes del partido ${id} (${porRevisar})`);
       if (m.calificaran.includes(p.handle) && !m.calificaron.includes(p.handle))
         obligatorio.push(`calificar el partido ${id}`);
       // Partido a menos de 24 h que no llega a la mitad del cupo: el organizador puede cancelarlo.
       // Se sortea una sola vez por partido; si no, con 8 corridas por día casi todos terminan cancelados.
-      const vacio = m.cupo !== undefined && m.jugadores.length + 1 < m.cupo / 2;
+      const vacio = m.cupo !== undefined && (m.anotados ?? m.jugadores.length) + 1 < m.cupo / 2;
       if (m.organizador === p.handle && vacio && empieza > ahora && empieza - ahora < 24 * HORA && !m.cancelSorteado) {
         m.cancelSorteado = true;
         m.cancelar = tirar(a.p_cancelar);
         sorteoNuevo = true;
       }
       if (m.organizador === p.handle && m.cancelar && empieza > ahora)
-        obligatorio.push(`cancelar el partido ${id}: va ${m.jugadores.length}/${m.cupo} y no se llena`);
+        obligatorio.push(`cancelar el partido ${id}: va ${m.anotados ?? m.jugadores.length}/${m.cupo} y no se llena`);
     }
 
     const prob = esActiva ? a.actividad : p.llegada <= dia ? (a.p_volver ?? 0.03) : 0;
@@ -204,10 +208,17 @@ const sortear = async () => {
   for (const [id, m] of Object.entries(all)) {
     if (m.cancelado || m.asistencia) continue;
     const empieza = Date.parse(m.fecha);
+    const deHumano = esDeHumano(m.organizador);
+    // En un partido de humano se lee con el token de un bot anotado; si ya no queda ninguno, se deja de seguir.
+    const lector = deHumano ? [...m.jugadores, ...m.pendientes][0] : m.organizador;
+    if (!lector) {
+      delete all[id];
+      continue;
+    }
 
     let detalle: any;
     try {
-      detalle = await api(m.organizador, 'GET', `/matches/${id}`);
+      detalle = await api(lector, 'GET', `/matches/${id}`);
     } catch (error) {
       if (error instanceof ApiError && error.status === 404) {
         m.cancelado = true;
@@ -219,16 +230,36 @@ const sortear = async () => {
       m.cancelado = true;
       continue;
     }
-    if (empieza > ahora) {
+    if (empieza > ahora && !deHumano) {
       const reqs = await api<any[]>(m.organizador, 'GET', `/matches/${id}/join-requests`);
-      const rechazadas = await rechazarHumanos(m.organizador, id, reqs);
-      if (rechazadas) resumen.push(`${id}: ${rechazadas} solicitudes de humanos rechazadas`);
+      if (SOLO_BOTS) {
+        const rechazadas = await rechazarHumanos(m.organizador, id, reqs);
+        if (rechazadas) resumen.push(`${id}: ${rechazadas} solicitudes de humanos rechazadas`);
+        m.pendientesHumanos = 0;
+      } else {
+        m.pendientesHumanos = reqs.filter((r) => r.status === 'PENDING' && !esBot(r.userId)).length;
+      }
     }
 
     const porId = handlePorUserId();
+    m.anotados = (detalle.participants ?? []).length;
     m.jugadores = (detalle.participants ?? [])
       .map((x: any) => porId[x.user?.id ?? x.id])
       .filter(Boolean);
+
+    if (deHumano) {
+      // Las solicitudes de los bots las resuelve el humano: se sacan las que ya no están pendientes.
+      const siguen: string[] = [];
+      for (const h of m.pendientes.filter((h) => !m.jugadores.includes(h))) {
+        const visto = await api(h, 'GET', `/matches/${id}`);
+        if ((visto.myJoinRequest?.status ?? visto.myJoinRequest) === 'PENDING') siguen.push(h);
+      }
+      m.pendientes = empieza > ahora ? siguen : [];
+      if (!m.jugadores.length && !m.pendientes.length) {
+        delete all[id];
+        continue;
+      }
+    }
 
     // Bajas tardías: en las 2 h previas al partido.
     if (!m.bajasSorteadas && empieza > ahora && empieza - ahora < BAJA_TARDE_MS) {
@@ -245,7 +276,8 @@ const sortear = async () => {
 
     // Asistencia: cuando el partido ya se jugó.
     if (empieza <= ahora) {
-      m.asistencia = { [m.organizador]: true };
+      // El organizador siempre va; si es humano no se sortea nada por él.
+      m.asistencia = deHumano ? {} : { [m.organizador]: true };
       for (const handle of m.jugadores)
         m.asistencia[handle] = !tirar(arquetipoDe(persona(handle)).p_noShow);
       // Califican los que fueron, según su p_calificar, dentro de la ventana de 48 h.
@@ -301,7 +333,7 @@ const comandos: Record<string, (handle: string, rest: string[]) => Promise<void>
     const lista = (await api<any[]>(handle, 'GET', '/matches')).filter(
       (m) => !deporte || m.sport?.name === deporte.toUpperCase(),
     );
-    const visibles = lista.filter((m) => esBot(m.organizerId));
+    const visibles = lista.filter((m) => permitido(m.organizerId));
     console.log(visibles.map((m) => linea(m, viewer)).join('\n') || 'No hay partidos próximos.');
   },
 
@@ -347,26 +379,32 @@ const comandos: Record<string, (handle: string, rest: string[]) => Promise<void>
   async unirse(handle, [id]) {
     const m = await api(handle, 'GET', `/matches/${id}`);
     const organizador = handlePorUserId()[m.organizerId];
-    if (!organizador) throw new Error(`El partido ${id} lo organiza un humano: los bots solo se unen a partidos de bots.`);
+    if (!permitido(m.organizerId))
+      throw new Error(`El partido ${id} lo organiza un humano y SIM_SOLO_BOTS=1: los bots solo se unen a partidos de bots.`);
     const req = await api(handle, 'POST', `/matches/${id}/join-requests`);
-    registrar(id, { organizador, fecha: m.date, deporte: m.sport.name, cupo: m.capacity });
+    // Los partidos de humanos también se registran: así se sortean bajas, asistencia y calificaciones
+    // de los bots que juegan ahí, igual que en los de bots.
+    registrar(id, { organizador: organizador ?? `humano:${m.organizerId}`, fecha: m.date, deporte: m.sport.name, cupo: m.capacity });
     actualizar(id, (p) => void (p.pendientes = [...new Set([...p.pendientes, handle])]));
     log(`${handle} unirse ${id}`);
-    console.log(`Solicitud enviada (${req.status}). La tiene que aceptar ${organizador}.`);
+    console.log(`Solicitud enviada (${req.status}). La tiene que aceptar ${organizador ?? m.organizer?.name ?? 'el organizador (humano)'}.`);
   },
 
   async solicitudes(handle, [id]) {
     const reqs = await api<any[]>(handle, 'GET', `/matches/${id}/join-requests`);
-    // Las de humanos se rechazan solas: los bots solo juegan con bots.
-    const rechazadas = await rechazarHumanos(handle, id, reqs);
+    // Con SIM_SOLO_BOTS=1 las de humanos se rechazan solas; si no, se revisan como las demás.
+    const rechazadas = SOLO_BOTS ? await rechazarHumanos(handle, id, reqs) : 0;
     if (rechazadas) console.log(`(${rechazadas} solicitudes de humanos rechazadas)`);
-    const pendientes = reqs.filter((r) => r.status === 'PENDING' && esBot(r.userId));
+    const pendientes = reqs.filter((r) => r.status === 'PENDING' && permitido(r.userId));
     console.log(
       pendientes.map((r) => `${r.id} · ${r.user?.name ?? nombreDe(r.userId)} (${nombreDe(r.userId)})`).join('\n') ||
         'No hay solicitudes pendientes.',
     );
     const enApi = new Set(pendientes.map((r) => handlePorUserId()[r.userId]).filter(Boolean));
-    actualizar(id, (p) => void (p.pendientes = p.pendientes.filter((h) => enApi.has(h))));
+    actualizar(id, (p) => {
+      p.pendientes = p.pendientes.filter((h) => enApi.has(h));
+      p.pendientesHumanos = pendientes.filter((r) => !esBot(r.userId)).length;
+    });
   },
 
   async aceptar(handle, [id, reqId]) {
@@ -461,12 +499,13 @@ const resolver = async (handle: string, id: string, reqId: string, status: 'ACCE
   const reqs = await api<any[]>(handle, 'GET', `/matches/${id}/join-requests`);
   const req = reqs.find((r) => r.id === reqId);
   if (!req) throw new Error(`No existe la solicitud ${reqId}`);
-  if (status === 'ACCEPTED' && !esBot(req.userId))
-    throw new Error(`La solicitud ${reqId} es de un humano: los bots nunca aceptan humanos.`);
+  if (status === 'ACCEPTED' && !permitido(req.userId))
+    throw new Error(`La solicitud ${reqId} es de un humano y SIM_SOLO_BOTS=1: los bots no aceptan humanos.`);
   await api(handle, 'PATCH', `/matches/${id}/join-requests/${reqId}`, { status });
   const quien = handlePorUserId()[req.userId];
   actualizar(id, (p) => {
     p.pendientes = p.pendientes.filter((h) => h !== quien);
+    if (!quien) p.pendientesHumanos = Math.max(0, (p.pendientesHumanos ?? 1) - 1);
     if (status === 'ACCEPTED' && quien) p.jugadores = [...new Set([...p.jugadores, quien])];
   });
   log(`${handle} ${status === 'ACCEPTED' ? 'aceptar' : 'rechazar'} ${id} ${quien ?? req.userId}`);

@@ -457,7 +457,8 @@ console.log(`\norganizan: ${[...porArquetipo].sort((a, b) => b[1] - a[1]).map(([
   const plantel = activos.reduce((n, m) => n + 1 + m.jugadores.size, 0);
   const faltas = activos.reduce((n, m) => n + Object.values(m.asistencia ?? {}).filter((f) => !f).length, 0);
   const pct = (a: number, b: number) => (b ? Math.round((100 * a) / b) : NaN);
-  console.log(`KPIS completion=${pct(activos.filter((m) => m.lleno).length, activos.length)}% ` +
+  // Como el back: lleno = participantes actuales >= cupo (una baja tardía lo vuelve a abrir).
+  console.log(`KPIS completion=${pct(activos.filter((m) => m.jugadores.size >= m.cupo).length, activos.length)}% ` +
     `cancel=${pct(cohorte.length - activos.length, cohorte.length)}% ttf=${ttf.length ? ttf[Math.floor(ttf.length / 2)].toFixed(0) : '-'}h ` +
     `ocupacion=${pct(activos.reduce((n, m) => n + m.jugadores.size, 0), activos.reduce((n, m) => n + m.cupo, 0))}% ` +
     `noshow=${pct(faltas, plantel)}% jugados=${activos.length} jugadores/partido=${(plantel / Math.max(1, activos.length)).toFixed(1)}`);
