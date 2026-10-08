@@ -31,3 +31,4 @@
 - 2026-10-07 21:35 · calificó el futbol del mié 07/10 21:00
 - 2026-10-07 22:38 · armó pádel el lunes 20 h en Club Belgrano (principiante con ganas de jugar)
 - 2026-10-08 15:40 · aceptó a Éowyn en su pádel del lunes y pidió unirse al pádel del domingo en Belgrano (principiante con ganas)
+- 2026-10-08 18:33 · pidió unirse al pádel del viernes en Belgrano (principiante con ganas)

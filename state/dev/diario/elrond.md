@@ -42,3 +42,4 @@
 - 2026-10-07 17:34 · aceptó a Ron en su partido y armó fútbol el viernes 20:30 en Fútbol 5 Nordelta
 - 2026-10-07 18:25 · aceptó a Mace y Bellatrix en su partido de fútbol
 - 2026-10-07 22:38 · pidió unirse al fútbol del jueves en River Courts (relajado, para despejarse)
+- 2026-10-08 18:32 · aceptó a Théoden en su fútbol del viernes en Nordelta

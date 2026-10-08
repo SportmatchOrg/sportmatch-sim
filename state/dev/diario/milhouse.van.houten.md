@@ -8,3 +8,4 @@
 - 2026-10-06 18:31 · aceptó a Boromir en su basquet del vie 09/10 20:00
 - 2026-10-06 21:43 · aceptó a Davy Jones en su basquet del vie 09/10 20:00
 - 2026-10-07 14:44 · miró la app, todavía no se anima
+- 2026-10-08 18:33 · miró la app, sigue sin animarse a nada nuevo

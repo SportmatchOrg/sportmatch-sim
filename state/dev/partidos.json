@@ -4,11 +4,10 @@
       "bellatrix.lestrange",
       "fred.weasley",
       "pippin.tuk",
-      "elrond"
-    ],
-    "pendientes": [
+      "elrond",
       "padme.amidala"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -19,7 +18,8 @@
     "deporte": "FUTBOL",
     "cupo": 10,
     "cancelSorteado": true,
-    "cancelar": false
+    "cancelar": false,
+    "pendientesHumanos": 0
   },
   "cmuxjf6al00d601s4bz3z5bya": {
     "jugadores": [
@@ -40,7 +40,9 @@
     "jugadores": [
       "eowyn"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "sam.gamyi"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -55,7 +57,9 @@
     "jugadores": [
       "bellatrix.lestrange"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "jon.snow"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -69,10 +73,11 @@
   "cmuykg6rc00fa01s43ihz3ef6": {
     "jugadores": [
       "mace.windu",
-      "bellatrix.lestrange"
+      "bellatrix.lestrange",
+      "theoden"
     ],
     "pendientes": [
-      "theoden"
+      "obiwan.kenobi"
     ],
     "bajasSorteadas": false,
     "asistencia": null,
@@ -82,7 +87,8 @@
     "organizador": "elrond",
     "fecha": "2026-10-09T23:30:00.000Z",
     "deporte": "FUTBOL",
-    "cupo": 10
+    "cupo": 10,
+    "pendientesHumanos": 0
   },
   "cmuykguqj00fr01s4wy2wxijc": {
     "jugadores": [
@@ -707,14 +713,15 @@
   },
   "c813cx4fo2jzpea9yko0ytmkc": {
     "organizador": "bellatrix.lestrange",
-    "fecha": "2026-10-10T00:30:00.000Z",
+    "fecha": "2026-10-09T21:30:00.000Z",
     "deporte": "FUTBOL",
     "cupo": 9,
     "jugadores": [
       "pippin.tuk",
       "nemo",
       "theoden",
-      "sam.gamyi"
+      "sam.gamyi",
+      "gimli"
     ],
     "pendientes": [],
     "bajasSorteadas": false,
@@ -723,7 +730,8 @@
     "calificaron": [],
     "cancelado": false,
     "creado": "2026-10-04T06:17:20.000Z",
-    "cancelSorteado": false
+    "cancelSorteado": false,
+    "pendientesHumanos": 0
   },
   "cp2jdug2xa3e8xfz92irf8and": {
     "organizador": "harley.quinn",
@@ -1083,7 +1091,9 @@
     "jugadores": [
       "eowyn"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "bellatrix.lestrange"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -1100,7 +1110,11 @@
       "padme.amidala",
       "sirius.black"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "fred.weasley",
+      "arya.stark",
+      "walle"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -1127,13 +1141,13 @@
     "creado": "2026-10-08T10:29:14.753Z"
   },
   "cmuzvslwc00ty01s41ntvmal2": {
-    "jugadores": [],
-    "pendientes": [
+    "jugadores": [
       "jaime.lannister",
       "eowyn",
       "montgomery.burns",
       "davy.jones"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -1143,7 +1157,8 @@
     "fecha": "2026-10-11T12:00:00.000Z",
     "deporte": "RUNNING",
     "cupo": 5,
-    "creado": "2026-10-08T18:39:59.379Z"
+    "creado": "2026-10-08T18:39:59.379Z",
+    "pendientesHumanos": 0
   },
   "cmuzvsynx00u701s45m9dngjg": {
     "jugadores": [],
@@ -1200,5 +1215,33 @@
     "deporte": "TENIS",
     "cupo": 3,
     "creado": "2026-10-08T18:51:25.852Z"
+  },
+  "cmv01z87o013j01s4d11cjt85": {
+    "jugadores": [],
+    "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "jaime.lannister",
+    "fecha": "2026-10-09T10:00:00.000Z",
+    "deporte": "RUNNING",
+    "cupo": 3,
+    "creado": "2026-10-08T21:33:06.050Z"
+  },
+  "cmv01zpjv014101s4hcps1lma": {
+    "jugadores": [],
+    "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "molly.weasley",
+    "fecha": "2026-10-10T11:30:00.000Z",
+    "deporte": "RUNNING",
+    "cupo": 5,
+    "creado": "2026-10-08T21:33:28.459Z"
   }
 }

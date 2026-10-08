@@ -26,3 +26,4 @@
 - 2026-10-07 00:18 · entró a mirar, ya estaba aceptado en el fútbol de Gimli
 - 2026-10-07 17:35 · entró a mirar, nada nuevo
 - 2026-10-07 22:36 · leyó que lo aceptaron, nada más por hoy
+- 2026-10-08 18:33 · pidió unirse al fútbol del martes en Club Pilar (se prende en todo)

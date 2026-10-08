@@ -6,3 +6,4 @@
 - 2026-10-05 03:39 · aceptó a Éowyn en su running del lun 05/10 22:00
 - 2026-10-05 09:16 · pidió unirse al running de Qui-Gon Jinn del jue 08/10 20:30 en Parque Pilar · Circuito
 - 2026-10-08 15:50 · pidió unirse al running del domingo a las 9 en Parque Pilar (madrugador)
+- 2026-10-08 18:33 · armó un running el viernes 7 h en Parque Pilar (antes de las 9, como siempre)

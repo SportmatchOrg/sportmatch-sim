@@ -1,0 +1,1 @@
+- 2026-10-08 18:33 · armó un running INTERMEDIATE el sábado 8:30 en Campus Austral

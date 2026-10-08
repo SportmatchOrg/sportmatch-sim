@@ -1,1 +1,2 @@
 - 2026-10-08 07:29 · primer ingreso: miró partidos de fútbol y básquet, todavía no se anima
+- 2026-10-08 18:33 · primera vez en la app: pidió unirse al fútbol del martes en Club Pilar (vuelve a hacer deporte)
