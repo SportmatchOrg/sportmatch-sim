@@ -1,3 +1,41 @@
+- 2026-09-30 18:46 · organizó un futbol INTERMEDIATE para el lun 05/10 21:00 en Fútbol 5 Nordelta
+- 2026-09-30 21:11 · aceptó a Fred Weasley en su futbol del lun 05/10 21:00
+- 2026-09-30 21:11 · aceptó a Gimli en su futbol del lun 05/10 21:00
+- 2026-10-01 00:47 · rechazó a Pippin Tuk en su futbol del lun 05/10 21:00
+- 2026-10-01 03:13 · aceptó a Rubeus Hagrid en su futbol del lun 05/10 21:00
+- 2026-10-01 06:15 · aceptó a Bellatrix Lestrange en su futbol del lun 05/10 21:00
+- 2026-10-01 06:15 · aceptó a Mace Windu en su futbol del lun 05/10 21:00
+- 2026-10-01 09:43 · organizó un futbol INTERMEDIATE para el mié 07/10 21:00 en Fútbol 5 Nordelta
+- 2026-10-01 15:16 · rechazó a Fred Weasley en su futbol del mié 07/10 21:00
+- 2026-10-01 15:16 · aceptó a Mace Windu en su futbol del mié 07/10 21:00
+- 2026-10-01 15:16 · aceptó a Bellatrix Lestrange en su futbol del mié 07/10 21:00
+- 2026-10-01 21:12 · aceptó a Gimli en su futbol del mié 07/10 21:00
+- 2026-10-01 21:12 · aceptó a Jon Snow en su futbol del mié 07/10 21:00
+- 2026-10-02 00:42 · aceptó a Jon Snow en su futbol del lun 05/10 21:00
+- 2026-10-02 00:42 · pidió unirse al futbol de Fred Weasley del mar 06/10 21:00 en Campus Austral · Canchas
+- 2026-10-02 06:32 · pidió unirse al futbol de Mace Windu del mar 06/10 21:30 en Fútbol 5 Nordelta
+- 2026-10-02 18:24 · aceptó a Pippin Tuk en su futbol del mié 07/10 21:00
+- 2026-10-03 03:35 · pidió unirse al futbol de Sam Gamyi del lun 05/10 21:00 en River Courts · Cancha 2
+- 2026-10-03 09:13 · aceptó a Rubeus Hagrid en su futbol del mié 07/10 21:00
+- 2026-10-03 12:39 · pidió unirse al futbol de Steve Rogers del dom 04/10 19:00 en Campus Austral · Canchas
+- 2026-10-04 03:12 · aceptó a Nemo en su futbol del mié 07/10 21:00
+- 2026-10-04 03:12 · pidió unirse al futbol de Steve Rogers del lun 05/10 22:30 en Club Pilar · Cancha 2
+- 2026-10-04 06:39 · aceptó a Steve Rogers en su futbol del mié 07/10 21:00
+- 2026-10-04 21:38 · calificó el futbol del dom 04/10 19:00
+- 2026-10-05 03:39 · aceptó a Obi-Wan Kenobi en su futbol del mié 07/10 21:00
+- 2026-10-05 06:46 · pidió unirse al futbol de Steve Rogers del mar 06/10 22:30 en Club Pilar · Cancha 2
+- 2026-10-05 18:38 · aceptó a Théoden en su futbol del lun 05/10 21:00
+- 2026-10-05 21:47 · calificó el futbol del lun 05/10 21:00 (reportó que faltó Gimli)
+- 2026-10-05 21:47 · calificó el futbol del lun 05/10 21:00 (reportó que faltó Fred Weasley, Jon Snow)
+- 2026-10-05 21:49 · organizó un futbol INTERMEDIATE para el jue 08/10 21:00 en Fútbol 5 Nordelta
+- 2026-10-06 00:43 · aceptó a Bellatrix Lestrange en su futbol del jue 08/10 21:00
+- 2026-10-06 09:48 · aceptó a Obi-Wan Kenobi en su futbol del jue 08/10 21:00
+- 2026-10-06 12:27 · aceptó a Mace Windu en su futbol del jue 08/10 21:00
+- 2026-10-06 12:27 · pidió unirse al futbol de Mace Windu del mié 07/10 22:30 en Fútbol 5 Nordelta
+- 2026-10-06 21:43 · calificó el futbol del mar 06/10 21:30 (reportó que faltó Fred Weasley)
+- 2026-10-06 21:43 · aceptó a Pippin Tuk en su futbol del jue 08/10 21:00
+- 2026-10-07 00:38 · calificó el futbol del mar 06/10 22:30
+- 2026-10-07 21:35 · calificó el futbol del mié 07/10 21:00
 - 2026-10-06 21:54 · entró a mirar y leyó notificaciones, nada nuevo
 - 2026-10-07 00:18 · armó tenis dobles el sábado en Tigre Pádel Club
 - 2026-10-07 07:09 · miró la app, tranquilo

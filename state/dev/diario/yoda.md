@@ -1,3 +1,8 @@
+- 2026-09-30 18:47 · pidió unirse al padel de Bellatrix Lestrange del jue 01/10 19:00 en Club Belgrano · Gimnasio
+- 2026-10-01 12:32 · pidió unirse al padel de Faramir del dom 04/10 09:30 en Club Pilar · Cancha 2
+- 2026-10-01 21:12 · calificó el padel del jue 01/10 19:00
+- 2026-10-04 12:49 · calificó el padel del dom 04/10 09:30
+- 2026-10-04 12:49 · pidió unirse al padel de Faramir del sáb 10/10 09:30 en Club Pilar · Cancha 2
 - 2026-10-06 21:54 · miró partidos de pádel, no había ninguno; no se anotó a nada
 - 2026-10-07 00:01 · buscó pádel, no había nada; sigue mirando
 - 2026-10-07 00:18 · buscó pádel, no encontró partidos

@@ -1,3 +1,45 @@
+- 2026-10-02 21:22 · organizó un futbol INTERMEDIATE para el lun 05/10 22:30 en Club Pilar · Cancha 2
+- 2026-10-03 03:33 · aceptó a Jon Snow en su futbol del lun 05/10 22:30
+- 2026-10-03 03:33 · aceptó a Gimli en su futbol del lun 05/10 22:30
+- 2026-10-03 03:33 · aceptó a Nemo en su futbol del lun 05/10 22:30
+- 2026-10-03 03:33 · aceptó a Hermione Granger en su futbol del lun 05/10 22:30
+- 2026-10-03 06:19 · aceptó a Bellatrix Lestrange en su futbol del lun 05/10 22:30
+- 2026-10-03 06:19 · rechazó a Rubeus Hagrid en su futbol del lun 05/10 22:30
+- 2026-10-03 12:32 · aceptó a Fred Weasley en su futbol del lun 05/10 22:30
+- 2026-10-03 12:32 · organizó un futbol INTERMEDIATE para el dom 04/10 19:00 en Campus Austral · Canchas
+- 2026-10-03 15:49 · aceptó a Jon Snow en su futbol del dom 04/10 19:00
+- 2026-10-03 15:49 · aceptó a Bellatrix Lestrange en su futbol del dom 04/10 19:00
+- 2026-10-03 15:49 · aceptó a Elrond en su futbol del dom 04/10 19:00
+- 2026-10-03 21:11 · rechazó a Fred Weasley en su futbol del dom 04/10 19:00
+- 2026-10-03 21:11 · aceptó a Nemo en su futbol del dom 04/10 19:00
+- 2026-10-03 21:11 · aceptó a Pippin Tuk en su futbol del dom 04/10 19:00
+- 2026-10-03 21:11 · aceptó a Rubeus Hagrid en su futbol del dom 04/10 19:00
+- 2026-10-04 03:12 · aceptó a Doc Brown en su futbol del lun 05/10 22:30
+- 2026-10-04 03:12 · aceptó a Elrond en su futbol del lun 05/10 22:30
+- 2026-10-04 03:12 · aceptó a Sam Gamyi en su futbol del dom 04/10 19:00
+- 2026-10-04 03:12 · rechazó a Mace Windu en su futbol del dom 04/10 19:00
+- 2026-10-04 03:13 · pidió unirse al futbol de Elrond del mié 07/10 21:00 en Fútbol 5 Nordelta
+- 2026-10-04 06:39 · aceptó a Pippin Tuk en su futbol del lun 05/10 22:30
+- 2026-10-04 15:45 · aceptó a Hermione Granger en su futbol del dom 04/10 19:00
+- 2026-10-04 21:38 · calificó el futbol del dom 04/10 19:00
+- 2026-10-05 00:48 · organizó un futbol ADVANCED para el mar 06/10 22:30 en Club Pilar · Cancha 2
+- 2026-10-05 09:14 · aceptó a Elrond en su futbol del mar 06/10 22:30
+- 2026-10-05 09:14 · aceptó a Bellatrix Lestrange en su futbol del mar 06/10 22:30
+- 2026-10-05 12:17 · aceptó a Doc Brown en su futbol del mar 06/10 22:30
+- 2026-10-05 12:17 · aceptó a Sam Gamyi en su futbol del mar 06/10 22:30
+- 2026-10-05 18:38 · aceptó a Nemo en su futbol del mar 06/10 22:30
+- 2026-10-05 21:47 · aceptó a Pippin Tuk en su futbol del mar 06/10 22:30
+- 2026-10-05 21:52 · pidió unirse al futbol de Nemo del sáb 10/10 09:00 en Campus Austral · Canchas
+- 2026-10-06 00:43 · rechazó a Jon Snow en su futbol del mar 06/10 22:30
+- 2026-10-06 00:45 · organizó un futbol INTERMEDIATE para el lun 12/10 22:30 en Campus Austral · Canchas
+- 2026-10-06 06:15 · rechazó a Doc Brown en su futbol del lun 12/10 22:30
+- 2026-10-06 06:15 · pidió unirse al futbol de Hermione Granger del sáb 10/10 10:00 en Club Pilar · Cancha 2
+- 2026-10-06 12:27 · aceptó a Sam Gamyi en su futbol del lun 12/10 22:30
+- 2026-10-06 12:27 · aceptó a Fred Weasley en su futbol del lun 12/10 22:30
+- 2026-10-06 15:46 · aceptó a Pippin Tuk en su futbol del lun 12/10 22:30
+- 2026-10-07 00:38 · aceptó a Gimli en su futbol del lun 12/10 22:30
+- 2026-10-07 00:38 · aceptó a Bellatrix Lestrange en su futbol del lun 12/10 22:30
+- 2026-10-07 00:38 · aceptó a Jon Snow en su futbol del lun 12/10 22:30
 - 2026-10-07 14:44 · armó un fútbol ADVANCED el sábado 20 h en Club Pilar
 - 2026-10-07 17:35 · revisó su partido de Pilar, sin movimiento
 - 2026-10-07 18:25 · miró partidos de fútbol, ninguno a su nivel; sigue esperando que se llene el suyo

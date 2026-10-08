@@ -1,0 +1,6 @@
+- 2026-10-05 18:41 · pidió unirse al basquet de Milhouse Van Houten del vie 09/10 20:00 en Club Belgrano · Gimnasio
+- 2026-10-06 00:49 · organizó un futbol INTERMEDIATE para el vie 09/10 22:00 en Polideportivo Del Viso
+- 2026-10-06 00:49 · pidió unirse al futbol de Mace Windu del mié 07/10 22:30 en Fútbol 5 Nordelta
+- 2026-10-06 06:15 · rechazó a Pippin Tuk en su futbol del vie 09/10 22:00
+- 2026-10-06 12:27 · aceptó a Bellatrix Lestrange en su futbol del vie 09/10 22:00
+- 2026-10-07 00:38 · aceptó a Rubeus Hagrid en su futbol del vie 09/10 22:00

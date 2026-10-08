@@ -1,0 +1,7 @@
+- 2026-10-03 15:50 · pidió unirse al tenis de Hermione Granger del dom 04/10 11:00 en Club Pilar · Cancha 2
+- 2026-10-03 21:17 · pidió unirse al running de Éowyn del vie 09/10 22:00 en Campus Austral · Canchas
+- 2026-10-04 09:18 · organizó un running INTERMEDIATE para el lun 05/10 22:00 en Campus Austral · Canchas
+- 2026-10-04 15:45 · aceptó a Montgomery Burns en su running del lun 05/10 22:00
+- 2026-10-05 00:44 · aceptó a Qui-Gon Jinn en su running del lun 05/10 22:00
+- 2026-10-05 03:39 · aceptó a Éowyn en su running del lun 05/10 22:00
+- 2026-10-05 09:16 · pidió unirse al running de Qui-Gon Jinn del jue 08/10 20:30 en Parque Pilar · Circuito

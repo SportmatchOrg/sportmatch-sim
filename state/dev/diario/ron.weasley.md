@@ -1,3 +1,8 @@
+- 2026-10-02 12:26 · pidió unirse al basquet de Galadriel del mar 06/10 22:30 en Club Belgrano · Gimnasio
+- 2026-10-03 06:25 · pidió unirse al tenis de Hermione Granger del dom 04/10 11:00 en Club Pilar · Cancha 2
+- 2026-10-04 03:18 · pidió unirse al basquet de Milhouse Van Houten del vie 09/10 20:00 en Club Belgrano · Gimnasio
+- 2026-10-04 06:44 · pidió unirse al basquet de Harley Quinn del lun 05/10 19:00 en Campus Austral · Canchas
+- 2026-10-04 09:14 · se bajó a último momento del tenis del dom 04/10 11:00
 - 2026-10-07 00:01 · no encontró básquet ni tenis a la mañana; no se anotó
 - 2026-10-07 07:09 · miró la app, sin novedades
 - 2026-10-07 14:44 · se anotó al tenis del sábado en Tigre Pádel Club

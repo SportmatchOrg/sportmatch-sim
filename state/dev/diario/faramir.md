@@ -1,0 +1,20 @@
+- 2026-10-01 06:17 · organizó un padel INTERMEDIATE para el dom 04/10 09:30 en Club Pilar · Cancha 2
+- 2026-10-01 09:39 · aceptó a Éowyn en su padel del dom 04/10 09:30
+- 2026-10-01 12:31 · aceptó a Bellatrix Lestrange en su padel del dom 04/10 09:30
+- 2026-10-01 15:16 · aceptó a Yoda en su padel del dom 04/10 09:30
+- 2026-10-01 15:16 · rechazó a Qui-Gon Jinn en su padel del dom 04/10 09:30 (ya estaba lleno)
+- 2026-10-02 03:54 · organizó un padel ADVANCED para el dom 04/10 09:00 en Club Pilar · Cancha 2
+- 2026-10-02 06:31 · aceptó a Jon Snow en su padel del dom 04/10 09:00
+- 2026-10-02 09:31 · pidió unirse al padel de Mace Windu del sáb 03/10 20:00 en Tigre Pádel Club
+- 2026-10-02 15:42 · rechazó a Dobby en su padel del dom 04/10 09:00
+- 2026-10-02 15:42 · aceptó a Bellatrix Lestrange en su padel del dom 04/10 09:00
+- 2026-10-02 15:42 · aceptó a Éowyn en su padel del dom 04/10 09:00
+- 2026-10-03 21:11 · calificó el padel del sáb 03/10 20:00
+- 2026-10-03 21:13 · pidió unirse al running de Éowyn del vie 09/10 22:00 en Campus Austral · Canchas
+- 2026-10-04 09:14 · calificó el padel del dom 04/10 09:00
+- 2026-10-04 09:15 · organizó un padel BEGINNER para el sáb 10/10 09:30 en Club Pilar · Cancha 2
+- 2026-10-04 12:49 · calificó el padel del dom 04/10 09:30
+- 2026-10-04 12:49 · aceptó a Jon Snow en su padel del sáb 10/10 09:30
+- 2026-10-04 12:49 · aceptó a Qui-Gon Jinn en su padel del sáb 10/10 09:30
+- 2026-10-04 12:49 · rechazó a Yoda en su padel del sáb 10/10 09:30
+- 2026-10-04 12:49 · aceptó a Bellatrix Lestrange en su padel del sáb 10/10 09:30

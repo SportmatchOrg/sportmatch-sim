@@ -1,0 +1,7 @@
+- 2026-10-05 06:53 · pidió unirse al futbol de Bellatrix Lestrange del vie 09/10 21:30 en River Courts · Cancha 2
+- 2026-10-05 12:23 · pidió unirse al futbol de Sam Gamyi del lun 05/10 21:00 en River Courts · Cancha 2
+- 2026-10-05 15:47 · pidió unirse al futbol de Elrond del lun 05/10 21:00 en Fútbol 5 Nordelta
+- 2026-10-05 21:47 · calificó el futbol del lun 05/10 21:00 (reportó que faltó Fred Weasley, Jon Snow)
+- 2026-10-05 21:55 · pidió unirse al futbol de Hermione Granger del sáb 10/10 10:00 en Club Pilar · Cancha 2
+- 2026-10-06 03:26 · pidió unirse al futbol de Sam Gamyi del mié 07/10 21:00 en River Courts · Cancha 2
+- 2026-10-07 21:35 · calificó el futbol del mié 07/10 21:00

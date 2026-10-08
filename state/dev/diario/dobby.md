@@ -1,2 +1,4 @@
+- 2026-10-02 12:23 · pidió unirse al padel de Faramir del dom 04/10 09:00 en Club Pilar · Cancha 2
+- 2026-10-02 15:48 · pidió unirse al padel de Sam Gamyi del lun 05/10 22:00 en Club Belgrano · Gimnasio
 - 2026-10-07 07:09 · miró partidos, ninguno le convenció de nivel
 - 2026-10-07 18:25 · entró a mirar pádel, nada a su nivel

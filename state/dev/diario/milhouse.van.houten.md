@@ -1,1 +1,10 @@
+- 2026-10-02 00:42 · pidió unirse al basquet de Galadriel del mar 06/10 22:30 en Club Belgrano · Gimnasio
+- 2026-10-04 03:15 · organizó un basquet BEGINNER para el vie 09/10 20:00 en Club Belgrano · Gimnasio
+- 2026-10-04 06:39 · aceptó a Ron Weasley en su basquet del vie 09/10 20:00
+- 2026-10-04 12:49 · aceptó a Harley Quinn en su basquet del vie 09/10 20:00
+- 2026-10-04 12:49 · aceptó a Galadriel en su basquet del vie 09/10 20:00
+- 2026-10-05 12:17 · aceptó a Éowyn en su basquet del vie 09/10 20:00
+- 2026-10-05 21:47 · aceptó a Padmé Amidala en su basquet del vie 09/10 20:00
+- 2026-10-06 18:31 · aceptó a Boromir en su basquet del vie 09/10 20:00
+- 2026-10-06 21:43 · aceptó a Davy Jones en su basquet del vie 09/10 20:00
 - 2026-10-07 14:44 · miró la app, todavía no se anima

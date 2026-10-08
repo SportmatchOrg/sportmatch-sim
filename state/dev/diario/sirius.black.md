@@ -1,0 +1,1 @@
+- 2026-10-06 18:33 · pidió unirse al futbol de Nemo del sáb 10/10 09:00 en Campus Austral · Canchas

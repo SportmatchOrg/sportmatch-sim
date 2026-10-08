@@ -1,0 +1,9 @@
+- 2026-10-03 18:15 · pidió unirse al futbol de Fred Weasley del mar 06/10 21:00 en Campus Austral · Canchas
+- 2026-10-04 00:44 · pidió unirse al futbol de Steve Rogers del lun 05/10 22:30 en Club Pilar · Cancha 2
+- 2026-10-04 15:48 · pidió unirse al futbol de Hermione Granger del sáb 10/10 10:00 en Club Pilar · Cancha 2
+- 2026-10-05 09:16 · pidió unirse al futbol de Steve Rogers del mar 06/10 22:30 en Club Pilar · Cancha 2
+- 2026-10-05 18:42 · pidió unirse al futbol de Nemo del sáb 10/10 09:00 en Campus Austral · Canchas
+- 2026-10-05 21:47 · se bajó a último momento del futbol del lun 05/10 22:30
+- 2026-10-06 03:24 · pidió unirse al futbol de Steve Rogers del lun 12/10 22:30 en Campus Austral · Canchas
+- 2026-10-06 21:43 · calificó el futbol del mar 06/10 21:00
+- 2026-10-07 00:38 · calificó el futbol del mar 06/10 22:30

@@ -1,0 +1,31 @@
+- 2026-10-02 15:46 · organizó un padel INTERMEDIATE para el lun 05/10 22:00 en Club Belgrano · Gimnasio
+- 2026-10-02 15:46 · pidió unirse al futbol de Mace Windu del mar 06/10 21:30 en Fútbol 5 Nordelta
+- 2026-10-02 18:24 · rechazó a Dobby en su padel del lun 05/10 22:00
+- 2026-10-02 21:16 · aceptó a Qui-Gon Jinn en su padel del lun 05/10 22:00
+- 2026-10-02 21:16 · aceptó a Jon Snow en su padel del lun 05/10 22:00
+- 2026-10-03 00:15 · aceptó a Bellatrix Lestrange en su padel del lun 05/10 22:00
+- 2026-10-03 03:33 · organizó un futbol INTERMEDIATE para el lun 05/10 21:00 en River Courts · Cancha 2
+- 2026-10-03 06:19 · aceptó a Elrond en su futbol del lun 05/10 21:00
+- 2026-10-03 06:19 · aceptó a Gimli en su futbol del lun 05/10 21:00
+- 2026-10-03 09:13 · aceptó a Bellatrix Lestrange en su futbol del lun 05/10 21:00
+- 2026-10-03 09:13 · aceptó a Hermione Granger en su futbol del lun 05/10 21:00
+- 2026-10-03 15:49 · aceptó a Fred Weasley en su futbol del lun 05/10 21:00
+- 2026-10-04 00:41 · pidió unirse al futbol de Steve Rogers del dom 04/10 19:00 en Campus Austral · Canchas
+- 2026-10-04 03:12 · aceptó a Rubeus Hagrid en su futbol del lun 05/10 21:00
+- 2026-10-04 06:39 · aceptó a Jon Snow en su futbol del lun 05/10 21:00
+- 2026-10-05 09:20 · pidió unirse al futbol de Steve Rogers del mar 06/10 22:30 en Club Pilar · Cancha 2
+- 2026-10-05 15:42 · aceptó a Théoden en su futbol del lun 05/10 21:00
+- 2026-10-05 15:42 · pidió unirse al futbol de Bellatrix Lestrange del vie 09/10 21:30 en River Courts · Cancha 2
+- 2026-10-05 21:47 · calificó el futbol del lun 05/10 21:00 (reportó que faltó Fred Weasley, Jon Snow)
+- 2026-10-05 21:55 · organizó un futbol ADVANCED para el vie 09/10 20:30 en River Courts · Cancha 2
+- 2026-10-06 00:43 · calificó el padel del lun 05/10 22:00 (reportó que faltó Jon Snow)
+- 2026-10-06 03:19 · aceptó a Bellatrix Lestrange en su futbol del vie 09/10 20:30
+- 2026-10-06 03:20 · organizó un futbol INTERMEDIATE para el mié 07/10 21:00 en River Courts · Cancha 2
+- 2026-10-06 06:15 · aceptó a Théoden en su futbol del mié 07/10 21:00
+- 2026-10-06 09:48 · rechazó a Bellatrix Lestrange en su futbol del mié 07/10 21:00
+- 2026-10-06 09:50 · pidió unirse al futbol de Steve Rogers del lun 12/10 22:30 en Campus Austral · Canchas
+- 2026-10-06 15:46 · aceptó a Fred Weasley en su futbol del mié 07/10 21:00
+- 2026-10-06 21:43 · calificó el futbol del mar 06/10 21:30 (reportó que faltó Fred Weasley)
+- 2026-10-07 00:38 · calificó el futbol del mar 06/10 22:30
+- 2026-10-07 00:38 · aceptó a Pippin Tuk en su futbol del mié 07/10 21:00
+- 2026-10-07 21:35 · calificó el futbol del mié 07/10 21:00

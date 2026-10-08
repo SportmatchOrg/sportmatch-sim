@@ -1,3 +1,10 @@
+- 2026-10-01 21:18 · organizó un basquet INTERMEDIATE para el mar 06/10 22:30 en Club Belgrano · Gimnasio
+- 2026-10-02 03:50 · rechazó a Milhouse Van Houten en su basquet del mar 06/10 22:30
+- 2026-10-02 15:42 · aceptó a Ron Weasley en su basquet del mar 06/10 22:30
+- 2026-10-04 09:20 · pidió unirse al basquet de Milhouse Van Houten del vie 09/10 20:00 en Club Belgrano · Gimnasio
+- 2026-10-05 21:47 · aceptó a Éowyn en su basquet del mar 06/10 22:30
+- 2026-10-06 06:15 · aceptó a Harley Quinn en su basquet del mar 06/10 22:30
+- 2026-10-06 18:31 · aceptó a Davy Jones en su basquet del mar 06/10 22:30
 - 2026-10-06 21:54 · entró a mirar, no hay básquet todavía
 - 2026-10-07 00:01 · solo leyó notificaciones y miró
 - 2026-10-07 00:18 · miró básquet pero no había nada para anotarse

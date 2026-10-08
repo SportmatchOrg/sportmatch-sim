@@ -1,0 +1,17 @@
+- 2026-10-03 00:20 · pidió unirse al futbol de Steve Rogers del lun 05/10 22:30 en Club Pilar · Cancha 2
+- 2026-10-03 18:14 · pidió unirse al futbol de Steve Rogers del dom 04/10 19:00 en Campus Austral · Canchas
+- 2026-10-04 00:48 · pidió unirse al futbol de Elrond del mié 07/10 21:00 en Fútbol 5 Nordelta
+- 2026-10-04 18:54 · organizó un futbol INTERMEDIATE para el sáb 10/10 09:00 en Campus Austral · Canchas
+- 2026-10-04 18:54 · pidió unirse al futbol de Hermione Granger del sáb 10/10 10:00 en Club Pilar · Cancha 2
+- 2026-10-04 21:38 · aceptó a Bellatrix Lestrange en su futbol del sáb 10/10 09:00
+- 2026-10-04 21:38 · aceptó a Rubeus Hagrid en su futbol del sáb 10/10 09:00
+- 2026-10-04 21:38 · aceptó a Jon Snow en su futbol del sáb 10/10 09:00
+- 2026-10-04 21:42 · pidió unirse al futbol de Bellatrix Lestrange del vie 09/10 21:30 en River Courts · Cancha 2
+- 2026-10-05 15:42 · aceptó a Fred Weasley en su futbol del sáb 10/10 09:00
+- 2026-10-05 15:42 · pidió unirse al futbol de Steve Rogers del mar 06/10 22:30 en Club Pilar · Cancha 2
+- 2026-10-05 21:47 · aceptó a Doc Brown en su futbol del sáb 10/10 09:00
+- 2026-10-05 21:47 · aceptó a Steve Rogers en su futbol del sáb 10/10 09:00
+- 2026-10-06 03:19 · aceptó a Hermione Granger en su futbol del sáb 10/10 09:00
+- 2026-10-06 03:19 · aceptó a Pippin Tuk en su futbol del sáb 10/10 09:00
+- 2026-10-06 03:19 · aceptó a Gimli en su futbol del sáb 10/10 09:00
+- 2026-10-06 21:43 · aceptó a Sirius Black en su futbol del sáb 10/10 09:00

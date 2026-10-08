@@ -1,3 +1,16 @@
+- 2026-09-30 18:49 · pidió unirse al futbol de Elrond del lun 05/10 21:00 en Fútbol 5 Nordelta
+- 2026-10-01 03:15 · pidió unirse al futbol de Fred Weasley del mar 06/10 21:00 en Campus Austral · Canchas
+- 2026-10-01 12:33 · pidió unirse al futbol de Mace Windu del mar 06/10 21:30 en Fútbol 5 Nordelta
+- 2026-10-01 18:22 · pidió unirse al futbol de Elrond del mié 07/10 21:00 en Fútbol 5 Nordelta
+- 2026-10-03 00:18 · pidió unirse al futbol de Steve Rogers del lun 05/10 22:30 en Club Pilar · Cancha 2
+- 2026-10-03 03:40 · pidió unirse al futbol de Sam Gamyi del lun 05/10 21:00 en River Courts · Cancha 2
+- 2026-10-05 21:47 · calificó el futbol del lun 05/10 21:00 (reportó que faltó Fred Weasley, Jon Snow)
+- 2026-10-06 00:50 · pidió unirse al futbol de Nemo del sáb 10/10 09:00 en Campus Austral · Canchas
+- 2026-10-06 12:31 · organizó un futbol INTERMEDIATE para el dom 11/10 11:30 en River Courts · Cancha 2
+- 2026-10-06 12:31 · pidió unirse al futbol de Mace Windu del mié 07/10 22:30 en Fútbol 5 Nordelta
+- 2026-10-06 21:43 · calificó el futbol del mar 06/10 21:00
+- 2026-10-06 21:43 · aceptó a Bellatrix Lestrange en su futbol del dom 11/10 11:30
+- 2026-10-06 21:43 · pidió unirse al futbol de Steve Rogers del lun 12/10 22:30 en Campus Austral · Canchas
 - 2026-10-06 21:54 · armó un fútbol de 10 el jueves en River Courts (después del laburo, con gente nueva)
 - 2026-10-07 00:01 · aceptó a Bellatrix en su fútbol; no encontró otro partido para unirse
 - 2026-10-07 00:17 · aceptó la solicitud de Fred Weasley a su partido de fútbol

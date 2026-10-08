@@ -1,0 +1,7 @@
+- 2026-10-04 00:43 · pidió unirse al tenis de Hermione Granger del dom 04/10 11:00 en Club Pilar · Cancha 2
+- 2026-10-04 06:43 · organizó un basquet INTERMEDIATE para el lun 05/10 19:00 en Campus Austral · Canchas
+- 2026-10-04 09:14 · aceptó a Ron Weasley en su basquet del lun 05/10 19:00
+- 2026-10-04 09:16 · pidió unirse al basquet de Milhouse Van Houten del vie 09/10 20:00 en Club Belgrano · Gimnasio
+- 2026-10-04 21:38 · canceló su basquet del lun 05/10 19:00 (iba 2/9)
+- 2026-10-06 03:23 · pidió unirse al basquet de Galadriel del mar 06/10 22:30 en Club Belgrano · Gimnasio
+- 2026-10-07 00:38 · calificó el basquet del mar 06/10 22:30 (reportó que faltó Davy Jones)

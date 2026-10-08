@@ -1,3 +1,23 @@
+- 2026-09-30 21:12 · pidió unirse al futbol de Elrond del lun 05/10 21:00 en Fútbol 5 Nordelta
+- 2026-10-01 03:17 · pidió unirse al futbol de Fred Weasley del mar 06/10 21:00 en Campus Austral · Canchas
+- 2026-10-01 18:24 · pidió unirse al futbol de Mace Windu del mar 06/10 21:30 en Fútbol 5 Nordelta
+- 2026-10-02 15:46 · pidió unirse al futbol de Elrond del mié 07/10 21:00 en Fútbol 5 Nordelta
+- 2026-10-03 18:14 · pidió unirse al futbol de Steve Rogers del dom 04/10 19:00 en Campus Austral · Canchas
+- 2026-10-04 03:18 · pidió unirse al futbol de Steve Rogers del lun 05/10 22:30 en Club Pilar · Cancha 2
+- 2026-10-04 15:49 · pidió unirse al futbol de Hermione Granger del sáb 10/10 10:00 en Club Pilar · Cancha 2
+- 2026-10-04 18:52 · pidió unirse al futbol de Bellatrix Lestrange del vie 09/10 21:30 en River Courts · Cancha 2
+- 2026-10-04 21:38 · calificó el futbol del dom 04/10 19:00
+- 2026-10-05 18:43 · pidió unirse al futbol de Steve Rogers del mar 06/10 22:30 en Club Pilar · Cancha 2
+- 2026-10-06 00:47 · pidió unirse al futbol de Nemo del sáb 10/10 09:00 en Campus Austral · Canchas
+- 2026-10-06 03:21 · pidió unirse al futbol de Padmé Amidala del vie 09/10 22:00 en Polideportivo Del Viso
+- 2026-10-06 12:34 · pidió unirse al futbol de Steve Rogers del lun 12/10 22:30 en Campus Austral · Canchas
+- 2026-10-06 18:35 · pidió unirse al futbol de Elrond del jue 08/10 21:00 en Fútbol 5 Nordelta
+- 2026-10-06 21:43 · calificó el futbol del mar 06/10 21:00
+- 2026-10-06 21:43 · calificó el futbol del mar 06/10 21:30 (reportó que faltó Fred Weasley)
+- 2026-10-06 21:43 · pidió unirse al futbol de Sam Gamyi del mié 07/10 21:00 en River Courts · Cancha 2
+- 2026-10-07 00:38 · calificó el futbol del mar 06/10 22:30
+- 2026-10-07 21:35 · calificó el futbol del mié 07/10 21:00
+- 2026-10-07 21:35 · calificó el futbol del mié 07/10 21:00
 - 2026-10-07 00:18 · se anotó al fútbol del jueves en River Courts (vuelve a jugar de a poco)
 - 2026-10-07 07:09 · ya anotado al fútbol del jueves, no buscó más
 - 2026-10-07 14:44 · vio que lo aceptaron, solo miró

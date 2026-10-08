@@ -1,0 +1,24 @@
+- 2026-10-03 00:22 · pidió unirse al futbol de Steve Rogers del lun 05/10 22:30 en Club Pilar · Cancha 2
+- 2026-10-03 03:38 · organizó un tenis INTERMEDIATE para el dom 04/10 11:00 en Club Pilar · Cancha 2
+- 2026-10-03 03:38 · pidió unirse al futbol de Fred Weasley del mar 06/10 21:00 en Campus Austral · Canchas
+- 2026-10-03 09:13 · aceptó a Ron Weasley en su tenis del dom 04/10 11:00
+- 2026-10-03 09:13 · pidió unirse al futbol de Sam Gamyi del lun 05/10 21:00 en River Courts · Cancha 2
+- 2026-10-03 18:10 · aceptó a Jaime Lannister en su tenis del dom 04/10 11:00
+- 2026-10-04 03:12 · aceptó a Harley Quinn en su tenis del dom 04/10 11:00
+- 2026-10-04 12:49 · calificó el tenis del dom 04/10 11:00
+- 2026-10-04 12:52 · organizó un futbol INTERMEDIATE para el sáb 10/10 10:00 en Club Pilar · Cancha 2
+- 2026-10-04 12:52 · pidió unirse al futbol de Steve Rogers del dom 04/10 19:00 en Campus Austral · Canchas
+- 2026-10-04 18:50 · aceptó a Doc Brown en su futbol del sáb 10/10 10:00
+- 2026-10-04 18:50 · aceptó a Pippin Tuk en su futbol del sáb 10/10 10:00
+- 2026-10-04 18:50 · aceptó a Bellatrix Lestrange en su futbol del sáb 10/10 10:00
+- 2026-10-04 21:38 · calificó el futbol del dom 04/10 19:00
+- 2026-10-04 21:38 · aceptó a Jon Snow en su futbol del sáb 10/10 10:00
+- 2026-10-04 21:38 · aceptó a Nemo en su futbol del sáb 10/10 10:00
+- 2026-10-05 21:47 · se bajó a último momento del futbol del lun 05/10 22:30
+- 2026-10-05 21:47 · calificó el futbol del lun 05/10 21:00 (reportó que faltó Fred Weasley, Jon Snow)
+- 2026-10-06 00:43 · aceptó a Théoden en su futbol del sáb 10/10 10:00
+- 2026-10-06 00:45 · pidió unirse al futbol de Nemo del sáb 10/10 09:00 en Campus Austral · Canchas
+- 2026-10-06 09:48 · aceptó a Steve Rogers en su futbol del sáb 10/10 10:00
+- 2026-10-06 09:48 · aceptó a Fred Weasley en su futbol del sáb 10/10 10:00
+- 2026-10-06 09:48 · aceptó a Chewbacca en su futbol del sáb 10/10 10:00
+- 2026-10-06 21:43 · aceptó a Harry Potter en su futbol del sáb 10/10 10:00

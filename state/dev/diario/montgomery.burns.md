@@ -1,3 +1,6 @@
+- 2026-10-04 00:43 · pidió unirse al running de Éowyn del vie 09/10 22:00 en Campus Austral · Canchas
+- 2026-10-04 12:54 · pidió unirse al running de Jaime Lannister del lun 05/10 22:00 en Campus Austral · Canchas
+- 2026-10-05 06:50 · pidió unirse al running de Qui-Gon Jinn del jue 08/10 20:30 en Parque Pilar · Circuito
 - 2026-10-07 07:09 · miró partidos de running, no había ninguno
 - 2026-10-07 14:44 · miró partidos: no hay running, no se anotó a nada
 - 2026-10-07 17:35 · miró la app, sin carreras en Pilar

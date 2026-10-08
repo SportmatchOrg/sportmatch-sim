@@ -1,3 +1,31 @@
+- 2026-10-01 03:17 · pidió unirse al futbol de Elrond del lun 05/10 21:00 en Fútbol 5 Nordelta
+- 2026-10-01 09:42 · organizó un futbol INTERMEDIATE para el mar 06/10 21:30 en Fútbol 5 Nordelta
+- 2026-10-01 12:35 · pidió unirse al futbol de Elrond del mié 07/10 21:00 en Fútbol 5 Nordelta
+- 2026-10-01 15:16 · aceptó a Gimli en su futbol del mar 06/10 21:30
+- 2026-10-01 18:20 · aceptó a Bellatrix Lestrange en su futbol del mar 06/10 21:30
+- 2026-10-01 18:20 · aceptó a Fred Weasley en su futbol del mar 06/10 21:30
+- 2026-10-01 21:12 · aceptó a Pippin Tuk en su futbol del mar 06/10 21:30
+- 2026-10-02 00:48 · pidió unirse al futbol de Fred Weasley del mar 06/10 21:00 en Campus Austral · Canchas
+- 2026-10-02 03:50 · aceptó a Rubeus Hagrid en su futbol del mar 06/10 21:30
+- 2026-10-02 03:51 · organizó un padel BEGINNER para el sáb 03/10 20:00 en Tigre Pádel Club
+- 2026-10-02 06:31 · aceptó a Bellatrix Lestrange en su padel del sáb 03/10 20:00
+- 2026-10-02 09:30 · aceptó a Elrond en su futbol del mar 06/10 21:30
+- 2026-10-02 12:22 · aceptó a Jon Snow en su futbol del mar 06/10 21:30
+- 2026-10-02 12:22 · aceptó a Faramir en su padel del sáb 03/10 20:00
+- 2026-10-02 12:22 · aceptó a Éowyn en su padel del sáb 03/10 20:00
+- 2026-10-02 18:24 · aceptó a Sam Gamyi en su futbol del mar 06/10 21:30
+- 2026-10-03 21:11 · calificó el padel del sáb 03/10 20:00
+- 2026-10-04 00:46 · pidió unirse al futbol de Steve Rogers del dom 04/10 19:00 en Campus Austral · Canchas
+- 2026-10-05 21:47 · calificó el futbol del lun 05/10 21:00 (reportó que faltó Gimli)
+- 2026-10-05 21:51 · organizó un futbol INTERMEDIATE para el mié 07/10 22:30 en Fútbol 5 Nordelta
+- 2026-10-06 03:19 · aceptó a Padmé Amidala en su futbol del mié 07/10 22:30
+- 2026-10-06 09:54 · pidió unirse al futbol de Elrond del jue 08/10 21:00 en Fútbol 5 Nordelta
+- 2026-10-06 15:46 · aceptó a Elrond en su futbol del mié 07/10 22:30
+- 2026-10-06 15:46 · aceptó a Gimli en su futbol del mié 07/10 22:30
+- 2026-10-06 21:43 · calificó el futbol del mar 06/10 21:30 (reportó que faltó Fred Weasley)
+- 2026-10-06 21:46 · organizó un padel INTERMEDIATE para el mié 07/10 19:00 en Tigre Pádel Club
+- 2026-10-07 21:35 · calificó el futbol del mié 07/10 21:00
+- 2026-10-07 21:35 · calificó el padel del mié 07/10 19:00
 - 2026-10-07 00:01 · miró la app, el único partido era de fútbol lejos de su zona; pasó
 - 2026-10-07 14:44 · pasó a mirar, nada nuevo
 - 2026-10-07 17:34 · se anotó al fútbol del viernes en Nordelta (conoce gente nueva)

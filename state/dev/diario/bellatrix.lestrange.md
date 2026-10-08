@@ -1,3 +1,45 @@
+- 2026-09-30 18:46 · organizó un padel INTERMEDIATE para el jue 01/10 19:00 en Club Belgrano · Gimnasio
+- 2026-09-30 21:11 · aceptó a Yoda en su padel del jue 01/10 19:00
+- 2026-10-01 00:49 · pidió unirse al futbol de Fred Weasley del mar 06/10 21:00 en Campus Austral · Canchas
+- 2026-10-01 03:13 · aceptó a Qui-Gon Jinn en su padel del jue 01/10 19:00
+- 2026-10-01 03:14 · pidió unirse al futbol de Elrond del lun 05/10 21:00 en Fútbol 5 Nordelta
+- 2026-10-01 06:15 · aceptó a Éowyn en su padel del jue 01/10 19:00
+- 2026-10-01 09:41 · pidió unirse al padel de Faramir del dom 04/10 09:30 en Club Pilar · Cancha 2
+- 2026-10-01 12:36 · pidió unirse al futbol de Elrond del mié 07/10 21:00 en Fútbol 5 Nordelta
+- 2026-10-01 15:18 · pidió unirse al futbol de Mace Windu del mar 06/10 21:30 en Fútbol 5 Nordelta
+- 2026-10-01 21:12 · calificó el padel del jue 01/10 19:00
+- 2026-10-02 03:53 · pidió unirse al padel de Mace Windu del sáb 03/10 20:00 en Tigre Pádel Club
+- 2026-10-02 12:26 · pidió unirse al padel de Faramir del dom 04/10 09:00 en Club Pilar · Cancha 2
+- 2026-10-02 21:18 · pidió unirse al padel de Sam Gamyi del lun 05/10 22:00 en Club Belgrano · Gimnasio
+- 2026-10-03 03:37 · pidió unirse al futbol de Steve Rogers del lun 05/10 22:30 en Club Pilar · Cancha 2
+- 2026-10-03 06:23 · pidió unirse al futbol de Sam Gamyi del lun 05/10 21:00 en River Courts · Cancha 2
+- 2026-10-03 12:38 · pidió unirse al futbol de Steve Rogers del dom 04/10 19:00 en Campus Austral · Canchas
+- 2026-10-03 21:11 · calificó el padel del sáb 03/10 20:00
+- 2026-10-04 03:17 · organizó un futbol INTERMEDIATE para el vie 09/10 21:30 en River Courts · Cancha 2
+- 2026-10-04 09:14 · calificó el padel del dom 04/10 09:00
+- 2026-10-04 12:49 · calificó el padel del dom 04/10 09:30
+- 2026-10-04 12:50 · pidió unirse al padel de Faramir del sáb 10/10 09:30 en Club Pilar · Cancha 2
+- 2026-10-04 15:49 · pidió unirse al futbol de Hermione Granger del sáb 10/10 10:00 en Club Pilar · Cancha 2
+- 2026-10-04 18:56 · pidió unirse al futbol de Nemo del sáb 10/10 09:00 en Campus Austral · Canchas
+- 2026-10-04 21:38 · calificó el futbol del dom 04/10 19:00
+- 2026-10-04 21:38 · aceptó a Pippin Tuk en su futbol del vie 09/10 21:30
+- 2026-10-05 00:44 · aceptó a Nemo en su futbol del vie 09/10 21:30
+- 2026-10-05 06:49 · pidió unirse al futbol de Steve Rogers del mar 06/10 22:30 en Club Pilar · Cancha 2
+- 2026-10-05 09:14 · aceptó a Théoden en su futbol del vie 09/10 21:30
+- 2026-10-05 18:38 · aceptó a Sam Gamyi en su futbol del vie 09/10 21:30
+- 2026-10-05 21:47 · se bajó a último momento del futbol del lun 05/10 22:30
+- 2026-10-05 21:47 · calificó el futbol del lun 05/10 21:00 (reportó que faltó Gimli)
+- 2026-10-05 21:47 · calificó el futbol del lun 05/10 21:00 (reportó que faltó Fred Weasley, Jon Snow)
+- 2026-10-05 21:50 · pidió unirse al futbol de Elrond del jue 08/10 21:00 en Fútbol 5 Nordelta
+- 2026-10-06 00:43 · calificó el padel del lun 05/10 22:00 (reportó que faltó Jon Snow)
+- 2026-10-06 00:44 · pidió unirse al futbol de Sam Gamyi del vie 09/10 20:30 en River Courts · Cancha 2
+- 2026-10-06 06:19 · pidió unirse al futbol de Sam Gamyi del mié 07/10 21:00 en River Courts · Cancha 2
+- 2026-10-06 09:53 · pidió unirse al futbol de Padmé Amidala del vie 09/10 22:00 en Polideportivo Del Viso
+- 2026-10-06 18:38 · pidió unirse al futbol de Gimli del dom 11/10 11:30 en River Courts · Cancha 2
+- 2026-10-06 21:43 · calificó el futbol del mar 06/10 21:00
+- 2026-10-06 21:43 · calificó el futbol del mar 06/10 21:30 (reportó que faltó Fred Weasley)
+- 2026-10-06 21:45 · pidió unirse al futbol de Steve Rogers del lun 12/10 22:30 en Campus Austral · Canchas
+- 2026-10-07 21:35 · calificó el futbol del mié 07/10 21:00
 - 2026-10-06 21:54 · pidió unirse al fútbol del jueves en River Courts (queda pendiente de Gimli)
 - 2026-10-07 00:18 · organizó pádel el viernes en Club Belgrano
 - 2026-10-07 07:09 · miró partidos, no había otro de fútbol ni pádel para sumarse
