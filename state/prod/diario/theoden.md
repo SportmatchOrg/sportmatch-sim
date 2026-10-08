@@ -1,0 +1,4 @@
+- 2026-10-05 00:52 · pidió unirse al futbol de Doc Brown del mar 06/10 19:00 en Polideportivo Del Viso
+- 2026-10-05 03:44 · pidió unirse al futbol de Hermione Granger del sáb 10/10 11:30 en Polideportivo Del Viso
+- 2026-10-06 00:26 · pidió unirse al futbol de Pippin Tuk del jue 08/10 20:00 en Campus Austral · Canchas
+- 2026-10-06 03:17 · pidió unirse al futbol de Elrond del dom 11/10 11:00 en Fútbol 5 Nordelta

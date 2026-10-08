@@ -1,0 +1,23 @@
+- 2026-09-30 15:21 · pidió unirse al futbol de Gimli del dom 04/10 09:00 en River Courts · Cancha 2
+- 2026-10-01 03:16 · pidió unirse al futbol de Elrond del sáb 03/10 11:00 en Fútbol 5 Nordelta
+- 2026-10-01 09:45 · organizó un running INTERMEDIATE para el mar 06/10 19:00 en Parque Pilar · Circuito
+- 2026-10-01 09:45 · pidió unirse al running de Faramir del dom 04/10 11:30 en Parque Pilar · Circuito
+- 2026-10-01 12:26 · aceptó a Éowyn en su running del mar 06/10 19:00
+- 2026-10-01 18:47 · aceptó a Montgomery Burns en su running del mar 06/10 19:00
+- 2026-10-01 21:54 · pidió unirse al futbol de Steve Rogers del mié 07/10 22:00 en Club Pilar · Cancha 2
+- 2026-10-02 03:11 · aceptó a Faramir en su running del mar 06/10 19:00
+- 2026-10-02 03:11 · pidió unirse al running de Faramir del dom 04/10 09:30 en Parque Pilar · Circuito
+- 2026-10-02 06:43 · pidió unirse al futbol de Steve Rogers del mar 06/10 22:00 en Campus Austral · Canchas
+- 2026-10-02 18:36 · aceptó a Qui-Gon Jinn en su running del mar 06/10 19:00
+- 2026-10-03 12:28 · pidió unirse al futbol de Mace Windu del jue 08/10 20:00 en Fútbol 5 Nordelta
+- 2026-10-04 00:40 · pidió unirse al running de Éowyn del vie 09/10 20:00 en Campus Austral · Canchas
+- 2026-10-04 18:29 · pidió unirse al futbol de Hermione Granger del sáb 10/10 11:30 en Polideportivo Del Viso
+- 2026-10-05 09:28 · pidió unirse al running de Faramir del sáb 10/10 10:00 en Parque Pilar · Circuito
+- 2026-10-05 18:48 · pidió unirse al running de Qui-Gon Jinn del mié 07/10 19:00 en Parque Pilar · Circuito
+- 2026-10-06 00:22 · rechazó a Jaime Lannister en su running del mar 06/10 19:00
+- 2026-10-06 09:14 · aceptó a Davy Jones en su running del mar 06/10 19:00
+- 2026-10-06 09:14 · pidió unirse al futbol de Pippin Tuk del jue 08/10 20:00 en Campus Austral · Canchas
+- 2026-10-06 15:12 · pidió unirse al futbol de Elrond del dom 11/10 11:00 en Fútbol 5 Nordelta
+- 2026-10-06 18:36 · aceptó a Obi-Wan Kenobi en su running del mar 06/10 19:00
+- 2026-10-07 12:20 · pidió unirse al futbol de Lois Lane del lun 12/10 20:00 en Campus Austral · Canchas
+- 2026-10-07 21:37 · se bajó a último momento del futbol del mié 07/10 22:00

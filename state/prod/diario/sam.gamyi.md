@@ -1,0 +1,14 @@
+- 2026-10-04 00:39 · organizó un padel INTERMEDIATE para el sáb 10/10 10:00 en Club Belgrano · Gimnasio
+- 2026-10-04 00:39 · pidió unirse al padel de Bellatrix Lestrange del lun 05/10 20:00 en Club Belgrano · Gimnasio
+- 2026-10-04 06:38 · aceptó a Bellatrix Lestrange en su padel del sáb 10/10 10:00
+- 2026-10-04 09:36 · aceptó a Qui-Gon Jinn en su padel del sáb 10/10 10:00
+- 2026-10-04 09:42 · pidió unirse al futbol de Mace Windu del jue 08/10 20:00 en Fútbol 5 Nordelta
+- 2026-10-04 21:39 · aceptó a Dobby en su padel del sáb 10/10 10:00
+- 2026-10-04 21:43 · pidió unirse al futbol de Doc Brown del mar 06/10 19:00 en Polideportivo Del Viso
+- 2026-10-05 06:54 · organizó un padel BEGINNER para el vie 09/10 21:00 en Club Belgrano · Gimnasio
+- 2026-10-05 09:22 · aceptó a Bellatrix Lestrange en su padel del vie 09/10 21:00
+- 2026-10-05 21:42 · calificó el padel del lun 05/10 20:00
+- 2026-10-05 21:42 · aceptó a Yoda en su padel del vie 09/10 21:00
+- 2026-10-05 21:42 · aceptó a Mace Windu en su padel del vie 09/10 21:00
+- 2026-10-05 21:46 · pidió unirse al futbol de Elrond del dom 11/10 11:00 en Fútbol 5 Nordelta
+- 2026-10-06 21:12 · calificó el futbol del mar 06/10 19:00 (reportó que faltó Théoden)

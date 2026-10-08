@@ -1,0 +1,8 @@
+- 2026-10-03 15:40 · organizó un tenis INTERMEDIATE para el vie 09/10 22:30 en Campus Austral · Canchas
+- 2026-10-03 15:40 · pidió unirse al running de Faramir del dom 04/10 11:30 en Parque Pilar · Circuito
+- 2026-10-03 18:23 · aceptó a Ron Weasley en su tenis del vie 09/10 22:30
+- 2026-10-03 18:24 · pidió unirse al running de Qui-Gon Jinn del mié 07/10 19:00 en Parque Pilar · Circuito
+- 2026-10-03 21:27 · pidió unirse al tenis de Hermione Granger del dom 04/10 10:00 en Club Pilar · Cancha 2
+- 2026-10-05 21:49 · pidió unirse al running de Fred Weasley del mar 06/10 19:00 en Parque Pilar · Circuito
+- 2026-10-06 00:28 · pidió unirse al tenis de Hermione Granger del dom 11/10 09:00 en Club Pilar · Cancha 2
+- 2026-10-07 09:39 · pidió unirse al running de Éowyn del vie 09/10 20:00 en Campus Austral · Canchas

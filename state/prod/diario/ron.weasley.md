@@ -1,0 +1,9 @@
+- 2026-09-30 21:52 · pidió unirse al tenis de Elrond del sáb 03/10 10:30 en Tigre Pádel Club
+- 2026-10-03 00:50 · pidió unirse al basquet de Galadriel del mar 06/10 19:00 en Club Belgrano · Gimnasio
+- 2026-10-03 12:22 · calificó el tenis del sáb 03/10 10:30
+- 2026-10-03 15:41 · pidió unirse al tenis de Jaime Lannister del vie 09/10 22:30 en Campus Austral · Canchas
+- 2026-10-04 03:32 · pidió unirse al tenis de Elrond del sáb 10/10 22:30 en Tigre Pádel Club
+- 2026-10-04 18:30 · pidió unirse al basquet de Milhouse Van Houten del lun 05/10 19:00 en Polideportivo Del Viso
+- 2026-10-05 12:27 · pidió unirse al tenis de Hermione Granger del dom 11/10 09:00 en Club Pilar · Cancha 2
+- 2026-10-05 21:42 · calificó el basquet del lun 05/10 19:00 (reportó que faltó Galadriel)
+- 2026-10-06 21:12 · calificó el basquet del mar 06/10 19:00

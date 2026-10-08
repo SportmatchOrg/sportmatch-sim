@@ -1,0 +1,6 @@
+- 2026-10-01 00:29 · pidió unirse al futbol de Gimli del dom 04/10 09:00 en River Courts · Cancha 2
+- 2026-10-01 06:48 · pidió unirse al futbol de Elrond del sáb 03/10 11:00 en Fútbol 5 Nordelta
+- 2026-10-02 15:16 · pidió unirse al futbol de Steve Rogers del mar 06/10 22:00 en Campus Austral · Canchas
+- 2026-10-02 21:34 · pidió unirse al futbol de Steve Rogers del mié 07/10 22:00 en Club Pilar · Cancha 2
+- 2026-10-05 00:52 · pidió unirse al futbol de Doc Brown del mar 06/10 19:00 en Polideportivo Del Viso
+- 2026-10-07 00:12 · calificó el futbol del mar 06/10 22:00

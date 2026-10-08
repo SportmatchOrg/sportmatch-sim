@@ -1,0 +1,22 @@
+- 2026-10-03 00:45 · pidió unirse al futbol de Steve Rogers del mar 06/10 22:00 en Campus Austral · Canchas
+- 2026-10-03 21:25 · organizó un tenis ADVANCED para el dom 04/10 10:00 en Club Pilar · Cancha 2
+- 2026-10-04 00:36 · aceptó a Jaime Lannister en su tenis del dom 04/10 10:00
+- 2026-10-04 06:42 · organizó un futbol INTERMEDIATE para el sáb 10/10 11:30 en Polideportivo Del Viso
+- 2026-10-04 06:42 · pidió unirse al futbol de Doc Brown del mar 06/10 19:00 en Polideportivo Del Viso
+- 2026-10-04 09:36 · aceptó a Gimli en su futbol del sáb 10/10 11:30
+- 2026-10-04 09:36 · aceptó a Elrond en su futbol del sáb 10/10 11:30
+- 2026-10-04 09:36 · aceptó a Bellatrix Lestrange en su futbol del sáb 10/10 11:30
+- 2026-10-04 12:49 · calificó el tenis del dom 04/10 10:00
+- 2026-10-04 12:49 · rechazó a Doc Brown en su futbol del sáb 10/10 11:30
+- 2026-10-04 15:22 · aceptó a Jon Snow en su futbol del sáb 10/10 11:30
+- 2026-10-04 18:25 · aceptó a Pippin Tuk en su futbol del sáb 10/10 11:30
+- 2026-10-04 21:39 · aceptó a Fred Weasley en su futbol del sáb 10/10 11:30
+- 2026-10-05 06:50 · aceptó a Théoden en su futbol del sáb 10/10 11:30
+- 2026-10-05 06:50 · aceptó a Mace Windu en su futbol del sáb 10/10 11:30
+- 2026-10-05 06:50 · organizó un tenis INTERMEDIATE para el dom 11/10 09:00 en Club Pilar · Cancha 2
+- 2026-10-05 15:33 · aceptó a Ron Weasley en su tenis del dom 11/10 09:00
+- 2026-10-05 21:42 · aceptó a Steve Rogers en su futbol del sáb 10/10 11:30
+- 2026-10-06 03:13 · aceptó a Jaime Lannister en su tenis del dom 11/10 09:00
+- 2026-10-06 03:13 · aceptó a Elrond en su tenis del dom 11/10 09:00
+- 2026-10-06 21:12 · calificó el futbol del mar 06/10 19:00 (reportó que faltó Théoden)
+- 2026-10-07 00:12 · calificó el futbol del mar 06/10 22:00

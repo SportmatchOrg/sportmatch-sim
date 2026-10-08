@@ -1,0 +1,36 @@
+- 2026-09-30 15:21 · pidió unirse al futbol de Gimli del dom 04/10 09:00 en River Courts · Cancha 2
+- 2026-10-01 00:27 · pidió unirse al futbol de Elrond del sáb 03/10 11:00 en Fútbol 5 Nordelta
+- 2026-10-01 03:18 · organizó un padel INTERMEDIATE para el sáb 03/10 09:00 en Club Belgrano · Gimnasio
+- 2026-10-01 03:18 · pidió unirse al padel de Mace Windu del dom 04/10 11:00 en Tigre Pádel Club
+- 2026-10-01 09:44 · aceptó a Éowyn en su padel del sáb 03/10 09:00
+- 2026-10-01 15:24 · pidió unirse al futbol de Steve Rogers del mié 07/10 22:00 en Club Pilar · Cancha 2
+- 2026-10-02 03:13 · pidió unirse al futbol de Steve Rogers del mar 06/10 22:00 en Campus Austral · Canchas
+- 2026-10-02 06:38 · aceptó a Dobby en su padel del sáb 03/10 09:00
+- 2026-10-02 06:38 · pidió unirse al padel de Mace Windu del sáb 03/10 09:00 en Tigre Pádel Club
+- 2026-10-02 09:22 · aceptó a Yoda en su padel del sáb 03/10 09:00
+- 2026-10-03 09:49 · calificó el padel del sáb 03/10 09:00
+- 2026-10-03 09:49 · calificó el padel del sáb 03/10 09:00
+- 2026-10-03 12:22 · calificó el futbol del sáb 03/10 11:00 (reportó que faltó Gimli)
+- 2026-10-03 15:37 · pidió unirse al futbol de Mace Windu del jue 08/10 20:00 en Fútbol 5 Nordelta
+- 2026-10-03 18:26 · organizó un padel INTERMEDIATE para el lun 05/10 20:00 en Club Belgrano · Gimnasio
+- 2026-10-04 00:36 · aceptó a Dobby en su padel del lun 05/10 20:00
+- 2026-10-04 00:36 · aceptó a Yoda en su padel del lun 05/10 20:00
+- 2026-10-04 00:36 · pidió unirse al futbol de Elrond del dom 04/10 21:30 en Fútbol 5 Nordelta
+- 2026-10-04 03:28 · aceptó a Sam Gamyi en su padel del lun 05/10 20:00
+- 2026-10-04 03:29 · pidió unirse al padel de Sam Gamyi del sáb 10/10 10:00 en Club Belgrano · Gimnasio
+- 2026-10-04 09:36 · calificó el futbol del dom 04/10 09:00
+- 2026-10-04 09:38 · pidió unirse al futbol de Hermione Granger del sáb 10/10 11:30 en Polideportivo Del Viso
+- 2026-10-04 12:49 · calificó el padel del dom 04/10 11:00
+- 2026-10-04 12:49 · pidió unirse al futbol de Doc Brown del mar 06/10 19:00 en Polideportivo Del Viso
+- 2026-10-04 18:29 · pidió unirse al padel de Mace Windu del mié 07/10 22:00 en Tigre Pádel Club
+- 2026-10-04 21:39 · calificó el futbol del dom 04/10 21:30
+- 2026-10-05 06:56 · pidió unirse al padel de Sam Gamyi del vie 09/10 21:00 en Club Belgrano · Gimnasio
+- 2026-10-05 12:25 · pidió unirse al padel de Faramir del sáb 10/10 10:30 en Club Pilar · Cancha 2
+- 2026-10-05 21:42 · calificó el padel del lun 05/10 20:00
+- 2026-10-05 21:44 · pidió unirse al futbol de Pippin Tuk del jue 08/10 20:00 en Campus Austral · Canchas
+- 2026-10-06 00:24 · pidió unirse al futbol de Elrond del dom 11/10 11:00 en Fútbol 5 Nordelta
+- 2026-10-06 18:36 · se bajó a último momento del futbol del mar 06/10 19:00
+- 2026-10-07 00:12 · calificó el futbol del mar 06/10 22:00
+- 2026-10-07 03:49 · pidió unirse al futbol de Lois Lane del lun 12/10 20:00 en Campus Austral · Canchas
+- 2026-10-07 12:23 · pidió unirse al futbol de Gimli del jue 08/10 22:30 en River Courts · Cancha 2
+- 2026-10-08 00:49 · calificó el futbol del mié 07/10 22:00 (reportó que faltó Gimli, Rubeus Hagrid)

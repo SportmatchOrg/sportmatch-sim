@@ -1,0 +1,20 @@
+- 2026-10-01 06:46 · pidió unirse al padel de Bellatrix Lestrange del sáb 03/10 09:00 en Club Belgrano · Gimnasio
+- 2026-10-01 09:48 · pidió unirse al running de Fred Weasley del mar 06/10 19:00 en Parque Pilar · Circuito
+- 2026-10-01 15:22 · pidió unirse al padel de Mace Windu del dom 04/10 11:00 en Tigre Pádel Club
+- 2026-10-01 21:55 · pidió unirse al running de Faramir del dom 04/10 11:30 en Parque Pilar · Circuito
+- 2026-10-02 00:18 · pidió unirse al running de Faramir del dom 04/10 09:30 en Parque Pilar · Circuito
+- 2026-10-03 12:28 · pidió unirse al basquet de Galadriel del mar 06/10 19:00 en Club Belgrano · Gimnasio
+- 2026-10-03 15:42 · organizó un running ADVANCED para el vie 09/10 20:00 en Campus Austral · Canchas
+- 2026-10-04 00:36 · aceptó a Qui-Gon Jinn en su running del vie 09/10 20:00
+- 2026-10-04 03:28 · aceptó a Fred Weasley en su running del vie 09/10 20:00
+- 2026-10-04 03:28 · aceptó a Montgomery Burns en su running del vie 09/10 20:00
+- 2026-10-04 09:36 · se bajó a último momento del running del dom 04/10 11:30
+- 2026-10-04 09:36 · calificó el running del dom 04/10 09:30 (reportó que faltó Fred Weasley)
+- 2026-10-05 12:21 · pidió unirse al running de Qui-Gon Jinn del mié 07/10 19:00 en Parque Pilar · Circuito
+- 2026-10-05 15:33 · aceptó a Faramir en su running del vie 09/10 20:00
+- 2026-10-05 15:33 · pidió unirse al padel de Faramir del sáb 10/10 10:30 en Club Pilar · Cancha 2
+- 2026-10-06 06:20 · aceptó a Davy Jones en su running del vie 09/10 20:00
+- 2026-10-06 18:36 · se bajó a último momento del running del mar 06/10 19:00
+- 2026-10-06 21:12 · calificó el basquet del mar 06/10 19:00
+- 2026-10-07 12:18 · aceptó a Jaime Lannister en su running del vie 09/10 20:00
+- 2026-10-07 18:50 · se bajó a último momento del running del mié 07/10 19:00

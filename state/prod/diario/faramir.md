@@ -1,0 +1,26 @@
+- 2026-10-01 06:46 · organizó un running ADVANCED para el dom 04/10 11:30 en Parque Pilar · Circuito
+- 2026-10-01 09:48 · pidió unirse al padel de Mace Windu del dom 04/10 11:00 en Tigre Pádel Club
+- 2026-10-01 12:26 · aceptó a Fred Weasley en su running del dom 04/10 11:30
+- 2026-10-01 21:49 · aceptó a Montgomery Burns en su running del dom 04/10 11:30
+- 2026-10-02 00:15 · aceptó a Éowyn en su running del dom 04/10 11:30
+- 2026-10-02 00:15 · organizó un running INTERMEDIATE para el dom 04/10 09:30 en Parque Pilar · Circuito
+- 2026-10-02 00:15 · pidió unirse al running de Fred Weasley del mar 06/10 19:00 en Parque Pilar · Circuito
+- 2026-10-02 03:11 · aceptó a Éowyn en su running del dom 04/10 09:30
+- 2026-10-02 03:11 · aceptó a Fred Weasley en su running del dom 04/10 09:30
+- 2026-10-03 15:35 · aceptó a Montgomery Burns en su running del dom 04/10 09:30
+- 2026-10-03 18:23 · aceptó a Jaime Lannister en su running del dom 04/10 11:30
+- 2026-10-04 09:36 · calificó el running del dom 04/10 09:30 (reportó que faltó Fred Weasley)
+- 2026-10-04 09:39 · organizó un running BEGINNER para el sáb 10/10 10:00 en Parque Pilar · Circuito
+- 2026-10-04 12:49 · calificó el padel del dom 04/10 11:00
+- 2026-10-04 12:49 · calificó el running del dom 04/10 11:30
+- 2026-10-04 12:49 · aceptó a Montgomery Burns en su running del sáb 10/10 10:00
+- 2026-10-04 18:25 · aceptó a Qui-Gon Jinn en su running del sáb 10/10 10:00
+- 2026-10-05 12:21 · aceptó a Fred Weasley en su running del sáb 10/10 10:00
+- 2026-10-05 12:21 · organizó un padel INTERMEDIATE para el sáb 10/10 10:30 en Club Pilar · Cancha 2
+- 2026-10-05 12:21 · pidió unirse al running de Éowyn del vie 09/10 20:00 en Campus Austral · Canchas
+- 2026-10-05 15:33 · aceptó a Bellatrix Lestrange en su padel del sáb 10/10 10:30
+- 2026-10-05 15:33 · aceptó a Yoda en su padel del sáb 10/10 10:30
+- 2026-10-05 15:33 · aceptó a Éowyn en su padel del sáb 10/10 10:30
+- 2026-10-05 15:34 · pidió unirse al running de Qui-Gon Jinn del mié 07/10 19:00 en Parque Pilar · Circuito
+- 2026-10-06 21:12 · calificó el running del mar 06/10 19:00
+- 2026-10-07 21:37 · calificó el running del mié 07/10 19:00 (reportó que faltó Fred Weasley)

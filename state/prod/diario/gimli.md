@@ -1,0 +1,28 @@
+- 2026-09-30 12:18 · organizó un futbol INTERMEDIATE para el dom 04/10 09:00 en River Courts · Cancha 2
+- 2026-09-30 18:26 · aceptó a Fred Weasley en su futbol del dom 04/10 09:00
+- 2026-09-30 18:26 · aceptó a Bellatrix Lestrange en su futbol del dom 04/10 09:00
+- 2026-09-30 21:48 · aceptó a Pippin Tuk en su futbol del dom 04/10 09:00
+- 2026-09-30 21:48 · aceptó a Elrond en su futbol del dom 04/10 09:00
+- 2026-10-01 03:14 · aceptó a Rubeus Hagrid en su futbol del dom 04/10 09:00
+- 2026-10-01 03:14 · pidió unirse al futbol de Elrond del sáb 03/10 11:00 en Fútbol 5 Nordelta
+- 2026-10-01 15:22 · pidió unirse al futbol de Steve Rogers del mié 07/10 22:00 en Club Pilar · Cancha 2
+- 2026-10-01 21:49 · aceptó a Mace Windu en su futbol del dom 04/10 09:00
+- 2026-10-02 03:11 · aceptó a Steve Rogers en su futbol del dom 04/10 09:00
+- 2026-10-02 18:41 · pidió unirse al futbol de Steve Rogers del mar 06/10 22:00 en Campus Austral · Canchas
+- 2026-10-03 06:44 · aceptó a Jon Snow en su futbol del dom 04/10 09:00
+- 2026-10-04 06:43 · pidió unirse al futbol de Hermione Granger del sáb 10/10 11:30 en Polideportivo Del Viso
+- 2026-10-04 09:36 · calificó el futbol del dom 04/10 09:00
+- 2026-10-04 09:36 · pidió unirse al futbol de Mace Windu del jue 08/10 20:00 en Fútbol 5 Nordelta
+- 2026-10-04 18:32 · pidió unirse al futbol de Doc Brown del mar 06/10 19:00 en Polideportivo Del Viso
+- 2026-10-06 06:22 · pidió unirse al futbol de Pippin Tuk del jue 08/10 20:00 en Campus Austral · Canchas
+- 2026-10-06 15:12 · pidió unirse al futbol de Elrond del dom 11/10 11:00 en Fútbol 5 Nordelta
+- 2026-10-06 21:12 · calificó el futbol del mar 06/10 19:00 (reportó que faltó Théoden)
+- 2026-10-07 06:42 · organizó un futbol INTERMEDIATE para el jue 08/10 22:30 en River Courts · Cancha 2
+- 2026-10-07 15:16 · rechazó a Bellatrix Lestrange en su futbol del jue 08/10 22:30
+- 2026-10-07 15:16 · aceptó a Sirius Black en su futbol del jue 08/10 22:30
+- 2026-10-07 15:16 · pidió unirse al futbol de Lois Lane del lun 12/10 20:00 en Campus Austral · Canchas
+- 2026-10-07 18:50 · aceptó a Mace Windu en su futbol del jue 08/10 22:30
+- 2026-10-07 18:50 · aceptó a Chewbacca en su futbol del jue 08/10 22:30
+- 2026-10-08 00:49 · aceptó a Padmé Amidala en su futbol del jue 08/10 22:30
+- 2026-10-08 00:49 · canceló su futbol del jue 08/10 22:30 (iba 5/11)
+- 2026-10-08 18:20 · se bajó a último momento del futbol del jue 08/10 20:00

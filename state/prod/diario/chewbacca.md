@@ -1,0 +1,2 @@
+- 2026-10-07 09:35 · pidió unirse al futbol de Lois Lane del lun 12/10 20:00 en Campus Austral · Canchas
+- 2026-10-07 15:23 · pidió unirse al futbol de Gimli del jue 08/10 22:30 en River Courts · Cancha 2

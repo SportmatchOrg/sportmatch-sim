@@ -11,7 +11,7 @@
 // Claude decide con reglas simples. Hasta la primera acción en vivo (acciones.log) hace todo; desde ahí
 // hasta ahora solo lo obligatorio de sus propios partidos (aceptar, cancelar, calificar, bajas, asistencia),
 // porque lo voluntario de esos días ya lo hicieron las corridas en vivo.
-import { existsSync, readFileSync, writeFileSync } from 'node:fs';
+import { existsSync, mkdirSync, readFileSync, writeFileSync } from 'node:fs';
 import { join } from 'node:path';
 import pg from 'pg';
 import {
@@ -166,14 +166,17 @@ type Partido = {
 if (!DESDE || !/^\d{4}-\d{2}-\d{2}$/.test(DESDE)) throw new Error('Uso: node src/backfill.ts --desde YYYY-MM-DD [--aplicar] [--semilla N]');
 const inicioActual = inicio();
 if (!inicioActual) throw new Error(`La simulación de ${ENTORNO} no arrancó todavía: no hay nada que retrotraer.`);
-if (DESDE >= inicioActual) throw new Error(`${ENTORNO} ya arranca el ${inicioActual}: --desde tiene que ser anterior.`);
+// --reconstruir <ISO de cuando se aplicó> --corte <inicio previo>: rehace solo diario/ y backfill.log
+// de un backfill ya escrito en la base (misma semilla, mismo "ahora"); verifica contra partidos.json.
+const RECONSTRUIR = flag('reconstruir');
+if (!RECONSTRUIR && DESDE >= inicioActual) throw new Error(`${ENTORNO} ya arranca el ${inicioActual}: --desde tiene que ser anterior.`);
 if (existsSync(join(ROOT, STATE, 'backfill.log'))) throw new Error(`${ENTORNO} ya tiene un backfill (${STATE}/backfill.log).`);
 
 // Primera acción en vivo: hasta acá el backfill hace todo; después, solo lo obligatorio de sus partidos.
 const logVivo = join(ROOT, STATE, 'acciones.log');
 const primeraVivo = existsSync(logVivo) ? Date.parse(readFileSync(logVivo, 'utf8').split(' ')[0]) : NaN;
-const CORTE = Number.isNaN(primeraVivo) ? enAR(inicioActual, 0) : primeraVivo;
-const AHORA = Date.now();
+const CORTE = RECONSTRUIR ? enAR(flag('corte')!, 0) : Number.isNaN(primeraVivo) ? enAR(inicioActual, 0) : primeraVivo;
+const AHORA = RECONSTRUIR ? Date.parse(RECONSTRUIR) : Date.now();
 
 // Con el inicio corrido, las llegadas se corren igual: llegada = DESDE + diaLlegada.
 // inicio.json se mueve recién después de escribir en la base.
@@ -464,12 +467,29 @@ console.log(`\norganizan: ${[...porArquetipo].sort((a, b) => b[1] - a[1]).map(([
     `noshow=${pct(faltas, plantel)}% jugados=${activos.length} jugadores/partido=${(plantel / Math.max(1, activos.length)).toFixed(1)}`);
 }
 
-if (!APLICAR) {
+if (RECONSTRUIR) {
+  const escritos = partidos();
+  const distintos = registro.filter((m) => {
+    const e = escritos[m.id];
+    return !e || JSON.stringify([...e.jugadores].sort()) !== JSON.stringify([...m.jugadores.keys()].sort()) ||
+      JSON.stringify(e.asistencia) !== JSON.stringify(m.asistencia) || e.cancelado !== (m.cancelado !== null);
+  });
+  if (distintos.length || registro.length !== Object.keys(escritos).filter((id) => registro.some((m) => m.id === id)).length)
+    throw new Error(`La reconstrucción no coincide con partidos.json (${distintos.length} partidos distintos): no se escribe nada.`);
+  console.log(`\nReconstrucción idéntica a partidos.json (${registro.length} partidos).`);
+}
+
+if (!APLICAR && !RECONSTRUIR) {
   console.log('\nDry-run: no se escribió nada. Para aplicarlo, repetir con --aplicar.');
   process.exit(0);
 }
 
 // --- escritura ----------------------------------------------------------------------
+
+if (RECONSTRUIR) {
+  escribirDiarioYLog();
+  process.exit(0);
+}
 
 const url = process.env[`DATABASE_URL_${ENTORNO.toUpperCase()}`];
 if (!url) throw new Error(`Falta DATABASE_URL_${ENTORNO.toUpperCase()} en el .env`);
@@ -564,6 +584,11 @@ for (const m of registro) {
 guardarPartidos(vivos);
 writeJson(`${STATE}/inicio.json`, { fecha: DESDE });
 
+escribirDiarioYLog();
+console.log(`\nAplicado: ${registro.length} partidos escritos en ${ENTORNO}; inicio movido a ${DESDE}.`);
+
+function escribirDiarioYLog() {
+mkdirSync(join(ROOT, STATE, 'diario'), { recursive: true });
 for (const [h, lineas] of diario) {
   const path = join(ROOT, STATE, 'diario', `${h}.md`);
   const previo = existsSync(path) ? readFileSync(path, 'utf8') : '';
@@ -574,4 +599,4 @@ writeFileSync(
   `# backfill desde ${DESDE} (semilla ${SEMILLA}), aplicado ${new Date().toISOString()}\n` +
     acciones.sort((a, b) => a.en - b.en).map((a) => `${new Date(a.en).toISOString()} ${a.linea}`).join('\n') + '\n',
 );
-console.log(`\nAplicado: ${registro.length} partidos escritos en ${ENTORNO}; inicio movido a ${DESDE}.`);
+}

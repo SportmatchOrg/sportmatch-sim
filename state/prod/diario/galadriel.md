@@ -1,0 +1,5 @@
+- 2026-10-03 00:50 · organizó un basquet ADVANCED para el mar 06/10 19:00 en Club Belgrano · Gimnasio
+- 2026-10-03 03:38 · aceptó a Ron Weasley en su basquet del mar 06/10 19:00
+- 2026-10-03 15:35 · aceptó a Éowyn en su basquet del mar 06/10 19:00
+- 2026-10-04 18:31 · pidió unirse al basquet de Milhouse Van Houten del lun 05/10 19:00 en Polideportivo Del Viso
+- 2026-10-06 15:10 · aceptó a Boromir en su basquet del mar 06/10 19:00

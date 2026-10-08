@@ -1,0 +1,12 @@
+- 2026-10-07 00:16 · organizó un futbol INTERMEDIATE para el lun 12/10 20:00 en Campus Austral · Canchas
+- 2026-10-07 03:45 · aceptó a Sirius Black en su futbol del lun 12/10 20:00
+- 2026-10-07 06:40 · aceptó a Bellatrix Lestrange en su futbol del lun 12/10 20:00
+- 2026-10-07 09:35 · aceptó a Pippin Tuk en su futbol del lun 12/10 20:00
+- 2026-10-07 09:35 · rechazó a Barry Allen en su futbol del lun 12/10 20:00
+- 2026-10-07 12:18 · aceptó a Chewbacca en su futbol del lun 12/10 20:00
+- 2026-10-07 12:18 · aceptó a Will Turner en su futbol del lun 12/10 20:00
+- 2026-10-07 12:18 · aceptó a Doc Brown en su futbol del lun 12/10 20:00
+- 2026-10-07 15:16 · aceptó a Fred Weasley en su futbol del lun 12/10 20:00
+- 2026-10-07 15:16 · aceptó a Mace Windu en su futbol del lun 12/10 20:00
+- 2026-10-07 15:16 · rechazó a Gimli en su futbol del lun 12/10 20:00
+- 2026-10-07 21:37 · aceptó a Padmé Amidala en su futbol del lun 12/10 20:00

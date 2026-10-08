@@ -1,0 +1,3 @@
+- 2026-10-06 18:41 · pidió unirse al futbol de Elrond del dom 11/10 11:00 en Fútbol 5 Nordelta
+- 2026-10-07 18:52 · pidió unirse al futbol de Lois Lane del lun 12/10 20:00 en Campus Austral · Canchas
+- 2026-10-07 21:40 · pidió unirse al futbol de Gimli del jue 08/10 22:30 en River Courts · Cancha 2

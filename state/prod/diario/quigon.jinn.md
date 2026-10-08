@@ -1,0 +1,16 @@
+- 2026-10-01 15:21 · pidió unirse al padel de Mace Windu del dom 04/10 11:00 en Tigre Pádel Club
+- 2026-10-02 06:42 · pidió unirse al padel de Mace Windu del sáb 03/10 09:00 en Tigre Pádel Club
+- 2026-10-02 15:14 · pidió unirse al running de Fred Weasley del mar 06/10 19:00 en Parque Pilar · Circuito
+- 2026-10-03 15:38 · organizó un running INTERMEDIATE para el mié 07/10 19:00 en Parque Pilar · Circuito
+- 2026-10-03 21:20 · rechazó a Jaime Lannister en su running del mié 07/10 19:00
+- 2026-10-03 21:20 · pidió unirse al running de Éowyn del vie 09/10 20:00 en Campus Austral · Canchas
+- 2026-10-04 06:41 · pidió unirse al padel de Sam Gamyi del sáb 10/10 10:00 en Club Belgrano · Gimnasio
+- 2026-10-04 15:22 · aceptó a Montgomery Burns en su running del mié 07/10 19:00
+- 2026-10-04 15:22 · pidió unirse al running de Faramir del sáb 10/10 10:00 en Parque Pilar · Circuito
+- 2026-10-04 18:28 · pidió unirse al padel de Mace Windu del mié 07/10 22:00 en Tigre Pádel Club
+- 2026-10-05 15:33 · aceptó a Éowyn en su running del mié 07/10 19:00
+- 2026-10-05 18:44 · aceptó a Faramir en su running del mié 07/10 19:00
+- 2026-10-05 21:42 · aceptó a Fred Weasley en su running del mié 07/10 19:00
+- 2026-10-06 12:25 · aceptó a Davy Jones en su running del mié 07/10 19:00
+- 2026-10-06 21:12 · calificó el running del mar 06/10 19:00
+- 2026-10-07 21:37 · calificó el running del mié 07/10 19:00 (reportó que faltó Fred Weasley)

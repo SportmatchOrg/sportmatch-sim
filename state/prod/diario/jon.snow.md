@@ -1,0 +1,13 @@
+- 2026-10-01 15:24 · pidió unirse al futbol de Steve Rogers del mié 07/10 22:00 en Club Pilar · Cancha 2
+- 2026-10-02 06:42 · pidió unirse al futbol de Steve Rogers del mar 06/10 22:00 en Campus Austral · Canchas
+- 2026-10-03 00:49 · pidió unirse al futbol de Elrond del sáb 03/10 11:00 en Fútbol 5 Nordelta
+- 2026-10-03 03:45 · pidió unirse al futbol de Gimli del dom 04/10 09:00 en River Courts · Cancha 2
+- 2026-10-03 12:26 · pidió unirse al futbol de Mace Windu del jue 08/10 20:00 en Fútbol 5 Nordelta
+- 2026-10-04 03:35 · pidió unirse al futbol de Doc Brown del mar 06/10 19:00 en Polideportivo Del Viso
+- 2026-10-04 12:54 · pidió unirse al futbol de Hermione Granger del sáb 10/10 11:30 en Polideportivo Del Viso
+- 2026-10-04 15:26 · pidió unirse al futbol de Elrond del dom 04/10 21:30 en Fútbol 5 Nordelta
+- 2026-10-04 21:39 · calificó el futbol del dom 04/10 21:30
+- 2026-10-06 03:20 · pidió unirse al futbol de Pippin Tuk del jue 08/10 20:00 en Campus Austral · Canchas
+- 2026-10-06 18:36 · se bajó a último momento del futbol del mar 06/10 19:00
+- 2026-10-07 00:12 · calificó el futbol del mar 06/10 22:00
+- 2026-10-08 00:49 · calificó el futbol del mié 07/10 22:00 (reportó que faltó Gimli, Rubeus Hagrid)

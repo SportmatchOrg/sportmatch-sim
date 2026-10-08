@@ -1,0 +1,2 @@
+- 2026-10-05 21:48 · pidió unirse al futbol de Pippin Tuk del jue 08/10 20:00 en Campus Austral · Canchas
+- 2026-10-07 09:37 · pidió unirse al futbol de Lois Lane del lun 12/10 20:00 en Campus Austral · Canchas

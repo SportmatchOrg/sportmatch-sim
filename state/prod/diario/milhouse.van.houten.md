@@ -1,0 +1,4 @@
+- 2026-10-04 15:28 · organizó un basquet BEGINNER para el lun 05/10 19:00 en Polideportivo Del Viso
+- 2026-10-04 21:39 · aceptó a Ron Weasley en su basquet del lun 05/10 19:00
+- 2026-10-04 21:39 · aceptó a Galadriel en su basquet del lun 05/10 19:00
+- 2026-10-05 21:42 · calificó el basquet del lun 05/10 19:00 (reportó que faltó Galadriel)
