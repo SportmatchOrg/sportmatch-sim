@@ -1,0 +1,1 @@
+- 2026-10-08 07:29 · armó un fútbol el martes 21 h en Club Pilar (puntuales, después del laburo)

@@ -19,3 +19,4 @@
 - 2026-10-06 21:43 · se bajó a último momento del basquet del mar 06/10 22:30
 - 2026-10-07 00:01 · miró partidos, no había de running, básquet ni pádel
 - 2026-10-07 07:10 · pidió unirse al pádel del viernes en Club Belgrano (le gusta sumarse a todo)
+- 2026-10-08 07:29 · pidió unirse al pádel del lunes en Club Belgrano (le gusta sumarse a todo)

@@ -48,3 +48,4 @@
 - 2026-10-07 22:36 · quiso sumarse al fútbol del domingo de Gimli pero ya estaba anotada; nada más
 - 2026-10-07 22:38 · se anotó al fútbol del viernes en Nordelta (se suma a todo lo que puede)
 - 2026-10-07 22:38 · en realidad ya estaba anotada a Nordelta; probó otro fútbol de River Courts del viernes
+- 2026-10-08 07:29 · aceptó a Yoda en su pádel y pidió sumarse al fútbol ADVANCED de Steve en Pilar

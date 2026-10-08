@@ -1,0 +1,1 @@
+- 2026-10-08 07:29 · entró a mirar y leyó notificaciones; no se anotó a nada
