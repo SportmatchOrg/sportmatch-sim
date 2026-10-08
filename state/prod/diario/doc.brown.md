@@ -18,3 +18,4 @@
 - 2026-10-06 06:23 · pidió unirse al futbol de Elrond del dom 11/10 11:00 en Fútbol 5 Nordelta
 - 2026-10-06 21:12 · calificó el futbol del mar 06/10 19:00 (reportó que faltó Théoden)
 - 2026-10-07 09:37 · pidió unirse al futbol de Lois Lane del lun 12/10 20:00 en Campus Austral · Canchas
+- 2026-10-08 18:51 · entró, leyó todo y no hizo nada

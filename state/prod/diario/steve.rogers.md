@@ -26,3 +26,4 @@
 - 2026-10-05 18:49 · pidió unirse al futbol de Hermione Granger del sáb 10/10 11:30 en Polideportivo Del Viso
 - 2026-10-06 12:27 · pidió unirse al futbol de Pippin Tuk del jue 08/10 20:00 en Campus Austral · Canchas
 - 2026-10-06 21:12 · calificó el futbol del mar 06/10 19:00 (reportó que faltó Théoden)
+- 2026-10-08 18:51 · revisó la app, nada por hacer hoy

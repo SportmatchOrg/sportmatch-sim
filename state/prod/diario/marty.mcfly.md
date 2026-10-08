@@ -1,0 +1,1 @@
+- 2026-10-08 18:51 · pidió unirse al fútbol del martes en BACKYARD Pilar (primera vez, se anota a todo)

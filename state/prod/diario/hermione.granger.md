@@ -20,3 +20,4 @@
 - 2026-10-06 03:13 · aceptó a Elrond en su tenis del dom 11/10 09:00
 - 2026-10-06 21:12 · calificó el futbol del mar 06/10 19:00 (reportó que faltó Théoden)
 - 2026-10-07 00:12 · calificó el futbol del mar 06/10 22:00
+- 2026-10-08 18:51 · entró a chequear su tenis del domingo 11; nada más

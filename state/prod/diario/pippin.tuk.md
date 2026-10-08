@@ -23,3 +23,4 @@
 - 2026-10-07 00:12 · calificó el futbol del mar 06/10 22:00
 - 2026-10-07 06:40 · pidió unirse al futbol de Lois Lane del lun 12/10 20:00 en Campus Austral · Canchas
 - 2026-10-08 00:49 · calificó el futbol del mié 07/10 22:00 (reportó que faltó Gimli, Rubeus Hagrid)
+- 2026-10-08 18:51 · pidió unirse al fútbol del martes 13 en BACKYARD Pilar (nivel intermedio, a ver qué tal)

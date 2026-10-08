@@ -1,0 +1,1 @@
+- 2026-10-08 18:51 · primera mirada a la app: curioseó partidos sin anotarse

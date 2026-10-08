@@ -1,0 +1,1 @@
+- 2026-10-08 18:51 · primera vez en la app: miró partidos, todavía no se animó a anotarse

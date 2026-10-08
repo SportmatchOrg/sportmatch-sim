@@ -10,3 +10,4 @@
 - 2026-10-07 15:16 · aceptó a Mace Windu en su futbol del lun 12/10 20:00
 - 2026-10-07 15:16 · rechazó a Gimli en su futbol del lun 12/10 20:00
 - 2026-10-07 21:37 · aceptó a Padmé Amidala en su futbol del lun 12/10 20:00
+- 2026-10-08 18:51 · entró a mirar cómo viene su fútbol del lunes 12; sin novedades

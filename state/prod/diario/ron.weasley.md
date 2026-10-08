@@ -7,3 +7,4 @@
 - 2026-10-05 12:27 · pidió unirse al tenis de Hermione Granger del dom 11/10 09:00 en Club Pilar · Cancha 2
 - 2026-10-05 21:42 · calificó el basquet del lun 05/10 19:00 (reportó que faltó Galadriel)
 - 2026-10-06 21:12 · calificó el basquet del mar 06/10 19:00
+- 2026-10-08 18:51 · miró partidos de básquet y tenis; nada que le cierre temprano

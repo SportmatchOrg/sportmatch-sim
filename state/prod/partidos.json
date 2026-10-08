@@ -451,7 +451,9 @@
     "calificaron": [],
     "cancelado": false,
     "creado": "2026-10-03T15:24:00.000Z",
-    "cancelSorteado": false
+    "cancelSorteado": false,
+    "pendientesHumanos": 0,
+    "anotados": 8
   },
   "csoaeyqrb8t2ww4iq3t21jjmm": {
     "organizador": "quigon.jinn",
@@ -500,7 +502,9 @@
     "calificaron": [],
     "cancelado": false,
     "creado": "2026-10-03T18:40:20.000Z",
-    "cancelSorteado": false
+    "cancelSorteado": false,
+    "pendientesHumanos": 0,
+    "anotados": 1
   },
   "cl4o9o1871171i37ty8ewspus": {
     "organizador": "eowyn",
@@ -522,7 +526,9 @@
     "calificaron": [],
     "cancelado": false,
     "creado": "2026-10-03T18:42:20.000Z",
-    "cancelSorteado": false
+    "cancelSorteado": false,
+    "pendientesHumanos": 0,
+    "anotados": 6
   },
   "ce7oyt9zinkwwr177ao3gpuqo": {
     "organizador": "bellatrix.lestrange",
@@ -679,7 +685,9 @@
     "calificaron": [],
     "cancelado": false,
     "creado": "2026-10-04T03:39:20.000Z",
-    "cancelSorteado": false
+    "cancelSorteado": false,
+    "pendientesHumanos": 0,
+    "anotados": 3
   },
   "cnh6ik85w1hrsf32dbr43sau4": {
     "organizador": "elrond",
@@ -696,7 +704,9 @@
     "calificaron": [],
     "cancelado": false,
     "creado": "2026-10-04T06:28:40.000Z",
-    "cancelSorteado": false
+    "cancelSorteado": false,
+    "pendientesHumanos": 0,
+    "anotados": 1
   },
   "cipzlit1ncq9rek868kg6ww5w": {
     "organizador": "hermione.granger",
@@ -721,7 +731,9 @@
     "calificaron": [],
     "cancelado": false,
     "creado": "2026-10-04T09:42:40.000Z",
-    "cancelSorteado": false
+    "cancelSorteado": false,
+    "pendientesHumanos": 0,
+    "anotados": 9
   },
   "c95bl7b747z9u1t75g64sra5w": {
     "organizador": "faramir",
@@ -740,7 +752,9 @@
     "calificaron": [],
     "cancelado": false,
     "creado": "2026-10-04T12:39:20.000Z",
-    "cancelSorteado": false
+    "cancelSorteado": false,
+    "pendientesHumanos": 0,
+    "anotados": 3
   },
   "cvzrtpj5yqsztjj3px5t4vyvv": {
     "organizador": "milhouse.van.houten",
@@ -813,7 +827,9 @@
     "calificaron": [],
     "cancelado": false,
     "creado": "2026-10-05T09:50:40.000Z",
-    "cancelSorteado": false
+    "cancelSorteado": false,
+    "pendientesHumanos": 0,
+    "anotados": 3
   },
   "cpa3lsm8iz9t4nkbehk4l4nbz": {
     "organizador": "sam.gamyi",
@@ -832,7 +848,9 @@
     "calificaron": [],
     "cancelado": false,
     "creado": "2026-10-05T09:54:40.000Z",
-    "cancelSorteado": false
+    "cancelSorteado": false,
+    "pendientesHumanos": 0,
+    "anotados": 3
   },
   "cz6vmnrixd9jfjhovgjzryazr": {
     "organizador": "faramir",
@@ -851,7 +869,9 @@
     "calificaron": [],
     "cancelado": false,
     "creado": "2026-10-05T15:21:00.000Z",
-    "cancelSorteado": false
+    "cancelSorteado": false,
+    "pendientesHumanos": 0,
+    "anotados": 3
   },
   "c94g4zl8f2kmb49p8ocdto6os": {
     "organizador": "pippin.tuk",
@@ -876,7 +896,9 @@
     "calificaron": [],
     "cancelado": false,
     "creado": "2026-10-05T21:44:40.000Z",
-    "cancelSorteado": false
+    "cancelSorteado": false,
+    "pendientesHumanos": 0,
+    "anotados": 9
   },
   "cr6vqpv3uqwpf26j5zr8duvrx": {
     "organizador": "elrond",
@@ -901,7 +923,9 @@
     "calificaron": [],
     "cancelado": false,
     "creado": "2026-10-05T21:50:00.000Z",
-    "cancelSorteado": false
+    "cancelSorteado": false,
+    "pendientesHumanos": 0,
+    "anotados": 9
   },
   "cyanudi2fjompk1u8rr5ppdtm": {
     "organizador": "lois.lane",
@@ -926,7 +950,9 @@
     "calificaron": [],
     "cancelado": false,
     "creado": "2026-10-07T03:16:40.000Z",
-    "cancelSorteado": false
+    "cancelSorteado": false,
+    "pendientesHumanos": 0,
+    "anotados": 9
   },
   "cjgjwld3g08z6n44kp3tayp4n": {
     "organizador": "gimli",
@@ -947,5 +973,21 @@
     "cancelado": true,
     "creado": "2026-10-07T09:42:00.000Z",
     "cancelSorteado": true
+  },
+  "cmuym52gv006401nxleh5cv2f": {
+    "jugadores": [],
+    "pendientes": [
+      "pippin.tuk",
+      "marty.mcfly"
+    ],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "humano:cmu5u8nmu000001npnt7ak3fd",
+    "fecha": "2026-10-13T22:35:00.000Z",
+    "deporte": "FUTBOL",
+    "cupo": 12
   }
 }

@@ -1,0 +1,1 @@
+- 2026-10-08 18:51 · primera entrada: dio una vuelta por los partidos y se fue
