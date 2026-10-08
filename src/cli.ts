@@ -12,9 +12,10 @@ import {
   STATE,
   api,
   ApiError,
+  CUPOS,
+  activa,
   arquetipoDe,
   arquetipos,
-  diasEntre,
   diaSemanaAR,
   fechaAR,
   guardarPartidos,
@@ -26,6 +27,7 @@ import {
   partidos,
   persona,
   pool,
+  puedeOrganizar,
   readJson,
   usuarios,
   type PartidoRegistrado,
@@ -74,6 +76,20 @@ const userIdDe = async (handle: string) => {
 
 const nombreDe = (userId: string) => handlePorUserId()[userId] ?? `(humano ${userId.slice(-4)})`;
 
+// Los bots solo juegan entre bots: nunca se unen a un partido de un humano ni aceptan a un humano en
+// el suyo. Así ninguna acción simulada se mezcla con cuentas reales en los KPIs (dev y prod).
+const esBot = (userId: string) => userId in handlePorUserId();
+
+/** Rechaza las solicitudes pendientes de humanos a un partido de un bot (les llega la notificación). */
+const rechazarHumanos = async (organizador: string, id: string, reqs: any[]) => {
+  const humanas = reqs.filter((r) => r.status === 'PENDING' && !esBot(r.userId));
+  for (const r of humanas) {
+    await api(organizador, 'PATCH', `/matches/${id}/join-requests/${r.id}`, { status: 'REJECTED' });
+    log(`${organizador} rechazar-humano ${id} ${r.userId}`);
+  }
+  return humanas.length;
+};
+
 const linea = (m: any, viewer?: string) => {
   const estado = m.status === 'CANCELED' ? ' CANCELADO' : '';
   const yo = m.isJoined ? ' [anotado]' : m.myJoinRequest ? ` [solicitud ${m.myJoinRequest.status ?? m.myJoinRequest}]` : '';
@@ -110,16 +126,6 @@ const actualizar = (id: string, fn: (p: PartidoRegistrado) => void) => {
 
 // --- comandos globales -------------------------------------------------------
 
-const activa = (p: Persona, dia: string, diaSemana: number) => {
-  if (p.llegada > dia) return false;
-  const a = arquetipoDe(p);
-  const dias = diasEntre(p.llegada, dia);
-  if (a.diasActivo !== undefined && dias > a.diasActivo) return false;
-  if (a.pausa && dias >= a.pausa.desde && dias < a.pausa.hasta) return false;
-  if (a.diasSemana && !a.diasSemana.includes(diaSemana)) return false;
-  return true;
-};
-
 const hoy = () => {
   if (!inicio()) {
     console.log('La simulación no arrancó todavía. Correr: node src/create-bots.ts');
@@ -133,6 +139,7 @@ const hoy = () => {
   const conTarea: string[] = [];
   const sinTarea: string[] = [];
   const ahora = Date.now();
+  let sorteoNuevo = false;
 
   for (const p of pool()) {
     if (!ids[p.handle]) continue; // sin cuenta todavía (correr create-bots)
@@ -148,16 +155,25 @@ const hoy = () => {
       if (m.calificaran.includes(p.handle) && !m.calificaron.includes(p.handle))
         obligatorio.push(`calificar el partido ${id}`);
       // Partido a menos de 24 h que no llega a la mitad del cupo: el organizador puede cancelarlo.
+      // Se sortea una sola vez por partido; si no, con 8 corridas por día casi todos terminan cancelados.
       const vacio = m.cupo !== undefined && m.jugadores.length + 1 < m.cupo / 2;
-      if (m.organizador === p.handle && vacio && empieza > ahora && empieza - ahora < 24 * HORA && tirar(a.p_cancelar))
-        obligatorio.push(`cancelar el partido ${id}: va ${m.jugadores.length + 1}/${m.cupo} y no se llena`);
+      if (m.organizador === p.handle && vacio && empieza > ahora && empieza - ahora < 24 * HORA && !m.cancelSorteado) {
+        m.cancelSorteado = true;
+        m.cancelar = tirar(a.p_cancelar);
+        sorteoNuevo = true;
+      }
+      if (m.organizador === p.handle && m.cancelar && empieza > ahora)
+        obligatorio.push(`cancelar el partido ${id}: va ${m.jugadores.length}/${m.cupo} y no se llena`);
     }
 
     const prob = esActiva ? a.actividad : p.llegada <= dia ? (a.p_volver ?? 0.03) : 0;
     if (!obligatorio.length && !tirar(prob)) continue;
 
     const puede: string[] = [];
-    if (tirar(a.p_organizar)) puede.push('organizar un partido');
+    const suyos = Object.values(registro)
+      .filter((m) => m.organizador === p.handle)
+      .map((m) => ({ fecha: Date.parse(m.fecha), creado: m.creado ? Date.parse(m.creado) : undefined, cancelado: m.cancelado }));
+    if (puedeOrganizar(p, suyos, ahora) && tirar(a.p_organizar)) puede.push('organizar un partido');
     if (tirar(a.p_unirse)) puede.push('unirse a un partido');
     const ficha = [
       `## ${p.handle} — ${p.nombre}`,
@@ -168,6 +184,8 @@ const hoy = () => {
     ].join('\n');
     (obligatorio.length ? conTarea : sinTarea).push(ficha);
   }
+
+  if (sorteoNuevo) guardarPartidos(registro);
 
   // Tope por corrida: primero los que tienen algo obligatorio, después el resto al azar.
   sinTarea.sort(() => Math.random() - 0.5);
@@ -201,6 +219,12 @@ const sortear = async () => {
       m.cancelado = true;
       continue;
     }
+    if (empieza > ahora) {
+      const reqs = await api<any[]>(m.organizador, 'GET', `/matches/${id}/join-requests`);
+      const rechazadas = await rechazarHumanos(m.organizador, id, reqs);
+      if (rechazadas) resumen.push(`${id}: ${rechazadas} solicitudes de humanos rechazadas`);
+    }
+
     const porId = handlePorUserId();
     m.jugadores = (detalle.participants ?? [])
       .map((x: any) => porId[x.user?.id ?? x.id])
@@ -277,9 +301,7 @@ const comandos: Record<string, (handle: string, rest: string[]) => Promise<void>
     const lista = (await api<any[]>(handle, 'GET', '/matches')).filter(
       (m) => !deporte || m.sport?.name === deporte.toUpperCase(),
     );
-    // Por defecto solo partidos de otras personas simuladas: no mandar solicitudes a humanos del equipo.
-    const bots = new Set(Object.values(usuarios()));
-    const visibles = args.includes('--todos') ? lista : lista.filter((m) => bots.has(m.organizerId));
+    const visibles = lista.filter((m) => esBot(m.organizerId));
     console.log(visibles.map((m) => linea(m, viewer)).join('\n') || 'No hay partidos próximos.');
   },
 
@@ -301,7 +323,8 @@ const comandos: Record<string, (handle: string, rest: string[]) => Promise<void>
     const nivel = (flag('nivel') ?? '').toUpperCase();
     const [dia, hora, lugarIdx, cupo] = [flag('dia'), flag('hora'), flag('lugar'), Number(flag('cupo'))];
     if (!deporte || !NIVELES.includes(nivel) || !dia || !hora || lugarIdx === undefined || !cupo)
-      throw new Error('Uso: crear --deporte FUTBOL --nivel INTERMEDIATE --dia 2026-10-10 --hora 19:30 --lugar <n> --cupo 10 [--desc "..."]\n' +
+      throw new Error('Uso: crear --deporte FUTBOL --nivel INTERMEDIATE --dia 2026-10-10 --hora 19:30 --lugar <n> --cupo 9 [--desc "..."]\n' +
+        `Cupos (sin contar al organizador): ${Object.entries(CUPOS).map(([d, c]) => `${d} ${c.join('/')}`).join(', ')}\n` +
         LUGARES.map((l, i) => `  lugar ${i}: ${l.nombre} (${l.deportes.join(', ')})`).join('\n'));
     const lugar = LUGARES[Number(lugarIdx)];
     if (!lugar) throw new Error(`Lugar inválido: ${lugarIdx}`);
@@ -316,26 +339,28 @@ const comandos: Record<string, (handle: string, rest: string[]) => Promise<void>
       capacity: cupo,
       description: flag('desc'),
     });
-    registrar(m.id, { organizador: handle, fecha: date.toISOString(), deporte, cupo });
+    registrar(m.id, { organizador: handle, fecha: date.toISOString(), deporte, cupo, creado: new Date().toISOString() });
     log(`${handle} crear ${m.id} ${deporte} ${date.toISOString()}`);
     console.log(`Creado: ${linea(m, m.organizerId)}`);
   },
 
   async unirse(handle, [id]) {
-    const req = await api(handle, 'POST', `/matches/${id}/join-requests`);
     const m = await api(handle, 'GET', `/matches/${id}`);
     const organizador = handlePorUserId()[m.organizerId];
-    if (organizador) {
-      registrar(id, { organizador, fecha: m.date, deporte: m.sport.name, cupo: m.capacity });
-      actualizar(id, (p) => void (p.pendientes = [...new Set([...p.pendientes, handle])]));
-    }
+    if (!organizador) throw new Error(`El partido ${id} lo organiza un humano: los bots solo se unen a partidos de bots.`);
+    const req = await api(handle, 'POST', `/matches/${id}/join-requests`);
+    registrar(id, { organizador, fecha: m.date, deporte: m.sport.name, cupo: m.capacity });
+    actualizar(id, (p) => void (p.pendientes = [...new Set([...p.pendientes, handle])]));
     log(`${handle} unirse ${id}`);
-    console.log(`Solicitud enviada (${req.status}). La tiene que aceptar ${organizador ?? 'el organizador'}.`);
+    console.log(`Solicitud enviada (${req.status}). La tiene que aceptar ${organizador}.`);
   },
 
   async solicitudes(handle, [id]) {
     const reqs = await api<any[]>(handle, 'GET', `/matches/${id}/join-requests`);
-    const pendientes = reqs.filter((r) => r.status === 'PENDING');
+    // Las de humanos se rechazan solas: los bots solo juegan con bots.
+    const rechazadas = await rechazarHumanos(handle, id, reqs);
+    if (rechazadas) console.log(`(${rechazadas} solicitudes de humanos rechazadas)`);
+    const pendientes = reqs.filter((r) => r.status === 'PENDING' && esBot(r.userId));
     console.log(
       pendientes.map((r) => `${r.id} · ${r.user?.name ?? nombreDe(r.userId)} (${nombreDe(r.userId)})`).join('\n') ||
         'No hay solicitudes pendientes.',
@@ -436,6 +461,8 @@ const resolver = async (handle: string, id: string, reqId: string, status: 'ACCE
   const reqs = await api<any[]>(handle, 'GET', `/matches/${id}/join-requests`);
   const req = reqs.find((r) => r.id === reqId);
   if (!req) throw new Error(`No existe la solicitud ${reqId}`);
+  if (status === 'ACCEPTED' && !esBot(req.userId))
+    throw new Error(`La solicitud ${reqId} es de un humano: los bots nunca aceptan humanos.`);
   await api(handle, 'PATCH', `/matches/${id}/join-requests/${reqId}`, { status });
   const quien = handlePorUserId()[req.userId];
   actualizar(id, (p) => {
@@ -464,7 +491,7 @@ const asignacion = async (handle: string, id: string) => {
 // --- main -----------------------------------------------------------------------
 
 const AYUDA = `Globales: hoy [--max 12] | sortear | estado
-Persona: <handle> perfil | partidos [--deporte X] [--todos] | mios | notifs [--leer]
+Persona: <handle> perfil | partidos [--deporte X] | mios | notifs [--leer]
          crear --deporte --nivel --dia --hora --lugar <n> --cupo [--desc] | unirse <id> | bajarse <id>
          solicitudes <id> | aceptar <id> <reqId> | rechazar <id> <reqId> | cancelar <id> --motivo
          pendiente <id> | calificar <id> --puntajes uid=4,uid=5 [--comentarios '{"uid":"..."}'] | diario ["texto"]

@@ -29,7 +29,8 @@ partido, si se baja tarde, si le toca organizar o unirse hoy) ya lo sortea el CL
       - *organizar*: `crear ...` con un deporte suyo, en un lugar de su zona que tenga ese deporte (corré
         `crear` sin argumentos para ver la lista de lugares), entre 1 y 6 días adelante, a una hora
         coherente con su rasgo (después del trabajo 19–22 h, fines de semana a la mañana, etc.).
-        Cupos típicos: FUTBOL 10 o 12, PADEL 4, TENIS 2 o 4, BASQUET 6 a 10, RUNNING 4 a 12.
+        El cupo son los lugares para los que se unen: **el organizador no cuenta**. Cupos: FUTBOL 9
+        (fútbol 5) u 11, PADEL 3, TENIS 1 (singles) o 3 (dobles), BASQUET 5 a 9, RUNNING 3 a 7.
         Descripción opcional, corta, como la escribiría esa persona. El organizador-finde solo arma sábado o
         domingo a la mañana; el organizador-exigente arma ADVANCED.
    5. Anotá **una línea** en su diario con `node src/cli.ts <handle> diario "texto"` (el CLI pone la fecha y
@@ -46,8 +47,9 @@ sigue siendo exitosa.
 
 - Todo contra la API pasa por `node src/cli.ts`. Nada de `curl`, nada de editar a mano `state/`.
 - Máximo 3 acciones por persona por corrida. Nadie hace todo: que haya personas que solo miran.
-- `partidos` muestra solo partidos de otras personas simuladas. No uses `--todos`: no se le mandan
-  solicitudes a los humanos del equipo.
+- Los bots solo juegan entre bots. `partidos` muestra solo partidos de otras personas simuladas,
+  `solicitudes` solo las de bots, y el CLI rechaza unirse al partido de un humano o aceptar a un humano.
+  Si un humano pide unirse a un partido de un bot, `sortear` y `solicitudes` lo rechazan solos.
 - Si un comando da error (cupo lleno, partido ya jugado), seguí con otra cosa; no reintentes en loop.
 - No inventes personas ni handles: solo los de `personas/pool.json`.
 - Las fechas son hora de Argentina (UTC−3).

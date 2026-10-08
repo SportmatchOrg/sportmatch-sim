@@ -52,6 +52,23 @@ desde ahí. Local: `SIM_ENV=prod node src/cli.ts ...` con `API_URL_PROD` en el `
 Para pasar de Claude Pro a pagar por uso, reemplazar `CLAUDE_CODE_OAUTH_TOKEN` por `ANTHROPIC_API_KEY` en el
 workflow.
 
+## Retrotraer el inicio (backfill)
+
+`src/backfill.ts` escribe en la base, con sus fechas reales, lo que los bots habrían hecho si la
+simulación hubiera arrancado antes. Corre la misma lógica que las corridas en vivo (8 por día, mismos
+arquetipos y dados) con reglas simples en lugar de Claude. Va directo a la base porque la API no acepta
+partidos en el pasado. Se corre **una vez por entorno**, con `DATABASE_URL_<ENTORNO>` en el `.env`:
+
+```
+node src/backfill.ts --desde 2026-09-30            # dry-run: resumen por día, no escribe nada
+node src/backfill.ts --desde 2026-09-30 --aplicar  # altas que falten + una transacción + state/
+```
+
+Hasta la primera acción en vivo hace todo; desde ahí solo lo obligatorio de sus propios partidos.
+Mueve `inicio.json`, suma sus partidos a `partidos.json` (las corridas en vivo los siguen), antepone
+las entradas al diario y deja todo en `state/<entorno>/backfill.log`, que además impide correrlo dos
+veces. Aplicarlo justo después de una corrida y commitear `state/` enseguida, antes de la siguiente.
+
 ## Personas
 
 - `personas/pool.json` — 159 personajes muy conocidos: Harry Potter, Star Wars, El Señor de los Anillos,
@@ -74,6 +91,7 @@ Uno por entorno. Arranca vacío y lo va llenando la simulación:
 
 - `inicio.json` — el día en que arrancó (lo crea el primer `create-bots`)
 - `usuarios.json` — handle → id del usuario en el back
+- `backfill.log` — lo que escribió el backfill, si se corrió
 - `partidos.json` — partidos de los bots: jugadores, solicitudes pendientes, asistencia sorteada, quién califica
 - `diario/<handle>.md` — lo que hizo cada persona (`cli.ts <handle> diario "..."` escribe; sin texto, lee)
 - `acciones.log` — cada acción contra la API, con fecha

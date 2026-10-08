@@ -111,6 +111,17 @@ export const persona = (handle: string): Persona => {
 
 export const arquetipoDe = (p: Persona): Arquetipo => arquetipos()[p.arquetipo];
 
+/** Si la persona usa la app ese día según su arquetipo (llegada, abandono, pausa, días de la semana). */
+export const activa = (p: Persona, dia: string, diaSemana: number) => {
+  if (p.llegada > dia) return false;
+  const a = arquetipoDe(p);
+  const dias = diasEntre(p.llegada, dia);
+  if (a.diasActivo !== undefined && dias > a.diasActivo) return false;
+  if (a.pausa && dias >= a.pausa.desde && dias < a.pausa.hasta) return false;
+  if (a.diasSemana && !a.diasSemana.includes(diaSemana)) return false;
+  return true;
+};
+
 // --- estado ---------------------------------------------------------------
 
 /** handle → id de usuario en el back */
@@ -132,6 +143,40 @@ export type PartidoRegistrado = {
   calificaran: string[];
   calificaron: string[];
   cancelado: boolean;
+  /** cuándo lo creó el organizador (ISO); falta en los partidos registrados antes de la regla */
+  creado?: string;
+  /** ya se sorteó si el organizador lo cancela por vacío (se sortea una sola vez) */
+  cancelSorteado?: boolean;
+  /** resultado de ese sorteo: el organizador tiene que cancelarlo */
+  cancelar?: boolean;
+};
+
+/**
+ * Cupo = lugares para los que se unen: el organizador no ocupa cupo (el back llena el partido cuando
+ * participants >= capacity). Fútbol 5 = 9, fútbol 6 = 11, pádel 3, tenis singles 1 / dobles 3.
+ */
+export const CUPOS: Record<string, number[]> = {
+  FUTBOL: [9, 9, 11],
+  PADEL: [3],
+  TENIS: [1, 3],
+  BASQUET: [5, 7, 9],
+  RUNNING: [3, 5, 7],
+};
+
+/**
+ * Si la persona puede armar otro partido: como mucho uno por día, y solo mientras tenga menos de 2
+ * próximos abiertos (1 si no es organizadora de arquetipo). Sin esto los organizadores publican más
+ * partidos de los que la demanda llena.
+ */
+export const puedeOrganizar = (
+  p: Persona,
+  suyos: { fecha: number; creado?: number; cancelado: boolean }[],
+  ahora: number,
+) => {
+  const abiertos = suyos.filter((m) => !m.cancelado && m.fecha > ahora).length;
+  const dia = (ms: number) => new Date(ms - 3 * 3_600_000).toISOString().slice(0, 10);
+  const hoyYa = suyos.some((m) => m.creado !== undefined && dia(m.creado) === dia(ahora));
+  return !hoyYa && abiertos < (p.arquetipo.startsWith('organizador') ? 2 : 1);
 };
 
 export const usuarios = (): Usuarios => readJson(`${STATE}/usuarios.json`, {});
@@ -221,6 +266,31 @@ export const api = async <T = any>(
     throw new ApiError(res.status, `${res.status} ${message ?? res.statusText}`);
   }
   return data as T;
+};
+
+/**
+ * Alta de la persona: cuenta de Firebase (si no la tiene) y su User en el back, que se crea en el
+ * primer request autenticado (FirebaseAuthGuard → ensureExists). Sincroniza el nombre. Devuelve el id.
+ */
+export const altaPersona = async (p: Persona): Promise<string> => {
+  if (!usuarios()[p.handle]) {
+    try {
+      await signUp(p);
+    } catch (error) {
+      if (!String(error).includes('EMAIL_EXISTS')) throw error;
+    }
+  }
+  const me = await api<{ id: string; name: string }>(p.handle, 'GET', '/users/me');
+  if (me.name !== p.nombre) {
+    await actualizarNombre(p);
+    await api(p.handle, 'PATCH', `/users/${me.id}`, { name: p.nombre });
+    console.log(`${p.handle}: renombrado de "${me.name}" a "${p.nombre}"`);
+  }
+  const ids = usuarios();
+  if (!ids[p.handle]) console.log(`${p.handle} → ${me.id}`);
+  ids[p.handle] = me.id;
+  guardarUsuarios(ids);
+  return me.id;
 };
 
 // --- fechas ---------------------------------------------------------------
