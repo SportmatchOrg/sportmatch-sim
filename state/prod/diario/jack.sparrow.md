@@ -1,0 +1,1 @@
+- 2026-10-08 19:08 · pasó a mirar, nada por hacer

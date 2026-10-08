@@ -226,8 +226,8 @@
       "obiwan.kenobi": true
     },
     "calificaran": [
-      "faramir",
       "quigon.jinn",
+      "faramir",
       "obiwan.kenobi"
     ],
     "calificaron": [
@@ -416,8 +416,8 @@
       "boromir": true
     },
     "calificaran": [
-      "ron.weasley",
       "eowyn",
+      "ron.weasley",
       "boromir"
     ],
     "calificaron": [
@@ -647,13 +647,13 @@
       "theoden": false
     },
     "calificaran": [
-      "doc.brown",
-      "hermione.granger",
-      "pippin.tuk",
       "gimli",
+      "pippin.tuk",
       "elrond",
+      "steve.rogers",
+      "hermione.granger",
       "sam.gamyi",
-      "steve.rogers"
+      "doc.brown"
     ],
     "calificaron": [
       "gimli",
@@ -978,7 +978,10 @@
     "jugadores": [],
     "pendientes": [
       "pippin.tuk",
-      "marty.mcfly"
+      "marty.mcfly",
+      "lois.lane",
+      "chewbacca",
+      "nemo"
     ],
     "bajasSorteadas": false,
     "asistencia": null,
@@ -988,6 +991,35 @@
     "organizador": "humano:cmu5u8nmu000001npnt7ak3fd",
     "fecha": "2026-10-13T22:35:00.000Z",
     "deporte": "FUTBOL",
-    "cupo": 12
+    "cupo": 12,
+    "anotados": 0
+  },
+  "cmv038d4a00e201mr0behed00": {
+    "jugadores": [],
+    "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "lois.lane",
+    "fecha": "2026-10-10T23:00:00.000Z",
+    "deporte": "FUTBOL",
+    "cupo": 9,
+    "creado": "2026-10-08T22:08:11.756Z"
+  },
+  "cmv038p9l00eg01mr2qbk23xw": {
+    "jugadores": [],
+    "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "molly.weasley",
+    "fecha": "2026-10-11T12:00:00.000Z",
+    "deporte": "RUNNING",
+    "cupo": 5,
+    "creado": "2026-10-08T22:08:27.538Z"
   }
 }

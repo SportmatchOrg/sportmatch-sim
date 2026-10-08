@@ -18,3 +18,4 @@
 - 2026-10-06 21:12 · calificó el basquet del mar 06/10 19:00
 - 2026-10-07 12:18 · aceptó a Jaime Lannister en su running del vie 09/10 20:00
 - 2026-10-07 18:50 · se bajó a último momento del running del mié 07/10 19:00
+- 2026-10-08 19:07 · aceptó a Tomás Valle Duran en su running del vie 09/10; no encontró nada para unirse

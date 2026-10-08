@@ -1,0 +1,1 @@
+- 2026-10-08 19:08 · miró la app temprano, nada por hacer

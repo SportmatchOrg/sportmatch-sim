@@ -26,3 +26,4 @@
 - 2026-10-08 00:49 · aceptó a Padmé Amidala en su futbol del jue 08/10 22:30
 - 2026-10-08 00:49 · canceló su futbol del jue 08/10 22:30 (iba 5/11)
 - 2026-10-08 18:20 · se bajó a último momento del futbol del jue 08/10 20:00
+- 2026-10-08 19:08 · entró a ver, sin novedades

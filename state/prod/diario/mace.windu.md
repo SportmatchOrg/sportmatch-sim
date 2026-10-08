@@ -37,3 +37,4 @@
 - 2026-10-07 15:20 · pidió unirse al futbol de Gimli del jue 08/10 22:30 en River Courts · Cancha 2
 - 2026-10-08 00:49 · calificó el futbol del mié 07/10 22:00 (reportó que faltó Gimli, Rubeus Hagrid)
 - 2026-10-08 00:49 · calificó el padel del mié 07/10 22:00
+- 2026-10-08 19:08 · revisó la app, no encontró nada en su zona

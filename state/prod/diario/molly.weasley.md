@@ -1,0 +1,1 @@
+- 2026-10-08 19:08 · armó un running del domingo 11 a la mañana en Campus Austral

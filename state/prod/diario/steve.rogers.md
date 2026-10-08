@@ -27,3 +27,4 @@
 - 2026-10-06 12:27 · pidió unirse al futbol de Pippin Tuk del jue 08/10 20:00 en Campus Austral · Canchas
 - 2026-10-06 21:12 · calificó el futbol del mar 06/10 19:00 (reportó que faltó Théoden)
 - 2026-10-08 18:51 · revisó la app, nada por hacer hoy
+- 2026-10-08 19:08 · revisó de nuevo; nada que le cierre por ahora
