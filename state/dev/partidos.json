@@ -5,7 +5,9 @@
       "fred.weasley",
       "pippin.tuk"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "elrond"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -14,7 +16,9 @@
     "organizador": "gimli",
     "fecha": "2026-10-08T23:30:00.000Z",
     "deporte": "FUTBOL",
-    "cupo": 10
+    "cupo": 10,
+    "cancelSorteado": true,
+    "cancelar": false
   },
   "cmuxjf6al00d601s4bz3z5bya": {
     "jugadores": [
@@ -77,7 +81,9 @@
   },
   "cmuykguqj00fr01s4wy2wxijc": {
     "jugadores": [],
-    "pendientes": [],
+    "pendientes": [
+      "yoda"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -90,7 +96,9 @@
   },
   "cmuyma6ku00h701s4i5bxb1xj": {
     "jugadores": [],
-    "pendientes": [],
+    "pendientes": [
+      "chewbacca"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -476,9 +484,9 @@
       "bellatrix.lestrange": true
     },
     "calificaran": [
-      "sam.gamyi",
       "quigon.jinn",
-      "bellatrix.lestrange"
+      "bellatrix.lestrange",
+      "sam.gamyi"
     ],
     "calificaron": [
       "quigon.jinn",
@@ -912,9 +920,20 @@
     ],
     "pendientes": [],
     "bajasSorteadas": true,
-    "asistencia": null,
-    "calificaran": [],
-    "calificaron": [],
+    "asistencia": {
+      "mace.windu": true,
+      "padme.amidala": true,
+      "elrond": true,
+      "gimli": true
+    },
+    "calificaran": [
+      "mace.windu",
+      "padme.amidala"
+    ],
+    "calificaron": [
+      "mace.windu",
+      "padme.amidala"
+    ],
     "cancelado": false,
     "creado": "2026-10-06T00:51:00.000Z",
     "cancelSorteado": true
@@ -938,7 +957,7 @@
   },
   "cv6ysho2xp54i3i6wuthad36u": {
     "organizador": "steve.rogers",
-    "fecha": "2026-10-13T01:30:00.000Z",
+    "fecha": "2026-10-12T22:30:00.000Z",
     "deporte": "FUTBOL",
     "cupo": 9,
     "jugadores": [
@@ -949,7 +968,9 @@
       "bellatrix.lestrange",
       "jon.snow"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "padme.amidala"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -1047,5 +1068,19 @@
     "cancelado": false,
     "creado": "2026-10-07T00:46:20.000Z",
     "cancelSorteado": true
+  },
+  "cmuyvb95v00mh01s4mcmxkmxj": {
+    "jugadores": [],
+    "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "sam.gamyi",
+    "fecha": "2026-10-12T23:00:00.000Z",
+    "deporte": "PADEL",
+    "cupo": 3,
+    "creado": "2026-10-08T01:38:43.524Z"
   }
 }

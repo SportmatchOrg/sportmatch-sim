@@ -46,3 +46,5 @@
 - 2026-10-07 14:44 · aceptó a Éowyn en su partido; no encontró nada de fútbol ni pádel para anotarse
 - 2026-10-07 17:35 · se anotó al fútbol de Nordelta y armó pádel el domingo a la mañana en Club Belgrano
 - 2026-10-07 22:36 · quiso sumarse al fútbol del domingo de Gimli pero ya estaba anotada; nada más
+- 2026-10-07 22:38 · se anotó al fútbol del viernes en Nordelta (se suma a todo lo que puede)
+- 2026-10-07 22:38 · en realidad ya estaba anotada a Nordelta; probó otro fútbol de River Courts del viernes
