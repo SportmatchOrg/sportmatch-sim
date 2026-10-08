@@ -43,3 +43,4 @@
 - 2026-10-07 18:25 · aceptó a Mace y Bellatrix en su partido de fútbol
 - 2026-10-07 22:38 · pidió unirse al fútbol del jueves en River Courts (relajado, para despejarse)
 - 2026-10-08 18:32 · aceptó a Théoden en su fútbol del viernes en Nordelta
+- 2026-10-08 19:05 · aceptó a Obi-Wan y se anotó al tenis del lunes en Tigre Pádel Club

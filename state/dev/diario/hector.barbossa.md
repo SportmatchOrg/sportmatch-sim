@@ -1,1 +1,2 @@
 - 2026-10-08 15:40 · armó fútbol ADVANCED el lunes 21 h en Club Pilar (después del trabajo)
+- 2026-10-08 19:07 · miró la app y leyó notificaciones, sin novedades

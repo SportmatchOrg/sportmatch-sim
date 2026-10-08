@@ -1,1 +1,2 @@
 - 2026-10-08 15:50 · organizó un pádel el sábado 8 h en Tigre Pádel Club (madrugador)
+- 2026-10-08 19:07 · miró la app, tranquilo; ya tiene su pádel del sábado armado

@@ -6,3 +6,5 @@
 - 2026-10-06 03:26 · pidió unirse al futbol de Sam Gamyi del mié 07/10 21:00 en River Courts · Cancha 2
 - 2026-10-07 21:35 · calificó el futbol del mié 07/10 21:00
 - 2026-10-08 15:50 · pidió unirse al fútbol del viernes 20:30 en Fútbol 5 Nordelta (puntual, organizado)
+- 2026-10-08 19:06 · pidió sumarse al fútbol del viernes 18:30 en River Courts (puntual, organizado)
+- 2026-10-08 19:07 · intentó sumarse otra vez al fútbol de River Courts pero ya estaba anotado; nada más
