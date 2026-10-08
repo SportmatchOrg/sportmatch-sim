@@ -1,0 +1,1 @@
+- 2026-10-08 15:40 · pidió unirse al fútbol del viernes en Del Viso (se suma a todo)

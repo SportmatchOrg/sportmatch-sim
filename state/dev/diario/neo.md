@@ -1,0 +1,2 @@
+- 2026-10-08 15:40 · primera vez en la app, miró un rato y no hizo nada
+- 2026-10-08 15:51 · organizó un básquet el sábado 19:30 en Club Belgrano (relajado, para despejarse)

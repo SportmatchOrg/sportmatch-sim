@@ -30,3 +30,7 @@
 - 2026-10-07 14:44 · pasó a mirar, nada nuevo
 - 2026-10-07 17:34 · se anotó al fútbol del viernes en Nordelta (conoce gente nueva)
 - 2026-10-07 18:25 · armó pádel el viernes 20 h en Tigre Pádel Club (le gusta conocer gente nueva)
+- 2026-10-07 22:36 · miró la app, ya tiene su fútbol y su pádel armados; nada más
+- 2026-10-07 22:37 · calificó el partido; ya tiene fútbol y pádel armados, no organizó más
+- 2026-10-08 07:29 · aceptó a Chewbacca en su pádel de Tigre; nada más
+- 2026-10-08 15:40 · aceptó a Qui-Gon en su pádel de Tigre; nada más

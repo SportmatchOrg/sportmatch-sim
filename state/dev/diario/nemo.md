@@ -15,3 +15,4 @@
 - 2026-10-06 03:19 · aceptó a Pippin Tuk en su futbol del sáb 10/10 09:00
 - 2026-10-06 03:19 · aceptó a Gimli en su futbol del sáb 10/10 09:00
 - 2026-10-06 21:43 · aceptó a Sirius Black en su futbol del sáb 10/10 09:00
+- 2026-10-08 15:51 · miró la app y leyó notificaciones, sin novedades (es de finde)

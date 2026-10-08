@@ -1,3 +1,5 @@
 - 2026-10-06 06:18 · pidió unirse al running de Qui-Gon Jinn del jue 08/10 20:30 en Parque Pilar · Circuito
 - 2026-10-06 15:52 · pidió unirse al basquet de Galadriel del mar 06/10 22:30 en Club Belgrano · Gimnasio
 - 2026-10-06 18:34 · pidió unirse al basquet de Milhouse Van Houten del vie 09/10 20:00 en Club Belgrano · Gimnasio
+- 2026-10-07 22:38 · miró básquet y running, no había nada para anotarse; pasó
+- 2026-10-08 15:51 · pidió unirse al running principiante del domingo 9 h en Parque Pilar (entusiasta)

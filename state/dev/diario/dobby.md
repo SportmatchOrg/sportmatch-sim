@@ -2,3 +2,4 @@
 - 2026-10-02 15:48 · pidió unirse al padel de Sam Gamyi del lun 05/10 22:00 en Club Belgrano · Gimnasio
 - 2026-10-07 07:09 · miró partidos, ninguno le convenció de nivel
 - 2026-10-07 18:25 · entró a mirar pádel, nada a su nivel
+- 2026-10-07 22:36 · miró pádel, lo único es en Tigre y lejos de CABA; pasó
