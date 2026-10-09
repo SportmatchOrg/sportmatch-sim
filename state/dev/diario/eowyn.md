@@ -22,3 +22,4 @@
 - 2026-10-08 07:29 · pidió unirse al pádel del lunes en Club Belgrano (le gusta sumarse a todo)
 - 2026-10-08 15:40 · pidió unirse al pádel del domingo en Belgrano (le gusta sumarse a todo)
 - 2026-10-08 15:50 · pidió unirse al running del domingo a las 9 en Parque Pilar (le gusta sumarse a todo)
+- 2026-10-09 03:05 · calificó el running; leyó notificaciones, la aceptaron en un partido

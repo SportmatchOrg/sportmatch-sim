@@ -8,3 +8,4 @@
 - 2026-10-08 15:40 · aceptó a Gimli en su fútbol del viernes y pidió unirse al fútbol del martes en Club Pilar (competitiva)
 - 2026-10-08 15:49 · aceptó a Marty McFly en su fútbol y pidió unirse al fútbol del jueves en River Courts (competitiva)
 - 2026-10-08 18:33 · leyó notificaciones, ya está anotada a varios; hoy solo mira
+- 2026-10-09 03:06 · aceptó a Mati en su fútbol; ya está anotada a varios, no buscó más

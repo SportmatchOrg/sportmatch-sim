@@ -3,3 +3,4 @@
 - 2026-10-07 07:09 · miró partidos, ninguno le convenció de nivel
 - 2026-10-07 18:25 · entró a mirar pádel, nada a su nivel
 - 2026-10-07 22:36 · miró pádel, lo único es en Tigre y lejos de CABA; pasó
+- 2026-10-09 03:07 · pidió unirse al pádel del viernes en Club Belgrano (nivel intermedio, justo lo que buscaba)

@@ -20,3 +20,4 @@
 - 2026-10-04 12:49 · aceptó a Bellatrix Lestrange en su padel del sáb 10/10 09:30
 - 2026-10-08 15:40 · armó un running tranqui el domingo 9 h en Parque Pilar (para despejarse)
 - 2026-10-08 18:32 · aceptó a los cuatro que pidieron para su running del domingo en Parque Pilar
+- 2026-10-09 03:07 · miró la app y leyó notificaciones; ya tiene su running del domingo armado

@@ -3,3 +3,4 @@
 - 2026-10-06 18:34 · pidió unirse al basquet de Milhouse Van Houten del vie 09/10 20:00 en Club Belgrano · Gimnasio
 - 2026-10-07 22:38 · miró básquet y running, no había nada para anotarse; pasó
 - 2026-10-08 15:51 · pidió unirse al running principiante del domingo 9 h en Parque Pilar (entusiasta)
+- 2026-10-09 03:06 · calificó el running y pidió unirse al del viernes a la mañana en Parque Pilar (entusiasta)

@@ -135,3 +135,33 @@
 2026-10-08T22:06:44.133Z yoda leer-notificaciones 1
 2026-10-08T22:06:47.534Z theoden leer-notificaciones 1
 2026-10-08T22:06:57.860Z gimli leer-notificaciones 2
+2026-10-09T06:03:48.390Z sorteo cmuxea1ur00ba01s4qehkgppd faltaron=[] calificaran=[gimli,pippin.tuk,elrond]
+2026-10-09T06:04:05.064Z sorteo cos9ky3km98cp52tuphthlbky faltaron=[jaime.lannister] calificaran=[eowyn,montgomery.burns,davy.jones]
+2026-10-09T06:04:05.684Z sorteo cogxwml1z4b0suk9suzl7rc0f faltaron=[] calificaran=[elrond,bellatrix.lestrange,obiwan.kenobi,mace.windu,pippin.tuk]
+2026-10-09T06:04:53.259Z gimli calificar cmuxea1ur00ba01s4qehkgppd ratings=3 noShows=0
+2026-10-09T06:04:55.817Z gimli unirse cmusruu0n000401pai7eh410l
+2026-10-09T06:04:58.805Z eowyn leer-notificaciones 1
+2026-10-09T06:05:05.844Z eowyn calificar cos9ky3km98cp52tuphthlbky ratings=2 noShows=1
+2026-10-09T06:05:16.717Z pippin.tuk calificar cmuxea1ur00ba01s4qehkgppd ratings=3 noShows=0
+2026-10-09T06:05:19.147Z pippin.tuk calificar cogxwml1z4b0suk9suzl7rc0f ratings=3 noShows=0
+2026-10-09T06:05:21.866Z pippin.tuk unirse cmuze9f8x00qm01s4i38ludmf
+2026-10-09T06:05:32.908Z elrond calificar cmuxea1ur00ba01s4qehkgppd ratings=3 noShows=0
+2026-10-09T06:05:35.347Z elrond calificar cogxwml1z4b0suk9suzl7rc0f ratings=3 noShows=0
+2026-10-09T06:05:38.156Z bellatrix.lestrange leer-notificaciones 1
+2026-10-09T06:05:46.786Z bellatrix.lestrange calificar cogxwml1z4b0suk9suzl7rc0f ratings=3 noShows=0
+2026-10-09T06:05:49.332Z bellatrix.lestrange unirse cmuzw68r700wy01s4qzb8wg58
+2026-10-09T06:05:52.129Z mace.windu leer-notificaciones 2
+2026-10-09T06:06:01.513Z mace.windu aceptar cmuyma6ku00h701s4i5bxb1xj cmuzw8q2p00y101s4rhnzcun9
+2026-10-09T06:06:06.395Z mace.windu calificar cogxwml1z4b0suk9suzl7rc0f ratings=3 noShows=0
+2026-10-09T06:06:11.840Z montgomery.burns leer-notificaciones 1
+2026-10-09T06:06:18.335Z montgomery.burns calificar cos9ky3km98cp52tuphthlbky ratings=3 noShows=1
+2026-10-09T06:06:20.858Z montgomery.burns unirse cmv01zpjv014101s4hcps1lma
+2026-10-09T06:06:28.308Z padme.amidala aceptar cthtnaj4u3983v03usibrbeo5 cmuzw8q2p00y101s4rhnzcun9
+2026-10-09T06:06:31.033Z obiwan.kenobi leer-notificaciones 1
+2026-10-09T06:06:38.343Z obiwan.kenobi calificar cogxwml1z4b0suk9suzl7rc0f ratings=3 noShows=0
+2026-10-09T06:06:41.102Z davy.jones leer-notificaciones 1
+2026-10-09T06:06:48.173Z davy.jones calificar cos9ky3km98cp52tuphthlbky ratings=2 noShows=1
+2026-10-09T06:06:51.795Z davy.jones unirse cmv01z87o013j01s4d11cjt85
+2026-10-09T06:06:54.478Z albus.dumbledore leer-notificaciones 1
+2026-10-09T06:07:00.943Z albus.dumbledore aceptar cmuze9iaj00qp01s48ih9enzi elrond
+2026-10-09T06:07:11.221Z dobby unirse cmuxjf8eb00d901s43adfk92w

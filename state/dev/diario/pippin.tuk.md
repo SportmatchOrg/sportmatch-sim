@@ -22,3 +22,4 @@
 - 2026-10-07 07:09 · ya anotado al fútbol del jueves, no buscó más
 - 2026-10-07 14:44 · vio que lo aceptaron, solo miró
 - 2026-10-07 18:25 · miró partidos; ya está anotado al del jueves, no buscó más
+- 2026-10-09 03:05 · calificó dos partidos (duro, como siempre) y pidió unirse al fútbol del martes en Club Pilar

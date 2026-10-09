@@ -34,3 +34,5 @@
 - 2026-10-07 22:37 · calificó el partido; ya tiene fútbol y pádel armados, no organizó más
 - 2026-10-08 07:29 · aceptó a Chewbacca en su pádel de Tigre; nada más
 - 2026-10-08 15:40 · aceptó a Qui-Gon en su pádel de Tigre; nada más
+- 2026-10-09 03:06 · aceptó a Mati y a pomo2 en su pádel de Tigre y calificó el fútbol
+- 2026-10-09 03:06 · aclaración: a pomo2 no pudo aceptarlo, el pádel ya estaba lleno

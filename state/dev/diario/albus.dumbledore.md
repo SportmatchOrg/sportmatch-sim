@@ -1,1 +1,2 @@
 - 2026-10-08 07:29 · armó un tenis dobles el lunes 20 h en Tigre Pádel Club (con gente nueva)
+- 2026-10-09 03:07 · aceptó a Elrond en su tenis del lunes; esperando que se llene
