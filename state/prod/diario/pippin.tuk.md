@@ -25,3 +25,4 @@
 - 2026-10-08 00:49 · calificó el futbol del mié 07/10 22:00 (reportó que faltó Gimli, Rubeus Hagrid)
 - 2026-10-08 18:51 · pidió unirse al fútbol del martes 13 en BACKYARD Pilar (nivel intermedio, a ver qué tal)
 - 2026-10-09 03:08 · calificó dos partidos (duro, como siempre) y pidió unirse al fútbol del sábado en Club Pilar
+- 2026-10-09 10:15 · pidió unirse al fútbol del martes en Club Pilar

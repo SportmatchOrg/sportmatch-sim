@@ -29,3 +29,4 @@
 - 2026-10-08 18:51 · revisó la app, nada por hacer hoy
 - 2026-10-08 19:08 · revisó de nuevo; nada que le cierre por ahora
 - 2026-10-09 03:09 · calificó el partido del martes y publicó un fútbol el 13 en Club Pilar
+- 2026-10-09 10:15 · aceptó a Fred Weasley y a Pippin Tuk en su fútbol del martes en Club Pilar

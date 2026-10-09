@@ -3,3 +3,4 @@
 - 2026-10-03 15:35 · aceptó a Éowyn en su basquet del mar 06/10 19:00
 - 2026-10-04 18:31 · pidió unirse al basquet de Milhouse Van Houten del lun 05/10 19:00 en Polideportivo Del Viso
 - 2026-10-06 15:10 · aceptó a Boromir en su basquet del mar 06/10 19:00
+- 2026-10-09 10:15 · entró a mirar, nada de básquet que le cierre

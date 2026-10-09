@@ -22,3 +22,4 @@
 - 2026-10-07 12:20 · pidió unirse al futbol de Lois Lane del lun 12/10 20:00 en Campus Austral · Canchas
 - 2026-10-07 21:37 · se bajó a último momento del futbol del mié 07/10 22:00
 - 2026-10-09 03:08 · se anotó al fútbol del sábado en Club Pilar (se entusiasma fácil, a ver si va); no calificó el último
+- 2026-10-09 10:14 · calificó el último partido y pidió unirse al fútbol del martes en Club Pilar

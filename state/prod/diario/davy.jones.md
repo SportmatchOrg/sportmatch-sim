@@ -1,3 +1,4 @@
 - 2026-10-06 03:19 · pidió unirse al running de Éowyn del vie 09/10 20:00 en Campus Austral · Canchas
 - 2026-10-06 06:26 · pidió unirse al running de Fred Weasley del mar 06/10 19:00 en Parque Pilar · Circuito
 - 2026-10-06 09:17 · pidió unirse al running de Qui-Gon Jinn del mié 07/10 19:00 en Parque Pilar · Circuito
+- 2026-10-09 10:15 · pidió unirse al running del domingo a la mañana en Campus Austral (principiante con ganas)
