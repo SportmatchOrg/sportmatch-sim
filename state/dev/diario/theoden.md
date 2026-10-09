@@ -8,3 +8,4 @@
 - 2026-10-08 15:50 · pidió unirse al fútbol del viernes 20:30 en Fútbol 5 Nordelta (puntual, organizado)
 - 2026-10-08 19:06 · pidió sumarse al fútbol del viernes 18:30 en River Courts (puntual, organizado)
 - 2026-10-08 19:07 · intentó sumarse otra vez al fútbol de River Courts pero ya estaba anotado; nada más
+- 2026-10-09 17:07 · miró fútbol en CABA, nada que lo convenza hoy

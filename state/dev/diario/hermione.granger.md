@@ -25,3 +25,4 @@
 - 2026-10-08 15:40 · aceptó a Rubeus en su fútbol del sábado a la mañana; nada más
 - 2026-10-08 15:51 · organizó un tenis singles el domingo 10 h en Club Pilar (competitiva)
 - 2026-10-08 15:51 · corrección: el tenis del domingo 10 h en Club Pilar es de dobles (cupo 3), no singles
+- 2026-10-09 17:07 · miró la app, entre semana casi no entra; nada nuevo

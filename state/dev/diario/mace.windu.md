@@ -37,3 +37,4 @@
 - 2026-10-09 03:06 · aceptó a Mati y a pomo2 en su pádel de Tigre y calificó el fútbol
 - 2026-10-09 03:06 · aclaración: a pomo2 no pudo aceptarlo, el pádel ya estaba lleno
 - 2026-10-09 10:12 · quiso aceptar a pomo2 pero el pádel estaba lleno; pidió sumarse al pádel del sábado en Tigre
+- 2026-10-09 17:06 · intentó aceptar a pomo2 en su pádel pero sigue lleno; no organizó nada nuevo

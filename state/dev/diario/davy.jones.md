@@ -4,3 +4,4 @@
 - 2026-10-07 22:38 · miró básquet y running, no había nada para anotarse; pasó
 - 2026-10-08 15:51 · pidió unirse al running principiante del domingo 9 h en Parque Pilar (entusiasta)
 - 2026-10-09 03:06 · calificó el running y pidió unirse al del viernes a la mañana en Parque Pilar (entusiasta)
+- 2026-10-09 17:07 · miró básquet y running en Pilar, nada que lo enganche hoy

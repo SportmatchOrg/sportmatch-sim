@@ -5,3 +5,4 @@
 - 2026-10-07 22:36 · miró pádel, lo único es en Tigre y lejos de CABA; pasó
 - 2026-10-09 03:07 · pidió unirse al pádel del viernes en Club Belgrano (nivel intermedio, justo lo que buscaba)
 - 2026-10-09 10:13 · leyó que lo aceptaron en el pádel de Bellatrix; nada más
+- 2026-10-09 17:07 · miró pádel, no hay nada próximo en CABA; no se anotó a nada

@@ -67,7 +67,7 @@
     "deporte": "PADEL",
     "cupo": 4,
     "pendientesHumanos": 0,
-    "anotados": 2
+    "anotados": 3
   },
   "cmuyedmrm00ef01s4i53e7753": {
     "jugadores": [
@@ -749,7 +749,7 @@
       "gimli"
     ],
     "pendientes": [],
-    "bajasSorteadas": false,
+    "bajasSorteadas": true,
     "asistencia": null,
     "calificaran": [],
     "calificaron": [],
@@ -1079,7 +1079,7 @@
       "marty.mcfly"
     ],
     "pendientes": [],
-    "bajasSorteadas": false,
+    "bajasSorteadas": true,
     "asistencia": null,
     "calificaran": [],
     "calificaron": [],
@@ -1204,7 +1204,7 @@
     "cupo": 9,
     "creado": "2026-10-08T10:29:10.804Z",
     "pendientesHumanos": 0,
-    "anotados": 5
+    "anotados": 7
   },
   "cmuze9iaj00qp01s48ih9enzi": {
     "jugadores": [
@@ -1278,7 +1278,7 @@
     "cupo": 3,
     "creado": "2026-10-08T18:50:35.497Z",
     "pendientesHumanos": 0,
-    "anotados": 0,
+    "anotados": 2,
     "cancelSorteado": true,
     "cancelar": false
   },
@@ -1340,7 +1340,9 @@
     "jugadores": [
       "montgomery.burns"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "fred.weasley"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -1352,7 +1354,7 @@
     "cupo": 5,
     "creado": "2026-10-08T21:33:28.459Z",
     "pendientesHumanos": 0,
-    "anotados": 0,
+    "anotados": 1,
     "cancelSorteado": true,
     "cancelar": false
   },
@@ -1385,6 +1387,8 @@
     "fecha": "2026-10-14T23:30:00.000Z",
     "deporte": "FUTBOL",
     "cupo": 9,
-    "creado": "2026-10-09T13:13:11.131Z"
+    "creado": "2026-10-09T13:13:11.131Z",
+    "pendientesHumanos": 0,
+    "anotados": 0
   }
 }
