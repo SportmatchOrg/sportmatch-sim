@@ -1,2 +1,3 @@
 - 2026-10-08 19:08 · armó un running del domingo 11 a la mañana en Campus Austral
 - 2026-10-09 03:10 · aceptó a Tomás Valle Duran en su running del domingo 11
+- 2026-10-09 17:08 · aceptó a Davy Jones en su running del domingo

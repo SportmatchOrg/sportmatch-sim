@@ -1,1 +1,2 @@
 - 2026-10-08 18:51 · pidió unirse al fútbol del martes en BACKYARD Pilar (primera vez, se anota a todo)
+- 2026-10-09 17:08 · se unió al fútbol del sábado en Club Pilar (para despejarse)

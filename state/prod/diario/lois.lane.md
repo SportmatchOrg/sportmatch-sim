@@ -13,3 +13,4 @@
 - 2026-10-08 18:51 · entró a mirar cómo viene su fútbol del lunes 12; sin novedades
 - 2026-10-08 19:08 · armó fútbol del sáb 10/10 20:00 en Club Pilar y pidió unirse al del martes en BACKYARD
 - 2026-10-09 03:10 · aceptó a Tomás, Fred y Pippin en su fútbol del sábado en Club Pilar
+- 2026-10-09 17:09 · pidió unirse al fútbol del martes en Club Pilar

@@ -1050,7 +1050,10 @@
       "fred.weasley",
       "pippin.tuk"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "marty.mcfly",
+      "walle"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -1065,9 +1068,12 @@
     "anotados": 3
   },
   "cmv038p9l00eg01mr2qbk23xw": {
-    "jugadores": [],
-    "pendientes": [
+    "jugadores": [
       "davy.jones"
+    ],
+    "pendientes": [
+      "montgomery.burns",
+      "quigon.jinn"
     ],
     "bajasSorteadas": false,
     "asistencia": null,
@@ -1103,7 +1109,9 @@
       "fred.weasley",
       "pippin.tuk"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "lois.lane"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -1115,6 +1123,36 @@
     "cupo": 9,
     "creado": "2026-10-09T06:09:33.283Z",
     "pendientesHumanos": 0,
-    "anotados": 0
+    "anotados": 2
+  },
+  "cmv1eevi500xm01mr6svxla8a": {
+    "jugadores": [],
+    "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "albus.dumbledore",
+    "fecha": "2026-10-12T23:00:00.000Z",
+    "deporte": "TENIS",
+    "cupo": 3,
+    "creado": "2026-10-09T20:08:57.509Z"
+  },
+  "cmv1eexvw00xp01mrt9ex7d2x": {
+    "jugadores": [],
+    "pendientes": [
+      "eowyn"
+    ],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "apu.nahasapeemapetilon",
+    "fecha": "2026-10-11T14:00:00.000Z",
+    "deporte": "PADEL",
+    "cupo": 3,
+    "creado": "2026-10-09T20:09:00.628Z"
   }
 }

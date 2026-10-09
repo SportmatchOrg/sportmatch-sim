@@ -1,0 +1,1 @@
+- 2026-10-09 17:09 · armó un pádel BEGINNER del domingo 11 h en Club Pilar

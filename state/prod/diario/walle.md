@@ -1,2 +1,3 @@
 - 2026-10-08 18:51 · primera vez en la app: miró partidos, todavía no se animó a anotarse
 - 2026-10-09 10:15 · miró partidos de fútbol y básquet, todavía no se anima
+- 2026-10-09 17:09 · pidió unirse al fútbol del sábado en Club Pilar

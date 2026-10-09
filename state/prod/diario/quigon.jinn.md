@@ -14,3 +14,4 @@
 - 2026-10-06 12:25 · aceptó a Davy Jones en su running del mié 07/10 19:00
 - 2026-10-06 21:12 · calificó el running del mar 06/10 19:00
 - 2026-10-07 21:37 · calificó el running del mié 07/10 19:00 (reportó que faltó Fred Weasley)
+- 2026-10-09 17:09 · pidió unirse al running del domingo en Campus Austral
