@@ -34,3 +34,4 @@
 - 2026-10-07 03:49 · pidió unirse al futbol de Lois Lane del lun 12/10 20:00 en Campus Austral · Canchas
 - 2026-10-07 12:23 · pidió unirse al futbol de Gimli del jue 08/10 22:30 en River Courts · Cancha 2
 - 2026-10-08 00:49 · calificó el futbol del mié 07/10 22:00 (reportó que faltó Gimli, Rubeus Hagrid)
+- 2026-10-09 03:09 · calificó dos partidos y armó un pádel el lunes 12 a las 21 en Club Belgrano

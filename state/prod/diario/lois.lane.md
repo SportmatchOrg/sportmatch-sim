@@ -12,3 +12,4 @@
 - 2026-10-07 21:37 · aceptó a Padmé Amidala en su futbol del lun 12/10 20:00
 - 2026-10-08 18:51 · entró a mirar cómo viene su fútbol del lunes 12; sin novedades
 - 2026-10-08 19:08 · armó fútbol del sáb 10/10 20:00 en Club Pilar y pidió unirse al del martes en BACKYARD
+- 2026-10-09 03:10 · aceptó a Tomás, Fred y Pippin en su fútbol del sábado en Club Pilar

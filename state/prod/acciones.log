@@ -7,3 +7,28 @@
 2026-10-08T22:08:16.619Z chewbacca unirse cmuym52gv006401nxleh5cv2f
 2026-10-08T22:08:27.539Z molly.weasley crear cmv038p9l00eg01mr2qbk23xw RUNNING 2026-10-11T12:00:00.000Z
 2026-10-08T22:08:30.005Z nemo unirse cmuym52gv006401nxleh5cv2f
+2026-10-09T06:07:38.343Z sorteo crzadnw66m2mggqmsj0pbni2r faltaron=[] calificaran=[mace.windu,bellatrix.lestrange,steve.rogers,pippin.tuk,elrond,sam.gamyi]
+2026-10-09T06:07:49.790Z sorteo c94g4zl8f2kmb49p8ocdto6os faltaron=[steve.rogers] calificaran=[pippin.tuk,doc.brown,elrond,bellatrix.lestrange,theoden,fred.weasley,obiwan.kenobi]
+2026-10-09T06:08:21.606Z fred.weasley unirse cmv038d4a00e201mr0behed00
+2026-10-09T06:08:33.120Z pippin.tuk calificar crzadnw66m2mggqmsj0pbni2r ratings=3 noShows=0
+2026-10-09T06:08:35.414Z pippin.tuk calificar c94g4zl8f2kmb49p8ocdto6os ratings=2 noShows=1
+2026-10-09T06:08:37.797Z pippin.tuk unirse cmv038d4a00e201mr0behed00
+2026-10-09T06:08:48.960Z elrond calificar crzadnw66m2mggqmsj0pbni2r ratings=3 noShows=0
+2026-10-09T06:08:51.125Z elrond calificar c94g4zl8f2kmb49p8ocdto6os ratings=3 noShows=1
+2026-10-09T06:09:05.816Z bellatrix.lestrange calificar crzadnw66m2mggqmsj0pbni2r ratings=3 noShows=0
+2026-10-09T06:09:08.183Z bellatrix.lestrange calificar c94g4zl8f2kmb49p8ocdto6os ratings=2 noShows=1
+2026-10-09T06:09:13.028Z bellatrix.lestrange crear cmv0keyl800rl01mrme77p8wp PADEL 2026-10-13T00:00:00.000Z
+2026-10-09T06:09:20.467Z steve.rogers leer-notificaciones 1
+2026-10-09T06:09:28.694Z mace.windu calificar crzadnw66m2mggqmsj0pbni2r ratings=3 noShows=0
+2026-10-09T06:09:31.106Z steve.rogers calificar crzadnw66m2mggqmsj0pbni2r ratings=3 noShows=0
+2026-10-09T06:09:33.284Z steve.rogers crear cmv0kfe8k00s301mrn9e6lzbp FUTBOL 2026-10-13T23:30:00.000Z
+2026-10-09T06:10:02.326Z sam.gamyi calificar crzadnw66m2mggqmsj0pbni2r ratings=3 noShows=0
+2026-10-09T06:10:04.883Z doc.brown calificar c94g4zl8f2kmb49p8ocdto6os ratings=3 noShows=1
+2026-10-09T06:10:07.266Z obiwan.kenobi calificar c94g4zl8f2kmb49p8ocdto6os ratings=2 noShows=1
+2026-10-09T06:10:09.855Z theoden calificar c94g4zl8f2kmb49p8ocdto6os ratings=3 noShows=1
+2026-10-09T06:10:16.129Z molly.weasley leer-notificaciones 1
+2026-10-09T06:10:25.829Z molly.weasley aceptar cmv038p9l00eg01mr2qbk23xw cmu5u8w7h000201npqlts6ndy
+2026-10-09T06:10:28.302Z lois.lane leer-notificaciones 3
+2026-10-09T06:10:30.830Z lois.lane aceptar cmv038d4a00e201mr0behed00 cmu5u8w7h000201npqlts6ndy
+2026-10-09T06:10:33.057Z lois.lane aceptar cmv038d4a00e201mr0behed00 fred.weasley
+2026-10-09T06:10:35.315Z lois.lane aceptar cmv038d4a00e201mr0behed00 pippin.tuk

@@ -2,3 +2,4 @@
 - 2026-10-05 03:44 · pidió unirse al futbol de Hermione Granger del sáb 10/10 11:30 en Polideportivo Del Viso
 - 2026-10-06 00:26 · pidió unirse al futbol de Pippin Tuk del jue 08/10 20:00 en Campus Austral · Canchas
 - 2026-10-06 03:17 · pidió unirse al futbol de Elrond del dom 11/10 11:00 en Fútbol 5 Nordelta
+- 2026-10-09 03:10 · calificó el partido; no hay nada en CABA de fútbol para anotarse

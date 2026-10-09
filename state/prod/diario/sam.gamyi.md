@@ -12,3 +12,4 @@
 - 2026-10-05 21:42 · aceptó a Mace Windu en su padel del vie 09/10 21:00
 - 2026-10-05 21:46 · pidió unirse al futbol de Elrond del dom 11/10 11:00 en Fútbol 5 Nordelta
 - 2026-10-06 21:12 · calificó el futbol del mar 06/10 19:00 (reportó que faltó Théoden)
+- 2026-10-09 03:10 · calificó el fútbol del martes, entusiasmado
