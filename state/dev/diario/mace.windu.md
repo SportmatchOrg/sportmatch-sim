@@ -36,3 +36,4 @@
 - 2026-10-08 15:40 · aceptó a Qui-Gon en su pádel de Tigre; nada más
 - 2026-10-09 03:06 · aceptó a Mati y a pomo2 en su pádel de Tigre y calificó el fútbol
 - 2026-10-09 03:06 · aclaración: a pomo2 no pudo aceptarlo, el pádel ya estaba lleno
+- 2026-10-09 10:12 · quiso aceptar a pomo2 pero el pádel estaba lleno; pidió sumarse al pádel del sábado en Tigre

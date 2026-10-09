@@ -5,3 +5,4 @@
 - 2026-10-04 21:38 · canceló su basquet del lun 05/10 19:00 (iba 2/9)
 - 2026-10-06 03:23 · pidió unirse al basquet de Galadriel del mar 06/10 22:30 en Club Belgrano · Gimnasio
 - 2026-10-07 00:38 · calificó el basquet del mar 06/10 22:30 (reportó que faltó Davy Jones)
+- 2026-10-09 10:13 · entró un rato, miró partidos y no se anotó a nada

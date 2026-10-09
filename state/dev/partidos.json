@@ -53,11 +53,10 @@
   "cmuxjf8eb00d901s43adfk92w": {
     "jugadores": [
       "eowyn",
-      "sam.gamyi"
-    ],
-    "pendientes": [
+      "sam.gamyi",
       "dobby"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -143,7 +142,7 @@
     "deporte": "PADEL",
     "cupo": 4,
     "pendientesHumanos": 1,
-    "anotados": 2
+    "anotados": 3
   },
   "cbw3a1lkzdikovienq4cff46c": {
     "organizador": "bellatrix.lestrange",
@@ -1088,7 +1087,7 @@
     "creado": "2026-10-06T03:49:00.000Z",
     "cancelSorteado": false,
     "pendientesHumanos": 0,
-    "anotados": 4
+    "anotados": 5
   },
   "ctv2vn00cv0dg96p9j045xezn": {
     "organizador": "sam.gamyi",
@@ -1189,11 +1188,11 @@
       "sirius.black",
       "fred.weasley",
       "arya.stark",
-      "walle"
+      "walle",
+      "pippin.tuk",
+      "bellatrix.lestrange"
     ],
-    "pendientes": [
-      "pippin.tuk"
-    ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -1223,7 +1222,7 @@
     "cupo": 3,
     "creado": "2026-10-08T10:29:14.753Z",
     "pendientesHumanos": 0,
-    "anotados": 0
+    "anotados": 1
   },
   "cmuzvslwc00ty01s41ntvmal2": {
     "jugadores": [
@@ -1263,10 +1262,11 @@
     "anotados": 0
   },
   "cmuzw68r700wy01s4qzb8wg58": {
-    "jugadores": [],
-    "pendientes": [
-      "bellatrix.lestrange"
+    "jugadores": [
+      "bellatrix.lestrange",
+      "mace.windu"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -1278,7 +1278,9 @@
     "cupo": 3,
     "creado": "2026-10-08T18:50:35.497Z",
     "pendientesHumanos": 0,
-    "anotados": 0
+    "anotados": 0,
+    "cancelSorteado": true,
+    "cancelar": false
   },
   "cmuzw6y4u00xn01s4jfcdhxvd": {
     "jugadores": [],
@@ -1318,7 +1320,9 @@
       "davy.jones"
     ],
     "bajasSorteadas": false,
-    "asistencia": null,
+    "asistencia": {
+      "jaime.lannister": true
+    },
     "calificaran": [],
     "calificaron": [],
     "cancelado": false,
@@ -1333,10 +1337,10 @@
     "anotados": 0
   },
   "cmv01zpjv014101s4hcps1lma": {
-    "jugadores": [],
-    "pendientes": [
+    "jugadores": [
       "montgomery.burns"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -1348,7 +1352,9 @@
     "cupo": 5,
     "creado": "2026-10-08T21:33:28.459Z",
     "pendientesHumanos": 0,
-    "anotados": 0
+    "anotados": 0,
+    "cancelSorteado": true,
+    "cancelar": false
   },
   "cmusruu0n000401pai7eh410l": {
     "jugadores": [],
@@ -1366,5 +1372,19 @@
     "deporte": "FUTBOL",
     "cupo": 10,
     "anotados": 0
+  },
+  "cmv0zk6ri008g01ojmm41amwj": {
+    "jugadores": [],
+    "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "lois.lane",
+    "fecha": "2026-10-14T23:30:00.000Z",
+    "deporte": "FUTBOL",
+    "cupo": 9,
+    "creado": "2026-10-09T13:13:11.131Z"
   }
 }

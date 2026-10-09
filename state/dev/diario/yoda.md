@@ -11,3 +11,4 @@
 - 2026-10-07 22:36 · miró pádel, nada de finde a la mañana en Pilar; pasó
 - 2026-10-07 22:38 · se anotó al pádel del domingo a la mañana en Club Belgrano (por fin uno de finde)
 - 2026-10-08 19:06 · leyó notificaciones: lo aceptaron en el pádel del domingo; nada más
+- 2026-10-09 10:13 · buscó pádel, no hay partidos nuevos; no se anotó

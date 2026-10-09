@@ -18,3 +18,4 @@
 - 2026-10-06 21:43 · calificó el futbol del mar 06/10 21:30 (reportó que faltó Fred Weasley)
 - 2026-10-06 21:47 · pidió unirse al futbol de Steve Rogers del lun 12/10 22:30 en Campus Austral · Canchas
 - 2026-10-08 18:33 · pidió unirse al fútbol ADVANCED del sábado en Club Pilar (juega para ganar)
+- 2026-10-09 10:13 · leyó que Steve lo aceptó en el fútbol ADVANCED del sábado; nada más

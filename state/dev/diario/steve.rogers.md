@@ -46,3 +46,4 @@
 - 2026-10-08 07:29 · aceptó a Padmé en su fútbol; sigue esperando que se llene el del sábado
 - 2026-10-08 15:40 · aceptó a Bellatrix en su fútbol ADVANCED del sábado; sigue esperando que se llene
 - 2026-10-08 19:06 · aceptó a Jon Snow y a Mati en su fútbol ADVANCED del sábado
+- 2026-10-09 10:13 · miró su fútbol ADVANCED del sábado, sigue sin llenarse; no cancela todavía

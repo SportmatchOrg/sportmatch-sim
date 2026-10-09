@@ -27,3 +27,4 @@
 - 2026-10-07 17:35 · entró a mirar, nada nuevo
 - 2026-10-07 22:36 · leyó que lo aceptaron, nada más por hoy
 - 2026-10-08 18:33 · pidió unirse al fútbol del martes en Club Pilar (se prende en todo)
+- 2026-10-09 10:13 · leyó que lo aceptaron en el fútbol del martes en Pilar; nada más
