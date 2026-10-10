@@ -5,3 +5,4 @@
 - 2026-10-06 21:41 · pidió unirse al futbol de Padmé Amidala del lun 12/10 20:00 en Club Pilar · Cancha 2
 - 2026-10-09 12:14 · pidió unirse al futbol de Elrond del vie 09/10 19:30 en Fútbol 5 Nordelta
 - 2026-10-09 21:50 · pidió unirse al futbol de Steve Rogers del mar 13/10 19:00 en Club Pilar · Cancha 2
+- 2026-10-10 20:15 · calificó el fútbol del martes

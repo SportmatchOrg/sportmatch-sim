@@ -6,3 +6,28 @@
 2026-10-10T22:33:12.906Z mace.windu crear cmv2z08q2006b01ljq6bs6rzw PADEL 2026-10-15T23:30:00.000Z
 2026-10-10T22:33:22.859Z neo crear cmv2z0geo006g01ljikcm1lz9 BASQUET 2026-10-13T23:30:00.000Z
 2026-10-10T22:33:25.287Z jack.sparrow crear cmv2z0i9s006j01ljfabpuq2e PADEL 2026-10-11T12:00:00.000Z
+2026-10-10T23:12:58.148Z sorteo c9q8jjtam8l3ruz1o60lg1dt6 faltaron=[] calificaran=[pippin.tuk,bellatrix.lestrange,doc.brown,mace.windu,padme.amidala,elrond,sam.gamyi,theoden]
+2026-10-10T23:13:07.092Z sorteo cg2d35lveof8qkr77mrc806ze faltaron=[] calificaran=[albus.dumbledore,steve.rogers,elrond,lois.lane,pippin.tuk]
+2026-10-10T23:13:30.743Z pippin.tuk calificar c9q8jjtam8l3ruz1o60lg1dt6 ratings=3 noShows=0
+2026-10-10T23:13:32.682Z pippin.tuk calificar cg2d35lveof8qkr77mrc806ze ratings=3 noShows=0
+2026-10-10T23:13:40.422Z pippin.tuk unirse crluvf80cz1ynj3v9p41xozrh
+2026-10-10T23:13:48.664Z elrond calificar c9q8jjtam8l3ruz1o60lg1dt6 ratings=3 noShows=0
+2026-10-10T23:13:50.575Z elrond calificar cg2d35lveof8qkr77mrc806ze ratings=3 noShows=0
+2026-10-10T23:14:01.153Z bellatrix.lestrange calificar c9q8jjtam8l3ruz1o60lg1dt6 ratings=3 noShows=0
+2026-10-10T23:14:09.296Z mace.windu calificar c9q8jjtam8l3ruz1o60lg1dt6 ratings=3 noShows=0
+2026-10-10T23:14:11.479Z steve.rogers leer-notificaciones 3
+2026-10-10T23:14:19.602Z steve.rogers aceptar crluvf80cz1ynj3v9p41xozrh lois.lane
+2026-10-10T23:14:21.656Z steve.rogers aceptar crluvf80cz1ynj3v9p41xozrh pippin.tuk
+2026-10-10T23:14:23.535Z steve.rogers rechazar crluvf80cz1ynj3v9p41xozrh sirius.black
+2026-10-10T23:14:25.437Z steve.rogers calificar cg2d35lveof8qkr77mrc806ze ratings=3 noShows=0
+2026-10-10T23:14:30.107Z steve.rogers crear cmv30hc5r009q01lj0yiz7p8a FUTBOL 2026-10-16T00:00:00.000Z
+2026-10-10T23:14:37.891Z sam.gamyi calificar c9q8jjtam8l3ruz1o60lg1dt6 ratings=3 noShows=0
+2026-10-10T23:14:41.874Z sam.gamyi crear cmv30hl8r00a001ljvnsiatd9 PADEL 2026-10-13T23:00:00.000Z
+2026-10-10T23:14:50.515Z doc.brown calificar c9q8jjtam8l3ruz1o60lg1dt6 ratings=3 noShows=0
+2026-10-10T23:14:56.784Z padme.amidala calificar c9q8jjtam8l3ruz1o60lg1dt6 ratings=3 noShows=0
+2026-10-10T23:15:03.739Z theoden calificar c9q8jjtam8l3ruz1o60lg1dt6 ratings=3 noShows=0
+2026-10-10T23:15:06.296Z jack.sparrow cancelar cmv2z0i9s006j01ljfabpuq2e
+2026-10-10T23:15:09.888Z lois.lane leer-notificaciones 1
+2026-10-10T23:15:16.086Z lois.lane calificar cg2d35lveof8qkr77mrc806ze ratings=3 noShows=0
+2026-10-10T23:15:23.056Z albus.dumbledore calificar cg2d35lveof8qkr77mrc806ze ratings=3 noShows=0
+2026-10-10T23:15:24.976Z albus.dumbledore crear cmv30iiia00b501ljjcvd4vpl TENIS 2026-10-14T23:00:00.000Z

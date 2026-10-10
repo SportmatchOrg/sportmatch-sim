@@ -1,2 +1,3 @@
 - 2026-10-08 12:23 · pidió unirse al running de Héctor Barbossa del sáb 10/10 11:30 en Parque Pilar · Circuito
 - 2026-10-10 19:33 · organizó un padel INTERMEDIATE para el dom 11/10 09:00 en Pádel Point Pilar
+- 2026-10-10 20:15 · canceló el pádel del domingo: no se llenó

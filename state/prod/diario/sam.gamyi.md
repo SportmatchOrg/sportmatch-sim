@@ -30,3 +30,4 @@
 - 2026-10-09 03:44 · organizó un tenis INTERMEDIATE para el dom 11/10 09:30 en River Courts · Cancha 2
 - 2026-10-09 12:11 · pidió unirse al padel de Tony Stark del sáb 10/10 09:30 en Tigre Pádel Club
 - 2026-10-10 09:48 · calificó el padel del sáb 10/10 09:30
+- 2026-10-10 20:14 · calificó el fútbol y organizó un pádel BEGINNER en Club Belgrano

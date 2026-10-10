@@ -18,3 +18,4 @@
 - 2026-10-10 00:43 · aceptó a Pippin Tuk en su futbol del mié 14/10 20:00
 - 2026-10-10 12:31 · calificó el futbol del sáb 10/10 10:30 (reportó que faltó Nemo)
 - 2026-10-10 19:33 · se unió al fútbol del martes en Club Pilar (le queda cerca y es a una hora cómoda)
+- 2026-10-10 20:15 · calificó el fútbol; ya tiene el del martes en Club Pilar, no suma más
