@@ -57,3 +57,4 @@
 - 2026-10-10 09:48 · calificó el padel del sáb 10/10 09:30
 - 2026-10-10 12:31 · calificó el padel del sáb 10/10 10:30
 - 2026-10-10 12:31 · calificó el futbol del sáb 10/10 10:30 (reportó que faltó Nemo)
+- 2026-10-10 19:32 · se anotó al fútbol del lunes en Parque Sur (se anota a todo)

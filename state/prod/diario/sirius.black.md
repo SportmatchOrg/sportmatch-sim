@@ -1,0 +1,1 @@
+- 2026-10-10 19:32 · se unió al fútbol intermedio del martes en Club Pilar (recién empieza, busca algo parejo)

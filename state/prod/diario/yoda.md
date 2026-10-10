@@ -3,3 +3,4 @@
 - 2026-10-04 21:41 · pidió unirse al padel de Mace Windu del sáb 10/10 21:00 en Tigre Pádel Club
 - 2026-10-08 15:18 · pidió unirse al padel de Chewbacca del dom 11/10 10:00 en Club Pilar · Cancha 2
 - 2026-10-09 21:52 · pidió unirse al padel de Tony Stark del sáb 10/10 09:30 en Tigre Pádel Club
+- 2026-10-10 19:33 · entró a mirar partidos y no se anotó a nada

@@ -34,3 +34,4 @@
 - 2026-10-08 21:31 · pidió unirse al futbol de Steve Rogers del sáb 10/10 10:30 en Campus Austral · Canchas
 - 2026-10-10 18:21 · se bajó a último momento del futbol del sáb 10/10 19:00
 - 2026-10-10 18:21 · se bajó a último momento del futbol del sáb 10/10 20:00
+- 2026-10-10 19:33 · entró a mirar partidos y no se anotó a nada
