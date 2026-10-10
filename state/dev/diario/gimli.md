@@ -21,3 +21,4 @@
 - 2026-10-08 18:32 · aceptó a Padmé en su fútbol y se unió al fútbol del viernes en River Courts (le gusta conocer gente)
 - 2026-10-08 19:07 · leyó notificaciones; lo aceptaron, nada más por hoy
 - 2026-10-09 03:05 · calificó el fútbol y pidió unirse al del lunes en el Monumental (le gusta conocer gente)
+- 2026-10-10 06:47 · aceptó a Rubeus Hagrid y a Nemo en su fútbol (le gusta conocer gente)

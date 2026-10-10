@@ -3,3 +3,4 @@
 - 2026-10-08 18:33 · miró partidos, nada que encaje con su nivel; no se anotó
 - 2026-10-08 19:06 · aceptó a Wall-E, Arya y Fred en su fútbol del martes en Club Pilar
 - 2026-10-09 10:13 · aceptó a Pippin y a Bellatrix en su fútbol del martes y armó otro el miércoles 20:30 en Del Viso
+- 2026-10-10 06:47 · aceptó a Marty y a Pippin en sus partidos de fútbol

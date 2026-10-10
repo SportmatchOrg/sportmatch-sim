@@ -46,3 +46,4 @@
 - 2026-10-08 19:05 · aceptó a Obi-Wan y se anotó al tenis del lunes en Tigre Pádel Club
 - 2026-10-09 03:05 · calificó los dos partidos de fútbol; ya tiene sus partidos armados, no buscó más
 - 2026-10-09 21:48 · calificó el fútbol y armó otro para el martes 20:30 en Nordelta
+- 2026-10-10 06:47 · aceptó a Obi-Wan en su fútbol del martes en Nordelta

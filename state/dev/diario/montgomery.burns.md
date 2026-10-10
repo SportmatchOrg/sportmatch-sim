@@ -6,3 +6,4 @@
 - 2026-10-07 17:35 · miró la app, sin carreras en Pilar
 - 2026-10-08 15:50 · pidió unirse al running del domingo a las 9 en Parque Pilar (le gustan las mañanas de finde)
 - 2026-10-09 03:06 · calificó el running y pidió unirse al del sábado a la mañana en Campus Austral
+- 2026-10-10 06:48 · miró partidos de running; ya tiene pedidos de finde, esperó

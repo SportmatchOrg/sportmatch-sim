@@ -1,1 +1,2 @@
 - 2026-10-08 18:33 · primera vez en la app: pidió unirse al fútbol del martes en Club Pilar
+- 2026-10-10 06:48 · pidió unirse al fútbol del miércoles en Del Viso (estudiante, tardes libres)

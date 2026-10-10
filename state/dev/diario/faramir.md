@@ -21,3 +21,4 @@
 - 2026-10-08 15:40 · armó un running tranqui el domingo 9 h en Parque Pilar (para despejarse)
 - 2026-10-08 18:32 · aceptó a los cuatro que pidieron para su running del domingo en Parque Pilar
 - 2026-10-09 03:07 · miró la app y leyó notificaciones; ya tiene su running del domingo armado
+- 2026-10-10 06:48 · calificó el partido del que faltaron dos; nada más hoy

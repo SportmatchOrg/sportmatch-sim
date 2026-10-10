@@ -741,9 +741,20 @@
     ],
     "pendientes": [],
     "bajasSorteadas": true,
-    "asistencia": null,
-    "calificaran": [],
-    "calificaron": [],
+    "asistencia": {
+      "eowyn": true,
+      "faramir": true,
+      "jaime.lannister": false,
+      "quigon.jinn": true,
+      "montgomery.burns": true,
+      "fred.weasley": false
+    },
+    "calificaran": [
+      "faramir"
+    ],
+    "calificaron": [
+      "faramir"
+    ],
     "cancelado": false,
     "creado": "2026-10-04T00:11:40.000Z",
     "cancelSorteado": false,
@@ -902,7 +913,6 @@
       "pippin.tuk",
       "bellatrix.lestrange",
       "jon.snow",
-      "nemo",
       "theoden",
       "steve.rogers",
       "fred.weasley",
@@ -911,7 +921,7 @@
       "rubeus.hagrid"
     ],
     "pendientes": [],
-    "bajasSorteadas": false,
+    "bajasSorteadas": true,
     "asistencia": null,
     "calificaran": [],
     "calificaron": [],
@@ -1114,7 +1124,8 @@
       "bellatrix.lestrange"
     ],
     "calificaron": [
-      "sam.gamyi"
+      "sam.gamyi",
+      "bellatrix.lestrange"
     ],
     "cancelado": false,
     "creado": "2026-10-06T00:55:00.000Z",
@@ -1175,7 +1186,8 @@
     ],
     "calificaron": [
       "rubeus.hagrid",
-      "marty.mcfly"
+      "marty.mcfly",
+      "bellatrix.lestrange"
     ],
     "cancelado": false,
     "creado": "2026-10-06T03:49:00.000Z",
@@ -1223,12 +1235,11 @@
     "deporte": "FUTBOL",
     "cupo": 11,
     "jugadores": [
-      "bellatrix.lestrange"
-    ],
-    "pendientes": [
+      "bellatrix.lestrange",
       "rubeus.hagrid",
       "nemo"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -1287,11 +1298,10 @@
       "arya.stark",
       "walle",
       "pippin.tuk",
-      "bellatrix.lestrange"
-    ],
-    "pendientes": [
+      "bellatrix.lestrange",
       "marty.mcfly"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -1362,11 +1372,10 @@
   },
   "cmuzw68r700wy01s4qzb8wg58": {
     "jugadores": [
-      "bellatrix.lestrange",
-      "mace.windu"
+      "bellatrix.lestrange"
     ],
     "pendientes": [],
-    "bajasSorteadas": false,
+    "bajasSorteadas": true,
     "asistencia": null,
     "calificaran": [],
     "calificaron": [],
@@ -1443,7 +1452,7 @@
       "fred.weasley"
     ],
     "pendientes": [],
-    "bajasSorteadas": false,
+    "bajasSorteadas": true,
     "asistencia": null,
     "calificaran": [],
     "calificaron": [],
@@ -1454,7 +1463,7 @@
     "cupo": 5,
     "creado": "2026-10-08T21:33:28.459Z",
     "pendientesHumanos": 0,
-    "anotados": 1,
+    "anotados": 2,
     "cancelSorteado": true,
     "cancelar": false
   },
@@ -1477,9 +1486,11 @@
     "anotados": 0
   },
   "cmv0zk6ri008g01ojmm41amwj": {
-    "jugadores": [],
-    "pendientes": [
+    "jugadores": [
       "pippin.tuk"
+    ],
+    "pendientes": [
+      "arya.stark"
     ],
     "bajasSorteadas": false,
     "asistencia": null,
@@ -1495,10 +1506,10 @@
     "anotados": 0
   },
   "cmv1oevqz00di01oj5aq6wa7v": {
-    "jugadores": [],
-    "pendientes": [
+    "jugadores": [
       "obiwan.kenobi"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -1508,11 +1519,15 @@
     "fecha": "2026-10-13T23:30:00.000Z",
     "deporte": "FUTBOL",
     "cupo": 9,
-    "creado": "2026-10-10T00:48:54.039Z"
+    "creado": "2026-10-10T00:48:54.039Z",
+    "pendientesHumanos": 0,
+    "anotados": 0
   },
   "cmv1ofpsz00ej01ojswz6itgg": {
     "jugadores": [],
-    "pendientes": [],
+    "pendientes": [
+      "bellatrix.lestrange"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -1522,7 +1537,9 @@
     "fecha": "2026-10-14T23:30:00.000Z",
     "deporte": "PADEL",
     "cupo": 3,
-    "creado": "2026-10-10T00:49:32.916Z"
+    "creado": "2026-10-10T00:49:32.916Z",
+    "pendientesHumanos": 0,
+    "anotados": 0
   },
   "cmv1oh9hh00gl01oj234wzyrv": {
     "jugadores": [],
@@ -1536,6 +1553,8 @@
     "fecha": "2026-10-11T12:00:00.000Z",
     "deporte": "RUNNING",
     "cupo": 5,
-    "creado": "2026-10-10T00:50:45.085Z"
+    "creado": "2026-10-10T00:50:45.085Z",
+    "pendientesHumanos": 0,
+    "anotados": 0
   }
 }
