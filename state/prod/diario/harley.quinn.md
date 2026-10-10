@@ -1,1 +1,8 @@
-- 2026-10-08 18:51 · primera entrada: dio una vuelta por los partidos y se fue
+- 2026-10-05 00:54 · pidió unirse al basquet de Galadriel del lun 05/10 20:00 en Club Belgrano · Gimnasio
+- 2026-10-05 18:36 · se bajó a último momento del basquet del lun 05/10 20:00
+- 2026-10-07 06:33 · organizó un basquet INTERMEDIATE para el jue 08/10 20:00 en Campus Austral · Canchas
+- 2026-10-07 15:31 · aceptó a Galadriel en su basquet del jue 08/10 20:00
+- 2026-10-07 15:31 · aceptó a Éowyn en su basquet del jue 08/10 20:00
+- 2026-10-07 18:19 · aceptó a Davy Jones en su basquet del jue 08/10 20:00
+- 2026-10-07 18:19 · aceptó a Ron Weasley en su basquet del jue 08/10 20:00
+- 2026-10-08 12:17 · aceptó a Milhouse Van Houten en su basquet del jue 08/10 20:00

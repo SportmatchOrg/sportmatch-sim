@@ -1,2 +1,3 @@
-- 2026-10-05 21:48 · pidió unirse al futbol de Pippin Tuk del jue 08/10 20:00 en Campus Austral · Canchas
-- 2026-10-07 09:37 · pidió unirse al futbol de Lois Lane del lun 12/10 20:00 en Campus Austral · Canchas
+- 2026-10-06 15:25 · pidió unirse al futbol de Doc Brown del mié 07/10 21:00 en Campus Austral · Canchas
+- 2026-10-07 06:34 · pidió unirse al futbol de Padmé Amidala del lun 12/10 20:00 en Club Pilar · Cancha 2
+- 2026-10-07 21:50 · calificó el futbol del mié 07/10 21:00

@@ -1,1 +1,0 @@
-- 2026-10-09 10:15 · primera vez en la app, miró partidos de fútbol sin anotarse

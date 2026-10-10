@@ -1,444 +1,732 @@
-# backfill desde 2026-09-30 (semilla 2026), aplicado 2026-10-08T21:47:48.862Z
-2026-09-30T15:18:20.000Z gimli organizó un futbol INTERMEDIATE para el dom 04/10 09:00 en River Courts · Cancha 2
-2026-09-30T18:21:00.000Z fred.weasley pidió unirse al futbol de Gimli del dom 04/10 09:00 en River Courts · Cancha 2
-2026-09-30T18:21:40.000Z bellatrix.lestrange pidió unirse al futbol de Gimli del dom 04/10 09:00 en River Courts · Cancha 2
-2026-09-30T21:26:00.000Z gimli aceptó a Fred Weasley en su futbol del dom 04/10 09:00
-2026-09-30T21:26:00.000Z gimli aceptó a Bellatrix Lestrange en su futbol del dom 04/10 09:00
-2026-09-30T21:27:20.000Z pippin.tuk pidió unirse al futbol de Gimli del dom 04/10 09:00 en River Courts · Cancha 2
-2026-09-30T21:28:00.000Z elrond pidió unirse al futbol de Gimli del dom 04/10 09:00 en River Courts · Cancha 2
-2026-10-01T00:48:00.000Z gimli aceptó a Pippin Tuk en su futbol del dom 04/10 09:00
-2026-10-01T00:48:00.000Z gimli aceptó a Elrond en su futbol del dom 04/10 09:00
-2026-10-01T00:48:40.000Z elrond organizó un tenis INTERMEDIATE para el sáb 03/10 10:30 en Tigre Pádel Club
-2026-10-01T00:52:00.000Z ron.weasley pidió unirse al tenis de Elrond del sáb 03/10 10:30 en Tigre Pádel Club
-2026-10-01T03:25:00.000Z elrond aceptó a Ron Weasley en su tenis del sáb 03/10 10:30
-2026-10-01T03:25:00.000Z elrond organizó un futbol BEGINNER para el sáb 03/10 11:00 en Fútbol 5 Nordelta
-2026-10-01T03:27:00.000Z bellatrix.lestrange pidió unirse al futbol de Elrond del sáb 03/10 11:00 en Fútbol 5 Nordelta
-2026-10-01T03:29:00.000Z rubeus.hagrid pidió unirse al futbol de Gimli del dom 04/10 09:00 en River Courts · Cancha 2
-2026-10-01T06:14:00.000Z gimli aceptó a Rubeus Hagrid en su futbol del dom 04/10 09:00
-2026-10-01T06:14:00.000Z gimli pidió unirse al futbol de Elrond del sáb 03/10 11:00 en Fútbol 5 Nordelta
-2026-10-01T06:14:00.000Z elrond aceptó a Bellatrix Lestrange en su futbol del sáb 03/10 11:00
-2026-10-01T06:14:00.000Z elrond aceptó a Gimli en su futbol del sáb 03/10 11:00
-2026-10-01T06:16:00.000Z fred.weasley pidió unirse al futbol de Elrond del sáb 03/10 11:00 en Fútbol 5 Nordelta
-2026-10-01T06:16:40.000Z mace.windu organizó un padel BEGINNER para el dom 04/10 11:00 en Tigre Pádel Club
-2026-10-01T06:18:00.000Z bellatrix.lestrange organizó un padel INTERMEDIATE para el sáb 03/10 09:00 en Club Belgrano · Gimnasio
-2026-10-01T06:18:00.000Z bellatrix.lestrange pidió unirse al padel de Mace Windu del dom 04/10 11:00 en Tigre Pádel Club
-2026-10-01T09:44:00.000Z elrond aceptó a Fred Weasley en su futbol del sáb 03/10 11:00
-2026-10-01T09:44:00.000Z mace.windu aceptó a Bellatrix Lestrange en su padel del dom 04/10 11:00
-2026-10-01T09:46:00.000Z eowyn pidió unirse al padel de Bellatrix Lestrange del sáb 03/10 09:00 en Club Belgrano · Gimnasio
-2026-10-01T09:46:40.000Z faramir organizó un running ADVANCED para el dom 04/10 11:30 en Parque Pilar · Circuito
-2026-10-01T09:47:20.000Z pippin.tuk pidió unirse al futbol de Elrond del sáb 03/10 11:00 en Fútbol 5 Nordelta
-2026-10-01T09:48:00.000Z rubeus.hagrid pidió unirse al futbol de Elrond del sáb 03/10 11:00 en Fútbol 5 Nordelta
-2026-10-01T12:44:00.000Z elrond aceptó a Pippin Tuk en su futbol del sáb 03/10 11:00
-2026-10-01T12:44:00.000Z elrond aceptó a Rubeus Hagrid en su futbol del sáb 03/10 11:00
-2026-10-01T12:44:00.000Z bellatrix.lestrange aceptó a Éowyn en su padel del sáb 03/10 09:00
-2026-10-01T12:45:20.000Z fred.weasley organizó un running INTERMEDIATE para el mar 06/10 19:00 en Parque Pilar · Circuito
-2026-10-01T12:45:20.000Z fred.weasley pidió unirse al running de Faramir del dom 04/10 11:30 en Parque Pilar · Circuito
-2026-10-01T12:48:00.000Z faramir pidió unirse al padel de Mace Windu del dom 04/10 11:00 en Tigre Pádel Club
-2026-10-01T12:48:40.000Z eowyn pidió unirse al running de Fred Weasley del mar 06/10 19:00 en Parque Pilar · Circuito
-2026-10-01T15:26:00.000Z fred.weasley aceptó a Éowyn en su running del mar 06/10 19:00
-2026-10-01T15:26:00.000Z faramir aceptó a Fred Weasley en su running del dom 04/10 11:30
-2026-10-01T15:26:00.000Z mace.windu aceptó a Faramir en su padel del dom 04/10 11:00
-2026-10-01T15:27:20.000Z mace.windu pidió unirse al futbol de Elrond del sáb 03/10 11:00 en Fútbol 5 Nordelta
-2026-10-01T18:20:00.000Z elrond aceptó a Mace Windu en su futbol del sáb 03/10 11:00
-2026-10-01T18:20:40.000Z steve.rogers organizó un futbol BEGINNER para el mié 07/10 22:00 en Club Pilar · Cancha 2
-2026-10-01T18:21:20.000Z quigon.jinn pidió unirse al padel de Mace Windu del dom 04/10 11:00 en Tigre Pádel Club
-2026-10-01T18:22:00.000Z eowyn pidió unirse al padel de Mace Windu del dom 04/10 11:00 en Tigre Pádel Club
-2026-10-01T18:22:40.000Z gimli pidió unirse al futbol de Steve Rogers del mié 07/10 22:00 en Club Pilar · Cancha 2
-2026-10-01T18:23:20.000Z montgomery.burns pidió unirse al running de Fred Weasley del mar 06/10 19:00 en Parque Pilar · Circuito
-2026-10-01T18:24:00.000Z bellatrix.lestrange pidió unirse al futbol de Steve Rogers del mié 07/10 22:00 en Club Pilar · Cancha 2
-2026-10-01T18:24:40.000Z jon.snow pidió unirse al futbol de Steve Rogers del mié 07/10 22:00 en Club Pilar · Cancha 2
-2026-10-01T21:47:00.000Z fred.weasley aceptó a Montgomery Burns en su running del mar 06/10 19:00
-2026-10-01T21:47:00.000Z mace.windu aceptó a Qui-Gon Jinn en su padel del dom 04/10 11:00
-2026-10-01T21:47:00.000Z mace.windu rechazó a Éowyn en su padel del dom 04/10 11:00 (ya estaba lleno)
-2026-10-01T21:47:00.000Z steve.rogers aceptó a Gimli en su futbol del mié 07/10 22:00
-2026-10-01T21:47:00.000Z steve.rogers aceptó a Bellatrix Lestrange en su futbol del mié 07/10 22:00
-2026-10-01T21:47:00.000Z steve.rogers aceptó a Jon Snow en su futbol del mié 07/10 22:00
-2026-10-01T21:47:40.000Z mace.windu pidió unirse al futbol de Gimli del dom 04/10 09:00 en River Courts · Cancha 2
-2026-10-01T21:50:20.000Z montgomery.burns pidió unirse al running de Faramir del dom 04/10 11:30 en Parque Pilar · Circuito
-2026-10-02T00:49:00.000Z gimli aceptó a Mace Windu en su futbol del dom 04/10 09:00
-2026-10-02T00:49:00.000Z faramir aceptó a Montgomery Burns en su running del dom 04/10 11:30
-2026-10-02T00:51:40.000Z elrond pidió unirse al futbol de Steve Rogers del mié 07/10 22:00 en Club Pilar · Cancha 2
-2026-10-02T00:54:20.000Z fred.weasley pidió unirse al futbol de Steve Rogers del mié 07/10 22:00 en Club Pilar · Cancha 2
-2026-10-02T00:55:40.000Z eowyn pidió unirse al running de Faramir del dom 04/10 11:30 en Parque Pilar · Circuito
-2026-10-02T03:15:00.000Z faramir aceptó a Éowyn en su running del dom 04/10 11:30
-2026-10-02T03:15:00.000Z faramir organizó un running INTERMEDIATE para el dom 04/10 09:30 en Parque Pilar · Circuito
-2026-10-02T03:15:00.000Z faramir pidió unirse al running de Fred Weasley del mar 06/10 19:00 en Parque Pilar · Circuito
-2026-10-02T03:15:00.000Z steve.rogers aceptó a Elrond en su futbol del mié 07/10 22:00
-2026-10-02T03:15:00.000Z steve.rogers aceptó a Fred Weasley en su futbol del mié 07/10 22:00
-2026-10-02T03:15:40.000Z steve.rogers pidió unirse al futbol de Gimli del dom 04/10 09:00 en River Courts · Cancha 2
-2026-10-02T03:17:00.000Z pippin.tuk pidió unirse al futbol de Steve Rogers del mié 07/10 22:00 en Club Pilar · Cancha 2
-2026-10-02T03:18:20.000Z eowyn pidió unirse al running de Faramir del dom 04/10 09:30 en Parque Pilar · Circuito
-2026-10-02T03:21:40.000Z mace.windu organizó un padel ADVANCED para el sáb 03/10 09:00 en Tigre Pádel Club
-2026-10-02T06:11:00.000Z fred.weasley aceptó a Faramir en su running del mar 06/10 19:00
-2026-10-02T06:11:00.000Z fred.weasley pidió unirse al running de Faramir del dom 04/10 09:30 en Parque Pilar · Circuito
-2026-10-02T06:11:00.000Z gimli aceptó a Steve Rogers en su futbol del dom 04/10 09:00
-2026-10-02T06:11:00.000Z faramir aceptó a Éowyn en su running del dom 04/10 09:30
-2026-10-02T06:11:00.000Z faramir aceptó a Fred Weasley en su running del dom 04/10 09:30
-2026-10-02T06:11:00.000Z steve.rogers aceptó a Pippin Tuk en su futbol del mié 07/10 22:00
-2026-10-02T06:13:00.000Z steve.rogers organizó un futbol INTERMEDIATE para el mar 06/10 22:00 en Campus Austral · Canchas
-2026-10-02T06:13:40.000Z bellatrix.lestrange pidió unirse al futbol de Steve Rogers del mar 06/10 22:00 en Campus Austral · Canchas
-2026-10-02T06:17:40.000Z dobby pidió unirse al padel de Bellatrix Lestrange del sáb 03/10 09:00 en Club Belgrano · Gimnasio
-2026-10-02T06:18:20.000Z elrond pidió unirse al futbol de Steve Rogers del mar 06/10 22:00 en Campus Austral · Canchas
-2026-10-02T09:38:00.000Z bellatrix.lestrange aceptó a Dobby en su padel del sáb 03/10 09:00
-2026-10-02T09:38:00.000Z bellatrix.lestrange pidió unirse al padel de Mace Windu del sáb 03/10 09:00 en Tigre Pádel Club
-2026-10-02T09:38:00.000Z steve.rogers aceptó a Bellatrix Lestrange en su futbol del mar 06/10 22:00
-2026-10-02T09:38:00.000Z steve.rogers aceptó a Elrond en su futbol del mar 06/10 22:00
-2026-10-02T09:39:20.000Z dobby pidió unirse al padel de Mace Windu del sáb 03/10 09:00 en Tigre Pádel Club
-2026-10-02T09:42:00.000Z jon.snow pidió unirse al futbol de Steve Rogers del mar 06/10 22:00 en Campus Austral · Canchas
-2026-10-02T09:42:40.000Z quigon.jinn pidió unirse al padel de Mace Windu del sáb 03/10 09:00 en Tigre Pádel Club
-2026-10-02T09:43:20.000Z fred.weasley pidió unirse al futbol de Steve Rogers del mar 06/10 22:00 en Campus Austral · Canchas
-2026-10-02T09:44:00.000Z yoda pidió unirse al padel de Bellatrix Lestrange del sáb 03/10 09:00 en Club Belgrano · Gimnasio
-2026-10-02T12:22:00.000Z bellatrix.lestrange aceptó a Yoda en su padel del sáb 03/10 09:00
-2026-10-02T12:22:00.000Z mace.windu aceptó a Bellatrix Lestrange en su padel del sáb 03/10 09:00
-2026-10-02T12:22:00.000Z mace.windu aceptó a Dobby en su padel del sáb 03/10 09:00
-2026-10-02T12:22:00.000Z mace.windu aceptó a Qui-Gon Jinn en su padel del sáb 03/10 09:00
-2026-10-02T12:22:00.000Z steve.rogers aceptó a Jon Snow en su futbol del mar 06/10 22:00
-2026-10-02T12:22:00.000Z steve.rogers aceptó a Fred Weasley en su futbol del mar 06/10 22:00
-2026-10-02T15:25:00.000Z mace.windu pidió unirse al futbol de Steve Rogers del mar 06/10 22:00 en Campus Austral · Canchas
-2026-10-02T18:12:00.000Z steve.rogers aceptó a Mace Windu en su futbol del mar 06/10 22:00
-2026-10-02T18:14:00.000Z mace.windu pidió unirse al futbol de Steve Rogers del mié 07/10 22:00 en Club Pilar · Cancha 2
-2026-10-02T18:14:40.000Z quigon.jinn pidió unirse al running de Fred Weasley del mar 06/10 19:00 en Parque Pilar · Circuito
-2026-10-02T18:16:40.000Z rubeus.hagrid pidió unirse al futbol de Steve Rogers del mar 06/10 22:00 en Campus Austral · Canchas
-2026-10-02T18:18:40.000Z pippin.tuk pidió unirse al futbol de Steve Rogers del mar 06/10 22:00 en Campus Austral · Canchas
-2026-10-02T21:36:00.000Z fred.weasley aceptó a Qui-Gon Jinn en su running del mar 06/10 19:00
-2026-10-02T21:36:00.000Z steve.rogers aceptó a Mace Windu en su futbol del mié 07/10 22:00
-2026-10-02T21:36:00.000Z steve.rogers aceptó a Rubeus Hagrid en su futbol del mar 06/10 22:00
-2026-10-02T21:36:00.000Z steve.rogers aceptó a Pippin Tuk en su futbol del mar 06/10 22:00
-2026-10-02T21:41:20.000Z gimli pidió unirse al futbol de Steve Rogers del mar 06/10 22:00 en Campus Austral · Canchas
-2026-10-03T00:32:00.000Z steve.rogers aceptó a Gimli en su futbol del mar 06/10 22:00
-2026-10-03T00:34:40.000Z rubeus.hagrid pidió unirse al futbol de Steve Rogers del mié 07/10 22:00 en Club Pilar · Cancha 2
-2026-10-03T03:44:00.000Z steve.rogers aceptó a Rubeus Hagrid en su futbol del mié 07/10 22:00
-2026-10-03T03:44:00.000Z steve.rogers pidió unirse al futbol de Elrond del sáb 03/10 11:00 en Fútbol 5 Nordelta
-2026-10-03T03:45:20.000Z hermione.granger pidió unirse al futbol de Steve Rogers del mar 06/10 22:00 en Campus Austral · Canchas
-2026-10-03T03:49:20.000Z jon.snow pidió unirse al futbol de Elrond del sáb 03/10 11:00 en Fútbol 5 Nordelta
-2026-10-03T03:50:00.000Z galadriel organizó un basquet ADVANCED para el mar 06/10 19:00 en Club Belgrano · Gimnasio
-2026-10-03T03:50:40.000Z ron.weasley pidió unirse al basquet de Galadriel del mar 06/10 19:00 en Club Belgrano · Gimnasio
-2026-10-03T06:38:00.000Z galadriel aceptó a Ron Weasley en su basquet del mar 06/10 19:00
-2026-10-03T06:38:00.000Z elrond aceptó a Steve Rogers en su futbol del sáb 03/10 11:00
-2026-10-03T06:38:00.000Z elrond aceptó a Jon Snow en su futbol del sáb 03/10 11:00
-2026-10-03T06:38:00.000Z steve.rogers aceptó a Hermione Granger en su futbol del mar 06/10 22:00
-2026-10-03T06:45:20.000Z jon.snow pidió unirse al futbol de Gimli del dom 04/10 09:00 en River Courts · Cancha 2
-2026-10-03T09:44:00.000Z gimli aceptó a Jon Snow en su futbol del dom 04/10 09:00
-2026-10-03T12:49:00.000Z pippin.tuk se bajó a último momento del futbol del sáb 03/10 11:00
-2026-10-03T12:49:00.000Z yoda calificó el padel del sáb 03/10 09:00
-2026-10-03T12:49:00.000Z bellatrix.lestrange calificó el padel del sáb 03/10 09:00
-2026-10-03T12:49:00.000Z bellatrix.lestrange calificó el padel del sáb 03/10 09:00
-2026-10-03T15:22:00.000Z ron.weasley calificó el tenis del sáb 03/10 10:30
-2026-10-03T15:22:00.000Z elrond calificó el tenis del sáb 03/10 10:30
-2026-10-03T15:22:00.000Z elrond calificó el futbol del sáb 03/10 11:00 (reportó que faltó Gimli)
-2026-10-03T15:22:00.000Z bellatrix.lestrange calificó el futbol del sáb 03/10 11:00 (reportó que faltó Gimli)
-2026-10-03T15:22:00.000Z mace.windu calificó el futbol del sáb 03/10 11:00 (reportó que faltó Gimli)
-2026-10-03T15:24:00.000Z mace.windu organizó un futbol ADVANCED para el jue 08/10 20:00 en Fútbol 5 Nordelta
-2026-10-03T15:24:40.000Z montgomery.burns pidió unirse al running de Faramir del dom 04/10 09:30 en Parque Pilar · Circuito
-2026-10-03T15:26:00.000Z jon.snow pidió unirse al futbol de Mace Windu del jue 08/10 20:00 en Fútbol 5 Nordelta
-2026-10-03T15:28:00.000Z eowyn pidió unirse al basquet de Galadriel del mar 06/10 19:00 en Club Belgrano · Gimnasio
-2026-10-03T15:28:40.000Z fred.weasley pidió unirse al futbol de Mace Windu del jue 08/10 20:00 en Fútbol 5 Nordelta
-2026-10-03T18:35:00.000Z galadriel aceptó a Éowyn en su basquet del mar 06/10 19:00
-2026-10-03T18:35:00.000Z faramir aceptó a Montgomery Burns en su running del dom 04/10 09:30
-2026-10-03T18:35:00.000Z mace.windu aceptó a Jon Snow en su futbol del jue 08/10 20:00
-2026-10-03T18:35:00.000Z mace.windu aceptó a Fred Weasley en su futbol del jue 08/10 20:00
-2026-10-03T18:37:40.000Z bellatrix.lestrange pidió unirse al futbol de Mace Windu del jue 08/10 20:00 en Fútbol 5 Nordelta
-2026-10-03T18:38:20.000Z quigon.jinn organizó un running INTERMEDIATE para el mié 07/10 19:00 en Parque Pilar · Circuito
-2026-10-03T18:39:40.000Z steve.rogers pidió unirse al futbol de Mace Windu del jue 08/10 20:00 en Fútbol 5 Nordelta
-2026-10-03T18:40:20.000Z jaime.lannister organizó un tenis INTERMEDIATE para el vie 09/10 22:30 en Campus Austral · Canchas
-2026-10-03T18:40:20.000Z jaime.lannister pidió unirse al running de Faramir del dom 04/10 11:30 en Parque Pilar · Circuito
-2026-10-03T18:41:00.000Z ron.weasley pidió unirse al tenis de Jaime Lannister del vie 09/10 22:30 en Campus Austral · Canchas
-2026-10-03T18:42:20.000Z eowyn organizó un running ADVANCED para el vie 09/10 20:00 en Campus Austral · Canchas
-2026-10-03T21:23:00.000Z faramir aceptó a Jaime Lannister en su running del dom 04/10 11:30
-2026-10-03T21:23:00.000Z mace.windu aceptó a Bellatrix Lestrange en su futbol del jue 08/10 20:00
-2026-10-03T21:23:00.000Z mace.windu aceptó a Steve Rogers en su futbol del jue 08/10 20:00
-2026-10-03T21:23:00.000Z jaime.lannister aceptó a Ron Weasley en su tenis del vie 09/10 22:30
-2026-10-03T21:24:20.000Z jaime.lannister pidió unirse al running de Qui-Gon Jinn del mié 07/10 19:00 en Parque Pilar · Circuito
-2026-10-03T21:26:20.000Z bellatrix.lestrange organizó un padel INTERMEDIATE para el lun 05/10 20:00 en Club Belgrano · Gimnasio
-2026-10-03T21:27:00.000Z pippin.tuk pidió unirse al futbol de Mace Windu del jue 08/10 20:00 en Fútbol 5 Nordelta
-2026-10-04T00:20:00.000Z quigon.jinn rechazó a Jaime Lannister en su running del mié 07/10 19:00
-2026-10-04T00:20:00.000Z quigon.jinn pidió unirse al running de Éowyn del vie 09/10 20:00 en Campus Austral · Canchas
-2026-10-04T00:20:00.000Z mace.windu aceptó a Pippin Tuk en su futbol del jue 08/10 20:00
-2026-10-04T00:22:00.000Z dobby pidió unirse al padel de Bellatrix Lestrange del lun 05/10 20:00 en Club Belgrano · Gimnasio
-2026-10-04T00:23:20.000Z yoda pidió unirse al padel de Bellatrix Lestrange del lun 05/10 20:00 en Club Belgrano · Gimnasio
-2026-10-04T00:24:00.000Z elrond organizó un futbol INTERMEDIATE para el dom 04/10 21:30 en Fútbol 5 Nordelta
-2026-10-04T00:25:20.000Z hermione.granger organizó un tenis ADVANCED para el dom 04/10 10:00 en Club Pilar · Cancha 2
-2026-10-04T00:26:40.000Z doc.brown organizó un futbol INTERMEDIATE para el mar 06/10 19:00 en Polideportivo Del Viso
-2026-10-04T00:26:40.000Z doc.brown pidió unirse al futbol de Steve Rogers del mié 07/10 22:00 en Club Pilar · Cancha 2
-2026-10-04T00:27:20.000Z jaime.lannister pidió unirse al tenis de Hermione Granger del dom 04/10 10:00 en Club Pilar · Cancha 2
-2026-10-04T03:36:00.000Z eowyn aceptó a Qui-Gon Jinn en su running del vie 09/10 20:00
-2026-10-04T03:36:00.000Z bellatrix.lestrange aceptó a Dobby en su padel del lun 05/10 20:00
-2026-10-04T03:36:00.000Z bellatrix.lestrange aceptó a Yoda en su padel del lun 05/10 20:00
-2026-10-04T03:36:00.000Z steve.rogers aceptó a Doc Brown en su futbol del mié 07/10 22:00
-2026-10-04T03:36:00.000Z hermione.granger aceptó a Jaime Lannister en su tenis del dom 04/10 10:00
-2026-10-04T03:36:40.000Z bellatrix.lestrange pidió unirse al futbol de Elrond del dom 04/10 21:30 en Fútbol 5 Nordelta
-2026-10-04T03:39:20.000Z sam.gamyi organizó un padel INTERMEDIATE para el sáb 10/10 10:00 en Club Belgrano · Gimnasio
-2026-10-04T03:39:20.000Z sam.gamyi pidió unirse al padel de Bellatrix Lestrange del lun 05/10 20:00 en Club Belgrano · Gimnasio
-2026-10-04T03:40:00.000Z elrond pidió unirse al futbol de Mace Windu del jue 08/10 20:00 en Fútbol 5 Nordelta
-2026-10-04T03:40:40.000Z fred.weasley pidió unirse al running de Éowyn del vie 09/10 20:00 en Campus Austral · Canchas
-2026-10-04T03:41:20.000Z montgomery.burns pidió unirse al running de Éowyn del vie 09/10 20:00 en Campus Austral · Canchas
-2026-10-04T06:28:00.000Z eowyn aceptó a Fred Weasley en su running del vie 09/10 20:00
-2026-10-04T06:28:00.000Z eowyn aceptó a Montgomery Burns en su running del vie 09/10 20:00
-2026-10-04T06:28:00.000Z elrond aceptó a Bellatrix Lestrange en su futbol del dom 04/10 21:30
-2026-10-04T06:28:00.000Z bellatrix.lestrange aceptó a Sam Gamyi en su padel del lun 05/10 20:00
-2026-10-04T06:28:00.000Z mace.windu aceptó a Elrond en su futbol del jue 08/10 20:00
-2026-10-04T06:28:40.000Z elrond organizó un tenis INTERMEDIATE para el sáb 10/10 22:30 en Tigre Pádel Club
-2026-10-04T06:29:20.000Z bellatrix.lestrange pidió unirse al padel de Sam Gamyi del sáb 10/10 10:00 en Club Belgrano · Gimnasio
-2026-10-04T06:30:00.000Z mace.windu pidió unirse al futbol de Elrond del dom 04/10 21:30 en Fútbol 5 Nordelta
-2026-10-04T06:32:00.000Z ron.weasley pidió unirse al tenis de Elrond del sáb 10/10 22:30 en Tigre Pádel Club
-2026-10-04T06:33:20.000Z doc.brown pidió unirse al futbol de Mace Windu del jue 08/10 20:00 en Fútbol 5 Nordelta
-2026-10-04T06:35:20.000Z jon.snow pidió unirse al futbol de Doc Brown del mar 06/10 19:00 en Polideportivo Del Viso
-2026-10-04T09:38:00.000Z elrond aceptó a Mace Windu en su futbol del dom 04/10 21:30
-2026-10-04T09:38:00.000Z elrond aceptó a Ron Weasley en su tenis del sáb 10/10 22:30
-2026-10-04T09:38:00.000Z mace.windu aceptó a Doc Brown en su futbol del jue 08/10 20:00
-2026-10-04T09:38:00.000Z sam.gamyi aceptó a Bellatrix Lestrange en su padel del sáb 10/10 10:00
-2026-10-04T09:38:00.000Z doc.brown aceptó a Jon Snow en su futbol del mar 06/10 19:00
-2026-10-04T09:41:20.000Z quigon.jinn pidió unirse al padel de Sam Gamyi del sáb 10/10 10:00 en Club Belgrano · Gimnasio
-2026-10-04T09:42:40.000Z hermione.granger organizó un futbol INTERMEDIATE para el sáb 10/10 11:30 en Polideportivo Del Viso
-2026-10-04T09:42:40.000Z hermione.granger pidió unirse al futbol de Doc Brown del mar 06/10 19:00 en Polideportivo Del Viso
-2026-10-04T09:43:20.000Z gimli pidió unirse al futbol de Hermione Granger del sáb 10/10 11:30 en Polideportivo Del Viso
-2026-10-04T12:36:00.000Z eowyn se bajó a último momento del running del dom 04/10 11:30
-2026-10-04T12:36:00.000Z gimli calificó el futbol del dom 04/10 09:00
-2026-10-04T12:36:00.000Z gimli pidió unirse al futbol de Mace Windu del jue 08/10 20:00 en Fútbol 5 Nordelta
-2026-10-04T12:36:00.000Z eowyn calificó el running del dom 04/10 09:30 (reportó que faltó Fred Weasley)
-2026-10-04T12:36:00.000Z pippin.tuk calificó el futbol del dom 04/10 09:00
-2026-10-04T12:36:00.000Z elrond calificó el futbol del dom 04/10 09:00
-2026-10-04T12:36:00.000Z bellatrix.lestrange calificó el futbol del dom 04/10 09:00
-2026-10-04T12:36:00.000Z faramir calificó el running del dom 04/10 09:30 (reportó que faltó Fred Weasley)
-2026-10-04T12:36:00.000Z montgomery.burns calificó el running del dom 04/10 09:30 (reportó que faltó Fred Weasley)
-2026-10-04T12:36:00.000Z steve.rogers calificó el futbol del dom 04/10 09:00
-2026-10-04T12:36:00.000Z hermione.granger aceptó a Gimli en su futbol del sáb 10/10 11:30
-2026-10-04T12:36:00.000Z hermione.granger aceptó a Elrond en su futbol del sáb 10/10 11:30
-2026-10-04T12:36:00.000Z hermione.granger aceptó a Bellatrix Lestrange en su futbol del sáb 10/10 11:30
-2026-10-04T12:36:00.000Z sam.gamyi aceptó a Qui-Gon Jinn en su padel del sáb 10/10 10:00
-2026-10-04T12:36:00.000Z doc.brown aceptó a Hermione Granger en su futbol del mar 06/10 19:00
-2026-10-04T12:36:00.000Z doc.brown aceptó a Pippin Tuk en su futbol del mar 06/10 19:00
-2026-10-04T12:37:20.000Z pippin.tuk pidió unirse al futbol de Doc Brown del mar 06/10 19:00 en Polideportivo Del Viso
-2026-10-04T12:38:00.000Z elrond pidió unirse al futbol de Hermione Granger del sáb 10/10 11:30 en Polideportivo Del Viso
-2026-10-04T12:38:40.000Z bellatrix.lestrange pidió unirse al futbol de Hermione Granger del sáb 10/10 11:30 en Polideportivo Del Viso
-2026-10-04T12:39:20.000Z faramir organizó un running BEGINNER para el sáb 10/10 10:00 en Parque Pilar · Circuito
-2026-10-04T12:40:00.000Z montgomery.burns pidió unirse al running de Faramir del sáb 10/10 10:00 en Parque Pilar · Circuito
-2026-10-04T12:42:00.000Z sam.gamyi pidió unirse al futbol de Mace Windu del jue 08/10 20:00 en Fútbol 5 Nordelta
-2026-10-04T12:42:40.000Z doc.brown pidió unirse al futbol de Hermione Granger del sáb 10/10 11:30 en Polideportivo Del Viso
-2026-10-04T15:49:00.000Z bellatrix.lestrange calificó el padel del dom 04/10 11:00
-2026-10-04T15:49:00.000Z bellatrix.lestrange pidió unirse al futbol de Doc Brown del mar 06/10 19:00 en Polideportivo Del Viso
-2026-10-04T15:49:00.000Z faramir calificó el padel del dom 04/10 11:00
-2026-10-04T15:49:00.000Z faramir calificó el running del dom 04/10 11:30
-2026-10-04T15:49:00.000Z faramir aceptó a Montgomery Burns en su running del sáb 10/10 10:00
-2026-10-04T15:49:00.000Z mace.windu calificó el padel del dom 04/10 11:00
-2026-10-04T15:49:00.000Z mace.windu aceptó a Gimli en su futbol del jue 08/10 20:00
-2026-10-04T15:49:00.000Z mace.windu aceptó a Sam Gamyi en su futbol del jue 08/10 20:00
-2026-10-04T15:49:00.000Z montgomery.burns calificó el running del dom 04/10 11:30
-2026-10-04T15:49:00.000Z hermione.granger calificó el tenis del dom 04/10 10:00
-2026-10-04T15:49:00.000Z hermione.granger rechazó a Doc Brown en su futbol del sáb 10/10 11:30
-2026-10-04T15:51:00.000Z montgomery.burns pidió unirse al running de Qui-Gon Jinn del mié 07/10 19:00 en Parque Pilar · Circuito
-2026-10-04T15:53:40.000Z doc.brown pidió unirse al futbol de Elrond del dom 04/10 21:30 en Fútbol 5 Nordelta
-2026-10-04T15:54:20.000Z jon.snow pidió unirse al futbol de Hermione Granger del sáb 10/10 11:30 en Polideportivo Del Viso
-2026-10-04T18:22:00.000Z quigon.jinn aceptó a Montgomery Burns en su running del mié 07/10 19:00
-2026-10-04T18:22:00.000Z quigon.jinn pidió unirse al running de Faramir del sáb 10/10 10:00 en Parque Pilar · Circuito
-2026-10-04T18:22:00.000Z elrond aceptó a Doc Brown en su futbol del dom 04/10 21:30
-2026-10-04T18:22:00.000Z hermione.granger aceptó a Jon Snow en su futbol del sáb 10/10 11:30
-2026-10-04T18:22:00.000Z doc.brown aceptó a Bellatrix Lestrange en su futbol del mar 06/10 19:00
-2026-10-04T18:26:00.000Z jon.snow pidió unirse al futbol de Elrond del dom 04/10 21:30 en Fútbol 5 Nordelta
-2026-10-04T18:27:20.000Z pippin.tuk pidió unirse al futbol de Hermione Granger del sáb 10/10 11:30 en Polideportivo Del Viso
-2026-10-04T18:28:00.000Z milhouse.van.houten organizó un basquet BEGINNER para el lun 05/10 19:00 en Polideportivo Del Viso
-2026-10-04T21:25:00.000Z elrond aceptó a Jon Snow en su futbol del dom 04/10 21:30
-2026-10-04T21:25:00.000Z faramir aceptó a Qui-Gon Jinn en su running del sáb 10/10 10:00
-2026-10-04T21:25:00.000Z hermione.granger aceptó a Pippin Tuk en su futbol del sáb 10/10 11:30
-2026-10-04T21:27:00.000Z mace.windu organizó un padel INTERMEDIATE para el mié 07/10 22:00 en Tigre Pádel Club
-2026-10-04T21:27:40.000Z dobby pidió unirse al padel de Sam Gamyi del sáb 10/10 10:00 en Club Belgrano · Gimnasio
-2026-10-04T21:28:20.000Z quigon.jinn pidió unirse al padel de Mace Windu del mié 07/10 22:00 en Tigre Pádel Club
-2026-10-04T21:29:00.000Z fred.weasley pidió unirse al futbol de Hermione Granger del sáb 10/10 11:30 en Polideportivo Del Viso
-2026-10-04T21:29:40.000Z bellatrix.lestrange pidió unirse al padel de Mace Windu del mié 07/10 22:00 en Tigre Pádel Club
-2026-10-04T21:30:20.000Z ron.weasley pidió unirse al basquet de Milhouse Van Houten del lun 05/10 19:00 en Polideportivo Del Viso
-2026-10-04T21:31:00.000Z galadriel pidió unirse al basquet de Milhouse Van Houten del lun 05/10 19:00 en Polideportivo Del Viso
-2026-10-04T21:32:20.000Z gimli pidió unirse al futbol de Doc Brown del mar 06/10 19:00 en Polideportivo Del Viso
-2026-10-05T00:39:00.000Z elrond calificó el futbol del dom 04/10 21:30
-2026-10-05T00:39:00.000Z elrond pidió unirse al futbol de Doc Brown del mar 06/10 19:00 en Polideportivo Del Viso
-2026-10-05T00:39:00.000Z bellatrix.lestrange calificó el futbol del dom 04/10 21:30
-2026-10-05T00:39:00.000Z mace.windu aceptó a Qui-Gon Jinn en su padel del mié 07/10 22:00
-2026-10-05T00:39:00.000Z mace.windu aceptó a Bellatrix Lestrange en su padel del mié 07/10 22:00
-2026-10-05T00:39:00.000Z milhouse.van.houten aceptó a Ron Weasley en su basquet del lun 05/10 19:00
-2026-10-05T00:39:00.000Z milhouse.van.houten aceptó a Galadriel en su basquet del lun 05/10 19:00
-2026-10-05T00:39:00.000Z jon.snow calificó el futbol del dom 04/10 21:30
-2026-10-05T00:39:00.000Z hermione.granger aceptó a Fred Weasley en su futbol del sáb 10/10 11:30
-2026-10-05T00:39:00.000Z sam.gamyi aceptó a Dobby en su padel del sáb 10/10 10:00
-2026-10-05T00:39:00.000Z doc.brown calificó el futbol del dom 04/10 21:30
-2026-10-05T00:39:00.000Z doc.brown aceptó a Gimli en su futbol del mar 06/10 19:00
-2026-10-05T00:39:00.000Z doc.brown aceptó a Elrond en su futbol del mar 06/10 19:00
-2026-10-05T00:39:00.000Z doc.brown aceptó a Sam Gamyi en su futbol del mar 06/10 19:00
-2026-10-05T00:43:00.000Z sam.gamyi pidió unirse al futbol de Doc Brown del mar 06/10 19:00 en Polideportivo Del Viso
-2026-10-05T03:51:20.000Z steve.rogers pidió unirse al futbol de Doc Brown del mar 06/10 19:00 en Polideportivo Del Viso
-2026-10-05T03:52:00.000Z theoden pidió unirse al futbol de Doc Brown del mar 06/10 19:00 en Polideportivo Del Viso
-2026-10-05T03:52:40.000Z rubeus.hagrid pidió unirse al futbol de Doc Brown del mar 06/10 19:00 en Polideportivo Del Viso
-2026-10-05T06:38:00.000Z doc.brown aceptó a Steve Rogers en su futbol del mar 06/10 19:00
-2026-10-05T06:38:00.000Z doc.brown aceptó a Théoden en su futbol del mar 06/10 19:00
-2026-10-05T06:38:00.000Z doc.brown rechazó a Rubeus Hagrid en su futbol del mar 06/10 19:00 (ya estaba lleno)
-2026-10-05T06:40:00.000Z dobby pidió unirse al padel de Mace Windu del mié 07/10 22:00 en Tigre Pádel Club
-2026-10-05T06:42:40.000Z yoda pidió unirse al padel de Mace Windu del mié 07/10 22:00 en Tigre Pádel Club
-2026-10-05T06:44:00.000Z theoden pidió unirse al futbol de Hermione Granger del sáb 10/10 11:30 en Polideportivo Del Viso
-2026-10-05T09:50:00.000Z mace.windu aceptó a Dobby en su padel del mié 07/10 22:00
-2026-10-05T09:50:00.000Z mace.windu rechazó a Yoda en su padel del mié 07/10 22:00 (ya estaba lleno)
-2026-10-05T09:50:00.000Z mace.windu pidió unirse al futbol de Hermione Granger del sáb 10/10 11:30 en Polideportivo Del Viso
-2026-10-05T09:50:00.000Z hermione.granger aceptó a Théoden en su futbol del sáb 10/10 11:30
-2026-10-05T09:50:00.000Z hermione.granger aceptó a Mace Windu en su futbol del sáb 10/10 11:30
-2026-10-05T09:50:40.000Z hermione.granger organizó un tenis INTERMEDIATE para el dom 11/10 09:00 en Club Pilar · Cancha 2
-2026-10-05T09:54:40.000Z sam.gamyi organizó un padel BEGINNER para el vie 09/10 21:00 en Club Belgrano · Gimnasio
-2026-10-05T09:56:00.000Z bellatrix.lestrange pidió unirse al padel de Sam Gamyi del vie 09/10 21:00 en Club Belgrano · Gimnasio
-2026-10-05T12:22:00.000Z sam.gamyi aceptó a Bellatrix Lestrange en su padel del vie 09/10 21:00
-2026-10-05T12:28:00.000Z fred.weasley pidió unirse al running de Faramir del sáb 10/10 10:00 en Parque Pilar · Circuito
-2026-10-05T15:21:00.000Z faramir aceptó a Fred Weasley en su running del sáb 10/10 10:00
-2026-10-05T15:21:00.000Z faramir organizó un padel INTERMEDIATE para el sáb 10/10 10:30 en Club Pilar · Cancha 2
-2026-10-05T15:21:00.000Z faramir pidió unirse al running de Éowyn del vie 09/10 20:00 en Campus Austral · Canchas
-2026-10-05T15:21:40.000Z eowyn pidió unirse al running de Qui-Gon Jinn del mié 07/10 19:00 en Parque Pilar · Circuito
-2026-10-05T15:25:00.000Z bellatrix.lestrange pidió unirse al padel de Faramir del sáb 10/10 10:30 en Club Pilar · Cancha 2
-2026-10-05T15:26:20.000Z yoda pidió unirse al padel de Faramir del sáb 10/10 10:30 en Club Pilar · Cancha 2
-2026-10-05T15:27:40.000Z ron.weasley pidió unirse al tenis de Hermione Granger del dom 11/10 09:00 en Club Pilar · Cancha 2
-2026-10-05T18:33:00.000Z eowyn aceptó a Faramir en su running del vie 09/10 20:00
-2026-10-05T18:33:00.000Z eowyn pidió unirse al padel de Faramir del sáb 10/10 10:30 en Club Pilar · Cancha 2
-2026-10-05T18:33:00.000Z quigon.jinn aceptó a Éowyn en su running del mié 07/10 19:00
-2026-10-05T18:33:00.000Z faramir aceptó a Bellatrix Lestrange en su padel del sáb 10/10 10:30
-2026-10-05T18:33:00.000Z faramir aceptó a Yoda en su padel del sáb 10/10 10:30
-2026-10-05T18:33:00.000Z faramir aceptó a Éowyn en su padel del sáb 10/10 10:30
-2026-10-05T18:33:00.000Z hermione.granger aceptó a Ron Weasley en su tenis del dom 11/10 09:00
-2026-10-05T18:34:20.000Z faramir pidió unirse al running de Qui-Gon Jinn del mié 07/10 19:00 en Parque Pilar · Circuito
-2026-10-05T21:44:00.000Z dobby se bajó a último momento del padel del lun 05/10 20:00
-2026-10-05T21:44:00.000Z quigon.jinn aceptó a Faramir en su running del mié 07/10 19:00
-2026-10-05T21:44:40.000Z pippin.tuk organizó un futbol INTERMEDIATE para el jue 08/10 20:00 en Campus Austral · Canchas
-2026-10-05T21:45:20.000Z yoda pidió unirse al padel de Sam Gamyi del vie 09/10 21:00 en Club Belgrano · Gimnasio
-2026-10-05T21:46:00.000Z doc.brown pidió unirse al futbol de Pippin Tuk del jue 08/10 20:00 en Campus Austral · Canchas
-2026-10-05T21:47:20.000Z mace.windu pidió unirse al padel de Sam Gamyi del vie 09/10 21:00 en Club Belgrano · Gimnasio
-2026-10-05T21:48:00.000Z fred.weasley pidió unirse al running de Qui-Gon Jinn del mié 07/10 19:00 en Parque Pilar · Circuito
-2026-10-05T21:49:20.000Z steve.rogers pidió unirse al futbol de Hermione Granger del sáb 10/10 11:30 en Polideportivo Del Viso
-2026-10-05T21:50:00.000Z elrond organizó un futbol INTERMEDIATE para el dom 11/10 11:00 en Fútbol 5 Nordelta
-2026-10-05T21:50:00.000Z elrond pidió unirse al futbol de Pippin Tuk del jue 08/10 20:00 en Campus Austral · Canchas
-2026-10-06T00:42:00.000Z yoda calificó el padel del lun 05/10 20:00
-2026-10-06T00:42:00.000Z ron.weasley calificó el basquet del lun 05/10 19:00 (reportó que faltó Galadriel)
-2026-10-06T00:42:00.000Z quigon.jinn aceptó a Fred Weasley en su running del mié 07/10 19:00
-2026-10-06T00:42:00.000Z pippin.tuk aceptó a Doc Brown en su futbol del jue 08/10 20:00
-2026-10-06T00:42:00.000Z pippin.tuk aceptó a Elrond en su futbol del jue 08/10 20:00
-2026-10-06T00:42:00.000Z bellatrix.lestrange calificó el padel del lun 05/10 20:00
-2026-10-06T00:42:00.000Z milhouse.van.houten calificó el basquet del lun 05/10 19:00 (reportó que faltó Galadriel)
-2026-10-06T00:42:00.000Z hermione.granger aceptó a Steve Rogers en su futbol del sáb 10/10 11:30
-2026-10-06T00:42:00.000Z sam.gamyi calificó el padel del lun 05/10 20:00
-2026-10-06T00:42:00.000Z sam.gamyi aceptó a Yoda en su padel del vie 09/10 21:00
-2026-10-06T00:42:00.000Z sam.gamyi aceptó a Mace Windu en su padel del vie 09/10 21:00
-2026-10-06T00:44:00.000Z pippin.tuk pidió unirse al futbol de Elrond del dom 11/10 11:00 en Fútbol 5 Nordelta
-2026-10-06T00:44:40.000Z bellatrix.lestrange pidió unirse al futbol de Pippin Tuk del jue 08/10 20:00 en Campus Austral · Canchas
-2026-10-06T00:46:40.000Z sam.gamyi pidió unirse al futbol de Elrond del dom 11/10 11:00 en Fútbol 5 Nordelta
-2026-10-06T00:48:40.000Z will.turner pidió unirse al futbol de Pippin Tuk del jue 08/10 20:00 en Campus Austral · Canchas
-2026-10-06T00:49:20.000Z jaime.lannister pidió unirse al running de Fred Weasley del mar 06/10 19:00 en Parque Pilar · Circuito
-2026-10-06T03:22:00.000Z fred.weasley rechazó a Jaime Lannister en su running del mar 06/10 19:00
-2026-10-06T03:22:00.000Z pippin.tuk aceptó a Bellatrix Lestrange en su futbol del jue 08/10 20:00
-2026-10-06T03:22:00.000Z pippin.tuk aceptó a Will Turner en su futbol del jue 08/10 20:00
-2026-10-06T03:22:00.000Z elrond aceptó a Pippin Tuk en su futbol del dom 11/10 11:00
-2026-10-06T03:22:00.000Z elrond aceptó a Sam Gamyi en su futbol del dom 11/10 11:00
-2026-10-06T03:24:00.000Z bellatrix.lestrange pidió unirse al futbol de Elrond del dom 11/10 11:00 en Fútbol 5 Nordelta
-2026-10-06T03:26:40.000Z theoden pidió unirse al futbol de Pippin Tuk del jue 08/10 20:00 en Campus Austral · Canchas
-2026-10-06T03:28:40.000Z jaime.lannister pidió unirse al tenis de Hermione Granger del dom 11/10 09:00 en Club Pilar · Cancha 2
-2026-10-06T06:13:00.000Z pippin.tuk aceptó a Théoden en su futbol del jue 08/10 20:00
-2026-10-06T06:13:00.000Z elrond aceptó a Bellatrix Lestrange en su futbol del dom 11/10 11:00
-2026-10-06T06:13:00.000Z hermione.granger aceptó a Jaime Lannister en su tenis del dom 11/10 09:00
-2026-10-06T06:13:00.000Z hermione.granger aceptó a Elrond en su tenis del dom 11/10 09:00
-2026-10-06T06:13:40.000Z elrond pidió unirse al tenis de Hermione Granger del dom 11/10 09:00 en Club Pilar · Cancha 2
-2026-10-06T06:16:20.000Z obiwan.kenobi pidió unirse al futbol de Elrond del dom 11/10 11:00 en Fútbol 5 Nordelta
-2026-10-06T06:17:40.000Z theoden pidió unirse al futbol de Elrond del dom 11/10 11:00 en Fútbol 5 Nordelta
-2026-10-06T06:19:40.000Z davy.jones pidió unirse al running de Éowyn del vie 09/10 20:00 en Campus Austral · Canchas
-2026-10-06T06:20:20.000Z jon.snow pidió unirse al futbol de Pippin Tuk del jue 08/10 20:00 en Campus Austral · Canchas
-2026-10-06T09:20:00.000Z eowyn aceptó a Davy Jones en su running del vie 09/10 20:00
-2026-10-06T09:20:00.000Z pippin.tuk aceptó a Jon Snow en su futbol del jue 08/10 20:00
-2026-10-06T09:20:00.000Z elrond aceptó a Obi-Wan Kenobi en su futbol del dom 11/10 11:00
-2026-10-06T09:20:00.000Z elrond aceptó a Théoden en su futbol del dom 11/10 11:00
-2026-10-06T09:22:00.000Z gimli pidió unirse al futbol de Pippin Tuk del jue 08/10 20:00 en Campus Austral · Canchas
-2026-10-06T09:23:20.000Z doc.brown pidió unirse al futbol de Elrond del dom 11/10 11:00 en Fútbol 5 Nordelta
-2026-10-06T09:26:00.000Z davy.jones pidió unirse al running de Fred Weasley del mar 06/10 19:00 en Parque Pilar · Circuito
-2026-10-06T12:14:00.000Z fred.weasley aceptó a Davy Jones en su running del mar 06/10 19:00
-2026-10-06T12:14:00.000Z fred.weasley pidió unirse al futbol de Pippin Tuk del jue 08/10 20:00 en Campus Austral · Canchas
-2026-10-06T12:14:00.000Z pippin.tuk rechazó a Gimli en su futbol del jue 08/10 20:00
-2026-10-06T12:14:00.000Z pippin.tuk aceptó a Fred Weasley en su futbol del jue 08/10 20:00
-2026-10-06T12:14:00.000Z elrond aceptó a Doc Brown en su futbol del dom 11/10 11:00
-2026-10-06T12:16:40.000Z obiwan.kenobi pidió unirse al futbol de Pippin Tuk del jue 08/10 20:00 en Campus Austral · Canchas
-2026-10-06T12:17:20.000Z davy.jones pidió unirse al running de Qui-Gon Jinn del mié 07/10 19:00 en Parque Pilar · Circuito
-2026-10-06T15:25:00.000Z quigon.jinn aceptó a Davy Jones en su running del mié 07/10 19:00
-2026-10-06T15:25:00.000Z pippin.tuk aceptó a Obi-Wan Kenobi en su futbol del jue 08/10 20:00
-2026-10-06T15:27:40.000Z steve.rogers pidió unirse al futbol de Pippin Tuk del jue 08/10 20:00 en Campus Austral · Canchas
-2026-10-06T15:29:00.000Z boromir pidió unirse al basquet de Galadriel del mar 06/10 19:00 en Club Belgrano · Gimnasio
-2026-10-06T18:10:00.000Z galadriel aceptó a Boromir en su basquet del mar 06/10 19:00
-2026-10-06T18:10:00.000Z pippin.tuk aceptó a Steve Rogers en su futbol del jue 08/10 20:00
-2026-10-06T18:12:00.000Z gimli pidió unirse al futbol de Elrond del dom 11/10 11:00 en Fútbol 5 Nordelta
-2026-10-06T18:12:40.000Z fred.weasley pidió unirse al futbol de Elrond del dom 11/10 11:00 en Fútbol 5 Nordelta
-2026-10-06T18:15:20.000Z obiwan.kenobi pidió unirse al running de Fred Weasley del mar 06/10 19:00 en Parque Pilar · Circuito
-2026-10-06T21:36:00.000Z eowyn se bajó a último momento del running del mar 06/10 19:00
-2026-10-06T21:36:00.000Z jon.snow se bajó a último momento del futbol del mar 06/10 19:00
-2026-10-06T21:36:00.000Z bellatrix.lestrange se bajó a último momento del futbol del mar 06/10 19:00
-2026-10-06T21:36:00.000Z fred.weasley aceptó a Obi-Wan Kenobi en su running del mar 06/10 19:00
-2026-10-06T21:36:00.000Z elrond aceptó a Gimli en su futbol del dom 11/10 11:00
-2026-10-06T21:36:00.000Z elrond aceptó a Fred Weasley en su futbol del dom 11/10 11:00
-2026-10-06T21:40:00.000Z mace.windu pidió unirse al futbol de Elrond del dom 11/10 11:00 en Fútbol 5 Nordelta
-2026-10-06T21:41:20.000Z padme.amidala pidió unirse al futbol de Elrond del dom 11/10 11:00 en Fútbol 5 Nordelta
-2026-10-07T00:12:00.000Z gimli calificó el futbol del mar 06/10 19:00 (reportó que faltó Théoden)
-2026-10-07T00:12:00.000Z eowyn calificó el basquet del mar 06/10 19:00
-2026-10-07T00:12:00.000Z ron.weasley calificó el basquet del mar 06/10 19:00
-2026-10-07T00:12:00.000Z quigon.jinn calificó el running del mar 06/10 19:00
-2026-10-07T00:12:00.000Z pippin.tuk calificó el futbol del mar 06/10 19:00 (reportó que faltó Théoden)
-2026-10-07T00:12:00.000Z elrond calificó el futbol del mar 06/10 19:00 (reportó que faltó Théoden)
-2026-10-07T00:12:00.000Z elrond aceptó a Mace Windu en su futbol del dom 11/10 11:00
-2026-10-07T00:12:00.000Z elrond rechazó a Padmé Amidala en su futbol del dom 11/10 11:00 (ya estaba lleno)
-2026-10-07T00:12:00.000Z faramir calificó el running del mar 06/10 19:00
-2026-10-07T00:12:00.000Z steve.rogers calificó el futbol del mar 06/10 19:00 (reportó que faltó Théoden)
-2026-10-07T00:12:00.000Z hermione.granger calificó el futbol del mar 06/10 19:00 (reportó que faltó Théoden)
-2026-10-07T00:12:00.000Z sam.gamyi calificó el futbol del mar 06/10 19:00 (reportó que faltó Théoden)
-2026-10-07T00:12:00.000Z doc.brown calificó el futbol del mar 06/10 19:00 (reportó que faltó Théoden)
-2026-10-07T00:12:00.000Z obiwan.kenobi calificó el running del mar 06/10 19:00
-2026-10-07T00:12:00.000Z boromir calificó el basquet del mar 06/10 19:00
-2026-10-07T03:12:00.000Z pippin.tuk calificó el futbol del mar 06/10 22:00
-2026-10-07T03:12:00.000Z rubeus.hagrid calificó el futbol del mar 06/10 22:00
-2026-10-07T03:12:00.000Z elrond calificó el futbol del mar 06/10 22:00
-2026-10-07T03:12:00.000Z bellatrix.lestrange calificó el futbol del mar 06/10 22:00
-2026-10-07T03:12:00.000Z mace.windu calificó el futbol del mar 06/10 22:00
-2026-10-07T03:12:00.000Z jon.snow calificó el futbol del mar 06/10 22:00
-2026-10-07T03:12:00.000Z hermione.granger calificó el futbol del mar 06/10 22:00
-2026-10-07T03:16:40.000Z lois.lane organizó un futbol INTERMEDIATE para el lun 12/10 20:00 en Campus Austral · Canchas
-2026-10-07T03:18:00.000Z sirius.black pidió unirse al futbol de Lois Lane del lun 12/10 20:00 en Campus Austral · Canchas
-2026-10-07T06:45:00.000Z lois.lane aceptó a Sirius Black en su futbol del lun 12/10 20:00
-2026-10-07T06:49:40.000Z bellatrix.lestrange pidió unirse al futbol de Lois Lane del lun 12/10 20:00 en Campus Austral · Canchas
-2026-10-07T09:40:00.000Z lois.lane aceptó a Bellatrix Lestrange en su futbol del lun 12/10 20:00
-2026-10-07T09:40:40.000Z pippin.tuk pidió unirse al futbol de Lois Lane del lun 12/10 20:00 en Campus Austral · Canchas
-2026-10-07T09:42:00.000Z gimli organizó un futbol INTERMEDIATE para el jue 08/10 22:30 en River Courts · Cancha 2
-2026-10-07T09:43:20.000Z barry.allen pidió unirse al futbol de Lois Lane del lun 12/10 20:00 en Campus Austral · Canchas
-2026-10-07T12:35:00.000Z lois.lane aceptó a Pippin Tuk en su futbol del lun 12/10 20:00
-2026-10-07T12:35:00.000Z lois.lane rechazó a Barry Allen en su futbol del lun 12/10 20:00
-2026-10-07T12:35:40.000Z chewbacca pidió unirse al futbol de Lois Lane del lun 12/10 20:00 en Campus Austral · Canchas
-2026-10-07T12:37:00.000Z will.turner pidió unirse al futbol de Lois Lane del lun 12/10 20:00 en Campus Austral · Canchas
-2026-10-07T12:37:40.000Z doc.brown pidió unirse al futbol de Lois Lane del lun 12/10 20:00 en Campus Austral · Canchas
-2026-10-07T12:39:40.000Z jaime.lannister pidió unirse al running de Éowyn del vie 09/10 20:00 en Campus Austral · Canchas
-2026-10-07T15:18:00.000Z eowyn aceptó a Jaime Lannister en su running del vie 09/10 20:00
-2026-10-07T15:18:00.000Z lois.lane aceptó a Chewbacca en su futbol del lun 12/10 20:00
-2026-10-07T15:18:00.000Z lois.lane aceptó a Will Turner en su futbol del lun 12/10 20:00
-2026-10-07T15:18:00.000Z lois.lane aceptó a Doc Brown en su futbol del lun 12/10 20:00
-2026-10-07T15:20:40.000Z fred.weasley pidió unirse al futbol de Lois Lane del lun 12/10 20:00 en Campus Austral · Canchas
-2026-10-07T15:23:20.000Z bellatrix.lestrange pidió unirse al futbol de Gimli del jue 08/10 22:30 en River Courts · Cancha 2
-2026-10-07T15:24:00.000Z mace.windu pidió unirse al futbol de Lois Lane del lun 12/10 20:00 en Campus Austral · Canchas
-2026-10-07T15:24:40.000Z sirius.black pidió unirse al futbol de Gimli del jue 08/10 22:30 en River Courts · Cancha 2
-2026-10-07T18:16:00.000Z gimli rechazó a Bellatrix Lestrange en su futbol del jue 08/10 22:30
-2026-10-07T18:16:00.000Z gimli aceptó a Sirius Black en su futbol del jue 08/10 22:30
-2026-10-07T18:16:00.000Z gimli pidió unirse al futbol de Lois Lane del lun 12/10 20:00 en Campus Austral · Canchas
-2026-10-07T18:16:00.000Z lois.lane aceptó a Fred Weasley en su futbol del lun 12/10 20:00
-2026-10-07T18:16:00.000Z lois.lane aceptó a Mace Windu en su futbol del lun 12/10 20:00
-2026-10-07T18:16:00.000Z lois.lane rechazó a Gimli en su futbol del lun 12/10 20:00
-2026-10-07T18:20:00.000Z mace.windu pidió unirse al futbol de Gimli del jue 08/10 22:30 en River Courts · Cancha 2
-2026-10-07T18:23:20.000Z chewbacca pidió unirse al futbol de Gimli del jue 08/10 22:30 en River Courts · Cancha 2
-2026-10-07T21:50:00.000Z eowyn se bajó a último momento del running del mié 07/10 19:00
-2026-10-07T21:50:00.000Z gimli aceptó a Mace Windu en su futbol del jue 08/10 22:30
-2026-10-07T21:50:00.000Z gimli aceptó a Chewbacca en su futbol del jue 08/10 22:30
-2026-10-07T21:52:40.000Z padme.amidala pidió unirse al futbol de Lois Lane del lun 12/10 20:00 en Campus Austral · Canchas
-2026-10-08T00:37:00.000Z fred.weasley se bajó a último momento del futbol del mié 07/10 22:00
-2026-10-08T00:37:00.000Z dobby se bajó a último momento del padel del mié 07/10 22:00
-2026-10-08T00:37:00.000Z quigon.jinn calificó el running del mié 07/10 19:00 (reportó que faltó Fred Weasley)
-2026-10-08T00:37:00.000Z faramir calificó el running del mié 07/10 19:00 (reportó que faltó Fred Weasley)
-2026-10-08T00:37:00.000Z lois.lane aceptó a Padmé Amidala en su futbol del lun 12/10 20:00
-2026-10-08T00:40:20.000Z padme.amidala pidió unirse al futbol de Gimli del jue 08/10 22:30 en River Courts · Cancha 2
-2026-10-08T03:49:00.000Z gimli aceptó a Padmé Amidala en su futbol del jue 08/10 22:30
-2026-10-08T03:49:00.000Z gimli canceló su futbol del jue 08/10 22:30 (iba 5/11)
-2026-10-08T03:49:00.000Z pippin.tuk calificó el futbol del mié 07/10 22:00 (reportó que faltó Gimli, Rubeus Hagrid)
-2026-10-08T03:49:00.000Z elrond calificó el futbol del mié 07/10 22:00 (reportó que faltó Gimli, Rubeus Hagrid)
-2026-10-08T03:49:00.000Z bellatrix.lestrange calificó el futbol del mié 07/10 22:00 (reportó que faltó Gimli, Rubeus Hagrid)
-2026-10-08T03:49:00.000Z mace.windu calificó el futbol del mié 07/10 22:00 (reportó que faltó Gimli, Rubeus Hagrid)
-2026-10-08T03:49:00.000Z mace.windu calificó el padel del mié 07/10 22:00
-2026-10-08T03:49:00.000Z jon.snow calificó el futbol del mié 07/10 22:00 (reportó que faltó Gimli, Rubeus Hagrid)
-2026-10-08T21:20:00.000Z gimli se bajó a último momento del futbol del jue 08/10 20:00
+# backfill desde 2026-09-30 (semilla 2026), aplicado 2026-10-10T22:25:51.333Z
+2026-09-30T18:19:40.000Z gimli organizó un futbol INTERMEDIATE para el mar 06/10 20:00 en River Courts · Cancha 2
+2026-09-30T18:20:20.000Z bellatrix.lestrange pidió unirse al futbol de Gimli del mar 06/10 20:00 en River Courts · Cancha 2
+2026-09-30T18:21:00.000Z fred.weasley pidió unirse al futbol de Gimli del mar 06/10 20:00 en River Courts · Cancha 2
+2026-09-30T21:31:00.000Z gimli aceptó a Bellatrix Lestrange en su futbol del mar 06/10 20:00
+2026-09-30T21:31:00.000Z gimli aceptó a Fred Weasley en su futbol del mar 06/10 20:00
+2026-10-01T03:45:00.000Z rubeus.hagrid pidió unirse al futbol de Gimli del mar 06/10 20:00 en River Courts · Cancha 2
+2026-10-01T03:45:40.000Z elrond pidió unirse al futbol de Gimli del mar 06/10 20:00 en River Courts · Cancha 2
+2026-10-01T03:46:20.000Z mace.windu pidió unirse al futbol de Gimli del mar 06/10 20:00 en River Courts · Cancha 2
+2026-10-01T03:49:40.000Z pippin.tuk pidió unirse al futbol de Gimli del mar 06/10 20:00 en River Courts · Cancha 2
+2026-10-01T06:49:00.000Z gimli aceptó a Rubeus Hagrid en su futbol del mar 06/10 20:00
+2026-10-01T06:49:00.000Z gimli aceptó a Elrond en su futbol del mar 06/10 20:00
+2026-10-01T06:49:00.000Z gimli aceptó a Mace Windu en su futbol del mar 06/10 20:00
+2026-10-01T06:49:00.000Z gimli aceptó a Pippin Tuk en su futbol del mar 06/10 20:00
+2026-10-01T06:50:20.000Z elrond organizó un tenis ADVANCED para el mié 07/10 22:00 en Tigre Pádel Club
+2026-10-01T09:18:20.000Z mace.windu organizó un padel INTERMEDIATE para el dom 04/10 21:00 en Tigre Pádel Club
+2026-10-01T12:21:00.000Z yoda pidió unirse al padel de Mace Windu del dom 04/10 21:00 en Tigre Pádel Club
+2026-10-01T12:21:40.000Z bellatrix.lestrange organizó un padel ADVANCED para el mar 06/10 20:00 en Club Belgrano · Gimnasio
+2026-10-01T12:21:40.000Z bellatrix.lestrange pidió unirse al padel de Mace Windu del dom 04/10 21:00 en Tigre Pádel Club
+2026-10-01T12:22:20.000Z quigon.jinn pidió unirse al padel de Mace Windu del dom 04/10 21:00 en Tigre Pádel Club
+2026-10-01T12:25:00.000Z steve.rogers organizó un futbol INTERMEDIATE para el sáb 03/10 10:30 en Club Pilar · Cancha 2
+2026-10-01T15:20:00.000Z mace.windu aceptó a Yoda en su padel del dom 04/10 21:00
+2026-10-01T15:20:00.000Z mace.windu aceptó a Bellatrix Lestrange en su padel del dom 04/10 21:00
+2026-10-01T15:20:00.000Z mace.windu aceptó a Qui-Gon Jinn en su padel del dom 04/10 21:00
+2026-10-01T15:21:20.000Z dobby pidió unirse al padel de Bellatrix Lestrange del mar 06/10 20:00 en Club Belgrano · Gimnasio
+2026-10-01T15:23:20.000Z bellatrix.lestrange pidió unirse al futbol de Steve Rogers del sáb 03/10 10:30 en Club Pilar · Cancha 2
+2026-10-01T15:24:40.000Z ron.weasley pidió unirse al tenis de Elrond del mié 07/10 22:00 en Tigre Pádel Club
+2026-10-01T18:24:00.000Z elrond aceptó a Ron Weasley en su tenis del mié 07/10 22:00
+2026-10-01T18:24:00.000Z bellatrix.lestrange aceptó a Dobby en su padel del mar 06/10 20:00
+2026-10-01T18:24:00.000Z steve.rogers aceptó a Bellatrix Lestrange en su futbol del sáb 03/10 10:30
+2026-10-01T18:28:00.000Z quigon.jinn pidió unirse al padel de Bellatrix Lestrange del mar 06/10 20:00 en Club Belgrano · Gimnasio
+2026-10-01T21:31:00.000Z bellatrix.lestrange aceptó a Qui-Gon Jinn en su padel del mar 06/10 20:00
+2026-10-01T21:32:20.000Z steve.rogers pidió unirse al futbol de Gimli del mar 06/10 20:00 en River Courts · Cancha 2
+2026-10-01T21:33:00.000Z rubeus.hagrid pidió unirse al futbol de Steve Rogers del sáb 03/10 10:30 en Club Pilar · Cancha 2
+2026-10-01T21:33:40.000Z jon.snow pidió unirse al futbol de Steve Rogers del sáb 03/10 10:30 en Club Pilar · Cancha 2
+2026-10-02T00:39:00.000Z gimli aceptó a Steve Rogers en su futbol del mar 06/10 20:00
+2026-10-02T00:39:00.000Z steve.rogers aceptó a Rubeus Hagrid en su futbol del sáb 03/10 10:30
+2026-10-02T00:39:00.000Z steve.rogers aceptó a Jon Snow en su futbol del sáb 03/10 10:30
+2026-10-02T00:41:40.000Z pippin.tuk pidió unirse al futbol de Steve Rogers del sáb 03/10 10:30 en Club Pilar · Cancha 2
+2026-10-02T00:43:00.000Z galadriel organizó un basquet INTERMEDIATE para el lun 05/10 20:00 en Club Belgrano · Gimnasio
+2026-10-02T00:43:40.000Z ron.weasley pidió unirse al basquet de Galadriel del lun 05/10 20:00 en Club Belgrano · Gimnasio
+2026-10-02T03:36:00.000Z galadriel aceptó a Ron Weasley en su basquet del lun 05/10 20:00
+2026-10-02T03:36:00.000Z steve.rogers aceptó a Pippin Tuk en su futbol del sáb 03/10 10:30
+2026-10-02T03:39:20.000Z eowyn organizó un padel INTERMEDIATE para el dom 04/10 22:00 en Pádel Point Pilar
+2026-10-02T03:39:20.000Z eowyn pidió unirse al padel de Bellatrix Lestrange del mar 06/10 20:00 en Club Belgrano · Gimnasio
+2026-10-02T03:40:00.000Z elrond pidió unirse al futbol de Steve Rogers del sáb 03/10 10:30 en Club Pilar · Cancha 2
+2026-10-02T03:40:40.000Z quigon.jinn pidió unirse al padel de Éowyn del dom 04/10 22:00 en Pádel Point Pilar
+2026-10-02T06:26:00.000Z eowyn aceptó a Qui-Gon Jinn en su padel del dom 04/10 22:00
+2026-10-02T06:26:00.000Z bellatrix.lestrange aceptó a Éowyn en su padel del mar 06/10 20:00
+2026-10-02T06:26:00.000Z steve.rogers aceptó a Elrond en su futbol del sáb 03/10 10:30
+2026-10-02T06:26:40.000Z bellatrix.lestrange pidió unirse al padel de Éowyn del dom 04/10 22:00 en Pádel Point Pilar
+2026-10-02T06:30:00.000Z mace.windu organizó un futbol INTERMEDIATE para el lun 05/10 19:30 en Fútbol 5 Nordelta
+2026-10-02T06:30:40.000Z dobby pidió unirse al padel de Éowyn del dom 04/10 22:00 en Pádel Point Pilar
+2026-10-02T09:32:00.000Z eowyn aceptó a Bellatrix Lestrange en su padel del dom 04/10 22:00
+2026-10-02T09:32:00.000Z eowyn aceptó a Dobby en su padel del dom 04/10 22:00
+2026-10-02T09:32:00.000Z eowyn pidió unirse al basquet de Galadriel del lun 05/10 20:00 en Club Belgrano · Gimnasio
+2026-10-02T09:32:40.000Z mace.windu pidió unirse al futbol de Steve Rogers del sáb 03/10 10:30 en Club Pilar · Cancha 2
+2026-10-02T09:36:00.000Z bellatrix.lestrange pidió unirse al futbol de Mace Windu del lun 05/10 19:30 en Fútbol 5 Nordelta
+2026-10-02T09:37:20.000Z fred.weasley organizó un futbol ADVANCED para el mié 07/10 20:00 en Campus Austral · Canchas
+2026-10-02T09:38:00.000Z steve.rogers organizó un futbol INTERMEDIATE para el mar 06/10 20:30 en Polideportivo Del Viso
+2026-10-02T12:24:00.000Z galadriel aceptó a Éowyn en su basquet del lun 05/10 20:00
+2026-10-02T12:24:00.000Z mace.windu aceptó a Bellatrix Lestrange en su futbol del lun 05/10 19:30
+2026-10-02T12:24:00.000Z steve.rogers aceptó a Mace Windu en su futbol del sáb 03/10 10:30
+2026-10-02T12:28:40.000Z faramir organizó un padel BEGINNER para el dom 04/10 09:00 en Club Pilar · Cancha 2
+2026-10-02T12:29:20.000Z quigon.jinn pidió unirse al padel de Faramir del dom 04/10 09:00 en Club Pilar · Cancha 2
+2026-10-02T15:17:00.000Z faramir aceptó a Qui-Gon Jinn en su padel del dom 04/10 09:00
+2026-10-02T15:17:40.000Z bellatrix.lestrange pidió unirse al futbol de Steve Rogers del mar 06/10 20:30 en Polideportivo Del Viso
+2026-10-02T15:21:00.000Z jon.snow pidió unirse al padel de Faramir del dom 04/10 09:00 en Club Pilar · Cancha 2
+2026-10-02T18:29:00.000Z faramir aceptó a Jon Snow en su padel del dom 04/10 09:00
+2026-10-02T18:29:00.000Z steve.rogers rechazó a Bellatrix Lestrange en su futbol del mar 06/10 20:30
+2026-10-02T18:31:00.000Z eowyn pidió unirse al padel de Faramir del dom 04/10 09:00 en Club Pilar · Cancha 2
+2026-10-02T18:31:40.000Z fred.weasley pidió unirse al futbol de Steve Rogers del sáb 03/10 10:30 en Club Pilar · Cancha 2
+2026-10-02T18:35:40.000Z gimli pidió unirse al futbol de Fred Weasley del mié 07/10 20:00 en Campus Austral · Canchas
+2026-10-02T21:14:00.000Z fred.weasley aceptó a Gimli en su futbol del mié 07/10 20:00
+2026-10-02T21:14:00.000Z faramir aceptó a Éowyn en su padel del dom 04/10 09:00
+2026-10-02T21:14:00.000Z steve.rogers aceptó a Fred Weasley en su futbol del sáb 03/10 10:30
+2026-10-02T21:15:20.000Z steve.rogers pidió unirse al futbol de Fred Weasley del mié 07/10 20:00 en Campus Austral · Canchas
+2026-10-02T21:16:00.000Z milhouse.van.houten pidió unirse al basquet de Galadriel del lun 05/10 20:00 en Club Belgrano · Gimnasio
+2026-10-02T21:18:00.000Z sam.gamyi organizó un padel INTERMEDIATE para el sáb 03/10 09:00 en Club Belgrano · Gimnasio
+2026-10-02T21:18:00.000Z sam.gamyi pidió unirse al futbol de Gimli del mar 06/10 20:00 en River Courts · Cancha 2
+2026-10-02T21:18:40.000Z bellatrix.lestrange pidió unirse al padel de Sam Gamyi del sáb 03/10 09:00 en Club Belgrano · Gimnasio
+2026-10-02T21:20:40.000Z eowyn pidió unirse al padel de Sam Gamyi del sáb 03/10 09:00 en Club Belgrano · Gimnasio
+2026-10-02T21:21:20.000Z hermione.granger organizó un tenis BEGINNER para el dom 04/10 10:00 en Club Pilar · Cancha 2
+2026-10-03T00:43:00.000Z fred.weasley aceptó a Steve Rogers en su futbol del mié 07/10 20:00
+2026-10-03T00:43:00.000Z fred.weasley pidió unirse al futbol de Steve Rogers del mar 06/10 20:30 en Polideportivo Del Viso
+2026-10-03T00:43:00.000Z galadriel aceptó a Milhouse Van Houten en su basquet del lun 05/10 20:00
+2026-10-03T00:43:00.000Z gimli aceptó a Sam Gamyi en su futbol del mar 06/10 20:00
+2026-10-03T00:43:00.000Z sam.gamyi aceptó a Bellatrix Lestrange en su padel del sáb 03/10 09:00
+2026-10-03T00:43:00.000Z sam.gamyi aceptó a Éowyn en su padel del sáb 03/10 09:00
+2026-10-03T00:44:20.000Z gimli pidió unirse al futbol de Steve Rogers del mar 06/10 20:30 en Polideportivo Del Viso
+2026-10-03T00:46:20.000Z ron.weasley pidió unirse al tenis de Hermione Granger del dom 04/10 10:00 en Club Pilar · Cancha 2
+2026-10-03T00:48:20.000Z elrond pidió unirse al futbol de Mace Windu del lun 05/10 19:30 en Fútbol 5 Nordelta
+2026-10-03T00:50:20.000Z rubeus.hagrid pidió unirse al futbol de Fred Weasley del mié 07/10 20:00 en Campus Austral · Canchas
+2026-10-03T03:15:00.000Z fred.weasley aceptó a Rubeus Hagrid en su futbol del mié 07/10 20:00
+2026-10-03T03:15:00.000Z fred.weasley pidió unirse al futbol de Mace Windu del lun 05/10 19:30 en Fútbol 5 Nordelta
+2026-10-03T03:15:00.000Z mace.windu aceptó a Elrond en su futbol del lun 05/10 19:30
+2026-10-03T03:15:00.000Z mace.windu aceptó a Fred Weasley en su futbol del lun 05/10 19:30
+2026-10-03T03:15:00.000Z steve.rogers aceptó a Fred Weasley en su futbol del mar 06/10 20:30
+2026-10-03T03:15:00.000Z steve.rogers aceptó a Gimli en su futbol del mar 06/10 20:30
+2026-10-03T03:15:00.000Z hermione.granger aceptó a Ron Weasley en su tenis del dom 04/10 10:00
+2026-10-03T03:17:00.000Z hermione.granger organizó un tenis INTERMEDIATE para el dom 04/10 10:00 en Campus Austral · Canchas
+2026-10-03T03:17:40.000Z bellatrix.lestrange pidió unirse al futbol de Fred Weasley del mié 07/10 20:00 en Campus Austral · Canchas
+2026-10-03T03:19:00.000Z pippin.tuk pidió unirse al futbol de Steve Rogers del mar 06/10 20:30 en Polideportivo Del Viso
+2026-10-03T03:19:40.000Z rubeus.hagrid pidió unirse al futbol de Steve Rogers del mar 06/10 20:30 en Polideportivo Del Viso
+2026-10-03T03:21:00.000Z sam.gamyi pidió unirse al futbol de Steve Rogers del sáb 03/10 10:30 en Club Pilar · Cancha 2
+2026-10-03T06:21:00.000Z fred.weasley aceptó a Bellatrix Lestrange en su futbol del mié 07/10 20:00
+2026-10-03T06:21:00.000Z steve.rogers aceptó a Sam Gamyi en su futbol del sáb 03/10 10:30
+2026-10-03T06:21:00.000Z steve.rogers aceptó a Pippin Tuk en su futbol del mar 06/10 20:30
+2026-10-03T06:21:00.000Z steve.rogers aceptó a Rubeus Hagrid en su futbol del mar 06/10 20:30
+2026-10-03T06:23:00.000Z nemo pidió unirse al futbol de Steve Rogers del mar 06/10 20:30 en Polideportivo Del Viso
+2026-10-03T06:24:20.000Z yoda pidió unirse al padel de Sam Gamyi del sáb 03/10 09:00 en Club Belgrano · Gimnasio
+2026-10-03T09:20:00.000Z steve.rogers aceptó a Nemo en su futbol del mar 06/10 20:30
+2026-10-03T09:20:00.000Z sam.gamyi aceptó a Yoda en su padel del sáb 03/10 09:00
+2026-10-03T12:27:00.000Z eowyn calificó el padel del sáb 03/10 09:00
+2026-10-03T12:27:00.000Z bellatrix.lestrange calificó el padel del sáb 03/10 09:00
+2026-10-03T12:27:00.000Z sam.gamyi calificó el padel del sáb 03/10 09:00
+2026-10-03T12:29:00.000Z gimli pidió unirse al futbol de Steve Rogers del sáb 03/10 10:30 en Club Pilar · Cancha 2
+2026-10-03T12:31:00.000Z pippin.tuk pidió unirse al futbol de Mace Windu del lun 05/10 19:30 en Fútbol 5 Nordelta
+2026-10-03T12:31:40.000Z nemo organizó un futbol INTERMEDIATE para el mié 07/10 22:30 en Club Pilar · Cancha 2
+2026-10-03T15:38:00.000Z pippin.tuk calificó el futbol del sáb 03/10 10:30
+2026-10-03T15:38:00.000Z pippin.tuk pidió unirse al futbol de Nemo del mié 07/10 22:30 en Club Pilar · Cancha 2
+2026-10-03T15:38:00.000Z rubeus.hagrid calificó el futbol del sáb 03/10 10:30
+2026-10-03T15:38:00.000Z elrond calificó el futbol del sáb 03/10 10:30
+2026-10-03T15:38:00.000Z bellatrix.lestrange calificó el futbol del sáb 03/10 10:30
+2026-10-03T15:38:00.000Z mace.windu calificó el futbol del sáb 03/10 10:30
+2026-10-03T15:38:00.000Z mace.windu aceptó a Pippin Tuk en su futbol del lun 05/10 19:30
+2026-10-03T15:38:00.000Z jon.snow calificó el futbol del sáb 03/10 10:30
+2026-10-03T15:38:40.000Z rubeus.hagrid pidió unirse al futbol de Nemo del mié 07/10 22:30 en Club Pilar · Cancha 2
+2026-10-03T15:39:20.000Z elrond organizó un futbol INTERMEDIATE para el dom 04/10 20:00 en Fútbol 5 Nordelta
+2026-10-03T15:39:20.000Z elrond pidió unirse al tenis de Hermione Granger del dom 04/10 10:00 en Campus Austral · Canchas
+2026-10-03T15:40:00.000Z bellatrix.lestrange pidió unirse al futbol de Nemo del mié 07/10 22:30 en Club Pilar · Cancha 2
+2026-10-03T15:41:20.000Z jon.snow pidió unirse al futbol de Nemo del mié 07/10 22:30 en Club Pilar · Cancha 2
+2026-10-03T15:42:00.000Z steve.rogers organizó un futbol INTERMEDIATE para el lun 05/10 21:00 en Campus Austral · Canchas
+2026-10-03T15:44:00.000Z gimli pidió unirse al futbol de Steve Rogers del lun 05/10 21:00 en Campus Austral · Canchas
+2026-10-03T15:45:20.000Z ron.weasley pidió unirse al tenis de Hermione Granger del dom 04/10 10:00 en Campus Austral · Canchas
+2026-10-03T18:36:00.000Z steve.rogers aceptó a Gimli en su futbol del lun 05/10 21:00
+2026-10-03T18:36:00.000Z steve.rogers pidió unirse al futbol de Nemo del mié 07/10 22:30 en Club Pilar · Cancha 2
+2026-10-03T18:36:00.000Z nemo aceptó a Pippin Tuk en su futbol del mié 07/10 22:30
+2026-10-03T18:36:00.000Z nemo rechazó a Rubeus Hagrid en su futbol del mié 07/10 22:30
+2026-10-03T18:36:00.000Z nemo aceptó a Bellatrix Lestrange en su futbol del mié 07/10 22:30
+2026-10-03T18:36:00.000Z nemo aceptó a Jon Snow en su futbol del mié 07/10 22:30
+2026-10-03T18:36:00.000Z nemo aceptó a Steve Rogers en su futbol del mié 07/10 22:30
+2026-10-03T18:36:00.000Z hermione.granger aceptó a Elrond en su tenis del dom 04/10 10:00
+2026-10-03T18:36:00.000Z hermione.granger aceptó a Ron Weasley en su tenis del dom 04/10 10:00
+2026-10-03T18:36:40.000Z nemo pidió unirse al futbol de Steve Rogers del lun 05/10 21:00 en Campus Austral · Canchas
+2026-10-03T18:37:20.000Z hermione.granger pidió unirse al futbol de Fred Weasley del mié 07/10 20:00 en Campus Austral · Canchas
+2026-10-03T18:40:40.000Z faramir organizó un padel INTERMEDIATE para el dom 04/10 09:00 en Pádel Point Pilar
+2026-10-03T21:33:00.000Z fred.weasley aceptó a Hermione Granger en su futbol del mié 07/10 20:00
+2026-10-03T21:33:00.000Z faramir canceló su padel del dom 04/10 09:00 (iba 1/3)
+2026-10-03T21:33:00.000Z steve.rogers aceptó a Nemo en su futbol del lun 05/10 21:00
+2026-10-03T21:37:00.000Z gimli pidió unirse al futbol de Elrond del dom 04/10 20:00 en Fútbol 5 Nordelta
+2026-10-03T21:38:20.000Z jon.snow pidió unirse al futbol de Fred Weasley del mié 07/10 20:00 en Campus Austral · Canchas
+2026-10-03T21:40:20.000Z jaime.lannister organizó un tenis INTERMEDIATE para el vie 09/10 20:30 en Campus Austral · Canchas
+2026-10-04T00:14:00.000Z fred.weasley aceptó a Jon Snow en su futbol del mié 07/10 20:00
+2026-10-04T00:14:00.000Z elrond aceptó a Gimli en su futbol del dom 04/10 20:00
+2026-10-04T00:14:40.000Z elrond pidió unirse al tenis de Jaime Lannister del vie 09/10 20:30 en Campus Austral · Canchas
+2026-10-04T00:15:20.000Z jaime.lannister pidió unirse al tenis de Hermione Granger del dom 04/10 10:00 en Campus Austral · Canchas
+2026-10-04T00:16:40.000Z sam.gamyi pidió unirse al futbol de Steve Rogers del lun 05/10 21:00 en Campus Austral · Canchas
+2026-10-04T00:19:20.000Z bellatrix.lestrange pidió unirse al futbol de Elrond del dom 04/10 20:00 en Fútbol 5 Nordelta
+2026-10-04T00:20:40.000Z mace.windu pidió unirse al futbol de Steve Rogers del lun 05/10 21:00 en Campus Austral · Canchas
+2026-10-04T03:39:00.000Z elrond aceptó a Bellatrix Lestrange en su futbol del dom 04/10 20:00
+2026-10-04T03:39:00.000Z steve.rogers aceptó a Sam Gamyi en su futbol del lun 05/10 21:00
+2026-10-04T03:39:00.000Z steve.rogers aceptó a Mace Windu en su futbol del lun 05/10 21:00
+2026-10-04T03:39:00.000Z jaime.lannister aceptó a Elrond en su tenis del vie 09/10 20:30
+2026-10-04T03:39:00.000Z hermione.granger aceptó a Jaime Lannister en su tenis del dom 04/10 10:00
+2026-10-04T03:43:40.000Z bellatrix.lestrange pidió unirse al futbol de Steve Rogers del lun 05/10 21:00 en Campus Austral · Canchas
+2026-10-04T03:45:00.000Z pippin.tuk organizó un futbol INTERMEDIATE para el sáb 10/10 19:00 en Campus Austral · Canchas
+2026-10-04T03:45:00.000Z pippin.tuk pidió unirse al futbol de Fred Weasley del mié 07/10 20:00 en Campus Austral · Canchas
+2026-10-04T03:45:40.000Z faramir organizó un running ADVANCED para el sáb 10/10 11:30 en Parque Pilar · Circuito
+2026-10-04T03:46:20.000Z montgomery.burns pidió unirse al running de Faramir del sáb 10/10 11:30 en Parque Pilar · Circuito
+2026-10-04T06:47:00.000Z fred.weasley aceptó a Pippin Tuk en su futbol del mié 07/10 20:00
+2026-10-04T06:47:00.000Z faramir aceptó a Montgomery Burns en su running del sáb 10/10 11:30
+2026-10-04T06:47:00.000Z steve.rogers aceptó a Bellatrix Lestrange en su futbol del lun 05/10 21:00
+2026-10-04T06:49:40.000Z eowyn pidió unirse al running de Faramir del sáb 10/10 11:30 en Parque Pilar · Circuito
+2026-10-04T06:51:40.000Z doc.brown pidió unirse al futbol de Fred Weasley del mié 07/10 20:00 en Campus Austral · Canchas
+2026-10-04T06:53:40.000Z ron.weasley pidió unirse al tenis de Jaime Lannister del vie 09/10 20:30 en Campus Austral · Canchas
+2026-10-04T09:39:00.000Z fred.weasley aceptó a Doc Brown en su futbol del mié 07/10 20:00
+2026-10-04T09:39:00.000Z fred.weasley pidió unirse al futbol de Steve Rogers del lun 05/10 21:00 en Campus Austral · Canchas
+2026-10-04T09:39:00.000Z faramir aceptó a Éowyn en su running del sáb 10/10 11:30
+2026-10-04T09:39:00.000Z jaime.lannister aceptó a Ron Weasley en su tenis del vie 09/10 20:30
+2026-10-04T09:40:20.000Z jaime.lannister pidió unirse al running de Faramir del sáb 10/10 11:30 en Parque Pilar · Circuito
+2026-10-04T09:43:40.000Z jon.snow organizó un futbol BEGINNER para el jue 08/10 21:00 en Campus Austral · Canchas
+2026-10-04T09:45:00.000Z bellatrix.lestrange pidió unirse al futbol de Pippin Tuk del sáb 10/10 19:00 en Campus Austral · Canchas
+2026-10-04T09:45:40.000Z nemo pidió unirse al futbol de Elrond del dom 04/10 20:00 en Fútbol 5 Nordelta
+2026-10-04T09:46:20.000Z pippin.tuk pidió unirse al futbol de Steve Rogers del lun 05/10 21:00 en Campus Austral · Canchas
+2026-10-04T12:44:00.000Z eowyn calificó el padel del dom 04/10 09:00 (reportó que faltó Qui-Gon Jinn)
+2026-10-04T12:44:00.000Z pippin.tuk aceptó a Bellatrix Lestrange en su futbol del sáb 10/10 19:00
+2026-10-04T12:44:00.000Z elrond aceptó a Nemo en su futbol del dom 04/10 20:00
+2026-10-04T12:44:00.000Z faramir calificó el padel del dom 04/10 09:00 (reportó que faltó Qui-Gon Jinn)
+2026-10-04T12:44:00.000Z faramir aceptó a Jaime Lannister en su running del sáb 10/10 11:30
+2026-10-04T12:44:00.000Z steve.rogers aceptó a Fred Weasley en su futbol del lun 05/10 21:00
+2026-10-04T12:44:00.000Z steve.rogers aceptó a Pippin Tuk en su futbol del lun 05/10 21:00
+2026-10-04T12:50:40.000Z rubeus.hagrid pidió unirse al futbol de Steve Rogers del lun 05/10 21:00 en Campus Austral · Canchas
+2026-10-04T12:51:20.000Z nemo pidió unirse al futbol de Pippin Tuk del sáb 10/10 19:00 en Campus Austral · Canchas
+2026-10-04T15:21:00.000Z ron.weasley calificó el tenis del dom 04/10 10:00
+2026-10-04T15:21:00.000Z ron.weasley calificó el tenis del dom 04/10 10:00 (reportó que faltó Jaime Lannister)
+2026-10-04T15:21:00.000Z pippin.tuk aceptó a Nemo en su futbol del sáb 10/10 19:00
+2026-10-04T15:21:00.000Z steve.rogers aceptó a Rubeus Hagrid en su futbol del lun 05/10 21:00
+2026-10-04T15:21:00.000Z hermione.granger calificó el tenis del dom 04/10 10:00
+2026-10-04T15:21:00.000Z hermione.granger calificó el tenis del dom 04/10 10:00 (reportó que faltó Jaime Lannister)
+2026-10-04T15:25:40.000Z quigon.jinn pidió unirse al running de Faramir del sáb 10/10 11:30 en Parque Pilar · Circuito
+2026-10-04T15:27:00.000Z sam.gamyi pidió unirse al futbol de Jon Snow del jue 08/10 21:00 en Campus Austral · Canchas
+2026-10-04T15:28:20.000Z bellatrix.lestrange pidió unirse al futbol de Jon Snow del jue 08/10 21:00 en Campus Austral · Canchas
+2026-10-04T18:14:00.000Z faramir aceptó a Qui-Gon Jinn en su running del sáb 10/10 11:30
+2026-10-04T18:14:00.000Z jon.snow aceptó a Sam Gamyi en su futbol del jue 08/10 21:00
+2026-10-04T18:14:00.000Z jon.snow aceptó a Bellatrix Lestrange en su futbol del jue 08/10 21:00
+2026-10-04T18:14:40.000Z jon.snow pidió unirse al futbol de Steve Rogers del lun 05/10 21:00 en Campus Austral · Canchas
+2026-10-04T18:16:00.000Z nemo pidió unirse al futbol de Jon Snow del jue 08/10 21:00 en Campus Austral · Canchas
+2026-10-04T18:20:00.000Z mace.windu pidió unirse al futbol de Elrond del dom 04/10 20:00 en Fútbol 5 Nordelta
+2026-10-04T18:21:20.000Z doc.brown pidió unirse al futbol de Pippin Tuk del sáb 10/10 19:00 en Campus Austral · Canchas
+2026-10-04T21:37:00.000Z gimli se bajó a último momento del futbol del dom 04/10 20:00
+2026-10-04T21:37:00.000Z pippin.tuk aceptó a Doc Brown en su futbol del sáb 10/10 19:00
+2026-10-04T21:37:00.000Z pippin.tuk pidió unirse al futbol de Jon Snow del jue 08/10 21:00 en Campus Austral · Canchas
+2026-10-04T21:37:00.000Z elrond aceptó a Mace Windu en su futbol del dom 04/10 20:00
+2026-10-04T21:37:00.000Z steve.rogers aceptó a Jon Snow en su futbol del lun 05/10 21:00
+2026-10-04T21:37:00.000Z jon.snow aceptó a Nemo en su futbol del jue 08/10 21:00
+2026-10-04T21:37:00.000Z jon.snow aceptó a Pippin Tuk en su futbol del jue 08/10 21:00
+2026-10-04T21:39:00.000Z jon.snow pidió unirse al futbol de Pippin Tuk del sáb 10/10 19:00 en Campus Austral · Canchas
+2026-10-04T21:40:20.000Z sam.gamyi organizó un tenis INTERMEDIATE para el mié 07/10 20:00 en River Courts · Cancha 2
+2026-10-04T21:41:40.000Z jaime.lannister pidió unirse al tenis de Sam Gamyi del mié 07/10 20:00 en River Courts · Cancha 2
+2026-10-04T21:43:00.000Z theoden pidió unirse al futbol de Gimli del mar 06/10 20:00 en River Courts · Cancha 2
+2026-10-05T00:36:00.000Z gimli aceptó a Théoden en su futbol del mar 06/10 20:00
+2026-10-05T00:36:00.000Z quigon.jinn calificó el padel del dom 04/10 21:00
+2026-10-05T00:36:00.000Z pippin.tuk aceptó a Jon Snow en su futbol del sáb 10/10 19:00
+2026-10-05T00:36:00.000Z elrond calificó el futbol del dom 04/10 20:00
+2026-10-05T00:36:00.000Z bellatrix.lestrange calificó el padel del dom 04/10 21:00
+2026-10-05T00:36:00.000Z bellatrix.lestrange calificó el futbol del dom 04/10 20:00
+2026-10-05T00:36:00.000Z mace.windu calificó el padel del dom 04/10 21:00
+2026-10-05T00:36:00.000Z mace.windu calificó el futbol del dom 04/10 20:00
+2026-10-05T00:36:00.000Z sam.gamyi aceptó a Jaime Lannister en su tenis del mié 07/10 20:00
+2026-10-05T00:39:20.000Z mace.windu organizó un padel INTERMEDIATE para el sáb 10/10 21:00 en Tigre Pádel Club
+2026-10-05T00:41:20.000Z yoda pidió unirse al padel de Mace Windu del sáb 10/10 21:00 en Tigre Pádel Club
+2026-10-05T00:42:40.000Z fred.weasley pidió unirse al futbol de Pippin Tuk del sáb 10/10 19:00 en Campus Austral · Canchas
+2026-10-05T03:47:00.000Z quigon.jinn calificó el padel del dom 04/10 22:00 (reportó que faltó Dobby)
+2026-10-05T03:47:00.000Z quigon.jinn pidió unirse al padel de Mace Windu del sáb 10/10 21:00 en Tigre Pádel Club
+2026-10-05T03:47:00.000Z pippin.tuk aceptó a Fred Weasley en su futbol del sáb 10/10 19:00
+2026-10-05T03:47:00.000Z bellatrix.lestrange calificó el padel del dom 04/10 22:00 (reportó que faltó Dobby)
+2026-10-05T03:47:00.000Z mace.windu aceptó a Yoda en su padel del sáb 10/10 21:00
+2026-10-05T03:47:00.000Z mace.windu aceptó a Qui-Gon Jinn en su padel del sáb 10/10 21:00
+2026-10-05T03:47:00.000Z mace.windu aceptó a Bellatrix Lestrange en su padel del sáb 10/10 21:00
+2026-10-05T03:48:20.000Z bellatrix.lestrange pidió unirse al padel de Mace Windu del sáb 10/10 21:00 en Tigre Pádel Club
+2026-10-05T03:49:00.000Z mace.windu pidió unirse al futbol de Pippin Tuk del sáb 10/10 19:00 en Campus Austral · Canchas
+2026-10-05T03:50:20.000Z sam.gamyi organizó un padel INTERMEDIATE para el jue 08/10 21:30 en Club Belgrano · Gimnasio
+2026-10-05T03:54:20.000Z harley.quinn pidió unirse al basquet de Galadriel del lun 05/10 20:00 en Club Belgrano · Gimnasio
+2026-10-05T06:25:00.000Z galadriel aceptó a Harley Quinn en su basquet del lun 05/10 20:00
+2026-10-05T06:25:00.000Z pippin.tuk aceptó a Mace Windu en su futbol del sáb 10/10 19:00
+2026-10-05T06:26:20.000Z eowyn pidió unirse al padel de Sam Gamyi del jue 08/10 21:30 en Club Belgrano · Gimnasio
+2026-10-05T06:27:40.000Z doc.brown pidió unirse al futbol de Mace Windu del lun 05/10 19:30 en Fútbol 5 Nordelta
+2026-10-05T06:29:40.000Z gimli pidió unirse al futbol de Mace Windu del lun 05/10 19:30 en Fútbol 5 Nordelta
+2026-10-05T06:30:20.000Z padme.amidala pidió unirse al futbol de Pippin Tuk del sáb 10/10 19:00 en Campus Austral · Canchas
+2026-10-05T09:45:00.000Z pippin.tuk aceptó a Padmé Amidala en su futbol del sáb 10/10 19:00
+2026-10-05T09:45:00.000Z mace.windu aceptó a Doc Brown en su futbol del lun 05/10 19:30
+2026-10-05T09:45:00.000Z mace.windu aceptó a Gimli en su futbol del lun 05/10 19:30
+2026-10-05T09:45:00.000Z sam.gamyi aceptó a Éowyn en su padel del jue 08/10 21:30
+2026-10-05T09:45:00.000Z sam.gamyi aceptó a Mace Windu en su padel del jue 08/10 21:30
+2026-10-05T09:45:40.000Z mace.windu pidió unirse al padel de Sam Gamyi del jue 08/10 21:30 en Club Belgrano · Gimnasio
+2026-10-05T09:48:20.000Z bellatrix.lestrange pidió unirse al padel de Sam Gamyi del jue 08/10 21:30 en Club Belgrano · Gimnasio
+2026-10-05T09:50:20.000Z doc.brown organizó un futbol BEGINNER para el mié 07/10 21:00 en Campus Austral · Canchas
+2026-10-05T09:50:20.000Z doc.brown pidió unirse al futbol de Jon Snow del jue 08/10 21:00 en Campus Austral · Canchas
+2026-10-05T12:45:00.000Z jon.snow aceptó a Doc Brown en su futbol del jue 08/10 21:00
+2026-10-05T12:45:00.000Z jon.snow pidió unirse al futbol de Doc Brown del mié 07/10 21:00 en Campus Austral · Canchas
+2026-10-05T12:45:00.000Z sam.gamyi aceptó a Bellatrix Lestrange en su padel del jue 08/10 21:30
+2026-10-05T12:46:20.000Z doc.brown pidió unirse al futbol de Nemo del mié 07/10 22:30 en Club Pilar · Cancha 2
+2026-10-05T12:48:20.000Z bellatrix.lestrange pidió unirse al futbol de Doc Brown del mié 07/10 21:00 en Campus Austral · Canchas
+2026-10-05T15:34:00.000Z nemo aceptó a Doc Brown en su futbol del mié 07/10 22:30
+2026-10-05T15:34:00.000Z nemo pidió unirse al futbol de Fred Weasley del mié 07/10 20:00 en Campus Austral · Canchas
+2026-10-05T15:34:00.000Z doc.brown aceptó a Jon Snow en su futbol del mié 07/10 21:00
+2026-10-05T15:34:00.000Z doc.brown aceptó a Bellatrix Lestrange en su futbol del mié 07/10 21:00
+2026-10-05T15:34:40.000Z doc.brown pidió unirse al futbol de Steve Rogers del mar 06/10 20:30 en Polideportivo Del Viso
+2026-10-05T15:40:40.000Z elrond pidió unirse al futbol de Pippin Tuk del sáb 10/10 19:00 en Campus Austral · Canchas
+2026-10-05T18:22:00.000Z fred.weasley aceptó a Nemo en su futbol del mié 07/10 20:00
+2026-10-05T18:22:00.000Z pippin.tuk aceptó a Elrond en su futbol del sáb 10/10 19:00
+2026-10-05T18:22:00.000Z steve.rogers aceptó a Doc Brown en su futbol del mar 06/10 20:30
+2026-10-05T18:26:00.000Z mace.windu pidió unirse al futbol de Steve Rogers del mar 06/10 20:30 en Polideportivo Del Viso
+2026-10-05T18:26:40.000Z sam.gamyi pidió unirse al futbol de Nemo del mié 07/10 22:30 en Club Pilar · Cancha 2
+2026-10-05T21:36:00.000Z harley.quinn se bajó a último momento del basquet del lun 05/10 20:00
+2026-10-05T21:36:00.000Z gimli se bajó a último momento del futbol del lun 05/10 19:30
+2026-10-05T21:36:00.000Z steve.rogers aceptó a Mace Windu en su futbol del mar 06/10 20:30
+2026-10-05T21:36:00.000Z nemo aceptó a Sam Gamyi en su futbol del mié 07/10 22:30
+2026-10-05T21:41:20.000Z sam.gamyi pidió unirse al futbol de Pippin Tuk del sáb 10/10 19:00 en Campus Austral · Canchas
+2026-10-06T00:12:00.000Z fred.weasley calificó el futbol del lun 05/10 21:00
+2026-10-06T00:12:00.000Z gimli calificó el futbol del lun 05/10 21:00
+2026-10-06T00:12:00.000Z eowyn calificó el basquet del lun 05/10 20:00
+2026-10-06T00:12:00.000Z pippin.tuk calificó el futbol del lun 05/10 19:30 (reportó que faltó Fred Weasley)
+2026-10-06T00:12:00.000Z pippin.tuk calificó el futbol del lun 05/10 21:00
+2026-10-06T00:12:00.000Z pippin.tuk aceptó a Sam Gamyi en su futbol del sáb 10/10 19:00
+2026-10-06T00:12:00.000Z rubeus.hagrid calificó el futbol del lun 05/10 21:00
+2026-10-06T00:12:00.000Z elrond calificó el futbol del lun 05/10 19:30 (reportó que faltó Fred Weasley)
+2026-10-06T00:12:00.000Z bellatrix.lestrange calificó el futbol del lun 05/10 19:30 (reportó que faltó Fred Weasley)
+2026-10-06T00:12:00.000Z bellatrix.lestrange calificó el futbol del lun 05/10 21:00
+2026-10-06T00:12:00.000Z mace.windu calificó el futbol del lun 05/10 19:30 (reportó que faltó Fred Weasley)
+2026-10-06T00:12:00.000Z mace.windu calificó el futbol del lun 05/10 21:00
+2026-10-06T00:12:00.000Z milhouse.van.houten calificó el basquet del lun 05/10 20:00
+2026-10-06T00:12:00.000Z steve.rogers calificó el futbol del lun 05/10 21:00
+2026-10-06T00:12:00.000Z nemo calificó el futbol del lun 05/10 21:00
+2026-10-06T00:12:00.000Z sam.gamyi calificó el futbol del lun 05/10 21:00
+2026-10-06T00:12:00.000Z doc.brown calificó el futbol del lun 05/10 19:30 (reportó que faltó Fred Weasley)
+2026-10-06T00:15:20.000Z elrond organizó un futbol ADVANCED para el vie 09/10 19:30 en Fútbol 5 Nordelta
+2026-10-06T00:18:00.000Z steve.rogers organizó un futbol BEGINNER para el jue 08/10 19:00 en Club Pilar · Cancha 2
+2026-10-06T00:18:40.000Z nemo pidió unirse al futbol de Doc Brown del mié 07/10 21:00 en Campus Austral · Canchas
+2026-10-06T00:20:00.000Z doc.brown pidió unirse al futbol de Steve Rogers del jue 08/10 19:00 en Club Pilar · Cancha 2
+2026-10-06T03:17:00.000Z steve.rogers aceptó a Doc Brown en su futbol del jue 08/10 19:00
+2026-10-06T03:17:00.000Z doc.brown aceptó a Nemo en su futbol del mié 07/10 21:00
+2026-10-06T03:19:40.000Z davy.jones pidió unirse al running de Faramir del sáb 10/10 11:30 en Parque Pilar · Circuito
+2026-10-06T03:20:20.000Z theoden pidió unirse al futbol de Pippin Tuk del sáb 10/10 19:00 en Campus Austral · Canchas
+2026-10-06T03:21:00.000Z elrond pidió unirse al futbol de Jon Snow del jue 08/10 21:00 en Campus Austral · Canchas
+2026-10-06T03:21:40.000Z eowyn organizó un padel ADVANCED para el mié 07/10 22:30 en Club Pilar · Cancha 2
+2026-10-06T03:24:20.000Z gimli pidió unirse al futbol de Pippin Tuk del sáb 10/10 19:00 en Campus Austral · Canchas
+2026-10-06T06:45:00.000Z pippin.tuk aceptó a Théoden en su futbol del sáb 10/10 19:00
+2026-10-06T06:45:00.000Z pippin.tuk aceptó a Gimli en su futbol del sáb 10/10 19:00
+2026-10-06T06:45:00.000Z pippin.tuk pidió unirse al futbol de Steve Rogers del jue 08/10 19:00 en Club Pilar · Cancha 2
+2026-10-06T06:45:00.000Z faramir aceptó a Davy Jones en su running del sáb 10/10 11:30
+2026-10-06T06:45:00.000Z jon.snow aceptó a Elrond en su futbol del jue 08/10 21:00
+2026-10-06T06:45:40.000Z faramir organizó un running INTERMEDIATE para el dom 11/10 09:00 en Campus Austral · Canchas
+2026-10-06T06:46:20.000Z jon.snow pidió unirse al futbol de Steve Rogers del jue 08/10 19:00 en Club Pilar · Cancha 2
+2026-10-06T06:50:20.000Z boromir pidió unirse al tenis de Jaime Lannister del vie 09/10 20:30 en Campus Austral · Canchas
+2026-10-06T06:51:40.000Z dobby pidió unirse al padel de Éowyn del mié 07/10 22:30 en Club Pilar · Cancha 2
+2026-10-06T09:40:00.000Z eowyn aceptó a Dobby en su padel del mié 07/10 22:30
+2026-10-06T09:40:00.000Z steve.rogers aceptó a Pippin Tuk en su futbol del jue 08/10 19:00
+2026-10-06T09:40:00.000Z steve.rogers aceptó a Jon Snow en su futbol del jue 08/10 19:00
+2026-10-06T09:40:00.000Z jaime.lannister aceptó a Boromir en su tenis del vie 09/10 20:30
+2026-10-06T09:40:40.000Z steve.rogers pidió unirse al futbol de Jon Snow del jue 08/10 21:00 en Campus Austral · Canchas
+2026-10-06T09:41:20.000Z jaime.lannister pidió unirse al running de Faramir del dom 11/10 09:00 en Campus Austral · Canchas
+2026-10-06T09:42:00.000Z padme.amidala organizó un futbol INTERMEDIATE para el lun 12/10 20:00 en Club Pilar · Cancha 2
+2026-10-06T09:45:20.000Z doc.brown pidió unirse al futbol de Padmé Amidala del lun 12/10 20:00 en Club Pilar · Cancha 2
+2026-10-06T12:28:00.000Z faramir aceptó a Jaime Lannister en su running del dom 11/10 09:00
+2026-10-06T12:28:00.000Z jon.snow aceptó a Steve Rogers en su futbol del jue 08/10 21:00
+2026-10-06T12:28:00.000Z padme.amidala aceptó a Doc Brown en su futbol del lun 12/10 20:00
+2026-10-06T12:29:20.000Z padme.amidala pidió unirse al futbol de Elrond del vie 09/10 19:30 en Fútbol 5 Nordelta
+2026-10-06T12:30:40.000Z bellatrix.lestrange pidió unirse al padel de Éowyn del mié 07/10 22:30 en Club Pilar · Cancha 2
+2026-10-06T12:31:20.000Z elrond pidió unirse al futbol de Nemo del mié 07/10 22:30 en Club Pilar · Cancha 2
+2026-10-06T15:34:00.000Z eowyn rechazó a Bellatrix Lestrange en su padel del mié 07/10 22:30
+2026-10-06T15:34:00.000Z eowyn pidió unirse al running de Faramir del dom 11/10 09:00 en Campus Austral · Canchas
+2026-10-06T15:34:00.000Z elrond aceptó a Padmé Amidala en su futbol del vie 09/10 19:30
+2026-10-06T15:34:00.000Z nemo aceptó a Elrond en su futbol del mié 07/10 22:30
+2026-10-06T15:35:20.000Z nemo pidió unirse al futbol de Steve Rogers del jue 08/10 19:00 en Club Pilar · Cancha 2
+2026-10-06T15:38:00.000Z doc.brown pidió unirse al futbol de Gimli del mar 06/10 20:00 en River Courts · Cancha 2
+2026-10-06T15:40:40.000Z fred.weasley pidió unirse al futbol de Steve Rogers del jue 08/10 19:00 en Club Pilar · Cancha 2
+2026-10-06T15:41:20.000Z bellatrix.lestrange pidió unirse al futbol de Padmé Amidala del lun 12/10 20:00 en Club Pilar · Cancha 2
+2026-10-06T18:22:00.000Z gimli aceptó a Doc Brown en su futbol del mar 06/10 20:00
+2026-10-06T18:22:00.000Z faramir aceptó a Éowyn en su running del dom 11/10 09:00
+2026-10-06T18:22:00.000Z steve.rogers aceptó a Nemo en su futbol del jue 08/10 19:00
+2026-10-06T18:22:00.000Z steve.rogers aceptó a Fred Weasley en su futbol del jue 08/10 19:00
+2026-10-06T18:22:00.000Z padme.amidala aceptó a Bellatrix Lestrange en su futbol del lun 12/10 20:00
+2026-10-06T18:24:00.000Z padme.amidala pidió unirse al futbol de Gimli del mar 06/10 20:00 en River Courts · Cancha 2
+2026-10-06T18:25:20.000Z will.turner pidió unirse al futbol de Doc Brown del mié 07/10 21:00 en Campus Austral · Canchas
+2026-10-06T18:26:40.000Z theoden pidió unirse al futbol de Steve Rogers del mar 06/10 20:30 en Polideportivo Del Viso
+2026-10-06T18:27:20.000Z davy.jones pidió unirse al running de Faramir del dom 11/10 09:00 en Campus Austral · Canchas
+2026-10-06T18:28:00.000Z fred.weasley pidió unirse al futbol de Doc Brown del mié 07/10 21:00 en Campus Austral · Canchas
+2026-10-06T18:29:20.000Z bellatrix.lestrange pidió unirse al futbol de Steve Rogers del jue 08/10 19:00 en Club Pilar · Cancha 2
+2026-10-06T21:42:00.000Z rubeus.hagrid se bajó a último momento del futbol del mar 06/10 20:30
+2026-10-06T21:42:00.000Z gimli aceptó a Padmé Amidala en su futbol del mar 06/10 20:00
+2026-10-06T21:42:00.000Z gimli pidió unirse al futbol de Elrond del vie 09/10 19:30 en Fútbol 5 Nordelta
+2026-10-06T21:42:00.000Z faramir aceptó a Davy Jones en su running del dom 11/10 09:00
+2026-10-06T21:42:00.000Z steve.rogers aceptó a Théoden en su futbol del mar 06/10 20:30
+2026-10-06T21:42:00.000Z steve.rogers aceptó a Bellatrix Lestrange en su futbol del jue 08/10 19:00
+2026-10-06T21:42:00.000Z doc.brown aceptó a Will Turner en su futbol del mié 07/10 21:00
+2026-10-06T21:42:00.000Z doc.brown aceptó a Fred Weasley en su futbol del mié 07/10 21:00
+2026-10-06T21:44:00.000Z doc.brown pidió unirse al futbol de Elrond del vie 09/10 19:30 en Fútbol 5 Nordelta
+2026-10-06T21:46:00.000Z mace.windu organizó un padel INTERMEDIATE para el sáb 10/10 10:30 en Tigre Pádel Club
+2026-10-06T21:47:20.000Z fred.weasley pidió unirse al running de Faramir del dom 11/10 09:00 en Campus Austral · Canchas
+2026-10-06T21:48:40.000Z elrond pidió unirse al futbol de Steve Rogers del jue 08/10 19:00 en Club Pilar · Cancha 2
+2026-10-07T00:34:00.000Z gimli calificó el futbol del mar 06/10 20:00
+2026-10-07T00:34:00.000Z gimli calificó el futbol del mar 06/10 20:30
+2026-10-07T00:34:00.000Z gimli pidió unirse al futbol de Jon Snow del jue 08/10 21:00 en Campus Austral · Canchas
+2026-10-07T00:34:00.000Z eowyn calificó el padel del mar 06/10 20:00
+2026-10-07T00:34:00.000Z quigon.jinn calificó el padel del mar 06/10 20:00
+2026-10-07T00:34:00.000Z pippin.tuk calificó el futbol del mar 06/10 20:00
+2026-10-07T00:34:00.000Z elrond calificó el futbol del mar 06/10 20:00
+2026-10-07T00:34:00.000Z elrond aceptó a Gimli en su futbol del vie 09/10 19:30
+2026-10-07T00:34:00.000Z elrond aceptó a Doc Brown en su futbol del vie 09/10 19:30
+2026-10-07T00:34:00.000Z elrond aceptó a Pippin Tuk en su futbol del vie 09/10 19:30
+2026-10-07T00:34:00.000Z bellatrix.lestrange calificó el futbol del mar 06/10 20:00
+2026-10-07T00:34:00.000Z bellatrix.lestrange calificó el padel del mar 06/10 20:00
+2026-10-07T00:34:00.000Z faramir aceptó a Fred Weasley en su running del dom 11/10 09:00
+2026-10-07T00:34:00.000Z mace.windu calificó el futbol del mar 06/10 20:00
+2026-10-07T00:34:00.000Z mace.windu calificó el futbol del mar 06/10 20:30
+2026-10-07T00:34:00.000Z steve.rogers calificó el futbol del mar 06/10 20:00
+2026-10-07T00:34:00.000Z steve.rogers aceptó a Elrond en su futbol del jue 08/10 19:00
+2026-10-07T00:34:00.000Z sam.gamyi calificó el futbol del mar 06/10 20:00
+2026-10-07T00:34:00.000Z padme.amidala calificó el futbol del mar 06/10 20:00
+2026-10-07T00:34:00.000Z theoden calificó el futbol del mar 06/10 20:00
+2026-10-07T00:35:20.000Z quigon.jinn pidió unirse al padel de Éowyn del mié 07/10 22:30 en Club Pilar · Cancha 2
+2026-10-07T00:36:00.000Z pippin.tuk pidió unirse al futbol de Elrond del vie 09/10 19:30 en Fútbol 5 Nordelta
+2026-10-07T00:37:20.000Z bellatrix.lestrange pidió unirse al futbol de Elrond del vie 09/10 19:30 en Fútbol 5 Nordelta
+2026-10-07T00:39:20.000Z steve.rogers pidió unirse al futbol de Doc Brown del mié 07/10 21:00 en Campus Austral · Canchas
+2026-10-07T00:41:20.000Z theoden pidió unirse al futbol de Padmé Amidala del lun 12/10 20:00 en Club Pilar · Cancha 2
+2026-10-07T03:10:00.000Z eowyn aceptó a Qui-Gon Jinn en su padel del mié 07/10 22:30
+2026-10-07T03:10:00.000Z eowyn pidió unirse al padel de Mace Windu del sáb 10/10 10:30 en Tigre Pádel Club
+2026-10-07T03:10:00.000Z elrond aceptó a Bellatrix Lestrange en su futbol del vie 09/10 19:30
+2026-10-07T03:10:00.000Z jon.snow aceptó a Gimli en su futbol del jue 08/10 21:00
+2026-10-07T03:10:00.000Z doc.brown aceptó a Steve Rogers en su futbol del mié 07/10 21:00
+2026-10-07T03:10:00.000Z padme.amidala aceptó a Théoden en su futbol del lun 12/10 20:00
+2026-10-07T03:11:20.000Z jon.snow pidió unirse al padel de Éowyn del mié 07/10 22:30 en Club Pilar · Cancha 2
+2026-10-07T03:12:40.000Z padme.amidala pidió unirse al futbol de Steve Rogers del jue 08/10 19:00 en Club Pilar · Cancha 2
+2026-10-07T03:15:20.000Z lois.lane organizó un futbol INTERMEDIATE para el sáb 10/10 21:00 en Club Pilar · Cancha 2
+2026-10-07T03:16:00.000Z gimli pidió unirse al futbol de Steve Rogers del jue 08/10 19:00 en Club Pilar · Cancha 2
+2026-10-07T03:17:20.000Z fred.weasley pidió unirse al futbol de Nemo del mié 07/10 22:30 en Club Pilar · Cancha 2
+2026-10-07T06:15:00.000Z eowyn aceptó a Jon Snow en su padel del mié 07/10 22:30
+2026-10-07T06:15:00.000Z mace.windu aceptó a Éowyn en su padel del sáb 10/10 10:30
+2026-10-07T06:15:00.000Z steve.rogers aceptó a Padmé Amidala en su futbol del jue 08/10 19:00
+2026-10-07T06:15:00.000Z steve.rogers aceptó a Gimli en su futbol del jue 08/10 19:00
+2026-10-07T06:15:00.000Z nemo aceptó a Fred Weasley en su futbol del mié 07/10 22:30
+2026-10-07T06:16:20.000Z steve.rogers organizó un futbol INTERMEDIATE para el sáb 10/10 10:30 en Campus Austral · Canchas
+2026-10-07T06:16:20.000Z steve.rogers pidió unirse al futbol de Padmé Amidala del lun 12/10 20:00 en Club Pilar · Cancha 2
+2026-10-07T06:18:20.000Z montgomery.burns pidió unirse al running de Faramir del dom 11/10 09:00 en Campus Austral · Canchas
+2026-10-07T06:21:00.000Z molly.weasley organizó un running BEGINNER para el dom 11/10 09:00 en Bosques de Palermo · Lago
+2026-10-07T06:21:00.000Z molly.weasley pidió unirse al running de Faramir del dom 11/10 09:00 en Campus Austral · Canchas
+2026-10-07T06:21:40.000Z fred.weasley pidió unirse al futbol de Jon Snow del jue 08/10 21:00 en Campus Austral · Canchas
+2026-10-07T06:22:20.000Z gimli pidió unirse al futbol de Lois Lane del sáb 10/10 21:00 en Club Pilar · Cancha 2
+2026-10-07T09:30:00.000Z faramir aceptó a Montgomery Burns en su running del dom 11/10 09:00
+2026-10-07T09:30:00.000Z faramir rechazó a Molly Weasley en su running del dom 11/10 09:00 (ya estaba lleno)
+2026-10-07T09:30:00.000Z jon.snow rechazó a Fred Weasley en su futbol del jue 08/10 21:00
+2026-10-07T09:30:00.000Z padme.amidala aceptó a Steve Rogers en su futbol del lun 12/10 20:00
+2026-10-07T09:30:00.000Z lois.lane aceptó a Gimli en su futbol del sáb 10/10 21:00
+2026-10-07T09:30:40.000Z jon.snow pidió unirse al futbol de Steve Rogers del sáb 10/10 10:30 en Campus Austral · Canchas
+2026-10-07T09:31:20.000Z padme.amidala pidió unirse al futbol de Doc Brown del mié 07/10 21:00 en Campus Austral · Canchas
+2026-10-07T09:32:00.000Z lois.lane pidió unirse al futbol de Jon Snow del jue 08/10 21:00 en Campus Austral · Canchas
+2026-10-07T09:33:20.000Z harley.quinn organizó un basquet INTERMEDIATE para el jue 08/10 20:00 en Campus Austral · Canchas
+2026-10-07T09:34:40.000Z will.turner pidió unirse al futbol de Padmé Amidala del lun 12/10 20:00 en Club Pilar · Cancha 2
+2026-10-07T09:37:20.000Z montgomery.burns pidió unirse al running de Molly Weasley del dom 11/10 09:00 en Bosques de Palermo · Lago
+2026-10-07T12:17:00.000Z steve.rogers aceptó a Jon Snow en su futbol del sáb 10/10 10:30
+2026-10-07T12:17:00.000Z jon.snow aceptó a Lois Lane en su futbol del jue 08/10 21:00
+2026-10-07T12:17:00.000Z doc.brown aceptó a Padmé Amidala en su futbol del mié 07/10 21:00
+2026-10-07T12:17:00.000Z padme.amidala aceptó a Will Turner en su futbol del lun 12/10 20:00
+2026-10-07T12:17:00.000Z molly.weasley aceptó a Montgomery Burns en su running del dom 11/10 09:00
+2026-10-07T12:17:40.000Z jon.snow pidió unirse al futbol de Lois Lane del sáb 10/10 21:00 en Club Pilar · Cancha 2
+2026-10-07T12:20:20.000Z dobby pidió unirse al padel de Mace Windu del sáb 10/10 10:30 en Tigre Pádel Club
+2026-10-07T12:23:40.000Z bellatrix.lestrange pidió unirse al padel de Mace Windu del sáb 10/10 10:30 en Tigre Pádel Club
+2026-10-07T15:47:00.000Z mace.windu aceptó a Dobby en su padel del sáb 10/10 10:30
+2026-10-07T15:47:00.000Z mace.windu aceptó a Bellatrix Lestrange en su padel del sáb 10/10 10:30
+2026-10-07T15:47:00.000Z lois.lane aceptó a Jon Snow en su futbol del sáb 10/10 21:00
+2026-10-07T15:47:40.000Z lois.lane pidió unirse al futbol de Padmé Amidala del lun 12/10 20:00 en Club Pilar · Cancha 2
+2026-10-07T15:48:20.000Z pippin.tuk pidió unirse al futbol de Steve Rogers del sáb 10/10 10:30 en Campus Austral · Canchas
+2026-10-07T15:49:40.000Z galadriel pidió unirse al basquet de Harley Quinn del jue 08/10 20:00 en Campus Austral · Canchas
+2026-10-07T15:50:20.000Z jaime.lannister pidió unirse al running de Molly Weasley del dom 11/10 09:00 en Bosques de Palermo · Lago
+2026-10-07T15:52:20.000Z bellatrix.lestrange pidió unirse al futbol de Steve Rogers del sáb 10/10 10:30 en Campus Austral · Canchas
+2026-10-07T15:54:20.000Z eowyn pidió unirse al basquet de Harley Quinn del jue 08/10 20:00 en Campus Austral · Canchas
+2026-10-07T18:31:00.000Z steve.rogers aceptó a Pippin Tuk en su futbol del sáb 10/10 10:30
+2026-10-07T18:31:00.000Z steve.rogers aceptó a Bellatrix Lestrange en su futbol del sáb 10/10 10:30
+2026-10-07T18:31:00.000Z steve.rogers pidió unirse al futbol de Lois Lane del sáb 10/10 21:00 en Club Pilar · Cancha 2
+2026-10-07T18:31:00.000Z harley.quinn aceptó a Galadriel en su basquet del jue 08/10 20:00
+2026-10-07T18:31:00.000Z harley.quinn aceptó a Éowyn en su basquet del jue 08/10 20:00
+2026-10-07T18:31:00.000Z padme.amidala aceptó a Lois Lane en su futbol del lun 12/10 20:00
+2026-10-07T18:31:00.000Z molly.weasley aceptó a Jaime Lannister en su running del dom 11/10 09:00
+2026-10-07T18:32:20.000Z padme.amidala pidió unirse al futbol de Nemo del mié 07/10 22:30 en Club Pilar · Cancha 2
+2026-10-07T18:33:40.000Z bellatrix.lestrange pidió unirse al futbol de Lois Lane del sáb 10/10 21:00 en Club Pilar · Cancha 2
+2026-10-07T18:34:20.000Z mace.windu pidió unirse al futbol de Elrond del vie 09/10 19:30 en Fútbol 5 Nordelta
+2026-10-07T18:35:40.000Z davy.jones pidió unirse al basquet de Harley Quinn del jue 08/10 20:00 en Campus Austral · Canchas
+2026-10-07T18:37:40.000Z ron.weasley pidió unirse al basquet de Harley Quinn del jue 08/10 20:00 en Campus Austral · Canchas
+2026-10-07T21:19:00.000Z jon.snow se bajó a último momento del futbol del mié 07/10 20:00
+2026-10-07T21:19:00.000Z doc.brown se bajó a último momento del futbol del mié 07/10 20:00
+2026-10-07T21:19:00.000Z elrond aceptó a Mace Windu en su futbol del vie 09/10 19:30
+2026-10-07T21:19:00.000Z nemo aceptó a Padmé Amidala en su futbol del mié 07/10 22:30
+2026-10-07T21:19:00.000Z harley.quinn aceptó a Davy Jones en su basquet del jue 08/10 20:00
+2026-10-07T21:19:00.000Z harley.quinn aceptó a Ron Weasley en su basquet del jue 08/10 20:00
+2026-10-07T21:19:00.000Z lois.lane aceptó a Steve Rogers en su futbol del sáb 10/10 21:00
+2026-10-07T21:19:00.000Z lois.lane aceptó a Bellatrix Lestrange en su futbol del sáb 10/10 21:00
+2026-10-07T21:25:00.000Z fred.weasley pidió unirse al futbol de Padmé Amidala del lun 12/10 20:00 en Club Pilar · Cancha 2
+2026-10-07T21:26:20.000Z albus.dumbledore organizó un tenis INTERMEDIATE para el jue 08/10 22:00 en Tigre Pádel Club
+2026-10-08T00:50:00.000Z pippin.tuk calificó el futbol del mié 07/10 20:00
+2026-10-08T00:50:00.000Z pippin.tuk pidió unirse al futbol de Padmé Amidala del lun 12/10 20:00 en Club Pilar · Cancha 2
+2026-10-08T00:50:00.000Z rubeus.hagrid calificó el futbol del mié 07/10 20:00
+2026-10-08T00:50:00.000Z bellatrix.lestrange calificó el futbol del mié 07/10 20:00
+2026-10-08T00:50:00.000Z bellatrix.lestrange calificó el futbol del mié 07/10 21:00
+2026-10-08T00:50:00.000Z steve.rogers calificó el futbol del mié 07/10 21:00
+2026-10-08T00:50:00.000Z jon.snow calificó el futbol del mié 07/10 21:00
+2026-10-08T00:50:00.000Z nemo calificó el futbol del mié 07/10 20:00
+2026-10-08T00:50:00.000Z nemo calificó el futbol del mié 07/10 21:00
+2026-10-08T00:50:00.000Z sam.gamyi calificó el tenis del mié 07/10 20:00 (reportó que faltó Jaime Lannister)
+2026-10-08T00:50:00.000Z will.turner calificó el futbol del mié 07/10 21:00
+2026-10-08T00:50:00.000Z padme.amidala calificó el futbol del mié 07/10 21:00
+2026-10-08T00:50:00.000Z padme.amidala aceptó a Fred Weasley en su futbol del lun 12/10 20:00
+2026-10-08T00:50:00.000Z padme.amidala aceptó a Pippin Tuk en su futbol del lun 12/10 20:00
+2026-10-08T00:50:40.000Z rubeus.hagrid pidió unirse al futbol de Elrond del vie 09/10 19:30 en Fútbol 5 Nordelta
+2026-10-08T00:53:20.000Z nemo pidió unirse al futbol de Steve Rogers del sáb 10/10 10:30 en Campus Austral · Canchas
+2026-10-08T00:54:00.000Z sam.gamyi organizó un padel INTERMEDIATE para el jue 08/10 21:00 en Club Belgrano · Gimnasio
+2026-10-08T00:56:00.000Z chewbacca organizó un padel INTERMEDIATE para el dom 11/10 10:00 en Club Pilar · Cancha 2
+2026-10-08T00:56:00.000Z chewbacca pidió unirse al futbol de Lois Lane del sáb 10/10 21:00 en Club Pilar · Cancha 2
+2026-10-08T03:45:00.000Z fred.weasley calificó el futbol del mié 07/10 22:30 (reportó que faltó Elrond)
+2026-10-08T03:45:00.000Z ron.weasley calificó el tenis del mié 07/10 22:00
+2026-10-08T03:45:00.000Z pippin.tuk calificó el futbol del mié 07/10 22:30 (reportó que faltó Elrond)
+2026-10-08T03:45:00.000Z elrond calificó el tenis del mié 07/10 22:00
+2026-10-08T03:45:00.000Z elrond aceptó a Rubeus Hagrid en su futbol del vie 09/10 19:30
+2026-10-08T03:45:00.000Z bellatrix.lestrange calificó el futbol del mié 07/10 22:30 (reportó que faltó Elrond)
+2026-10-08T03:45:00.000Z steve.rogers calificó el futbol del mié 07/10 22:30 (reportó que faltó Elrond)
+2026-10-08T03:45:00.000Z steve.rogers aceptó a Nemo en su futbol del sáb 10/10 10:30
+2026-10-08T03:45:00.000Z sam.gamyi calificó el futbol del mié 07/10 22:30 (reportó que faltó Elrond)
+2026-10-08T03:45:00.000Z padme.amidala calificó el futbol del mié 07/10 22:30 (reportó que faltó Elrond)
+2026-10-08T03:45:00.000Z lois.lane aceptó a Chewbacca en su futbol del sáb 10/10 21:00
+2026-10-08T03:45:00.000Z lois.lane aceptó a Pippin Tuk en su futbol del sáb 10/10 21:00
+2026-10-08T03:45:00.000Z lois.lane aceptó a Padmé Amidala en su futbol del sáb 10/10 21:00
+2026-10-08T03:45:40.000Z ron.weasley pidió unirse al tenis de Albus Dumbledore del jue 08/10 22:00 en Tigre Pádel Club
+2026-10-08T03:46:20.000Z pippin.tuk pidió unirse al futbol de Lois Lane del sáb 10/10 21:00 en Club Pilar · Cancha 2
+2026-10-08T03:47:00.000Z elrond pidió unirse al tenis de Albus Dumbledore del jue 08/10 22:00 en Tigre Pádel Club
+2026-10-08T03:47:40.000Z bellatrix.lestrange organizó un padel INTERMEDIATE para el mar 13/10 22:30 en Club Belgrano · Gimnasio
+2026-10-08T03:47:40.000Z bellatrix.lestrange pidió unirse al padel de Sam Gamyi del jue 08/10 21:00 en Club Belgrano · Gimnasio
+2026-10-08T03:49:00.000Z sam.gamyi pidió unirse al padel de Bellatrix Lestrange del mar 13/10 22:30 en Club Belgrano · Gimnasio
+2026-10-08T03:49:40.000Z padme.amidala pidió unirse al futbol de Lois Lane del sáb 10/10 21:00 en Club Pilar · Cancha 2
+2026-10-08T03:50:20.000Z lois.lane pidió unirse al futbol de Steve Rogers del sáb 10/10 10:30 en Campus Austral · Canchas
+2026-10-08T03:51:00.000Z tony.stark organizó un padel INTERMEDIATE para el sáb 10/10 09:30 en Tigre Pádel Club
+2026-10-08T03:51:40.000Z rubeus.hagrid pidió unirse al futbol de Lois Lane del sáb 10/10 21:00 en Club Pilar · Cancha 2
+2026-10-08T06:29:00.000Z bellatrix.lestrange aceptó a Sam Gamyi en su padel del mar 13/10 22:30
+2026-10-08T06:29:00.000Z bellatrix.lestrange pidió unirse al padel de Chewbacca del dom 11/10 10:00 en Club Pilar · Cancha 2
+2026-10-08T06:29:00.000Z steve.rogers aceptó a Lois Lane en su futbol del sáb 10/10 10:30
+2026-10-08T06:29:00.000Z sam.gamyi aceptó a Bellatrix Lestrange en su padel del jue 08/10 21:00
+2026-10-08T06:29:00.000Z lois.lane aceptó a Rubeus Hagrid en su futbol del sáb 10/10 21:00
+2026-10-08T06:29:00.000Z albus.dumbledore aceptó a Ron Weasley en su tenis del jue 08/10 22:00
+2026-10-08T06:29:00.000Z albus.dumbledore rechazó a Elrond en su tenis del jue 08/10 22:00 (ya estaba lleno)
+2026-10-08T06:31:40.000Z albus.dumbledore organizó un futbol INTERMEDIATE para el sáb 10/10 20:00 en Fútbol 5 Nordelta
+2026-10-08T06:34:20.000Z padme.amidala pidió unirse al futbol de Steve Rogers del sáb 10/10 10:30 en Campus Austral · Canchas
+2026-10-08T06:35:00.000Z fred.weasley pidió unirse al futbol de Lois Lane del sáb 10/10 21:00 en Club Pilar · Cancha 2
+2026-10-08T06:36:20.000Z hermione.granger organizó un futbol INTERMEDIATE para el dom 11/10 11:00 en Club Pilar · Cancha 2
+2026-10-08T09:22:00.000Z steve.rogers aceptó a Padmé Amidala en su futbol del sáb 10/10 10:30
+2026-10-08T09:22:00.000Z chewbacca aceptó a Bellatrix Lestrange en su padel del dom 11/10 10:00
+2026-10-08T09:22:00.000Z lois.lane aceptó a Fred Weasley en su futbol del sáb 10/10 21:00
+2026-10-08T09:22:40.000Z chewbacca pidió unirse al futbol de Steve Rogers del sáb 10/10 10:30 en Campus Austral · Canchas
+2026-10-08T09:24:00.000Z bellatrix.lestrange pidió unirse al futbol de Hermione Granger del dom 11/10 11:00 en Club Pilar · Cancha 2
+2026-10-08T09:25:20.000Z dobby pidió unirse al padel de Sam Gamyi del jue 08/10 21:00 en Club Belgrano · Gimnasio
+2026-10-08T09:28:40.000Z gimli pidió unirse al futbol de Albus Dumbledore del sáb 10/10 20:00 en Fútbol 5 Nordelta
+2026-10-08T12:46:00.000Z steve.rogers aceptó a Chewbacca en su futbol del sáb 10/10 10:30
+2026-10-08T12:46:00.000Z steve.rogers pidió unirse al futbol de Hermione Granger del dom 11/10 11:00 en Club Pilar · Cancha 2
+2026-10-08T12:46:00.000Z hermione.granger aceptó a Bellatrix Lestrange en su futbol del dom 11/10 11:00
+2026-10-08T12:46:00.000Z hermione.granger aceptó a Steve Rogers en su futbol del dom 11/10 11:00
+2026-10-08T12:46:00.000Z sam.gamyi aceptó a Dobby en su padel del jue 08/10 21:00
+2026-10-08T12:46:00.000Z albus.dumbledore aceptó a Gimli en su futbol del sáb 10/10 20:00
+2026-10-08T12:48:40.000Z milhouse.van.houten pidió unirse al basquet de Harley Quinn del jue 08/10 20:00 en Campus Austral · Canchas
+2026-10-08T12:49:20.000Z hector.barbossa organizó un running ADVANCED para el sáb 10/10 11:30 en Parque Pilar · Circuito
+2026-10-08T12:49:20.000Z hector.barbossa pidió unirse al futbol de Steve Rogers del jue 08/10 19:00 en Club Pilar · Cancha 2
+2026-10-08T12:50:00.000Z elrond organizó un futbol BEGINNER para el mar 13/10 22:00 en Fútbol 5 Nordelta
+2026-10-08T12:51:20.000Z jaime.lannister pidió unirse al running de Héctor Barbossa del sáb 10/10 11:30 en Parque Pilar · Circuito
+2026-10-08T12:52:00.000Z fred.weasley pidió unirse al futbol de Hermione Granger del dom 11/10 11:00 en Club Pilar · Cancha 2
+2026-10-08T15:17:00.000Z steve.rogers aceptó a Héctor Barbossa en su futbol del jue 08/10 19:00
+2026-10-08T15:17:00.000Z hermione.granger aceptó a Fred Weasley en su futbol del dom 11/10 11:00
+2026-10-08T15:17:00.000Z harley.quinn aceptó a Milhouse Van Houten en su basquet del jue 08/10 20:00
+2026-10-08T15:17:00.000Z hector.barbossa aceptó a Jaime Lannister en su running del sáb 10/10 11:30
+2026-10-08T15:20:20.000Z bellatrix.lestrange pidió unirse al padel de Tony Stark del sáb 10/10 09:30 en Tigre Pádel Club
+2026-10-08T15:22:20.000Z eowyn pidió unirse al padel de Chewbacca del dom 11/10 10:00 en Club Pilar · Cancha 2
+2026-10-08T15:23:00.000Z quigon.jinn pidió unirse al padel de Tony Stark del sáb 10/10 09:30 en Tigre Pádel Club
+2026-10-08T15:23:40.000Z jack.sparrow pidió unirse al running de Héctor Barbossa del sáb 10/10 11:30 en Parque Pilar · Circuito
+2026-10-08T15:24:20.000Z marty.mcfly pidió unirse al futbol de Padmé Amidala del lun 12/10 20:00 en Club Pilar · Cancha 2
+2026-10-08T18:14:00.000Z padme.amidala aceptó a Marty McFly en su futbol del lun 12/10 20:00
+2026-10-08T18:14:00.000Z padme.amidala pidió unirse al futbol de Elrond del mar 13/10 22:00 en Fútbol 5 Nordelta
+2026-10-08T18:14:00.000Z chewbacca aceptó a Éowyn en su padel del dom 11/10 10:00
+2026-10-08T18:14:00.000Z tony.stark aceptó a Bellatrix Lestrange en su padel del sáb 10/10 09:30
+2026-10-08T18:14:00.000Z tony.stark aceptó a Qui-Gon Jinn en su padel del sáb 10/10 09:30
+2026-10-08T18:14:00.000Z hector.barbossa aceptó a Jack Sparrow en su running del sáb 10/10 11:30
+2026-10-08T18:15:20.000Z tony.stark pidió unirse al padel de Sam Gamyi del jue 08/10 21:00 en Club Belgrano · Gimnasio
+2026-10-08T18:17:20.000Z steve.rogers pidió unirse al futbol de Albus Dumbledore del sáb 10/10 20:00 en Fútbol 5 Nordelta
+2026-10-08T18:18:00.000Z yoda pidió unirse al padel de Chewbacca del dom 11/10 10:00 en Club Pilar · Cancha 2
+2026-10-08T18:19:20.000Z gimli pidió unirse al futbol de Elrond del mar 13/10 22:00 en Fútbol 5 Nordelta
+2026-10-08T18:20:00.000Z doc.brown pidió unirse al futbol de Hermione Granger del dom 11/10 11:00 en Club Pilar · Cancha 2
+2026-10-08T18:21:20.000Z davy.jones pidió unirse al running de Héctor Barbossa del sáb 10/10 11:30 en Parque Pilar · Circuito
+2026-10-08T21:25:00.000Z elrond se bajó a último momento del futbol del jue 08/10 19:00
+2026-10-08T21:25:00.000Z galadriel se bajó a último momento del basquet del jue 08/10 20:00
+2026-10-08T21:25:00.000Z elrond aceptó a Padmé Amidala en su futbol del mar 13/10 22:00
+2026-10-08T21:25:00.000Z elrond aceptó a Gimli en su futbol del mar 13/10 22:00
+2026-10-08T21:25:00.000Z hermione.granger aceptó a Doc Brown en su futbol del dom 11/10 11:00
+2026-10-08T21:25:00.000Z sam.gamyi rechazó a Tony Stark en su padel del jue 08/10 21:00
+2026-10-08T21:25:00.000Z chewbacca aceptó a Yoda en su padel del dom 11/10 10:00
+2026-10-08T21:25:00.000Z hector.barbossa aceptó a Davy Jones en su running del sáb 10/10 11:30
+2026-10-08T21:25:00.000Z albus.dumbledore aceptó a Steve Rogers en su futbol del sáb 10/10 20:00
+2026-10-08T21:25:40.000Z hermione.granger pidió unirse al futbol de Steve Rogers del sáb 10/10 10:30 en Campus Austral · Canchas
+2026-10-08T21:27:00.000Z chewbacca pidió unirse al futbol de Hermione Granger del dom 11/10 11:00 en Club Pilar · Cancha 2
+2026-10-08T21:29:40.000Z doc.brown pidió unirse al futbol de Steve Rogers del sáb 10/10 10:30 en Campus Austral · Canchas
+2026-10-08T21:30:20.000Z gimli pidió unirse al futbol de Hermione Granger del dom 11/10 11:00 en Club Pilar · Cancha 2
+2026-10-09T00:31:00.000Z gimli calificó el futbol del jue 08/10 21:00
+2026-10-09T00:31:00.000Z gimli calificó el futbol del jue 08/10 19:00
+2026-10-09T00:31:00.000Z gimli pidió unirse al futbol de Steve Rogers del sáb 10/10 10:30 en Campus Austral · Canchas
+2026-10-09T00:31:00.000Z eowyn calificó el padel del jue 08/10 21:30
+2026-10-09T00:31:00.000Z eowyn calificó el basquet del jue 08/10 20:00
+2026-10-09T00:31:00.000Z ron.weasley calificó el basquet del jue 08/10 20:00
+2026-10-09T00:31:00.000Z pippin.tuk calificó el futbol del jue 08/10 21:00
+2026-10-09T00:31:00.000Z pippin.tuk calificó el futbol del jue 08/10 19:00
+2026-10-09T00:31:00.000Z elrond calificó el futbol del jue 08/10 21:00
+2026-10-09T00:31:00.000Z bellatrix.lestrange calificó el futbol del jue 08/10 21:00
+2026-10-09T00:31:00.000Z bellatrix.lestrange calificó el futbol del jue 08/10 19:00
+2026-10-09T00:31:00.000Z bellatrix.lestrange calificó el padel del jue 08/10 21:00 (reportó que faltó Dobby)
+2026-10-09T00:31:00.000Z mace.windu calificó el padel del jue 08/10 21:30
+2026-10-09T00:31:00.000Z milhouse.van.houten calificó el basquet del jue 08/10 20:00
+2026-10-09T00:31:00.000Z steve.rogers calificó el futbol del jue 08/10 19:00
+2026-10-09T00:31:00.000Z steve.rogers aceptó a Hermione Granger en su futbol del sáb 10/10 10:30
+2026-10-09T00:31:00.000Z steve.rogers aceptó a Doc Brown en su futbol del sáb 10/10 10:30
+2026-10-09T00:31:00.000Z steve.rogers rechazó a Gimli en su futbol del sáb 10/10 10:30 (ya estaba lleno)
+2026-10-09T00:31:00.000Z jon.snow calificó el futbol del jue 08/10 21:00
+2026-10-09T00:31:00.000Z jon.snow calificó el futbol del jue 08/10 19:00
+2026-10-09T00:31:00.000Z hermione.granger aceptó a Chewbacca en su futbol del dom 11/10 11:00
+2026-10-09T00:31:00.000Z hermione.granger aceptó a Gimli en su futbol del dom 11/10 11:00
+2026-10-09T00:31:00.000Z hermione.granger aceptó a Pippin Tuk en su futbol del dom 11/10 11:00
+2026-10-09T00:31:00.000Z sam.gamyi calificó el futbol del jue 08/10 21:00
+2026-10-09T00:31:00.000Z sam.gamyi calificó el padel del jue 08/10 21:30
+2026-10-09T00:31:00.000Z sam.gamyi calificó el padel del jue 08/10 21:00 (reportó que faltó Dobby)
+2026-10-09T00:31:00.000Z doc.brown calificó el futbol del jue 08/10 21:00
+2026-10-09T00:31:00.000Z doc.brown calificó el futbol del jue 08/10 19:00
+2026-10-09T00:31:00.000Z lois.lane calificó el futbol del jue 08/10 21:00
+2026-10-09T00:31:00.000Z hector.barbossa calificó el futbol del jue 08/10 19:00
+2026-10-09T00:31:40.000Z eowyn pidió unirse al running de Héctor Barbossa del sáb 10/10 11:30 en Parque Pilar · Circuito
+2026-10-09T00:33:00.000Z pippin.tuk pidió unirse al futbol de Hermione Granger del dom 11/10 11:00 en Club Pilar · Cancha 2
+2026-10-09T00:35:00.000Z mace.windu pidió unirse al futbol de Elrond del mar 13/10 22:00 en Fútbol 5 Nordelta
+2026-10-09T00:36:20.000Z steve.rogers organizó un futbol ADVANCED para el vie 09/10 20:00 en Campus Austral · Canchas
+2026-10-09T00:37:40.000Z hermione.granger pidió unirse al futbol de Steve Rogers del vie 09/10 20:00 en Campus Austral · Canchas
+2026-10-09T00:39:40.000Z lois.lane pidió unirse al futbol de Steve Rogers del vie 09/10 20:00 en Campus Austral · Canchas
+2026-10-09T03:46:00.000Z elrond aceptó a Mace Windu en su futbol del mar 13/10 22:00
+2026-10-09T03:46:00.000Z elrond pidió unirse al futbol de Albus Dumbledore del sáb 10/10 20:00 en Fútbol 5 Nordelta
+2026-10-09T03:46:00.000Z steve.rogers aceptó a Hermione Granger en su futbol del vie 09/10 20:00
+2026-10-09T03:46:00.000Z steve.rogers aceptó a Lois Lane en su futbol del vie 09/10 20:00
+2026-10-09T03:46:00.000Z steve.rogers canceló su futbol del vie 09/10 20:00 (iba 3/9)
+2026-10-09T03:46:00.000Z hector.barbossa aceptó a Éowyn en su running del sáb 10/10 11:30
+2026-10-09T03:48:40.000Z walle pidió unirse al futbol de Hermione Granger del dom 11/10 11:00 en Club Pilar · Cancha 2
+2026-10-09T03:50:00.000Z marty.mcfly pidió unirse al futbol de Hermione Granger del dom 11/10 11:00 en Club Pilar · Cancha 2
+2026-10-09T03:51:20.000Z chewbacca pidió unirse al futbol de Elrond del vie 09/10 19:30 en Fútbol 5 Nordelta
+2026-10-09T03:52:40.000Z nemo pidió unirse al futbol de Hermione Granger del dom 11/10 11:00 en Club Pilar · Cancha 2
+2026-10-09T03:53:20.000Z rubeus.hagrid pidió unirse al futbol de Hermione Granger del dom 11/10 11:00 en Club Pilar · Cancha 2
+2026-10-09T06:40:00.000Z elrond aceptó a Chewbacca en su futbol del vie 09/10 19:30
+2026-10-09T06:40:00.000Z hermione.granger aceptó a Wall-E en su futbol del dom 11/10 11:00
+2026-10-09T06:40:00.000Z hermione.granger aceptó a Marty McFly en su futbol del dom 11/10 11:00
+2026-10-09T06:40:00.000Z hermione.granger aceptó a Nemo en su futbol del dom 11/10 11:00
+2026-10-09T06:40:00.000Z hermione.granger aceptó a Rubeus Hagrid en su futbol del dom 11/10 11:00
+2026-10-09T06:40:00.000Z albus.dumbledore aceptó a Elrond en su futbol del sáb 10/10 20:00
+2026-10-09T06:41:20.000Z albus.dumbledore organizó un tenis ADVANCED para el jue 15/10 22:00 en Tigre Pádel Club
+2026-10-09T06:41:20.000Z albus.dumbledore pidió unirse al futbol de Elrond del mar 13/10 22:00 en Fútbol 5 Nordelta
+2026-10-09T06:42:40.000Z bellatrix.lestrange pidió unirse al futbol de Elrond del mar 13/10 22:00 en Fútbol 5 Nordelta
+2026-10-09T06:44:00.000Z obiwan.kenobi pidió unirse al futbol de Elrond del mar 13/10 22:00 en Fútbol 5 Nordelta
+2026-10-09T06:44:40.000Z sam.gamyi organizó un tenis INTERMEDIATE para el dom 11/10 09:30 en River Courts · Cancha 2
+2026-10-09T06:45:20.000Z davy.jones pidió unirse al running de Molly Weasley del dom 11/10 09:00 en Bosques de Palermo · Lago
+2026-10-09T06:46:00.000Z rubeus.hagrid pidió unirse al futbol de Albus Dumbledore del sáb 10/10 20:00 en Fútbol 5 Nordelta
+2026-10-09T09:44:00.000Z elrond aceptó a Albus Dumbledore en su futbol del mar 13/10 22:00
+2026-10-09T09:44:00.000Z elrond aceptó a Bellatrix Lestrange en su futbol del mar 13/10 22:00
+2026-10-09T09:44:00.000Z elrond aceptó a Obi-Wan Kenobi en su futbol del mar 13/10 22:00
+2026-10-09T09:44:00.000Z molly.weasley aceptó a Davy Jones en su running del dom 11/10 09:00
+2026-10-09T09:44:00.000Z albus.dumbledore aceptó a Rubeus Hagrid en su futbol del sáb 10/10 20:00
+2026-10-09T09:44:40.000Z molly.weasley organizó un running ADVANCED para el sáb 10/10 10:00 en Campus Austral · Canchas
+2026-10-09T09:46:00.000Z marty.mcfly pidió unirse al futbol de Albus Dumbledore del sáb 10/10 20:00 en Fútbol 5 Nordelta
+2026-10-09T09:47:20.000Z jaime.lannister pidió unirse al running de Molly Weasley del sáb 10/10 10:00 en Campus Austral · Canchas
+2026-10-09T09:48:00.000Z davy.jones pidió unirse al running de Molly Weasley del sáb 10/10 10:00 en Campus Austral · Canchas
+2026-10-09T09:50:40.000Z walle pidió unirse al futbol de Albus Dumbledore del sáb 10/10 20:00 en Fútbol 5 Nordelta
+2026-10-09T12:43:00.000Z molly.weasley aceptó a Jaime Lannister en su running del sáb 10/10 10:00
+2026-10-09T12:43:00.000Z molly.weasley aceptó a Davy Jones en su running del sáb 10/10 10:00
+2026-10-09T12:43:00.000Z albus.dumbledore aceptó a Marty McFly en su futbol del sáb 10/10 20:00
+2026-10-09T12:43:00.000Z albus.dumbledore aceptó a Wall-E en su futbol del sáb 10/10 20:00
+2026-10-09T12:45:00.000Z fred.weasley pidió unirse al running de Héctor Barbossa del sáb 10/10 11:30 en Parque Pilar · Circuito
+2026-10-09T12:48:20.000Z lois.lane pidió unirse al futbol de Albus Dumbledore del sáb 10/10 20:00 en Fútbol 5 Nordelta
+2026-10-09T15:10:00.000Z hector.barbossa rechazó a Fred Weasley en su running del sáb 10/10 11:30
+2026-10-09T15:10:00.000Z hector.barbossa organizó un futbol ADVANCED para el mar 13/10 19:00 en Club Pilar · Cancha 2
+2026-10-09T15:10:00.000Z albus.dumbledore aceptó a Lois Lane en su futbol del sáb 10/10 20:00
+2026-10-09T15:11:20.000Z sam.gamyi pidió unirse al padel de Tony Stark del sáb 10/10 09:30 en Tigre Pádel Club
+2026-10-09T15:13:20.000Z pippin.tuk pidió unirse al futbol de Albus Dumbledore del sáb 10/10 20:00 en Fútbol 5 Nordelta
+2026-10-09T15:14:00.000Z nemo pidió unirse al futbol de Héctor Barbossa del mar 13/10 19:00 en Club Pilar · Cancha 2
+2026-10-09T15:14:40.000Z theoden pidió unirse al futbol de Elrond del vie 09/10 19:30 en Fútbol 5 Nordelta
+2026-10-09T15:15:20.000Z ron.weasley pidió unirse al tenis de Albus Dumbledore del jue 15/10 22:00 en Tigre Pádel Club
+2026-10-09T15:16:00.000Z dobby pidió unirse al padel de Bellatrix Lestrange del mar 13/10 22:30 en Club Belgrano · Gimnasio
+2026-10-09T18:34:00.000Z elrond aceptó a Théoden en su futbol del vie 09/10 19:30
+2026-10-09T18:34:00.000Z bellatrix.lestrange aceptó a Dobby en su padel del mar 13/10 22:30
+2026-10-09T18:34:00.000Z tony.stark aceptó a Sam Gamyi en su padel del sáb 10/10 09:30
+2026-10-09T18:34:00.000Z hector.barbossa aceptó a Nemo en su futbol del mar 13/10 19:00
+2026-10-09T18:34:00.000Z albus.dumbledore aceptó a Pippin Tuk en su futbol del sáb 10/10 20:00
+2026-10-09T18:34:00.000Z albus.dumbledore rechazó a Bellatrix Lestrange en su futbol del sáb 10/10 20:00
+2026-10-09T18:34:00.000Z albus.dumbledore aceptó a Ron Weasley en su tenis del jue 15/10 22:00
+2026-10-09T18:34:40.000Z bellatrix.lestrange pidió unirse al futbol de Albus Dumbledore del sáb 10/10 20:00 en Fútbol 5 Nordelta
+2026-10-09T18:35:20.000Z tony.stark organizó un padel ADVANCED para el sáb 10/10 09:30 en Tigre Pádel Club
+2026-10-09T18:35:20.000Z tony.stark pidió unirse al padel de Bellatrix Lestrange del mar 13/10 22:30 en Club Belgrano · Gimnasio
+2026-10-09T18:37:20.000Z arya.stark pidió unirse al futbol de Héctor Barbossa del mar 13/10 19:00 en Club Pilar · Cancha 2
+2026-10-09T18:39:20.000Z walle pidió unirse al futbol de Elrond del mar 13/10 22:00 en Fútbol 5 Nordelta
+2026-10-09T18:41:20.000Z steve.rogers organizó un futbol INTERMEDIATE para el mar 13/10 19:00 en Club Pilar · Cancha 2
+2026-10-09T18:41:20.000Z steve.rogers pidió unirse al futbol de Héctor Barbossa del mar 13/10 19:00 en Club Pilar · Cancha 2
+2026-10-09T21:45:00.000Z ron.weasley se bajó a último momento del tenis del vie 09/10 20:30
+2026-10-09T21:45:00.000Z padme.amidala se bajó a último momento del futbol del vie 09/10 19:30
+2026-10-09T21:45:00.000Z elrond aceptó a Wall-E en su futbol del mar 13/10 22:00
+2026-10-09T21:45:00.000Z bellatrix.lestrange aceptó a Tony Stark en su padel del mar 13/10 22:30
+2026-10-09T21:45:00.000Z hector.barbossa aceptó a Arya Stark en su futbol del mar 13/10 19:00
+2026-10-09T21:45:00.000Z hector.barbossa aceptó a Steve Rogers en su futbol del mar 13/10 19:00
+2026-10-09T21:45:00.000Z hector.barbossa rechazó a Bellatrix Lestrange en su futbol del mar 13/10 19:00
+2026-10-09T21:45:40.000Z bellatrix.lestrange pidió unirse al futbol de Héctor Barbossa del mar 13/10 19:00 en Club Pilar · Cancha 2
+2026-10-09T21:47:40.000Z rubeus.hagrid pidió unirse al futbol de Héctor Barbossa del mar 13/10 19:00 en Club Pilar · Cancha 2
+2026-10-09T21:49:40.000Z arya.stark pidió unirse al futbol de Steve Rogers del mar 13/10 19:00 en Club Pilar · Cancha 2
+2026-10-09T21:50:20.000Z molly.weasley pidió unirse al running de Héctor Barbossa del sáb 10/10 11:30 en Parque Pilar · Circuito
+2026-10-09T21:51:00.000Z hermione.granger pidió unirse al futbol de Steve Rogers del mar 13/10 19:00 en Club Pilar · Cancha 2
+2026-10-09T21:51:40.000Z lois.lane organizó un futbol INTERMEDIATE para el mié 14/10 20:00 en Campus Austral · Canchas
+2026-10-10T00:45:00.000Z pippin.tuk calificó el futbol del vie 09/10 19:30 (reportó que faltó Gimli, Rubeus Hagrid)
+2026-10-10T00:45:00.000Z pippin.tuk pidió unirse al futbol de Lois Lane del mié 14/10 20:00 en Campus Austral · Canchas
+2026-10-10T00:45:00.000Z elrond calificó el futbol del vie 09/10 19:30 (reportó que faltó Gimli, Rubeus Hagrid)
+2026-10-10T00:45:00.000Z bellatrix.lestrange calificó el futbol del vie 09/10 19:30 (reportó que faltó Gimli, Rubeus Hagrid)
+2026-10-10T00:45:00.000Z mace.windu calificó el futbol del vie 09/10 19:30 (reportó que faltó Gimli, Rubeus Hagrid)
+2026-10-10T00:45:00.000Z steve.rogers aceptó a Arya Stark en su futbol del mar 13/10 19:00
+2026-10-10T00:45:00.000Z steve.rogers aceptó a Hermione Granger en su futbol del mar 13/10 19:00
+2026-10-10T00:45:00.000Z steve.rogers aceptó a Elrond en su futbol del mar 13/10 19:00
+2026-10-10T00:45:00.000Z doc.brown calificó el futbol del vie 09/10 19:30 (reportó que faltó Gimli, Rubeus Hagrid)
+2026-10-10T00:45:00.000Z hector.barbossa rechazó a Molly Weasley en su running del sáb 10/10 11:30
+2026-10-10T00:45:00.000Z hector.barbossa rechazó a Rubeus Hagrid en su futbol del mar 13/10 19:00
+2026-10-10T00:45:40.000Z elrond organizó un tenis INTERMEDIATE para el dom 11/10 21:00 en Tigre Pádel Club
+2026-10-10T00:45:40.000Z elrond pidió unirse al futbol de Steve Rogers del mar 13/10 19:00 en Club Pilar · Cancha 2
+2026-10-10T00:46:20.000Z bellatrix.lestrange pidió unirse al padel de Tony Stark del sáb 10/10 09:30 en Tigre Pádel Club
+2026-10-10T00:47:00.000Z mace.windu pidió unirse al padel de Tony Stark del sáb 10/10 09:30 en Tigre Pádel Club
+2026-10-10T00:50:20.000Z theoden pidió unirse al futbol de Steve Rogers del mar 13/10 19:00 en Club Pilar · Cancha 2
+2026-10-10T00:51:00.000Z quigon.jinn pidió unirse al padel de Tony Stark del sáb 10/10 09:30 en Tigre Pádel Club
+2026-10-10T00:51:40.000Z fred.weasley pidió unirse al futbol de Steve Rogers del mar 13/10 19:00 en Club Pilar · Cancha 2
+2026-10-10T00:52:20.000Z yoda pidió unirse al padel de Tony Stark del sáb 10/10 09:30 en Tigre Pádel Club
+2026-10-10T03:43:00.000Z steve.rogers rechazó a Théoden en su futbol del mar 13/10 19:00
+2026-10-10T03:43:00.000Z steve.rogers aceptó a Fred Weasley en su futbol del mar 13/10 19:00
+2026-10-10T03:43:00.000Z tony.stark aceptó a Bellatrix Lestrange en su padel del sáb 10/10 09:30
+2026-10-10T03:43:00.000Z tony.stark aceptó a Mace Windu en su padel del sáb 10/10 09:30
+2026-10-10T03:43:00.000Z tony.stark aceptó a Qui-Gon Jinn en su padel del sáb 10/10 09:30
+2026-10-10T03:43:00.000Z tony.stark rechazó a Yoda en su padel del sáb 10/10 09:30 (ya estaba lleno)
+2026-10-10T03:43:00.000Z lois.lane aceptó a Pippin Tuk en su futbol del mié 14/10 20:00
+2026-10-10T12:48:00.000Z jaime.lannister se bajó a último momento del running del sáb 10/10 11:30
+2026-10-10T12:48:00.000Z quigon.jinn se bajó a último momento del running del sáb 10/10 11:30
+2026-10-10T12:48:00.000Z dobby se bajó a último momento del padel del sáb 10/10 10:30
+2026-10-10T12:48:00.000Z padme.amidala se bajó a último momento del futbol del sáb 10/10 10:30
+2026-10-10T12:48:00.000Z chewbacca se bajó a último momento del futbol del sáb 10/10 10:30
+2026-10-10T12:48:00.000Z quigon.jinn calificó el padel del sáb 10/10 09:30
+2026-10-10T12:48:00.000Z bellatrix.lestrange calificó el padel del sáb 10/10 09:30
+2026-10-10T12:48:00.000Z bellatrix.lestrange calificó el padel del sáb 10/10 09:30
+2026-10-10T12:48:00.000Z mace.windu calificó el padel del sáb 10/10 09:30
+2026-10-10T12:48:00.000Z sam.gamyi calificó el padel del sáb 10/10 09:30
+2026-10-10T12:48:00.000Z tony.stark calificó el padel del sáb 10/10 09:30
+2026-10-10T12:48:00.000Z tony.stark calificó el padel del sáb 10/10 09:30
+2026-10-10T15:31:00.000Z pippin.tuk calificó el futbol del sáb 10/10 10:30 (reportó que faltó Nemo)
+2026-10-10T15:31:00.000Z bellatrix.lestrange calificó el padel del sáb 10/10 10:30
+2026-10-10T15:31:00.000Z bellatrix.lestrange calificó el futbol del sáb 10/10 10:30 (reportó que faltó Nemo)
+2026-10-10T15:31:00.000Z faramir calificó el running del sáb 10/10 11:30
+2026-10-10T15:31:00.000Z mace.windu calificó el padel del sáb 10/10 10:30
+2026-10-10T15:31:00.000Z montgomery.burns calificó el running del sáb 10/10 11:30
+2026-10-10T15:31:00.000Z steve.rogers calificó el futbol del sáb 10/10 10:30 (reportó que faltó Nemo)
+2026-10-10T15:31:00.000Z jon.snow calificó el futbol del sáb 10/10 10:30 (reportó que faltó Nemo)
+2026-10-10T15:31:00.000Z hermione.granger calificó el futbol del sáb 10/10 10:30 (reportó que faltó Nemo)
+2026-10-10T15:31:00.000Z doc.brown calificó el futbol del sáb 10/10 10:30 (reportó que faltó Nemo)
+2026-10-10T15:31:00.000Z davy.jones calificó el running del sáb 10/10 11:30
+2026-10-10T15:31:00.000Z davy.jones calificó el running del sáb 10/10 11:30
+2026-10-10T15:31:00.000Z lois.lane calificó el futbol del sáb 10/10 10:30 (reportó que faltó Nemo)
+2026-10-10T15:31:00.000Z hector.barbossa calificó el running del sáb 10/10 11:30
+2026-10-10T21:21:00.000Z gimli se bajó a último momento del futbol del sáb 10/10 19:00
+2026-10-10T21:21:00.000Z gimli se bajó a último momento del futbol del sáb 10/10 20:00

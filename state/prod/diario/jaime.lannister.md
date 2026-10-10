@@ -1,8 +1,12 @@
-- 2026-10-03 15:40 · organizó un tenis INTERMEDIATE para el vie 09/10 22:30 en Campus Austral · Canchas
-- 2026-10-03 15:40 · pidió unirse al running de Faramir del dom 04/10 11:30 en Parque Pilar · Circuito
-- 2026-10-03 18:23 · aceptó a Ron Weasley en su tenis del vie 09/10 22:30
-- 2026-10-03 18:24 · pidió unirse al running de Qui-Gon Jinn del mié 07/10 19:00 en Parque Pilar · Circuito
-- 2026-10-03 21:27 · pidió unirse al tenis de Hermione Granger del dom 04/10 10:00 en Club Pilar · Cancha 2
-- 2026-10-05 21:49 · pidió unirse al running de Fred Weasley del mar 06/10 19:00 en Parque Pilar · Circuito
-- 2026-10-06 00:28 · pidió unirse al tenis de Hermione Granger del dom 11/10 09:00 en Club Pilar · Cancha 2
-- 2026-10-07 09:39 · pidió unirse al running de Éowyn del vie 09/10 20:00 en Campus Austral · Canchas
+- 2026-10-03 18:40 · organizó un tenis INTERMEDIATE para el vie 09/10 20:30 en Campus Austral · Canchas
+- 2026-10-03 21:15 · pidió unirse al tenis de Hermione Granger del dom 04/10 10:00 en Campus Austral · Canchas
+- 2026-10-04 00:39 · aceptó a Elrond en su tenis del vie 09/10 20:30
+- 2026-10-04 06:39 · aceptó a Ron Weasley en su tenis del vie 09/10 20:30
+- 2026-10-04 06:40 · pidió unirse al running de Faramir del sáb 10/10 11:30 en Parque Pilar · Circuito
+- 2026-10-04 18:41 · pidió unirse al tenis de Sam Gamyi del mié 07/10 20:00 en River Courts · Cancha 2
+- 2026-10-06 06:40 · aceptó a Boromir en su tenis del vie 09/10 20:30
+- 2026-10-06 06:41 · pidió unirse al running de Faramir del dom 11/10 09:00 en Campus Austral · Canchas
+- 2026-10-07 12:50 · pidió unirse al running de Molly Weasley del dom 11/10 09:00 en Bosques de Palermo · Lago
+- 2026-10-08 09:51 · pidió unirse al running de Héctor Barbossa del sáb 10/10 11:30 en Parque Pilar · Circuito
+- 2026-10-09 06:47 · pidió unirse al running de Molly Weasley del sáb 10/10 10:00 en Campus Austral · Canchas
+- 2026-10-10 09:48 · se bajó a último momento del running del sáb 10/10 11:30

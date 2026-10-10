@@ -1,21 +1,28 @@
-- 2026-10-01 15:21 · pidió unirse al futbol de Fred Weasley del mar 06/10 21:00 en Campus Austral · Canchas
-- 2026-10-01 18:24 · pidió unirse al futbol de Elrond del mié 07/10 21:00 en Fútbol 5 Nordelta
-- 2026-10-01 21:19 · pidió unirse al futbol de Elrond del lun 05/10 21:00 en Fútbol 5 Nordelta
-- 2026-10-02 03:54 · pidió unirse al padel de Faramir del dom 04/10 09:00 en Club Pilar · Cancha 2
-- 2026-10-02 09:33 · pidió unirse al futbol de Mace Windu del mar 06/10 21:30 en Fútbol 5 Nordelta
-- 2026-10-02 18:26 · pidió unirse al padel de Sam Gamyi del lun 05/10 22:00 en Club Belgrano · Gimnasio
-- 2026-10-03 00:17 · pidió unirse al futbol de Steve Rogers del lun 05/10 22:30 en Club Pilar · Cancha 2
-- 2026-10-03 12:33 · pidió unirse al futbol de Steve Rogers del dom 04/10 19:00 en Campus Austral · Canchas
-- 2026-10-04 03:16 · pidió unirse al futbol de Sam Gamyi del lun 05/10 21:00 en River Courts · Cancha 2
-- 2026-10-04 09:14 · calificó el padel del dom 04/10 09:00
-- 2026-10-04 09:16 · pidió unirse al padel de Faramir del sáb 10/10 09:30 en Club Pilar · Cancha 2
-- 2026-10-04 18:52 · pidió unirse al futbol de Hermione Granger del sáb 10/10 10:00 en Club Pilar · Cancha 2
-- 2026-10-04 21:38 · calificó el futbol del dom 04/10 19:00
-- 2026-10-04 21:41 · pidió unirse al futbol de Nemo del sáb 10/10 09:00 en Campus Austral · Canchas
-- 2026-10-05 21:47 · calificó el futbol del lun 05/10 21:00 (reportó que faltó Gimli)
-- 2026-10-05 21:53 · pidió unirse al futbol de Steve Rogers del mar 06/10 22:30 en Club Pilar · Cancha 2
-- 2026-10-06 21:43 · calificó el futbol del mar 06/10 21:00
-- 2026-10-06 21:43 · calificó el futbol del mar 06/10 21:30 (reportó que faltó Fred Weasley)
-- 2026-10-06 21:47 · pidió unirse al futbol de Steve Rogers del lun 12/10 22:30 en Campus Austral · Canchas
-- 2026-10-08 18:33 · pidió unirse al fútbol ADVANCED del sábado en Club Pilar (juega para ganar)
-- 2026-10-09 10:13 · leyó que Steve lo aceptó en el fútbol ADVANCED del sábado; nada más
+- 2026-10-01 18:33 · pidió unirse al futbol de Steve Rogers del sáb 03/10 10:30 en Club Pilar · Cancha 2
+- 2026-10-02 12:21 · pidió unirse al padel de Faramir del dom 04/10 09:00 en Club Pilar · Cancha 2
+- 2026-10-03 12:38 · calificó el futbol del sáb 03/10 10:30
+- 2026-10-03 12:41 · pidió unirse al futbol de Nemo del mié 07/10 22:30 en Club Pilar · Cancha 2
+- 2026-10-03 18:38 · pidió unirse al futbol de Fred Weasley del mié 07/10 20:00 en Campus Austral · Canchas
+- 2026-10-04 06:43 · organizó un futbol BEGINNER para el jue 08/10 21:00 en Campus Austral · Canchas
+- 2026-10-04 15:14 · aceptó a Sam Gamyi en su futbol del jue 08/10 21:00
+- 2026-10-04 15:14 · aceptó a Bellatrix Lestrange en su futbol del jue 08/10 21:00
+- 2026-10-04 15:14 · pidió unirse al futbol de Steve Rogers del lun 05/10 21:00 en Campus Austral · Canchas
+- 2026-10-04 18:37 · aceptó a Nemo en su futbol del jue 08/10 21:00
+- 2026-10-04 18:37 · aceptó a Pippin Tuk en su futbol del jue 08/10 21:00
+- 2026-10-04 18:39 · pidió unirse al futbol de Pippin Tuk del sáb 10/10 19:00 en Campus Austral · Canchas
+- 2026-10-05 09:45 · aceptó a Doc Brown en su futbol del jue 08/10 21:00
+- 2026-10-05 09:45 · pidió unirse al futbol de Doc Brown del mié 07/10 21:00 en Campus Austral · Canchas
+- 2026-10-06 03:45 · aceptó a Elrond en su futbol del jue 08/10 21:00
+- 2026-10-06 03:46 · pidió unirse al futbol de Steve Rogers del jue 08/10 19:00 en Club Pilar · Cancha 2
+- 2026-10-06 09:28 · aceptó a Steve Rogers en su futbol del jue 08/10 21:00
+- 2026-10-07 00:10 · aceptó a Gimli en su futbol del jue 08/10 21:00
+- 2026-10-07 00:11 · pidió unirse al padel de Éowyn del mié 07/10 22:30 en Club Pilar · Cancha 2
+- 2026-10-07 06:30 · rechazó a Fred Weasley en su futbol del jue 08/10 21:00
+- 2026-10-07 06:30 · pidió unirse al futbol de Steve Rogers del sáb 10/10 10:30 en Campus Austral · Canchas
+- 2026-10-07 09:17 · aceptó a Lois Lane en su futbol del jue 08/10 21:00
+- 2026-10-07 09:17 · pidió unirse al futbol de Lois Lane del sáb 10/10 21:00 en Club Pilar · Cancha 2
+- 2026-10-07 18:19 · se bajó a último momento del futbol del mié 07/10 20:00
+- 2026-10-07 21:50 · calificó el futbol del mié 07/10 21:00
+- 2026-10-08 21:31 · calificó el futbol del jue 08/10 21:00
+- 2026-10-08 21:31 · calificó el futbol del jue 08/10 19:00
+- 2026-10-10 12:31 · calificó el futbol del sáb 10/10 10:30 (reportó que faltó Nemo)

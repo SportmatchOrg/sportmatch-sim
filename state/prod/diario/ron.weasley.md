@@ -1,12 +1,13 @@
-- 2026-09-30 21:52 · pidió unirse al tenis de Elrond del sáb 03/10 10:30 en Tigre Pádel Club
-- 2026-10-03 00:50 · pidió unirse al basquet de Galadriel del mar 06/10 19:00 en Club Belgrano · Gimnasio
-- 2026-10-03 12:22 · calificó el tenis del sáb 03/10 10:30
-- 2026-10-03 15:41 · pidió unirse al tenis de Jaime Lannister del vie 09/10 22:30 en Campus Austral · Canchas
-- 2026-10-04 03:32 · pidió unirse al tenis de Elrond del sáb 10/10 22:30 en Tigre Pádel Club
-- 2026-10-04 18:30 · pidió unirse al basquet de Milhouse Van Houten del lun 05/10 19:00 en Polideportivo Del Viso
-- 2026-10-05 12:27 · pidió unirse al tenis de Hermione Granger del dom 11/10 09:00 en Club Pilar · Cancha 2
-- 2026-10-05 21:42 · calificó el basquet del lun 05/10 19:00 (reportó que faltó Galadriel)
-- 2026-10-06 21:12 · calificó el basquet del mar 06/10 19:00
-- 2026-10-08 18:51 · miró partidos de básquet y tenis; nada que le cierre temprano
-- 2026-10-09 10:15 · miró partidos de básquet y tenis, nada temprano
-- 2026-10-10 06:49 · calificó el partido jugado; miró partidos pero nada temprano le cierra
+- 2026-10-01 12:24 · pidió unirse al tenis de Elrond del mié 07/10 22:00 en Tigre Pádel Club
+- 2026-10-01 21:43 · pidió unirse al basquet de Galadriel del lun 05/10 20:00 en Club Belgrano · Gimnasio
+- 2026-10-02 21:46 · pidió unirse al tenis de Hermione Granger del dom 04/10 10:00 en Club Pilar · Cancha 2
+- 2026-10-03 12:45 · pidió unirse al tenis de Hermione Granger del dom 04/10 10:00 en Campus Austral · Canchas
+- 2026-10-04 03:53 · pidió unirse al tenis de Jaime Lannister del vie 09/10 20:30 en Campus Austral · Canchas
+- 2026-10-04 12:21 · calificó el tenis del dom 04/10 10:00
+- 2026-10-04 12:21 · calificó el tenis del dom 04/10 10:00 (reportó que faltó Jaime Lannister)
+- 2026-10-07 15:37 · pidió unirse al basquet de Harley Quinn del jue 08/10 20:00 en Campus Austral · Canchas
+- 2026-10-08 00:45 · calificó el tenis del mié 07/10 22:00
+- 2026-10-08 00:45 · pidió unirse al tenis de Albus Dumbledore del jue 08/10 22:00 en Tigre Pádel Club
+- 2026-10-08 21:31 · calificó el basquet del jue 08/10 20:00
+- 2026-10-09 12:15 · pidió unirse al tenis de Albus Dumbledore del jue 15/10 22:00 en Tigre Pádel Club
+- 2026-10-09 18:45 · se bajó a último momento del tenis del vie 09/10 20:30

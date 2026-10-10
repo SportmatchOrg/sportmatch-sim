@@ -1,6 +1,7 @@
-- 2026-10-05 00:52 · pidió unirse al futbol de Doc Brown del mar 06/10 19:00 en Polideportivo Del Viso
-- 2026-10-05 03:44 · pidió unirse al futbol de Hermione Granger del sáb 10/10 11:30 en Polideportivo Del Viso
-- 2026-10-06 00:26 · pidió unirse al futbol de Pippin Tuk del jue 08/10 20:00 en Campus Austral · Canchas
-- 2026-10-06 03:17 · pidió unirse al futbol de Elrond del dom 11/10 11:00 en Fútbol 5 Nordelta
-- 2026-10-09 03:10 · calificó el partido; no hay nada en CABA de fútbol para anotarse
-- 2026-10-09 17:09 · miró partidos, nada en CABA
+- 2026-10-04 18:43 · pidió unirse al futbol de Gimli del mar 06/10 20:00 en River Courts · Cancha 2
+- 2026-10-06 00:20 · pidió unirse al futbol de Pippin Tuk del sáb 10/10 19:00 en Campus Austral · Canchas
+- 2026-10-06 15:26 · pidió unirse al futbol de Steve Rogers del mar 06/10 20:30 en Polideportivo Del Viso
+- 2026-10-06 21:34 · calificó el futbol del mar 06/10 20:00
+- 2026-10-06 21:41 · pidió unirse al futbol de Padmé Amidala del lun 12/10 20:00 en Club Pilar · Cancha 2
+- 2026-10-09 12:14 · pidió unirse al futbol de Elrond del vie 09/10 19:30 en Fútbol 5 Nordelta
+- 2026-10-09 21:50 · pidió unirse al futbol de Steve Rogers del mar 13/10 19:00 en Club Pilar · Cancha 2

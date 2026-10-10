@@ -1,10 +1,4 @@
-- 2026-10-01 15:23 · pidió unirse al running de Fred Weasley del mar 06/10 19:00 en Parque Pilar · Circuito
-- 2026-10-01 18:50 · pidió unirse al running de Faramir del dom 04/10 11:30 en Parque Pilar · Circuito
-- 2026-10-03 12:24 · pidió unirse al running de Faramir del dom 04/10 09:30 en Parque Pilar · Circuito
-- 2026-10-04 00:41 · pidió unirse al running de Éowyn del vie 09/10 20:00 en Campus Austral · Canchas
-- 2026-10-04 09:36 · calificó el running del dom 04/10 09:30 (reportó que faltó Fred Weasley)
-- 2026-10-04 09:40 · pidió unirse al running de Faramir del sáb 10/10 10:00 en Parque Pilar · Circuito
-- 2026-10-04 12:49 · calificó el running del dom 04/10 11:30
-- 2026-10-04 12:51 · pidió unirse al running de Qui-Gon Jinn del mié 07/10 19:00 en Parque Pilar · Circuito
-- 2026-10-08 19:08 · miró la app, nada nuevo
-- 2026-10-09 17:08 · se unió al running del domingo a la mañana en Campus Austral
+- 2026-10-04 00:46 · pidió unirse al running de Faramir del sáb 10/10 11:30 en Parque Pilar · Circuito
+- 2026-10-07 03:18 · pidió unirse al running de Faramir del dom 11/10 09:00 en Campus Austral · Canchas
+- 2026-10-07 06:37 · pidió unirse al running de Molly Weasley del dom 11/10 09:00 en Bosques de Palermo · Lago
+- 2026-10-10 12:31 · calificó el running del sáb 10/10 11:30

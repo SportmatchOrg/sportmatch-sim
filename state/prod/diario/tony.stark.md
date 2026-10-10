@@ -1,1 +1,13 @@
-- 2026-10-08 19:08 · miró la app temprano, nada por hacer
+- 2026-10-08 00:51 · organizó un padel INTERMEDIATE para el sáb 10/10 09:30 en Tigre Pádel Club
+- 2026-10-08 15:14 · aceptó a Bellatrix Lestrange en su padel del sáb 10/10 09:30
+- 2026-10-08 15:14 · aceptó a Qui-Gon Jinn en su padel del sáb 10/10 09:30
+- 2026-10-08 15:15 · pidió unirse al padel de Sam Gamyi del jue 08/10 21:00 en Club Belgrano · Gimnasio
+- 2026-10-09 15:34 · aceptó a Sam Gamyi en su padel del sáb 10/10 09:30
+- 2026-10-09 15:35 · organizó un padel ADVANCED para el sáb 10/10 09:30 en Tigre Pádel Club
+- 2026-10-09 15:35 · pidió unirse al padel de Bellatrix Lestrange del mar 13/10 22:30 en Club Belgrano · Gimnasio
+- 2026-10-10 00:43 · aceptó a Bellatrix Lestrange en su padel del sáb 10/10 09:30
+- 2026-10-10 00:43 · aceptó a Mace Windu en su padel del sáb 10/10 09:30
+- 2026-10-10 00:43 · aceptó a Qui-Gon Jinn en su padel del sáb 10/10 09:30
+- 2026-10-10 00:43 · rechazó a Yoda en su padel del sáb 10/10 09:30 (ya estaba lleno)
+- 2026-10-10 09:48 · calificó el padel del sáb 10/10 09:30
+- 2026-10-10 09:48 · calificó el padel del sáb 10/10 09:30

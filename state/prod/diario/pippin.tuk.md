@@ -1,28 +1,38 @@
-- 2026-09-30 18:27 · pidió unirse al futbol de Gimli del dom 04/10 09:00 en River Courts · Cancha 2
-- 2026-10-01 06:47 · pidió unirse al futbol de Elrond del sáb 03/10 11:00 en Fútbol 5 Nordelta
-- 2026-10-02 00:17 · pidió unirse al futbol de Steve Rogers del mié 07/10 22:00 en Club Pilar · Cancha 2
-- 2026-10-02 15:18 · pidió unirse al futbol de Steve Rogers del mar 06/10 22:00 en Campus Austral · Canchas
-- 2026-10-03 09:49 · se bajó a último momento del futbol del sáb 03/10 11:00
-- 2026-10-03 18:27 · pidió unirse al futbol de Mace Windu del jue 08/10 20:00 en Fútbol 5 Nordelta
-- 2026-10-04 09:36 · calificó el futbol del dom 04/10 09:00
-- 2026-10-04 09:37 · pidió unirse al futbol de Doc Brown del mar 06/10 19:00 en Polideportivo Del Viso
-- 2026-10-04 15:27 · pidió unirse al futbol de Hermione Granger del sáb 10/10 11:30 en Polideportivo Del Viso
-- 2026-10-05 18:44 · organizó un futbol INTERMEDIATE para el jue 08/10 20:00 en Campus Austral · Canchas
-- 2026-10-05 21:42 · aceptó a Doc Brown en su futbol del jue 08/10 20:00
-- 2026-10-05 21:42 · aceptó a Elrond en su futbol del jue 08/10 20:00
-- 2026-10-05 21:44 · pidió unirse al futbol de Elrond del dom 11/10 11:00 en Fútbol 5 Nordelta
-- 2026-10-06 00:22 · aceptó a Bellatrix Lestrange en su futbol del jue 08/10 20:00
-- 2026-10-06 00:22 · aceptó a Will Turner en su futbol del jue 08/10 20:00
-- 2026-10-06 03:13 · aceptó a Théoden en su futbol del jue 08/10 20:00
-- 2026-10-06 06:20 · aceptó a Jon Snow en su futbol del jue 08/10 20:00
-- 2026-10-06 09:14 · rechazó a Gimli en su futbol del jue 08/10 20:00
-- 2026-10-06 09:14 · aceptó a Fred Weasley en su futbol del jue 08/10 20:00
-- 2026-10-06 12:25 · aceptó a Obi-Wan Kenobi en su futbol del jue 08/10 20:00
-- 2026-10-06 15:10 · aceptó a Steve Rogers en su futbol del jue 08/10 20:00
-- 2026-10-06 21:12 · calificó el futbol del mar 06/10 19:00 (reportó que faltó Théoden)
-- 2026-10-07 00:12 · calificó el futbol del mar 06/10 22:00
-- 2026-10-07 06:40 · pidió unirse al futbol de Lois Lane del lun 12/10 20:00 en Campus Austral · Canchas
-- 2026-10-08 00:49 · calificó el futbol del mié 07/10 22:00 (reportó que faltó Gimli, Rubeus Hagrid)
-- 2026-10-08 18:51 · pidió unirse al fútbol del martes 13 en BACKYARD Pilar (nivel intermedio, a ver qué tal)
-- 2026-10-09 03:08 · calificó dos partidos (duro, como siempre) y pidió unirse al fútbol del sábado en Club Pilar
-- 2026-10-09 10:15 · pidió unirse al fútbol del martes en Club Pilar
+- 2026-10-01 00:49 · pidió unirse al futbol de Gimli del mar 06/10 20:00 en River Courts · Cancha 2
+- 2026-10-01 21:41 · pidió unirse al futbol de Steve Rogers del sáb 03/10 10:30 en Club Pilar · Cancha 2
+- 2026-10-03 00:19 · pidió unirse al futbol de Steve Rogers del mar 06/10 20:30 en Polideportivo Del Viso
+- 2026-10-03 09:31 · pidió unirse al futbol de Mace Windu del lun 05/10 19:30 en Fútbol 5 Nordelta
+- 2026-10-03 12:38 · calificó el futbol del sáb 03/10 10:30
+- 2026-10-03 12:38 · pidió unirse al futbol de Nemo del mié 07/10 22:30 en Club Pilar · Cancha 2
+- 2026-10-04 00:45 · organizó un futbol INTERMEDIATE para el sáb 10/10 19:00 en Campus Austral · Canchas
+- 2026-10-04 00:45 · pidió unirse al futbol de Fred Weasley del mié 07/10 20:00 en Campus Austral · Canchas
+- 2026-10-04 06:46 · pidió unirse al futbol de Steve Rogers del lun 05/10 21:00 en Campus Austral · Canchas
+- 2026-10-04 09:44 · aceptó a Bellatrix Lestrange en su futbol del sáb 10/10 19:00
+- 2026-10-04 12:21 · aceptó a Nemo en su futbol del sáb 10/10 19:00
+- 2026-10-04 18:37 · aceptó a Doc Brown en su futbol del sáb 10/10 19:00
+- 2026-10-04 18:37 · pidió unirse al futbol de Jon Snow del jue 08/10 21:00 en Campus Austral · Canchas
+- 2026-10-04 21:36 · aceptó a Jon Snow en su futbol del sáb 10/10 19:00
+- 2026-10-05 00:47 · aceptó a Fred Weasley en su futbol del sáb 10/10 19:00
+- 2026-10-05 03:25 · aceptó a Mace Windu en su futbol del sáb 10/10 19:00
+- 2026-10-05 06:45 · aceptó a Padmé Amidala en su futbol del sáb 10/10 19:00
+- 2026-10-05 15:22 · aceptó a Elrond en su futbol del sáb 10/10 19:00
+- 2026-10-05 21:12 · calificó el futbol del lun 05/10 19:30 (reportó que faltó Fred Weasley)
+- 2026-10-05 21:12 · calificó el futbol del lun 05/10 21:00
+- 2026-10-05 21:12 · aceptó a Sam Gamyi en su futbol del sáb 10/10 19:00
+- 2026-10-06 03:45 · aceptó a Théoden en su futbol del sáb 10/10 19:00
+- 2026-10-06 03:45 · aceptó a Gimli en su futbol del sáb 10/10 19:00
+- 2026-10-06 03:45 · pidió unirse al futbol de Steve Rogers del jue 08/10 19:00 en Club Pilar · Cancha 2
+- 2026-10-06 21:34 · calificó el futbol del mar 06/10 20:00
+- 2026-10-06 21:36 · pidió unirse al futbol de Elrond del vie 09/10 19:30 en Fútbol 5 Nordelta
+- 2026-10-07 12:48 · pidió unirse al futbol de Steve Rogers del sáb 10/10 10:30 en Campus Austral · Canchas
+- 2026-10-07 21:50 · calificó el futbol del mié 07/10 20:00
+- 2026-10-07 21:50 · pidió unirse al futbol de Padmé Amidala del lun 12/10 20:00 en Club Pilar · Cancha 2
+- 2026-10-08 00:45 · calificó el futbol del mié 07/10 22:30 (reportó que faltó Elrond)
+- 2026-10-08 00:46 · pidió unirse al futbol de Lois Lane del sáb 10/10 21:00 en Club Pilar · Cancha 2
+- 2026-10-08 21:31 · calificó el futbol del jue 08/10 21:00
+- 2026-10-08 21:31 · calificó el futbol del jue 08/10 19:00
+- 2026-10-08 21:33 · pidió unirse al futbol de Hermione Granger del dom 11/10 11:00 en Club Pilar · Cancha 2
+- 2026-10-09 12:13 · pidió unirse al futbol de Albus Dumbledore del sáb 10/10 20:00 en Fútbol 5 Nordelta
+- 2026-10-09 21:45 · calificó el futbol del vie 09/10 19:30 (reportó que faltó Gimli, Rubeus Hagrid)
+- 2026-10-09 21:45 · pidió unirse al futbol de Lois Lane del mié 14/10 20:00 en Campus Austral · Canchas
+- 2026-10-10 12:31 · calificó el futbol del sáb 10/10 10:30 (reportó que faltó Nemo)

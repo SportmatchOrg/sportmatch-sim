@@ -1,3 +1,16 @@
-- 2026-10-08 15:40 · armó fútbol ADVANCED el lunes 21 h en Club Pilar (después del trabajo)
-- 2026-10-08 19:07 · miró la app y leyó notificaciones, sin novedades
-- 2026-10-10 06:48 · miró la app, nada nuevo
+- 2026-10-08 09:49 · organizó un running ADVANCED para el sáb 10/10 11:30 en Parque Pilar · Circuito
+- 2026-10-08 09:49 · pidió unirse al futbol de Steve Rogers del jue 08/10 19:00 en Club Pilar · Cancha 2
+- 2026-10-08 12:17 · aceptó a Jaime Lannister en su running del sáb 10/10 11:30
+- 2026-10-08 15:14 · aceptó a Jack Sparrow en su running del sáb 10/10 11:30
+- 2026-10-08 18:25 · aceptó a Davy Jones en su running del sáb 10/10 11:30
+- 2026-10-08 21:31 · calificó el futbol del jue 08/10 19:00
+- 2026-10-09 00:46 · aceptó a Éowyn en su running del sáb 10/10 11:30
+- 2026-10-09 12:10 · rechazó a Fred Weasley en su running del sáb 10/10 11:30
+- 2026-10-09 12:10 · organizó un futbol ADVANCED para el mar 13/10 19:00 en Club Pilar · Cancha 2
+- 2026-10-09 15:34 · aceptó a Nemo en su futbol del mar 13/10 19:00
+- 2026-10-09 18:45 · aceptó a Arya Stark en su futbol del mar 13/10 19:00
+- 2026-10-09 18:45 · aceptó a Steve Rogers en su futbol del mar 13/10 19:00
+- 2026-10-09 18:45 · rechazó a Bellatrix Lestrange en su futbol del mar 13/10 19:00
+- 2026-10-09 21:45 · rechazó a Molly Weasley en su running del sáb 10/10 11:30
+- 2026-10-09 21:45 · rechazó a Rubeus Hagrid en su futbol del mar 13/10 19:00
+- 2026-10-10 12:31 · calificó el running del sáb 10/10 11:30

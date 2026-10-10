@@ -1,195 +1,129 @@
 {
-  "cmuxea1ur00ba01s4qehkgppd": {
+  "ckovienq4cff46c2gg679oob3": {
+    "organizador": "gimli",
+    "fecha": "2026-10-06T23:00:00.000Z",
+    "deporte": "FUTBOL",
+    "cupo": 11,
     "jugadores": [
+      "bellatrix.lestrange",
       "fred.weasley",
+      "rubeus.hagrid",
+      "elrond",
+      "mace.windu",
       "pippin.tuk",
-      "elrond"
+      "steve.rogers",
+      "sam.gamyi",
+      "theoden",
+      "doc.brown",
+      "padme.amidala"
     ],
     "pendientes": [],
-    "bajasSorteadas": false,
+    "bajasSorteadas": true,
     "asistencia": {
       "gimli": true,
+      "bellatrix.lestrange": true,
       "fred.weasley": true,
+      "rubeus.hagrid": true,
+      "elrond": true,
+      "mace.windu": true,
       "pippin.tuk": true,
-      "elrond": true
+      "steve.rogers": true,
+      "sam.gamyi": true,
+      "theoden": true,
+      "doc.brown": true,
+      "padme.amidala": true
     },
     "calificaran": [
       "gimli",
       "pippin.tuk",
-      "elrond"
+      "elrond",
+      "bellatrix.lestrange",
+      "mace.windu",
+      "steve.rogers",
+      "sam.gamyi",
+      "padme.amidala",
+      "theoden"
     ],
     "calificaron": [
       "gimli",
       "pippin.tuk",
-      "elrond"
+      "elrond",
+      "bellatrix.lestrange",
+      "mace.windu",
+      "steve.rogers",
+      "sam.gamyi",
+      "padme.amidala",
+      "theoden"
     ],
     "cancelado": false,
-    "organizador": "gimli",
-    "fecha": "2026-10-08T23:30:00.000Z",
-    "deporte": "FUTBOL",
-    "cupo": 10,
-    "cancelSorteado": true,
-    "cancelar": false,
-    "pendientesHumanos": 0,
-    "anotados": 3
+    "creado": "2026-09-30T18:19:40.000Z",
+    "cancelSorteado": false
   },
-  "cmuxjf6al00d601s4bz3z5bya": {
+  "cadqksbxy7dbwyab3xua96hhc": {
+    "organizador": "elrond",
+    "fecha": "2026-10-08T01:00:00.000Z",
+    "deporte": "TENIS",
+    "cupo": 1,
     "jugadores": [
       "ron.weasley"
     ],
     "pendientes": [],
-    "bajasSorteadas": false,
-    "asistencia": null,
-    "calificaran": [],
-    "calificaron": [],
-    "cancelado": false,
-    "organizador": "elrond",
-    "fecha": "2026-10-10T21:00:00.000Z",
-    "deporte": "TENIS",
-    "cupo": 4,
-    "pendientesHumanos": 0,
-    "anotados": 1
-  },
-  "cmuxjf8eb00d901s43adfk92w": {
-    "jugadores": [
-      "eowyn",
-      "sam.gamyi",
-      "dobby"
-    ],
-    "pendientes": [],
-    "bajasSorteadas": false,
-    "asistencia": {
-      "bellatrix.lestrange": true,
-      "eowyn": true,
-      "sam.gamyi": true,
-      "dobby": true
-    },
-    "calificaran": [
-      "bellatrix.lestrange",
-      "sam.gamyi"
-    ],
-    "calificaron": [
-      "bellatrix.lestrange",
-      "sam.gamyi"
-    ],
-    "cancelado": false,
-    "organizador": "bellatrix.lestrange",
-    "fecha": "2026-10-09T23:00:00.000Z",
-    "deporte": "PADEL",
-    "cupo": 4,
-    "pendientesHumanos": 0,
-    "anotados": 3
-  },
-  "cmuyedmrm00ef01s4i53e7753": {
-    "jugadores": [
-      "bellatrix.lestrange",
-      "jon.snow"
-    ],
-    "pendientes": [],
-    "bajasSorteadas": false,
-    "asistencia": null,
-    "calificaran": [],
-    "calificaron": [],
-    "cancelado": false,
-    "organizador": "steve.rogers",
-    "fecha": "2026-10-10T23:00:00.000Z",
-    "deporte": "FUTBOL",
-    "cupo": 10,
-    "pendientesHumanos": 0,
-    "anotados": 3,
-    "cancelSorteado": true,
-    "cancelar": false
-  },
-  "cmuykg6rc00fa01s43ihz3ef6": {
-    "jugadores": [
-      "mace.windu",
-      "bellatrix.lestrange",
-      "theoden",
-      "obiwan.kenobi"
-    ],
-    "pendientes": [],
-    "bajasSorteadas": false,
+    "bajasSorteadas": true,
     "asistencia": {
       "elrond": true,
-      "mace.windu": true,
-      "bellatrix.lestrange": true,
-      "theoden": true,
-      "obiwan.kenobi": true
+      "ron.weasley": true
     },
     "calificaran": [
-      "elrond",
-      "mace.windu",
-      "bellatrix.lestrange",
-      "obiwan.kenobi"
+      "ron.weasley",
+      "elrond"
     ],
     "calificaron": [
-      "elrond",
-      "bellatrix.lestrange",
-      "mace.windu",
-      "obiwan.kenobi"
+      "ron.weasley",
+      "elrond"
     ],
     "cancelado": false,
-    "organizador": "elrond",
-    "fecha": "2026-10-09T23:30:00.000Z",
-    "deporte": "FUTBOL",
-    "cupo": 10,
-    "pendientesHumanos": 0,
-    "anotados": 4
+    "creado": "2026-10-01T06:50:20.000Z",
+    "cancelSorteado": false
   },
-  "cmuykguqj00fr01s4wy2wxijc": {
-    "jugadores": [
-      "yoda",
-      "sam.gamyi",
-      "eowyn"
-    ],
-    "pendientes": [],
-    "bajasSorteadas": false,
-    "asistencia": null,
-    "calificaran": [],
-    "calificaron": [],
-    "cancelado": false,
-    "organizador": "bellatrix.lestrange",
-    "fecha": "2026-10-11T14:00:00.000Z",
-    "deporte": "PADEL",
-    "cupo": 4,
-    "pendientesHumanos": 0,
-    "anotados": 3
-  },
-  "cmuyma6ku00h701s4i5bxb1xj": {
-    "jugadores": [
-      "chewbacca",
-      "quigon.jinn"
-    ],
-    "pendientes": [],
-    "bajasSorteadas": false,
-    "asistencia": {
-      "mace.windu": true,
-      "chewbacca": true,
-      "quigon.jinn": true
-    },
-    "calificaran": [
-      "mace.windu",
-      "quigon.jinn"
-    ],
-    "calificaron": [
-      "quigon.jinn",
-      "mace.windu"
-    ],
-    "cancelado": false,
+  "cmipgneqysfqpo0l7nwdo2eb2": {
     "organizador": "mace.windu",
-    "fecha": "2026-10-09T23:00:00.000Z",
-    "deporte": "PADEL",
-    "cupo": 4,
-    "pendientesHumanos": 1,
-    "anotados": 3
-  },
-  "cbw3a1lkzdikovienq4cff46c": {
-    "organizador": "bellatrix.lestrange",
-    "fecha": "2026-10-01T22:00:00.000Z",
+    "fecha": "2026-10-05T00:00:00.000Z",
     "deporte": "PADEL",
     "cupo": 3,
     "jugadores": [
       "yoda",
+      "bellatrix.lestrange",
+      "quigon.jinn"
+    ],
+    "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": {
+      "mace.windu": true,
+      "yoda": true,
+      "bellatrix.lestrange": true,
+      "quigon.jinn": true
+    },
+    "calificaran": [
+      "quigon.jinn",
+      "bellatrix.lestrange",
+      "mace.windu"
+    ],
+    "calificaron": [
+      "quigon.jinn",
+      "bellatrix.lestrange",
+      "mace.windu"
+    ],
+    "cancelado": false,
+    "creado": "2026-10-01T09:18:20.000Z",
+    "cancelSorteado": false
+  },
+  "cz78xm6df8lqaam2yq987dn72": {
+    "organizador": "bellatrix.lestrange",
+    "fecha": "2026-10-06T23:00:00.000Z",
+    "deporte": "PADEL",
+    "cupo": 3,
+    "jugadores": [
+      "dobby",
       "quigon.jinn",
       "eowyn"
     ],
@@ -197,241 +131,61 @@
     "bajasSorteadas": true,
     "asistencia": {
       "bellatrix.lestrange": true,
-      "yoda": true,
+      "dobby": true,
       "quigon.jinn": true,
       "eowyn": true
     },
     "calificaran": [
       "eowyn",
-      "yoda",
       "quigon.jinn",
       "bellatrix.lestrange"
     ],
     "calificaron": [
       "eowyn",
-      "yoda",
       "quigon.jinn",
       "bellatrix.lestrange"
     ],
     "cancelado": false,
-    "creado": "2026-09-30T21:46:00.000Z",
-    "cancelSorteado": true
-  },
-  "c37vxvp6aezkbyhfisr6z53c3": {
-    "organizador": "elrond",
-    "fecha": "2026-10-06T00:00:00.000Z",
-    "deporte": "FUTBOL",
-    "cupo": 9,
-    "jugadores": [
-      "fred.weasley",
-      "gimli",
-      "rubeus.hagrid",
-      "bellatrix.lestrange",
-      "mace.windu",
-      "jon.snow",
-      "theoden"
-    ],
-    "pendientes": [],
-    "bajasSorteadas": false,
-    "asistencia": {
-      "elrond": true,
-      "fred.weasley": true,
-      "gimli": false,
-      "rubeus.hagrid": true,
-      "bellatrix.lestrange": true,
-      "mace.windu": true,
-      "jon.snow": true,
-      "theoden": true
-    },
-    "calificaran": [
-      "fred.weasley",
-      "rubeus.hagrid",
-      "elrond",
-      "bellatrix.lestrange",
-      "mace.windu",
-      "jon.snow"
-    ],
-    "calificaron": [
-      "fred.weasley",
-      "rubeus.hagrid",
-      "elrond",
-      "bellatrix.lestrange",
-      "mace.windu",
-      "jon.snow"
-    ],
-    "cancelado": false,
-    "creado": "2026-09-30T21:46:40.000Z",
+    "creado": "2026-10-01T12:21:40.000Z",
     "cancelSorteado": false
   },
-  "czdcb5khurpb1eebir3h9uad1": {
-    "organizador": "fred.weasley",
-    "fecha": "2026-10-07T00:00:00.000Z",
-    "deporte": "FUTBOL",
-    "cupo": 9,
-    "jugadores": [
-      "bellatrix.lestrange",
-      "gimli",
-      "pippin.tuk",
-      "rubeus.hagrid",
-      "jon.snow",
-      "elrond",
-      "mace.windu",
-      "hermione.granger",
-      "doc.brown"
-    ],
-    "pendientes": [],
-    "bajasSorteadas": false,
-    "asistencia": {
-      "fred.weasley": true,
-      "bellatrix.lestrange": true,
-      "gimli": true,
-      "pippin.tuk": true,
-      "rubeus.hagrid": true,
-      "jon.snow": true,
-      "elrond": true,
-      "mace.windu": true,
-      "hermione.granger": true,
-      "doc.brown": true
-    },
-    "calificaran": [
-      "gimli",
-      "pippin.tuk",
-      "rubeus.hagrid",
-      "bellatrix.lestrange",
-      "jon.snow",
-      "doc.brown"
-    ],
-    "calificaron": [
-      "gimli",
-      "pippin.tuk",
-      "rubeus.hagrid",
-      "bellatrix.lestrange",
-      "jon.snow",
-      "doc.brown"
-    ],
-    "cancelado": false,
-    "creado": "2026-10-01T03:48:20.000Z",
-    "cancelSorteado": false
-  },
-  "c17ji1ead5el6ns7p05y2drbj": {
-    "organizador": "faramir",
-    "fecha": "2026-10-04T12:30:00.000Z",
-    "deporte": "PADEL",
-    "cupo": 3,
-    "jugadores": [
-      "eowyn",
-      "bellatrix.lestrange",
-      "yoda"
-    ],
-    "pendientes": [],
-    "bajasSorteadas": true,
-    "asistencia": {
-      "faramir": true,
-      "eowyn": true,
-      "bellatrix.lestrange": true,
-      "yoda": true
-    },
-    "calificaran": [
-      "eowyn",
-      "yoda",
-      "bellatrix.lestrange",
-      "faramir"
-    ],
-    "calificaron": [
-      "eowyn",
-      "yoda",
-      "bellatrix.lestrange",
-      "faramir"
-    ],
-    "cancelado": false,
-    "creado": "2026-10-01T09:17:00.000Z",
-    "cancelSorteado": false
-  },
-  "c2oiv17ue1lek0k7i0fljfjfc": {
-    "organizador": "mace.windu",
-    "fecha": "2026-10-07T00:30:00.000Z",
+  "cead5el6ns7p05y2drbjuxy8c": {
+    "organizador": "steve.rogers",
+    "fecha": "2026-10-03T13:30:00.000Z",
     "deporte": "FUTBOL",
     "cupo": 11,
     "jugadores": [
-      "gimli",
       "bellatrix.lestrange",
-      "fred.weasley",
-      "pippin.tuk",
       "rubeus.hagrid",
-      "elrond",
       "jon.snow",
+      "pippin.tuk",
+      "elrond",
+      "mace.windu",
+      "fred.weasley",
       "sam.gamyi"
     ],
-    "pendientes": [],
-    "bajasSorteadas": false,
+    "pendientes": [
+      "gimli"
+    ],
+    "bajasSorteadas": true,
     "asistencia": {
-      "mace.windu": true,
-      "gimli": true,
+      "steve.rogers": true,
       "bellatrix.lestrange": true,
-      "fred.weasley": false,
-      "pippin.tuk": true,
       "rubeus.hagrid": true,
-      "elrond": true,
       "jon.snow": true,
+      "pippin.tuk": true,
+      "elrond": true,
+      "mace.windu": true,
+      "fred.weasley": true,
       "sam.gamyi": true
     },
     "calificaran": [
       "pippin.tuk",
-      "elrond",
-      "bellatrix.lestrange",
-      "mace.windu",
-      "jon.snow",
-      "sam.gamyi"
-    ],
-    "calificaron": [
-      "pippin.tuk",
-      "elrond",
-      "bellatrix.lestrange",
-      "mace.windu",
-      "jon.snow",
-      "sam.gamyi"
-    ],
-    "cancelado": false,
-    "creado": "2026-10-01T12:42:20.000Z",
-    "cancelSorteado": false
-  },
-  "c8aynrekypxiqkeh5m41mmkrh": {
-    "organizador": "elrond",
-    "fecha": "2026-10-08T00:00:00.000Z",
-    "deporte": "FUTBOL",
-    "cupo": 9,
-    "jugadores": [
-      "mace.windu",
-      "bellatrix.lestrange",
-      "gimli",
-      "jon.snow",
-      "pippin.tuk",
-      "rubeus.hagrid",
-      "nemo",
-      "steve.rogers",
-      "obiwan.kenobi"
-    ],
-    "pendientes": [],
-    "bajasSorteadas": false,
-    "asistencia": {
-      "elrond": true,
-      "mace.windu": true,
-      "bellatrix.lestrange": true,
-      "gimli": true,
-      "jon.snow": true,
-      "pippin.tuk": true,
-      "rubeus.hagrid": true,
-      "nemo": true,
-      "steve.rogers": true,
-      "obiwan.kenobi": true
-    },
-    "calificaran": [
-      "pippin.tuk",
       "rubeus.hagrid",
       "elrond",
       "bellatrix.lestrange",
       "mace.windu",
-      "obiwan.kenobi"
+      "jon.snow"
     ],
     "calificaron": [
       "pippin.tuk",
@@ -439,417 +193,1271 @@
       "elrond",
       "bellatrix.lestrange",
       "mace.windu",
-      "obiwan.kenobi"
+      "jon.snow"
     ],
     "cancelado": false,
-    "creado": "2026-10-01T12:43:40.000Z",
+    "creado": "2026-10-01T12:25:00.000Z",
     "cancelSorteado": false
   },
-  "cvv3j40nz25thnu2e4dseerrr": {
+  "c5vpvgua3rr5w75q2jasol2nh": {
     "organizador": "galadriel",
-    "fecha": "2026-10-07T01:30:00.000Z",
+    "fecha": "2026-10-05T23:00:00.000Z",
     "deporte": "BASQUET",
     "cupo": 5,
     "jugadores": [
       "ron.weasley",
-      "harley.quinn",
-      "davy.jones"
+      "eowyn",
+      "milhouse.van.houten"
     ],
     "pendientes": [],
     "bajasSorteadas": true,
     "asistencia": {
       "galadriel": true,
       "ron.weasley": true,
-      "harley.quinn": true,
-      "davy.jones": false
+      "eowyn": true,
+      "milhouse.van.houten": true
     },
     "calificaran": [
-      "harley.quinn"
+      "eowyn",
+      "milhouse.van.houten"
     ],
     "calificaron": [
-      "harley.quinn"
+      "eowyn",
+      "milhouse.van.houten"
     ],
     "cancelado": false,
-    "creado": "2026-10-02T00:18:00.000Z",
+    "creado": "2026-10-02T00:43:00.000Z",
     "cancelSorteado": false
   },
-  "cw1fz9uq1h8tbnn60qb7gm7w9": {
-    "organizador": "mace.windu",
-    "fecha": "2026-10-03T23:00:00.000Z",
+  "csirc7h8ueuk37dfiazbvyro7": {
+    "organizador": "eowyn",
+    "fecha": "2026-10-05T01:00:00.000Z",
     "deporte": "PADEL",
     "cupo": 3,
     "jugadores": [
+      "quigon.jinn",
       "bellatrix.lestrange",
-      "faramir",
-      "eowyn"
+      "dobby"
+    ],
+    "pendientes": [],
+    "bajasSorteadas": true,
+    "asistencia": {
+      "eowyn": true,
+      "quigon.jinn": true,
+      "bellatrix.lestrange": true,
+      "dobby": false
+    },
+    "calificaran": [
+      "quigon.jinn",
+      "bellatrix.lestrange"
+    ],
+    "calificaron": [
+      "quigon.jinn",
+      "bellatrix.lestrange"
+    ],
+    "cancelado": false,
+    "creado": "2026-10-02T03:39:20.000Z",
+    "cancelSorteado": false
+  },
+  "ce9x4pmiphf81v6594kwbloes": {
+    "organizador": "mace.windu",
+    "fecha": "2026-10-05T22:30:00.000Z",
+    "deporte": "FUTBOL",
+    "cupo": 11,
+    "jugadores": [
+      "bellatrix.lestrange",
+      "elrond",
+      "fred.weasley",
+      "pippin.tuk",
+      "doc.brown"
     ],
     "pendientes": [],
     "bajasSorteadas": true,
     "asistencia": {
       "mace.windu": true,
       "bellatrix.lestrange": true,
-      "faramir": true,
-      "eowyn": true
+      "elrond": true,
+      "fred.weasley": false,
+      "pippin.tuk": true,
+      "doc.brown": true
     },
     "calificaran": [
-      "eowyn",
+      "pippin.tuk",
+      "elrond",
       "bellatrix.lestrange",
-      "faramir",
+      "mace.windu",
+      "doc.brown"
+    ],
+    "calificaron": [
+      "pippin.tuk",
+      "elrond",
+      "bellatrix.lestrange",
+      "mace.windu",
+      "doc.brown"
+    ],
+    "cancelado": false,
+    "creado": "2026-10-02T06:30:00.000Z",
+    "cancelSorteado": true
+  },
+  "cox6syazlrbj42cqqqc45jb76": {
+    "organizador": "fred.weasley",
+    "fecha": "2026-10-07T23:00:00.000Z",
+    "deporte": "FUTBOL",
+    "cupo": 9,
+    "jugadores": [
+      "gimli",
+      "steve.rogers",
+      "rubeus.hagrid",
+      "bellatrix.lestrange",
+      "hermione.granger",
+      "pippin.tuk",
+      "nemo"
+    ],
+    "pendientes": [],
+    "bajasSorteadas": true,
+    "asistencia": {
+      "fred.weasley": true,
+      "gimli": true,
+      "steve.rogers": true,
+      "rubeus.hagrid": true,
+      "bellatrix.lestrange": true,
+      "hermione.granger": true,
+      "pippin.tuk": true,
+      "nemo": true
+    },
+    "calificaran": [
+      "pippin.tuk",
+      "rubeus.hagrid",
+      "bellatrix.lestrange",
+      "nemo"
+    ],
+    "calificaron": [
+      "pippin.tuk",
+      "rubeus.hagrid",
+      "bellatrix.lestrange",
+      "nemo"
+    ],
+    "cancelado": false,
+    "creado": "2026-10-02T09:37:20.000Z",
+    "cancelSorteado": false
+  },
+  "cgqppinc979gynr1lrr4jf0r3": {
+    "organizador": "steve.rogers",
+    "fecha": "2026-10-06T23:30:00.000Z",
+    "deporte": "FUTBOL",
+    "cupo": 11,
+    "jugadores": [
+      "fred.weasley",
+      "gimli",
+      "pippin.tuk",
+      "nemo",
+      "doc.brown",
+      "mace.windu",
+      "theoden"
+    ],
+    "pendientes": [],
+    "bajasSorteadas": true,
+    "asistencia": {
+      "steve.rogers": true,
+      "fred.weasley": true,
+      "gimli": true,
+      "pippin.tuk": true,
+      "nemo": true,
+      "doc.brown": true,
+      "mace.windu": true,
+      "theoden": true
+    },
+    "calificaran": [
+      "gimli",
       "mace.windu"
     ],
     "calificaron": [
-      "eowyn",
-      "bellatrix.lestrange",
-      "faramir",
+      "gimli",
       "mace.windu"
     ],
     "cancelado": false,
-    "creado": "2026-10-02T06:51:20.000Z",
+    "creado": "2026-10-02T09:38:00.000Z",
     "cancelSorteado": false
   },
-  "c18ttlrdao2vp5f55uibps4ue": {
+  "crp3pfr7w1fz9uq1h8tbnn60q": {
     "organizador": "faramir",
     "fecha": "2026-10-04T12:00:00.000Z",
     "deporte": "PADEL",
     "cupo": 3,
     "jugadores": [
+      "quigon.jinn",
       "jon.snow",
-      "bellatrix.lestrange",
       "eowyn"
     ],
     "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": {
       "faramir": true,
+      "quigon.jinn": false,
       "jon.snow": true,
-      "bellatrix.lestrange": true,
       "eowyn": true
     },
     "calificaran": [
-      "bellatrix.lestrange",
-      "faramir",
-      "jon.snow"
+      "eowyn",
+      "faramir"
     ],
     "calificaron": [
-      "bellatrix.lestrange",
-      "faramir",
-      "jon.snow"
+      "eowyn",
+      "faramir"
     ],
     "cancelado": false,
-    "creado": "2026-10-02T06:54:00.000Z",
+    "creado": "2026-10-02T12:28:40.000Z",
     "cancelSorteado": false
   },
-  "cbf7tb6dk43995iwxnf7ttclt": {
+  "c50rbvplaqdg92c58blw5s2ez": {
     "organizador": "sam.gamyi",
-    "fecha": "2026-10-06T01:00:00.000Z",
+    "fecha": "2026-10-03T12:00:00.000Z",
     "deporte": "PADEL",
     "cupo": 3,
     "jugadores": [
-      "quigon.jinn",
+      "bellatrix.lestrange",
+      "eowyn",
+      "yoda"
+    ],
+    "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": {
+      "sam.gamyi": true,
+      "bellatrix.lestrange": true,
+      "eowyn": true,
+      "yoda": true
+    },
+    "calificaran": [
+      "eowyn",
+      "bellatrix.lestrange",
+      "sam.gamyi"
+    ],
+    "calificaron": [
+      "eowyn",
+      "bellatrix.lestrange",
+      "sam.gamyi"
+    ],
+    "cancelado": false,
+    "creado": "2026-10-02T21:18:00.000Z",
+    "cancelSorteado": true
+  },
+  "cjk9z5hz9ehrim228h1f7wguc": {
+    "organizador": "hermione.granger",
+    "fecha": "2026-10-04T13:00:00.000Z",
+    "deporte": "TENIS",
+    "cupo": 1,
+    "jugadores": [
+      "ron.weasley"
+    ],
+    "pendientes": [],
+    "bajasSorteadas": true,
+    "asistencia": {
+      "hermione.granger": true,
+      "ron.weasley": true
+    },
+    "calificaran": [
+      "ron.weasley",
+      "hermione.granger"
+    ],
+    "calificaron": [
+      "ron.weasley",
+      "hermione.granger"
+    ],
+    "cancelado": false,
+    "creado": "2026-10-02T21:21:20.000Z",
+    "cancelSorteado": false
+  },
+  "crc5n4c9ytxgczkvlacooe15n": {
+    "organizador": "hermione.granger",
+    "fecha": "2026-10-04T13:00:00.000Z",
+    "deporte": "TENIS",
+    "cupo": 3,
+    "jugadores": [
+      "elrond",
+      "ron.weasley",
+      "jaime.lannister"
+    ],
+    "pendientes": [],
+    "bajasSorteadas": true,
+    "asistencia": {
+      "hermione.granger": true,
+      "elrond": true,
+      "ron.weasley": true,
+      "jaime.lannister": false
+    },
+    "calificaran": [
+      "ron.weasley",
+      "hermione.granger"
+    ],
+    "calificaron": [
+      "ron.weasley",
+      "hermione.granger"
+    ],
+    "cancelado": false,
+    "creado": "2026-10-03T03:17:00.000Z",
+    "cancelSorteado": true
+  },
+  "cmjy7zv0kpeztnf8yunwiakr0": {
+    "organizador": "nemo",
+    "fecha": "2026-10-08T01:30:00.000Z",
+    "deporte": "FUTBOL",
+    "cupo": 9,
+    "jugadores": [
+      "pippin.tuk",
+      "bellatrix.lestrange",
       "jon.snow",
+      "steve.rogers",
+      "doc.brown",
+      "sam.gamyi",
+      "elrond",
+      "fred.weasley",
+      "padme.amidala"
+    ],
+    "pendientes": [],
+    "bajasSorteadas": true,
+    "asistencia": {
+      "nemo": true,
+      "pippin.tuk": true,
+      "bellatrix.lestrange": true,
+      "jon.snow": true,
+      "steve.rogers": true,
+      "doc.brown": true,
+      "sam.gamyi": true,
+      "elrond": false,
+      "fred.weasley": true,
+      "padme.amidala": true
+    },
+    "calificaran": [
+      "fred.weasley",
+      "pippin.tuk",
+      "bellatrix.lestrange",
+      "steve.rogers",
+      "sam.gamyi",
+      "padme.amidala"
+    ],
+    "calificaron": [
+      "fred.weasley",
+      "pippin.tuk",
+      "bellatrix.lestrange",
+      "steve.rogers",
+      "sam.gamyi",
+      "padme.amidala"
+    ],
+    "cancelado": false,
+    "creado": "2026-10-03T12:31:40.000Z",
+    "cancelSorteado": false
+  },
+  "c9nkgd0q1qlqibk4bpmc35lhy": {
+    "organizador": "elrond",
+    "fecha": "2026-10-04T23:00:00.000Z",
+    "deporte": "FUTBOL",
+    "cupo": 9,
+    "jugadores": [
+      "bellatrix.lestrange",
+      "nemo",
+      "mace.windu"
+    ],
+    "pendientes": [],
+    "bajasSorteadas": true,
+    "asistencia": {
+      "elrond": true,
+      "bellatrix.lestrange": true,
+      "nemo": true,
+      "mace.windu": true
+    },
+    "calificaran": [
+      "elrond",
+      "bellatrix.lestrange",
+      "mace.windu"
+    ],
+    "calificaron": [
+      "elrond",
+      "bellatrix.lestrange",
+      "mace.windu"
+    ],
+    "cancelado": false,
+    "creado": "2026-10-03T15:39:20.000Z",
+    "cancelSorteado": true
+  },
+  "cdlvhnpomcs3x1ta103ci0hso": {
+    "organizador": "steve.rogers",
+    "fecha": "2026-10-06T00:00:00.000Z",
+    "deporte": "FUTBOL",
+    "cupo": 9,
+    "jugadores": [
+      "gimli",
+      "nemo",
+      "sam.gamyi",
+      "mace.windu",
+      "bellatrix.lestrange",
+      "fred.weasley",
+      "pippin.tuk",
+      "rubeus.hagrid",
+      "jon.snow"
+    ],
+    "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": {
+      "steve.rogers": true,
+      "gimli": true,
+      "nemo": true,
+      "sam.gamyi": true,
+      "mace.windu": true,
+      "bellatrix.lestrange": true,
+      "fred.weasley": true,
+      "pippin.tuk": true,
+      "rubeus.hagrid": true,
+      "jon.snow": true
+    },
+    "calificaran": [
+      "fred.weasley",
+      "gimli",
+      "pippin.tuk",
+      "rubeus.hagrid",
+      "bellatrix.lestrange",
+      "mace.windu",
+      "steve.rogers",
+      "nemo",
+      "sam.gamyi"
+    ],
+    "calificaron": [
+      "fred.weasley",
+      "gimli",
+      "pippin.tuk",
+      "rubeus.hagrid",
+      "bellatrix.lestrange",
+      "mace.windu",
+      "steve.rogers",
+      "nemo",
+      "sam.gamyi"
+    ],
+    "cancelado": false,
+    "creado": "2026-10-03T15:42:00.000Z",
+    "cancelSorteado": false
+  },
+  "cpioizbu1bu5mkr7knf2hw8ud": {
+    "organizador": "faramir",
+    "fecha": "2026-10-04T12:00:00.000Z",
+    "deporte": "PADEL",
+    "cupo": 3,
+    "jugadores": [],
+    "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": true,
+    "creado": "2026-10-03T18:40:40.000Z",
+    "cancelSorteado": true
+  },
+  "cfzilygl4j9mjvlk0s06iaf44": {
+    "organizador": "jaime.lannister",
+    "fecha": "2026-10-09T23:30:00.000Z",
+    "deporte": "TENIS",
+    "cupo": 3,
+    "jugadores": [
+      "elrond",
+      "boromir"
+    ],
+    "pendientes": [],
+    "bajasSorteadas": true,
+    "asistencia": {
+      "jaime.lannister": true,
+      "elrond": true,
+      "boromir": true
+    },
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "creado": "2026-10-03T21:40:20.000Z",
+    "cancelSorteado": false
+  },
+  "c9q8jjtam8l3ruz1o60lg1dt6": {
+    "organizador": "pippin.tuk",
+    "fecha": "2026-10-10T22:00:00.000Z",
+    "deporte": "FUTBOL",
+    "cupo": 11,
+    "jugadores": [
+      "bellatrix.lestrange",
+      "nemo",
+      "doc.brown",
+      "jon.snow",
+      "fred.weasley",
+      "mace.windu",
+      "padme.amidala",
+      "elrond",
+      "sam.gamyi",
+      "theoden"
+    ],
+    "pendientes": [],
+    "bajasSorteadas": true,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "creado": "2026-10-04T03:45:00.000Z",
+    "cancelSorteado": false
+  },
+  "celi7gnrpxew0al5m1k0lbfbb": {
+    "organizador": "faramir",
+    "fecha": "2026-10-10T14:30:00.000Z",
+    "deporte": "RUNNING",
+    "cupo": 5,
+    "jugadores": [
+      "montgomery.burns",
+      "eowyn",
+      "davy.jones"
+    ],
+    "pendientes": [],
+    "bajasSorteadas": true,
+    "asistencia": {
+      "faramir": true,
+      "montgomery.burns": true,
+      "eowyn": true,
+      "davy.jones": true
+    },
+    "calificaran": [
+      "faramir",
+      "montgomery.burns",
+      "davy.jones"
+    ],
+    "calificaron": [
+      "faramir",
+      "montgomery.burns",
+      "davy.jones"
+    ],
+    "cancelado": false,
+    "creado": "2026-10-04T03:45:40.000Z",
+    "cancelSorteado": false
+  },
+  "ccsnhgf42dcylj3ktmx9f7f1g": {
+    "organizador": "jon.snow",
+    "fecha": "2026-10-09T00:00:00.000Z",
+    "deporte": "FUTBOL",
+    "cupo": 9,
+    "jugadores": [
+      "sam.gamyi",
+      "bellatrix.lestrange",
+      "nemo",
+      "pippin.tuk",
+      "doc.brown",
+      "elrond",
+      "steve.rogers",
+      "gimli",
+      "lois.lane"
+    ],
+    "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": {
+      "jon.snow": true,
+      "sam.gamyi": true,
+      "bellatrix.lestrange": true,
+      "nemo": true,
+      "pippin.tuk": true,
+      "doc.brown": true,
+      "elrond": true,
+      "steve.rogers": true,
+      "gimli": true,
+      "lois.lane": true
+    },
+    "calificaran": [
+      "jon.snow",
+      "sam.gamyi",
+      "bellatrix.lestrange",
+      "pippin.tuk",
+      "doc.brown",
+      "elrond",
+      "gimli",
+      "lois.lane"
+    ],
+    "calificaron": [
+      "gimli",
+      "pippin.tuk",
+      "elrond",
+      "bellatrix.lestrange",
+      "jon.snow",
+      "sam.gamyi",
+      "doc.brown",
+      "lois.lane"
+    ],
+    "cancelado": false,
+    "creado": "2026-10-04T09:43:40.000Z",
+    "cancelSorteado": false
+  },
+  "cafg2jp664l9cc1afx753fh6u": {
+    "organizador": "sam.gamyi",
+    "fecha": "2026-10-07T23:00:00.000Z",
+    "deporte": "TENIS",
+    "cupo": 1,
+    "jugadores": [
+      "jaime.lannister"
+    ],
+    "pendientes": [],
+    "bajasSorteadas": true,
+    "asistencia": {
+      "sam.gamyi": true,
+      "jaime.lannister": false
+    },
+    "calificaran": [
+      "sam.gamyi"
+    ],
+    "calificaron": [
+      "sam.gamyi"
+    ],
+    "cancelado": false,
+    "creado": "2026-10-04T21:40:20.000Z",
+    "cancelSorteado": false
+  },
+  "cxmu8zp2mtwqfb62c2wvbj2rx": {
+    "organizador": "mace.windu",
+    "fecha": "2026-10-11T00:00:00.000Z",
+    "deporte": "PADEL",
+    "cupo": 3,
+    "jugadores": [
+      "yoda",
+      "quigon.jinn",
+      "bellatrix.lestrange"
+    ],
+    "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "creado": "2026-10-05T00:39:20.000Z",
+    "cancelSorteado": false
+  },
+  "cx0und3pjbm5eduqea0ntgbyo": {
+    "organizador": "sam.gamyi",
+    "fecha": "2026-10-09T00:30:00.000Z",
+    "deporte": "PADEL",
+    "cupo": 3,
+    "jugadores": [
+      "eowyn",
+      "mace.windu",
+      "bellatrix.lestrange"
+    ],
+    "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": {
+      "sam.gamyi": true,
+      "eowyn": true,
+      "mace.windu": true,
+      "bellatrix.lestrange": true
+    },
+    "calificaran": [
+      "sam.gamyi",
+      "eowyn",
+      "mace.windu"
+    ],
+    "calificaron": [
+      "eowyn",
+      "mace.windu",
+      "sam.gamyi"
+    ],
+    "cancelado": false,
+    "creado": "2026-10-05T03:50:20.000Z",
+    "cancelSorteado": false
+  },
+  "cxaye4wavaz2o8pshx279m7pi": {
+    "organizador": "doc.brown",
+    "fecha": "2026-10-08T00:00:00.000Z",
+    "deporte": "FUTBOL",
+    "cupo": 9,
+    "jugadores": [
+      "jon.snow",
+      "bellatrix.lestrange",
+      "nemo",
+      "will.turner",
+      "fred.weasley",
+      "steve.rogers",
+      "padme.amidala"
+    ],
+    "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": {
+      "doc.brown": true,
+      "jon.snow": true,
+      "bellatrix.lestrange": true,
+      "nemo": true,
+      "will.turner": true,
+      "fred.weasley": true,
+      "steve.rogers": true,
+      "padme.amidala": true
+    },
+    "calificaran": [
+      "bellatrix.lestrange",
+      "steve.rogers",
+      "jon.snow",
+      "nemo",
+      "will.turner",
+      "padme.amidala"
+    ],
+    "calificaron": [
+      "bellatrix.lestrange",
+      "steve.rogers",
+      "jon.snow",
+      "nemo",
+      "will.turner",
+      "padme.amidala"
+    ],
+    "cancelado": false,
+    "creado": "2026-10-05T09:50:20.000Z",
+    "cancelSorteado": false
+  },
+  "cvvdingwx7n4g7h4gx8p7nyi2": {
+    "organizador": "elrond",
+    "fecha": "2026-10-09T22:30:00.000Z",
+    "deporte": "FUTBOL",
+    "cupo": 9,
+    "jugadores": [
+      "gimli",
+      "doc.brown",
+      "pippin.tuk",
+      "bellatrix.lestrange",
+      "mace.windu",
+      "rubeus.hagrid",
+      "chewbacca",
+      "theoden"
+    ],
+    "pendientes": [],
+    "bajasSorteadas": true,
+    "asistencia": {
+      "elrond": true,
+      "gimli": false,
+      "doc.brown": true,
+      "pippin.tuk": true,
+      "bellatrix.lestrange": true,
+      "mace.windu": true,
+      "rubeus.hagrid": false,
+      "chewbacca": true,
+      "theoden": true
+    },
+    "calificaran": [
+      "elrond",
+      "doc.brown",
+      "pippin.tuk",
+      "bellatrix.lestrange",
+      "mace.windu"
+    ],
+    "calificaron": [
+      "pippin.tuk",
+      "elrond",
+      "bellatrix.lestrange",
+      "mace.windu",
+      "doc.brown"
+    ],
+    "cancelado": false,
+    "creado": "2026-10-06T00:15:20.000Z",
+    "cancelSorteado": false
+  },
+  "cubgfsb2s5eokhycbmsg3rpzu": {
+    "organizador": "steve.rogers",
+    "fecha": "2026-10-08T22:00:00.000Z",
+    "deporte": "FUTBOL",
+    "cupo": 11,
+    "jugadores": [
+      "doc.brown",
+      "pippin.tuk",
+      "jon.snow",
+      "nemo",
+      "fred.weasley",
+      "bellatrix.lestrange",
+      "padme.amidala",
+      "gimli",
+      "hector.barbossa"
+    ],
+    "pendientes": [],
+    "bajasSorteadas": true,
+    "asistencia": {
+      "steve.rogers": true,
+      "doc.brown": true,
+      "pippin.tuk": true,
+      "jon.snow": true,
+      "nemo": true,
+      "fred.weasley": true,
+      "bellatrix.lestrange": true,
+      "padme.amidala": true,
+      "gimli": true,
+      "hector.barbossa": true
+    },
+    "calificaran": [
+      "steve.rogers",
+      "doc.brown",
+      "pippin.tuk",
+      "jon.snow",
+      "bellatrix.lestrange",
+      "gimli",
+      "hector.barbossa"
+    ],
+    "calificaron": [
+      "gimli",
+      "pippin.tuk",
+      "bellatrix.lestrange",
+      "steve.rogers",
+      "jon.snow",
+      "doc.brown",
+      "hector.barbossa"
+    ],
+    "cancelado": false,
+    "creado": "2026-10-06T00:18:00.000Z",
+    "cancelSorteado": false
+  },
+  "cegwx3zcr6vqpv3uqwpf26j5z": {
+    "organizador": "eowyn",
+    "fecha": "2026-10-08T01:30:00.000Z",
+    "deporte": "PADEL",
+    "cupo": 3,
+    "jugadores": [
+      "dobby",
+      "quigon.jinn",
+      "jon.snow"
+    ],
+    "pendientes": [],
+    "bajasSorteadas": true,
+    "asistencia": {
+      "eowyn": true,
+      "dobby": true,
+      "quigon.jinn": true,
+      "jon.snow": false
+    },
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "creado": "2026-10-06T03:21:40.000Z",
+    "cancelSorteado": false
+  },
+  "cr3kipif6pny2yk2bpje8r496": {
+    "organizador": "faramir",
+    "fecha": "2026-10-11T12:00:00.000Z",
+    "deporte": "RUNNING",
+    "cupo": 5,
+    "jugadores": [
+      "jaime.lannister",
+      "eowyn",
+      "davy.jones",
+      "fred.weasley",
+      "montgomery.burns"
+    ],
+    "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "creado": "2026-10-06T06:45:40.000Z",
+    "cancelSorteado": false
+  },
+  "c71nohcixzxc87cc5k4boi1g8": {
+    "organizador": "padme.amidala",
+    "fecha": "2026-10-12T23:00:00.000Z",
+    "deporte": "FUTBOL",
+    "cupo": 9,
+    "jugadores": [
+      "doc.brown",
+      "bellatrix.lestrange",
+      "theoden",
+      "steve.rogers",
+      "will.turner",
+      "lois.lane",
+      "fred.weasley",
+      "pippin.tuk",
+      "marty.mcfly"
+    ],
+    "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "creado": "2026-10-06T09:42:00.000Z",
+    "cancelSorteado": false
+  },
+  "c43ltfxpu5z2ic7kh6uof8stb": {
+    "organizador": "mace.windu",
+    "fecha": "2026-10-10T13:30:00.000Z",
+    "deporte": "PADEL",
+    "cupo": 3,
+    "jugadores": [
+      "eowyn",
       "bellatrix.lestrange"
     ],
     "pendientes": [],
     "bajasSorteadas": true,
     "asistencia": {
-      "sam.gamyi": true,
-      "quigon.jinn": true,
-      "jon.snow": false,
+      "mace.windu": true,
+      "eowyn": true,
       "bellatrix.lestrange": true
     },
     "calificaran": [
-      "quigon.jinn",
-      "bellatrix.lestrange",
-      "sam.gamyi"
+      "mace.windu",
+      "bellatrix.lestrange"
     ],
     "calificaron": [
-      "quigon.jinn",
       "bellatrix.lestrange",
-      "sam.gamyi"
+      "mace.windu"
     ],
     "cancelado": false,
-    "creado": "2026-10-02T18:46:00.000Z",
+    "creado": "2026-10-06T21:46:00.000Z",
     "cancelSorteado": false
   },
-  "cp6m445strz7aeuv2ss3htya6": {
-    "organizador": "steve.rogers",
-    "fecha": "2026-10-06T01:30:00.000Z",
-    "deporte": "FUTBOL",
-    "cupo": 11,
-    "jugadores": [
-      "jon.snow",
-      "gimli",
-      "nemo",
-      "fred.weasley",
-      "elrond",
-      "pippin.tuk"
-    ],
-    "pendientes": [],
-    "bajasSorteadas": true,
-    "asistencia": {
-      "steve.rogers": true,
-      "jon.snow": true,
-      "gimli": true,
-      "nemo": false,
-      "fred.weasley": true,
-      "elrond": true,
-      "pippin.tuk": true
-    },
-    "calificaran": [],
-    "calificaron": [],
-    "cancelado": false,
-    "creado": "2026-10-03T00:22:00.000Z",
-    "cancelSorteado": false
-  },
-  "cytkgtxkplozkb0qvhc2fag9r": {
-    "organizador": "sam.gamyi",
-    "fecha": "2026-10-06T00:00:00.000Z",
+  "c3certsclfeyzz4jn2mwry5fv": {
+    "organizador": "lois.lane",
+    "fecha": "2026-10-11T00:00:00.000Z",
     "deporte": "FUTBOL",
     "cupo": 9,
     "jugadores": [
-      "elrond",
       "gimli",
-      "bellatrix.lestrange",
-      "hermione.granger",
-      "fred.weasley",
-      "rubeus.hagrid",
       "jon.snow",
-      "theoden"
-    ],
-    "pendientes": [],
-    "bajasSorteadas": false,
-    "asistencia": {
-      "sam.gamyi": true,
-      "elrond": true,
-      "gimli": true,
-      "bellatrix.lestrange": true,
-      "hermione.granger": true,
-      "fred.weasley": false,
-      "rubeus.hagrid": true,
-      "jon.snow": false,
-      "theoden": true
-    },
-    "calificaran": [
-      "gimli",
-      "rubeus.hagrid",
-      "elrond",
-      "bellatrix.lestrange",
-      "hermione.granger",
-      "sam.gamyi",
-      "theoden"
-    ],
-    "calificaron": [
-      "gimli",
-      "rubeus.hagrid",
-      "elrond",
-      "bellatrix.lestrange",
-      "hermione.granger",
-      "sam.gamyi",
-      "theoden"
-    ],
-    "cancelado": false,
-    "creado": "2026-10-03T06:33:40.000Z",
-    "cancelSorteado": false
-  },
-  "cijk5z0g07wyh4vkvtq89z1ta": {
-    "organizador": "hermione.granger",
-    "fecha": "2026-10-04T14:00:00.000Z",
-    "deporte": "TENIS",
-    "cupo": 3,
-    "jugadores": [
-      "jaime.lannister",
-      "harley.quinn"
-    ],
-    "pendientes": [],
-    "bajasSorteadas": true,
-    "asistencia": {
-      "hermione.granger": true,
-      "jaime.lannister": true,
-      "harley.quinn": true
-    },
-    "calificaran": [
-      "hermione.granger"
-    ],
-    "calificaron": [
-      "hermione.granger"
-    ],
-    "cancelado": false,
-    "creado": "2026-10-03T06:38:20.000Z",
-    "cancelSorteado": false
-  },
-  "cjjmmmix2z6t0hjrz8b7r84by": {
-    "organizador": "steve.rogers",
-    "fecha": "2026-10-04T22:00:00.000Z",
-    "deporte": "FUTBOL",
-    "cupo": 9,
-    "jugadores": [
-      "jon.snow",
-      "bellatrix.lestrange",
-      "elrond",
-      "nemo",
-      "pippin.tuk",
-      "rubeus.hagrid",
-      "sam.gamyi",
-      "hermione.granger"
-    ],
-    "pendientes": [],
-    "bajasSorteadas": true,
-    "asistencia": {
-      "steve.rogers": true,
-      "jon.snow": true,
-      "bellatrix.lestrange": true,
-      "elrond": true,
-      "nemo": true,
-      "pippin.tuk": true,
-      "rubeus.hagrid": true,
-      "sam.gamyi": true,
-      "hermione.granger": true
-    },
-    "calificaran": [
-      "pippin.tuk",
-      "rubeus.hagrid",
-      "elrond",
-      "bellatrix.lestrange",
       "steve.rogers",
-      "jon.snow",
-      "hermione.granger"
-    ],
-    "calificaron": [
-      "pippin.tuk",
-      "rubeus.hagrid",
-      "elrond",
       "bellatrix.lestrange",
-      "steve.rogers",
-      "jon.snow",
-      "hermione.granger"
-    ],
-    "cancelado": false,
-    "creado": "2026-10-03T15:32:00.000Z",
-    "cancelSorteado": true
-  },
-  "cya0ia1nni50nuoknlid19805": {
-    "organizador": "eowyn",
-    "fecha": "2026-10-10T01:00:00.000Z",
-    "deporte": "RUNNING",
-    "cupo": 5,
-    "jugadores": [
-      "faramir",
-      "jaime.lannister",
-      "quigon.jinn",
-      "montgomery.burns",
+      "chewbacca",
+      "pippin.tuk",
+      "padme.amidala",
+      "rubeus.hagrid",
       "fred.weasley"
     ],
     "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "creado": "2026-10-07T03:15:20.000Z",
+    "cancelSorteado": false
+  },
+  "cwld3g08z6n44kp3tayp4nyvt": {
+    "organizador": "steve.rogers",
+    "fecha": "2026-10-10T13:30:00.000Z",
+    "deporte": "FUTBOL",
+    "cupo": 9,
+    "jugadores": [
+      "jon.snow",
+      "pippin.tuk",
+      "bellatrix.lestrange",
+      "nemo",
+      "lois.lane",
+      "hermione.granger",
+      "doc.brown"
+    ],
+    "pendientes": [],
     "bajasSorteadas": true,
     "asistencia": {
-      "eowyn": true,
-      "faramir": true,
-      "jaime.lannister": false,
-      "quigon.jinn": true,
-      "montgomery.burns": true,
-      "fred.weasley": false
+      "steve.rogers": true,
+      "jon.snow": true,
+      "pippin.tuk": true,
+      "bellatrix.lestrange": true,
+      "nemo": false,
+      "lois.lane": true,
+      "hermione.granger": true,
+      "doc.brown": true
     },
     "calificaran": [
-      "faramir"
+      "steve.rogers",
+      "jon.snow",
+      "pippin.tuk",
+      "bellatrix.lestrange",
+      "lois.lane",
+      "hermione.granger",
+      "doc.brown"
     ],
     "calificaron": [
-      "faramir"
+      "pippin.tuk",
+      "bellatrix.lestrange",
+      "steve.rogers",
+      "jon.snow",
+      "hermione.granger",
+      "doc.brown",
+      "lois.lane"
     ],
     "cancelado": false,
-    "creado": "2026-10-04T00:11:40.000Z",
-    "cancelSorteado": false,
-    "pendientesHumanos": 0,
-    "anotados": 5
+    "creado": "2026-10-07T06:16:20.000Z",
+    "cancelSorteado": false
   },
-  "cq5rid3q7znmrim10smmm9csn": {
-    "organizador": "milhouse.van.houten",
-    "fecha": "2026-10-09T23:00:00.000Z",
-    "deporte": "BASQUET",
-    "cupo": 7,
+  "c38ezx38e7nl04hd6u8tzwa48": {
+    "organizador": "molly.weasley",
+    "fecha": "2026-10-11T12:00:00.000Z",
+    "deporte": "RUNNING",
+    "cupo": 5,
     "jugadores": [
-      "ron.weasley",
-      "harley.quinn",
-      "galadriel",
-      "eowyn",
-      "padme.amidala",
-      "boromir",
+      "montgomery.burns",
+      "jaime.lannister",
       "davy.jones"
     ],
     "pendientes": [],
     "bajasSorteadas": false,
-    "asistencia": {
-      "milhouse.van.houten": true,
-      "ron.weasley": true,
-      "harley.quinn": true,
-      "galadriel": false,
-      "eowyn": true,
-      "padme.amidala": true,
-      "boromir": true,
-      "davy.jones": false
-    },
-    "calificaran": [
-      "milhouse.van.houten",
-      "boromir"
-    ],
-    "calificaron": [
-      "milhouse.van.houten",
-      "boromir"
-    ],
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
     "cancelado": false,
-    "creado": "2026-10-04T06:15:20.000Z",
-    "cancelSorteado": false,
-    "pendientesHumanos": 0,
-    "anotados": 7
+    "creado": "2026-10-07T06:21:00.000Z",
+    "cancelSorteado": false
   },
-  "c813cx4fo2jzpea9yko0ytmkc": {
-    "organizador": "bellatrix.lestrange",
-    "fecha": "2026-10-09T21:30:00.000Z",
-    "deporte": "FUTBOL",
-    "cupo": 9,
+  "c64we9fe92c0biw6h37ksbmif": {
+    "organizador": "harley.quinn",
+    "fecha": "2026-10-08T23:00:00.000Z",
+    "deporte": "BASQUET",
+    "cupo": 5,
     "jugadores": [
-      "pippin.tuk",
-      "nemo",
-      "theoden",
-      "sam.gamyi",
-      "gimli"
+      "eowyn",
+      "davy.jones",
+      "ron.weasley",
+      "milhouse.van.houten"
     ],
     "pendientes": [],
     "bajasSorteadas": true,
     "asistencia": {
-      "bellatrix.lestrange": true,
-      "pippin.tuk": true,
-      "nemo": true,
-      "theoden": true,
-      "sam.gamyi": true,
-      "gimli": false
+      "harley.quinn": true,
+      "eowyn": true,
+      "davy.jones": true,
+      "ron.weasley": true,
+      "milhouse.van.houten": true
     },
     "calificaran": [
+      "eowyn",
+      "ron.weasley",
+      "milhouse.van.houten"
+    ],
+    "calificaron": [
+      "eowyn",
+      "ron.weasley",
+      "milhouse.van.houten"
+    ],
+    "cancelado": false,
+    "creado": "2026-10-07T09:33:20.000Z",
+    "cancelSorteado": false
+  },
+  "cgsest7ctro5ftj5c3fosu3yw": {
+    "organizador": "albus.dumbledore",
+    "fecha": "2026-10-09T01:00:00.000Z",
+    "deporte": "TENIS",
+    "cupo": 1,
+    "jugadores": [
+      "ron.weasley"
+    ],
+    "pendientes": [],
+    "bajasSorteadas": true,
+    "asistencia": {
+      "albus.dumbledore": true,
+      "ron.weasley": true
+    },
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "creado": "2026-10-07T21:26:20.000Z",
+    "cancelSorteado": false
+  },
+  "cpsbywialue1b4au0ao3f56ro": {
+    "organizador": "sam.gamyi",
+    "fecha": "2026-10-09T00:00:00.000Z",
+    "deporte": "PADEL",
+    "cupo": 3,
+    "jugadores": [
       "bellatrix.lestrange",
-      "pippin.tuk",
-      "nemo",
-      "theoden",
+      "dobby"
+    ],
+    "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": {
+      "sam.gamyi": true,
+      "bellatrix.lestrange": true,
+      "dobby": false
+    },
+    "calificaran": [
+      "sam.gamyi",
+      "bellatrix.lestrange"
+    ],
+    "calificaron": [
+      "bellatrix.lestrange",
+      "sam.gamyi"
+    ],
+    "cancelado": false,
+    "creado": "2026-10-08T00:54:00.000Z",
+    "cancelSorteado": true
+  },
+  "cb7apj2wx3fqm5sig76ay3mf4": {
+    "organizador": "chewbacca",
+    "fecha": "2026-10-11T13:00:00.000Z",
+    "deporte": "PADEL",
+    "cupo": 3,
+    "jugadores": [
+      "bellatrix.lestrange",
+      "eowyn",
+      "yoda"
+    ],
+    "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "creado": "2026-10-08T00:56:00.000Z",
+    "cancelSorteado": false
+  },
+  "coclwr4a4yfbbgmukpqdov386": {
+    "organizador": "bellatrix.lestrange",
+    "fecha": "2026-10-14T01:30:00.000Z",
+    "deporte": "PADEL",
+    "cupo": 3,
+    "jugadores": [
+      "sam.gamyi",
+      "dobby",
+      "tony.stark"
+    ],
+    "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "creado": "2026-10-08T03:47:40.000Z",
+    "cancelSorteado": false
+  },
+  "cmxviun4epj20qqottsmzjx6a": {
+    "organizador": "tony.stark",
+    "fecha": "2026-10-10T12:30:00.000Z",
+    "deporte": "PADEL",
+    "cupo": 3,
+    "jugadores": [
+      "bellatrix.lestrange",
+      "quigon.jinn",
+      "sam.gamyi"
+    ],
+    "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": {
+      "tony.stark": true,
+      "bellatrix.lestrange": true,
+      "quigon.jinn": true,
+      "sam.gamyi": true
+    },
+    "calificaran": [
+      "tony.stark",
+      "bellatrix.lestrange",
       "sam.gamyi"
     ],
     "calificaron": [
-      "pippin.tuk",
       "bellatrix.lestrange",
-      "nemo",
       "sam.gamyi",
-      "theoden"
+      "tony.stark"
     ],
     "cancelado": false,
-    "creado": "2026-10-04T06:17:20.000Z",
-    "cancelSorteado": false,
-    "pendientesHumanos": 0,
-    "anotados": 5
+    "creado": "2026-10-08T03:51:00.000Z",
+    "cancelSorteado": false
   },
-  "cp2jdug2xa3e8xfz92irf8and": {
-    "organizador": "harley.quinn",
-    "fecha": "2026-10-05T22:00:00.000Z",
-    "deporte": "BASQUET",
+  "cg2d35lveof8qkr77mrc806ze": {
+    "organizador": "albus.dumbledore",
+    "fecha": "2026-10-10T23:00:00.000Z",
+    "deporte": "FUTBOL",
     "cupo": 9,
     "jugadores": [
-      "ron.weasley"
+      "steve.rogers",
+      "elrond",
+      "rubeus.hagrid",
+      "marty.mcfly",
+      "walle",
+      "lois.lane",
+      "pippin.tuk"
+    ],
+    "pendientes": [],
+    "bajasSorteadas": true,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "creado": "2026-10-08T06:31:40.000Z",
+    "cancelSorteado": false
+  },
+  "cbkb7wz7ew70mtag6xwi4qkyx": {
+    "organizador": "hermione.granger",
+    "fecha": "2026-10-11T14:00:00.000Z",
+    "deporte": "FUTBOL",
+    "cupo": 11,
+    "jugadores": [
+      "bellatrix.lestrange",
+      "steve.rogers",
+      "fred.weasley",
+      "doc.brown",
+      "chewbacca",
+      "gimli",
+      "pippin.tuk",
+      "walle",
+      "marty.mcfly",
+      "nemo",
+      "rubeus.hagrid"
+    ],
+    "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "creado": "2026-10-08T06:36:20.000Z",
+    "cancelSorteado": false
+  },
+  "cgngnk3v4hh6da9a5rpymchaf": {
+    "organizador": "hector.barbossa",
+    "fecha": "2026-10-10T14:30:00.000Z",
+    "deporte": "RUNNING",
+    "cupo": 7,
+    "jugadores": [
+      "jaime.lannister",
+      "jack.sparrow",
+      "davy.jones",
+      "eowyn"
+    ],
+    "pendientes": [],
+    "bajasSorteadas": true,
+    "asistencia": {
+      "hector.barbossa": true,
+      "jaime.lannister": true,
+      "jack.sparrow": true,
+      "davy.jones": true,
+      "eowyn": true
+    },
+    "calificaran": [
+      "hector.barbossa",
+      "davy.jones"
+    ],
+    "calificaron": [
+      "davy.jones",
+      "hector.barbossa"
+    ],
+    "cancelado": false,
+    "creado": "2026-10-08T12:49:20.000Z",
+    "cancelSorteado": false
+  },
+  "cgvjxl4jipbrqgnqtvkrjr5rs": {
+    "organizador": "elrond",
+    "fecha": "2026-10-14T01:00:00.000Z",
+    "deporte": "FUTBOL",
+    "cupo": 9,
+    "jugadores": [
+      "padme.amidala",
+      "gimli",
+      "mace.windu",
+      "albus.dumbledore",
+      "bellatrix.lestrange",
+      "obiwan.kenobi",
+      "walle"
+    ],
+    "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "creado": "2026-10-08T12:50:00.000Z",
+    "cancelSorteado": false
+  },
+  "cn3dzwdal8wih215isp7qmmmo": {
+    "organizador": "steve.rogers",
+    "fecha": "2026-10-09T23:00:00.000Z",
+    "deporte": "FUTBOL",
+    "cupo": 9,
+    "jugadores": [
+      "hermione.granger",
+      "lois.lane"
     ],
     "pendientes": [],
     "bajasSorteadas": false,
@@ -857,691 +1465,158 @@
     "calificaran": [],
     "calificaron": [],
     "cancelado": true,
-    "creado": "2026-10-04T09:43:00.000Z",
+    "creado": "2026-10-09T00:36:20.000Z",
     "cancelSorteado": true
   },
-  "c8q6ouom1uune46yxhjpxzp80": {
-    "organizador": "faramir",
+  "cj039tbft9gdeyjnkfmdexrpf": {
+    "organizador": "albus.dumbledore",
+    "fecha": "2026-10-16T01:00:00.000Z",
+    "deporte": "TENIS",
+    "cupo": 1,
+    "jugadores": [
+      "ron.weasley"
+    ],
+    "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "creado": "2026-10-09T06:41:20.000Z",
+    "cancelSorteado": false
+  },
+  "c2zpkypt5poll6k53k0fap7ml": {
+    "organizador": "sam.gamyi",
+    "fecha": "2026-10-11T12:30:00.000Z",
+    "deporte": "TENIS",
+    "cupo": 3,
+    "jugadores": [],
+    "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "creado": "2026-10-09T06:44:40.000Z",
+    "cancelSorteado": true
+  },
+  "cayiz6ov0acw3bwnq5mpsqo39": {
+    "organizador": "molly.weasley",
+    "fecha": "2026-10-10T13:00:00.000Z",
+    "deporte": "RUNNING",
+    "cupo": 7,
+    "jugadores": [
+      "jaime.lannister",
+      "davy.jones"
+    ],
+    "pendientes": [],
+    "bajasSorteadas": true,
+    "asistencia": {
+      "molly.weasley": true,
+      "jaime.lannister": true,
+      "davy.jones": true
+    },
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "creado": "2026-10-09T09:44:40.000Z",
+    "cancelSorteado": true
+  },
+  "cq14kju2nbdr64jjti4f5sbh8": {
+    "organizador": "hector.barbossa",
+    "fecha": "2026-10-13T22:00:00.000Z",
+    "deporte": "FUTBOL",
+    "cupo": 9,
+    "jugadores": [
+      "nemo",
+      "arya.stark",
+      "steve.rogers"
+    ],
+    "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "creado": "2026-10-09T15:10:00.000Z",
+    "cancelSorteado": false
+  },
+  "cz6bulffnfaf9lokuxtpvln72": {
+    "organizador": "tony.stark",
     "fecha": "2026-10-10T12:30:00.000Z",
     "deporte": "PADEL",
     "cupo": 3,
     "jugadores": [
-      "jon.snow",
-      "quigon.jinn",
-      "bellatrix.lestrange"
-    ],
-    "pendientes": [],
-    "bajasSorteadas": false,
-    "asistencia": null,
-    "calificaran": [],
-    "calificaron": [],
-    "cancelado": false,
-    "creado": "2026-10-04T12:15:20.000Z",
-    "cancelSorteado": false,
-    "pendientesHumanos": 0,
-    "anotados": 3
-  },
-  "cxu2l5l73ywbpi9j7o2pxh43y": {
-    "organizador": "jaime.lannister",
-    "fecha": "2026-10-06T01:00:00.000Z",
-    "deporte": "RUNNING",
-    "cupo": 3,
-    "jugadores": [
-      "montgomery.burns",
+      "bellatrix.lestrange",
+      "mace.windu",
       "quigon.jinn"
     ],
     "pendientes": [],
-    "bajasSorteadas": true,
+    "bajasSorteadas": false,
     "asistencia": {
-      "jaime.lannister": true,
-      "montgomery.burns": false,
+      "tony.stark": true,
+      "bellatrix.lestrange": true,
+      "mace.windu": true,
       "quigon.jinn": true
     },
-    "calificaran": [],
-    "calificaron": [],
-    "cancelado": false,
-    "creado": "2026-10-04T12:18:40.000Z",
-    "cancelSorteado": false
-  },
-  "cjp664l9cc1afx753fh6uj1kz": {
-    "organizador": "hermione.granger",
-    "fecha": "2026-10-10T10:00:00.000Z",
-    "deporte": "FUTBOL",
-    "cupo": 11,
-    "jugadores": [
-      "doc.brown",
-      "pippin.tuk",
-      "bellatrix.lestrange",
-      "jon.snow",
-      "theoden",
-      "steve.rogers",
-      "fred.weasley",
-      "chewbacca",
-      "harry.potter",
-      "rubeus.hagrid"
-    ],
-    "pendientes": [],
-    "bajasSorteadas": true,
-    "asistencia": null,
-    "calificaran": [],
-    "calificaron": [],
-    "cancelado": false,
-    "creado": "2026-10-04T15:52:20.000Z",
-    "cancelSorteado": false,
-    "pendientesHumanos": 0,
-    "anotados": 11
-  },
-  "c4yntdgxpk0ko0j2huqgl2z9i": {
-    "organizador": "nemo",
-    "fecha": "2026-10-10T12:00:00.000Z",
-    "deporte": "FUTBOL",
-    "cupo": 11,
-    "jugadores": [
-      "bellatrix.lestrange",
-      "rubeus.hagrid",
-      "jon.snow",
-      "fred.weasley",
-      "doc.brown",
-      "steve.rogers",
-      "hermione.granger",
-      "pippin.tuk",
-      "gimli",
-      "sirius.black"
-    ],
-    "pendientes": [],
-    "bajasSorteadas": false,
-    "asistencia": null,
-    "calificaran": [],
-    "calificaron": [],
-    "cancelado": false,
-    "creado": "2026-10-04T21:54:40.000Z",
-    "cancelSorteado": false,
-    "pendientesHumanos": 0,
-    "anotados": 10
-  },
-  "cos9ky3km98cp52tuphthlbky": {
-    "organizador": "quigon.jinn",
-    "fecha": "2026-10-08T23:30:00.000Z",
-    "deporte": "RUNNING",
-    "cupo": 5,
-    "jugadores": [
-      "fred.weasley",
-      "eowyn",
-      "montgomery.burns",
-      "jaime.lannister",
-      "davy.jones"
-    ],
-    "pendientes": [],
-    "bajasSorteadas": false,
-    "asistencia": {
-      "quigon.jinn": true,
-      "fred.weasley": true,
-      "eowyn": true,
-      "montgomery.burns": true,
-      "jaime.lannister": false,
-      "davy.jones": true
-    },
     "calificaran": [
-      "eowyn",
-      "montgomery.burns",
-      "davy.jones"
+      "tony.stark",
+      "bellatrix.lestrange",
+      "mace.windu",
+      "quigon.jinn"
     ],
     "calificaron": [
-      "eowyn",
-      "montgomery.burns",
-      "davy.jones"
+      "quigon.jinn",
+      "bellatrix.lestrange",
+      "mace.windu",
+      "tony.stark"
     ],
     "cancelado": false,
-    "creado": "2026-10-05T00:44:00.000Z",
-    "cancelSorteado": false,
-    "anotados": 5
+    "creado": "2026-10-09T18:35:20.000Z",
+    "cancelSorteado": true
   },
-  "c52e6kflu4igp3n7prcbsskz1": {
+  "crluvf80cz1ynj3v9p41xozrh": {
     "organizador": "steve.rogers",
-    "fecha": "2026-10-07T01:30:00.000Z",
-    "deporte": "FUTBOL",
-    "cupo": 9,
-    "jugadores": [
-      "elrond",
-      "bellatrix.lestrange",
-      "doc.brown",
-      "sam.gamyi",
-      "nemo",
-      "pippin.tuk"
-    ],
-    "pendientes": [],
-    "bajasSorteadas": true,
-    "asistencia": {
-      "steve.rogers": true,
-      "elrond": true,
-      "bellatrix.lestrange": true,
-      "doc.brown": true,
-      "sam.gamyi": true,
-      "nemo": true,
-      "pippin.tuk": true
-    },
-    "calificaran": [
-      "pippin.tuk",
-      "elrond",
-      "sam.gamyi",
-      "doc.brown"
-    ],
-    "calificaron": [
-      "pippin.tuk",
-      "elrond",
-      "sam.gamyi",
-      "doc.brown"
-    ],
-    "cancelado": false,
-    "creado": "2026-10-05T03:48:00.000Z",
-    "cancelSorteado": false
-  },
-  "cogxwml1z4b0suk9suzl7rc0f": {
-    "organizador": "elrond",
-    "fecha": "2026-10-09T00:00:00.000Z",
-    "deporte": "FUTBOL",
-    "cupo": 9,
-    "jugadores": [
-      "bellatrix.lestrange",
-      "obiwan.kenobi",
-      "mace.windu",
-      "pippin.tuk"
-    ],
-    "pendientes": [],
-    "bajasSorteadas": false,
-    "asistencia": {
-      "elrond": true,
-      "bellatrix.lestrange": true,
-      "obiwan.kenobi": true,
-      "mace.windu": true,
-      "pippin.tuk": true
-    },
-    "calificaran": [
-      "elrond",
-      "bellatrix.lestrange",
-      "obiwan.kenobi",
-      "mace.windu",
-      "pippin.tuk"
-    ],
-    "calificaron": [
-      "pippin.tuk",
-      "elrond",
-      "bellatrix.lestrange",
-      "mace.windu",
-      "obiwan.kenobi"
-    ],
-    "cancelado": false,
-    "creado": "2026-10-06T00:49:40.000Z",
-    "cancelSorteado": false,
-    "anotados": 4
-  },
-  "cprvylwsv8n5a7u0dr3kipif6": {
-    "organizador": "mace.windu",
-    "fecha": "2026-10-08T01:30:00.000Z",
-    "deporte": "FUTBOL",
-    "cupo": 9,
-    "jugadores": [
-      "padme.amidala",
-      "elrond",
-      "gimli"
-    ],
-    "pendientes": [],
-    "bajasSorteadas": true,
-    "asistencia": {
-      "mace.windu": true,
-      "padme.amidala": true,
-      "elrond": true,
-      "gimli": true
-    },
-    "calificaran": [
-      "mace.windu",
-      "padme.amidala"
-    ],
-    "calificaron": [
-      "mace.windu",
-      "padme.amidala"
-    ],
-    "cancelado": false,
-    "creado": "2026-10-06T00:51:00.000Z",
-    "cancelSorteado": true
-  },
-  "cugelr45kc5w2vd9k96qmpzcx": {
-    "organizador": "sam.gamyi",
-    "fecha": "2026-10-09T23:30:00.000Z",
+    "fecha": "2026-10-13T22:00:00.000Z",
     "deporte": "FUTBOL",
     "cupo": 11,
     "jugadores": [
-      "bellatrix.lestrange"
-    ],
-    "pendientes": [],
-    "bajasSorteadas": false,
-    "asistencia": {
-      "sam.gamyi": true,
-      "bellatrix.lestrange": true
-    },
-    "calificaran": [
-      "sam.gamyi",
-      "bellatrix.lestrange"
-    ],
-    "calificaron": [
-      "sam.gamyi",
-      "bellatrix.lestrange"
-    ],
-    "cancelado": false,
-    "creado": "2026-10-06T00:55:00.000Z",
-    "cancelSorteado": true,
-    "pendientesHumanos": 0,
-    "anotados": 1,
-    "cancelar": false
-  },
-  "cv6ysho2xp54i3i6wuthad36u": {
-    "organizador": "steve.rogers",
-    "fecha": "2026-10-12T22:30:00.000Z",
-    "deporte": "FUTBOL",
-    "cupo": 9,
-    "jugadores": [
-      "sam.gamyi",
-      "fred.weasley",
-      "pippin.tuk",
-      "gimli",
-      "bellatrix.lestrange",
-      "jon.snow",
-      "padme.amidala"
-    ],
-    "pendientes": [],
-    "bajasSorteadas": false,
-    "asistencia": null,
-    "calificaran": [],
-    "calificaron": [],
-    "cancelado": false,
-    "creado": "2026-10-06T03:45:00.000Z",
-    "cancelSorteado": false,
-    "pendientesHumanos": 0,
-    "anotados": 7
-  },
-  "cthtnaj4u3983v03usibrbeo5": {
-    "organizador": "padme.amidala",
-    "fecha": "2026-10-09T22:00:00.000Z",
-    "deporte": "FUTBOL",
-    "cupo": 9,
-    "jugadores": [
-      "bellatrix.lestrange",
-      "rubeus.hagrid",
-      "gimli",
-      "marty.mcfly"
-    ],
-    "pendientes": [],
-    "bajasSorteadas": true,
-    "asistencia": {
-      "padme.amidala": true,
-      "bellatrix.lestrange": true,
-      "rubeus.hagrid": true,
-      "gimli": true,
-      "marty.mcfly": true
-    },
-    "calificaran": [
-      "bellatrix.lestrange",
-      "rubeus.hagrid",
-      "marty.mcfly"
-    ],
-    "calificaron": [
-      "rubeus.hagrid",
-      "marty.mcfly",
-      "bellatrix.lestrange"
-    ],
-    "cancelado": false,
-    "creado": "2026-10-06T03:49:00.000Z",
-    "cancelSorteado": false,
-    "pendientesHumanos": 0,
-    "anotados": 5
-  },
-  "ctv2vn00cv0dg96p9j045xezn": {
-    "organizador": "sam.gamyi",
-    "fecha": "2026-10-08T00:00:00.000Z",
-    "deporte": "FUTBOL",
-    "cupo": 9,
-    "jugadores": [
-      "theoden",
-      "fred.weasley",
-      "pippin.tuk"
-    ],
-    "pendientes": [],
-    "bajasSorteadas": false,
-    "asistencia": {
-      "sam.gamyi": true,
-      "theoden": true,
-      "fred.weasley": true,
-      "pippin.tuk": true
-    },
-    "calificaran": [
-      "fred.weasley",
-      "pippin.tuk",
-      "sam.gamyi",
-      "theoden"
-    ],
-    "calificaron": [
-      "fred.weasley",
-      "pippin.tuk",
-      "sam.gamyi",
-      "theoden"
-    ],
-    "cancelado": false,
-    "creado": "2026-10-06T06:20:20.000Z",
-    "cancelSorteado": true
-  },
-  "cy8fpsj22li7fpndey4o438or": {
-    "organizador": "gimli",
-    "fecha": "2026-10-11T11:30:00.000Z",
-    "deporte": "FUTBOL",
-    "cupo": 11,
-    "jugadores": [
-      "bellatrix.lestrange",
-      "rubeus.hagrid",
-      "nemo"
-    ],
-    "pendientes": [],
-    "bajasSorteadas": false,
-    "asistencia": null,
-    "calificaran": [],
-    "calificaron": [],
-    "cancelado": false,
-    "creado": "2026-10-06T15:31:40.000Z",
-    "cancelSorteado": false,
-    "pendientesHumanos": 0,
-    "anotados": 1
-  },
-  "c7nl04hd6u8tzwa483m4x5dnb": {
-    "organizador": "mace.windu",
-    "fecha": "2026-10-07T22:00:00.000Z",
-    "deporte": "PADEL",
-    "cupo": 3,
-    "jugadores": [],
-    "pendientes": [],
-    "bajasSorteadas": true,
-    "asistencia": {
-      "mace.windu": true
-    },
-    "calificaran": [
-      "mace.windu"
-    ],
-    "calificaron": [
-      "mace.windu"
-    ],
-    "cancelado": false,
-    "creado": "2026-10-07T00:46:20.000Z",
-    "cancelSorteado": true
-  },
-  "cmuyvb95v00mh01s4mcmxkmxj": {
-    "jugadores": [
-      "eowyn",
-      "bellatrix.lestrange"
-    ],
-    "pendientes": [],
-    "bajasSorteadas": false,
-    "asistencia": null,
-    "calificaran": [],
-    "calificaron": [],
-    "cancelado": false,
-    "organizador": "sam.gamyi",
-    "fecha": "2026-10-12T23:00:00.000Z",
-    "deporte": "PADEL",
-    "cupo": 3,
-    "creado": "2026-10-08T01:38:43.524Z",
-    "pendientesHumanos": 0,
-    "anotados": 2
-  },
-  "cmuze9f8x00qm01s4i38ludmf": {
-    "jugadores": [
-      "padme.amidala",
-      "sirius.black",
-      "fred.weasley",
       "arya.stark",
-      "walle",
-      "pippin.tuk",
-      "bellatrix.lestrange",
-      "marty.mcfly"
-    ],
-    "pendientes": [],
-    "bajasSorteadas": false,
-    "asistencia": null,
-    "calificaran": [],
-    "calificaron": [],
-    "cancelado": false,
-    "organizador": "lois.lane",
-    "fecha": "2026-10-14T00:00:00.000Z",
-    "deporte": "FUTBOL",
-    "cupo": 9,
-    "creado": "2026-10-08T10:29:10.804Z",
-    "pendientesHumanos": 0,
-    "anotados": 7
-  },
-  "cmuze9iaj00qp01s48ih9enzi": {
-    "jugadores": [
-      "elrond"
-    ],
-    "pendientes": [],
-    "bajasSorteadas": false,
-    "asistencia": null,
-    "calificaran": [],
-    "calificaron": [],
-    "cancelado": false,
-    "organizador": "albus.dumbledore",
-    "fecha": "2026-10-12T23:00:00.000Z",
-    "deporte": "TENIS",
-    "cupo": 3,
-    "creado": "2026-10-08T10:29:14.753Z",
-    "pendientesHumanos": 0,
-    "anotados": 1
-  },
-  "cmuzvslwc00ty01s41ntvmal2": {
-    "jugadores": [
-      "jaime.lannister",
-      "eowyn",
-      "montgomery.burns",
-      "davy.jones"
-    ],
-    "pendientes": [],
-    "bajasSorteadas": false,
-    "asistencia": null,
-    "calificaran": [],
-    "calificaron": [],
-    "cancelado": false,
-    "organizador": "faramir",
-    "fecha": "2026-10-11T12:00:00.000Z",
-    "deporte": "RUNNING",
-    "cupo": 5,
-    "creado": "2026-10-08T18:39:59.379Z",
-    "pendientesHumanos": 0,
-    "anotados": 4
-  },
-  "cmuzvsynx00u701s45m9dngjg": {
-    "jugadores": [],
-    "pendientes": [],
-    "bajasSorteadas": false,
-    "asistencia": null,
-    "calificaran": [],
-    "calificaron": [],
-    "cancelado": false,
-    "organizador": "hector.barbossa",
-    "fecha": "2026-10-13T00:00:00.000Z",
-    "deporte": "FUTBOL",
-    "cupo": 9,
-    "creado": "2026-10-08T18:40:15.917Z",
-    "pendientesHumanos": 0,
-    "anotados": 0
-  },
-  "cmuzw68r700wy01s4qzb8wg58": {
-    "jugadores": [
-      "bellatrix.lestrange"
-    ],
-    "pendientes": [],
-    "bajasSorteadas": true,
-    "asistencia": null,
-    "calificaran": [],
-    "calificaron": [],
-    "cancelado": false,
-    "organizador": "tony.stark",
-    "fecha": "2026-10-10T11:00:00.000Z",
-    "deporte": "PADEL",
-    "cupo": 3,
-    "creado": "2026-10-08T18:50:35.497Z",
-    "pendientesHumanos": 0,
-    "anotados": 2,
-    "cancelSorteado": true,
-    "cancelar": false
-  },
-  "cmuzw6y4u00xn01s4jfcdhxvd": {
-    "jugadores": [],
-    "pendientes": [],
-    "bajasSorteadas": false,
-    "asistencia": null,
-    "calificaran": [],
-    "calificaron": [],
-    "cancelado": false,
-    "organizador": "neo",
-    "fecha": "2026-10-10T22:30:00.000Z",
-    "deporte": "BASQUET",
-    "cupo": 7,
-    "creado": "2026-10-08T18:51:08.378Z",
-    "pendientesHumanos": 0,
-    "anotados": 0,
-    "cancelSorteado": true,
-    "cancelar": false
-  },
-  "cmuzw7blz00xw01s4m2o4oofe": {
-    "jugadores": [],
-    "pendientes": [],
-    "bajasSorteadas": false,
-    "asistencia": null,
-    "calificaran": [],
-    "calificaron": [],
-    "cancelado": false,
-    "organizador": "hermione.granger",
-    "fecha": "2026-10-11T13:00:00.000Z",
-    "deporte": "TENIS",
-    "cupo": 3,
-    "creado": "2026-10-08T18:51:25.852Z",
-    "pendientesHumanos": 0,
-    "anotados": 0
-  },
-  "cmv01z87o013j01s4d11cjt85": {
-    "jugadores": [],
-    "pendientes": [
-      "davy.jones"
-    ],
-    "bajasSorteadas": false,
-    "asistencia": {
-      "jaime.lannister": true
-    },
-    "calificaran": [],
-    "calificaron": [],
-    "cancelado": false,
-    "organizador": "jaime.lannister",
-    "fecha": "2026-10-09T10:00:00.000Z",
-    "deporte": "RUNNING",
-    "cupo": 3,
-    "creado": "2026-10-08T21:33:06.050Z",
-    "cancelSorteado": true,
-    "cancelar": false,
-    "pendientesHumanos": 0,
-    "anotados": 0
-  },
-  "cmv01zpjv014101s4hcps1lma": {
-    "jugadores": [
-      "montgomery.burns",
+      "hermione.granger",
+      "elrond",
       "fred.weasley"
     ],
     "pendientes": [],
-    "bajasSorteadas": true,
-    "asistencia": null,
-    "calificaran": [],
-    "calificaron": [],
-    "cancelado": false,
-    "organizador": "molly.weasley",
-    "fecha": "2026-10-10T11:30:00.000Z",
-    "deporte": "RUNNING",
-    "cupo": 5,
-    "creado": "2026-10-08T21:33:28.459Z",
-    "pendientesHumanos": 0,
-    "anotados": 2,
-    "cancelSorteado": true,
-    "cancelar": false
-  },
-  "cmusruu0n000401pai7eh410l": {
-    "jugadores": [],
-    "pendientes": [
-      "bellatrix.lestrange",
-      "gimli",
-      "theoden"
-    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
     "calificaron": [],
     "cancelado": false,
-    "organizador": "humano:cmtepzlvs000001mznmn6wue5",
-    "fecha": "2026-10-12T22:00:00.000Z",
-    "deporte": "FUTBOL",
-    "cupo": 10,
-    "anotados": 0
+    "creado": "2026-10-09T18:41:20.000Z",
+    "cancelSorteado": false
   },
-  "cmv0zk6ri008g01ojmm41amwj": {
+  "cho7v1g7qqqbtvf085cjmw70o": {
+    "organizador": "lois.lane",
+    "fecha": "2026-10-14T23:00:00.000Z",
+    "deporte": "FUTBOL",
+    "cupo": 9,
     "jugadores": [
       "pippin.tuk"
     ],
-    "pendientes": [
-      "arya.stark"
-    ],
-    "bajasSorteadas": false,
-    "asistencia": null,
-    "calificaran": [],
-    "calificaron": [],
-    "cancelado": false,
-    "organizador": "lois.lane",
-    "fecha": "2026-10-14T23:30:00.000Z",
-    "deporte": "FUTBOL",
-    "cupo": 9,
-    "creado": "2026-10-09T13:13:11.131Z",
-    "pendientesHumanos": 0,
-    "anotados": 0
-  },
-  "cmv1oevqz00di01oj5aq6wa7v": {
-    "jugadores": [
-      "obiwan.kenobi"
-    ],
     "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
     "calificaron": [],
     "cancelado": false,
+    "creado": "2026-10-09T21:51:40.000Z",
+    "cancelSorteado": false
+  },
+  "c48ol58pf3e35v9c1si7ukvzu": {
     "organizador": "elrond",
-    "fecha": "2026-10-13T23:30:00.000Z",
-    "deporte": "FUTBOL",
-    "cupo": 9,
-    "creado": "2026-10-10T00:48:54.039Z",
-    "pendientesHumanos": 0,
-    "anotados": 0
-  },
-  "cmv1ofpsz00ej01ojswz6itgg": {
-    "jugadores": [],
-    "pendientes": [
-      "bellatrix.lestrange"
-    ],
-    "bajasSorteadas": false,
-    "asistencia": null,
-    "calificaran": [],
-    "calificaron": [],
-    "cancelado": false,
-    "organizador": "mace.windu",
-    "fecha": "2026-10-14T23:30:00.000Z",
-    "deporte": "PADEL",
+    "fecha": "2026-10-12T00:00:00.000Z",
+    "deporte": "TENIS",
     "cupo": 3,
-    "creado": "2026-10-10T00:49:32.916Z",
-    "pendientesHumanos": 0,
-    "anotados": 0
-  },
-  "cmv1oh9hh00gl01oj234wzyrv": {
     "jugadores": [],
     "pendientes": [],
     "bajasSorteadas": false,
@@ -1549,12 +1624,7 @@
     "calificaran": [],
     "calificaron": [],
     "cancelado": false,
-    "organizador": "molly.weasley",
-    "fecha": "2026-10-11T12:00:00.000Z",
-    "deporte": "RUNNING",
-    "cupo": 5,
-    "creado": "2026-10-10T00:50:45.085Z",
-    "pendientesHumanos": 0,
-    "anotados": 0
+    "creado": "2026-10-10T00:45:40.000Z",
+    "cancelSorteado": false
   }
 }

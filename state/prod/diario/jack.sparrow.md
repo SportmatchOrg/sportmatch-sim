@@ -1,2 +1,1 @@
-- 2026-10-08 19:08 · pasó a mirar, nada por hacer
-- 2026-10-10 06:50 · armó un pádel el domingo 11 a las 9:30 en Pádel Point Pilar
+- 2026-10-08 12:23 · pidió unirse al running de Héctor Barbossa del sáb 10/10 11:30 en Parque Pilar · Circuito

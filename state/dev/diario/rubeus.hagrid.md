@@ -1,18 +1,15 @@
-- 2026-10-01 00:52 · pidió unirse al futbol de Elrond del lun 05/10 21:00 en Fútbol 5 Nordelta
-- 2026-10-01 09:44 · pidió unirse al futbol de Fred Weasley del mar 06/10 21:00 en Campus Austral · Canchas
-- 2026-10-02 00:46 · pidió unirse al futbol de Mace Windu del mar 06/10 21:30 en Fútbol 5 Nordelta
-- 2026-10-03 03:37 · pidió unirse al futbol de Steve Rogers del lun 05/10 22:30 en Club Pilar · Cancha 2
-- 2026-10-03 06:24 · pidió unirse al futbol de Elrond del mié 07/10 21:00 en Fútbol 5 Nordelta
-- 2026-10-03 18:16 · pidió unirse al futbol de Steve Rogers del dom 04/10 19:00 en Campus Austral · Canchas
-- 2026-10-04 00:45 · pidió unirse al futbol de Sam Gamyi del lun 05/10 21:00 en River Courts · Cancha 2
-- 2026-10-04 21:38 · calificó el futbol del dom 04/10 19:00
-- 2026-10-04 21:38 · pidió unirse al futbol de Nemo del sáb 10/10 09:00 en Campus Austral · Canchas
-- 2026-10-05 21:47 · calificó el futbol del lun 05/10 21:00 (reportó que faltó Gimli)
-- 2026-10-05 21:47 · calificó el futbol del lun 05/10 21:00 (reportó que faltó Fred Weasley, Jon Snow)
-- 2026-10-06 21:43 · calificó el futbol del mar 06/10 21:00
-- 2026-10-06 21:44 · pidió unirse al futbol de Padmé Amidala del vie 09/10 22:00 en Polideportivo Del Viso
-- 2026-10-07 21:35 · calificó el futbol del mié 07/10 21:00
-- 2026-10-07 17:35 · miró partidos, nada de Pilar que le cierre
-- 2026-10-08 07:29 · pidió unirse al fútbol del sábado a la mañana en Club Pilar (tarde libre de estudiante)
-- 2026-10-08 15:40 · leyó que Hermione lo aceptó en el fútbol del sábado; nada más
-- 2026-10-09 21:48 · calificó el fútbol y pidió unirse al del domingo a la mañana en River Courts
+- 2026-10-01 00:45 · pidió unirse al futbol de Gimli del mar 06/10 20:00 en River Courts · Cancha 2
+- 2026-10-01 18:33 · pidió unirse al futbol de Steve Rogers del sáb 03/10 10:30 en Club Pilar · Cancha 2
+- 2026-10-02 21:50 · pidió unirse al futbol de Fred Weasley del mié 07/10 20:00 en Campus Austral · Canchas
+- 2026-10-03 00:19 · pidió unirse al futbol de Steve Rogers del mar 06/10 20:30 en Polideportivo Del Viso
+- 2026-10-03 12:38 · calificó el futbol del sáb 03/10 10:30
+- 2026-10-03 12:38 · pidió unirse al futbol de Nemo del mié 07/10 22:30 en Club Pilar · Cancha 2
+- 2026-10-04 09:50 · pidió unirse al futbol de Steve Rogers del lun 05/10 21:00 en Campus Austral · Canchas
+- 2026-10-05 21:12 · calificó el futbol del lun 05/10 21:00
+- 2026-10-06 18:42 · se bajó a último momento del futbol del mar 06/10 20:30
+- 2026-10-07 21:50 · calificó el futbol del mié 07/10 20:00
+- 2026-10-07 21:50 · pidió unirse al futbol de Elrond del vie 09/10 19:30 en Fútbol 5 Nordelta
+- 2026-10-08 00:51 · pidió unirse al futbol de Lois Lane del sáb 10/10 21:00 en Club Pilar · Cancha 2
+- 2026-10-09 00:53 · pidió unirse al futbol de Hermione Granger del dom 11/10 11:00 en Club Pilar · Cancha 2
+- 2026-10-09 03:46 · pidió unirse al futbol de Albus Dumbledore del sáb 10/10 20:00 en Fútbol 5 Nordelta
+- 2026-10-09 18:47 · pidió unirse al futbol de Héctor Barbossa del mar 13/10 19:00 en Club Pilar · Cancha 2

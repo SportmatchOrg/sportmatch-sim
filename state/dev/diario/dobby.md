@@ -1,9 +1,7 @@
-- 2026-10-02 12:23 · pidió unirse al padel de Faramir del dom 04/10 09:00 en Club Pilar · Cancha 2
-- 2026-10-02 15:48 · pidió unirse al padel de Sam Gamyi del lun 05/10 22:00 en Club Belgrano · Gimnasio
-- 2026-10-07 07:09 · miró partidos, ninguno le convenció de nivel
-- 2026-10-07 18:25 · entró a mirar pádel, nada a su nivel
-- 2026-10-07 22:36 · miró pádel, lo único es en Tigre y lejos de CABA; pasó
-- 2026-10-09 03:07 · pidió unirse al pádel del viernes en Club Belgrano (nivel intermedio, justo lo que buscaba)
-- 2026-10-09 10:13 · leyó que lo aceptaron en el pádel de Bellatrix; nada más
-- 2026-10-09 17:07 · miró pádel, no hay nada próximo en CABA; no se anotó a nada
-- 2026-10-10 06:48 · miró pádel, nada en CABA; no se anotó
+- 2026-10-01 12:21 · pidió unirse al padel de Bellatrix Lestrange del mar 06/10 20:00 en Club Belgrano · Gimnasio
+- 2026-10-02 03:30 · pidió unirse al padel de Éowyn del dom 04/10 22:00 en Pádel Point Pilar
+- 2026-10-06 03:51 · pidió unirse al padel de Éowyn del mié 07/10 22:30 en Club Pilar · Cancha 2
+- 2026-10-07 09:20 · pidió unirse al padel de Mace Windu del sáb 10/10 10:30 en Tigre Pádel Club
+- 2026-10-08 06:25 · pidió unirse al padel de Sam Gamyi del jue 08/10 21:00 en Club Belgrano · Gimnasio
+- 2026-10-09 12:16 · pidió unirse al padel de Bellatrix Lestrange del mar 13/10 22:30 en Club Belgrano · Gimnasio
+- 2026-10-10 09:48 · se bajó a último momento del padel del sáb 10/10 10:30

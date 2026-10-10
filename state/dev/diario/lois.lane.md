@@ -1,6 +1,19 @@
-- 2026-10-08 07:29 · armó un fútbol el martes 21 h en Club Pilar (puntuales, después del laburo)
-- 2026-10-08 15:50 · aceptó a Padmé Amidala y a Sirius Black en su fútbol del martes en Club Pilar
-- 2026-10-08 18:33 · miró partidos, nada que encaje con su nivel; no se anotó
-- 2026-10-08 19:06 · aceptó a Wall-E, Arya y Fred en su fútbol del martes en Club Pilar
-- 2026-10-09 10:13 · aceptó a Pippin y a Bellatrix en su fútbol del martes y armó otro el miércoles 20:30 en Del Viso
-- 2026-10-10 06:47 · aceptó a Marty y a Pippin en sus partidos de fútbol
+- 2026-10-07 00:15 · organizó un futbol INTERMEDIATE para el sáb 10/10 21:00 en Club Pilar · Cancha 2
+- 2026-10-07 06:30 · aceptó a Gimli en su futbol del sáb 10/10 21:00
+- 2026-10-07 06:32 · pidió unirse al futbol de Jon Snow del jue 08/10 21:00 en Campus Austral · Canchas
+- 2026-10-07 12:47 · aceptó a Jon Snow en su futbol del sáb 10/10 21:00
+- 2026-10-07 12:47 · pidió unirse al futbol de Padmé Amidala del lun 12/10 20:00 en Club Pilar · Cancha 2
+- 2026-10-07 18:19 · aceptó a Steve Rogers en su futbol del sáb 10/10 21:00
+- 2026-10-07 18:19 · aceptó a Bellatrix Lestrange en su futbol del sáb 10/10 21:00
+- 2026-10-08 00:45 · aceptó a Chewbacca en su futbol del sáb 10/10 21:00
+- 2026-10-08 00:45 · aceptó a Pippin Tuk en su futbol del sáb 10/10 21:00
+- 2026-10-08 00:45 · aceptó a Padmé Amidala en su futbol del sáb 10/10 21:00
+- 2026-10-08 00:50 · pidió unirse al futbol de Steve Rogers del sáb 10/10 10:30 en Campus Austral · Canchas
+- 2026-10-08 03:29 · aceptó a Rubeus Hagrid en su futbol del sáb 10/10 21:00
+- 2026-10-08 06:22 · aceptó a Fred Weasley en su futbol del sáb 10/10 21:00
+- 2026-10-08 21:31 · calificó el futbol del jue 08/10 21:00
+- 2026-10-08 21:39 · pidió unirse al futbol de Steve Rogers del vie 09/10 20:00 en Campus Austral · Canchas
+- 2026-10-09 09:48 · pidió unirse al futbol de Albus Dumbledore del sáb 10/10 20:00 en Fútbol 5 Nordelta
+- 2026-10-09 18:51 · organizó un futbol INTERMEDIATE para el mié 14/10 20:00 en Campus Austral · Canchas
+- 2026-10-10 00:43 · aceptó a Pippin Tuk en su futbol del mié 14/10 20:00
+- 2026-10-10 12:31 · calificó el futbol del sáb 10/10 10:30 (reportó que faltó Nemo)

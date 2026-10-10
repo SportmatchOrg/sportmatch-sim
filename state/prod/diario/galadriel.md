@@ -1,6 +1,7 @@
-- 2026-10-03 00:50 · organizó un basquet ADVANCED para el mar 06/10 19:00 en Club Belgrano · Gimnasio
-- 2026-10-03 03:38 · aceptó a Ron Weasley en su basquet del mar 06/10 19:00
-- 2026-10-03 15:35 · aceptó a Éowyn en su basquet del mar 06/10 19:00
-- 2026-10-04 18:31 · pidió unirse al basquet de Milhouse Van Houten del lun 05/10 19:00 en Polideportivo Del Viso
-- 2026-10-06 15:10 · aceptó a Boromir en su basquet del mar 06/10 19:00
-- 2026-10-09 10:15 · entró a mirar, nada de básquet que le cierre
+- 2026-10-01 21:43 · organizó un basquet INTERMEDIATE para el lun 05/10 20:00 en Club Belgrano · Gimnasio
+- 2026-10-02 00:36 · aceptó a Ron Weasley en su basquet del lun 05/10 20:00
+- 2026-10-02 09:24 · aceptó a Éowyn en su basquet del lun 05/10 20:00
+- 2026-10-02 21:43 · aceptó a Milhouse Van Houten en su basquet del lun 05/10 20:00
+- 2026-10-05 03:25 · aceptó a Harley Quinn en su basquet del lun 05/10 20:00
+- 2026-10-07 12:49 · pidió unirse al basquet de Harley Quinn del jue 08/10 20:00 en Campus Austral · Canchas
+- 2026-10-08 18:25 · se bajó a último momento del basquet del jue 08/10 20:00

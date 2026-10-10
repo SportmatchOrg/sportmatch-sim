@@ -1,4 +1,3 @@
-- 2026-10-08 18:51 · primera vez en la app: miró partidos, todavía no se animó a anotarse
-- 2026-10-09 10:15 · miró partidos de fútbol y básquet, todavía no se anima
-- 2026-10-09 17:09 · pidió unirse al fútbol del sábado en Club Pilar
-- 2026-10-09 21:53 · vio que Lois lo aceptó en el fútbol del sábado
+- 2026-10-09 00:48 · pidió unirse al futbol de Hermione Granger del dom 11/10 11:00 en Club Pilar · Cancha 2
+- 2026-10-09 06:50 · pidió unirse al futbol de Albus Dumbledore del sáb 10/10 20:00 en Fútbol 5 Nordelta
+- 2026-10-09 15:39 · pidió unirse al futbol de Elrond del mar 13/10 22:00 en Fútbol 5 Nordelta

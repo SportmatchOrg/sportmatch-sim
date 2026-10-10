@@ -1,2 +1,9 @@
-- 2026-10-06 06:21 · pidió unirse al futbol de Hermione Granger del sáb 10/10 10:00 en Club Pilar · Cancha 2
-- 2026-10-07 22:38 · se anotó al pádel del viernes en Tigre Pádel Club (se suma a todo)
+- 2026-10-07 21:56 · organizó un padel INTERMEDIATE para el dom 11/10 10:00 en Club Pilar · Cancha 2
+- 2026-10-07 21:56 · pidió unirse al futbol de Lois Lane del sáb 10/10 21:00 en Club Pilar · Cancha 2
+- 2026-10-08 06:22 · aceptó a Bellatrix Lestrange en su padel del dom 11/10 10:00
+- 2026-10-08 06:22 · pidió unirse al futbol de Steve Rogers del sáb 10/10 10:30 en Campus Austral · Canchas
+- 2026-10-08 15:14 · aceptó a Éowyn en su padel del dom 11/10 10:00
+- 2026-10-08 18:25 · aceptó a Yoda en su padel del dom 11/10 10:00
+- 2026-10-08 18:27 · pidió unirse al futbol de Hermione Granger del dom 11/10 11:00 en Club Pilar · Cancha 2
+- 2026-10-09 00:51 · pidió unirse al futbol de Elrond del vie 09/10 19:30 en Fútbol 5 Nordelta
+- 2026-10-10 09:48 · se bajó a último momento del futbol del sáb 10/10 10:30

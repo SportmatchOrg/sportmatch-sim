@@ -1,1 +1,0 @@
-- 2026-10-09 17:09 · entró a mirar, nada que le interese

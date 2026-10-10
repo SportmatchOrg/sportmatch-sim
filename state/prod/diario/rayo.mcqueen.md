@@ -1,2 +1,0 @@
-- 2026-10-09 10:15 · entró a mirar partidos, no se anotó a nada
-- 2026-10-10 06:49 · miró partidos de fútbol y pádel, no se anotó a nada

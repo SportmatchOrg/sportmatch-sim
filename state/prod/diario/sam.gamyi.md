@@ -1,16 +1,32 @@
-- 2026-10-04 00:39 · organizó un padel INTERMEDIATE para el sáb 10/10 10:00 en Club Belgrano · Gimnasio
-- 2026-10-04 00:39 · pidió unirse al padel de Bellatrix Lestrange del lun 05/10 20:00 en Club Belgrano · Gimnasio
-- 2026-10-04 06:38 · aceptó a Bellatrix Lestrange en su padel del sáb 10/10 10:00
-- 2026-10-04 09:36 · aceptó a Qui-Gon Jinn en su padel del sáb 10/10 10:00
-- 2026-10-04 09:42 · pidió unirse al futbol de Mace Windu del jue 08/10 20:00 en Fútbol 5 Nordelta
-- 2026-10-04 21:39 · aceptó a Dobby en su padel del sáb 10/10 10:00
-- 2026-10-04 21:43 · pidió unirse al futbol de Doc Brown del mar 06/10 19:00 en Polideportivo Del Viso
-- 2026-10-05 06:54 · organizó un padel BEGINNER para el vie 09/10 21:00 en Club Belgrano · Gimnasio
-- 2026-10-05 09:22 · aceptó a Bellatrix Lestrange en su padel del vie 09/10 21:00
-- 2026-10-05 21:42 · calificó el padel del lun 05/10 20:00
-- 2026-10-05 21:42 · aceptó a Yoda en su padel del vie 09/10 21:00
-- 2026-10-05 21:42 · aceptó a Mace Windu en su padel del vie 09/10 21:00
-- 2026-10-05 21:46 · pidió unirse al futbol de Elrond del dom 11/10 11:00 en Fútbol 5 Nordelta
-- 2026-10-06 21:12 · calificó el futbol del mar 06/10 19:00 (reportó que faltó Théoden)
-- 2026-10-09 03:10 · calificó el fútbol del martes, entusiasmado
-- 2026-10-09 21:52 · calificó el fútbol jugado y armó un pádel BEGINNER el martes 13 en Club Belgrano
+- 2026-10-02 18:18 · organizó un padel INTERMEDIATE para el sáb 03/10 09:00 en Club Belgrano · Gimnasio
+- 2026-10-02 18:18 · pidió unirse al futbol de Gimli del mar 06/10 20:00 en River Courts · Cancha 2
+- 2026-10-02 21:43 · aceptó a Bellatrix Lestrange en su padel del sáb 03/10 09:00
+- 2026-10-02 21:43 · aceptó a Éowyn en su padel del sáb 03/10 09:00
+- 2026-10-03 00:21 · pidió unirse al futbol de Steve Rogers del sáb 03/10 10:30 en Club Pilar · Cancha 2
+- 2026-10-03 06:20 · aceptó a Yoda en su padel del sáb 03/10 09:00
+- 2026-10-03 09:27 · calificó el padel del sáb 03/10 09:00
+- 2026-10-03 21:16 · pidió unirse al futbol de Steve Rogers del lun 05/10 21:00 en Campus Austral · Canchas
+- 2026-10-04 12:27 · pidió unirse al futbol de Jon Snow del jue 08/10 21:00 en Campus Austral · Canchas
+- 2026-10-04 18:40 · organizó un tenis INTERMEDIATE para el mié 07/10 20:00 en River Courts · Cancha 2
+- 2026-10-04 21:36 · aceptó a Jaime Lannister en su tenis del mié 07/10 20:00
+- 2026-10-05 00:50 · organizó un padel INTERMEDIATE para el jue 08/10 21:30 en Club Belgrano · Gimnasio
+- 2026-10-05 06:45 · aceptó a Éowyn en su padel del jue 08/10 21:30
+- 2026-10-05 06:45 · aceptó a Mace Windu en su padel del jue 08/10 21:30
+- 2026-10-05 09:45 · aceptó a Bellatrix Lestrange en su padel del jue 08/10 21:30
+- 2026-10-05 15:26 · pidió unirse al futbol de Nemo del mié 07/10 22:30 en Club Pilar · Cancha 2
+- 2026-10-05 18:41 · pidió unirse al futbol de Pippin Tuk del sáb 10/10 19:00 en Campus Austral · Canchas
+- 2026-10-05 21:12 · calificó el futbol del lun 05/10 21:00
+- 2026-10-06 21:34 · calificó el futbol del mar 06/10 20:00
+- 2026-10-07 21:50 · calificó el tenis del mié 07/10 20:00 (reportó que faltó Jaime Lannister)
+- 2026-10-07 21:54 · organizó un padel INTERMEDIATE para el jue 08/10 21:00 en Club Belgrano · Gimnasio
+- 2026-10-08 00:45 · calificó el futbol del mié 07/10 22:30 (reportó que faltó Elrond)
+- 2026-10-08 00:49 · pidió unirse al padel de Bellatrix Lestrange del mar 13/10 22:30 en Club Belgrano · Gimnasio
+- 2026-10-08 03:29 · aceptó a Bellatrix Lestrange en su padel del jue 08/10 21:00
+- 2026-10-08 09:46 · aceptó a Dobby en su padel del jue 08/10 21:00
+- 2026-10-08 18:25 · rechazó a Tony Stark en su padel del jue 08/10 21:00
+- 2026-10-08 21:31 · calificó el futbol del jue 08/10 21:00
+- 2026-10-08 21:31 · calificó el padel del jue 08/10 21:30
+- 2026-10-08 21:31 · calificó el padel del jue 08/10 21:00 (reportó que faltó Dobby)
+- 2026-10-09 03:44 · organizó un tenis INTERMEDIATE para el dom 11/10 09:30 en River Courts · Cancha 2
+- 2026-10-09 12:11 · pidió unirse al padel de Tony Stark del sáb 10/10 09:30 en Tigre Pádel Club
+- 2026-10-10 09:48 · calificó el padel del sáb 10/10 09:30

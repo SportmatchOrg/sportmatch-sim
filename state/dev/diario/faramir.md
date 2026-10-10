@@ -1,24 +1,21 @@
-- 2026-10-01 06:17 · organizó un padel INTERMEDIATE para el dom 04/10 09:30 en Club Pilar · Cancha 2
-- 2026-10-01 09:39 · aceptó a Éowyn en su padel del dom 04/10 09:30
-- 2026-10-01 12:31 · aceptó a Bellatrix Lestrange en su padel del dom 04/10 09:30
-- 2026-10-01 15:16 · aceptó a Yoda en su padel del dom 04/10 09:30
-- 2026-10-01 15:16 · rechazó a Qui-Gon Jinn en su padel del dom 04/10 09:30 (ya estaba lleno)
-- 2026-10-02 03:54 · organizó un padel ADVANCED para el dom 04/10 09:00 en Club Pilar · Cancha 2
-- 2026-10-02 06:31 · aceptó a Jon Snow en su padel del dom 04/10 09:00
-- 2026-10-02 09:31 · pidió unirse al padel de Mace Windu del sáb 03/10 20:00 en Tigre Pádel Club
-- 2026-10-02 15:42 · rechazó a Dobby en su padel del dom 04/10 09:00
-- 2026-10-02 15:42 · aceptó a Bellatrix Lestrange en su padel del dom 04/10 09:00
-- 2026-10-02 15:42 · aceptó a Éowyn en su padel del dom 04/10 09:00
-- 2026-10-03 21:11 · calificó el padel del sáb 03/10 20:00
-- 2026-10-03 21:13 · pidió unirse al running de Éowyn del vie 09/10 22:00 en Campus Austral · Canchas
-- 2026-10-04 09:14 · calificó el padel del dom 04/10 09:00
-- 2026-10-04 09:15 · organizó un padel BEGINNER para el sáb 10/10 09:30 en Club Pilar · Cancha 2
-- 2026-10-04 12:49 · calificó el padel del dom 04/10 09:30
-- 2026-10-04 12:49 · aceptó a Jon Snow en su padel del sáb 10/10 09:30
-- 2026-10-04 12:49 · aceptó a Qui-Gon Jinn en su padel del sáb 10/10 09:30
-- 2026-10-04 12:49 · rechazó a Yoda en su padel del sáb 10/10 09:30
-- 2026-10-04 12:49 · aceptó a Bellatrix Lestrange en su padel del sáb 10/10 09:30
-- 2026-10-08 15:40 · armó un running tranqui el domingo 9 h en Parque Pilar (para despejarse)
-- 2026-10-08 18:32 · aceptó a los cuatro que pidieron para su running del domingo en Parque Pilar
-- 2026-10-09 03:07 · miró la app y leyó notificaciones; ya tiene su running del domingo armado
-- 2026-10-10 06:48 · calificó el partido del que faltaron dos; nada más hoy
+- 2026-10-02 09:28 · organizó un padel BEGINNER para el dom 04/10 09:00 en Club Pilar · Cancha 2
+- 2026-10-02 12:17 · aceptó a Qui-Gon Jinn en su padel del dom 04/10 09:00
+- 2026-10-02 15:29 · aceptó a Jon Snow en su padel del dom 04/10 09:00
+- 2026-10-02 18:14 · aceptó a Éowyn en su padel del dom 04/10 09:00
+- 2026-10-03 15:40 · organizó un padel INTERMEDIATE para el dom 04/10 09:00 en Pádel Point Pilar
+- 2026-10-03 18:33 · canceló su padel del dom 04/10 09:00 (iba 1/3)
+- 2026-10-04 00:45 · organizó un running ADVANCED para el sáb 10/10 11:30 en Parque Pilar · Circuito
+- 2026-10-04 03:47 · aceptó a Montgomery Burns en su running del sáb 10/10 11:30
+- 2026-10-04 06:39 · aceptó a Éowyn en su running del sáb 10/10 11:30
+- 2026-10-04 09:44 · calificó el padel del dom 04/10 09:00 (reportó que faltó Qui-Gon Jinn)
+- 2026-10-04 09:44 · aceptó a Jaime Lannister en su running del sáb 10/10 11:30
+- 2026-10-04 15:14 · aceptó a Qui-Gon Jinn en su running del sáb 10/10 11:30
+- 2026-10-06 03:45 · aceptó a Davy Jones en su running del sáb 10/10 11:30
+- 2026-10-06 03:45 · organizó un running INTERMEDIATE para el dom 11/10 09:00 en Campus Austral · Canchas
+- 2026-10-06 09:28 · aceptó a Jaime Lannister en su running del dom 11/10 09:00
+- 2026-10-06 15:22 · aceptó a Éowyn en su running del dom 11/10 09:00
+- 2026-10-06 18:42 · aceptó a Davy Jones en su running del dom 11/10 09:00
+- 2026-10-06 21:34 · aceptó a Fred Weasley en su running del dom 11/10 09:00
+- 2026-10-07 06:30 · aceptó a Montgomery Burns en su running del dom 11/10 09:00
+- 2026-10-07 06:30 · rechazó a Molly Weasley en su running del dom 11/10 09:00 (ya estaba lleno)
+- 2026-10-10 12:31 · calificó el running del sáb 10/10 11:30

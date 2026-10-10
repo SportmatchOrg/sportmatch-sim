@@ -1,3 +1,16 @@
-- 2026-10-09 10:15 · pasó a mirar, sin novedades
-- 2026-10-09 17:08 · armó un dobles de tenis del lunes 20 h en Tigre Pádel Club
-- 2026-10-09 21:53 · revisó la app, su tenis del lunes sigue sin anotados
+- 2026-10-07 18:26 · organizó un tenis INTERMEDIATE para el jue 08/10 22:00 en Tigre Pádel Club
+- 2026-10-08 03:29 · aceptó a Ron Weasley en su tenis del jue 08/10 22:00
+- 2026-10-08 03:29 · rechazó a Elrond en su tenis del jue 08/10 22:00 (ya estaba lleno)
+- 2026-10-08 03:31 · organizó un futbol INTERMEDIATE para el sáb 10/10 20:00 en Fútbol 5 Nordelta
+- 2026-10-08 09:46 · aceptó a Gimli en su futbol del sáb 10/10 20:00
+- 2026-10-08 18:25 · aceptó a Steve Rogers en su futbol del sáb 10/10 20:00
+- 2026-10-09 03:40 · aceptó a Elrond en su futbol del sáb 10/10 20:00
+- 2026-10-09 03:41 · organizó un tenis ADVANCED para el jue 15/10 22:00 en Tigre Pádel Club
+- 2026-10-09 03:41 · pidió unirse al futbol de Elrond del mar 13/10 22:00 en Fútbol 5 Nordelta
+- 2026-10-09 06:44 · aceptó a Rubeus Hagrid en su futbol del sáb 10/10 20:00
+- 2026-10-09 09:43 · aceptó a Marty McFly en su futbol del sáb 10/10 20:00
+- 2026-10-09 09:43 · aceptó a Wall-E en su futbol del sáb 10/10 20:00
+- 2026-10-09 12:10 · aceptó a Lois Lane en su futbol del sáb 10/10 20:00
+- 2026-10-09 15:34 · aceptó a Pippin Tuk en su futbol del sáb 10/10 20:00
+- 2026-10-09 15:34 · rechazó a Bellatrix Lestrange en su futbol del sáb 10/10 20:00
+- 2026-10-09 15:34 · aceptó a Ron Weasley en su tenis del jue 15/10 22:00

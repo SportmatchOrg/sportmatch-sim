@@ -1,2 +1,3 @@
-- 2026-10-08 18:51 · pidió unirse al fútbol del martes en BACKYARD Pilar (primera vez, se anota a todo)
-- 2026-10-09 17:08 · se unió al fútbol del sábado en Club Pilar (para despejarse)
+- 2026-10-08 12:24 · pidió unirse al futbol de Padmé Amidala del lun 12/10 20:00 en Club Pilar · Cancha 2
+- 2026-10-09 00:50 · pidió unirse al futbol de Hermione Granger del dom 11/10 11:00 en Club Pilar · Cancha 2
+- 2026-10-09 06:46 · pidió unirse al futbol de Albus Dumbledore del sáb 10/10 20:00 en Fútbol 5 Nordelta

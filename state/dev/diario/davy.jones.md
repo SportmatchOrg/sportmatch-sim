@@ -1,8 +1,8 @@
-- 2026-10-06 06:18 · pidió unirse al running de Qui-Gon Jinn del jue 08/10 20:30 en Parque Pilar · Circuito
-- 2026-10-06 15:52 · pidió unirse al basquet de Galadriel del mar 06/10 22:30 en Club Belgrano · Gimnasio
-- 2026-10-06 18:34 · pidió unirse al basquet de Milhouse Van Houten del vie 09/10 20:00 en Club Belgrano · Gimnasio
-- 2026-10-07 22:38 · miró básquet y running, no había nada para anotarse; pasó
-- 2026-10-08 15:51 · pidió unirse al running principiante del domingo 9 h en Parque Pilar (entusiasta)
-- 2026-10-09 03:06 · calificó el running y pidió unirse al del viernes a la mañana en Parque Pilar (entusiasta)
-- 2026-10-09 17:07 · miró básquet y running en Pilar, nada que lo enganche hoy
-- 2026-10-10 06:48 · miró partidos; ya tiene pedidos de running en Pilar, esperó
+- 2026-10-06 00:19 · pidió unirse al running de Faramir del sáb 10/10 11:30 en Parque Pilar · Circuito
+- 2026-10-06 15:27 · pidió unirse al running de Faramir del dom 11/10 09:00 en Campus Austral · Canchas
+- 2026-10-07 15:35 · pidió unirse al basquet de Harley Quinn del jue 08/10 20:00 en Campus Austral · Canchas
+- 2026-10-08 15:21 · pidió unirse al running de Héctor Barbossa del sáb 10/10 11:30 en Parque Pilar · Circuito
+- 2026-10-09 03:45 · pidió unirse al running de Molly Weasley del dom 11/10 09:00 en Bosques de Palermo · Lago
+- 2026-10-09 06:48 · pidió unirse al running de Molly Weasley del sáb 10/10 10:00 en Campus Austral · Canchas
+- 2026-10-10 12:31 · calificó el running del sáb 10/10 11:30
+- 2026-10-10 12:31 · calificó el running del sáb 10/10 11:30

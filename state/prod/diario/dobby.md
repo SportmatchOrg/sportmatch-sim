@@ -1,7 +1,7 @@
-- 2026-10-02 03:17 · pidió unirse al padel de Bellatrix Lestrange del sáb 03/10 09:00 en Club Belgrano · Gimnasio
-- 2026-10-02 06:39 · pidió unirse al padel de Mace Windu del sáb 03/10 09:00 en Tigre Pádel Club
-- 2026-10-03 21:22 · pidió unirse al padel de Bellatrix Lestrange del lun 05/10 20:00 en Club Belgrano · Gimnasio
-- 2026-10-04 18:27 · pidió unirse al padel de Sam Gamyi del sáb 10/10 10:00 en Club Belgrano · Gimnasio
-- 2026-10-05 03:40 · pidió unirse al padel de Mace Windu del mié 07/10 22:00 en Tigre Pádel Club
-- 2026-10-05 18:44 · se bajó a último momento del padel del lun 05/10 20:00
-- 2026-10-07 21:37 · se bajó a último momento del padel del mié 07/10 22:00
+- 2026-10-01 12:21 · pidió unirse al padel de Bellatrix Lestrange del mar 06/10 20:00 en Club Belgrano · Gimnasio
+- 2026-10-02 03:30 · pidió unirse al padel de Éowyn del dom 04/10 22:00 en Pádel Point Pilar
+- 2026-10-06 03:51 · pidió unirse al padel de Éowyn del mié 07/10 22:30 en Club Pilar · Cancha 2
+- 2026-10-07 09:20 · pidió unirse al padel de Mace Windu del sáb 10/10 10:30 en Tigre Pádel Club
+- 2026-10-08 06:25 · pidió unirse al padel de Sam Gamyi del jue 08/10 21:00 en Club Belgrano · Gimnasio
+- 2026-10-09 12:16 · pidió unirse al padel de Bellatrix Lestrange del mar 13/10 22:30 en Club Belgrano · Gimnasio
+- 2026-10-10 09:48 · se bajó a último momento del padel del sáb 10/10 10:30

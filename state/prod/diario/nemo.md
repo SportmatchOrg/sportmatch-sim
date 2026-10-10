@@ -1,1 +1,25 @@
-- 2026-10-08 19:08 · primera vez: pidió unirse al fútbol del martes 13 en BACKYARD Pilar
+- 2026-10-03 03:23 · pidió unirse al futbol de Steve Rogers del mar 06/10 20:30 en Polideportivo Del Viso
+- 2026-10-03 09:31 · organizó un futbol INTERMEDIATE para el mié 07/10 22:30 en Club Pilar · Cancha 2
+- 2026-10-03 15:36 · aceptó a Pippin Tuk en su futbol del mié 07/10 22:30
+- 2026-10-03 15:36 · rechazó a Rubeus Hagrid en su futbol del mié 07/10 22:30
+- 2026-10-03 15:36 · aceptó a Bellatrix Lestrange en su futbol del mié 07/10 22:30
+- 2026-10-03 15:36 · aceptó a Jon Snow en su futbol del mié 07/10 22:30
+- 2026-10-03 15:36 · aceptó a Steve Rogers en su futbol del mié 07/10 22:30
+- 2026-10-03 15:36 · pidió unirse al futbol de Steve Rogers del lun 05/10 21:00 en Campus Austral · Canchas
+- 2026-10-04 06:45 · pidió unirse al futbol de Elrond del dom 04/10 20:00 en Fútbol 5 Nordelta
+- 2026-10-04 09:51 · pidió unirse al futbol de Pippin Tuk del sáb 10/10 19:00 en Campus Austral · Canchas
+- 2026-10-04 15:16 · pidió unirse al futbol de Jon Snow del jue 08/10 21:00 en Campus Austral · Canchas
+- 2026-10-05 12:34 · aceptó a Doc Brown en su futbol del mié 07/10 22:30
+- 2026-10-05 12:34 · pidió unirse al futbol de Fred Weasley del mié 07/10 20:00 en Campus Austral · Canchas
+- 2026-10-05 18:36 · aceptó a Sam Gamyi en su futbol del mié 07/10 22:30
+- 2026-10-05 21:12 · calificó el futbol del lun 05/10 21:00
+- 2026-10-05 21:18 · pidió unirse al futbol de Doc Brown del mié 07/10 21:00 en Campus Austral · Canchas
+- 2026-10-06 12:34 · aceptó a Elrond en su futbol del mié 07/10 22:30
+- 2026-10-06 12:35 · pidió unirse al futbol de Steve Rogers del jue 08/10 19:00 en Club Pilar · Cancha 2
+- 2026-10-07 03:15 · aceptó a Fred Weasley en su futbol del mié 07/10 22:30
+- 2026-10-07 18:19 · aceptó a Padmé Amidala en su futbol del mié 07/10 22:30
+- 2026-10-07 21:50 · calificó el futbol del mié 07/10 20:00
+- 2026-10-07 21:50 · calificó el futbol del mié 07/10 21:00
+- 2026-10-07 21:53 · pidió unirse al futbol de Steve Rogers del sáb 10/10 10:30 en Campus Austral · Canchas
+- 2026-10-09 00:52 · pidió unirse al futbol de Hermione Granger del dom 11/10 11:00 en Club Pilar · Cancha 2
+- 2026-10-09 12:14 · pidió unirse al futbol de Héctor Barbossa del mar 13/10 19:00 en Club Pilar · Cancha 2

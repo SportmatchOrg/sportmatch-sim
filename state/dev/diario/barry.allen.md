@@ -1,4 +1,0 @@
-- 2026-10-07 00:18 · miró partidos y no se anotó a nada
-- 2026-10-07 17:35 · miró partidos, no se anotó
-- 2026-10-07 18:25 · miró pádel y fútbol, como siempre sin anotarse
-- 2026-10-09 17:07 · miró partidos de pádel y fútbol, solo curioseó

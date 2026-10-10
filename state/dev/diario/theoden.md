@@ -1,12 +1,7 @@
-- 2026-10-05 06:53 · pidió unirse al futbol de Bellatrix Lestrange del vie 09/10 21:30 en River Courts · Cancha 2
-- 2026-10-05 12:23 · pidió unirse al futbol de Sam Gamyi del lun 05/10 21:00 en River Courts · Cancha 2
-- 2026-10-05 15:47 · pidió unirse al futbol de Elrond del lun 05/10 21:00 en Fútbol 5 Nordelta
-- 2026-10-05 21:47 · calificó el futbol del lun 05/10 21:00 (reportó que faltó Fred Weasley, Jon Snow)
-- 2026-10-05 21:55 · pidió unirse al futbol de Hermione Granger del sáb 10/10 10:00 en Club Pilar · Cancha 2
-- 2026-10-06 03:26 · pidió unirse al futbol de Sam Gamyi del mié 07/10 21:00 en River Courts · Cancha 2
-- 2026-10-07 21:35 · calificó el futbol del mié 07/10 21:00
-- 2026-10-08 15:50 · pidió unirse al fútbol del viernes 20:30 en Fútbol 5 Nordelta (puntual, organizado)
-- 2026-10-08 19:06 · pidió sumarse al fútbol del viernes 18:30 en River Courts (puntual, organizado)
-- 2026-10-08 19:07 · intentó sumarse otra vez al fútbol de River Courts pero ya estaba anotado; nada más
-- 2026-10-09 17:07 · miró fútbol en CABA, nada que lo convenza hoy
-- 2026-10-09 21:50 · calificó el fútbol y pidió unirse al del lunes en el Monumental
+- 2026-10-04 18:43 · pidió unirse al futbol de Gimli del mar 06/10 20:00 en River Courts · Cancha 2
+- 2026-10-06 00:20 · pidió unirse al futbol de Pippin Tuk del sáb 10/10 19:00 en Campus Austral · Canchas
+- 2026-10-06 15:26 · pidió unirse al futbol de Steve Rogers del mar 06/10 20:30 en Polideportivo Del Viso
+- 2026-10-06 21:34 · calificó el futbol del mar 06/10 20:00
+- 2026-10-06 21:41 · pidió unirse al futbol de Padmé Amidala del lun 12/10 20:00 en Club Pilar · Cancha 2
+- 2026-10-09 12:14 · pidió unirse al futbol de Elrond del vie 09/10 19:30 en Fútbol 5 Nordelta
+- 2026-10-09 21:50 · pidió unirse al futbol de Steve Rogers del mar 13/10 19:00 en Club Pilar · Cancha 2

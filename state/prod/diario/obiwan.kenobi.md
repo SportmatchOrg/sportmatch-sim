@@ -1,6 +1,1 @@
-- 2026-10-06 03:16 · pidió unirse al futbol de Elrond del dom 11/10 11:00 en Fútbol 5 Nordelta
-- 2026-10-06 09:16 · pidió unirse al futbol de Pippin Tuk del jue 08/10 20:00 en Campus Austral · Canchas
-- 2026-10-06 15:15 · pidió unirse al running de Fred Weasley del mar 06/10 19:00 en Parque Pilar · Circuito
-- 2026-10-06 21:12 · calificó el running del mar 06/10 19:00
-- 2026-10-09 03:10 · calificó su partido, generoso; mira qué hay
-- 2026-10-10 06:49 · se unió al fútbol del sábado en Club Pilar (nivel intermedio, para ir probando)
+- 2026-10-09 03:44 · pidió unirse al futbol de Elrond del mar 13/10 22:00 en Fútbol 5 Nordelta

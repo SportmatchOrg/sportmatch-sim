@@ -1,9 +1,4 @@
-- 2026-10-04 00:43 · pidió unirse al running de Éowyn del vie 09/10 22:00 en Campus Austral · Canchas
-- 2026-10-04 12:54 · pidió unirse al running de Jaime Lannister del lun 05/10 22:00 en Campus Austral · Canchas
-- 2026-10-05 06:50 · pidió unirse al running de Qui-Gon Jinn del jue 08/10 20:30 en Parque Pilar · Circuito
-- 2026-10-07 07:09 · miró partidos de running, no había ninguno
-- 2026-10-07 14:44 · miró partidos: no hay running, no se anotó a nada
-- 2026-10-07 17:35 · miró la app, sin carreras en Pilar
-- 2026-10-08 15:50 · pidió unirse al running del domingo a las 9 en Parque Pilar (le gustan las mañanas de finde)
-- 2026-10-09 03:06 · calificó el running y pidió unirse al del sábado a la mañana en Campus Austral
-- 2026-10-10 06:48 · miró partidos de running; ya tiene pedidos de finde, esperó
+- 2026-10-04 00:46 · pidió unirse al running de Faramir del sáb 10/10 11:30 en Parque Pilar · Circuito
+- 2026-10-07 03:18 · pidió unirse al running de Faramir del dom 11/10 09:00 en Campus Austral · Canchas
+- 2026-10-07 06:37 · pidió unirse al running de Molly Weasley del dom 11/10 09:00 en Bosques de Palermo · Lago
+- 2026-10-10 12:31 · calificó el running del sáb 10/10 11:30

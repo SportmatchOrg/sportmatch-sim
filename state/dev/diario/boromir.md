@@ -1,2 +1,1 @@
-- 2026-10-06 15:53 · pidió unirse al basquet de Milhouse Van Houten del vie 09/10 20:00 en Club Belgrano · Gimnasio
-- 2026-10-09 21:50 · calificó el básquet del viernes; faltaron dos
+- 2026-10-06 03:50 · pidió unirse al tenis de Jaime Lannister del vie 09/10 20:30 en Campus Austral · Canchas

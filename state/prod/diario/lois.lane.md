@@ -1,18 +1,19 @@
-- 2026-10-07 00:16 · organizó un futbol INTERMEDIATE para el lun 12/10 20:00 en Campus Austral · Canchas
-- 2026-10-07 03:45 · aceptó a Sirius Black en su futbol del lun 12/10 20:00
-- 2026-10-07 06:40 · aceptó a Bellatrix Lestrange en su futbol del lun 12/10 20:00
-- 2026-10-07 09:35 · aceptó a Pippin Tuk en su futbol del lun 12/10 20:00
-- 2026-10-07 09:35 · rechazó a Barry Allen en su futbol del lun 12/10 20:00
-- 2026-10-07 12:18 · aceptó a Chewbacca en su futbol del lun 12/10 20:00
-- 2026-10-07 12:18 · aceptó a Will Turner en su futbol del lun 12/10 20:00
-- 2026-10-07 12:18 · aceptó a Doc Brown en su futbol del lun 12/10 20:00
-- 2026-10-07 15:16 · aceptó a Fred Weasley en su futbol del lun 12/10 20:00
-- 2026-10-07 15:16 · aceptó a Mace Windu en su futbol del lun 12/10 20:00
-- 2026-10-07 15:16 · rechazó a Gimli en su futbol del lun 12/10 20:00
-- 2026-10-07 21:37 · aceptó a Padmé Amidala en su futbol del lun 12/10 20:00
-- 2026-10-08 18:51 · entró a mirar cómo viene su fútbol del lunes 12; sin novedades
-- 2026-10-08 19:08 · armó fútbol del sáb 10/10 20:00 en Club Pilar y pidió unirse al del martes en BACKYARD
-- 2026-10-09 03:10 · aceptó a Tomás, Fred y Pippin en su fútbol del sábado en Club Pilar
-- 2026-10-09 17:09 · pidió unirse al fútbol del martes en Club Pilar
-- 2026-10-09 21:53 · aceptó a Marty McFly y Wall-E en su fútbol del sábado
-- 2026-10-10 06:49 · leyó las notificaciones, pasó a mirar
+- 2026-10-07 00:15 · organizó un futbol INTERMEDIATE para el sáb 10/10 21:00 en Club Pilar · Cancha 2
+- 2026-10-07 06:30 · aceptó a Gimli en su futbol del sáb 10/10 21:00
+- 2026-10-07 06:32 · pidió unirse al futbol de Jon Snow del jue 08/10 21:00 en Campus Austral · Canchas
+- 2026-10-07 12:47 · aceptó a Jon Snow en su futbol del sáb 10/10 21:00
+- 2026-10-07 12:47 · pidió unirse al futbol de Padmé Amidala del lun 12/10 20:00 en Club Pilar · Cancha 2
+- 2026-10-07 18:19 · aceptó a Steve Rogers en su futbol del sáb 10/10 21:00
+- 2026-10-07 18:19 · aceptó a Bellatrix Lestrange en su futbol del sáb 10/10 21:00
+- 2026-10-08 00:45 · aceptó a Chewbacca en su futbol del sáb 10/10 21:00
+- 2026-10-08 00:45 · aceptó a Pippin Tuk en su futbol del sáb 10/10 21:00
+- 2026-10-08 00:45 · aceptó a Padmé Amidala en su futbol del sáb 10/10 21:00
+- 2026-10-08 00:50 · pidió unirse al futbol de Steve Rogers del sáb 10/10 10:30 en Campus Austral · Canchas
+- 2026-10-08 03:29 · aceptó a Rubeus Hagrid en su futbol del sáb 10/10 21:00
+- 2026-10-08 06:22 · aceptó a Fred Weasley en su futbol del sáb 10/10 21:00
+- 2026-10-08 21:31 · calificó el futbol del jue 08/10 21:00
+- 2026-10-08 21:39 · pidió unirse al futbol de Steve Rogers del vie 09/10 20:00 en Campus Austral · Canchas
+- 2026-10-09 09:48 · pidió unirse al futbol de Albus Dumbledore del sáb 10/10 20:00 en Fútbol 5 Nordelta
+- 2026-10-09 18:51 · organizó un futbol INTERMEDIATE para el mié 14/10 20:00 en Campus Austral · Canchas
+- 2026-10-10 00:43 · aceptó a Pippin Tuk en su futbol del mié 14/10 20:00
+- 2026-10-10 12:31 · calificó el futbol del sáb 10/10 10:30 (reportó que faltó Nemo)

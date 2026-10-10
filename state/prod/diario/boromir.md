@@ -1,3 +1,1 @@
-- 2026-10-06 12:29 · pidió unirse al basquet de Galadriel del mar 06/10 19:00 en Club Belgrano · Gimnasio
-- 2026-10-06 21:12 · calificó el basquet del mar 06/10 19:00
-- 2026-10-08 18:51 · miró partidos de básquet y tenis, no encontró nada
+- 2026-10-06 03:50 · pidió unirse al tenis de Jaime Lannister del vie 09/10 20:30 en Campus Austral · Canchas

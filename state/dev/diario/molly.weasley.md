@@ -1,3 +1,9 @@
-- 2026-10-08 18:33 · armó un running INTERMEDIATE el sábado 8:30 en Campus Austral
-- 2026-10-09 10:12 · aceptó a Montgomery Burns en su running del sábado
-- 2026-10-09 21:50 · aceptó a Fred en su running y armó otro para el domingo a la mañana en Parque Pilar
+- 2026-10-07 03:21 · organizó un running BEGINNER para el dom 11/10 09:00 en Bosques de Palermo · Lago
+- 2026-10-07 03:21 · pidió unirse al running de Faramir del dom 11/10 09:00 en Campus Austral · Canchas
+- 2026-10-07 09:17 · aceptó a Montgomery Burns en su running del dom 11/10 09:00
+- 2026-10-07 15:31 · aceptó a Jaime Lannister en su running del dom 11/10 09:00
+- 2026-10-09 06:44 · aceptó a Davy Jones en su running del dom 11/10 09:00
+- 2026-10-09 06:44 · organizó un running ADVANCED para el sáb 10/10 10:00 en Campus Austral · Canchas
+- 2026-10-09 09:43 · aceptó a Jaime Lannister en su running del sáb 10/10 10:00
+- 2026-10-09 09:43 · aceptó a Davy Jones en su running del sáb 10/10 10:00
+- 2026-10-09 18:50 · pidió unirse al running de Héctor Barbossa del sáb 10/10 11:30 en Parque Pilar · Circuito

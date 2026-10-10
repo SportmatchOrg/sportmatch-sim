@@ -1,14 +1,5 @@
-- 2026-09-30 18:47 · pidió unirse al padel de Bellatrix Lestrange del jue 01/10 19:00 en Club Belgrano · Gimnasio
-- 2026-10-01 12:32 · pidió unirse al padel de Faramir del dom 04/10 09:30 en Club Pilar · Cancha 2
-- 2026-10-01 21:12 · calificó el padel del jue 01/10 19:00
-- 2026-10-04 12:49 · calificó el padel del dom 04/10 09:30
-- 2026-10-04 12:49 · pidió unirse al padel de Faramir del sáb 10/10 09:30 en Club Pilar · Cancha 2
-- 2026-10-06 21:54 · miró partidos de pádel, no había ninguno; no se anotó a nada
-- 2026-10-07 00:01 · buscó pádel, no había nada; sigue mirando
-- 2026-10-07 00:18 · buscó pádel, no encontró partidos
-- 2026-10-07 14:44 · miró la app, sin ganas de anotarse hoy
-- 2026-10-07 18:25 · miró pádel, solo había partidos de noche en Belgrano; hoy no se anotó
-- 2026-10-07 22:36 · miró pádel, nada de finde a la mañana en Pilar; pasó
-- 2026-10-07 22:38 · se anotó al pádel del domingo a la mañana en Club Belgrano (por fin uno de finde)
-- 2026-10-08 19:06 · leyó notificaciones: lo aceptaron en el pádel del domingo; nada más
-- 2026-10-09 10:13 · buscó pádel, no hay partidos nuevos; no se anotó
+- 2026-10-01 09:21 · pidió unirse al padel de Mace Windu del dom 04/10 21:00 en Tigre Pádel Club
+- 2026-10-03 03:24 · pidió unirse al padel de Sam Gamyi del sáb 03/10 09:00 en Club Belgrano · Gimnasio
+- 2026-10-04 21:41 · pidió unirse al padel de Mace Windu del sáb 10/10 21:00 en Tigre Pádel Club
+- 2026-10-08 15:18 · pidió unirse al padel de Chewbacca del dom 11/10 10:00 en Club Pilar · Cancha 2
+- 2026-10-09 21:52 · pidió unirse al padel de Tony Stark del sáb 10/10 09:30 en Tigre Pádel Club

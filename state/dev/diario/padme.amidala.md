@@ -1,11 +1,24 @@
-- 2026-10-05 18:41 · pidió unirse al basquet de Milhouse Van Houten del vie 09/10 20:00 en Club Belgrano · Gimnasio
-- 2026-10-06 00:49 · organizó un futbol INTERMEDIATE para el vie 09/10 22:00 en Polideportivo Del Viso
-- 2026-10-06 00:49 · pidió unirse al futbol de Mace Windu del mié 07/10 22:30 en Fútbol 5 Nordelta
-- 2026-10-06 06:15 · rechazó a Pippin Tuk en su futbol del vie 09/10 22:00
-- 2026-10-06 12:27 · aceptó a Bellatrix Lestrange en su futbol del vie 09/10 22:00
-- 2026-10-07 00:38 · aceptó a Rubeus Hagrid en su futbol del vie 09/10 22:00
-- 2026-10-07 22:38 · calificó el partido y se anotó al fútbol del lunes en Campus Austral (competitivo, busca ganar)
-- 2026-10-08 15:40 · aceptó a Gimli en su fútbol del viernes y pidió unirse al fútbol del martes en Club Pilar (competitiva)
-- 2026-10-08 15:49 · aceptó a Marty McFly en su fútbol y pidió unirse al fútbol del jueves en River Courts (competitiva)
-- 2026-10-08 18:33 · leyó notificaciones, ya está anotada a varios; hoy solo mira
-- 2026-10-09 03:06 · aceptó a Mati en su fútbol; ya está anotada a varios, no buscó más
+- 2026-10-05 03:30 · pidió unirse al futbol de Pippin Tuk del sáb 10/10 19:00 en Campus Austral · Canchas
+- 2026-10-06 06:42 · organizó un futbol INTERMEDIATE para el lun 12/10 20:00 en Club Pilar · Cancha 2
+- 2026-10-06 09:28 · aceptó a Doc Brown en su futbol del lun 12/10 20:00
+- 2026-10-06 09:29 · pidió unirse al futbol de Elrond del vie 09/10 19:30 en Fútbol 5 Nordelta
+- 2026-10-06 15:22 · aceptó a Bellatrix Lestrange en su futbol del lun 12/10 20:00
+- 2026-10-06 15:24 · pidió unirse al futbol de Gimli del mar 06/10 20:00 en River Courts · Cancha 2
+- 2026-10-06 21:34 · calificó el futbol del mar 06/10 20:00
+- 2026-10-07 00:10 · aceptó a Théoden en su futbol del lun 12/10 20:00
+- 2026-10-07 00:12 · pidió unirse al futbol de Steve Rogers del jue 08/10 19:00 en Club Pilar · Cancha 2
+- 2026-10-07 06:30 · aceptó a Steve Rogers en su futbol del lun 12/10 20:00
+- 2026-10-07 06:31 · pidió unirse al futbol de Doc Brown del mié 07/10 21:00 en Campus Austral · Canchas
+- 2026-10-07 09:17 · aceptó a Will Turner en su futbol del lun 12/10 20:00
+- 2026-10-07 15:31 · aceptó a Lois Lane en su futbol del lun 12/10 20:00
+- 2026-10-07 15:32 · pidió unirse al futbol de Nemo del mié 07/10 22:30 en Club Pilar · Cancha 2
+- 2026-10-07 21:50 · calificó el futbol del mié 07/10 21:00
+- 2026-10-07 21:50 · aceptó a Fred Weasley en su futbol del lun 12/10 20:00
+- 2026-10-07 21:50 · aceptó a Pippin Tuk en su futbol del lun 12/10 20:00
+- 2026-10-08 00:45 · calificó el futbol del mié 07/10 22:30 (reportó que faltó Elrond)
+- 2026-10-08 00:49 · pidió unirse al futbol de Lois Lane del sáb 10/10 21:00 en Club Pilar · Cancha 2
+- 2026-10-08 03:34 · pidió unirse al futbol de Steve Rogers del sáb 10/10 10:30 en Campus Austral · Canchas
+- 2026-10-08 15:14 · aceptó a Marty McFly en su futbol del lun 12/10 20:00
+- 2026-10-08 15:14 · pidió unirse al futbol de Elrond del mar 13/10 22:00 en Fútbol 5 Nordelta
+- 2026-10-09 18:45 · se bajó a último momento del futbol del vie 09/10 19:30
+- 2026-10-10 09:48 · se bajó a último momento del futbol del sáb 10/10 10:30

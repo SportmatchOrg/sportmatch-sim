@@ -1,10 +1,12 @@
-- 2026-10-03 15:50 · pidió unirse al tenis de Hermione Granger del dom 04/10 11:00 en Club Pilar · Cancha 2
-- 2026-10-03 21:17 · pidió unirse al running de Éowyn del vie 09/10 22:00 en Campus Austral · Canchas
-- 2026-10-04 09:18 · organizó un running INTERMEDIATE para el lun 05/10 22:00 en Campus Austral · Canchas
-- 2026-10-04 15:45 · aceptó a Montgomery Burns en su running del lun 05/10 22:00
-- 2026-10-05 00:44 · aceptó a Qui-Gon Jinn en su running del lun 05/10 22:00
-- 2026-10-05 03:39 · aceptó a Éowyn en su running del lun 05/10 22:00
-- 2026-10-05 09:16 · pidió unirse al running de Qui-Gon Jinn del jue 08/10 20:30 en Parque Pilar · Circuito
-- 2026-10-08 15:50 · pidió unirse al running del domingo a las 9 en Parque Pilar (madrugador)
-- 2026-10-08 18:33 · armó un running el viernes 7 h en Parque Pilar (antes de las 9, como siempre)
-- 2026-10-09 10:13 · leyó que no fue al último partido; miró y no se anotó a nada
+- 2026-10-03 18:40 · organizó un tenis INTERMEDIATE para el vie 09/10 20:30 en Campus Austral · Canchas
+- 2026-10-03 21:15 · pidió unirse al tenis de Hermione Granger del dom 04/10 10:00 en Campus Austral · Canchas
+- 2026-10-04 00:39 · aceptó a Elrond en su tenis del vie 09/10 20:30
+- 2026-10-04 06:39 · aceptó a Ron Weasley en su tenis del vie 09/10 20:30
+- 2026-10-04 06:40 · pidió unirse al running de Faramir del sáb 10/10 11:30 en Parque Pilar · Circuito
+- 2026-10-04 18:41 · pidió unirse al tenis de Sam Gamyi del mié 07/10 20:00 en River Courts · Cancha 2
+- 2026-10-06 06:40 · aceptó a Boromir en su tenis del vie 09/10 20:30
+- 2026-10-06 06:41 · pidió unirse al running de Faramir del dom 11/10 09:00 en Campus Austral · Canchas
+- 2026-10-07 12:50 · pidió unirse al running de Molly Weasley del dom 11/10 09:00 en Bosques de Palermo · Lago
+- 2026-10-08 09:51 · pidió unirse al running de Héctor Barbossa del sáb 10/10 11:30 en Parque Pilar · Circuito
+- 2026-10-09 06:47 · pidió unirse al running de Molly Weasley del sáb 10/10 10:00 en Campus Austral · Canchas
+- 2026-10-10 09:48 · se bajó a último momento del running del sáb 10/10 11:30

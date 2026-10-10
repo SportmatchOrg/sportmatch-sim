@@ -1,6 +1,1 @@
-- 2026-10-05 00:47 · pidió unirse al futbol de Elrond del mié 07/10 21:00 en Fútbol 5 Nordelta
-- 2026-10-06 06:22 · pidió unirse al futbol de Elrond del jue 08/10 21:00 en Fútbol 5 Nordelta
-- 2026-10-07 21:35 · calificó el futbol del mié 07/10 21:00
-- 2026-10-08 18:33 · pidió unirse al fútbol del viernes en Nordelta (juega con amigos)
-- 2026-10-09 03:06 · calificó el fútbol (generoso); ya está anotado al del viernes en Nordelta, no buscó más
-- 2026-10-09 21:50 · calificó el fútbol y pidió unirse al de Elrond del martes en Nordelta
+- 2026-10-09 03:44 · pidió unirse al futbol de Elrond del mar 13/10 22:00 en Fútbol 5 Nordelta

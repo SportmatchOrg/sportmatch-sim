@@ -1,19 +1,14 @@
-- 2026-10-01 15:21 · pidió unirse al padel de Mace Windu del dom 04/10 11:00 en Tigre Pádel Club
-- 2026-10-02 06:42 · pidió unirse al padel de Mace Windu del sáb 03/10 09:00 en Tigre Pádel Club
-- 2026-10-02 15:14 · pidió unirse al running de Fred Weasley del mar 06/10 19:00 en Parque Pilar · Circuito
-- 2026-10-03 15:38 · organizó un running INTERMEDIATE para el mié 07/10 19:00 en Parque Pilar · Circuito
-- 2026-10-03 21:20 · rechazó a Jaime Lannister en su running del mié 07/10 19:00
-- 2026-10-03 21:20 · pidió unirse al running de Éowyn del vie 09/10 20:00 en Campus Austral · Canchas
-- 2026-10-04 06:41 · pidió unirse al padel de Sam Gamyi del sáb 10/10 10:00 en Club Belgrano · Gimnasio
-- 2026-10-04 15:22 · aceptó a Montgomery Burns en su running del mié 07/10 19:00
-- 2026-10-04 15:22 · pidió unirse al running de Faramir del sáb 10/10 10:00 en Parque Pilar · Circuito
-- 2026-10-04 18:28 · pidió unirse al padel de Mace Windu del mié 07/10 22:00 en Tigre Pádel Club
-- 2026-10-05 15:33 · aceptó a Éowyn en su running del mié 07/10 19:00
-- 2026-10-05 18:44 · aceptó a Faramir en su running del mié 07/10 19:00
-- 2026-10-05 21:42 · aceptó a Fred Weasley en su running del mié 07/10 19:00
-- 2026-10-06 12:25 · aceptó a Davy Jones en su running del mié 07/10 19:00
-- 2026-10-06 21:12 · calificó el running del mar 06/10 19:00
-- 2026-10-07 21:37 · calificó el running del mié 07/10 19:00 (reportó que faltó Fred Weasley)
-- 2026-10-09 17:09 · pidió unirse al running del domingo en Campus Austral
-- 2026-10-09 21:52 · calificó el running jugado; después solo miró
-- 2026-10-09 21:53 · solo miró
+- 2026-10-01 09:22 · pidió unirse al padel de Mace Windu del dom 04/10 21:00 en Tigre Pádel Club
+- 2026-10-01 15:28 · pidió unirse al padel de Bellatrix Lestrange del mar 06/10 20:00 en Club Belgrano · Gimnasio
+- 2026-10-02 00:40 · pidió unirse al padel de Éowyn del dom 04/10 22:00 en Pádel Point Pilar
+- 2026-10-02 09:29 · pidió unirse al padel de Faramir del dom 04/10 09:00 en Club Pilar · Cancha 2
+- 2026-10-04 12:25 · pidió unirse al running de Faramir del sáb 10/10 11:30 en Parque Pilar · Circuito
+- 2026-10-04 21:36 · calificó el padel del dom 04/10 21:00
+- 2026-10-05 00:47 · calificó el padel del dom 04/10 22:00 (reportó que faltó Dobby)
+- 2026-10-05 00:47 · pidió unirse al padel de Mace Windu del sáb 10/10 21:00 en Tigre Pádel Club
+- 2026-10-06 21:34 · calificó el padel del mar 06/10 20:00
+- 2026-10-06 21:35 · pidió unirse al padel de Éowyn del mié 07/10 22:30 en Club Pilar · Cancha 2
+- 2026-10-08 12:23 · pidió unirse al padel de Tony Stark del sáb 10/10 09:30 en Tigre Pádel Club
+- 2026-10-09 21:51 · pidió unirse al padel de Tony Stark del sáb 10/10 09:30 en Tigre Pádel Club
+- 2026-10-10 09:48 · se bajó a último momento del running del sáb 10/10 11:30
+- 2026-10-10 09:48 · calificó el padel del sáb 10/10 09:30

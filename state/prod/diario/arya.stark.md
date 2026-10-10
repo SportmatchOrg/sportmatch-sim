@@ -1,0 +1,2 @@
+- 2026-10-09 15:37 · pidió unirse al futbol de Héctor Barbossa del mar 13/10 19:00 en Club Pilar · Cancha 2
+- 2026-10-09 18:49 · pidió unirse al futbol de Steve Rogers del mar 13/10 19:00 en Club Pilar · Cancha 2
