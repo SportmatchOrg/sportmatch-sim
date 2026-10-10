@@ -1,0 +1,1 @@
+- 2026-10-10 20:12 · pidió unirse al pádel del lun 12/10 en Pádel Point Pilar (nivel intermedio, cerca de casa)

@@ -75,3 +75,4 @@
 - 2026-10-10 00:43 · rechazó a Théoden en su futbol del mar 13/10 19:00
 - 2026-10-10 00:43 · aceptó a Fred Weasley en su futbol del mar 13/10 19:00
 - 2026-10-10 12:31 · calificó el futbol del sáb 10/10 10:30 (reportó que faltó Nemo)
+- 2026-10-10 20:11 · aceptó a Pippin Tuk en su fútbol del 13/10, calificó y organizó un fútbol INTERMEDIATE el lun 12/10 20:30 en Club Pilar

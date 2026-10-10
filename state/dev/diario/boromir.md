@@ -1,2 +1,3 @@
 - 2026-10-06 03:50 · pidió unirse al tenis de Jaime Lannister del vie 09/10 20:30 en Campus Austral · Canchas
 - 2026-10-10 19:31 · pidió unirse al tenis de Elrond del domingo a la tarde en Tigre Pádel Club
+- 2026-10-10 20:12 · pidió unirse al tenis del sáb 17/10 en River Courts

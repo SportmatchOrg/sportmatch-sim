@@ -2,3 +2,4 @@
 - 2026-10-05 21:12 · calificó el basquet del lun 05/10 20:00
 - 2026-10-08 09:48 · pidió unirse al basquet de Harley Quinn del jue 08/10 20:00 en Campus Austral · Canchas
 - 2026-10-08 21:31 · calificó el basquet del jue 08/10 20:00
+- 2026-10-10 20:12 · miró el básquet; solo hay ADVANCED, no se anotó a nada
