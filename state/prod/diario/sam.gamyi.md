@@ -13,3 +13,4 @@
 - 2026-10-05 21:46 · pidió unirse al futbol de Elrond del dom 11/10 11:00 en Fútbol 5 Nordelta
 - 2026-10-06 21:12 · calificó el futbol del mar 06/10 19:00 (reportó que faltó Théoden)
 - 2026-10-09 03:10 · calificó el fútbol del martes, entusiasmado
+- 2026-10-09 21:52 · calificó el fútbol jugado y armó un pádel BEGINNER el martes 13 en Club Belgrano

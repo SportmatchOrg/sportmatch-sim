@@ -1,1 +1,2 @@
 - 2026-10-09 17:09 · armó un pádel BEGINNER del domingo 11 h en Club Pilar
+- 2026-10-09 21:53 · aceptó a Éowyn en su pádel del domingo

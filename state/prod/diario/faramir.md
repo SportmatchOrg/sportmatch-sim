@@ -24,3 +24,4 @@
 - 2026-10-05 15:34 · pidió unirse al running de Qui-Gon Jinn del mié 07/10 19:00 en Parque Pilar · Circuito
 - 2026-10-06 21:12 · calificó el running del mar 06/10 19:00
 - 2026-10-07 21:37 · calificó el running del mié 07/10 19:00 (reportó que faltó Fred Weasley)
+- 2026-10-09 21:52 · calificó el running jugado; nada más por hoy

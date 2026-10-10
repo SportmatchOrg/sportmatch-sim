@@ -1,2 +1,3 @@
 - 2026-10-09 10:15 · pasó a mirar, sin novedades
 - 2026-10-09 17:08 · armó un dobles de tenis del lunes 20 h en Tigre Pádel Club
+- 2026-10-09 21:53 · revisó la app, su tenis del lunes sigue sin anotados

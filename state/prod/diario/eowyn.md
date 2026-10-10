@@ -20,3 +20,4 @@
 - 2026-10-07 18:50 · se bajó a último momento del running del mié 07/10 19:00
 - 2026-10-08 19:07 · aceptó a Tomás Valle Duran en su running del vie 09/10; no encontró nada para unirse
 - 2026-10-09 17:09 · pidió unirse al pádel del domingo en Club Pilar
+- 2026-10-09 21:52 · calificó el partido jugado y pidió unirse al running del domingo en Campus Austral

@@ -52,3 +52,25 @@
 2026-10-09T20:09:20.025Z lois.lane unirse cmv0kfe8k00s301mrn9e6lzbp
 2026-10-09T20:09:24.178Z eowyn unirse cmv1eexvw00xp01mrt9ex7d2x
 2026-10-09T20:09:28.404Z walle unirse cmv038d4a00e201mr0behed00
+2026-10-10T00:51:33.929Z sorteo cl4o9o1871171i37ty8ewspus faltaron=[jaime.lannister] calificaran=[eowyn,quigon.jinn,faramir]
+2026-10-10T00:51:39.836Z sorteo cpa3lsm8iz9t4nkbehk4l4nbz faltaron=[] calificaran=[sam.gamyi,bellatrix.lestrange,mace.windu]
+2026-10-10T00:52:04.257Z eowyn calificar cl4o9o1871171i37ty8ewspus ratings=3 noShows=1
+2026-10-10T00:52:06.363Z eowyn unirse cmv038p9l00eg01mr2qbk23xw
+2026-10-10T00:52:20.179Z quigon.jinn calificar cl4o9o1871171i37ty8ewspus ratings=3 noShows=1
+2026-10-10T00:52:22.579Z faramir calificar cl4o9o1871171i37ty8ewspus ratings=2 noShows=1
+2026-10-10T00:52:38.057Z bellatrix.lestrange calificar cpa3lsm8iz9t4nkbehk4l4nbz ratings=3 noShows=0
+2026-10-10T00:52:40.135Z mace.windu calificar cpa3lsm8iz9t4nkbehk4l4nbz ratings=3 noShows=0
+2026-10-10T00:52:42.239Z sam.gamyi calificar cpa3lsm8iz9t4nkbehk4l4nbz ratings=3 noShows=0
+2026-10-10T00:52:50.043Z sam.gamyi crear cmv1ojxws010v01mr03jressn PADEL 2026-10-13T23:30:00.000Z
+2026-10-10T00:52:57.691Z steve.rogers leer-notificaciones 2
+2026-10-10T00:53:01.118Z molly.weasley leer-notificaciones 3
+2026-10-10T00:53:04.463Z lois.lane leer-notificaciones 1
+2026-10-10T00:53:07.783Z apu.nahasapeemapetilon leer-notificaciones 1
+2026-10-10T00:53:15.242Z steve.rogers aceptar cmv0kfe8k00s301mrn9e6lzbp lois.lane
+2026-10-10T00:53:17.438Z molly.weasley aceptar cmv038p9l00eg01mr2qbk23xw montgomery.burns
+2026-10-10T00:53:19.582Z molly.weasley aceptar cmv038p9l00eg01mr2qbk23xw quigon.jinn
+2026-10-10T00:53:21.908Z molly.weasley aceptar cmv038p9l00eg01mr2qbk23xw eowyn
+2026-10-10T00:53:24.089Z lois.lane aceptar cmv038d4a00e201mr0behed00 marty.mcfly
+2026-10-10T00:53:26.261Z lois.lane aceptar cmv038d4a00e201mr0behed00 walle
+2026-10-10T00:53:28.433Z apu.nahasapeemapetilon aceptar cmv1eexvw00xp01mrt9ex7d2x eowyn
+2026-10-10T00:53:34.996Z walle leer-notificaciones 1
