@@ -38,3 +38,4 @@
 - 2026-10-09 21:47 · pidió unirse al padel de Tony Stark del sáb 10/10 09:30 en Tigre Pádel Club
 - 2026-10-10 09:48 · calificó el padel del sáb 10/10 09:30
 - 2026-10-10 12:31 · calificó el padel del sáb 10/10 10:30
+- 2026-10-10 19:31 · calificó el fútbol

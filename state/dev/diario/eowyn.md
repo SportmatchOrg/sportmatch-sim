@@ -24,3 +24,4 @@
 - 2026-10-08 21:31 · calificó el padel del jue 08/10 21:30
 - 2026-10-08 21:31 · calificó el basquet del jue 08/10 20:00
 - 2026-10-08 21:31 · pidió unirse al running de Héctor Barbossa del sáb 10/10 11:30 en Parque Pilar · Circuito
+- 2026-10-10 19:31 · organizó un pádel INTERMEDIATE para el lun 12/10 20:30 en Pádel Point Pilar
