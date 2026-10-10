@@ -28,10 +28,21 @@ que tienen algo pendiente (aceptar solicitudes, calificar, cancelar) y después 
 
 ## Automático (GitHub Actions)
 
-`.github/workflows/simular.yml` corre cada 3 horas a los :10 (00:10, 03:10 … 21:10, hora argentina; GitHub puede
-demorarlas), commitea `state/` a
+`.github/workflows/simular.yml` corre cada 4 horas a los :10 (00:10, 04:10 … 20:10, hora argentina), commitea `state/` a
 `main` y, si la corrida falla, avisa en Discord (distingue "sin límite de uso" de otros errores). También se
 lanza a mano desde Actions → *Corrida de usuarios simulados* → *Run workflow*, con el tope de personas.
+
+**Programación (cron-job.com).** El `schedule` de GitHub demoraba o salteaba corridas, así que las dispara un
+cronjob de [cron-job.com](https://cron-job.com) contra la API de GitHub:
+
+- URL: `https://api.github.com/repos/SportmatchOrg/sportmatch-sim/dispatches`, método `POST`
+- Headers: `Authorization: Bearer <token>`, `Accept: application/vnd.github+json`, `Content-Type: application/json`
+- Body: `{"event_type": "corrida-programada"}`
+- Horario: minuto 10, horas 0, 4, 8, 12, 16 y 20, zona `America/Argentina/Buenos_Aires`
+- Token: fine-grained de GitHub, solo este repo, permiso *Contents: Read and write* (lo pide el endpoint
+  `dispatches`). Si vence, las corridas dejan de llegar sin avisar en Discord: cron-job.com manda mail si falla.
+
+La API responde `204` cuando aceptó el disparo.
 
 | Nombre | Tipo | Valor |
 |---|---|---|

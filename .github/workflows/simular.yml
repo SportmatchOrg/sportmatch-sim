@@ -1,7 +1,8 @@
 name: Corrida de usuarios simulados
 
-# Cada 3 h, a los :10 (00:10, 03:10, 06:10 … 21:10 de Argentina; en UTC es la misma grilla corrida 3 h).
-# GitHub puede demorar o saltear corridas programadas cuando tiene mucha carga.
+# Cada 4 h, a los :10 (00:10, 04:10, 08:10 … 20:10 de Argentina). La programa cron-job.com, que llama a
+# la API de GitHub (POST /repos/SportmatchOrg/sportmatch-sim/dispatches, event_type "corrida-programada"):
+# el `schedule` de GitHub demoraba las corridas (40 min o más) o las salteaba.
 # Claude usa la suscripción de quien generó CLAUDE_CODE_OAUTH_TOKEN (`claude setup-token`).
 # Si la corrida falla (por ejemplo, sin límite de uso), avisa en Discord.
 #
@@ -10,8 +11,8 @@ name: Corrida de usuarios simulados
 # en state/<entorno>/. A mano, desde "Run workflow": los dos (uno detrás del otro) o uno puntual.
 
 on:
-  schedule:
-    - cron: '10 */3 * * *'
+  repository_dispatch:
+    types: [corrida-programada]
   workflow_dispatch:
     inputs:
       entorno:
