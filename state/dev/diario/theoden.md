@@ -9,3 +9,4 @@
 - 2026-10-08 19:06 · pidió sumarse al fútbol del viernes 18:30 en River Courts (puntual, organizado)
 - 2026-10-08 19:07 · intentó sumarse otra vez al fútbol de River Courts pero ya estaba anotado; nada más
 - 2026-10-09 17:07 · miró fútbol en CABA, nada que lo convenza hoy
+- 2026-10-09 21:50 · calificó el fútbol y pidió unirse al del lunes en el Monumental

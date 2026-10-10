@@ -15,3 +15,4 @@
 - 2026-10-07 17:35 · miró partidos, nada de Pilar que le cierre
 - 2026-10-08 07:29 · pidió unirse al fútbol del sábado a la mañana en Club Pilar (tarde libre de estudiante)
 - 2026-10-08 15:40 · leyó que Hermione lo aceptó en el fútbol del sábado; nada más
+- 2026-10-09 21:48 · calificó el fútbol y pidió unirse al del domingo a la mañana en River Courts

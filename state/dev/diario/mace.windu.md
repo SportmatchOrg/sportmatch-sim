@@ -38,3 +38,4 @@
 - 2026-10-09 03:06 · aclaración: a pomo2 no pudo aceptarlo, el pádel ya estaba lleno
 - 2026-10-09 10:12 · quiso aceptar a pomo2 pero el pádel estaba lleno; pidió sumarse al pádel del sábado en Tigre
 - 2026-10-09 17:06 · intentó aceptar a pomo2 en su pádel pero sigue lleno; no organizó nada nuevo
+- 2026-10-09 21:49 · calificó dos partidos y armó pádel del miércoles 20:30 en Tigre

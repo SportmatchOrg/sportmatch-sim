@@ -1,2 +1,3 @@
 - 2026-10-08 18:33 · armó un running INTERMEDIATE el sábado 8:30 en Campus Austral
 - 2026-10-09 10:12 · aceptó a Montgomery Burns en su running del sábado
+- 2026-10-09 21:50 · aceptó a Fred en su running y armó otro para el domingo a la mañana en Parque Pilar

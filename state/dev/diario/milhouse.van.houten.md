@@ -10,3 +10,4 @@
 - 2026-10-07 14:44 · miró la app, todavía no se anima
 - 2026-10-08 18:33 · miró la app, sigue sin animarse a nada nuevo
 - 2026-10-09 17:07 · miró la app, ningún básquet nuevo lo convenció
+- 2026-10-09 21:49 · calificó el básquet del viernes (generoso, todos bien)

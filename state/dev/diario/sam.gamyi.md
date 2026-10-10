@@ -33,3 +33,4 @@
 - 2026-10-08 15:40 · aceptó a Éowyn en su pádel del lunes y pidió unirse al pádel del domingo en Belgrano (principiante con ganas)
 - 2026-10-08 18:33 · pidió unirse al pádel del viernes en Belgrano (principiante con ganas)
 - 2026-10-08 19:06 · aceptó a Bellatrix en su pádel del lunes en Belgrano
+- 2026-10-09 21:50 · calificó tres partidos (todos buena onda)

@@ -1,1 +1,2 @@
 - 2026-10-08 15:40 · pidió unirse al fútbol del viernes en Del Viso (se suma a todo)
+- 2026-10-09 21:51 · calificó el fútbol y pidió unirse al del martes en Club Pilar

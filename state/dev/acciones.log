@@ -186,3 +186,44 @@
 2026-10-09T20:06:44.535Z mace.windu leer-notificaciones 1
 2026-10-09T20:07:15.425Z fred.weasley unirse cmv01zpjv014101s4hcps1lma
 2026-10-09T20:07:24.820Z sirius.black leer-notificaciones 1
+2026-10-10T00:47:29.915Z sorteo cmuxjf8eb00d901s43adfk92w faltaron=[] calificaran=[bellatrix.lestrange,sam.gamyi]
+2026-10-10T00:47:32.391Z sorteo cmuykg6rc00fa01s43ihz3ef6 faltaron=[] calificaran=[elrond,mace.windu,bellatrix.lestrange,obiwan.kenobi]
+2026-10-10T00:47:34.929Z sorteo cmuyma6ku00h701s4i5bxb1xj faltaron=[] calificaran=[mace.windu,quigon.jinn]
+2026-10-10T00:47:36.837Z sorteo cq5rid3q7znmrim10smmm9csn faltaron=[galadriel,davy.jones] calificaran=[milhouse.van.houten,boromir]
+2026-10-10T00:47:37.360Z sorteo c813cx4fo2jzpea9yko0ytmkc faltaron=[gimli] calificaran=[bellatrix.lestrange,pippin.tuk,nemo,theoden,sam.gamyi]
+2026-10-10T00:47:41.777Z sorteo cugelr45kc5w2vd9k96qmpzcx faltaron=[] calificaran=[sam.gamyi,bellatrix.lestrange]
+2026-10-10T00:47:43.569Z sorteo cthtnaj4u3983v03usibrbeo5 faltaron=[] calificaran=[bellatrix.lestrange,rubeus.hagrid,marty.mcfly]
+2026-10-10T00:48:15.519Z quigon.jinn calificar cmuyma6ku00h701s4i5bxb1xj ratings=3 noShows=0
+2026-10-10T00:48:18.309Z pippin.tuk leer-notificaciones 1
+2026-10-10T00:48:27.236Z pippin.tuk calificar c813cx4fo2jzpea9yko0ytmkc ratings=3 noShows=1
+2026-10-10T00:48:29.799Z pippin.tuk unirse cmv0zk6ri008g01ojmm41amwj
+2026-10-10T00:48:38.243Z rubeus.hagrid calificar cthtnaj4u3983v03usibrbeo5 ratings=3 noShows=0
+2026-10-10T00:48:41.425Z rubeus.hagrid unirse cy8fpsj22li7fpndey4o438or
+2026-10-10T00:48:44.475Z elrond leer-notificaciones 1
+2026-10-10T00:48:51.691Z elrond calificar cmuykg6rc00fa01s43ihz3ef6 ratings=3 noShows=0
+2026-10-10T00:48:54.040Z elrond crear cmv1oevqz00di01oj5aq6wa7v FUTBOL 2026-10-13T23:30:00.000Z
+2026-10-10T00:49:01.402Z bellatrix.lestrange leer-notificaciones 2
+2026-10-10T00:49:11.610Z bellatrix.lestrange calificar cmuxjf8eb00d901s43adfk92w ratings=3 noShows=0
+2026-10-10T00:49:13.922Z bellatrix.lestrange calificar cmuykg6rc00fa01s43ihz3ef6 ratings=3 noShows=0
+2026-10-10T00:49:16.293Z bellatrix.lestrange calificar c813cx4fo2jzpea9yko0ytmkc ratings=2 noShows=1
+2026-10-10T00:49:28.375Z mace.windu calificar cmuykg6rc00fa01s43ihz3ef6 ratings=3 noShows=0
+2026-10-10T00:49:30.621Z mace.windu calificar cmuyma6ku00h701s4i5bxb1xj ratings=3 noShows=0
+2026-10-10T00:49:32.917Z mace.windu crear cmv1ofpsz00ej01ojswz6itgg PADEL 2026-10-14T23:30:00.000Z
+2026-10-10T00:49:46.241Z milhouse.van.houten calificar cq5rid3q7znmrim10smmm9csn ratings=3 noShows=2
+2026-10-10T00:49:48.643Z nemo calificar c813cx4fo2jzpea9yko0ytmkc ratings=3 noShows=1
+2026-10-10T00:49:51.126Z nemo unirse cy8fpsj22li7fpndey4o438or
+2026-10-10T00:49:55.532Z sam.gamyi leer-notificaciones 1
+2026-10-10T00:50:06.090Z sam.gamyi calificar cmuxjf8eb00d901s43adfk92w ratings=3 noShows=0
+2026-10-10T00:50:08.348Z sam.gamyi calificar c813cx4fo2jzpea9yko0ytmkc ratings=2 noShows=1
+2026-10-10T00:50:10.646Z sam.gamyi calificar cugelr45kc5w2vd9k96qmpzcx ratings=1 noShows=0
+2026-10-10T00:50:19.252Z obiwan.kenobi calificar cmuykg6rc00fa01s43ihz3ef6 ratings=3 noShows=0
+2026-10-10T00:50:21.670Z obiwan.kenobi unirse cmv1oevqz00di01oj5aq6wa7v
+2026-10-10T00:50:30.791Z theoden calificar c813cx4fo2jzpea9yko0ytmkc ratings=2 noShows=1
+2026-10-10T00:50:32.997Z theoden unirse cmusruu0n000401pai7eh410l
+2026-10-10T00:50:35.497Z molly.weasley leer-notificaciones 1
+2026-10-10T00:50:42.794Z molly.weasley aceptar cmv01zpjv014101s4hcps1lma fred.weasley
+2026-10-10T00:50:45.087Z molly.weasley crear cmv1oh9hh00gl01oj234wzyrv RUNNING 2026-10-11T12:00:00.000Z
+2026-10-10T00:50:52.466Z boromir calificar cq5rid3q7znmrim10smmm9csn ratings=2 noShows=2
+2026-10-10T00:50:55.071Z marty.mcfly leer-notificaciones 1
+2026-10-10T00:51:00.753Z marty.mcfly calificar cthtnaj4u3983v03usibrbeo5 ratings=3 noShows=0
+2026-10-10T00:51:03.297Z marty.mcfly unirse cmuze9f8x00qm01s4i38ludmf
