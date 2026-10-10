@@ -15,3 +15,4 @@
 - 2026-10-09 03:10 · aceptó a Tomás, Fred y Pippin en su fútbol del sábado en Club Pilar
 - 2026-10-09 17:09 · pidió unirse al fútbol del martes en Club Pilar
 - 2026-10-09 21:53 · aceptó a Marty McFly y Wall-E en su fútbol del sábado
+- 2026-10-10 06:49 · leyó las notificaciones, pasó a mirar

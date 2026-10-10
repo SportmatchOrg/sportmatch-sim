@@ -2,3 +2,4 @@
 - 2026-10-04 21:39 · aceptó a Ron Weasley en su basquet del lun 05/10 19:00
 - 2026-10-04 21:39 · aceptó a Galadriel en su basquet del lun 05/10 19:00
 - 2026-10-05 21:42 · calificó el basquet del lun 05/10 19:00 (reportó que faltó Galadriel)
+- 2026-10-10 06:49 · buscó básquet, no hay partidos próximos

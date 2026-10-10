@@ -2,3 +2,4 @@
 - 2026-10-09 03:10 · aceptó a Tomás Valle Duran en su running del domingo 11
 - 2026-10-09 17:08 · aceptó a Davy Jones en su running del domingo
 - 2026-10-09 21:53 · aceptó a Montgomery Burns, Qui-Gon Jinn y Éowyn en su running del domingo
+- 2026-10-10 06:50 · armó un running el domingo 11 a las 8 en Campus Austral

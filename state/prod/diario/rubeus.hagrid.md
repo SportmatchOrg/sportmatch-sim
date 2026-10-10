@@ -4,3 +4,4 @@
 - 2026-10-02 21:34 · pidió unirse al futbol de Steve Rogers del mié 07/10 22:00 en Club Pilar · Cancha 2
 - 2026-10-05 00:52 · pidió unirse al futbol de Doc Brown del mar 06/10 19:00 en Polideportivo Del Viso
 - 2026-10-07 00:12 · calificó el futbol del mar 06/10 22:00
+- 2026-10-10 06:49 · pidió unirse al fútbol del sábado en Club Pilar (finde, juega a la noche)

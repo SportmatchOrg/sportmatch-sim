@@ -1,1 +1,2 @@
 - 2026-10-08 19:08 · entró a mirar, sin novedades
+- 2026-10-10 06:49 · no hay partidos de fútbol en CABA para anotarse

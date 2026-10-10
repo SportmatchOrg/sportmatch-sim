@@ -3,3 +3,4 @@
 - 2026-10-06 15:15 · pidió unirse al running de Fred Weasley del mar 06/10 19:00 en Parque Pilar · Circuito
 - 2026-10-06 21:12 · calificó el running del mar 06/10 19:00
 - 2026-10-09 03:10 · calificó su partido, generoso; mira qué hay
+- 2026-10-10 06:49 · se unió al fútbol del sábado en Club Pilar (nivel intermedio, para ir probando)

@@ -36,3 +36,4 @@
 - 2026-10-08 00:49 · calificó el futbol del mié 07/10 22:00 (reportó que faltó Gimli, Rubeus Hagrid)
 - 2026-10-09 03:09 · calificó dos partidos y armó un pádel el lunes 12 a las 21 en Club Belgrano
 - 2026-10-09 21:52 · calificó el fútbol jugado; no encontró nada nuevo en CABA para anotarse
+- 2026-10-10 06:49 · se unió al pádel del martes 13 en Club Belgrano (se anota a todo)
