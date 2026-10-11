@@ -1,1 +1,2 @@
 - 2026-10-10 19:32 · se unió al fútbol intermedio del martes en Club Pilar (recién empieza, busca algo parejo)
+- 2026-10-11 10:53 · vio que Steve Rogers lo rechazó; mira partidos y por hoy no se anota a nada

@@ -1722,11 +1722,10 @@
     "deporte": "FUTBOL",
     "cupo": 9,
     "jugadores": [
-      "pippin.tuk"
-    ],
-    "pendientes": [
+      "pippin.tuk",
       "fred.weasley"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -1739,11 +1738,13 @@
   },
   "c48ol58pf3e35v9c1si7ukvzu": {
     "organizador": "elrond",
-    "fecha": "2026-10-12T00:00:00.000Z",
+    "fecha": "2026-10-11T21:00:00.000Z",
     "deporte": "TENIS",
     "cupo": 3,
     "jugadores": [],
-    "pendientes": [],
+    "pendientes": [
+      "albus.dumbledore"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -1856,9 +1857,11 @@
     "anotados": 0
   },
   "cmv30hl8r00a001ljvnsiatd9": {
-    "jugadores": [],
-    "pendientes": [
+    "jugadores": [
       "bellatrix.lestrange"
+    ],
+    "pendientes": [
+      "apu.nahasapeemapetilon"
     ],
     "bajasSorteadas": false,
     "asistencia": null,
@@ -1888,5 +1891,64 @@
     "creado": "2026-10-10T23:15:24.975Z",
     "pendientesHumanos": 0,
     "anotados": 0
+  },
+  "cmv3vv11100fg01lj8xv692ve": {
+    "jugadores": [],
+    "pendientes": [
+      "chewbacca"
+    ],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "lois.lane",
+    "fecha": "2026-10-15T23:30:00.000Z",
+    "deporte": "FUTBOL",
+    "cupo": 9,
+    "creado": "2026-10-11T13:52:56.958Z"
+  },
+  "cmv3vvrw500g201ljbh0jcucu": {
+    "jugadores": [],
+    "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "mace.windu",
+    "fecha": "2026-10-14T23:30:00.000Z",
+    "deporte": "FUTBOL",
+    "cupo": 9,
+    "creado": "2026-10-11T13:53:31.784Z"
+  },
+  "cmv2xnu80000e4rry01pfapyt": {
+    "jugadores": [],
+    "pendientes": [
+      "thanos"
+    ],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "humano:cmv2xntp700094rryq141soee",
+    "fecha": "2026-10-17T21:00:00.000Z",
+    "deporte": "TENIS",
+    "cupo": 2
+  },
+  "cmv3vwc0h00gm01lj9nihq84b": {
+    "jugadores": [],
+    "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "frodo.bolson",
+    "fecha": "2026-10-14T00:00:00.000Z",
+    "deporte": "FUTBOL",
+    "cupo": 9,
+    "creado": "2026-10-11T13:53:57.862Z"
   }
 }

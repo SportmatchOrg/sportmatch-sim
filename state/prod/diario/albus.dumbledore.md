@@ -15,3 +15,4 @@
 - 2026-10-09 15:34 · rechazó a Bellatrix Lestrange en su futbol del sáb 10/10 20:00
 - 2026-10-09 15:34 · aceptó a Ron Weasley en su tenis del jue 15/10 22:00
 - 2026-10-10 20:15 · calificó el fútbol y armó dobles de tenis en Tigre Pádel Club
+- 2026-10-11 10:53 · pidió unirse al tenis del domingo en Tigre Pádel Club (le gusta conocer gente nueva)

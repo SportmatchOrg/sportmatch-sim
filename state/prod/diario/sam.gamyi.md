@@ -31,3 +31,4 @@
 - 2026-10-09 12:11 · pidió unirse al padel de Tony Stark del sáb 10/10 09:30 en Tigre Pádel Club
 - 2026-10-10 09:48 · calificó el padel del sáb 10/10 09:30
 - 2026-10-10 20:14 · calificó el fútbol y organizó un pádel BEGINNER en Club Belgrano
+- 2026-10-11 10:52 · aceptó a Bellatrix Lestrange en su partido

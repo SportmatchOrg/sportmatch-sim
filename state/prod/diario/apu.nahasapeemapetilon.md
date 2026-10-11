@@ -1,0 +1,1 @@
+- 2026-10-11 10:53 · pidió unirse al pádel BEGINNER del martes en Club Belgrano (nivel parejo para empezar)

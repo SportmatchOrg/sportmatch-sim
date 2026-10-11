@@ -20,3 +20,4 @@
 - 2026-10-10 19:33 · se unió al fútbol del martes en Club Pilar (le queda cerca y es a una hora cómoda)
 - 2026-10-10 20:15 · calificó el fútbol; ya tiene el del martes en Club Pilar, no suma más
 - 2026-10-11 00:15 · calificó el fútbol del sábado, todo en orden
+- 2026-10-11 10:53 · aceptó a Fred Weasley y armó un fútbol INTERMEDIATE para el jue 15/10 20:30 en Club Pilar
