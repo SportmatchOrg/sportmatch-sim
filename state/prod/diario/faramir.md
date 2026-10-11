@@ -20,3 +20,4 @@
 - 2026-10-07 06:30 · rechazó a Molly Weasley en su running del dom 11/10 09:00 (ya estaba lleno)
 - 2026-10-10 12:31 · calificó el running del sáb 10/10 11:30
 - 2026-10-11 12:14 · calificó el running y armó uno para el sábado 17 a la mañana en Parque Pilar
+- 2026-10-11 16:12 · aceptó a Montgomery Burns y Davy Jones en su partido de running

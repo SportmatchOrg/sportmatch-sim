@@ -1,1 +1,2 @@
 - 2026-10-10 19:33 · organizó un basquet INTERMEDIATE para el mar 13/10 20:30 en Campus Austral · Canchas (primera vez en la app)
+- 2026-10-11 16:13 · aceptó a Éowyn en su básquet; el único partido abierto era ADVANCED y no se anotó

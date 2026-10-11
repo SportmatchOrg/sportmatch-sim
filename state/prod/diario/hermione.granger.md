@@ -24,3 +24,4 @@
 - 2026-10-09 18:51 · pidió unirse al futbol de Steve Rogers del mar 13/10 19:00 en Club Pilar · Cancha 2
 - 2026-10-10 12:31 · calificó el futbol del sáb 10/10 10:30 (reportó que faltó Nemo)
 - 2026-10-11 12:15 · calificó el fútbol y armó uno para el sábado 17 a la mañana en Club Pilar
+- 2026-10-11 16:13 · entró a mirar, sin novedades

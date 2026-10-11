@@ -6,3 +6,4 @@
 - 2026-10-09 12:14 · pidió unirse al futbol de Elrond del vie 09/10 19:30 en Fútbol 5 Nordelta
 - 2026-10-09 21:50 · pidió unirse al futbol de Steve Rogers del mar 13/10 19:00 en Club Pilar · Cancha 2
 - 2026-10-10 20:15 · calificó el fútbol del martes
+- 2026-10-11 16:13 · pidió unirse al fútbol del jueves 15/10 en Polideportivo Del Viso (juega de noche)
