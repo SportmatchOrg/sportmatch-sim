@@ -1697,7 +1697,9 @@
       "fred.weasley",
       "pippin.tuk"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "walle"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -1750,7 +1752,8 @@
   "cmv2xsr94000bkzryijz2htn9": {
     "jugadores": [],
     "pendientes": [
-      "bellatrix.lestrange"
+      "bellatrix.lestrange",
+      "theoden"
     ],
     "bajasSorteadas": false,
     "asistencia": null,
@@ -1767,7 +1770,9 @@
     "jugadores": [
       "apu.nahasapeemapetilon"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "chewbacca"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -1814,9 +1819,11 @@
     "anotados": 0
   },
   "cmv30dpjn008601nq27xy72zu": {
-    "jugadores": [],
-    "pendientes": [
+    "jugadores": [
       "fred.weasley"
+    ],
+    "pendientes": [
+      "sirius.black"
     ],
     "bajasSorteadas": false,
     "asistencia": null,
@@ -1889,5 +1896,20 @@
     "deporte": "FUTBOL",
     "cupo": 9,
     "creado": "2026-10-11T03:12:21.405Z"
+  },
+  "cmv2xsr94000dkzry3rm9q1et": {
+    "jugadores": [],
+    "pendientes": [
+      "marty.mcfly"
+    ],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "humano:cmv2xsqnh0007kzry6x5vbxp1",
+    "fecha": "2026-10-16T00:00:00.000Z",
+    "deporte": "BASQUET",
+    "cupo": 10
   }
 }

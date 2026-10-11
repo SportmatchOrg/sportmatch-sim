@@ -2,3 +2,4 @@
 - 2026-10-09 00:50 · pidió unirse al futbol de Hermione Granger del dom 11/10 11:00 en Club Pilar · Cancha 2
 - 2026-10-09 06:46 · pidió unirse al futbol de Albus Dumbledore del sáb 10/10 20:00 en Fútbol 5 Nordelta
 - 2026-10-10 20:12 · calificó el fútbol de hoy
+- 2026-10-11 10:51 · se unió al básquet del jueves en el Polideportivo Municipal
