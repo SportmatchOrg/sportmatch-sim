@@ -7,3 +7,4 @@
 - 2026-10-10 12:31 · calificó el running del sáb 10/10 11:30
 - 2026-10-10 12:31 · calificó el running del sáb 10/10 11:30
 - 2026-10-11 12:16 · calificó el running y pidió unirse al de Faramir del sábado 17 en Parque Pilar
+- 2026-10-11 20:14 · pidió unirse al básquet de Neo del martes en Campus Austral

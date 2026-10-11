@@ -980,11 +980,11 @@
       "theoden": true
     },
     "calificaran": [
-      "elrond",
-      "doc.brown",
       "pippin.tuk",
+      "elrond",
       "bellatrix.lestrange",
-      "mace.windu"
+      "mace.windu",
+      "doc.brown"
     ],
     "calificaron": [
       "pippin.tuk",
@@ -1818,9 +1818,16 @@
     ],
     "pendientes": [],
     "bajasSorteadas": true,
-    "asistencia": null,
-    "calificaran": [],
-    "calificaron": [],
+    "asistencia": {
+      "elrond": true,
+      "albus.dumbledore": true
+    },
+    "calificaran": [
+      "elrond"
+    ],
+    "calificaron": [
+      "elrond"
+    ],
     "cancelado": false,
     "creado": "2026-10-10T00:45:40.000Z",
     "cancelSorteado": true,
@@ -1868,7 +1875,9 @@
   },
   "cmv2z08q2006b01ljq6bs6rzw": {
     "jugadores": [],
-    "pendientes": [],
+    "pendientes": [
+      "sam.gamyi"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -1884,10 +1893,11 @@
   },
   "cmv2z0geo006g01ljikcm1lz9": {
     "jugadores": [
-      "eowyn"
+      "eowyn",
+      "clark.kent"
     ],
     "pendientes": [
-      "clark.kent"
+      "davy.jones"
     ],
     "bajasSorteadas": false,
     "asistencia": null,
@@ -1900,7 +1910,7 @@
     "cupo": 5,
     "creado": "2026-10-10T22:33:22.857Z",
     "pendientesHumanos": 0,
-    "anotados": 0
+    "anotados": 1
   },
   "cmv2z0i9s006j01ljfabpuq2e": {
     "jugadores": [],
@@ -1921,10 +1931,10 @@
     "cancelar": true
   },
   "cmv30hc5r009q01lj0yiz7p8a": {
-    "jugadores": [],
-    "pendientes": [
+    "jugadores": [
       "theoden"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -1978,7 +1988,9 @@
       "chewbacca",
       "pippin.tuk"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "steve.rogers"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -2043,11 +2055,10 @@
   "cmv3ysj9p00ja01lj5l1k0vty": {
     "jugadores": [
       "montgomery.burns",
-      "davy.jones"
-    ],
-    "pendientes": [
+      "davy.jones",
       "jaime.lannister"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -2059,13 +2070,13 @@
     "cupo": 5,
     "creado": "2026-10-11T15:14:59.479Z",
     "pendientesHumanos": 0,
-    "anotados": 0
+    "anotados": 2
   },
   "cmv3yt4td00k801lji8csv0y7": {
-    "jugadores": [],
-    "pendientes": [
+    "jugadores": [
       "rubeus.hagrid"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -2107,6 +2118,22 @@
     "fecha": "2026-10-17T12:00:00.000Z",
     "deporte": "RUNNING",
     "cupo": 5,
-    "creado": "2026-10-11T19:13:03.999Z"
+    "creado": "2026-10-11T19:13:03.999Z",
+    "pendientesHumanos": 0,
+    "anotados": 0
+  },
+  "cmv4fwe3r00rm01ljw8upckn7": {
+    "jugadores": [],
+    "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "neo",
+    "fecha": "2026-10-15T23:30:00.000Z",
+    "deporte": "BASQUET",
+    "cupo": 7,
+    "creado": "2026-10-11T23:13:52.869Z"
   }
 }

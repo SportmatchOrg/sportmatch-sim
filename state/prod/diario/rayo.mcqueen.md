@@ -1,0 +1,1 @@
+- 2026-10-11 20:14 · entró a mirar partidos, no se anotó a nada

@@ -78,3 +78,4 @@
 - 2026-10-10 20:14 · aceptó a Lois y Pippin, rechazó a Sirius (nivel), calificó el fútbol y organizó otro en Del Viso
 - 2026-10-11 00:14 · calificó el fútbol; sigue esperando que se llenen los suyos
 - 2026-10-11 12:15 · calificó el fútbol; sigue esperando que se llenen sus partidos
+- 2026-10-11 20:13 · aceptó a Théoden y pidió unirse al fútbol de Lois del jueves en Club Pilar

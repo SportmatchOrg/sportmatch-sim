@@ -10,3 +10,4 @@
 - 2026-10-10 19:32 · organizó un running INTERMEDIATE para el dom 11/10 09:30 en Parque Pilar · Circuito
 - 2026-10-11 12:16 · calificó el running; hoy solo miró
 - 2026-10-11 16:13 · organizó un running ADVANCED para el sáb 17/10 09:00 en Campus Austral
+- 2026-10-11 20:13 · entró a mirar, sin novedades
