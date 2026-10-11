@@ -26,3 +26,4 @@
 - 2026-10-08 09:52 · pidió unirse al futbol de Hermione Granger del dom 11/10 11:00 en Club Pilar · Cancha 2
 - 2026-10-09 09:45 · pidió unirse al running de Héctor Barbossa del sáb 10/10 11:30 en Parque Pilar · Circuito
 - 2026-10-09 21:51 · pidió unirse al futbol de Steve Rogers del mar 13/10 19:00 en Club Pilar · Cancha 2
+- 2026-10-11 00:15 · pidió unirse al fútbol del miércoles en Campus Austral (de Lois Lane)

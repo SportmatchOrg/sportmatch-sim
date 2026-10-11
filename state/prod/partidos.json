@@ -792,13 +792,13 @@
       "lois.lane": true
     },
     "calificaran": [
+      "gimli",
+      "pippin.tuk",
+      "elrond",
+      "bellatrix.lestrange",
       "jon.snow",
       "sam.gamyi",
-      "bellatrix.lestrange",
-      "pippin.tuk",
       "doc.brown",
-      "elrond",
-      "gimli",
       "lois.lane"
     ],
     "calificaron": [
@@ -851,9 +851,22 @@
     ],
     "pendientes": [],
     "bajasSorteadas": true,
-    "asistencia": null,
-    "calificaran": [],
-    "calificaron": [],
+    "asistencia": {
+      "mace.windu": true,
+      "yoda": true,
+      "quigon.jinn": true,
+      "bellatrix.lestrange": true
+    },
+    "calificaran": [
+      "mace.windu",
+      "quigon.jinn",
+      "bellatrix.lestrange"
+    ],
+    "calificaron": [
+      "quigon.jinn",
+      "bellatrix.lestrange",
+      "mace.windu"
+    ],
     "cancelado": false,
     "creado": "2026-10-05T00:39:20.000Z",
     "cancelSorteado": false,
@@ -879,9 +892,9 @@
       "bellatrix.lestrange": true
     },
     "calificaran": [
-      "sam.gamyi",
       "eowyn",
-      "mace.windu"
+      "mace.windu",
+      "sam.gamyi"
     ],
     "calificaron": [
       "eowyn",
@@ -1156,9 +1169,34 @@
     ],
     "pendientes": [],
     "bajasSorteadas": true,
-    "asistencia": null,
-    "calificaran": [],
-    "calificaron": [],
+    "asistencia": {
+      "lois.lane": true,
+      "gimli": true,
+      "jon.snow": true,
+      "steve.rogers": true,
+      "bellatrix.lestrange": true,
+      "chewbacca": true,
+      "pippin.tuk": true,
+      "padme.amidala": true,
+      "rubeus.hagrid": true,
+      "fred.weasley": true
+    },
+    "calificaran": [
+      "lois.lane",
+      "jon.snow",
+      "steve.rogers",
+      "bellatrix.lestrange",
+      "pippin.tuk",
+      "padme.amidala"
+    ],
+    "calificaron": [
+      "pippin.tuk",
+      "bellatrix.lestrange",
+      "steve.rogers",
+      "jon.snow",
+      "padme.amidala",
+      "lois.lane"
+    ],
     "cancelado": false,
     "creado": "2026-10-07T03:15:20.000Z",
     "cancelSorteado": false,
@@ -1305,8 +1343,8 @@
       "dobby": false
     },
     "calificaran": [
-      "sam.gamyi",
-      "bellatrix.lestrange"
+      "bellatrix.lestrange",
+      "sam.gamyi"
     ],
     "calificaron": [
       "bellatrix.lestrange",
@@ -1560,11 +1598,13 @@
   },
   "c2zpkypt5poll6k53k0fap7ml": {
     "organizador": "sam.gamyi",
-    "fecha": "2026-10-11T12:30:00.000Z",
+    "fecha": "2026-10-11T09:30:00.000Z",
     "deporte": "TENIS",
     "cupo": 3,
     "jugadores": [],
-    "pendientes": [],
+    "pendientes": [
+      "jaime.lannister"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -1674,17 +1714,19 @@
     "creado": "2026-10-09T18:41:20.000Z",
     "cancelSorteado": false,
     "pendientesHumanos": 0,
-    "anotados": 4
+    "anotados": 6
   },
   "cho7v1g7qqqbtvf085cjmw70o": {
     "organizador": "lois.lane",
-    "fecha": "2026-10-14T23:00:00.000Z",
+    "fecha": "2026-10-14T20:00:00.000Z",
     "deporte": "FUTBOL",
     "cupo": 9,
     "jugadores": [
       "pippin.tuk"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "fred.weasley"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -1708,9 +1750,10 @@
     "calificaron": [],
     "cancelado": false,
     "creado": "2026-10-10T00:45:40.000Z",
-    "cancelSorteado": false,
+    "cancelSorteado": true,
     "pendientesHumanos": 0,
-    "anotados": 0
+    "anotados": 0,
+    "cancelar": false
   },
   "cmv2xnu80000b4rrygc54zyh2": {
     "jugadores": [],
@@ -1808,11 +1851,15 @@
     "fecha": "2026-10-16T00:00:00.000Z",
     "deporte": "FUTBOL",
     "cupo": 9,
-    "creado": "2026-10-10T23:14:30.106Z"
+    "creado": "2026-10-10T23:14:30.106Z",
+    "pendientesHumanos": 0,
+    "anotados": 0
   },
   "cmv30hl8r00a001ljvnsiatd9": {
     "jugadores": [],
-    "pendientes": [],
+    "pendientes": [
+      "bellatrix.lestrange"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -1822,7 +1869,9 @@
     "fecha": "2026-10-13T23:00:00.000Z",
     "deporte": "PADEL",
     "cupo": 3,
-    "creado": "2026-10-10T23:14:41.873Z"
+    "creado": "2026-10-10T23:14:41.873Z",
+    "pendientesHumanos": 0,
+    "anotados": 0
   },
   "cmv30iiia00b501ljjcvd4vpl": {
     "jugadores": [],
@@ -1836,6 +1885,8 @@
     "fecha": "2026-10-14T23:00:00.000Z",
     "deporte": "TENIS",
     "cupo": 3,
-    "creado": "2026-10-10T23:15:24.975Z"
+    "creado": "2026-10-10T23:15:24.975Z",
+    "pendientesHumanos": 0,
+    "anotados": 0
   }
 }

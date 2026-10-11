@@ -10,3 +10,4 @@
 - 2026-10-08 09:51 · pidió unirse al running de Héctor Barbossa del sáb 10/10 11:30 en Parque Pilar · Circuito
 - 2026-10-09 06:47 · pidió unirse al running de Molly Weasley del sáb 10/10 10:00 en Campus Austral · Canchas
 - 2026-10-10 09:48 · se bajó a último momento del running del sáb 10/10 11:30
+- 2026-10-11 00:15 · pidió unirse al tenis del domingo 06:30 en River Courts (madruga)
