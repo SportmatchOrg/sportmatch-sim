@@ -24,3 +24,4 @@
 - 2026-10-09 00:52 · pidió unirse al futbol de Hermione Granger del dom 11/10 11:00 en Club Pilar · Cancha 2
 - 2026-10-09 12:14 · pidió unirse al futbol de Héctor Barbossa del mar 13/10 19:00 en Club Pilar · Cancha 2
 - 2026-10-11 10:51 · miró partidos, hoy no se anotó (es domingo, ya jugó)
+- 2026-10-11 12:13 · calificó el fútbol; no encontró partido de finde que le cierre

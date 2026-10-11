@@ -27,3 +27,4 @@
 - 2026-10-09 09:45 · pidió unirse al running de Héctor Barbossa del sáb 10/10 11:30 en Parque Pilar · Circuito
 - 2026-10-09 21:51 · pidió unirse al futbol de Steve Rogers del mar 13/10 19:00 en Club Pilar · Cancha 2
 - 2026-10-11 00:12 · pidió unirse al fútbol de Steve Rogers del lun 12/10 en Club Pilar
+- 2026-10-11 12:11 · calificó el partido de fútbol (reportó que faltaron doc.brown y walle)

@@ -3,3 +3,4 @@
 - 2026-10-07 06:37 · pidió unirse al running de Molly Weasley del dom 11/10 09:00 en Bosques de Palermo · Lago
 - 2026-10-10 12:31 · calificó el running del sáb 10/10 11:30
 - 2026-10-10 20:12 · miró partidos de running; ya estaba anotado al del domingo temprano en Palermo, no se anotó a nada más
+- 2026-10-11 12:12 · calificó dos carreras y se anotó al running del sábado 17 a la mañana en Parque Pilar

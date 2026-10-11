@@ -23,3 +23,4 @@
 - 2026-10-09 03:40 · aceptó a Rubeus Hagrid en su futbol del dom 11/10 11:00
 - 2026-10-09 18:51 · pidió unirse al futbol de Steve Rogers del mar 13/10 19:00 en Club Pilar · Cancha 2
 - 2026-10-10 12:31 · calificó el futbol del sáb 10/10 10:30 (reportó que faltó Nemo)
+- 2026-10-11 12:13 · calificó el fútbol y organizó un fútbol INTERMEDIATE el sáb 17/10 10:00 en Club Pilar

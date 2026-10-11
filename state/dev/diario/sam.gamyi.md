@@ -31,3 +31,4 @@
 - 2026-10-09 12:11 · pidió unirse al padel de Tony Stark del sáb 10/10 09:30 en Tigre Pádel Club
 - 2026-10-10 09:48 · calificó el padel del sáb 10/10 09:30
 - 2026-10-10 19:31 · calificó el fútbol, todo muy bien (recién empieza y está chocho)
+- 2026-10-11 12:13 · revisó la app; no había a quién calificar y no hizo nada más

@@ -51,3 +51,32 @@
 2026-10-11T13:51:41.424Z marty.mcfly unirse cmv2xsr94000dkzry3rm9q1et
 2026-10-11T13:51:55.749Z theoden unirse cmv2xsr94000bkzryijz2htn9
 2026-10-11T13:52:07.706Z chewbacca unirse cmv2yy14k005j01nqynge9ymf
+2026-10-11T15:10:29.906Z sorteo cr3kipif6pny2yk2bpje8r496 faltaron=[jaime.lannister,eowyn,fred.weasley] calificaran=[faramir,montgomery.burns]
+2026-10-11T15:10:32.181Z sorteo c38ezx38e7nl04hd6u8tzwa48 faltaron=[] calificaran=[molly.weasley,montgomery.burns,jaime.lannister,davy.jones]
+2026-10-11T15:10:32.851Z sorteo cb7apj2wx3fqm5sig76ay3mf4 faltaron=[] calificaran=[chewbacca,bellatrix.lestrange]
+2026-10-11T15:10:34.610Z sorteo cbkb7wz7ew70mtag6xwi4qkyx faltaron=[doc.brown,walle] calificaran=[hermione.granger,bellatrix.lestrange,steve.rogers,fred.weasley,chewbacca,pippin.tuk,marty.mcfly,nemo,rubeus.hagrid]
+2026-10-11T15:10:37.478Z sorteo c2zpkypt5poll6k53k0fap7ml faltaron=[] calificaran=[sam.gamyi]
+2026-10-11T15:10:58.800Z fred.weasley leer-notificaciones 1
+2026-10-11T15:11:11.016Z fred.weasley calificar cbkb7wz7ew70mtag6xwi4qkyx ratings=2 noShows=2
+2026-10-11T15:11:13.351Z eowyn leer-notificaciones 1
+2026-10-11T15:11:23.100Z eowyn aceptar cmv2yy14k005j01nqynge9ymf chewbacca
+2026-10-11T15:11:25.341Z pippin.tuk calificar cbkb7wz7ew70mtag6xwi4qkyx ratings=2 noShows=2
+2026-10-11T15:11:31.791Z eowyn unirse cmv38y7e000bl01nqmgrwz9zs
+2026-10-11T15:11:39.475Z rubeus.hagrid calificar cbkb7wz7ew70mtag6xwi4qkyx ratings=2 noShows=2
+2026-10-11T15:11:51.665Z bellatrix.lestrange calificar cb7apj2wx3fqm5sig76ay3mf4 ratings=3 noShows=0
+2026-10-11T15:11:53.888Z bellatrix.lestrange calificar cbkb7wz7ew70mtag6xwi4qkyx ratings=3 noShows=2
+2026-10-11T15:11:56.208Z bellatrix.lestrange unirse cmv2xsr94000ckzryxzgqrcwa
+2026-10-11T15:12:05.013Z faramir calificar cr3kipif6pny2yk2bpje8r496 ratings=1 noShows=3
+2026-10-11T15:12:07.221Z faramir crear cmv3youc000ht01nqhzryvfmg RUNNING 2026-10-17T12:00:00.000Z
+2026-10-11T15:12:19.773Z montgomery.burns calificar cr3kipif6pny2yk2bpje8r496 ratings=2 noShows=3
+2026-10-11T15:12:22.639Z montgomery.burns calificar c38ezx38e7nl04hd6u8tzwa48 ratings=3 noShows=0
+2026-10-11T15:12:25.920Z montgomery.burns unirse cmv3youc000ht01nqhzryvfmg
+2026-10-11T15:12:28.246Z steve.rogers leer-notificaciones 2
+2026-10-11T15:12:37.056Z steve.rogers calificar cbkb7wz7ew70mtag6xwi4qkyx ratings=1 noShows=2
+2026-10-11T15:12:39.289Z steve.rogers aceptar crluvf80cz1ynj3v9p41xozrh walle
+2026-10-11T15:12:41.485Z steve.rogers rechazar cmv30dpjn008601nq27xy72zu sirius.black
+2026-10-11T15:12:47.442Z jaime.lannister leer-notificaciones 2
+2026-10-11T15:13:00.279Z jaime.lannister calificar c38ezx38e7nl04hd6u8tzwa48 ratings=3 noShows=0
+2026-10-11T15:13:03.924Z nemo calificar cbkb7wz7ew70mtag6xwi4qkyx ratings=3 noShows=2
+2026-10-11T15:13:12.555Z hermione.granger calificar cbkb7wz7ew70mtag6xwi4qkyx ratings=3 noShows=2
+2026-10-11T15:13:14.684Z hermione.granger crear cmv3yqaeb00jo01nqi1f2drjh FUTBOL 2026-10-17T13:00:00.000Z

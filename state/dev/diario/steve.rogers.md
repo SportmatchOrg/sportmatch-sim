@@ -77,3 +77,4 @@
 - 2026-10-10 12:31 · calificó el futbol del sáb 10/10 10:30 (reportó que faltó Nemo)
 - 2026-10-10 20:11 · aceptó a Pippin Tuk en su fútbol del 13/10, calificó y organizó un fútbol INTERMEDIATE el lun 12/10 20:30 en Club Pilar
 - 2026-10-11 10:51 · aceptó a Fred Weasley en su fútbol
+- 2026-10-11 12:12 · calificó el fútbol, aceptó a Wall-E y rechazó a Sirius Black (no daba el nivel)
