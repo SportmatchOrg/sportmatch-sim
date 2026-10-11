@@ -1,1 +1,2 @@
 - 2026-10-11 00:12 · primera vez en la app: miró partidos y leyó notificaciones
+- 2026-10-11 16:11 · estuvo mirando partidos de pádel y fútbol, no se anotó

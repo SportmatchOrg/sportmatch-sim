@@ -7,3 +7,4 @@
 - 2026-10-09 09:43 · aceptó a Jaime Lannister en su running del sáb 10/10 10:00
 - 2026-10-09 09:43 · aceptó a Davy Jones en su running del sáb 10/10 10:00
 - 2026-10-09 18:50 · pidió unirse al running de Héctor Barbossa del sáb 10/10 11:30 en Parque Pilar · Circuito
+- 2026-10-11 16:11 · calificó el running y armó un running INTERMEDIATE para el sáb 17/10 08:30 en Campus Austral

@@ -13,3 +13,4 @@
 - 2026-10-10 09:48 · se bajó a último momento del running del sáb 10/10 11:30
 - 2026-10-10 09:48 · calificó el padel del sáb 10/10 09:30
 - 2026-10-11 00:11 · calificó el pádel y armó un pádel para el sáb 17/10 10:00 en Tigre Pádel Club
+- 2026-10-11 16:11 · aceptó a Éowyn en su partido

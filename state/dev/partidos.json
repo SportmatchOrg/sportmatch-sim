@@ -1280,7 +1280,9 @@
     ],
     "calificaron": [
       "montgomery.burns",
-      "jaime.lannister"
+      "jaime.lannister",
+      "molly.weasley",
+      "davy.jones"
     ],
     "cancelado": false,
     "creado": "2026-10-07T06:21:00.000Z",
@@ -1393,7 +1395,8 @@
       "bellatrix.lestrange"
     ],
     "calificaron": [
-      "bellatrix.lestrange"
+      "bellatrix.lestrange",
+      "chewbacca"
     ],
     "cancelado": false,
     "creado": "2026-10-08T00:56:00.000Z",
@@ -1556,7 +1559,9 @@
       "bellatrix.lestrange",
       "steve.rogers",
       "nemo",
-      "hermione.granger"
+      "hermione.granger",
+      "chewbacca",
+      "marty.mcfly"
     ],
     "cancelado": false,
     "creado": "2026-10-08T06:36:20.000Z",
@@ -1778,7 +1783,7 @@
     "creado": "2026-10-09T18:41:20.000Z",
     "cancelSorteado": false,
     "pendientesHumanos": 0,
-    "anotados": 5
+    "anotados": 6
   },
   "cho7v1g7qqqbtvf085cjmw70o": {
     "organizador": "lois.lane",
@@ -1804,11 +1809,9 @@
     "fecha": "2026-10-11T21:00:00.000Z",
     "deporte": "TENIS",
     "cupo": 3,
-    "jugadores": [
-      "boromir"
-    ],
+    "jugadores": [],
     "pendientes": [],
-    "bajasSorteadas": false,
+    "bajasSorteadas": true,
     "asistencia": null,
     "calificaran": [],
     "calificaron": [],
@@ -1853,7 +1856,7 @@
     "cupo": 3,
     "creado": "2026-10-10T22:31:29.787Z",
     "pendientesHumanos": 0,
-    "anotados": 1
+    "anotados": 2
   },
   "cmv2xsr94000fkzry977aooi5": {
     "jugadores": [],
@@ -1922,10 +1925,10 @@
     "anotados": 0
   },
   "cmv38y7e000bl01nqmgrwz9zs": {
-    "jugadores": [],
-    "pendientes": [
+    "jugadores": [
       "eowyn"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -2000,12 +2003,15 @@
     "organizador": "humano:cmv2xsqnh0008kzrynzzot6pa",
     "fecha": "2026-10-13T23:00:00.000Z",
     "deporte": "PADEL",
-    "cupo": 4
+    "cupo": 4,
+    "anotados": 1
   },
   "cmv3youc000ht01nqhzryvfmg": {
-    "jugadores": [],
-    "pendientes": [
+    "jugadores": [
       "montgomery.burns"
+    ],
+    "pendientes": [
+      "davy.jones"
     ],
     "bajasSorteadas": false,
     "asistencia": null,
@@ -2016,11 +2022,16 @@
     "fecha": "2026-10-17T12:00:00.000Z",
     "deporte": "RUNNING",
     "cupo": 5,
-    "creado": "2026-10-11T15:12:07.220Z"
+    "creado": "2026-10-11T15:12:07.220Z",
+    "pendientesHumanos": 0,
+    "anotados": 0
   },
   "cmv3yqaeb00jo01nqi1f2drjh": {
     "jugadores": [],
-    "pendientes": [],
+    "pendientes": [
+      "marty.mcfly",
+      "harry.potter"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -2030,6 +2041,22 @@
     "fecha": "2026-10-17T13:00:00.000Z",
     "deporte": "FUTBOL",
     "cupo": 9,
-    "creado": "2026-10-11T15:13:14.683Z"
+    "creado": "2026-10-11T15:13:14.683Z",
+    "pendientesHumanos": 0,
+    "anotados": 0
+  },
+  "cmv478u3w00mq01nqlps0i6xv": {
+    "jugadores": [],
+    "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "molly.weasley",
+    "fecha": "2026-10-17T11:30:00.000Z",
+    "deporte": "RUNNING",
+    "cupo": 5,
+    "creado": "2026-10-11T19:11:36.945Z"
   }
 }
