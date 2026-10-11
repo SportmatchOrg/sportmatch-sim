@@ -24,3 +24,4 @@
 - 2026-10-09 18:51 · pidió unirse al futbol de Steve Rogers del mar 13/10 19:00 en Club Pilar · Cancha 2
 - 2026-10-10 12:31 · calificó el futbol del sáb 10/10 10:30 (reportó que faltó Nemo)
 - 2026-10-11 12:13 · calificó el fútbol y organizó un fútbol INTERMEDIATE el sáb 17/10 10:00 en Club Pilar
+- 2026-10-11 20:11 · aceptó a Marty McFly y Harry Potter en su fútbol

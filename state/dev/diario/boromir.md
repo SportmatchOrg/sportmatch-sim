@@ -2,3 +2,4 @@
 - 2026-10-10 19:31 · pidió unirse al tenis de Elrond del domingo a la tarde en Tigre Pádel Club
 - 2026-10-10 20:12 · pidió unirse al tenis del sáb 17/10 en River Courts
 - 2026-10-11 16:11 · miró partidos de básquet y tenis, no se anotó a nada
+- 2026-10-11 20:11 · se anotó al básquet ADVANCED del jue 15/10 (Polideportivo Municipal)

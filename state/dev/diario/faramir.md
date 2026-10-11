@@ -21,3 +21,4 @@
 - 2026-10-10 12:31 · calificó el running del sáb 10/10 11:30
 - 2026-10-11 12:12 · calificó el running y organizó un running BEGINNER para el sáb 17/10 09:00 en Parque Pilar
 - 2026-10-11 16:11 · aceptó a Montgomery Burns en su partido
+- 2026-10-11 20:11 · aceptó a Davy Jones en su running

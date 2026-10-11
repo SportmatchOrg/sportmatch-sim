@@ -46,3 +46,4 @@
 - 2026-10-09 21:45 · pidió unirse al futbol de Steve Rogers del mar 13/10 19:00 en Club Pilar · Cancha 2
 - 2026-10-10 19:30 · calificó el fútbol; faltó Padme
 - 2026-10-10 20:11 · aceptó a Boromir en su fútbol del mar 13/10; calificó el fútbol de hoy
+- 2026-10-11 20:11 · cerró el partido jugado sin nadie para calificar
