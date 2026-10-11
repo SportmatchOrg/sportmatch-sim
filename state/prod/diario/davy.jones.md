@@ -6,3 +6,4 @@
 - 2026-10-09 06:48 · pidió unirse al running de Molly Weasley del sáb 10/10 10:00 en Campus Austral · Canchas
 - 2026-10-10 12:31 · calificó el running del sáb 10/10 11:30
 - 2026-10-10 12:31 · calificó el running del sáb 10/10 11:30
+- 2026-10-11 12:16 · calificó el running y pidió unirse al de Faramir del sábado 17 en Parque Pilar

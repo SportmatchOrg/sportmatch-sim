@@ -2,3 +2,4 @@
 - 2026-10-07 03:18 · pidió unirse al running de Faramir del dom 11/10 09:00 en Campus Austral · Canchas
 - 2026-10-07 06:37 · pidió unirse al running de Molly Weasley del dom 11/10 09:00 en Bosques de Palermo · Lago
 - 2026-10-10 12:31 · calificó el running del sáb 10/10 11:30
+- 2026-10-11 12:15 · calificó dos running y pidió unirse al de Faramir del sábado 17 a la mañana
