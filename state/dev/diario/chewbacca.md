@@ -7,3 +7,4 @@
 - 2026-10-08 18:27 · pidió unirse al futbol de Hermione Granger del dom 11/10 11:00 en Club Pilar · Cancha 2
 - 2026-10-09 00:51 · pidió unirse al futbol de Elrond del vie 09/10 19:30 en Fútbol 5 Nordelta
 - 2026-10-10 09:48 · se bajó a último momento del futbol del sáb 10/10 10:30
+- 2026-10-11 00:12 · calificó el fútbol; después solo miró

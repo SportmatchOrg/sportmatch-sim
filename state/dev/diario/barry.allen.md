@@ -1,0 +1,1 @@
+- 2026-10-11 00:12 · primera vez en la app: miró partidos y leyó notificaciones

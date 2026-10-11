@@ -39,3 +39,5 @@
 - 2026-10-10 09:48 · calificó el padel del sáb 10/10 09:30
 - 2026-10-10 12:31 · calificó el padel del sáb 10/10 10:30
 - 2026-10-10 19:31 · calificó el fútbol
+- 2026-10-11 00:12 · calificó el pádel; después solo miró
+- 2026-10-11 00:12 · organizó un fútbol para el jue 15/10 20:30 en Campus Austral
