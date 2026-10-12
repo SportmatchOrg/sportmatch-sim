@@ -1,0 +1,1 @@
+- 2026-10-12 12:14 · primera vez en la app: pidió unirse al running de Faramir del sábado 17 en Parque Pilar

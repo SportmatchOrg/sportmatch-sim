@@ -11,3 +11,4 @@
 - 2026-10-11 12:16 · calificó dos partidos de fútbol/pádel
 - 2026-10-12 00:14 · entró a mirar, no se anotó a nada hoy
 - 2026-10-12 04:14 · entró a mirar, hoy no se anotó a nada
+- 2026-10-12 12:14 · pidió unirse al pádel del sábado 17 en Pádel Point Pilar (se anota a todo)

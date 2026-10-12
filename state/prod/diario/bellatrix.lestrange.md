@@ -64,3 +64,4 @@
 - 2026-10-12 00:14 · pidió unirse al pádel del jueves de Mace Windu en Tigre (se anota a todo)
 - 2026-10-12 04:14 · pidió unirse al fútbol BEGINNER del martes en Nordelta (se anota a todo)
 - 2026-10-12 04:14 · (corrección) el fútbol del martes en Nordelta ya lo tenía anotado; hoy no sumó nada nuevo
+- 2026-10-12 12:13 · entró a mirar, no hay nada nuevo de fútbol/pádel para anotarse

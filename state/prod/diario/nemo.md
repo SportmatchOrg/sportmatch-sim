@@ -25,3 +25,4 @@
 - 2026-10-09 12:14 · pidió unirse al futbol de Héctor Barbossa del mar 13/10 19:00 en Club Pilar · Cancha 2
 - 2026-10-11 12:15 · calificó el fútbol y armó uno para el sábado 17 a las 10 en Club Pilar
 - 2026-10-11 20:13 · aceptó a Rubeus Hagrid en su fútbol del sábado
+- 2026-10-12 12:13 · aceptó a Fred Weasley en su fútbol y se unió al fútbol del jueves 15 en Club Pilar

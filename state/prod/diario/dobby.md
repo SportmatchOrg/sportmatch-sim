@@ -6,3 +6,4 @@
 - 2026-10-09 12:16 · pidió unirse al padel de Bellatrix Lestrange del mar 13/10 22:30 en Club Belgrano · Gimnasio
 - 2026-10-10 09:48 · se bajó a último momento del padel del sáb 10/10 10:30
 - 2026-10-12 00:14 · entró un rato, sin novedades
+- 2026-10-12 12:13 · entró un rato a mirar, sin novedades
