@@ -1,1 +1,2 @@
 - 2026-10-11 10:53 · primera vez en la app, miró partidos de pádel sin anotarse
+- 2026-10-12 04:14 · miró partidos de pádel, no se anotó

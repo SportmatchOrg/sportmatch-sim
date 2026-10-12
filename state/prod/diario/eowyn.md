@@ -27,3 +27,4 @@
 - 2026-10-10 19:33 · entró a mirar partidos y no se anotó a nada
 - 2026-10-11 00:15 · miró partidos un rato, no se anotó a nada
 - 2026-10-11 12:14 · calificó el running del sábado y se anotó al basquet del martes en Campus Austral
+- 2026-10-12 04:14 · leyó que la aceptaron en un partido de Neo
