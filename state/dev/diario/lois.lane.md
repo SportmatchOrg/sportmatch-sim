@@ -21,3 +21,4 @@
 - 2026-10-11 00:12 · calificó el fútbol; solo miró
 - 2026-10-12 04:11 · aceptó a Marty McFly y se anotó al fútbol del jueves en Campus Austral
 - 2026-10-12 08:11 · aceptó a Bellatrix en su fútbol del miércoles
+- 2026-10-12 20:12 · calificó el fútbol y aceptó a Elrond y Fred en el del miércoles

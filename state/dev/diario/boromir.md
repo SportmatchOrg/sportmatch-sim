@@ -4,3 +4,4 @@
 - 2026-10-11 16:11 · miró partidos de básquet y tenis, no se anotó a nada
 - 2026-10-11 20:11 · se anotó al básquet ADVANCED del jue 15/10 (Polideportivo Municipal)
 - 2026-10-12 04:12 · se anotó al tenis BEGINNER del jue en River Courts
+- 2026-10-12 20:13 · leyó notificaciones; lo aceptaron en el tenis de Sam, hoy solo miró

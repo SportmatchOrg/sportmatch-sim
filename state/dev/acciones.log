@@ -180,3 +180,24 @@
 2026-10-12T19:12:35.075Z elrond unirse cho7v1g7qqqbtvf085cjmw70o
 2026-10-12T19:12:38.650Z gimli unirse cmv2xsr94000bkzryijz2htn9
 2026-10-12T19:12:40.949Z clark.kent unirse cmv3yqaeb00jo01nqi1f2drjh
+2026-10-12T23:10:28.329Z sorteo c71nohcixzxc87cc5k4boi1g8 faltaron=[doc.brown] calificaran=[padme.amidala,bellatrix.lestrange,theoden,lois.lane,fred.weasley,pippin.tuk]
+2026-10-12T23:11:06.529Z fred.weasley leer-notificaciones 2
+2026-10-12T23:11:13.890Z fred.weasley calificar c71nohcixzxc87cc5k4boi1g8 ratings=2 noShows=1
+2026-10-12T23:11:16.209Z fred.weasley unirse cho7v1g7qqqbtvf085cjmw70o
+2026-10-12T23:11:27.795Z pippin.tuk leer-notificaciones 1
+2026-10-12T23:11:31.356Z bellatrix.lestrange leer-notificaciones 1
+2026-10-12T23:11:37.746Z pippin.tuk calificar c71nohcixzxc87cc5k4boi1g8 ratings=2 noShows=1
+2026-10-12T23:11:49.285Z bellatrix.lestrange calificar c71nohcixzxc87cc5k4boi1g8 ratings=3 noShows=1
+2026-10-12T23:11:51.830Z hermione.granger leer-notificaciones 1
+2026-10-12T23:12:09.774Z hermione.granger crear cmv5va14x00ko01mrfs0nj4pv TENIS 2026-10-18T13:00:00.000Z
+2026-10-12T23:12:17.121Z hermione.granger aceptar cmv3yqaeb00jo01nqi1f2drjh clark.kent
+2026-10-12T23:12:24.691Z padme.amidala leer-notificaciones 1
+2026-10-12T23:12:34.162Z padme.amidala calificar c71nohcixzxc87cc5k4boi1g8 ratings=3 noShows=1
+2026-10-12T23:12:36.479Z theoden calificar c71nohcixzxc87cc5k4boi1g8 ratings=2 noShows=1
+2026-10-12T23:12:42.778Z lois.lane leer-notificaciones 2
+2026-10-12T23:12:51.115Z lois.lane calificar c71nohcixzxc87cc5k4boi1g8 ratings=3 noShows=1
+2026-10-12T23:12:53.457Z lois.lane aceptar cho7v1g7qqqbtvf085cjmw70o elrond
+2026-10-12T23:12:55.732Z lois.lane aceptar cho7v1g7qqqbtvf085cjmw70o fred.weasley
+2026-10-12T23:12:58.172Z frodo.bolson leer-notificaciones 1
+2026-10-12T23:13:03.940Z frodo.bolson aceptar cmv55k3r800bp01mr3up4je49 milhouse.van.houten
+2026-10-12T23:13:06.366Z boromir leer-notificaciones 1

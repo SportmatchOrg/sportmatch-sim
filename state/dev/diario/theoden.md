@@ -9,3 +9,4 @@
 - 2026-10-11 20:12 · pidió unirse al fútbol del mié 14/10 20:30 en River Courts
 - 2026-10-12 00:12 · revisó partidos, nada de CABA que le encaje; no hizo nada
 - 2026-10-12 08:11 · leyó notificaciones; lo aceptaron en el fútbol de Rachel, sin otra cosa que hacer
+- 2026-10-12 20:12 · calificó el fútbol; no hay nada en CABA que le encaje, no se unió

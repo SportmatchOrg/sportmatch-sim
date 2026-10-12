@@ -1,1 +1,2 @@
 - 2026-10-12 04:12 · entró a mirar partidos, no se anotó a nada
+- 2026-10-12 20:13 · miró partidos y leyó notificaciones, no se anotó a nada

@@ -12,3 +12,4 @@
 - 2026-10-09 12:15 · pidió unirse al tenis de Albus Dumbledore del jue 15/10 22:00 en Tigre Pádel Club
 - 2026-10-09 18:45 · se bajó a último momento del tenis del vie 09/10 20:30
 - 2026-10-12 16:12 · revisó la app, hoy solo miró
+- 2026-10-12 20:13 · miró la app, nada temprano que le encaje

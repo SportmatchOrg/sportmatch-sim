@@ -29,3 +29,4 @@
 - 2026-10-11 00:12 · pidió unirse al fútbol de Steve Rogers del lun 12/10 en Club Pilar
 - 2026-10-11 12:11 · calificó el partido de fútbol (reportó que faltaron doc.brown y walle)
 - 2026-10-11 20:12 · pidió unirse al fútbol del sábado 17/10 de Hermione en Club Pilar (siempre suma)
+- 2026-10-12 20:11 · calificó el fútbol y pidió unirse al de Lois del mié 14/10

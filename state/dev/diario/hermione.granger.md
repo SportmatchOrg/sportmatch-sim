@@ -28,3 +28,5 @@
 - 2026-10-12 00:11 · aceptó a Fred Weasley en su fútbol
 - 2026-10-12 04:11 · aceptó a Pippin Tuk y Jon Snow en su fútbol
 - 2026-10-12 08:11 · aceptó a Wall-E en su fútbol; no encontró nada que le cierre para unirse
+- 2026-10-12 20:12 · aceptó a Clark Kent y armó tenis singles el dom 18/10 10:00 en Club Pilar
+- 2026-10-12 20:12 · corrección: sí aceptó a Clark Kent; el tenis dobles del dom 18/10 10:00 en Club Pilar recién quedó creado
