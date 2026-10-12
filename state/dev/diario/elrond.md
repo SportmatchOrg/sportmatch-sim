@@ -48,3 +48,4 @@
 - 2026-10-10 20:11 · aceptó a Boromir en su fútbol del mar 13/10; calificó el fútbol de hoy
 - 2026-10-11 20:11 · cerró el partido jugado sin nadie para calificar
 - 2026-10-12 08:12 · armó un tenis de dobles para el vie 16/10 20:00 en Tigre Pádel Club
+- 2026-10-12 16:12 · pidió unirse al fútbol de Lois del miércoles en Campus Austral

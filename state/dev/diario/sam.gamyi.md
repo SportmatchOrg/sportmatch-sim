@@ -38,3 +38,4 @@
 - 2026-10-12 04:11 · aceptó a Bellatrix en su partido; no había a quién calificar
 - 2026-10-12 08:11 · aceptó a Boromir en su tenis; nada para calificar
 - 2026-10-12 12:11 · se anotó al pádel BEGINNER del martes en Club Norte; nada para calificar
+- 2026-10-12 16:11 · aceptó a Lisa en su tenis; nada para calificar

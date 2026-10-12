@@ -1772,12 +1772,10 @@
       "elrond",
       "fred.weasley",
       "pippin.tuk",
-      "walle"
+      "walle",
+      "marty.mcfly"
     ],
-    "pendientes": [
-      "marty.mcfly",
-      "clark.kent"
-    ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -1798,7 +1796,9 @@
       "marty.mcfly",
       "bellatrix.lestrange"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "elrond"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -1837,7 +1837,8 @@
     "jugadores": [],
     "pendientes": [
       "bellatrix.lestrange",
-      "theoden"
+      "theoden",
+      "gimli"
     ],
     "bajasSorteadas": false,
     "asistencia": null,
@@ -1977,12 +1978,11 @@
   },
   "cmv38z7ym00cq01nq470m7l2n": {
     "jugadores": [
-      "lois.lane"
-    ],
-    "pendientes": [
+      "lois.lane",
       "hector.barbossa",
       "bellatrix.lestrange"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -2059,7 +2059,9 @@
       "jon.snow",
       "walle"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "clark.kent"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -2111,11 +2113,10 @@
   },
   "cmv4odz5m004w01mrw2r399rj": {
     "jugadores": [
-      "boromir"
-    ],
-    "pendientes": [
+      "boromir",
       "lisa.simpson"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -2131,7 +2132,9 @@
   },
   "cmv55k3r800bp01mr3up4je49": {
     "jugadores": [],
-    "pendientes": [],
+    "pendientes": [
+      "milhouse.van.houten"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -2173,6 +2176,22 @@
     "fecha": "2026-10-16T23:30:00.000Z",
     "deporte": "FUTBOL",
     "cupo": 9,
-    "creado": "2026-10-12T15:12:06.605Z"
+    "creado": "2026-10-12T15:12:06.605Z",
+    "pendientesHumanos": 0,
+    "anotados": 0
+  },
+  "cmv5mom2400gm01mr8s54w4v3": {
+    "jugadores": [],
+    "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "mace.windu",
+    "fecha": "2026-10-14T23:00:00.000Z",
+    "deporte": "PADEL",
+    "cupo": 3,
+    "creado": "2026-10-12T19:11:33.451Z"
   }
 }
