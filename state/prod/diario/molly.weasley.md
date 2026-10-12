@@ -16,3 +16,4 @@
 - 2026-10-12 08:13 · entró, nada para calificar ni novedades; es entre semana
 - 2026-10-12 12:13 · aceptó a Davy Jones en su running del domingo 18; nada para calificar
 - 2026-10-12 16:14 · aceptó a Montgomery Burns en su running; miró partidos pero ninguno le encajaba (zona y horario), no se unió
+- 2026-10-12 20:15 · entró a mirar, nada para calificar

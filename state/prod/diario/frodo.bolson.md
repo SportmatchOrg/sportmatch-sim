@@ -1,2 +1,3 @@
 - 2026-10-11 10:53 · armó un fútbol ADVANCED para el mar 13/10 21:00 en Fútbol 5 Nordelta
 - 2026-10-12 08:14 · entró a mirar, ya tiene armado su fútbol del martes
+- 2026-10-12 20:15 · organizó un básquet INTERMEDIATE para el vie 16/10 20:00 en Campus Austral

@@ -28,3 +28,4 @@
 - 2026-10-09 21:51 · pidió unirse al futbol de Steve Rogers del mar 13/10 19:00 en Club Pilar · Cancha 2
 - 2026-10-11 00:15 · pidió unirse al fútbol del miércoles en Campus Austral (de Lois Lane)
 - 2026-10-12 08:14 · se anotó al fútbol del sábado 17 en Club Pilar
+- 2026-10-12 20:14 · calificó el fútbol y se anotó al fútbol del jueves 15 en Club Pilar

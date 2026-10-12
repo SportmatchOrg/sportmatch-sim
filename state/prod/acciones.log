@@ -177,3 +177,19 @@
 2026-10-12T19:15:00.943Z eowyn unirse cmv5mrnwl014i01ljx3n76m62
 2026-10-12T19:15:08.421Z lisa.simpson unirse cmv2z08q2006b01ljq6bs6rzw
 2026-10-12T19:15:14.015Z yoda unirse cmv4x2r3h00xb01lja2jglpyi
+2026-10-12T23:13:33.895Z sorteo c71nohcixzxc87cc5k4boi1g8 faltaron=[steve.rogers] calificaran=[bellatrix.lestrange,will.turner,lois.lane,fred.weasley,pippin.tuk]
+2026-10-12T23:14:09.564Z fred.weasley leer-notificaciones 1
+2026-10-12T23:14:22.354Z fred.weasley calificar c71nohcixzxc87cc5k4boi1g8 ratings=3 noShows=1
+2026-10-12T23:14:24.888Z fred.weasley unirse cmv3vv11100fg01lj8xv692ve
+2026-10-12T23:14:40.445Z pippin.tuk calificar c71nohcixzxc87cc5k4boi1g8 ratings=3 noShows=1
+2026-10-12T23:14:42.883Z bellatrix.lestrange calificar c71nohcixzxc87cc5k4boi1g8 ratings=3 noShows=1
+2026-10-12T23:14:45.391Z will.turner calificar c71nohcixzxc87cc5k4boi1g8 ratings=2 noShows=1
+2026-10-12T23:14:50.017Z faramir leer-notificaciones 1
+2026-10-12T23:14:53.592Z mace.windu leer-notificaciones 1
+2026-10-12T23:15:09.210Z faramir aceptar cmv5mrnwl014i01ljx3n76m62 eowyn
+2026-10-12T23:15:11.704Z mace.windu aceptar cmv2z08q2006b01ljq6bs6rzw lisa.simpson
+2026-10-12T23:15:15.530Z lois.lane aceptar cmv3vv11100fg01lj8xv692ve fred.weasley
+2026-10-12T23:15:17.901Z lois.lane calificar c71nohcixzxc87cc5k4boi1g8 ratings=3 noShows=1
+2026-10-12T23:15:28.013Z jack.sparrow aceptar cmv4x2r3h00xb01lja2jglpyi yoda
+2026-10-12T23:15:36.397Z ron.weasley unirse cmv30iiia00b501ljjcvd4vpl
+2026-10-12T23:15:38.841Z frodo.bolson crear cmv5veii2019o01ljf2mr4iod BASQUET 2026-10-16T23:00:00.000Z
