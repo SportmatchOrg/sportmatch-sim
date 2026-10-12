@@ -1,0 +1,1 @@
+- 2026-10-12 08:12 · primera vez en la app: armó un básquet INTERMEDIATE el jue 15/10 20:30 en Campus Austral

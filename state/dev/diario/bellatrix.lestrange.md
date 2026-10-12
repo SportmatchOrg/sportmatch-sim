@@ -63,3 +63,4 @@
 - 2026-10-11 12:11 · calificó dos partidos y se anotó al pádel del martes 13 en Club Norte
 - 2026-10-12 00:12 · pidió unirse al pádel BEGINNER del mié 14/10 en Club Belgrano y al fútbol de Rachel en River Courts
 - 2026-10-12 04:12 · se anotó al fútbol de Lois del miércoles y al pádel del sábado en Tigre
+- 2026-10-12 08:11 · leyó notificaciones; la aceptaron en el fútbol de Lois y el pádel de Qui-Gon, no sumó nada nuevo

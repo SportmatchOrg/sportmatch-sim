@@ -27,3 +27,4 @@
 - 2026-10-11 20:11 · aceptó a Marty McFly y Harry Potter en su fútbol
 - 2026-10-12 00:11 · aceptó a Fred Weasley en su fútbol
 - 2026-10-12 04:11 · aceptó a Pippin Tuk y Jon Snow en su fútbol
+- 2026-10-12 08:11 · aceptó a Wall-E en su fútbol; no encontró nada que le cierre para unirse

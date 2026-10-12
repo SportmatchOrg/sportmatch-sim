@@ -1792,11 +1792,10 @@
     "cupo": 9,
     "jugadores": [
       "pippin.tuk",
-      "marty.mcfly"
-    ],
-    "pendientes": [
+      "marty.mcfly",
       "bellatrix.lestrange"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -1805,7 +1804,7 @@
     "creado": "2026-10-09T21:51:40.000Z",
     "cancelSorteado": false,
     "pendientesHumanos": 0,
-    "anotados": 1
+    "anotados": 2
   },
   "c48ol58pf3e35v9c1si7ukvzu": {
     "organizador": "elrond",
@@ -1900,7 +1899,7 @@
     "cupo": 9,
     "creado": "2026-10-10T22:31:50.974Z",
     "pendientesHumanos": 0,
-    "anotados": 1
+    "anotados": 2
   },
   "cmv30dpjn008601nq27xy72zu": {
     "jugadores": [
@@ -1940,11 +1939,10 @@
   },
   "cmv38y7e000bl01nqmgrwz9zs": {
     "jugadores": [
-      "eowyn"
-    ],
-    "pendientes": [
+      "eowyn",
       "bellatrix.lestrange"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -1975,10 +1973,10 @@
     "anotados": 0
   },
   "cmv38z7ym00cq01nq470m7l2n": {
-    "jugadores": [],
-    "pendientes": [
+    "jugadores": [
       "lois.lane"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -2050,11 +2048,10 @@
       "harry.potter",
       "fred.weasley",
       "pippin.tuk",
-      "jon.snow"
-    ],
-    "pendientes": [
+      "jon.snow",
       "walle"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -2066,7 +2063,7 @@
     "cupo": 9,
     "creado": "2026-10-11T15:13:14.683Z",
     "pendientesHumanos": 0,
-    "anotados": 3
+    "anotados": 5
   },
   "cmv478u3w00mq01nqlps0i6xv": {
     "jugadores": [
@@ -2084,7 +2081,7 @@
     "cupo": 5,
     "creado": "2026-10-11T19:11:36.945Z",
     "pendientesHumanos": 0,
-    "anotados": 0
+    "anotados": 1
   },
   "cmv4ftakn001z01mrnd0n7vgw": {
     "jugadores": [
@@ -2102,13 +2099,13 @@
     "cupo": 3,
     "creado": "2026-10-11T23:11:28.388Z",
     "pendientesHumanos": 0,
-    "anotados": 0
+    "anotados": 1
   },
   "cmv4odz5m004w01mrw2r399rj": {
-    "jugadores": [],
-    "pendientes": [
+    "jugadores": [
       "boromir"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -2121,5 +2118,33 @@
     "creado": "2026-10-12T03:11:30.248Z",
     "pendientesHumanos": 0,
     "anotados": 0
+  },
+  "cmv55k3r800bp01mr3up4je49": {
+    "jugadores": [],
+    "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "frodo.bolson",
+    "fecha": "2026-10-15T23:30:00.000Z",
+    "deporte": "BASQUET",
+    "cupo": 9,
+    "creado": "2026-10-12T11:12:09.638Z"
+  },
+  "cmv55k5np00bs01mr3dtp1rek": {
+    "jugadores": [],
+    "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "elrond",
+    "fecha": "2026-10-16T23:00:00.000Z",
+    "deporte": "TENIS",
+    "cupo": 3,
+    "creado": "2026-10-12T11:12:12.151Z"
   }
 }
