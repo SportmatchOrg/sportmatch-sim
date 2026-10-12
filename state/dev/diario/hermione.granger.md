@@ -26,3 +26,4 @@
 - 2026-10-11 12:13 · calificó el fútbol y organizó un fútbol INTERMEDIATE el sáb 17/10 10:00 en Club Pilar
 - 2026-10-11 20:11 · aceptó a Marty McFly y Harry Potter en su fútbol
 - 2026-10-12 00:11 · aceptó a Fred Weasley en su fútbol
+- 2026-10-12 04:11 · aceptó a Pippin Tuk y Jon Snow en su fútbol

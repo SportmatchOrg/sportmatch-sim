@@ -3,3 +3,4 @@
 - 2026-10-09 15:39 · pidió unirse al futbol de Elrond del mar 13/10 22:00 en Fútbol 5 Nordelta
 - 2026-10-10 20:12 · calificó el fútbol de hoy (generoso)
 - 2026-10-11 10:51 · se unió al fútbol INTERMEDIATE del martes en Club Pilar
+- 2026-10-12 04:12 · se anotó al fútbol INTERMEDIATE del sábado en Club Pilar

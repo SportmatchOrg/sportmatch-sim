@@ -19,3 +19,4 @@
 - 2026-10-10 12:31 · calificó el futbol del sáb 10/10 10:30 (reportó que faltó Nemo)
 - 2026-10-10 20:11 · calificó el fútbol de hoy; después solo miró
 - 2026-10-11 00:12 · calificó el fútbol; solo miró
+- 2026-10-12 04:11 · aceptó a Marty McFly y se anotó al fútbol del jueves en Campus Austral

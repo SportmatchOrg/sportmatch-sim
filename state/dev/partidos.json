@@ -1791,10 +1791,11 @@
     "deporte": "FUTBOL",
     "cupo": 9,
     "jugadores": [
-      "pippin.tuk"
+      "pippin.tuk",
+      "marty.mcfly"
     ],
     "pendientes": [
-      "marty.mcfly"
+      "bellatrix.lestrange"
     ],
     "bajasSorteadas": false,
     "asistencia": null,
@@ -1884,11 +1885,10 @@
   },
   "cmv2yyhi6006001nq56ykk0a0": {
     "jugadores": [
-      "theoden"
-    ],
-    "pendientes": [
+      "theoden",
       "bellatrix.lestrange"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -1900,7 +1900,7 @@
     "cupo": 9,
     "creado": "2026-10-10T22:31:50.974Z",
     "pendientesHumanos": 0,
-    "anotados": 0
+    "anotados": 1
   },
   "cmv30dpjn008601nq27xy72zu": {
     "jugadores": [
@@ -1942,7 +1942,9 @@
     "jugadores": [
       "eowyn"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "bellatrix.lestrange"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -1974,7 +1976,9 @@
   },
   "cmv38z7ym00cq01nq470m7l2n": {
     "jugadores": [],
-    "pendientes": [],
+    "pendientes": [
+      "lois.lane"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -2044,11 +2048,12 @@
     "jugadores": [
       "marty.mcfly",
       "harry.potter",
-      "fred.weasley"
-    ],
-    "pendientes": [
+      "fred.weasley",
       "pippin.tuk",
       "jon.snow"
+    ],
+    "pendientes": [
+      "walle"
     ],
     "bajasSorteadas": false,
     "asistencia": null,
@@ -2061,13 +2066,13 @@
     "cupo": 9,
     "creado": "2026-10-11T15:13:14.683Z",
     "pendientesHumanos": 0,
-    "anotados": 2
+    "anotados": 3
   },
   "cmv478u3w00mq01nqlps0i6xv": {
-    "jugadores": [],
-    "pendientes": [
+    "jugadores": [
       "montgomery.burns"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -2082,10 +2087,10 @@
     "anotados": 0
   },
   "cmv4ftakn001z01mrnd0n7vgw": {
-    "jugadores": [],
-    "pendientes": [
+    "jugadores": [
       "bellatrix.lestrange"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -2101,7 +2106,9 @@
   },
   "cmv4odz5m004w01mrw2r399rj": {
     "jugadores": [],
-    "pendientes": [],
+    "pendientes": [
+      "boromir"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -2111,6 +2118,8 @@
     "fecha": "2026-10-15T23:00:00.000Z",
     "deporte": "TENIS",
     "cupo": 3,
-    "creado": "2026-10-12T03:11:30.248Z"
+    "creado": "2026-10-12T03:11:30.248Z",
+    "pendientesHumanos": 0,
+    "anotados": 0
   }
 }

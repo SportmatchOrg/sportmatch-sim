@@ -5,3 +5,4 @@
 - 2026-10-10 20:12 · miró partidos de running; ya estaba anotado al del domingo temprano en Palermo, no se anotó a nada más
 - 2026-10-11 12:12 · calificó dos carreras y se anotó al running del sábado 17 a la mañana en Parque Pilar
 - 2026-10-12 00:12 · pidió unirse al running del sábado a la mañana en Campus Austral
+- 2026-10-12 04:12 · leyó que lo aceptaron; ya tiene running el sábado, no se anotó a más
