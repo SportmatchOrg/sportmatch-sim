@@ -22,3 +22,4 @@
 - 2026-10-11 00:15 · calificó el fútbol del sábado, todo en orden
 - 2026-10-11 10:53 · aceptó a Fred Weasley y armó un fútbol INTERMEDIATE para el jue 15/10 20:30 en Club Pilar
 - 2026-10-11 12:16 · aceptó a Chewbacca y Pippin en su fútbol del jueves
+- 2026-10-12 00:13 · aceptó a Steve Rogers en su fútbol del jueves

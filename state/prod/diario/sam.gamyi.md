@@ -35,3 +35,4 @@
 - 2026-10-11 12:15 · aceptó a Apu en su pádel del martes; hoy no armó nada más
 - 2026-10-11 16:12 · entró a mirar, no tenía a nadie para calificar
 - 2026-10-11 20:13 · pidió unirse al pádel del jueves de Mace Windu en Tigre (quiere probar)
+- 2026-10-12 00:13 · armó un tenis BEGINNER (dobles) para el vie 16/10 19:00 en River Courts; nadie para calificar
