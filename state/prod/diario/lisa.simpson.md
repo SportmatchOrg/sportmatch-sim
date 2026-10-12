@@ -1,0 +1,1 @@
+- 2026-10-12 16:15 · se unió al pádel del jueves 15 a la noche en Tigre Pádel Club (juega después del trabajo)

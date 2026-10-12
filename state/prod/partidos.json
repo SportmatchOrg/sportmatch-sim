@@ -1775,11 +1775,10 @@
       "elrond",
       "fred.weasley",
       "lois.lane",
-      "pippin.tuk"
-    ],
-    "pendientes": [
+      "pippin.tuk",
       "clark.kent"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -1880,7 +1879,9 @@
       "sam.gamyi",
       "bellatrix.lestrange"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "lisa.simpson"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -1991,11 +1992,10 @@
     "jugadores": [
       "chewbacca",
       "pippin.tuk",
-      "steve.rogers"
-    ],
-    "pendientes": [
+      "steve.rogers",
       "nemo"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -2061,11 +2061,10 @@
     "jugadores": [
       "montgomery.burns",
       "davy.jones",
-      "jaime.lannister"
-    ],
-    "pendientes": [
+      "jaime.lannister",
       "tchalla"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -2096,7 +2095,7 @@
     "cupo": 9,
     "creado": "2026-10-11T15:15:27.382Z",
     "pendientesHumanos": 0,
-    "anotados": 1
+    "anotados": 2
   },
   "cmv3ytka200ku01ljt7fifemu": {
     "jugadores": [],
@@ -2164,11 +2163,10 @@
   },
   "cmv4x1xcu00wm01ljv71po2ww": {
     "jugadores": [
-      "davy.jones"
-    ],
-    "pendientes": [
+      "davy.jones",
       "montgomery.burns"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -2180,12 +2178,14 @@
     "cupo": 5,
     "creado": "2026-10-12T07:14:04.591Z",
     "pendientesHumanos": 0,
-    "anotados": 0
+    "anotados": 1
   },
   "cmv4x2r3h00xb01lja2jglpyi": {
-    "jugadores": [],
-    "pendientes": [
+    "jugadores": [
       "chewbacca"
+    ],
+    "pendientes": [
+      "yoda"
     ],
     "bajasSorteadas": false,
     "asistencia": null,
@@ -2215,5 +2215,21 @@
     "deporte": "BASQUET",
     "cupo": 10,
     "anotados": 1
+  },
+  "cmv5mrnwl014i01ljx3n76m62": {
+    "jugadores": [],
+    "pendientes": [
+      "eowyn"
+    ],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "faramir",
+    "fecha": "2026-10-18T13:00:00.000Z",
+    "deporte": "PADEL",
+    "cupo": 3,
+    "creado": "2026-10-12T19:13:55.814Z"
   }
 }

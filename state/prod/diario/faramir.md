@@ -22,3 +22,4 @@
 - 2026-10-11 12:14 · calificó el running y armó uno para el sábado 17 a la mañana en Parque Pilar
 - 2026-10-11 16:12 · aceptó a Montgomery Burns y Davy Jones en su partido de running
 - 2026-10-11 20:13 · aceptó a Jaime Lannister en su running del sábado
+- 2026-10-12 16:14 · aceptó a T'Challa en su running y armó pádel para el domingo 18 a la mañana en Pádel Point Pilar
