@@ -79,3 +79,4 @@
 - 2026-10-11 10:51 · aceptó a Fred Weasley en su fútbol
 - 2026-10-11 12:12 · calificó el fútbol, aceptó a Wall-E y rechazó a Sirius Black (no daba el nivel)
 - 2026-10-12 00:11 · canceló su fútbol del martes en Club Pilar (no se llenó)
+- 2026-10-12 12:12 · organizó un fútbol ADVANCED para el vie 16/10 20:30 en Campus Austral

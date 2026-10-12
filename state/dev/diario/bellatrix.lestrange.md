@@ -64,3 +64,4 @@
 - 2026-10-12 00:12 · pidió unirse al pádel BEGINNER del mié 14/10 en Club Belgrano y al fútbol de Rachel en River Courts
 - 2026-10-12 04:12 · se anotó al fútbol de Lois del miércoles y al pádel del sábado en Tigre
 - 2026-10-12 08:11 · leyó notificaciones; la aceptaron en el fútbol de Lois y el pádel de Qui-Gon, no sumó nada nuevo
+- 2026-10-12 12:11 · pidió unirse al fútbol de Mace Windu del jue 15/10 en Campus Austral

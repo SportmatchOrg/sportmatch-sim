@@ -10,3 +10,4 @@
 - 2026-10-11 00:12 · calificó el fútbol; después solo miró
 - 2026-10-11 10:52 · se unió al pádel del lunes en Pádel Point Pilar
 - 2026-10-11 16:11 · calificó dos partidos (fútbol y pádel)
+- 2026-10-12 12:11 · pidió unirse al pádel BEGINNER del martes en Club Norte

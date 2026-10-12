@@ -1,0 +1,1 @@
+- 2026-10-12 12:12 · pidió unirse al fútbol del martes 16 h en Club Pilar (tarde libre)

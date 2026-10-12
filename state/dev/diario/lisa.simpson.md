@@ -1,0 +1,1 @@
+- 2026-10-12 12:12 · pidió unirse al tenis BEGINNER del jue 15/10 de noche en River Courts (primera vez en la app)
