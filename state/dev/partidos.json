@@ -1787,13 +1787,15 @@
   },
   "cho7v1g7qqqbtvf085cjmw70o": {
     "organizador": "lois.lane",
-    "fecha": "2026-10-14T23:00:00.000Z",
+    "fecha": "2026-10-14T20:00:00.000Z",
     "deporte": "FUTBOL",
     "cupo": 9,
     "jugadores": [
       "pippin.tuk"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "marty.mcfly"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -1881,9 +1883,11 @@
     "anotados": 0
   },
   "cmv2yyhi6006001nq56ykk0a0": {
-    "jugadores": [],
-    "pendientes": [
+    "jugadores": [
       "theoden"
+    ],
+    "pendientes": [
+      "bellatrix.lestrange"
     ],
     "bajasSorteadas": false,
     "asistencia": null,
@@ -1907,14 +1911,16 @@
     "asistencia": null,
     "calificaran": [],
     "calificaron": [],
-    "cancelado": false,
+    "cancelado": true,
     "organizador": "steve.rogers",
     "fecha": "2026-10-12T23:30:00.000Z",
     "deporte": "FUTBOL",
     "cupo": 9,
     "creado": "2026-10-10T23:11:40.864Z",
     "pendientesHumanos": 0,
-    "anotados": 1
+    "anotados": 1,
+    "cancelSorteado": true,
+    "cancelar": true
   },
   "cmv2xsr94000ekzryh9da5hey": {
     "jugadores": [],
@@ -2032,15 +2038,17 @@
     "cupo": 5,
     "creado": "2026-10-11T15:12:07.220Z",
     "pendientesHumanos": 0,
-    "anotados": 1
+    "anotados": 2
   },
   "cmv3yqaeb00jo01nqi1f2drjh": {
     "jugadores": [
       "marty.mcfly",
-      "harry.potter"
+      "harry.potter",
+      "fred.weasley"
     ],
     "pendientes": [
-      "fred.weasley"
+      "pippin.tuk",
+      "jon.snow"
     ],
     "bajasSorteadas": false,
     "asistencia": null,
@@ -2053,11 +2061,13 @@
     "cupo": 9,
     "creado": "2026-10-11T15:13:14.683Z",
     "pendientesHumanos": 0,
-    "anotados": 0
+    "anotados": 2
   },
   "cmv478u3w00mq01nqlps0i6xv": {
     "jugadores": [],
-    "pendientes": [],
+    "pendientes": [
+      "montgomery.burns"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -2073,7 +2083,9 @@
   },
   "cmv4ftakn001z01mrnd0n7vgw": {
     "jugadores": [],
-    "pendientes": [],
+    "pendientes": [
+      "bellatrix.lestrange"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -2083,6 +2095,22 @@
     "fecha": "2026-10-14T23:00:00.000Z",
     "deporte": "PADEL",
     "cupo": 3,
-    "creado": "2026-10-11T23:11:28.388Z"
+    "creado": "2026-10-11T23:11:28.388Z",
+    "pendientesHumanos": 0,
+    "anotados": 0
+  },
+  "cmv4odz5m004w01mrw2r399rj": {
+    "jugadores": [],
+    "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "sam.gamyi",
+    "fecha": "2026-10-15T23:00:00.000Z",
+    "deporte": "TENIS",
+    "cupo": 3,
+    "creado": "2026-10-12T03:11:30.248Z"
   }
 }

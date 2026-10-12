@@ -7,3 +7,4 @@
 - 2026-10-09 21:50 · pidió unirse al futbol de Steve Rogers del mar 13/10 19:00 en Club Pilar · Cancha 2
 - 2026-10-11 10:51 · se unió al fútbol INTERMEDIATE del lunes en Parque Sur
 - 2026-10-11 20:12 · pidió unirse al fútbol del mié 14/10 20:30 en River Courts
+- 2026-10-12 00:12 · revisó partidos, nada de CABA que le encaje; no hizo nada

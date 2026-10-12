@@ -34,3 +34,4 @@
 - 2026-10-11 12:13 · revisó la app; no había a quién calificar y no hizo nada más
 - 2026-10-11 16:11 · miró notificaciones, nada para calificar
 - 2026-10-11 20:11 · organizó un pádel BEGINNER para el mié 14/10 20:00 en Club Belgrano
+- 2026-10-12 00:11 · no había a quién calificar; organizó un tenis BEGINNER el jue 15/10 20:00 en River Courts

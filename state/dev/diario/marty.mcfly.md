@@ -4,3 +4,4 @@
 - 2026-10-10 20:12 · calificó el fútbol de hoy
 - 2026-10-11 10:51 · se unió al básquet del jueves en el Polideportivo Municipal
 - 2026-10-11 16:11 · calificó el fútbol y pidió unirse al fútbol del sáb 17/10 en Club Pilar
+- 2026-10-12 00:12 · pidió unirse al fútbol del mié 14/10 de Lois (relajado)

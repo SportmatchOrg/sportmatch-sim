@@ -40,3 +40,4 @@
 - 2026-10-10 20:11 · calificó el fútbol del 10/10 con puntajes duros (2-3); no se anotó a nada nuevo
 - 2026-10-11 00:12 · miró partidos; ya tiene el fútbol del martes, no sumó nada (nada le convenció)
 - 2026-10-11 12:11 · calificó el fútbol con puntajes duros (2-3)
+- 2026-10-12 00:12 · pidió unirse al fútbol del sáb 17/10 en Club Pilar

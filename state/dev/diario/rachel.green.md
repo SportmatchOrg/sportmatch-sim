@@ -1,1 +1,2 @@
 - 2026-10-10 19:31 · organizó un fútbol INTERMEDIATE para el mié 14/10 20:30 en River Courts
+- 2026-10-12 00:11 · aceptó a Théoden en su fútbol
