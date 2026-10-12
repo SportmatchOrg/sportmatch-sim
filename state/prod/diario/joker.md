@@ -1,0 +1,1 @@
+- 2026-10-12 08:14 · pidió unirse al básquet ADVANCED del jueves en Polideportivo Municipal (quiere competir)

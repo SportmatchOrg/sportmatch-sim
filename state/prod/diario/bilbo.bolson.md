@@ -1,2 +1,3 @@
 - 2026-10-11 10:53 · primera vez en la app, miró partidos de fútbol sin anotarse
 - 2026-10-12 00:14 · echó un vistazo a los partidos, sigue pensándolo
+- 2026-10-12 08:13 · miró los partidos de fútbol de Pilar, todavía no se decide

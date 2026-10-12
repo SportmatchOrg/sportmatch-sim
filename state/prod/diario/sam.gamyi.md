@@ -37,3 +37,5 @@
 - 2026-10-11 20:13 · pidió unirse al pádel del jueves de Mace Windu en Tigre (quiere probar)
 - 2026-10-12 00:13 · armó un tenis BEGINNER (dobles) para el vie 16/10 19:00 en River Courts; nadie para calificar
 - 2026-10-12 04:13 · entró a mirar, no había nadie para calificar
+- 2026-10-12 08:13 · aceptó a Walter White en su partido; nadie para calificar
+- 2026-10-12 08:13 · (corrección: recién ahí aceptó a Walter White; antes no se había registrado)

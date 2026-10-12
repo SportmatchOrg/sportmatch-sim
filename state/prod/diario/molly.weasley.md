@@ -13,3 +13,4 @@
 - 2026-10-11 20:13 · entró a mirar, sin novedades
 - 2026-10-12 00:13 · entró, no había nada para calificar; ya tiene armado su running del sábado, no armó otro
 - 2026-10-12 04:14 · armó un running INTERMEDIATE para el dom 18/10 09:00 en Parque Pilar
+- 2026-10-12 08:13 · entró, nada para calificar ni novedades; es entre semana

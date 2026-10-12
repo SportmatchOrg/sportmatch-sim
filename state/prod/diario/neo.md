@@ -2,3 +2,4 @@
 - 2026-10-11 16:13 · aceptó a Éowyn en su básquet; el único partido abierto era ADVANCED y no se anotó
 - 2026-10-11 20:13 · aceptó a Clark Kent y armó otro básquet para el jueves 15 en Campus Austral
 - 2026-10-12 00:13 · aceptó a Davy Jones en su básquet del martes
+- 2026-10-12 08:13 · aceptó a Milhouse Van Houten en su básquet

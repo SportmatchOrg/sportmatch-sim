@@ -1890,17 +1890,16 @@
     "cupo": 3,
     "creado": "2026-10-10T22:33:12.905Z",
     "pendientesHumanos": 0,
-    "anotados": 1
+    "anotados": 2
   },
   "cmv2z0geo006g01ljikcm1lz9": {
     "jugadores": [
       "eowyn",
       "clark.kent",
-      "davy.jones"
-    ],
-    "pendientes": [
+      "davy.jones",
       "milhouse.van.houten"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -1953,11 +1952,10 @@
   "cmv30hl8r00a001ljvnsiatd9": {
     "jugadores": [
       "bellatrix.lestrange",
-      "apu.nahasapeemapetilon"
-    ],
-    "pendientes": [
+      "apu.nahasapeemapetilon",
       "walter.white"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -2079,7 +2077,9 @@
     "jugadores": [
       "rubeus.hagrid"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "fred.weasley"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -2159,7 +2159,9 @@
   },
   "cmv4x1xcu00wm01ljv71po2ww": {
     "jugadores": [],
-    "pendientes": [],
+    "pendientes": [
+      "davy.jones"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -2169,7 +2171,9 @@
     "fecha": "2026-10-18T12:00:00.000Z",
     "deporte": "RUNNING",
     "cupo": 5,
-    "creado": "2026-10-12T07:14:04.591Z"
+    "creado": "2026-10-12T07:14:04.591Z",
+    "pendientesHumanos": 0,
+    "anotados": 0
   },
   "cmv4x2r3h00xb01lja2jglpyi": {
     "jugadores": [],
@@ -2183,6 +2187,23 @@
     "fecha": "2026-10-17T12:30:00.000Z",
     "deporte": "PADEL",
     "cupo": 3,
-    "creado": "2026-10-12T07:14:43.122Z"
+    "creado": "2026-10-12T07:14:43.122Z",
+    "pendientesHumanos": 0,
+    "anotados": 0
+  },
+  "cmv2xnu80000d4rryhp3na0yj": {
+    "jugadores": [],
+    "pendientes": [
+      "joker"
+    ],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "humano:cmv2xntp100084rry0egdqfit",
+    "fecha": "2026-10-16T00:00:00.000Z",
+    "deporte": "BASQUET",
+    "cupo": 10
   }
 }
