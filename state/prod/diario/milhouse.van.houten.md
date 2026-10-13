@@ -5,3 +5,4 @@
 - 2026-10-11 20:14 · entró a mirar, sin novedades
 - 2026-10-12 04:14 · pidió unirse al básquet INTERMEDIATE del martes en Campus Austral
 - 2026-10-13 04:14 · entró a mirar, sin novedades
+- 2026-10-13 08:14 · pidió unirse al básquet intermedio del jueves en Campus Austral

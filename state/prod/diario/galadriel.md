@@ -7,3 +7,4 @@
 - 2026-10-08 18:25 · se bajó a último momento del basquet del jue 08/10 20:00
 - 2026-10-10 19:33 · entró a mirar partidos y no se anotó a nada
 - 2026-10-13 00:13 · pidió unirse al básquet del jueves en Campus Austral (quiere probar)
+- 2026-10-13 08:14 · miró básquet, nada en su zona; no se unió

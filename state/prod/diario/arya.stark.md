@@ -3,3 +3,4 @@
 - 2026-10-11 10:53 · entró, miró las notificaciones y no hizo nada
 - 2026-10-12 00:14 · miró las notificaciones, nada por hoy
 - 2026-10-13 00:13 · pidió unirse al fútbol del sábado a la mañana en Club Pilar (tiene la tarde libre)
+- 2026-10-13 08:14 · pidió unirse al pádel del sábado en Pádel Point Pilar

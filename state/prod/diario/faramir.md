@@ -24,3 +24,4 @@
 - 2026-10-11 20:13 · aceptó a Jaime Lannister en su running del sábado
 - 2026-10-12 16:14 · aceptó a T'Challa en su running y armó pádel para el domingo 18 a la mañana en Pádel Point Pilar
 - 2026-10-12 20:15 · aceptó a Éowyn en su pádel del domingo 18
+- 2026-10-13 08:13 · aceptó a Chewbacca en su partido
