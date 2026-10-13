@@ -1,3 +1,4 @@
 - 2026-10-11 16:11 · pasó a mirar, sin novedades
 - 2026-10-12 16:12 · pasó a mirar, sin novedades
 - 2026-10-13 00:11 · pidió unirse al básquet INTERMEDIATE del jueves en Campus Austral
+- 2026-10-13 04:12 · lo aceptó Frodo en su básquet; armó un básquet INTERMEDIATE el sáb 17/10 11:00 en Campus Austral

@@ -1801,9 +1801,7 @@
       "walle",
       "marty.mcfly"
     ],
-    "pendientes": [
-      "sirius.black"
-    ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -2018,7 +2016,8 @@
     "jugadores": [],
     "pendientes": [
       "marty.mcfly",
-      "boromir"
+      "boromir",
+      "barney.gumble"
     ],
     "bajasSorteadas": false,
     "asistencia": null,
@@ -2078,7 +2077,9 @@
       "walle",
       "clark.kent"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "bellatrix.lestrange"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -2112,11 +2113,10 @@
   },
   "cmv4ftakn001z01mrnd0n7vgw": {
     "jugadores": [
-      "bellatrix.lestrange"
-    ],
-    "pendientes": [
+      "bellatrix.lestrange",
       "bruce.wayne"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -2151,11 +2151,10 @@
   },
   "cmv55k3r800bp01mr3up4je49": {
     "jugadores": [
-      "milhouse.van.houten"
-    ],
-    "pendientes": [
+      "milhouse.van.houten",
       "neo"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -2219,7 +2218,9 @@
   },
   "cmv5va14x00ko01mrfs0nj4pv": {
     "jugadores": [],
-    "pendientes": [],
+    "pendientes": [
+      "harley.quinn"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -2232,5 +2233,33 @@
     "creado": "2026-10-12T23:12:09.773Z",
     "pendientesHumanos": 0,
     "anotados": 0
+  },
+  "cmv6ceiq200qr01mrbmghh3f0": {
+    "jugadores": [],
+    "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "frodo.bolson",
+    "fecha": "2026-10-17T00:00:00.000Z",
+    "deporte": "FUTBOL",
+    "cupo": 9,
+    "creado": "2026-10-13T07:11:32.573Z"
+  },
+  "cmv6cfn4300rk01mr35kk81r2": {
+    "jugadores": [],
+    "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "neo",
+    "fecha": "2026-10-17T14:00:00.000Z",
+    "deporte": "BASQUET",
+    "cupo": 7,
+    "creado": "2026-10-13T07:12:24.919Z"
   }
 }

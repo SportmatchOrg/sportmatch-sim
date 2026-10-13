@@ -1,2 +1,3 @@
 - 2026-10-12 08:11 · primera vez en la app: miró partidos y no se anotó
 - 2026-10-12 12:12 · volvió a mirar partidos de fútbol y pádel, sin anotarse
+- 2026-10-13 04:12 · volvió a mirar partidos, no se anotó a nada

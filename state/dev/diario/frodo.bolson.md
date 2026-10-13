@@ -1,2 +1,3 @@
 - 2026-10-12 08:12 · primera vez en la app: armó un básquet INTERMEDIATE el jue 15/10 20:30 en Campus Austral
 - 2026-10-12 20:13 · aceptó a Milhouse en su básquet del jueves
+- 2026-10-13 04:11 · aceptó a Neo en su básquet y armó un fútbol INTERMEDIATE el vie 16/10 21:00 en Nordelta
