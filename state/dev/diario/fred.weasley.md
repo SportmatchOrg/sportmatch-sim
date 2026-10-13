@@ -30,3 +30,4 @@
 - 2026-10-11 12:11 · calificó el partido de fútbol (reportó que faltaron doc.brown y walle)
 - 2026-10-11 20:12 · pidió unirse al fútbol del sábado 17/10 de Hermione en Club Pilar (siempre suma)
 - 2026-10-12 20:11 · calificó el fútbol y pidió unirse al de Lois del mié 14/10
+- 2026-10-13 12:11 · pidió unirse al running del sábado 17/10 en Parque Pilar

@@ -26,3 +26,4 @@
 - 2026-10-10 12:31 · calificó el futbol del sáb 10/10 10:30 (reportó que faltó Nemo)
 - 2026-10-11 10:51 · entró, miró un rato y no hizo nada
 - 2026-10-13 08:11 · entró temprano, miró y no hizo nada
+- 2026-10-13 12:11 · miró partidos, nada de fútbol temprano en Pilar; no se anotó

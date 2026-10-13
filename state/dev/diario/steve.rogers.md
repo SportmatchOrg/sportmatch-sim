@@ -82,3 +82,4 @@
 - 2026-10-12 12:12 · organizó un fútbol ADVANCED para el vie 16/10 20:30 en Campus Austral
 - 2026-10-12 16:11 · aceptó a Marty y rechazó a Clark (no le cerró el nivel)
 - 2026-10-13 04:11 · rechazó a Sirius Black otra vez (no daba el nivel)
+- 2026-10-13 12:11 · miró la app, esperando que se llenen sus partidos

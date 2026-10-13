@@ -26,3 +26,4 @@
 - 2026-10-11 10:51 · miró partidos, hoy no se anotó (es domingo, ya jugó)
 - 2026-10-11 12:13 · calificó el fútbol; no encontró partido de finde que le cierre
 - 2026-10-11 16:11 · entró a mirar, sin novedades
+- 2026-10-13 12:11 · miró la app, esperando el finde

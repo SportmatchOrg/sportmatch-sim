@@ -18,3 +18,4 @@
 - 2026-10-12 04:12 · revisó sus partidos; ya tiene el tenis del jueves y el fútbol de Nordelta, no hizo más
 - 2026-10-12 12:12 · miró notificaciones y partidos; hoy no hizo nada más
 - 2026-10-12 16:12 · revisó la app, hoy solo miró
+- 2026-10-13 12:11 · organizó un tenis de dobles para el dom 18/10 11:00 en Tigre Pádel Club

@@ -43,3 +43,4 @@
 - 2026-10-13 00:11 · miró la app, sin notificaciones ni nada para calificar
 - 2026-10-13 04:11 · aceptó a Bruce Wayne; no había a quién calificar
 - 2026-10-13 08:11 · quiso calificar un partido pero la ventana ya estaba cerrada
+- 2026-10-13 12:11 · miró la app, sin novedades
