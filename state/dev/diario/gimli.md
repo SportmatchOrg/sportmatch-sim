@@ -37,3 +37,4 @@
 - 2026-10-11 00:11 · calificó el fútbol jugado (buen nivel, todos bien)
 - 2026-10-12 12:11 · leyó notificaciones y miró partidos; hoy no se anotó a nada
 - 2026-10-12 16:12 · pidió unirse al fútbol de hoy a las 19 en Parque Sur
+- 2026-10-13 20:11 · pidió unirse al fútbol del miércoles en River Courts (le queda en CABA)

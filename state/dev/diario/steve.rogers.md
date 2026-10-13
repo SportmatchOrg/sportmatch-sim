@@ -83,3 +83,4 @@
 - 2026-10-12 16:11 · aceptó a Marty y rechazó a Clark (no le cerró el nivel)
 - 2026-10-13 04:11 · rechazó a Sirius Black otra vez (no daba el nivel)
 - 2026-10-13 12:11 · miró la app, esperando que se llenen sus partidos
+- 2026-10-13 20:11 · aceptó a Hermione y organizó un fútbol INTERMEDIATE el jue 15/10 20:30 en Club Pilar

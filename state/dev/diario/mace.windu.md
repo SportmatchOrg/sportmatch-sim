@@ -45,3 +45,4 @@
 - 2026-10-12 16:11 · aceptó a Héctor y Bellatrix en su fútbol; organizó un pádel para el mié 14/10 20:00 en Tigre Pádel Club
 - 2026-10-13 04:12 · miró la app, sin novedades
 - 2026-10-13 12:11 · aceptó a Bellatrix en su partido
+- 2026-10-13 20:10 · aceptó a Fred y George en su partido; se unió al fútbol del viernes en Nordelta (zona norte)

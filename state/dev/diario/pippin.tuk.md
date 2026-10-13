@@ -43,3 +43,4 @@
 - 2026-10-12 00:12 · pidió unirse al fútbol del sáb 17/10 en Club Pilar
 - 2026-10-12 20:11 · calificó el fútbol con puntajes duros (2-3)
 - 2026-10-13 16:11 · calificó el fútbol con puntajes duros (2-3)
+- 2026-10-13 20:12 · pidió unirse al fútbol del jueves en Club Pilar

@@ -1841,11 +1841,10 @@
       "marty.mcfly",
       "bellatrix.lestrange",
       "elrond",
-      "fred.weasley"
-    ],
-    "pendientes": [
+      "fred.weasley",
       "george.weasley"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -1926,10 +1925,11 @@
   "cmv2yyhi6006001nq56ykk0a0": {
     "jugadores": [
       "theoden",
-      "bellatrix.lestrange"
+      "bellatrix.lestrange",
+      "george.weasley"
     ],
     "pendientes": [
-      "george.weasley"
+      "gimli"
     ],
     "bajasSorteadas": false,
     "asistencia": null,
@@ -2019,12 +2019,11 @@
     "jugadores": [
       "lois.lane",
       "hector.barbossa",
-      "bellatrix.lestrange"
-    ],
-    "pendientes": [
+      "bellatrix.lestrange",
       "fred.weasley",
       "george.weasley"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -2178,11 +2177,10 @@
   "cmv55k3r800bp01mr3up4je49": {
     "jugadores": [
       "milhouse.van.houten",
-      "neo"
-    ],
-    "pendientes": [
+      "neo",
       "davy.jones"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -2213,10 +2211,10 @@
     "anotados": 0
   },
   "cmv5e4oiz00e801mr66hgx3l5": {
-    "jugadores": [],
-    "pendientes": [
+    "jugadores": [
       "hermione.granger"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -2234,7 +2232,9 @@
     "jugadores": [
       "bellatrix.lestrange"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "saruman"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -2267,7 +2267,9 @@
     "anotados": 1
   },
   "cmv6ceiq200qr01mrbmghh3f0": {
-    "jugadores": [],
+    "jugadores": [
+      "mace.windu"
+    ],
     "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
@@ -2284,10 +2286,11 @@
   },
   "cmv6cfn4300rk01mr35kk81r2": {
     "jugadores": [
-      "boromir"
+      "boromir",
+      "walle"
     ],
     "pendientes": [
-      "walle"
+      "milhouse.van.houten"
     ],
     "bajasSorteadas": false,
     "asistencia": null,
@@ -2317,5 +2320,35 @@
     "creado": "2026-10-13T15:11:52.612Z",
     "pendientesHumanos": 0,
     "anotados": 0
+  },
+  "cmv7aolkn009101qgcw92f7fk": {
+    "jugadores": [],
+    "pendientes": [
+      "pippin.tuk"
+    ],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "steve.rogers",
+    "fecha": "2026-10-15T23:30:00.000Z",
+    "deporte": "FUTBOL",
+    "cupo": 9,
+    "creado": "2026-10-13T23:11:09.773Z"
+  },
+  "cmv7aouij009b01qge2wtga8z": {
+    "jugadores": [],
+    "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "lois.lane",
+    "fecha": "2026-10-17T23:00:00.000Z",
+    "deporte": "FUTBOL",
+    "cupo": 9,
+    "creado": "2026-10-13T23:11:21.418Z"
   }
 }

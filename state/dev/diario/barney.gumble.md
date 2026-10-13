@@ -1,1 +1,2 @@
 - 2026-10-13 04:12 · primera vez en la app: pidió unirse al básquet ADVANCED del jueves 15/10
+- 2026-10-13 20:12 · miró la app y leyó notificaciones, sin novedades
