@@ -1801,9 +1801,30 @@
     ],
     "pendientes": [],
     "bajasSorteadas": false,
-    "asistencia": null,
-    "calificaran": [],
-    "calificaron": [],
+    "asistencia": {
+      "steve.rogers": true,
+      "arya.stark": true,
+      "hermione.granger": true,
+      "elrond": true,
+      "fred.weasley": true,
+      "pippin.tuk": true,
+      "walle": true,
+      "marty.mcfly": true
+    },
+    "calificaran": [
+      "hermione.granger",
+      "elrond",
+      "fred.weasley",
+      "pippin.tuk",
+      "walle"
+    ],
+    "calificaron": [
+      "fred.weasley",
+      "pippin.tuk",
+      "elrond",
+      "hermione.granger",
+      "walle"
+    ],
     "cancelado": false,
     "creado": "2026-10-09T18:41:20.000Z",
     "cancelSorteado": false,
@@ -1822,7 +1843,9 @@
       "elrond",
       "fred.weasley"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "george.weasley"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -1905,7 +1928,9 @@
       "theoden",
       "bellatrix.lestrange"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "george.weasley"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -1996,7 +2021,10 @@
       "hector.barbossa",
       "bellatrix.lestrange"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "fred.weasley",
+      "george.weasley"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -2049,11 +2077,10 @@
   "cmv3youc000ht01nqhzryvfmg": {
     "jugadores": [
       "montgomery.burns",
-      "davy.jones"
-    ],
-    "pendientes": [
+      "davy.jones",
       "fred.weasley"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -2153,7 +2180,9 @@
       "milhouse.van.houten",
       "neo"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "davy.jones"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -2185,7 +2214,9 @@
   },
   "cmv5e4oiz00e801mr66hgx3l5": {
     "jugadores": [],
-    "pendientes": [],
+    "pendientes": [
+      "hermione.granger"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -2215,7 +2246,7 @@
     "cupo": 3,
     "creado": "2026-10-12T19:11:33.451Z",
     "pendientesHumanos": 0,
-    "anotados": 0
+    "anotados": 1
   },
   "cmv5va14x00ko01mrfs0nj4pv": {
     "jugadores": [
@@ -2255,7 +2286,9 @@
     "jugadores": [
       "boromir"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "walle"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -2281,6 +2314,8 @@
     "fecha": "2026-10-18T14:00:00.000Z",
     "deporte": "TENIS",
     "cupo": 3,
-    "creado": "2026-10-13T15:11:52.612Z"
+    "creado": "2026-10-13T15:11:52.612Z",
+    "pendientesHumanos": 0,
+    "anotados": 0
   }
 }

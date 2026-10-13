@@ -6,3 +6,4 @@
 - 2026-10-07 12:49 · pidió unirse al basquet de Harley Quinn del jue 08/10 20:00 en Campus Austral · Canchas
 - 2026-10-08 18:25 · se bajó a último momento del basquet del jue 08/10 20:00
 - 2026-10-12 00:12 · miró partidos de básquet, no se anotó a nada
+- 2026-10-13 16:12 · leyó notificaciones y miró, hoy no sumó nada

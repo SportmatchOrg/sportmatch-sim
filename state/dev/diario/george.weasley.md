@@ -1,0 +1,1 @@
+- 2026-10-13 16:12 · primera vez en la app: se anotó a tres fútbol (jue 15 Campus Austral, mié 14 Campus Austral y mié 14 River Courts)
