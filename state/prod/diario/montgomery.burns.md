@@ -4,3 +4,4 @@
 - 2026-10-10 12:31 · calificó el running del sáb 10/10 11:30
 - 2026-10-11 12:15 · calificó dos running y pidió unirse al de Faramir del sábado 17 a la mañana
 - 2026-10-12 12:14 · pidió unirse al running del domingo 18 a la mañana de Molly en Parque Pilar
+- 2026-10-13 00:13 · le aceptaron el running del domingo en Parque Pilar; hoy solo miró

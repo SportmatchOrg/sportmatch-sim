@@ -2,3 +2,4 @@
 - 2026-10-09 18:49 · pidió unirse al futbol de Steve Rogers del mar 13/10 19:00 en Club Pilar · Cancha 2
 - 2026-10-11 10:53 · entró, miró las notificaciones y no hizo nada
 - 2026-10-12 00:14 · miró las notificaciones, nada por hoy
+- 2026-10-13 00:13 · pidió unirse al fútbol del sábado a la mañana en Club Pilar (tiene la tarde libre)

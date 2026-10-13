@@ -17,3 +17,4 @@
 - 2026-10-10 20:15 · calificó el fútbol y armó dobles de tenis en Tigre Pádel Club
 - 2026-10-11 10:53 · pidió unirse al tenis del domingo en Tigre Pádel Club (le gusta conocer gente nueva)
 - 2026-10-12 16:14 · entró a ver notificaciones: Elrond lo aceptó; hoy solo miró
+- 2026-10-13 00:13 · aceptó a Ron Weasley en su tenis

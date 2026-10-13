@@ -45,3 +45,4 @@
 - 2026-10-12 00:13 · aceptó la solicitud de Sam Gamyi para su padel (le gusta conocer gente nueva)
 - 2026-10-12 04:13 · aceptó la solicitud de Bellatrix Lestrange (le gusta conocer gente nueva)
 - 2026-10-12 20:15 · aceptó a Lisa Simpson en su pádel del jueves
+- 2026-10-13 00:13 · pidió unirse al pádel BEGINNER del martes en Club Norte (le gusta conocer gente nueva)

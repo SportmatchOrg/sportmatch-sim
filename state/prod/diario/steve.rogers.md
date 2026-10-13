@@ -80,3 +80,4 @@
 - 2026-10-11 12:15 · calificó el fútbol; sigue esperando que se llenen sus partidos
 - 2026-10-11 20:13 · aceptó a Théoden y pidió unirse al fútbol de Lois del jueves en Club Pilar
 - 2026-10-12 16:14 · aceptó a Clark Kent en su fútbol
+- 2026-10-13 00:13 · leyó sus notificaciones; hoy solo miró

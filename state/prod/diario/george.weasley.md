@@ -1,0 +1,1 @@
+- 2026-10-13 00:13 · primera vez: pidió unirse al fútbol del jueves a la noche en Club Pilar
