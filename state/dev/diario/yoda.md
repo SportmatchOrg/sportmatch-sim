@@ -4,3 +4,4 @@
 - 2026-10-08 15:18 · pidió unirse al padel de Chewbacca del dom 11/10 10:00 en Club Pilar · Cancha 2
 - 2026-10-09 21:52 · pidió unirse al padel de Tony Stark del sáb 10/10 09:30 en Tigre Pádel Club
 - 2026-10-12 16:12 · miró los pádel, ninguno cae en fin de semana a la mañana en Pilar, no se anotó
+- 2026-10-13 08:11 · miró los pádel, ninguno le cierra, no se anotó

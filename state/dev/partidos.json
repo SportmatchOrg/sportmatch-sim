@@ -2075,11 +2075,10 @@
       "pippin.tuk",
       "jon.snow",
       "walle",
-      "clark.kent"
-    ],
-    "pendientes": [
+      "clark.kent",
       "bellatrix.lestrange"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -2128,7 +2127,7 @@
     "cupo": 3,
     "creado": "2026-10-11T23:11:28.388Z",
     "pendientesHumanos": 0,
-    "anotados": 1
+    "anotados": 2
   },
   "cmv4odz5m004w01mrw2r399rj": {
     "jugadores": [
@@ -2166,7 +2165,7 @@
     "cupo": 9,
     "creado": "2026-10-12T11:12:09.638Z",
     "pendientesHumanos": 0,
-    "anotados": 1
+    "anotados": 2
   },
   "cmv55k5np00bs01mr3dtp1rek": {
     "jugadores": [],
@@ -2202,7 +2201,9 @@
   },
   "cmv5mom2400gm01mr8s54w4v3": {
     "jugadores": [],
-    "pendientes": [],
+    "pendientes": [
+      "bellatrix.lestrange"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -2217,10 +2218,10 @@
     "anotados": 0
   },
   "cmv5va14x00ko01mrfs0nj4pv": {
-    "jugadores": [],
-    "pendientes": [
+    "jugadores": [
       "harley.quinn"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -2246,10 +2247,14 @@
     "fecha": "2026-10-17T00:00:00.000Z",
     "deporte": "FUTBOL",
     "cupo": 9,
-    "creado": "2026-10-13T07:11:32.573Z"
+    "creado": "2026-10-13T07:11:32.573Z",
+    "pendientesHumanos": 0,
+    "anotados": 0
   },
   "cmv6cfn4300rk01mr35kk81r2": {
-    "jugadores": [],
+    "jugadores": [
+      "boromir"
+    ],
     "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
@@ -2260,6 +2265,8 @@
     "fecha": "2026-10-17T14:00:00.000Z",
     "deporte": "BASQUET",
     "cupo": 7,
-    "creado": "2026-10-13T07:12:24.919Z"
+    "creado": "2026-10-13T07:12:24.919Z",
+    "pendientesHumanos": 0,
+    "anotados": 0
   }
 }

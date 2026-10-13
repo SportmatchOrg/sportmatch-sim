@@ -1,3 +1,4 @@
 - 2026-10-09 03:44 · pidió unirse al futbol de Elrond del mar 13/10 22:00 en Fútbol 5 Nordelta
 - 2026-10-11 00:12 · se anotó al fútbol BEGINNER del mar 13/10 en Fútbol 5 Nordelta
 - 2026-10-11 00:12 · (aclaración: ya estaba anotado a ese fútbol de Nordelta; no sumó nada nuevo)
+- 2026-10-13 08:11 · leyó notificaciones y solo miró

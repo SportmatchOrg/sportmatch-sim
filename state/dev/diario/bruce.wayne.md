@@ -1,1 +1,2 @@
 - 2026-10-13 00:11 · primera vez en la app; pidió unirse al pádel BEGINNER del miércoles en Club Belgrano
+- 2026-10-13 08:11 · miró pádel, ya tenía pedido pendiente en Club Belgrano; no sumó nada

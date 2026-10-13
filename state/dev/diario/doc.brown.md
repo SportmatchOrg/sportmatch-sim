@@ -25,3 +25,4 @@
 - 2026-10-09 21:45 · calificó el futbol del vie 09/10 19:30 (reportó que faltó Gimli, Rubeus Hagrid)
 - 2026-10-10 12:31 · calificó el futbol del sáb 10/10 10:30 (reportó que faltó Nemo)
 - 2026-10-11 10:51 · entró, miró un rato y no hizo nada
+- 2026-10-13 08:11 · entró temprano, miró y no hizo nada
