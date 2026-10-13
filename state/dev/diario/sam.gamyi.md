@@ -40,3 +40,4 @@
 - 2026-10-12 12:11 · se anotó al pádel BEGINNER del martes en Club Norte; nada para calificar
 - 2026-10-12 16:11 · aceptó a Lisa en su tenis; nada para calificar
 - 2026-10-12 20:12 · miró la app, nada para calificar
+- 2026-10-13 00:11 · miró la app, sin notificaciones ni nada para calificar

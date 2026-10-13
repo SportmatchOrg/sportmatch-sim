@@ -852,9 +852,9 @@
       "bellatrix.lestrange": true
     },
     "calificaran": [
-      "mace.windu",
       "quigon.jinn",
-      "bellatrix.lestrange"
+      "bellatrix.lestrange",
+      "mace.windu"
     ],
     "calificaron": [
       "quigon.jinn",
@@ -1214,10 +1214,10 @@
       "fred.weasley": true
     },
     "calificaran": [
-      "lois.lane",
       "gimli",
       "bellatrix.lestrange",
-      "chewbacca"
+      "chewbacca",
+      "lois.lane"
     ],
     "calificaron": [
       "gimli",
@@ -1801,7 +1801,9 @@
       "walle",
       "marty.mcfly"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "sirius.black"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -1833,7 +1835,7 @@
     "creado": "2026-10-09T21:51:40.000Z",
     "cancelSorteado": false,
     "pendientesHumanos": 0,
-    "anotados": 3
+    "anotados": 5
   },
   "c48ol58pf3e35v9c1si7ukvzu": {
     "organizador": "elrond",
@@ -1866,9 +1868,17 @@
     ],
     "pendientes": [],
     "bajasSorteadas": true,
-    "asistencia": null,
-    "calificaran": [],
-    "calificaron": [],
+    "asistencia": {
+      "eowyn": true,
+      "apu.nahasapeemapetilon": true,
+      "chewbacca": true
+    },
+    "calificaran": [
+      "apu.nahasapeemapetilon"
+    ],
+    "calificaron": [
+      "apu.nahasapeemapetilon"
+    ],
     "cancelado": false,
     "organizador": "eowyn",
     "fecha": "2026-10-12T23:30:00.000Z",
@@ -2080,7 +2090,7 @@
     "cupo": 9,
     "creado": "2026-10-11T15:13:14.683Z",
     "pendientesHumanos": 0,
-    "anotados": 6
+    "anotados": 7
   },
   "cmv478u3w00mq01nqlps0i6xv": {
     "jugadores": [
@@ -2104,7 +2114,9 @@
     "jugadores": [
       "bellatrix.lestrange"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "bruce.wayne"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -2141,7 +2153,9 @@
     "jugadores": [
       "milhouse.van.houten"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "neo"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -2153,7 +2167,7 @@
     "cupo": 9,
     "creado": "2026-10-12T11:12:09.638Z",
     "pendientesHumanos": 0,
-    "anotados": 0
+    "anotados": 1
   },
   "cmv55k5np00bs01mr3dtp1rek": {
     "jugadores": [],
@@ -2215,6 +2229,8 @@
     "fecha": "2026-10-18T13:00:00.000Z",
     "deporte": "TENIS",
     "cupo": 3,
-    "creado": "2026-10-12T23:12:09.773Z"
+    "creado": "2026-10-12T23:12:09.773Z",
+    "pendientesHumanos": 0,
+    "anotados": 0
   }
 }

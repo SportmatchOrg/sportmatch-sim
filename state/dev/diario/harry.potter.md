@@ -1,1 +1,2 @@
 - 2026-10-11 16:11 · pidió unirse al fútbol del sáb 17/10 a la mañana en Club Pilar
+- 2026-10-13 00:11 · leyó que Hermione lo aceptó en el fútbol del sábado en Club Pilar; nada más

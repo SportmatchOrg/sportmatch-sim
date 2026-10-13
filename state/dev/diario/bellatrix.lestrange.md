@@ -66,3 +66,4 @@
 - 2026-10-12 08:11 · leyó notificaciones; la aceptaron en el fútbol de Lois y el pádel de Qui-Gon, no sumó nada nuevo
 - 2026-10-12 12:11 · pidió unirse al fútbol de Mace Windu del jue 15/10 en Campus Austral
 - 2026-10-12 20:11 · calificó el fútbol (puntajes altos)
+- 2026-10-13 00:11 · ya estaba anotada al fútbol de Rachel; no sumó nada nuevo hoy
