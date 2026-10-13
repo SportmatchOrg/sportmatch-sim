@@ -5,3 +5,4 @@
 - 2026-10-09 21:52 · pidió unirse al padel de Tony Stark del sáb 10/10 09:30 en Tigre Pádel Club
 - 2026-10-10 19:33 · entró a mirar partidos y no se anotó a nada
 - 2026-10-12 16:15 · pidió unirse al pádel del sábado 17 a la mañana en Pádel Point Pilar
+- 2026-10-13 16:14 · pidió unirse al pádel del domingo 18 a la mañana en Pádel Point Pilar

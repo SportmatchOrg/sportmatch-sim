@@ -1,1 +1,2 @@
 - 2026-10-12 16:15 · se unió al pádel del jueves 15 a la noche en Tigre Pádel Club (juega después del trabajo)
+- 2026-10-13 16:15 · pidió unirse al tenis del miércoles a las 20 en Tigre (le gusta jugar de noche)

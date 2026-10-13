@@ -27,3 +27,4 @@
 - 2026-10-11 20:13 · aceptó a Rubeus Hagrid en su fútbol del sábado
 - 2026-10-12 12:13 · aceptó a Fred Weasley en su fútbol y se unió al fútbol del jueves 15 en Club Pilar
 - 2026-10-13 04:13 · aceptó a Arya Stark en su fútbol del sábado
+- 2026-10-13 16:15 · entró a mirar; ya está anotado al fútbol del jueves, no hizo más

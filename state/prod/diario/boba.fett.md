@@ -1,0 +1,1 @@
+- 2026-10-13 16:15 · entró a curiosear partidos de pádel y fútbol; no se anotó a nada

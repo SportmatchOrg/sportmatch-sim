@@ -48,3 +48,4 @@
 - 2026-10-11 12:14 · aceptó a Albus Dumbledore en su tenis del domingo
 - 2026-10-11 16:13 · entró a mirar, sin novedades
 - 2026-10-11 20:13 · calificó el tenis, Albus muy bien
+- 2026-10-13 16:13 · calificó el fútbol y se anotó al fútbol del miércoles en Nordelta

@@ -25,3 +25,4 @@
 - 2026-10-10 12:31 · calificó el futbol del sáb 10/10 10:30 (reportó que faltó Nemo)
 - 2026-10-11 12:15 · calificó el fútbol y armó uno para el sábado 17 a la mañana en Club Pilar
 - 2026-10-11 16:13 · entró a mirar, sin novedades
+- 2026-10-13 16:14 · calificó el fútbol, aceptó a Ignacio en su fútbol y armó tenis dobles para el domingo 18 a la mañana en Club Pilar
