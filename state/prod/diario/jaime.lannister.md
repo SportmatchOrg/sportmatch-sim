@@ -12,3 +12,4 @@
 - 2026-10-10 09:48 · se bajó a último momento del running del sáb 10/10 11:30
 - 2026-10-11 00:15 · pidió unirse al tenis del domingo 06:30 en River Courts (madruga)
 - 2026-10-11 16:13 · pidió unirse al running del sáb 17/10 09:00 en Parque Pilar (madruga)
+- 2026-10-13 04:14 · armó un tenis dobles para el jue 15/10 07:30 en Club Pilar (madruga); los otros eran de noche y no se unió

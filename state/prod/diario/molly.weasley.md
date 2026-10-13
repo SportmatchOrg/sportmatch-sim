@@ -18,3 +18,4 @@
 - 2026-10-12 16:14 · aceptó a Montgomery Burns en su running; miró partidos pero ninguno le encajaba (zona y horario), no se unió
 - 2026-10-12 20:15 · entró a mirar, nada para calificar
 - 2026-10-13 00:13 · entró a mirar, nadie para calificar; sigue con su running del domingo
+- 2026-10-13 04:13 · entró a mirar, nadie para calificar

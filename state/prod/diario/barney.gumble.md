@@ -1,2 +1,3 @@
 - 2026-10-11 16:13 · entró a mirar, sin novedades
 - 2026-10-12 12:14 · entró a mirar, nada que organizar hoy ni novedades
+- 2026-10-13 04:14 · armó un pádel ADVANCED para el sáb 17/10 10:00 en Pádel Point Pilar

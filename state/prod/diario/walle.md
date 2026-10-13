@@ -2,3 +2,4 @@
 - 2026-10-09 06:50 · pidió unirse al futbol de Albus Dumbledore del sáb 10/10 20:00 en Fútbol 5 Nordelta
 - 2026-10-09 15:39 · pidió unirse al futbol de Elrond del mar 13/10 22:00 en Fútbol 5 Nordelta
 - 2026-10-11 12:16 · calificó el fútbol, todos muy buena onda
+- 2026-10-13 04:14 · entró a mirar, sin novedades

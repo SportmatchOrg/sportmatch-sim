@@ -1995,7 +1995,7 @@
     "cupo": 3,
     "creado": "2026-10-10T23:15:24.975Z",
     "pendientesHumanos": 0,
-    "anotados": 0
+    "anotados": 1
   },
   "cmv3vv11100fg01lj8xv692ve": {
     "jugadores": [
@@ -2003,11 +2003,10 @@
       "pippin.tuk",
       "steve.rogers",
       "nemo",
-      "fred.weasley"
-    ],
-    "pendientes": [
+      "fred.weasley",
       "george.weasley"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -2095,11 +2094,10 @@
   "cmv3yt4td00k801lji8csv0y7": {
     "jugadores": [
       "rubeus.hagrid",
-      "fred.weasley"
-    ],
-    "pendientes": [
+      "fred.weasley",
       "arya.stark"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -2146,10 +2144,10 @@
     "anotados": 0
   },
   "cmv4fwe3r00rm01ljw8upckn7": {
-    "jugadores": [],
-    "pendientes": [
+    "jugadores": [
       "galadriel"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -2184,7 +2182,9 @@
       "davy.jones",
       "montgomery.burns"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "tchalla"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -2237,7 +2237,9 @@
     "jugadores": [
       "eowyn"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "chewbacca"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -2280,6 +2282,35 @@
     "organizador": "humano:cmv2xntp700094rryq141soee",
     "fecha": "2026-10-13T23:00:00.000Z",
     "deporte": "PADEL",
-    "cupo": 4
+    "cupo": 4,
+    "anotados": 1
+  },
+  "cmv6ci64y01fi01ljirec25pt": {
+    "jugadores": [],
+    "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "barney.gumble",
+    "fecha": "2026-10-17T13:00:00.000Z",
+    "deporte": "PADEL",
+    "cupo": 3,
+    "creado": "2026-10-13T07:14:22.897Z"
+  },
+  "cmv6cil7e01ft01lj33n1i3oq": {
+    "jugadores": [],
+    "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "jaime.lannister",
+    "fecha": "2026-10-15T10:30:00.000Z",
+    "deporte": "TENIS",
+    "cupo": 3,
+    "creado": "2026-10-13T07:14:42.427Z"
   }
 }
