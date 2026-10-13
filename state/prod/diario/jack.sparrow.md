@@ -4,3 +4,4 @@
 - 2026-10-12 04:14 · armó un pádel INTERMEDIATE para el sáb 17/10 09:30 en Pádel Point Pilar
 - 2026-10-12 16:14 · aceptó a Chewbacca en su pádel del sábado
 - 2026-10-12 20:15 · aceptó a Yoda en su pádel del sábado
+- 2026-10-13 12:13 · aceptó a Arya Stark en su pádel y armó un running para el domingo 18 a la mañana en Parque Pilar

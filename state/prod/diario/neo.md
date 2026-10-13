@@ -4,3 +4,4 @@
 - 2026-10-12 00:13 · aceptó a Davy Jones en su básquet del martes
 - 2026-10-12 08:13 · aceptó a Milhouse Van Houten en su básquet
 - 2026-10-13 04:13 · aceptó a Galadriel en su básquet
+- 2026-10-13 12:13 · aceptó a Milhouse Van Houten en su básquet del jueves

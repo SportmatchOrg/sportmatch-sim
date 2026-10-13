@@ -8,3 +8,4 @@
 - 2026-10-10 19:33 · entró a mirar partidos y no se anotó a nada
 - 2026-10-13 00:13 · pidió unirse al básquet del jueves en Campus Austral (quiere probar)
 - 2026-10-13 08:14 · miró básquet, nada en su zona; no se unió
+- 2026-10-13 12:13 · miró básquet, nada de principiante en su zona; no se anotó

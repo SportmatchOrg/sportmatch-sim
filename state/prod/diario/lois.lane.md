@@ -26,3 +26,4 @@
 - 2026-10-12 16:14 · aceptó a Nemo en su fútbol del jueves
 - 2026-10-12 20:15 · aceptó a Fred en su fútbol del jueves y calificó el fútbol
 - 2026-10-13 04:13 · aceptó a George Weasley en su partido
+- 2026-10-13 12:14 · leyó notificaciones y miró partidos; sin acciones hoy

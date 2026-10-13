@@ -25,3 +25,4 @@
 - 2026-10-12 16:14 · aceptó a T'Challa en su running y armó pádel para el domingo 18 a la mañana en Pádel Point Pilar
 - 2026-10-12 20:15 · aceptó a Éowyn en su pádel del domingo 18
 - 2026-10-13 08:13 · aceptó a Chewbacca en su partido
+- 2026-10-13 12:13 · aceptó a Fred Weasley en su running; miró partidos pero no se anotó a nada (ya tiene running y pádel armados el finde)
