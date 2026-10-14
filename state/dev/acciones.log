@@ -346,3 +346,30 @@
 2026-10-14T19:11:42.565Z doc.brown unirse cmv89035w00sl01qgtopo7q2i
 2026-10-14T19:11:44.836Z clark.kent unirse cmv7aolkn009101qgcw92f7fk
 2026-10-14T19:11:49.264Z ron.weasley unirse cmv6tk8dd002b01qgfznjk21n
+2026-10-14T23:10:28.988Z sorteo cho7v1g7qqqbtvf085cjmw70o faltaron=[] calificaran=[lois.lane,bellatrix.lestrange,elrond,george.weasley]
+2026-10-14T23:10:41.759Z sorteo cmv4ftakn001z01mrnd0n7vgw faltaron=[] calificaran=[sam.gamyi,bellatrix.lestrange]
+2026-10-14T23:10:46.462Z sorteo cmv5mom2400gm01mr8s54w4v3 faltaron=[] calificaran=[mace.windu,bellatrix.lestrange,saruman]
+2026-10-14T23:11:11.015Z elrond calificar cho7v1g7qqqbtvf085cjmw70o ratings=3 noShows=0
+2026-10-14T23:11:13.094Z bellatrix.lestrange leer-notificaciones 1
+2026-10-14T23:11:25.659Z bellatrix.lestrange calificar cho7v1g7qqqbtvf085cjmw70o ratings=3 noShows=0
+2026-10-14T23:11:27.593Z bellatrix.lestrange calificar cmv4ftakn001z01mrnd0n7vgw ratings=2 noShows=0
+2026-10-14T23:11:29.491Z bellatrix.lestrange calificar cmv5mom2400gm01mr8s54w4v3 ratings=2 noShows=0
+2026-10-14T23:11:31.466Z mace.windu calificar cmv5mom2400gm01mr8s54w4v3 ratings=2 noShows=0
+2026-10-14T23:11:33.450Z steve.rogers leer-notificaciones 1
+2026-10-14T23:11:39.257Z steve.rogers aceptar cmv7aolkn009101qgcw92f7fk clark.kent
+2026-10-14T23:11:43.366Z lois.lane leer-notificaciones 2
+2026-10-14T23:11:51.912Z sam.gamyi calificar cmv4ftakn001z01mrnd0n7vgw ratings=2 noShows=0
+2026-10-14T23:11:53.964Z lois.lane calificar cho7v1g7qqqbtvf085cjmw70o ratings=3 noShows=0
+2026-10-14T23:11:55.841Z lois.lane crear cmv8q5fst00z501qg4dk8zoyd FUTBOL 2026-10-17T22:30:00.000Z
+2026-10-14T23:11:58.341Z albus.dumbledore leer-notificaciones 1
+2026-10-14T23:12:01.404Z saruman leer-notificaciones 1
+2026-10-14T23:12:10.719Z albus.dumbledore aceptar cmv6tk8dd002b01qgfznjk21n ron.weasley
+2026-10-14T23:12:12.934Z saruman calificar cmv5mom2400gm01mr8s54w4v3 ratings=2 noShows=0
+2026-10-14T23:12:15.366Z saruman unirse cmv7jayqd00fe01qg7lbe41gr
+2026-10-14T23:12:17.658Z george.weasley leer-notificaciones 1
+2026-10-14T23:12:25.399Z george.weasley calificar cho7v1g7qqqbtvf085cjmw70o ratings=3 noShows=0
+2026-10-14T23:12:27.189Z george.weasley unirse cmv8q5fst00z501qg4dk8zoyd
+2026-10-14T23:12:29.222Z finn leer-notificaciones 1
+2026-10-14T23:12:34.578Z finn aceptar cmv89035w00sl01qgtopo7q2i doc.brown
+2026-10-14T23:12:37.841Z fred.weasley leer-notificaciones 1
+2026-10-14T23:12:42.240Z fred.weasley unirse cmv7aolkn009101qgcw92f7fk

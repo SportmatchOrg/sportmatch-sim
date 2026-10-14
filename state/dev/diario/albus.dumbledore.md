@@ -20,3 +20,4 @@
 - 2026-10-12 16:12 · revisó la app, hoy solo miró
 - 2026-10-13 12:11 · organizó un tenis de dobles para el dom 18/10 11:00 en Tigre Pádel Club
 - 2026-10-14 00:12 · calificó el fútbol del martes, buen grupo
+- 2026-10-14 20:12 · aceptó a Ron en su partido

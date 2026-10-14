@@ -86,3 +86,4 @@
 - 2026-10-13 20:11 · aceptó a Hermione y organizó un fútbol INTERMEDIATE el jue 15/10 20:30 en Club Pilar
 - 2026-10-14 00:11 · aceptó a Pippin y a Bellatrix en su fútbol del jue 15/10
 - 2026-10-14 12:11 · aceptó a Lois y a Arya en su fútbol
+- 2026-10-14 20:11 · aceptó a Clark en su fútbol

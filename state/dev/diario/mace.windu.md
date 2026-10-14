@@ -47,3 +47,4 @@
 - 2026-10-13 12:11 · aceptó a Bellatrix en su partido
 - 2026-10-13 20:10 · aceptó a Fred y George en su partido; se unió al fútbol del viernes en Nordelta (zona norte)
 - 2026-10-14 00:11 · calificó el fútbol y aceptó a Saruman en su partido
+- 2026-10-14 20:11 · calificó el pádel, todo bien

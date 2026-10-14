@@ -1134,12 +1134,12 @@
       "marty.mcfly": true
     },
     "calificaran": [
-      "padme.amidala",
-      "bellatrix.lestrange",
-      "theoden",
-      "lois.lane",
       "fred.weasley",
-      "pippin.tuk"
+      "pippin.tuk",
+      "bellatrix.lestrange",
+      "padme.amidala",
+      "theoden",
+      "lois.lane"
     ],
     "calificaron": [
       "fred.weasley",
@@ -1885,14 +1885,30 @@
     ],
     "pendientes": [],
     "bajasSorteadas": true,
-    "asistencia": null,
-    "calificaran": [],
-    "calificaron": [],
+    "asistencia": {
+      "lois.lane": true,
+      "marty.mcfly": true,
+      "bellatrix.lestrange": true,
+      "elrond": true,
+      "george.weasley": true
+    },
+    "calificaran": [
+      "lois.lane",
+      "bellatrix.lestrange",
+      "elrond",
+      "george.weasley"
+    ],
+    "calificaron": [
+      "elrond",
+      "bellatrix.lestrange",
+      "lois.lane",
+      "george.weasley"
+    ],
     "cancelado": false,
     "creado": "2026-10-09T21:51:40.000Z",
     "cancelSorteado": false,
     "pendientesHumanos": 0,
-    "anotados": 6
+    "anotados": 4
   },
   "c48ol58pf3e35v9c1si7ukvzu": {
     "organizador": "elrond",
@@ -1971,7 +1987,7 @@
       "sam.gamyi"
     ],
     "pendientes": [],
-    "bajasSorteadas": false,
+    "bajasSorteadas": true,
     "asistencia": null,
     "calificaran": [],
     "calificaron": [],
@@ -2167,9 +2183,19 @@
     ],
     "pendientes": [],
     "bajasSorteadas": false,
-    "asistencia": null,
-    "calificaran": [],
-    "calificaron": [],
+    "asistencia": {
+      "sam.gamyi": true,
+      "bellatrix.lestrange": true,
+      "bruce.wayne": true
+    },
+    "calificaran": [
+      "sam.gamyi",
+      "bellatrix.lestrange"
+    ],
+    "calificaron": [
+      "bellatrix.lestrange",
+      "sam.gamyi"
+    ],
     "cancelado": false,
     "organizador": "sam.gamyi",
     "fecha": "2026-10-14T23:00:00.000Z",
@@ -2259,9 +2285,21 @@
     ],
     "pendientes": [],
     "bajasSorteadas": false,
-    "asistencia": null,
-    "calificaran": [],
-    "calificaron": [],
+    "asistencia": {
+      "mace.windu": true,
+      "bellatrix.lestrange": true,
+      "saruman": true
+    },
+    "calificaran": [
+      "mace.windu",
+      "bellatrix.lestrange",
+      "saruman"
+    ],
+    "calificaron": [
+      "bellatrix.lestrange",
+      "mace.windu",
+      "saruman"
+    ],
     "cancelado": false,
     "organizador": "mace.windu",
     "fecha": "2026-10-14T23:00:00.000Z",
@@ -2330,10 +2368,10 @@
     "anotados": 4
   },
   "cmv6tk8dd002b01qgfznjk21n": {
-    "jugadores": [],
-    "pendientes": [
+    "jugadores": [
       "ron.weasley"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -2352,10 +2390,11 @@
       "pippin.tuk",
       "bellatrix.lestrange",
       "lois.lane",
-      "arya.stark"
+      "arya.stark",
+      "clark.kent"
     ],
     "pendientes": [
-      "clark.kent"
+      "fred.weasley"
     ],
     "bajasSorteadas": false,
     "asistencia": null,
@@ -2409,7 +2448,9 @@
   },
   "cmv7jayqd00fe01qg7lbe41gr": {
     "jugadores": [],
-    "pendientes": [],
+    "pendientes": [
+      "saruman"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -2457,11 +2498,10 @@
   },
   "cmv89035w00sl01qgtopo7q2i": {
     "jugadores": [
-      "bellatrix.lestrange"
-    ],
-    "pendientes": [
+      "bellatrix.lestrange",
       "doc.brown"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -2473,7 +2513,7 @@
     "cupo": 9,
     "creado": "2026-10-14T15:11:52.732Z",
     "pendientesHumanos": 0,
-    "anotados": 0
+    "anotados": 1
   },
   "cmv890jcc00sw01qg7ut57xfk": {
     "jugadores": [],
@@ -2490,5 +2530,21 @@
     "creado": "2026-10-14T15:12:13.729Z",
     "pendientesHumanos": 0,
     "anotados": 0
+  },
+  "cmv8q5fst00z501qg4dk8zoyd": {
+    "jugadores": [],
+    "pendientes": [
+      "george.weasley"
+    ],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "lois.lane",
+    "fecha": "2026-10-17T22:30:00.000Z",
+    "deporte": "FUTBOL",
+    "cupo": 9,
+    "creado": "2026-10-14T23:11:55.840Z"
   }
 }

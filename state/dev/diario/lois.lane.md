@@ -25,3 +25,4 @@
 - 2026-10-13 20:11 · aceptó a George y armó un fútbol INTERMEDIATE el sáb 17/10 20:00 en Polideportivo Del Viso
 - 2026-10-14 08:11 · aceptó a Fred y se anotó al fútbol del jueves en Club Pilar
 - 2026-10-14 12:12 · vio que Steve la aceptó en el fútbol del jueves; solo miró
+- 2026-10-14 20:11 · calificó el fútbol y armó uno para el sáb 17/10 19:30 en Club Pilar

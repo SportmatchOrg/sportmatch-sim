@@ -53,3 +53,4 @@
 - 2026-10-14 00:11 · calificó el fútbol del martes; armó un fútbol 5 para el vie 16/10 en Nordelta (juega para despejarse)
 - 2026-10-14 08:11 · aceptó a Bellatrix en su partido
 - 2026-10-14 12:11 · aceptó a George Weasley en su partido
+- 2026-10-14 20:11 · calificó el fútbol jugado, todo bien
