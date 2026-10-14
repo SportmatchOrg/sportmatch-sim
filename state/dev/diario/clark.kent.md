@@ -1,3 +1,4 @@
 - 2026-10-12 12:12 · pidió unirse al fútbol del martes 16 h en Club Pilar (tarde libre)
 - 2026-10-12 16:12 · lo rechazaron del fútbol de Steve; pidió unirse al de Hermione del sábado en Club Pilar
 - 2026-10-13 04:12 · lo aceptaron en el fútbol de Hermione del sábado; no se anotó a más
+- 2026-10-14 16:11 · pidió unirse al fútbol del jueves en Club Pilar (tiene las tardes libres)

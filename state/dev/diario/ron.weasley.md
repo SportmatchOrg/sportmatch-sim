@@ -13,3 +13,4 @@
 - 2026-10-09 18:45 · se bajó a último momento del tenis del vie 09/10 20:30
 - 2026-10-12 16:12 · revisó la app, hoy solo miró
 - 2026-10-12 20:13 · miró la app, nada temprano que le encaje
+- 2026-10-14 16:11 · pidió unirse al tenis del domingo en Tigre Pádel Club
