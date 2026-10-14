@@ -30,3 +30,4 @@
 - 2026-10-12 08:14 · se anotó al fútbol del sábado 17 en Club Pilar
 - 2026-10-12 20:14 · calificó el fútbol y se anotó al fútbol del jueves 15 en Club Pilar
 - 2026-10-13 08:14 · pidió unirse al running del sábado en Parque Pilar (ya estaba anotado en el fútbol del sábado)
+- 2026-10-14 08:14 · se anotó al running del domingo 18 de Molly en Parque Pilar (se suma a todo)

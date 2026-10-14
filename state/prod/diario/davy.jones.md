@@ -11,3 +11,4 @@
 - 2026-10-12 08:13 · pidió unirse al running del dom 18 de Molly en Parque Pilar (le queda cerca)
 - 2026-10-12 12:14 · Molly le aceptó el running del domingo 18; hoy no se anotó a nada más
 - 2026-10-14 00:16 · calificó el básquet y pidió unirse al de Frodo del viernes en Campus Austral (le queda cerca)
+- 2026-10-14 08:14 · leyó que Frodo le aceptó el básquet del viernes; no hizo más

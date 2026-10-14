@@ -14,3 +14,4 @@
 - 2026-10-11 16:13 · pidió unirse al running del sáb 17/10 09:00 en Parque Pilar (madruga)
 - 2026-10-13 04:14 · armó un tenis dobles para el jue 15/10 07:30 en Club Pilar (madruga); los otros eran de noche y no se unió
 - 2026-10-13 16:14 · aceptó a Ron en su tenis y pidió unirse al running del domingo a las 8:30 en Parque Pilar (madruga)
+- 2026-10-14 08:15 · leyó que Jack le aceptó el running del domingo; no encontró otro temprano para anotarse

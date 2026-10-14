@@ -1,0 +1,1 @@
+- 2026-10-14 08:15 · primera vez en la app: miró partidos de básquet y pádel, no se anotó a nada

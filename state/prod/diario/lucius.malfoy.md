@@ -1,3 +1,4 @@
 - 2026-10-13 12:13 · primera vez en la app, miró partidos y no hizo nada
 - 2026-10-13 16:15 · entró a mirar, sin acciones
 - 2026-10-14 04:14 · entró a mirar, hoy no hizo nada
+- 2026-10-14 08:14 · pidió unirse al básquet del jueves 15 en Campus Austral

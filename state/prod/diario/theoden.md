@@ -9,3 +9,4 @@
 - 2026-10-11 16:13 · pidió unirse al fútbol del jueves 15/10 en Polideportivo Del Viso (juega de noche)
 - 2026-10-13 08:14 · pidió unirse al fútbol del miércoles a la noche en Nordelta
 - 2026-10-14 04:14 · le aceptaron dos fútbol (Mace y Steve); hoy solo leyó las notificaciones
+- 2026-10-14 08:15 · entró a mirar; ya tiene fútbol anotado, no hizo más

@@ -44,3 +44,4 @@
 - 2026-10-13 08:14 · entró a mirar; ya estaba anotado en el fútbol del jueves en Club Pilar, no hizo más
 - 2026-10-13 16:13 · calificó el fútbol con notas duras
 - 2026-10-14 04:14 · pidió unirse al fútbol del sábado 17 de Nemo en Club Pilar
+- 2026-10-14 08:14 · armó un fútbol INTERMEDIATE para el lunes 19 a las 20:30 en Club Pilar (vuelve al deporte)
