@@ -29,3 +29,4 @@
 - 2026-10-11 12:14 · calificó el running del sábado y se anotó al basquet del martes en Campus Austral
 - 2026-10-12 04:14 · leyó que la aceptaron en un partido de Neo
 - 2026-10-12 16:15 · se unió al pádel del domingo 18 en Pádel Point Pilar (le gusta conocer gente nueva)
+- 2026-10-14 20:15 · pidió unirse al running del domingo 18 en Parque Pilar (le gusta conocer gente)

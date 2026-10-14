@@ -9,3 +9,4 @@
 - 2026-10-12 12:13 · entró un rato a mirar, sin novedades
 - 2026-10-14 16:14 · pidió unirse al pádel ADVANCED del sábado en Pádel Point Pilar (exigente con el nivel)
 - 2026-10-14 16:14 · aclaración: no pudo unirse al pádel, su cuenta está suspendida hasta el 21/10
+- 2026-10-14 20:15 · entró a mirar; sigue suspendido, no hizo nada

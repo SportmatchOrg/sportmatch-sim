@@ -10,3 +10,4 @@
 - 2026-10-14 12:13 · aceptó a Lucius Malfoy en su básquet
 - 2026-10-14 16:13 · aceptó a Joker en su básquet y se anotó al del viernes en Campus Austral (para despejarse)
 - 2026-10-14 16:13 · aceptó a Joker en su básquet y se anotó al del viernes en Campus Austral (para despejarse)
+- 2026-10-14 20:15 · aceptó a Rex en su básquet del lunes; no se anotó a nada más

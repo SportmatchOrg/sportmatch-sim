@@ -13,3 +13,4 @@
 - 2026-10-09 18:45 · se bajó a último momento del tenis del vie 09/10 20:30
 - 2026-10-12 20:15 · pidió unirse al tenis de Albus del miércoles en Tigre
 - 2026-10-13 12:14 · pidió unirse al tenis del jueves 7:30 en Club Pilar (madruga, prefiere antes de las 9)
+- 2026-10-14 20:15 · calificó el básquet (le puso 5 y 4) y vio que lo aceptaron en el tenis de Pilar

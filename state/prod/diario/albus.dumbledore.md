@@ -20,3 +20,4 @@
 - 2026-10-13 00:13 · aceptó a Ron Weasley en su tenis
 - 2026-10-13 08:14 · entró a mirar, nada nuevo; no armó nada hoy
 - 2026-10-14 00:16 · calificó el fútbol y aceptó a Lisa Simpson en su tenis del miércoles
+- 2026-10-14 20:15 · armó tenis dobles INTERMEDIATE el vie 16/10 19:30 en Tigre Pádel Club (para conocer gente)

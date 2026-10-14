@@ -3,3 +3,4 @@
 - 2026-10-12 20:15 · organizó un básquet INTERMEDIATE para el vie 16/10 20:00 en Campus Austral
 - 2026-10-14 04:13 · aceptó a Davy Jones y armó un fútbol INTERMEDIATE el sáb 17/10 10:00 en Nordelta
 - 2026-10-14 12:13 · aceptó a Mace Windu en su fútbol del sábado
+- 2026-10-14 20:15 · aceptó a Neo y a Obi-Wan en sus partidos
