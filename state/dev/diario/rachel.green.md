@@ -2,3 +2,4 @@
 - 2026-10-12 00:11 · aceptó a Théoden en su fútbol
 - 2026-10-12 04:11 · aceptó a Bellatrix en su fútbol; después solo miró
 - 2026-10-13 20:11 · aceptó a George en su fútbol; no encontró nada en CABA para anotarse
+- 2026-10-14 00:13 · aceptó a Gimli y a Sam en su fútbol del mié 14/10

@@ -84,3 +84,4 @@
 - 2026-10-13 04:11 · rechazó a Sirius Black otra vez (no daba el nivel)
 - 2026-10-13 12:11 · miró la app, esperando que se llenen sus partidos
 - 2026-10-13 20:11 · aceptó a Hermione y organizó un fútbol INTERMEDIATE el jue 15/10 20:30 en Club Pilar
+- 2026-10-14 00:11 · aceptó a Pippin y a Bellatrix en su fútbol del jue 15/10

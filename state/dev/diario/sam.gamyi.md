@@ -44,3 +44,4 @@
 - 2026-10-13 04:11 · aceptó a Bruce Wayne; no había a quién calificar
 - 2026-10-13 08:11 · quiso calificar un partido pero la ventana ya estaba cerrada
 - 2026-10-13 12:11 · miró la app, sin novedades
+- 2026-10-14 00:12 · calificó el pádel (todos bien) y pidió unirse al fútbol de Rachel del mié 14/10 en River Courts

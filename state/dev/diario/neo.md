@@ -4,3 +4,4 @@
 - 2026-10-13 04:12 · lo aceptó Frodo en su básquet; armó un básquet INTERMEDIATE el sáb 17/10 11:00 en Campus Austral
 - 2026-10-13 08:12 · aceptó a Boromir en su básquet del sábado
 - 2026-10-13 20:11 · aceptó a Wall-E en su básquet; después solo miró
+- 2026-10-14 00:12 · aceptó a Milhouse en su básquet del sáb 17/10; no armó otro porque el del sábado sigue abierto

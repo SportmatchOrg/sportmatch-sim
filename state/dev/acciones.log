@@ -277,3 +277,31 @@
 2026-10-13T23:12:08.038Z milhouse.van.houten leer-notificaciones 1
 2026-10-13T23:12:14.659Z milhouse.van.houten unirse cmv6cfn4300rk01mr35kk81r2
 2026-10-13T23:12:22.814Z saruman unirse cmv5mom2400gm01mr8s54w4v3
+2026-10-14T03:10:25.350Z sorteo coclwr4a4yfbbgmukpqdov386 faltaron=[dobby] calificaran=[sam.gamyi,tony.stark]
+2026-10-14T03:10:25.970Z sorteo cgvjxl4jipbrqgnqtvkrjr5rs faltaron=[] calificaran=[elrond,mace.windu,albus.dumbledore,bellatrix.lestrange,obiwan.kenobi]
+2026-10-14T03:10:28.033Z sorteo cq14kju2nbdr64jjti4f5sbh8 faltaron=[] calificaran=[hector.barbossa]
+2026-10-14T03:11:14.974Z elrond calificar cgvjxl4jipbrqgnqtvkrjr5rs ratings=3 noShows=0
+2026-10-14T03:11:23.640Z elrond crear cmv7j9je200dc01qgy6gpmj1g FUTBOL 2026-10-16T23:30:00.000Z
+2026-10-14T03:11:32.642Z bellatrix.lestrange calificar cgvjxl4jipbrqgnqtvkrjr5rs ratings=3 noShows=0
+2026-10-14T03:11:34.616Z bellatrix.lestrange unirse cmv7aolkn009101qgcw92f7fk
+2026-10-14T03:11:36.650Z mace.windu leer-notificaciones 2
+2026-10-14T03:11:43.002Z mace.windu calificar cgvjxl4jipbrqgnqtvkrjr5rs ratings=3 noShows=0
+2026-10-14T03:11:45.000Z mace.windu aceptar cmv5mom2400gm01mr8s54w4v3 saruman
+2026-10-14T03:11:47.007Z steve.rogers leer-notificaciones 2
+2026-10-14T03:11:52.630Z steve.rogers aceptar cmv7aolkn009101qgcw92f7fk pippin.tuk
+2026-10-14T03:11:54.577Z steve.rogers aceptar cmv7aolkn009101qgcw92f7fk bellatrix.lestrange
+2026-10-14T03:11:56.550Z hermione.granger leer-notificaciones 2
+2026-10-14T03:12:01.437Z hermione.granger aceptar cmv5va14x00ko01mrfs0nj4pv cmv77wvw6006a01qgtqtmr9qq
+2026-10-14T03:12:10.448Z sam.gamyi calificar coclwr4a4yfbbgmukpqdov386 ratings=2 noShows=1
+2026-10-14T03:12:12.561Z sam.gamyi unirse cmv2yyhi6006001nq56ykk0a0
+2026-10-14T03:12:20.195Z obiwan.kenobi calificar cgvjxl4jipbrqgnqtvkrjr5rs ratings=3 noShows=0
+2026-10-14T03:12:28.319Z tony.stark calificar coclwr4a4yfbbgmukpqdov386 ratings=2 noShows=1
+2026-10-14T03:12:30.177Z tony.stark crear cmv7jayqd00fe01qg7lbe41gr PADEL 2026-10-17T11:00:00.000Z
+2026-10-14T03:12:32.163Z hector.barbossa leer-notificaciones 1
+2026-10-14T03:12:38.119Z hector.barbossa calificar cq14kju2nbdr64jjti4f5sbh8 ratings=3 noShows=0
+2026-10-14T03:12:44.582Z albus.dumbledore calificar cgvjxl4jipbrqgnqtvkrjr5rs ratings=3 noShows=0
+2026-10-14T03:12:46.592Z neo leer-notificaciones 1
+2026-10-14T03:12:52.405Z neo aceptar cmv6cfn4300rk01mr35kk81r2 milhouse.van.houten
+2026-10-14T03:12:54.431Z rachel.green leer-notificaciones 2
+2026-10-14T03:12:59.372Z rachel.green aceptar cmv2yyhi6006001nq56ykk0a0 gimli
+2026-10-14T03:13:01.305Z rachel.green aceptar cmv2yyhi6006001nq56ykk0a0 sam.gamyi
