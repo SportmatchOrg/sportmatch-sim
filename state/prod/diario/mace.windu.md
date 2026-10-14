@@ -47,3 +47,4 @@
 - 2026-10-12 20:15 · aceptó a Lisa Simpson en su pádel del jueves
 - 2026-10-13 00:13 · pidió unirse al pádel BEGINNER del martes en Club Norte (le gusta conocer gente nueva)
 - 2026-10-13 12:13 · aceptó a Théoden en su fútbol del miércoles
+- 2026-10-14 00:15 · aceptó a Elrond en su partido y calificó el fútbol; no encontró nada de su zona para anotarse

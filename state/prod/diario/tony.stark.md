@@ -11,3 +11,4 @@
 - 2026-10-10 00:43 · rechazó a Yoda en su padel del sáb 10/10 09:30 (ya estaba lleno)
 - 2026-10-10 09:48 · calificó el padel del sáb 10/10 09:30
 - 2026-10-10 09:48 · calificó el padel del sáb 10/10 09:30
+- 2026-10-14 00:16 · calificó el pádel y armó otro para el sábado 17 a las 8 en Tigre

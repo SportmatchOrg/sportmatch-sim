@@ -1,2 +1,3 @@
 - 2026-10-11 16:13 · primera vez en la app: pidió unirse al básquet de Neo del mar 13/10
 - 2026-10-12 12:14 · pidió unirse al fútbol del martes 13 a las 16 en Club Pilar (tiene las tardes libres)
+- 2026-10-14 00:17 · calificó el básquet; hoy no se anotó a nada más

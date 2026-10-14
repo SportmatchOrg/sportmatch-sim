@@ -1,2 +1,3 @@
 - 2026-10-11 10:53 · pidió unirse al pádel BEGINNER del martes en Club Belgrano (nivel parejo para empezar)
 - 2026-10-13 04:14 · entró a mirar, sin novedades
+- 2026-10-14 00:17 · calificó el pádel; hoy solo miró

@@ -6,3 +6,4 @@
 - 2026-10-12 04:14 · pidió unirse al básquet INTERMEDIATE del martes en Campus Austral
 - 2026-10-13 04:14 · entró a mirar, sin novedades
 - 2026-10-13 08:14 · pidió unirse al básquet intermedio del jueves en Campus Austral
+- 2026-10-14 00:15 · calificó el básquet; ya tiene el del jueves con Neo, no se anotó a otro

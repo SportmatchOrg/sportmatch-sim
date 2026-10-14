@@ -258,3 +258,38 @@
 2026-10-13T19:14:58.124Z yoda unirse cmv5mrnwl014i01ljx3n76m62
 2026-10-13T19:15:00.124Z lisa.simpson leer-notificaciones 1
 2026-10-13T19:15:02.157Z lisa.simpson unirse cmv30iiia00b501ljjcvd4vpl
+2026-10-14T03:13:29.232Z sorteo coclwr4a4yfbbgmukpqdov386 faltaron=[dobby] calificaran=[bellatrix.lestrange,sam.gamyi,tony.stark]
+2026-10-14T03:13:29.905Z sorteo cgvjxl4jipbrqgnqtvkrjr5rs faltaron=[obiwan.kenobi] calificaran=[elrond,padme.amidala,mace.windu,albus.dumbledore,bellatrix.lestrange]
+2026-10-14T03:13:32.297Z sorteo cq14kju2nbdr64jjti4f5sbh8 faltaron=[] calificaran=[hector.barbossa]
+2026-10-14T03:13:35.245Z sorteo cmv2z0geo006g01ljikcm1lz9 faltaron=[] calificaran=[neo,clark.kent,davy.jones,milhouse.van.houten]
+2026-10-14T03:13:37.137Z sorteo cmv30hl8r00a001ljvnsiatd9 faltaron=[] calificaran=[bellatrix.lestrange,apu.nahasapeemapetilon]
+2026-10-14T03:13:42.452Z sorteo cmv3vwc0h00gm01lj9nihq84b faltaron=[] calificaran=[]
+2026-10-14T03:14:21.510Z elrond calificar cgvjxl4jipbrqgnqtvkrjr5rs ratings=3 noShows=1
+2026-10-14T03:14:28.719Z elrond crear cmv7jdi6j01ti01ljfrih44d8 TENIS 2026-10-16T23:00:00.000Z
+2026-10-14T03:14:49.646Z bellatrix.lestrange calificar coclwr4a4yfbbgmukpqdov386 ratings=2 noShows=1
+2026-10-14T03:14:52.221Z bellatrix.lestrange calificar cgvjxl4jipbrqgnqtvkrjr5rs ratings=3 noShows=1
+2026-10-14T03:14:54.506Z bellatrix.lestrange calificar cmv30hl8r00a001ljvnsiatd9 ratings=3 noShows=0
+2026-10-14T03:14:59.376Z faramir leer-notificaciones 1
+2026-10-14T03:15:02.858Z mace.windu leer-notificaciones 1
+2026-10-14T03:15:13.508Z mace.windu calificar cgvjxl4jipbrqgnqtvkrjr5rs ratings=3 noShows=1
+2026-10-14T03:15:22.028Z faramir aceptar cmv5mrnwl014i01ljx3n76m62 yoda
+2026-10-14T03:15:24.265Z mace.windu aceptar cmv3vvrw500g201ljbh0jcucu elrond
+2026-10-14T03:15:31.524Z milhouse.van.houten leer-notificaciones 1
+2026-10-14T03:15:39.872Z milhouse.van.houten calificar cmv2z0geo006g01ljikcm1lz9 ratings=3 noShows=0
+2026-10-14T03:15:48.854Z sam.gamyi calificar coclwr4a4yfbbgmukpqdov386 ratings=2 noShows=1
+2026-10-14T03:15:56.835Z padme.amidala calificar cgvjxl4jipbrqgnqtvkrjr5rs ratings=2 noShows=1
+2026-10-14T03:16:05.187Z davy.jones calificar cmv2z0geo006g01ljikcm1lz9 ratings=3 noShows=0
+2026-10-14T03:16:07.609Z davy.jones unirse cmv5veii2019o01ljf2mr4iod
+2026-10-14T03:16:16.387Z tony.stark calificar coclwr4a4yfbbgmukpqdov386 ratings=2 noShows=1
+2026-10-14T03:16:18.670Z tony.stark crear cmv7jfv0v01w001lje5h7zz38 PADEL 2026-10-17T11:00:00.000Z
+2026-10-14T03:16:21.152Z jack.sparrow leer-notificaciones 1
+2026-10-14T03:16:27.097Z jack.sparrow aceptar cmv6tmfjr01l801lj2vkvguoo jaime.lannister
+2026-10-14T03:16:36.316Z hector.barbossa calificar cq14kju2nbdr64jjti4f5sbh8 ratings=3 noShows=0
+2026-10-14T03:16:38.730Z albus.dumbledore leer-notificaciones 1
+2026-10-14T03:16:46.875Z albus.dumbledore calificar cgvjxl4jipbrqgnqtvkrjr5rs ratings=3 noShows=1
+2026-10-14T03:16:49.206Z albus.dumbledore aceptar cmv30iiia00b501ljjcvd4vpl lisa.simpson
+2026-10-14T03:17:00.181Z neo calificar cmv2z0geo006g01ljikcm1lz9 ratings=3 noShows=0
+2026-10-14T03:17:02.663Z neo crear cmv7jgsyf01x201lj1y6854rh BASQUET 2026-10-19T23:30:00.000Z
+2026-10-14T03:17:05.242Z clark.kent leer-notificaciones 1
+2026-10-14T03:17:11.475Z clark.kent calificar cmv2z0geo006g01ljikcm1lz9 ratings=3 noShows=0
+2026-10-14T03:17:18.455Z apu.nahasapeemapetilon calificar cmv30hl8r00a001ljvnsiatd9 ratings=3 noShows=0
