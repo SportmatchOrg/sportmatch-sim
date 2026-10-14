@@ -1,1 +1,2 @@
 - 2026-10-14 08:12 · primera vez en la app: miró partidos, nada ADVANCED que le sirva
+- 2026-10-14 12:12 · armó un fútbol ADVANCED para el lun 19/10 21:30 en Campus Austral (juega de noche, después del trabajo)

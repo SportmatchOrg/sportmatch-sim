@@ -72,3 +72,4 @@
 - 2026-10-13 12:11 · leyó que Mace la aceptó en su pádel; sin más por hoy
 - 2026-10-14 00:11 · calificó el fútbol del martes (todo bien) y pidió unirse al fútbol de Steve del jue 15/10 en Club Pilar
 - 2026-10-14 04:11 · pidió unirse al fútbol de Elrond del vie 16/10 en Fútbol 5 Nordelta
+- 2026-10-14 12:12 · pidió unirse al fútbol ADVANCED de Finn del sáb 17/10 en Club Pilar

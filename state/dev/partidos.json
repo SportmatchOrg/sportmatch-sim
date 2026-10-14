@@ -2308,17 +2308,16 @@
     "cupo": 9,
     "creado": "2026-10-13T07:11:32.573Z",
     "pendientesHumanos": 0,
-    "anotados": 1
+    "anotados": 2
   },
   "cmv6cfn4300rk01mr35kk81r2": {
     "jugadores": [
       "boromir",
       "walle",
-      "milhouse.van.houten"
-    ],
-    "pendientes": [
+      "milhouse.van.houten",
       "joker"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -2351,12 +2350,11 @@
   "cmv7aolkn009101qgcw92f7fk": {
     "jugadores": [
       "pippin.tuk",
-      "bellatrix.lestrange"
-    ],
-    "pendientes": [
+      "bellatrix.lestrange",
       "lois.lane",
       "arya.stark"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -2386,15 +2384,14 @@
     "cupo": 9,
     "creado": "2026-10-13T23:11:21.418Z",
     "pendientesHumanos": 0,
-    "anotados": 0
+    "anotados": 1
   },
   "cmv7j9je200dc01qgy6gpmj1g": {
     "jugadores": [
-      "bellatrix.lestrange"
-    ],
-    "pendientes": [
+      "bellatrix.lestrange",
       "george.weasley"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -2406,7 +2403,7 @@
     "cupo": 9,
     "creado": "2026-10-14T03:11:23.639Z",
     "pendientesHumanos": 0,
-    "anotados": 0
+    "anotados": 1
   },
   "cmv7jayqd00fe01qg7lbe41gr": {
     "jugadores": [],
@@ -2455,5 +2452,35 @@
     "creado": "2026-10-14T07:12:06.143Z",
     "pendientesHumanos": 0,
     "anotados": 0
+  },
+  "cmv89035w00sl01qgtopo7q2i": {
+    "jugadores": [],
+    "pendientes": [
+      "bellatrix.lestrange"
+    ],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "finn",
+    "fecha": "2026-10-17T13:00:00.000Z",
+    "deporte": "FUTBOL",
+    "cupo": 9,
+    "creado": "2026-10-14T15:11:52.732Z"
+  },
+  "cmv890jcc00sw01qg7ut57xfk": {
+    "jugadores": [],
+    "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "natasha.romanoff",
+    "fecha": "2026-10-20T00:30:00.000Z",
+    "deporte": "FUTBOL",
+    "cupo": 9,
+    "creado": "2026-10-14T15:12:13.729Z"
   }
 }

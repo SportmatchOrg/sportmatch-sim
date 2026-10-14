@@ -1,0 +1,1 @@
+- 2026-10-14 12:11 · armó un fútbol ADVANCED para el sáb 17/10 10:00 en Club Pilar (prefiere los findes a la mañana)

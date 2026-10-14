@@ -11,3 +11,5 @@
 - 2026-10-09 06:47 · pidió unirse al running de Molly Weasley del sáb 10/10 10:00 en Campus Austral · Canchas
 - 2026-10-10 09:48 · se bajó a último momento del running del sáb 10/10 11:30
 - 2026-10-11 12:13 · calificó el running; vio la notificación de suspensión y no hizo nada más
+- 2026-10-14 12:11 · pidió unirse al running de Molly del sáb 17/10 08:30 en Campus Austral (madruga)
+- 2026-10-14 12:12 · corrección: no pudo unirse al running de Molly, está suspendido hasta el 18/10
