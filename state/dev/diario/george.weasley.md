@@ -1,1 +1,2 @@
 - 2026-10-13 16:12 · primera vez en la app: se anotó a tres fútbol (jue 15 Campus Austral, mié 14 Campus Austral y mié 14 River Courts)
+- 2026-10-14 08:12 · leyó notificaciones y pidió unirse al fútbol 5 del viernes en Nordelta

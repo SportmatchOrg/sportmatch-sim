@@ -27,3 +27,4 @@
 - 2026-10-11 10:51 · entró, miró un rato y no hizo nada
 - 2026-10-13 08:11 · entró temprano, miró y no hizo nada
 - 2026-10-13 12:11 · miró partidos, nada de fútbol temprano en Pilar; no se anotó
+- 2026-10-14 08:11 · miró partidos, todo de noche; no se anotó

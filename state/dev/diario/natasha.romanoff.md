@@ -1,0 +1,1 @@
+- 2026-10-14 08:12 · primera vez en la app: miró partidos, nada ADVANCED que le sirva

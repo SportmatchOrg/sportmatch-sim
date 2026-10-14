@@ -7,3 +7,4 @@
 - 2026-10-12 00:12 · pidió unirse al fútbol del mié 14/10 de Lois (relajado)
 - 2026-10-12 12:11 · pidió unirse al fútbol de Steve del martes en Club Pilar (para despejarse)
 - 2026-10-13 16:12 · leyó notificaciones (lo aceptó Steve); hoy no sumó nada
+- 2026-10-14 08:11 · leyó notificaciones, hoy solo miró

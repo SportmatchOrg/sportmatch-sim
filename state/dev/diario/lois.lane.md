@@ -23,3 +23,4 @@
 - 2026-10-12 08:11 · aceptó a Bellatrix en su fútbol del miércoles
 - 2026-10-12 20:12 · calificó el fútbol y aceptó a Elrond y Fred en el del miércoles
 - 2026-10-13 20:11 · aceptó a George y armó un fútbol INTERMEDIATE el sáb 17/10 20:00 en Polideportivo Del Viso
+- 2026-10-14 08:11 · aceptó a Fred y se anotó al fútbol del jueves en Club Pilar

@@ -2293,11 +2293,10 @@
   },
   "cmv6ceiq200qr01mrbmghh3f0": {
     "jugadores": [
-      "mace.windu"
-    ],
-    "pendientes": [
+      "mace.windu",
       "chewbacca"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -2317,7 +2316,9 @@
       "walle",
       "milhouse.van.houten"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "joker"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -2352,7 +2353,10 @@
       "pippin.tuk",
       "bellatrix.lestrange"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "lois.lane",
+      "arya.stark"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -2367,10 +2371,10 @@
     "anotados": 2
   },
   "cmv7aouij009b01qge2wtga8z": {
-    "jugadores": [],
-    "pendientes": [
+    "jugadores": [
       "fred.weasley"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -2385,9 +2389,11 @@
     "anotados": 0
   },
   "cmv7j9je200dc01qgy6gpmj1g": {
-    "jugadores": [],
-    "pendientes": [
+    "jugadores": [
       "bellatrix.lestrange"
+    ],
+    "pendientes": [
+      "george.weasley"
     ],
     "bajasSorteadas": false,
     "asistencia": null,
@@ -2430,7 +2436,9 @@
     "fecha": "2026-10-16T22:00:00.000Z",
     "deporte": "RUNNING",
     "cupo": 5,
-    "creado": "2026-10-14T07:11:49.927Z"
+    "creado": "2026-10-14T07:11:49.927Z",
+    "pendientesHumanos": 0,
+    "anotados": 0
   },
   "cmv7rv3ae00in01qgoi72y7xm": {
     "jugadores": [],
@@ -2444,6 +2452,8 @@
     "fecha": "2026-10-20T00:00:00.000Z",
     "deporte": "FUTBOL",
     "cupo": 9,
-    "creado": "2026-10-14T07:12:06.143Z"
+    "creado": "2026-10-14T07:12:06.143Z",
+    "pendientesHumanos": 0,
+    "anotados": 0
   }
 }
