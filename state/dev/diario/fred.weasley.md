@@ -32,3 +32,4 @@
 - 2026-10-12 20:11 · calificó el fútbol y pidió unirse al de Lois del mié 14/10
 - 2026-10-13 12:11 · pidió unirse al running del sábado 17/10 en Parque Pilar
 - 2026-10-13 16:11 · calificó el fútbol y se anotó al de Mace Windu del jue 15/10
+- 2026-10-14 04:11 · pidió unirse al fútbol de Lois del sáb 17/10 a la noche en Polideportivo Del Viso

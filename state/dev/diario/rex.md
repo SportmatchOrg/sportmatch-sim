@@ -1,0 +1,1 @@
+- 2026-10-14 04:11 · primera vez: se unió al running BEGINNER del lunes 19/10 en la Costanera (quiere conocer gente)

@@ -16,3 +16,4 @@
 - 2026-10-10 12:31 · calificó el running del sáb 10/10 11:30
 - 2026-10-12 12:11 · se anotó al fútbol del jue 15/10 de noche en Campus Austral
 - 2026-10-14 00:12 · calificó el fútbol del martes; leyó que Mace lo aceptó en el del jueves
+- 2026-10-14 04:12 · armó un fútbol ADVANCED del lunes 19/10 a las 21 en Club Pilar

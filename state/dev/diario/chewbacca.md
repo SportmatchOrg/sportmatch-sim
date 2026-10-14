@@ -11,3 +11,4 @@
 - 2026-10-11 10:52 · se unió al pádel del lunes en Pádel Point Pilar
 - 2026-10-11 16:11 · calificó dos partidos (fútbol y pádel)
 - 2026-10-12 12:11 · pidió unirse al pádel BEGINNER del martes en Club Norte
+- 2026-10-14 04:12 · se unió al fútbol de Frodo del vie 16/10 a las 21 en Fútbol 5 Nordelta

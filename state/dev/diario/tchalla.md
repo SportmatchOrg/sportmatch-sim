@@ -1,1 +1,2 @@
 - 2026-10-11 10:51 · primera vez en la app: solo miró
+- 2026-10-14 04:11 · armó un running INTERMEDIATE del viernes 16/10 a las 19 en Campus Austral

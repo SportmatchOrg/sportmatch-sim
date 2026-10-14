@@ -5,3 +5,4 @@
 - 2026-10-13 08:12 · aceptó a Boromir en su básquet del sábado
 - 2026-10-13 20:11 · aceptó a Wall-E en su básquet; después solo miró
 - 2026-10-14 00:12 · aceptó a Milhouse en su básquet del sáb 17/10; no armó otro porque el del sábado sigue abierto
+- 2026-10-14 04:12 · pasó a mirar partidos; ya tiene su básquet del sábado y no sumó nada más
