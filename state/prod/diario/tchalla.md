@@ -1,2 +1,3 @@
 - 2026-10-12 12:14 · primera vez en la app: pidió unirse al running de Faramir del sábado 17 en Parque Pilar
 - 2026-10-13 04:14 · pidió unirse al running del domingo 18 a la mañana en Parque Pilar
+- 2026-10-14 16:14 · leyó que Molly le aceptó el running; no hizo más

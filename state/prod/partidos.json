@@ -1884,8 +1884,10 @@
       "pippin.tuk",
       "fred.weasley"
     ],
-    "pendientes": [],
-    "bajasSorteadas": false,
+    "pendientes": [
+      "gimli"
+    ],
+    "bajasSorteadas": true,
     "asistencia": null,
     "calificaran": [],
     "calificaron": [],
@@ -2249,11 +2251,10 @@
       "galadriel",
       "milhouse.van.houten",
       "boromir",
-      "lucius.malfoy"
-    ],
-    "pendientes": [
+      "lucius.malfoy",
       "joker"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -2265,7 +2266,7 @@
     "cupo": 7,
     "creado": "2026-10-11T23:13:52.869Z",
     "pendientesHumanos": 0,
-    "anotados": 3
+    "anotados": 4
   },
   "cmv4ogf1c00u401lj7wh25urx": {
     "jugadores": [],
@@ -2302,7 +2303,7 @@
     "cupo": 5,
     "creado": "2026-10-12T07:14:04.591Z",
     "pendientesHumanos": 0,
-    "anotados": 3
+    "anotados": 4
   },
   "cmv4x2r3h00xb01lja2jglpyi": {
     "jugadores": [
@@ -2364,7 +2365,9 @@
     "jugadores": [
       "davy.jones"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "neo"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -2432,7 +2435,9 @@
   },
   "cmv72880f01q501ljfhuht2wu": {
     "jugadores": [],
-    "pendientes": [],
+    "pendientes": [
+      "sauron"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -2480,7 +2485,9 @@
   },
   "cmv7jgsyf01x201lj1y6854rh": {
     "jugadores": [],
-    "pendientes": [],
+    "pendientes": [
+      "rex"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -2498,7 +2505,9 @@
     "jugadores": [
       "mace.windu"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "obiwan.kenobi"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -2510,7 +2519,7 @@
     "cupo": 9,
     "creado": "2026-10-14T07:13:40.189Z",
     "pendientesHumanos": 0,
-    "anotados": 0
+    "anotados": 1
   },
   "cmv7rxhdr01zg01ljlnubuszn": {
     "jugadores": [],
@@ -2573,7 +2582,8 @@
     "organizador": "humano:cmv2xntp100084rry0egdqfit",
     "fecha": "2026-10-19T11:00:00.000Z",
     "deporte": "RUNNING",
-    "cupo": 15
+    "cupo": 15,
+    "anotados": 0
   },
   "cmv893biw026e01ljx8n6ut2i": {
     "jugadores": [],
@@ -2587,6 +2597,8 @@
     "fecha": "2026-10-18T23:00:00.000Z",
     "deporte": "FUTBOL",
     "cupo": 9,
-    "creado": "2026-10-14T15:14:23.534Z"
+    "creado": "2026-10-14T15:14:23.534Z",
+    "pendientesHumanos": 0,
+    "anotados": 0
   }
 }

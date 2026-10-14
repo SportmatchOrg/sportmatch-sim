@@ -7,3 +7,5 @@
 - 2026-10-10 09:48 · se bajó a último momento del padel del sáb 10/10 10:30
 - 2026-10-12 00:14 · entró un rato, sin novedades
 - 2026-10-12 12:13 · entró un rato a mirar, sin novedades
+- 2026-10-14 16:14 · pidió unirse al pádel ADVANCED del sábado en Pádel Point Pilar (exigente con el nivel)
+- 2026-10-14 16:14 · aclaración: no pudo unirse al pádel, su cuenta está suspendida hasta el 21/10

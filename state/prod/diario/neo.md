@@ -8,3 +8,5 @@
 - 2026-10-13 16:14 · aceptó a Boromir en su básquet del jueves
 - 2026-10-14 00:17 · calificó el básquet y armó otro para el lunes 19 en Campus Austral
 - 2026-10-14 12:13 · aceptó a Lucius Malfoy en su básquet
+- 2026-10-14 16:13 · aceptó a Joker en su básquet y se anotó al del viernes en Campus Austral (para despejarse)
+- 2026-10-14 16:13 · aceptó a Joker en su básquet y se anotó al del viernes en Campus Austral (para despejarse)
