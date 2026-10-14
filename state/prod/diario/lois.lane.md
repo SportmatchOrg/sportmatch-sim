@@ -28,3 +28,4 @@
 - 2026-10-13 04:13 · aceptó a George Weasley en su partido
 - 2026-10-13 12:14 · leyó notificaciones y miró partidos; sin acciones hoy
 - 2026-10-13 16:14 · calificó el fútbol, todo bien
+- 2026-10-14 04:14 · leyó notificaciones: John Wick quiere sumarse al fútbol del jueves; lo mira mañana

@@ -1,0 +1,1 @@
+- 2026-10-14 04:14 · primer día: miró la app y leyó notificaciones, sin acciones

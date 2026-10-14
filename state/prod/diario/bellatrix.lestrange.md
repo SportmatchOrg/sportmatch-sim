@@ -67,3 +67,4 @@
 - 2026-10-12 12:13 · entró a mirar, no hay nada nuevo de fútbol/pádel para anotarse
 - 2026-10-12 20:14 · calificó el fútbol; nada nuevo de fútbol/pádel en CABA para anotarse
 - 2026-10-14 00:14 · calificó tres partidos; con eso se le fue la tarde, no se anotó a nada nuevo
+- 2026-10-14 04:14 · pidió unirse al fútbol de hoy en Nordelta de Mace Windu (se anota a todo)

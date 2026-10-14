@@ -43,3 +43,4 @@
 - 2026-10-12 20:14 · calificó el fútbol con notas duras; no se anotó a nada nuevo
 - 2026-10-13 08:14 · entró a mirar; ya estaba anotado en el fútbol del jueves en Club Pilar, no hizo más
 - 2026-10-13 16:13 · calificó el fútbol con notas duras
+- 2026-10-14 04:14 · pidió unirse al fútbol del sábado 17 de Nemo en Club Pilar
