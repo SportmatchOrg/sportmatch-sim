@@ -82,3 +82,4 @@
 - 2026-10-12 16:14 · aceptó a Clark Kent en su fútbol
 - 2026-10-13 00:13 · leyó sus notificaciones; hoy solo miró
 - 2026-10-13 16:14 · calificó el fútbol; sus partidos siguen sin llenarse
+- 2026-10-14 12:14 · armó un fútbol ADVANCED el dom 18/10 20:00 en Club Pilar

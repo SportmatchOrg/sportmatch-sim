@@ -1,1 +1,2 @@
 - 2026-10-14 04:14 · primer día: armó un fútbol ADVANCED el vie 16/10 21:00 en Club Pilar
+- 2026-10-14 12:14 · entró a mirar, ya tiene armado su fútbol del viernes

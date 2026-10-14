@@ -2108,7 +2108,7 @@
     "cupo": 9,
     "creado": "2026-10-11T13:52:56.958Z",
     "pendientesHumanos": 0,
-    "anotados": 6
+    "anotados": 7
   },
   "cmv3vvrw500g201ljbh0jcucu": {
     "jugadores": [
@@ -2128,7 +2128,7 @@
     "cupo": 9,
     "creado": "2026-10-11T13:53:31.784Z",
     "pendientesHumanos": 0,
-    "anotados": 2,
+    "anotados": 3,
     "cancelSorteado": true,
     "cancelar": false
   },
@@ -2210,7 +2210,7 @@
     "cupo": 9,
     "creado": "2026-10-11T15:15:27.382Z",
     "pendientesHumanos": 0,
-    "anotados": 3
+    "anotados": 5
   },
   "cmv3ytka200ku01ljt7fifemu": {
     "jugadores": [],
@@ -2248,10 +2248,11 @@
     "jugadores": [
       "galadriel",
       "milhouse.van.houten",
-      "boromir"
+      "boromir",
+      "lucius.malfoy"
     ],
     "pendientes": [
-      "lucius.malfoy"
+      "joker"
     ],
     "bajasSorteadas": false,
     "asistencia": null,
@@ -2286,11 +2287,10 @@
     "jugadores": [
       "davy.jones",
       "montgomery.burns",
-      "tchalla"
-    ],
-    "pendientes": [
+      "tchalla",
       "fred.weasley"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -2495,10 +2495,10 @@
     "anotados": 0
   },
   "cmv7rx3uj01z601ljn6pwmjja": {
-    "jugadores": [],
-    "pendientes": [
+    "jugadores": [
       "mace.windu"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -2556,6 +2556,37 @@
     "fecha": "2026-10-19T23:30:00.000Z",
     "deporte": "FUTBOL",
     "cupo": 9,
-    "creado": "2026-10-14T11:14:41.109Z"
+    "creado": "2026-10-14T11:14:41.109Z",
+    "pendientesHumanos": 0,
+    "anotados": 0
+  },
+  "cmv2xnu80000f4rryivqos7wv": {
+    "jugadores": [],
+    "pendientes": [
+      "rex"
+    ],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "humano:cmv2xntp100084rry0egdqfit",
+    "fecha": "2026-10-19T11:00:00.000Z",
+    "deporte": "RUNNING",
+    "cupo": 15
+  },
+  "cmv893biw026e01ljx8n6ut2i": {
+    "jugadores": [],
+    "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "steve.rogers",
+    "fecha": "2026-10-18T23:00:00.000Z",
+    "deporte": "FUTBOL",
+    "cupo": 9,
+    "creado": "2026-10-14T15:14:23.534Z"
   }
 }

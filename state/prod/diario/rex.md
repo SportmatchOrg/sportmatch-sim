@@ -1,1 +1,2 @@
 - 2026-10-14 04:14 · primer día: miró la app y leyó notificaciones, sin acciones
+- 2026-10-14 12:14 · pidió unirse al running BEGINNER del lunes en la Costanera (recién empieza)
