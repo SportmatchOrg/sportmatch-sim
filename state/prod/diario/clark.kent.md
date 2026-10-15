@@ -4,3 +4,4 @@
 - 2026-10-14 04:14 · pidió unirse al fútbol del sábado 17 a la mañana de Nemo en Club Pilar
 - 2026-10-14 12:14 · vio que Nemo le aceptó el fútbol del sábado; no se anotó a nada más
 - 2026-10-15 04:14 · pidió unirse al fútbol de Steve del jueves en Del Viso (tarde libre)
+- 2026-10-15 16:14 · pidió unirse al fútbol del martes 20 de Lois en Club Pilar (tarde libre)

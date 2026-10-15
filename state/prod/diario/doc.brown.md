@@ -25,3 +25,4 @@
 - 2026-10-09 21:45 · calificó el futbol del vie 09/10 19:30 (reportó que faltó Gimli, Rubeus Hagrid)
 - 2026-10-10 12:31 · calificó el futbol del sáb 10/10 10:30 (reportó que faltó Nemo)
 - 2026-10-10 20:14 · calificó el fútbol; no vio nada temprano a la mañana para anotarse
+- 2026-10-15 16:14 · entró a mirar y leyó notificaciones; no hizo nada (ya casi no usa la app)

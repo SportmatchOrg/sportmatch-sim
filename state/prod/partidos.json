@@ -1856,11 +1856,11 @@
       "clark.kent": true
     },
     "calificaran": [
+      "pippin.tuk",
+      "elrond",
       "steve.rogers",
       "hermione.granger",
-      "elrond",
-      "lois.lane",
-      "pippin.tuk"
+      "lois.lane"
     ],
     "calificaron": [
       "pippin.tuk",
@@ -2250,7 +2250,7 @@
     "cupo": 9,
     "creado": "2026-10-11T15:15:27.382Z",
     "pendientesHumanos": 0,
-    "anotados": 7
+    "anotados": 8
   },
   "cmv3ytka200ku01ljt7fifemu": {
     "jugadores": [],
@@ -2450,7 +2450,8 @@
       "ron.weasley"
     ],
     "calificaron": [
-      "ron.weasley"
+      "ron.weasley",
+      "jaime.lannister"
     ],
     "cancelado": false,
     "organizador": "jaime.lannister",
@@ -2603,10 +2604,11 @@
   "cmv80j1zb023101lj2oat1hxq": {
     "jugadores": [
       "theoden",
-      "arya.stark"
+      "arya.stark",
+      "lois.lane"
     ],
     "pendientes": [
-      "lois.lane"
+      "george.weasley"
     ],
     "bajasSorteadas": false,
     "asistencia": null,
@@ -2705,7 +2707,9 @@
   },
   "cmv9oisge00q601mhb3aaso2h": {
     "jugadores": [],
-    "pendientes": [],
+    "pendientes": [
+      "clark.kent"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -2715,6 +2719,23 @@
     "fecha": "2026-10-20T23:30:00.000Z",
     "deporte": "FUTBOL",
     "cupo": 9,
-    "creado": "2026-10-15T15:14:05.733Z"
+    "creado": "2026-10-15T15:14:05.733Z",
+    "pendientesHumanos": 0,
+    "anotados": 0
+  },
+  "cmv9sj8lo00sp01mhtrf0yhyt": {
+    "jugadores": [],
+    "pendientes": [
+      "theoden"
+    ],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "harry.potter",
+    "fecha": "2026-10-15T20:00:00.000Z",
+    "deporte": "FUTBOL",
+    "cupo": 10
   }
 }

@@ -13,3 +13,4 @@
 - 2026-10-10 09:48 · calificó el padel del sáb 10/10 09:30
 - 2026-10-14 00:16 · calificó el pádel y armó otro para el sábado 17 a las 8 en Tigre
 - 2026-10-15 08:14 · armó un pádel el dom 18/10 08:30 en Tigre Pádel Club (madruga)
+- 2026-10-15 16:14 · entró a mirar; no hizo nada

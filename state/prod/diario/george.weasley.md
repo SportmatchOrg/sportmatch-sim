@@ -1,1 +1,2 @@
 - 2026-10-13 00:13 · primera vez: pidió unirse al fútbol del jueves a la noche en Club Pilar
+- 2026-10-15 16:14 · pidió unirse al fútbol del lunes 19 de Pippin en Club Pilar

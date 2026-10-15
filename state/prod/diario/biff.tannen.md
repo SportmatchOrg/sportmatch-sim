@@ -1,0 +1,1 @@
+- 2026-10-15 16:14 · primera vez: miró partidos de fútbol, curioseó y no se anotó a nada
