@@ -4,3 +4,4 @@
 - 2026-10-14 04:13 · aceptó a Davy Jones y armó un fútbol INTERMEDIATE el sáb 17/10 10:00 en Nordelta
 - 2026-10-14 12:13 · aceptó a Mace Windu en su fútbol del sábado
 - 2026-10-14 20:15 · aceptó a Neo y a Obi-Wan en sus partidos
+- 2026-10-15 00:14 · aceptó a Milhouse en su básquet del viernes

@@ -357,3 +357,22 @@
 2026-10-14T23:14:50.162Z albus.dumbledore crear cmv8q96aq02jb01ljcjq85pm8 TENIS 2026-10-16T22:30:00.000Z
 2026-10-14T23:15:02.916Z eowyn unirse cmv6tmfjr01l801lj2vkvguoo
 2026-10-14T23:15:05.087Z milhouse.van.houten unirse cmv5veii2019o01ljf2mr4iod
+2026-10-15T03:13:01.348Z sorteo cmv3vvrw500g201ljbh0jcucu faltaron=[] calificaran=[mace.windu,theoden,elrond,bellatrix.lestrange]
+2026-10-15T03:13:42.893Z elrond leer-notificaciones 1
+2026-10-15T03:13:53.593Z elrond calificar cmv3vvrw500g201ljbh0jcucu ratings=3 noShows=0
+2026-10-15T03:13:56.042Z elrond crear cmv8ysnlb004301pigb7h94mk FUTBOL 2026-10-17T23:00:00.000Z
+2026-10-15T03:14:08.175Z bellatrix.lestrange calificar cmv3vvrw500g201ljbh0jcucu ratings=3 noShows=0
+2026-10-15T03:14:10.500Z bellatrix.lestrange unirse cmv8ysnlb004301pigb7h94mk
+2026-10-15T03:14:21.841Z theoden calificar cmv3vvrw500g201ljbh0jcucu ratings=3 noShows=0
+2026-10-15T03:14:24.391Z theoden unirse cmv80j1zb023101lj2oat1hxq
+2026-10-15T03:14:26.716Z mace.windu calificar cmv3vvrw500g201ljbh0jcucu ratings=3 noShows=0
+2026-10-15T03:14:31.404Z jack.sparrow leer-notificaciones 1
+2026-10-15T03:14:34.848Z frodo.bolson leer-notificaciones 1
+2026-10-15T03:14:45.636Z jack.sparrow aceptar cmv6tmfjr01l801lj2vkvguoo eowyn
+2026-10-15T03:14:48.140Z frodo.bolson aceptar cmv5veii2019o01ljf2mr4iod milhouse.van.houten
+2026-10-15T03:15:10.499Z walle unirse cmv3yt4td00k801lji8csv0y7
+2026-10-15T03:15:12.828Z jon.snow unirse cmv3yt4td00k801lji8csv0y7
+2026-10-15T03:15:16.562Z sirius.black unirse cmv30hc5r009q01lj0yiz7p8a
+2026-10-15T03:15:19.093Z arya.stark leer-notificaciones 3
+2026-10-15T03:15:21.395Z arya.stark unirse cmv80j1zb023101lj2oat1hxq
+2026-10-15T03:15:23.731Z rex leer-notificaciones 1

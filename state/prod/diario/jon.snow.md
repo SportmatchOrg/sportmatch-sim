@@ -27,3 +27,4 @@
 - 2026-10-08 21:31 · calificó el futbol del jue 08/10 19:00
 - 2026-10-10 12:31 · calificó el futbol del sáb 10/10 10:30 (reportó que faltó Nemo)
 - 2026-10-11 00:14 · calificó el fútbol
+- 2026-10-15 00:15 · pidió unirse al fútbol del sábado a la mañana en Club Pilar (prefiere el finde)

@@ -50,3 +50,4 @@
 - 2026-10-14 00:15 · aceptó a Elrond en su partido y calificó el fútbol; no encontró nada de su zona para anotarse
 - 2026-10-14 08:13 · aceptó a Bellatrix en su partido y se anotó al fútbol del sábado en Nordelta (le gusta conocer gente nueva)
 - 2026-10-14 16:13 · vio que Frodo lo aceptó en el pádel, solo miró
+- 2026-10-15 00:14 · calificó el fútbol, nada más; solo leyó notificaciones
