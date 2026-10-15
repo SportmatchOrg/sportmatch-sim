@@ -27,3 +27,4 @@
 - 2026-10-10 19:31 · organizó un pádel INTERMEDIATE para el lun 12/10 20:30 en Pádel Point Pilar
 - 2026-10-11 00:11 · aceptó a Apu en su pádel; no encontró nada de su zona para anotarse
 - 2026-10-11 12:11 · aceptó a Chewbacca en su pádel y se anotó al pádel del sábado 17 en Tigre Pádel Club (conocer gente nueva)
+- 2026-10-15 20:12 · leyó que la aceptó Qui-Gon y pidió unirse al running del sábado en Parque Pilar
