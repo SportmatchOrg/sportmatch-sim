@@ -1,3 +1,4 @@
 - 2026-10-13 16:12 · primera vez en la app: se anotó a tres fútbol (jue 15 Campus Austral, mié 14 Campus Austral y mié 14 River Courts)
 - 2026-10-14 08:12 · leyó notificaciones y pidió unirse al fútbol 5 del viernes en Nordelta
 - 2026-10-14 20:12 · calificó el fútbol y se anotó al de Lois del sáb 17/10 en Club Pilar
+- 2026-10-15 00:12 · calificó el fútbol y armó uno para el vie 16/10 21:00 en Polideportivo Del Viso

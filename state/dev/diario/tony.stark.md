@@ -12,3 +12,4 @@
 - 2026-10-10 09:48 · calificó el padel del sáb 10/10 09:30
 - 2026-10-10 09:48 · calificó el padel del sáb 10/10 09:30
 - 2026-10-14 00:12 · calificó el pádel y armó otro para el sáb 17/10 a las 8 en Tigre (madruga)
+- 2026-10-15 00:12 · aceptó a Saruman en su pádel del sáb 17/10 en Tigre

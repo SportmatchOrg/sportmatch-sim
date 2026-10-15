@@ -74,3 +74,4 @@
 - 2026-10-14 04:11 · pidió unirse al fútbol de Elrond del vie 16/10 en Fútbol 5 Nordelta
 - 2026-10-14 12:12 · pidió unirse al fútbol ADVANCED de Finn del sáb 17/10 en Club Pilar
 - 2026-10-14 20:11 · calificó tres partidos jugados (puntajes altos); hoy no sumó más
+- 2026-10-15 00:11 · calificó el fútbol y pidió unirse al fútbol de Frodo del vie 16/10 en Nordelta
