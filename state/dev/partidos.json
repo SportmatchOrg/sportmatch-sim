@@ -2098,11 +2098,10 @@
       "hector.barbossa",
       "bellatrix.lestrange",
       "fred.weasley",
-      "george.weasley"
-    ],
-    "pendientes": [
+      "george.weasley",
       "elrond"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -2251,7 +2250,9 @@
       "neo",
       "davy.jones"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "joker"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -2285,11 +2286,10 @@
   },
   "cmv5e4oiz00e801mr66hgx3l5": {
     "jugadores": [
-      "hermione.granger"
-    ],
-    "pendientes": [
+      "hermione.granger",
       "jon.snow"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -2371,7 +2371,7 @@
     "cupo": 9,
     "creado": "2026-10-13T07:11:32.573Z",
     "pendientesHumanos": 0,
-    "anotados": 2
+    "anotados": 4
   },
   "cmv6cfn4300rk01mr35kk81r2": {
     "jugadores": [
@@ -2456,10 +2456,11 @@
   "cmv7j9je200dc01qgy6gpmj1g": {
     "jugadores": [
       "bellatrix.lestrange",
-      "george.weasley"
+      "george.weasley",
+      "scott.lang"
     ],
     "pendientes": [
-      "scott.lang"
+      "steve.rogers"
     ],
     "bajasSorteadas": false,
     "asistencia": null,
@@ -2510,7 +2511,9 @@
   },
   "cmv7rv3ae00in01qgoi72y7xm": {
     "jugadores": [],
-    "pendientes": [],
+    "pendientes": [
+      "finn"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -2527,11 +2530,10 @@
   "cmv89035w00sl01qgtopo7q2i": {
     "jugadores": [
       "bellatrix.lestrange",
-      "doc.brown"
-    ],
-    "pendientes": [
+      "doc.brown",
       "barney.gumble"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -2563,10 +2565,11 @@
   },
   "cmv8q5fst00z501qg4dk8zoyd": {
     "jugadores": [
-      "george.weasley"
+      "george.weasley",
+      "rubeus.hagrid"
     ],
     "pendientes": [
-      "rubeus.hagrid"
+      "bellatrix.lestrange"
     ],
     "bajasSorteadas": false,
     "asistencia": null,
@@ -2599,7 +2602,10 @@
   },
   "cmv97aafd016a01qgovwp7e9a": {
     "jugadores": [],
-    "pendientes": [],
+    "pendientes": [
+      "mace.windu",
+      "jack.sparrow"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -2609,6 +2615,8 @@
     "fecha": "2026-10-18T13:00:00.000Z",
     "deporte": "PADEL",
     "cupo": 3,
-    "creado": "2026-10-15T07:11:35.650Z"
+    "creado": "2026-10-15T07:11:35.650Z",
+    "pendientesHumanos": 0,
+    "anotados": 0
   }
 }

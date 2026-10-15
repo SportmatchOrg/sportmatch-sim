@@ -56,3 +56,5 @@
 - 2026-10-14 20:11 · calificó el fútbol jugado, todo bien
 - 2026-10-15 00:12 · miró la app, sin novedades
 - 2026-10-15 04:12 · pidió unirse al fútbol del jueves de Mace en Campus Austral
+- 2026-10-15 08:11 · aceptó a Scott Lang en su partido
+- 2026-10-15 08:12 · corrección: recién ahora aceptó a Scott Lang en su fútbol del viernes
