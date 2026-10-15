@@ -7,3 +7,4 @@
 - 2026-10-13 12:13 · aceptó a Arya Stark en su pádel y armó un running para el domingo 18 a la mañana en Parque Pilar
 - 2026-10-14 00:16 · aceptó a Jaime Lannister en su running del domingo
 - 2026-10-15 00:14 · aceptó a Éowyn en su running del domingo
+- 2026-10-15 12:14 · miró pádel y running del finde; ya tiene su running armado

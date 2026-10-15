@@ -14,3 +14,4 @@
 - 2026-10-12 12:14 · pidió unirse al pádel del sábado 17 en Pádel Point Pilar (se anota a todo)
 - 2026-10-13 04:14 · pidió unirse al pádel del domingo 18 en Pádel Point Pilar (se anota a todo)
 - 2026-10-13 08:14 · vio que lo aceptaron en el pádel de Faramir y en el básquet de Neo
+- 2026-10-15 12:14 · miró partidos de fútbol y pádel; ya está anotado a todo

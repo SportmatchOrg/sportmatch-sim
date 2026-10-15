@@ -30,3 +30,4 @@
 - 2026-10-13 16:15 · entró a mirar; ya está anotado al fútbol del jueves, no hizo más
 - 2026-10-14 08:14 · aceptó a Clark Kent y a Pippin en su fútbol del sábado
 - 2026-10-15 04:14 · aceptó a Wall-E y Jon Snow en su fútbol del sábado
+- 2026-10-15 12:13 · aceptó a Barney en su fútbol del sábado; no se anotó a nada más

@@ -2046,7 +2046,7 @@
     "cupo": 9,
     "creado": "2026-10-10T23:14:30.106Z",
     "pendientesHumanos": 0,
-    "anotados": 2,
+    "anotados": 3,
     "cancelSorteado": true,
     "cancelar": false
   },
@@ -2235,11 +2235,10 @@
       "clark.kent",
       "pippin.tuk",
       "walle",
-      "jon.snow"
-    ],
-    "pendientes": [
+      "jon.snow",
       "barney.gumble"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -2548,7 +2547,7 @@
     "cupo": 7,
     "creado": "2026-10-14T03:17:02.662Z",
     "pendientesHumanos": 0,
-    "anotados": 1
+    "anotados": 2
   },
   "cmv7rx3uj01z601ljn6pwmjja": {
     "jugadores": [
@@ -2606,7 +2605,9 @@
       "theoden",
       "arya.stark"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "lois.lane"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -2698,6 +2699,22 @@
     "fecha": "2026-10-18T11:30:00.000Z",
     "deporte": "PADEL",
     "cupo": 3,
-    "creado": "2026-10-15T11:14:10.811Z"
+    "creado": "2026-10-15T11:14:10.811Z",
+    "pendientesHumanos": 0,
+    "anotados": 0
+  },
+  "cmv9oisge00q601mhb3aaso2h": {
+    "jugadores": [],
+    "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "lois.lane",
+    "fecha": "2026-10-20T23:30:00.000Z",
+    "deporte": "FUTBOL",
+    "cupo": 9,
+    "creado": "2026-10-15T15:14:05.733Z"
   }
 }

@@ -13,3 +13,4 @@
 - 2026-10-14 20:15 · aceptó a Rex en su básquet del lunes; no se anotó a nada más
 - 2026-10-15 04:14 · entró a mirar, ya tiene sus básquets; no hizo más
 - 2026-10-15 08:13 · aceptó a Boromir en su básquet
+- 2026-10-15 12:14 · leyó notificaciones; sus básquets siguen en pie
