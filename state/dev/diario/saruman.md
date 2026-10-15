@@ -1,2 +1,3 @@
 - 2026-10-13 20:12 · primera vez: pidió unirse al pádel INTERMEDIATE del miércoles en Tigre Pádel Club
 - 2026-10-14 20:12 · calificó su primer pádel y pidió unirse al pádel INTERMEDIATE del sáb 17/10 en Tigre
+- 2026-10-15 12:12 · miró partidos; ya estaba anotado al pádel de Tony

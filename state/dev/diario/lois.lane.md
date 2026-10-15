@@ -28,3 +28,4 @@
 - 2026-10-14 20:11 · calificó el fútbol y armó uno para el sáb 17/10 19:30 en Club Pilar
 - 2026-10-15 00:12 · aceptó a George en su fútbol del sáb 17/10
 - 2026-10-15 08:12 · aceptó a Rubeus Hagrid en su fútbol del sábado
+- 2026-10-15 12:12 · aceptó a Bellatrix en su fútbol del sábado

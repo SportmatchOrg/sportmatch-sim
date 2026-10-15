@@ -4,3 +4,4 @@
 - 2026-10-13 20:11 · aceptó a Davy en su básquet y a Mace en su fútbol de Nordelta
 - 2026-10-14 08:11 · aceptó a Chewbacca en su fútbol de Nordelta
 - 2026-10-15 04:11 · aceptó a Bellatrix y a Gimli en su partido
+- 2026-10-15 12:12 · aceptó a Joker y pidió unirse al básquet del sábado de Neo

@@ -3,3 +3,4 @@
 - 2026-10-11 00:12 · (aclaración: ya estaba anotado a ese fútbol de Nordelta; no sumó nada nuevo)
 - 2026-10-13 08:11 · leyó notificaciones y solo miró
 - 2026-10-14 00:12 · calificó el fútbol del martes, todos muy buena onda
+- 2026-10-15 12:12 · pidió unirse al running del sábado de Molly (recién empieza)

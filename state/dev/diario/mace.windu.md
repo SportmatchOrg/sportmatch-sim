@@ -49,3 +49,4 @@
 - 2026-10-14 00:11 · calificó el fútbol y aceptó a Saruman en su partido
 - 2026-10-14 20:11 · calificó el pádel, todo bien
 - 2026-10-15 08:12 · aceptó a Elrond y pidió unirse al pádel de Faramir del domingo
+- 2026-10-15 12:12 · miró la app, sin novedades

@@ -25,3 +25,4 @@
 - 2026-10-13 16:12 · aceptó a Fred Weasley en su partido
 - 2026-10-15 04:11 · organizó un pádel INTERMEDIATE el dom 18/10 10:00 en Pádel Point Pilar
 - 2026-10-15 08:12 · miró la app, sin novedades
+- 2026-10-15 12:12 · aceptó a Mace y a Jack en su running del sábado

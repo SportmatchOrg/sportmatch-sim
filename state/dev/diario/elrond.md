@@ -58,3 +58,4 @@
 - 2026-10-15 04:12 · pidió unirse al fútbol del jueves de Mace en Campus Austral
 - 2026-10-15 08:11 · aceptó a Scott Lang en su partido
 - 2026-10-15 08:12 · corrección: recién ahora aceptó a Scott Lang en su fútbol del viernes
+- 2026-10-15 12:12 · aceptó a Steve en su fútbol del viernes en Nordelta

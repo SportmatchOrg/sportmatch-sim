@@ -2113,7 +2113,7 @@
     "cupo": 9,
     "creado": "2026-10-11T03:12:21.405Z",
     "pendientesHumanos": 0,
-    "anotados": 5
+    "anotados": 6
   },
   "cmv2xsr94000dkzry3rm9q1et": {
     "jugadores": [],
@@ -2182,7 +2182,9 @@
     "jugadores": [
       "montgomery.burns"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "obiwan.kenobi"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -2248,11 +2250,10 @@
     "jugadores": [
       "milhouse.van.houten",
       "neo",
-      "davy.jones"
-    ],
-    "pendientes": [
+      "davy.jones",
       "joker"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -2270,7 +2271,9 @@
   },
   "cmv55k5np00bs01mr3dtp1rek": {
     "jugadores": [],
-    "pendientes": [],
+    "pendientes": [
+      "boromir"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -2289,7 +2292,9 @@
       "hermione.granger",
       "jon.snow"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "hector.barbossa"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -2301,7 +2306,7 @@
     "cupo": 9,
     "creado": "2026-10-12T15:12:06.605Z",
     "pendientesHumanos": 0,
-    "anotados": 1
+    "anotados": 2
   },
   "cmv5mom2400gm01mr8s54w4v3": {
     "jugadores": [
@@ -2380,7 +2385,9 @@
       "milhouse.van.houten",
       "joker"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "frodo.bolson"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -2457,11 +2464,10 @@
     "jugadores": [
       "bellatrix.lestrange",
       "george.weasley",
-      "scott.lang"
-    ],
-    "pendientes": [
+      "scott.lang",
       "steve.rogers"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -2473,7 +2479,7 @@
     "cupo": 9,
     "creado": "2026-10-14T03:11:23.639Z",
     "pendientesHumanos": 0,
-    "anotados": 2
+    "anotados": 3
   },
   "cmv7jayqd00fe01qg7lbe41gr": {
     "jugadores": [
@@ -2511,9 +2517,7 @@
   },
   "cmv7rv3ae00in01qgoi72y7xm": {
     "jugadores": [],
-    "pendientes": [
-      "finn"
-    ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -2545,7 +2549,7 @@
     "cupo": 9,
     "creado": "2026-10-14T15:11:52.732Z",
     "pendientesHumanos": 0,
-    "anotados": 2
+    "anotados": 3
   },
   "cmv890jcc00sw01qg7ut57xfk": {
     "jugadores": [],
@@ -2566,11 +2570,10 @@
   "cmv8q5fst00z501qg4dk8zoyd": {
     "jugadores": [
       "george.weasley",
-      "rubeus.hagrid"
-    ],
-    "pendientes": [
+      "rubeus.hagrid",
       "bellatrix.lestrange"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -2582,7 +2585,7 @@
     "cupo": 9,
     "creado": "2026-10-14T23:11:55.840Z",
     "pendientesHumanos": 0,
-    "anotados": 1
+    "anotados": 2
   },
   "cmv8yqkrb013y01qgvbk8z1g3": {
     "jugadores": [],
@@ -2601,11 +2604,11 @@
     "anotados": 0
   },
   "cmv97aafd016a01qgovwp7e9a": {
-    "jugadores": [],
-    "pendientes": [
+    "jugadores": [
       "mace.windu",
       "jack.sparrow"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
