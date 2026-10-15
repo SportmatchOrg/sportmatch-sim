@@ -1,3 +1,4 @@
 - 2026-10-09 03:44 · pidió unirse al futbol de Elrond del mar 13/10 22:00 en Fútbol 5 Nordelta
 - 2026-10-12 08:14 · entró a mirar; ya estaba anotado al fútbol BEGINNER del martes en Nordelta, no hizo más
 - 2026-10-14 16:14 · pidió unirse al fútbol del sábado en Nordelta de Frodo
+- 2026-10-15 20:14 · vio que Frodo lo aceptó en el fútbol del sábado; no hizo más

@@ -27,3 +27,4 @@
 - 2026-10-11 16:13 · entró a mirar, sin novedades
 - 2026-10-13 16:14 · calificó el fútbol, aceptó a Ignacio en su fútbol y armó tenis dobles para el domingo 18 a la mañana en Club Pilar
 - 2026-10-14 20:15 · aceptó a Sauron en su tenis ADVANCED del domingo
+- 2026-10-15 20:14 · aceptó a Marcos e Ivan en sus partidos del finde

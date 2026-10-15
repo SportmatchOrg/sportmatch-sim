@@ -48,3 +48,4 @@
 - 2026-10-15 04:13 · aceptó a Théoden y Arya en su fútbol y se anotó al de Steve del jueves en Del Viso
 - 2026-10-15 08:14 · vio que Steve lo aceptó en el fútbol; no hizo más
 - 2026-10-15 16:14 · aceptó a Lois en su fútbol del lunes; no hizo más
+- 2026-10-15 20:14 · aceptó a George en su fútbol y pidió unirse al de Lois del martes en Club Pilar

@@ -7,3 +7,4 @@
 - 2026-10-13 00:13 · le aceptaron el running del domingo en Parque Pilar; hoy solo miró
 - 2026-10-14 04:14 · entró a mirar; ya tiene el running del domingo, no se anotó a más
 - 2026-10-15 04:14 · leyó notificaciones, ya tiene su running del domingo
+- 2026-10-15 20:15 · pidió unirse al running del sábado 17 en Campus Austral

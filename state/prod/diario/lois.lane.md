@@ -32,3 +32,4 @@
 - 2026-10-14 08:14 · aceptó a John Wick en su fútbol del jueves; no encontró nada más que le sirva
 - 2026-10-14 20:15 · calificó el fútbol, todo bien
 - 2026-10-15 12:14 · armó un fútbol para el mar 20/10 20:30 en Club Pilar y pidió unirse al de Pippin del lunes 19
+- 2026-10-15 20:14 · aceptó a Pippin y Clark en su fútbol del martes
