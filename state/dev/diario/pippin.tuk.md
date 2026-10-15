@@ -45,3 +45,4 @@
 - 2026-10-13 16:11 · calificó el fútbol con puntajes duros (2-3)
 - 2026-10-13 20:12 · pidió unirse al fútbol del jueves en Club Pilar
 - 2026-10-14 12:12 · vio que Steve lo aceptó en el fútbol del jueves; no sumó nada más
+- 2026-10-15 16:12 · miró la app, ya está anotado en lo suyo

@@ -89,3 +89,4 @@
 - 2026-10-14 20:11 · aceptó a Clark en su fútbol
 - 2026-10-15 00:11 · aceptó a Fred en su fútbol
 - 2026-10-15 08:12 · aceptó a Jon Snow y pidió unirse al fútbol de Elrond del viernes
+- 2026-10-15 16:12 · aceptó a Héctor y pidió unirse al fútbol INTERMEDIATE de Lois del sábado en Club Pilar

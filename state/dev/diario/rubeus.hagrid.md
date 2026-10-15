@@ -15,3 +15,4 @@
 - 2026-10-09 18:47 · pidió unirse al futbol de Héctor Barbossa del mar 13/10 19:00 en Club Pilar · Cancha 2
 - 2026-10-11 12:11 · calificó el fútbol del finde (reportó que faltaron doc.brown y walle)
 - 2026-10-15 04:12 · pidió unirse al fútbol de Lois del sábado a la tarde en Club Pilar
+- 2026-10-15 16:12 · miró la app, espera la respuesta de Lois

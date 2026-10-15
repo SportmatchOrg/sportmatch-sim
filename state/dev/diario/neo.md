@@ -7,3 +7,4 @@
 - 2026-10-14 00:12 · aceptó a Milhouse en su básquet del sáb 17/10; no armó otro porque el del sábado sigue abierto
 - 2026-10-14 04:12 · pasó a mirar partidos; ya tiene su básquet del sábado y no sumó nada más
 - 2026-10-14 12:11 · aceptó a Joker en su básquet; no armó otro, ya tiene el del sábado
+- 2026-10-15 16:12 · aceptó a Frodo en su básquet; no armó otro, ya tiene el del sábado

@@ -1853,10 +1853,10 @@
       "marty.mcfly": true
     },
     "calificaran": [
-      "hermione.granger",
-      "elrond",
       "fred.weasley",
       "pippin.tuk",
+      "elrond",
+      "hermione.granger",
       "walle"
     ],
     "calificaron": [
@@ -2180,11 +2180,10 @@
   },
   "cmv478u3w00mq01nqlps0i6xv": {
     "jugadores": [
-      "montgomery.burns"
-    ],
-    "pendientes": [
+      "montgomery.burns",
       "obiwan.kenobi"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -2265,15 +2264,15 @@
     "cupo": 9,
     "creado": "2026-10-12T11:12:09.638Z",
     "pendientesHumanos": 0,
-    "anotados": 3,
+    "anotados": 4,
     "cancelSorteado": true,
     "cancelar": false
   },
   "cmv55k5np00bs01mr3dtp1rek": {
-    "jugadores": [],
-    "pendientes": [
+    "jugadores": [
       "boromir"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -2290,11 +2289,10 @@
   "cmv5e4oiz00e801mr66hgx3l5": {
     "jugadores": [
       "hermione.granger",
-      "jon.snow"
-    ],
-    "pendientes": [
+      "jon.snow",
       "hector.barbossa"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -2383,11 +2381,10 @@
       "boromir",
       "walle",
       "milhouse.van.houten",
-      "joker"
-    ],
-    "pendientes": [
+      "joker",
       "frodo.bolson"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -2479,13 +2476,15 @@
     "cupo": 9,
     "creado": "2026-10-14T03:11:23.639Z",
     "pendientesHumanos": 0,
-    "anotados": 3
+    "anotados": 4
   },
   "cmv7jayqd00fe01qg7lbe41gr": {
     "jugadores": [
       "saruman"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "yoda"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -2517,7 +2516,9 @@
   },
   "cmv7rv3ae00in01qgoi72y7xm": {
     "jugadores": [],
-    "pendientes": [],
+    "pendientes": [
+      "john.wick"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -2573,7 +2574,9 @@
       "rubeus.hagrid",
       "bellatrix.lestrange"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "steve.rogers"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -2585,7 +2588,7 @@
     "cupo": 9,
     "creado": "2026-10-14T23:11:55.840Z",
     "pendientesHumanos": 0,
-    "anotados": 2
+    "anotados": 3
   },
   "cmv8yqkrb013y01qgvbk8z1g3": {
     "jugadores": [],
@@ -2620,6 +2623,20 @@
     "cupo": 3,
     "creado": "2026-10-15T07:11:35.650Z",
     "pendientesHumanos": 0,
-    "anotados": 0
+    "anotados": 2
+  },
+  "cmv9x0c7k009e01o3i7wjn38y": {
+    "jugadores": [],
+    "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "molly.weasley",
+    "fecha": "2026-10-18T12:00:00.000Z",
+    "deporte": "RUNNING",
+    "cupo": 5,
+    "creado": "2026-10-15T19:11:41.446Z"
   }
 }

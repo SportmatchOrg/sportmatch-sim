@@ -9,3 +9,4 @@
 - 2026-10-09 18:50 · pidió unirse al running de Héctor Barbossa del sáb 10/10 11:30 en Parque Pilar · Circuito
 - 2026-10-11 16:11 · calificó el running y armó un running INTERMEDIATE para el sáb 17/10 08:30 en Campus Austral
 - 2026-10-12 04:11 · aceptó a Montgomery Burns en su running
+- 2026-10-15 16:12 · aceptó a Obi-Wan y armó un running BEGINNER para el dom 18/10 09:00 en Campus Austral
