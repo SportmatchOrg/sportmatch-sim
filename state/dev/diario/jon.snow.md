@@ -27,3 +27,4 @@
 - 2026-10-08 21:31 · calificó el futbol del jue 08/10 19:00
 - 2026-10-10 12:31 · calificó el futbol del sáb 10/10 10:30 (reportó que faltó Nemo)
 - 2026-10-12 00:12 · pidió unirse al fútbol del sábado en Club Pilar (a ganar)
+- 2026-10-15 04:12 · pidió unirse al fútbol ADVANCED de Steve del viernes (competitivo)

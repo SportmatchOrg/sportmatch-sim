@@ -2100,7 +2100,9 @@
       "fred.weasley",
       "george.weasley"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "elrond"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -2285,7 +2287,9 @@
     "jugadores": [
       "hermione.granger"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "jon.snow"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -2351,12 +2355,11 @@
   "cmv6ceiq200qr01mrbmghh3f0": {
     "jugadores": [
       "mace.windu",
-      "chewbacca"
-    ],
-    "pendientes": [
+      "chewbacca",
       "bellatrix.lestrange",
       "gimli"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -2430,7 +2433,7 @@
     "cupo": 9,
     "creado": "2026-10-13T23:11:09.773Z",
     "pendientesHumanos": 0,
-    "anotados": 5
+    "anotados": 6
   },
   "cmv7aouij009b01qge2wtga8z": {
     "jugadores": [
@@ -2455,7 +2458,9 @@
       "bellatrix.lestrange",
       "george.weasley"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "scott.lang"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -2485,7 +2490,7 @@
     "cupo": 3,
     "creado": "2026-10-14T03:12:30.176Z",
     "pendientesHumanos": 0,
-    "anotados": 0
+    "anotados": 1
   },
   "cmv7ruqrr00ic01qggnihmvtk": {
     "jugadores": [],
@@ -2524,7 +2529,9 @@
       "bellatrix.lestrange",
       "doc.brown"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "barney.gumble"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -2558,7 +2565,9 @@
     "jugadores": [
       "george.weasley"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "rubeus.hagrid"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -2570,7 +2579,7 @@
     "cupo": 9,
     "creado": "2026-10-14T23:11:55.840Z",
     "pendientesHumanos": 0,
-    "anotados": 0
+    "anotados": 1
   },
   "cmv8yqkrb013y01qgvbk8z1g3": {
     "jugadores": [],
@@ -2584,6 +2593,22 @@
     "fecha": "2026-10-17T00:00:00.000Z",
     "deporte": "FUTBOL",
     "cupo": 9,
-    "creado": "2026-10-15T03:12:18.996Z"
+    "creado": "2026-10-15T03:12:18.996Z",
+    "pendientesHumanos": 0,
+    "anotados": 0
+  },
+  "cmv97aafd016a01qgovwp7e9a": {
+    "jugadores": [],
+    "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "faramir",
+    "fecha": "2026-10-18T13:00:00.000Z",
+    "deporte": "PADEL",
+    "cupo": 3,
+    "creado": "2026-10-15T07:11:35.650Z"
   }
 }

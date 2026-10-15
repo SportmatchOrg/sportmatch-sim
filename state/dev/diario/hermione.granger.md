@@ -33,3 +33,4 @@
 - 2026-10-13 08:11 · aceptó a Bellatrix Lestrange y Harley Quinn en sus partidos
 - 2026-10-13 16:11 · calificó el fútbol y se anotó al ADVANCED de Steve del vie 16/10 (competitiva)
 - 2026-10-14 00:12 · aceptó a JuanChi en su tenis del dom 18/10
+- 2026-10-15 04:12 · miró la app y leyó notificaciones, sin novedades
