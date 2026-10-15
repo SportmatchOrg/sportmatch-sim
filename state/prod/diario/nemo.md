@@ -29,3 +29,4 @@
 - 2026-10-13 04:13 · aceptó a Arya Stark en su fútbol del sábado
 - 2026-10-13 16:15 · entró a mirar; ya está anotado al fútbol del jueves, no hizo más
 - 2026-10-14 08:14 · aceptó a Clark Kent y a Pippin en su fútbol del sábado
+- 2026-10-15 04:14 · aceptó a Wall-E y Jon Snow en su fútbol del sábado

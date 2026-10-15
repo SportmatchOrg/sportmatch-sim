@@ -1,3 +1,4 @@
 - 2026-10-06 03:50 · pidió unirse al tenis de Jaime Lannister del vie 09/10 20:30 en Campus Austral · Canchas
 - 2026-10-11 20:14 · leyó notificaciones, sin novedades
 - 2026-10-13 12:14 · pidió unirse al básquet del jueves en Campus Austral (zona norte, puntual)
+- 2026-10-15 04:14 · pidió unirse al básquet de Neo del lunes 19 en Campus Austral

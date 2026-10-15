@@ -1,2 +1,3 @@
 - 2026-10-12 08:14 · pidió unirse al básquet ADVANCED del jueves en Polideportivo Municipal (quiere competir)
 - 2026-10-14 12:14 · pidió unirse al básquet INTERMEDIATE del jueves en Campus Austral
+- 2026-10-15 04:14 · buscó básquet en CABA, no encontró nada que le sirva

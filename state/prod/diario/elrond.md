@@ -51,3 +51,4 @@
 - 2026-10-13 16:13 · calificó el fútbol y se anotó al fútbol del miércoles en Nordelta
 - 2026-10-14 00:14 · calificó el fútbol del martes y armó un tenis dobles para el viernes en Tigre
 - 2026-10-15 00:13 · calificó el fútbol y armó un fútbol 5 para el sábado en Nordelta
+- 2026-10-15 04:14 · aceptó a Bellatrix en su fútbol 5 del sábado en Nordelta

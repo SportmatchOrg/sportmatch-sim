@@ -2030,10 +2030,11 @@
   },
   "cmv30hc5r009q01lj0yiz7p8a": {
     "jugadores": [
-      "theoden"
+      "theoden",
+      "pippin.tuk"
     ],
     "pendientes": [
-      "sirius.black"
+      "clark.kent"
     ],
     "bajasSorteadas": false,
     "asistencia": null,
@@ -2233,12 +2234,11 @@
       "fred.weasley",
       "arya.stark",
       "clark.kent",
-      "pippin.tuk"
-    ],
-    "pendientes": [
+      "pippin.tuk",
       "walle",
       "jon.snow"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -2417,7 +2417,7 @@
     "cupo": 7,
     "creado": "2026-10-12T23:15:38.840Z",
     "pendientesHumanos": 0,
-    "anotados": 2
+    "anotados": 3
   },
   "cmv6ci64y01fi01ljirec25pt": {
     "jugadores": [],
@@ -2470,7 +2470,7 @@
     "cupo": 5,
     "creado": "2026-10-13T15:13:35.165Z",
     "pendientesHumanos": 0,
-    "anotados": 1
+    "anotados": 2
   },
   "cmv72880f01q501ljfhuht2wu": {
     "jugadores": [
@@ -2526,7 +2526,9 @@
     "jugadores": [
       "rex"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "boromir"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -2592,11 +2594,11 @@
     "anotados": 0
   },
   "cmv80j1zb023101lj2oat1hxq": {
-    "jugadores": [],
-    "pendientes": [
+    "jugadores": [
       "theoden",
       "arya.stark"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -2659,10 +2661,10 @@
     "anotados": 0
   },
   "cmv8ysnlb004301pigb7h94mk": {
-    "jugadores": [],
-    "pendientes": [
+    "jugadores": [
       "bellatrix.lestrange"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -2672,6 +2674,8 @@
     "fecha": "2026-10-17T23:00:00.000Z",
     "deporte": "FUTBOL",
     "cupo": 9,
-    "creado": "2026-10-15T03:13:56.041Z"
+    "creado": "2026-10-15T03:13:56.041Z",
+    "pendientesHumanos": 0,
+    "anotados": 0
   }
 }

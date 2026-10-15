@@ -6,3 +6,4 @@
 - 2026-10-12 12:14 · pidió unirse al running del domingo 18 a la mañana de Molly en Parque Pilar
 - 2026-10-13 00:13 · le aceptaron el running del domingo en Parque Pilar; hoy solo miró
 - 2026-10-14 04:14 · entró a mirar; ya tiene el running del domingo, no se anotó a más
+- 2026-10-15 04:14 · leyó notificaciones, ya tiene su running del domingo
