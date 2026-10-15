@@ -70,3 +70,4 @@
 - 2026-10-14 04:14 · pidió unirse al fútbol de hoy en Nordelta de Mace Windu (se anota a todo)
 - 2026-10-14 12:14 · vio que Mace le aceptó el fútbol de hoy; no hay más fútbol/pádel en CABA
 - 2026-10-15 00:14 · calificó el fútbol y pidió unirse al fútbol 5 del sábado en Nordelta (se anota a todo)
+- 2026-10-15 08:14 · vio que Elrond la aceptó; no hizo más hoy

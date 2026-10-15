@@ -16,3 +16,4 @@
 - 2026-10-13 16:14 · aceptó a Ron en su tenis y pidió unirse al running del domingo a las 8:30 en Parque Pilar (madruga)
 - 2026-10-14 08:15 · leyó que Jack le aceptó el running del domingo; no encontró otro temprano para anotarse
 - 2026-10-14 12:14 · entró temprano, no encontró otro partido de madrugada; no se anotó
+- 2026-10-15 08:14 · leyó sus notificaciones; no calificó el tenis (rara vez lo hace)

@@ -84,3 +84,4 @@
 - 2026-10-13 16:14 · calificó el fútbol; sus partidos siguen sin llenarse
 - 2026-10-14 12:14 · armó un fútbol ADVANCED el dom 18/10 20:00 en Club Pilar
 - 2026-10-15 04:14 · aceptó a Pippin y rechazó a Sirius (nivel) en el fútbol del jueves en Del Viso
+- 2026-10-15 08:13 · aceptó a Clark Kent en su fútbol

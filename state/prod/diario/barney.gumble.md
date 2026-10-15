@@ -3,3 +3,4 @@
 - 2026-10-13 04:14 · armó un pádel ADVANCED para el sáb 17/10 10:00 en Pádel Point Pilar
 - 2026-10-14 04:14 · armó un fútbol ADVANCED el dom 18/10 10:00 en Club Pilar
 - 2026-10-14 08:15 · entró a mirar; sus partidos ADVANCED siguen sin anotados
+- 2026-10-15 08:14 · pidió unirse al fútbol de Nemo del sáb 17/10 10:00 en Club Pilar (fin de semana a la mañana)

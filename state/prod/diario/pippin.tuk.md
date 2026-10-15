@@ -46,3 +46,4 @@
 - 2026-10-14 04:14 · pidió unirse al fútbol del sábado 17 de Nemo en Club Pilar
 - 2026-10-14 08:14 · armó un fútbol INTERMEDIATE para el lunes 19 a las 20:30 en Club Pilar (vuelve al deporte)
 - 2026-10-15 04:13 · aceptó a Théoden y Arya en su fútbol y se anotó al de Steve del jueves en Del Viso
+- 2026-10-15 08:14 · vio que Steve lo aceptó en el fútbol; no hizo más

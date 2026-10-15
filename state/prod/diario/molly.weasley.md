@@ -21,3 +21,4 @@
 - 2026-10-13 04:13 · entró a mirar, nadie para calificar
 - 2026-10-13 08:13 · aceptó a T'Challa en su running; nada para calificar
 - 2026-10-14 12:13 · aceptó a Fred Weasley en su running del domingo; nada más por hoy
+- 2026-10-15 08:14 · entró, no había nada de running que le sirviera; solo miró
