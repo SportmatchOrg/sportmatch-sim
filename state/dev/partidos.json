@@ -2422,7 +2422,7 @@
     "cupo": 9,
     "creado": "2026-10-13T07:11:32.573Z",
     "pendientesHumanos": 0,
-    "anotados": 4
+    "anotados": 5
   },
   "cmv6cfn4300rk01mr35kk81r2": {
     "jugadores": [
@@ -2445,7 +2445,7 @@
     "cupo": 7,
     "creado": "2026-10-13T07:12:24.919Z",
     "pendientesHumanos": 0,
-    "anotados": 5
+    "anotados": 6
   },
   "cmv6tk8dd002b01qgfznjk21n": {
     "jugadores": [
@@ -2518,7 +2518,7 @@
     "cupo": 9,
     "creado": "2026-10-13T23:11:21.418Z",
     "pendientesHumanos": 0,
-    "anotados": 2
+    "anotados": 3
   },
   "cmv7j9je200dc01qgy6gpmj1g": {
     "jugadores": [
@@ -2614,7 +2614,9 @@
     "cupo": 9,
     "creado": "2026-10-14T15:11:52.732Z",
     "pendientesHumanos": 0,
-    "anotados": 3
+    "anotados": 3,
+    "cancelSorteado": true,
+    "cancelar": false
   },
   "cmv890jcc00sw01qg7ut57xfk": {
     "jugadores": [],
@@ -2712,7 +2714,7 @@
     "cupo": 5,
     "creado": "2026-10-15T19:11:41.446Z",
     "pendientesHumanos": 0,
-    "anotados": 1
+    "anotados": 2
   },
   "cmva5lbkt00d201o3s8xbdr17": {
     "jugadores": [],
@@ -2768,7 +2770,9 @@
   },
   "cmvamqipi00om01o3edjmfqtp": {
     "jugadores": [],
-    "pendientes": [],
+    "pendientes": [
+      "scott.lang"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -2794,7 +2798,9 @@
     "fecha": "2026-10-21T23:30:00.000Z",
     "deporte": "BASQUET",
     "cupo": 7,
-    "creado": "2026-10-16T11:11:54.050Z"
+    "creado": "2026-10-16T11:11:54.050Z",
+    "pendientesHumanos": 0,
+    "anotados": 0
   },
   "cmvavbmv300rc01o39oava5ib": {
     "jugadores": [],
@@ -2808,7 +2814,9 @@
     "fecha": "2026-10-18T13:00:00.000Z",
     "deporte": "FUTBOL",
     "cupo": 9,
-    "creado": "2026-10-16T11:12:15.391Z"
+    "creado": "2026-10-16T11:12:15.391Z",
+    "pendientesHumanos": 0,
+    "anotados": 0
   },
   "cmvavbojv00rf01o34iypk759": {
     "jugadores": [],
@@ -2822,11 +2830,15 @@
     "fecha": "2026-10-18T13:30:00.000Z",
     "deporte": "PADEL",
     "cupo": 3,
-    "creado": "2026-10-16T11:12:17.618Z"
+    "creado": "2026-10-16T11:12:17.618Z",
+    "pendientesHumanos": 0,
+    "anotados": 0
   },
   "cmvavch6u00rw01o3johm4rmu": {
     "jugadores": [],
-    "pendientes": [],
+    "pendientes": [
+      "bruce.wayne"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -2836,6 +2848,22 @@
     "fecha": "2026-10-21T22:30:00.000Z",
     "deporte": "PADEL",
     "cupo": 3,
-    "creado": "2026-10-16T11:12:54.685Z"
+    "creado": "2026-10-16T11:12:54.685Z",
+    "pendientesHumanos": 0,
+    "anotados": 0
+  },
+  "cmvb3vla700u401o3xqi7tpal": {
+    "jugadores": [],
+    "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "tony.stark",
+    "fecha": "2026-10-18T11:00:00.000Z",
+    "deporte": "PADEL",
+    "cupo": 3,
+    "creado": "2026-10-16T15:11:43.402Z"
   }
 }

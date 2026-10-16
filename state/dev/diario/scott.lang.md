@@ -1,2 +1,3 @@
 - 2026-10-15 04:12 · pidió unirse al fútbol 5 de Elrond del viernes en Nordelta
 - 2026-10-16 08:12 · entró, miró un rato y no hizo nada
+- 2026-10-16 12:11 · pidió unirse al fútbol 5 del martes 20/10 en Nordelta; el viernes ya lo aceptó Elrond

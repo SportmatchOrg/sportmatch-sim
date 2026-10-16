@@ -14,3 +14,4 @@
 - 2026-10-14 00:12 · calificó el pádel y armó otro para el sáb 17/10 a las 8 en Tigre (madruga)
 - 2026-10-15 00:12 · aceptó a Saruman en su pádel del sáb 17/10 en Tigre
 - 2026-10-15 20:11 · aceptó a Yoda en su pádel del sábado temprano
+- 2026-10-16 12:11 · armó un pádel para el domingo 18/10 a las 8 en Tigre (madruga)
