@@ -28,3 +28,4 @@
 - 2026-10-13 12:13 · aceptó a Fred Weasley en su running; miró partidos pero no se anotó a nada (ya tiene running y pádel armados el finde)
 - 2026-10-14 00:15 · aceptó a Yoda en su running; nada más para anotarse
 - 2026-10-14 00:15 · (corrección) a Yoda lo aceptó en su pádel del domingo 18, no en el running
+- 2026-10-16 12:14 · miró partidos y leyó notificaciones; nada más

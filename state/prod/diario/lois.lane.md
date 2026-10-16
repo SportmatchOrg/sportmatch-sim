@@ -35,3 +35,4 @@
 - 2026-10-15 20:14 · aceptó a Pippin y Clark en su fútbol del martes
 - 2026-10-16 00:16 · calificó el fútbol y armó otro para el jueves 22 a las 20:00 en Club Pilar
 - 2026-10-16 08:14 · aceptó a Simba y Pippin en su fútbol; no hizo más
+- 2026-10-16 12:13 · aceptó a Pippin en su fútbol; no hizo más

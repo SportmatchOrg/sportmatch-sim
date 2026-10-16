@@ -2310,7 +2310,9 @@
     "cupo": 9,
     "creado": "2026-10-11T15:15:47.427Z",
     "pendientesHumanos": 0,
-    "anotados": 2
+    "anotados": 2,
+    "cancelSorteado": true,
+    "cancelar": false
   },
   "cmv47ap9q00o401lj6xtldpxk": {
     "jugadores": [
@@ -2328,7 +2330,9 @@
     "cupo": 5,
     "creado": "2026-10-11T19:13:03.999Z",
     "pendientesHumanos": 0,
-    "anotados": 1
+    "anotados": 1,
+    "cancelSorteado": true,
+    "cancelar": false
   },
   "cmv4fwe3r00rm01ljw8upckn7": {
     "jugadores": [
@@ -2480,7 +2484,9 @@
     "cupo": 3,
     "creado": "2026-10-13T07:14:22.897Z",
     "pendientesHumanos": 0,
-    "anotados": 0
+    "anotados": 0,
+    "cancelSorteado": true,
+    "cancelar": false
   },
   "cmv6cil7e01ft01lj33n1i3oq": {
     "jugadores": [
@@ -2514,7 +2520,9 @@
       "jaime.lannister",
       "eowyn"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "harry.potter"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -2619,7 +2627,9 @@
     "cupo": 9,
     "creado": "2026-10-14T07:13:40.189Z",
     "pendientesHumanos": 0,
-    "anotados": 3
+    "anotados": 3,
+    "cancelSorteado": true,
+    "cancelar": false
   },
   "cmv7rxhdr01zg01ljlnubuszn": {
     "jugadores": [],
@@ -2675,7 +2685,7 @@
     "cupo": 9,
     "creado": "2026-10-14T11:14:41.109Z",
     "pendientesHumanos": 0,
-    "anotados": 4
+    "anotados": 5
   },
   "cmv2xnu80000f4rryivqos7wv": {
     "jugadores": [],
@@ -2766,7 +2776,9 @@
       "pippin.tuk",
       "clark.kent"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "marty.mcfly"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -2834,11 +2846,10 @@
   },
   "cmvaeb21r02bs01mhrbg8wf7h": {
     "jugadores": [
-      "frodo.bolson"
-    ],
-    "pendientes": [
+      "frodo.bolson",
       "bellatrix.lestrange"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -2850,7 +2861,7 @@
     "cupo": 9,
     "creado": "2026-10-16T03:15:54.941Z",
     "pendientesHumanos": 0,
-    "anotados": 0
+    "anotados": 1
   },
   "cmvaebke902ch01mh99ykt6i4": {
     "jugadores": [],
@@ -2870,11 +2881,10 @@
   },
   "cmvaecavm02d801mhnesc4em5": {
     "jugadores": [
-      "simba"
-    ],
-    "pendientes": [
+      "simba",
       "pippin.tuk"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -2886,7 +2896,7 @@
     "cupo": 9,
     "creado": "2026-10-16T03:16:53.044Z",
     "pendientesHumanos": 0,
-    "anotados": 0
+    "anotados": 1
   },
   "cmvaecg3d02dj01mhmdd8w549": {
     "jugadores": [],
@@ -2927,14 +2937,16 @@
     "asistencia": null,
     "calificaran": [],
     "calificaron": [],
-    "cancelado": false,
+    "cancelado": true,
     "organizador": "finn",
     "fecha": "2026-10-17T11:30:00.000Z",
     "deporte": "FUTBOL",
     "cupo": 9,
     "creado": "2026-10-16T07:13:46.368Z",
     "pendientesHumanos": 0,
-    "anotados": 0
+    "anotados": 0,
+    "cancelSorteado": true,
+    "cancelar": true
   },
   "cmvaves4b02jm01mhqik81fdm": {
     "jugadores": [],
@@ -2948,7 +2960,9 @@
     "fecha": "2026-10-21T00:00:00.000Z",
     "deporte": "FUTBOL",
     "cupo": 9,
-    "creado": "2026-10-16T11:14:42.161Z"
+    "creado": "2026-10-16T11:14:42.161Z",
+    "pendientesHumanos": 0,
+    "anotados": 0
   },
   "cmvavf4kw02jx01mhw7w92pcl": {
     "jugadores": [],
@@ -2962,6 +2976,8 @@
     "fecha": "2026-10-21T23:00:00.000Z",
     "deporte": "PADEL",
     "cupo": 3,
-    "creado": "2026-10-16T11:14:58.328Z"
+    "creado": "2026-10-16T11:14:58.328Z",
+    "pendientesHumanos": 0,
+    "anotados": 0
   }
 }

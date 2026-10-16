@@ -1,1 +1,2 @@
 - 2026-10-16 04:13 · armó un fútbol ADVANCED para el sáb 17/10 08:30 en Club Pilar
+- 2026-10-16 12:13 · canceló su fútbol ADVANCED del sábado porque no se llenó

@@ -1,3 +1,4 @@
 - 2026-10-11 16:13 · entró a mirar, sin novedades
 - 2026-10-13 00:13 · entró a mirar, sin novedades
 - 2026-10-14 20:15 · miró pádel, solo hay ADVANCED y todavía no se anima
+- 2026-10-16 12:14 · miró pádel, no hay nada de su nivel en CABA; no se anotó
