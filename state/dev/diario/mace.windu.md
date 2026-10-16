@@ -51,3 +51,4 @@
 - 2026-10-15 08:12 · aceptó a Elrond y pidió unirse al pádel de Faramir del domingo
 - 2026-10-15 12:12 · miró la app, sin novedades
 - 2026-10-16 00:12 · calificó el fútbol y organizó un pádel para el mar 20/10 20:00 en Tigre Pádel Club
+- 2026-10-16 20:12 · miró la app, sin novedades

@@ -15,3 +15,4 @@
 - 2026-10-14 12:12 · corrección: no pudo unirse al running de Molly, está suspendido hasta el 18/10
 - 2026-10-15 16:12 · miró la app, sin novedades
 - 2026-10-16 12:11 · entró, sigue suspendido hasta el 18/10; no pudo anotarse a nada
+- 2026-10-16 20:12 · miró la app, sin novedades

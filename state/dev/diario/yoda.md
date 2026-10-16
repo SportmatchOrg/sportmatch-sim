@@ -7,3 +7,4 @@
 - 2026-10-13 08:11 · miró los pádel, ninguno le cierra, no se anotó
 - 2026-10-13 16:12 · miró los pádel, ninguno cae en fin de semana a la mañana, no se anotó
 - 2026-10-15 16:12 · pidió unirse al pádel de Tony Stark del sáb 17/10 a la mañana en Tigre
+- 2026-10-16 20:12 · pidió unirse al pádel del domingo 10:30 en Pádel Point Pilar (fin de semana a la mañana)
