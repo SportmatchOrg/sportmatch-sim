@@ -36,3 +36,4 @@
 - 2026-10-14 16:11 · intentó anotarse al fútbol de Del Viso pero ya estaba anotado
 - 2026-10-14 20:12 · se anotó al fútbol de Steve del jue 15/10 en Club Pilar
 - 2026-10-16 00:11 · calificó el fútbol del miércoles y se anotó al fútbol de George en Del Viso (siempre suma)
+- 2026-10-16 04:12 · entró y solo miró
