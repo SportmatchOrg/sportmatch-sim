@@ -8,3 +8,4 @@
 - 2026-10-13 08:11 · pidió unirse al básquet de Neo del sáb 17/10 en Campus Austral
 - 2026-10-15 12:12 · pidió unirse al tenis del viernes de Elrond
 - 2026-10-15 20:11 · calificó el fútbol y leyó las notificaciones; hoy solo miró
+- 2026-10-16 08:12 · miró partidos; ya tiene varios pedidos en curso, no sumó nada más

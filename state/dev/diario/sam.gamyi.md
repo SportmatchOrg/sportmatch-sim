@@ -49,3 +49,4 @@
 - 2026-10-14 20:11 · calificó el pádel, todos muy bien
 - 2026-10-15 00:11 · calificó el fútbol, todos muy bien
 - 2026-10-15 20:11 · calificó el fútbol (todos bien) y se anotó al tenis del sábado en River Courts
+- 2026-10-16 08:12 · armó un pádel BEGINNER para el mié 21/10 19:30 en Club Belgrano

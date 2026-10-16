@@ -2,3 +2,4 @@
 - 2026-10-14 16:11 · aceptó la solicitud de Bellatrix para su fútbol del sábado
 - 2026-10-14 20:12 · aceptó a Doc Brown en su fútbol ADVANCED del sábado
 - 2026-10-15 08:12 · aceptó a Barney Gumble y pidió unirse al fútbol ADVANCED de Héctor del lunes
+- 2026-10-16 08:12 · armó un fútbol ADVANCED para el dom 18/10 10:00 en Club Pilar

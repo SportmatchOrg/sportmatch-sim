@@ -2,3 +2,4 @@
 - 2026-10-13 20:12 · miró la app y leyó notificaciones, sin novedades
 - 2026-10-14 04:11 · miró la app y leyó notificaciones, sin novedades
 - 2026-10-15 04:11 · pidió unirse al fútbol ADVANCED del sábado a la mañana en Club Pilar
+- 2026-10-16 08:12 · armó un pádel ADVANCED para el dom 18/10 10:30 en Pádel Point Pilar

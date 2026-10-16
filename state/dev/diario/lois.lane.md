@@ -32,3 +32,4 @@
 - 2026-10-15 20:11 · aceptó a Steve en su fútbol del sábado
 - 2026-10-16 00:13 · aceptó a Wall-E en su fútbol del sábado y calificó dos partidos
 - 2026-10-16 04:11 · aceptó a Bellatrix en su fútbol del sábado en Del Viso
+- 2026-10-16 08:12 · aceptó a Frodo en su fútbol del sábado en Del Viso

@@ -7,3 +7,4 @@
 - 2026-10-15 12:12 · aceptó a Joker y pidió unirse al básquet del sábado de Neo
 - 2026-10-16 00:13 · calificó el básquet y armó un básquet ADVANCED el lun 19/10 21:00 en Campus Austral
 - 2026-10-16 04:12 · aceptó a Joker en su básquet del lunes
+- 2026-10-16 08:11 · aceptó a Obi-Wan y pidió unirse al fútbol del sábado de Lois en Del Viso
