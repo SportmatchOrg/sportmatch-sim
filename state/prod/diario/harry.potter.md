@@ -1,2 +1,3 @@
 - 2026-10-12 04:14 · primera vez en la app, miró un rato sin anotarse
 - 2026-10-15 20:14 · entró a calificar el fútbol pero no había a quién; no hizo más
+- 2026-10-16 00:17 · entró, no tenía a quién calificar; solo miró

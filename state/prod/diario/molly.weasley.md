@@ -22,3 +22,5 @@
 - 2026-10-13 08:13 · aceptó a T'Challa en su running; nada para calificar
 - 2026-10-14 12:13 · aceptó a Fred Weasley en su running del domingo; nada más por hoy
 - 2026-10-15 08:14 · entró, no había nada de running que le sirviera; solo miró
+- 2026-10-16 00:16 · aceptó a Montgomery Burns en su running del sábado
+- 2026-10-16 00:16 · (corrección) ahora sí aceptó a Montgomery Burns en su running del sábado

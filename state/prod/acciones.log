@@ -436,3 +436,33 @@
 2026-10-15T23:14:43.608Z clark.kent leer-notificaciones 1
 2026-10-15T23:14:54.470Z montgomery.burns unirse cmv47ap9q00o401lj6xtldpxk
 2026-10-15T23:14:59.176Z john.wick leer-notificaciones 1
+2026-10-16T03:14:19.590Z sorteo cj039tbft9gdeyjnkfmdexrpf faltaron=[] calificaran=[albus.dumbledore]
+2026-10-16T03:14:20.252Z sorteo cmv2z08q2006b01ljq6bs6rzw faltaron=[] calificaran=[mace.windu,sam.gamyi,bellatrix.lestrange]
+2026-10-16T03:14:20.903Z sorteo cmv30hc5r009q01lj0yiz7p8a faltaron=[] calificaran=[steve.rogers,pippin.tuk]
+2026-10-16T03:14:21.527Z sorteo cmv3vv11100fg01lj8xv692ve faltaron=[fred.weasley] calificaran=[lois.lane,pippin.tuk,george.weasley]
+2026-10-16T03:14:28.714Z sorteo cmv4fwe3r00rm01ljw8upckn7 faltaron=[] calificaran=[neo,galadriel,milhouse.van.houten]
+2026-10-16T03:15:10.920Z pippin.tuk leer-notificaciones 1
+2026-10-16T03:15:22.477Z galadriel calificar cmv4fwe3r00rm01ljw8upckn7 ratings=3 noShows=0
+2026-10-16T03:15:24.728Z galadriel unirse demo-match-f04
+2026-10-16T03:15:27.097Z pippin.tuk calificar cmv30hc5r009q01lj0yiz7p8a ratings=2 noShows=0
+2026-10-16T03:15:29.304Z pippin.tuk calificar cmv3vv11100fg01lj8xv692ve ratings=3 noShows=1
+2026-10-16T03:15:40.326Z milhouse.van.houten leer-notificaciones 1
+2026-10-16T03:15:47.944Z bellatrix.lestrange calificar cmv2z08q2006b01ljq6bs6rzw ratings=3 noShows=0
+2026-10-16T03:15:50.554Z bellatrix.lestrange unirse demo-match-f07
+2026-10-16T03:15:52.813Z mace.windu calificar cmv2z08q2006b01ljq6bs6rzw ratings=3 noShows=0
+2026-10-16T03:15:54.942Z mace.windu crear cmvaeb21r02bs01mhrbg8wf7h FUTBOL 2026-10-20T23:30:00.000Z
+2026-10-16T03:15:57.211Z milhouse.van.houten calificar cmv4fwe3r00rm01ljw8upckn7 ratings=3 noShows=0
+2026-10-16T03:16:01.570Z steve.rogers leer-notificaciones 1
+2026-10-16T03:16:07.764Z molly.weasley leer-notificaciones 1
+2026-10-16T03:16:14.252Z steve.rogers calificar cmv30hc5r009q01lj0yiz7p8a ratings=2 noShows=0
+2026-10-16T03:16:16.542Z sam.gamyi calificar cmv2z08q2006b01ljq6bs6rzw ratings=3 noShows=0
+2026-10-16T03:16:18.720Z sam.gamyi crear cmvaebke902ch01mh99ykt6i4 PADEL 2026-10-19T23:00:00.000Z
+2026-10-16T03:16:27.970Z molly.weasley aceptar cmv47ap9q00o401lj6xtldpxk montgomery.burns
+2026-10-16T03:16:41.741Z george.weasley leer-notificaciones 1
+2026-10-16T03:16:50.889Z lois.lane calificar cmv3vv11100fg01lj8xv692ve ratings=2 noShows=1
+2026-10-16T03:16:53.045Z lois.lane crear cmvaecavm02d801mhnesc4em5 FUTBOL 2026-10-22T23:00:00.000Z
+2026-10-16T03:16:55.361Z albus.dumbledore calificar cj039tbft9gdeyjnkfmdexrpf ratings=1 noShows=0
+2026-10-16T03:16:57.613Z neo calificar cmv4fwe3r00rm01ljw8upckn7 ratings=3 noShows=0
+2026-10-16T03:16:59.800Z neo crear cmvaecg3d02dj01mhmdd8w549 BASQUET 2026-10-21T23:00:00.000Z
+2026-10-16T03:17:02.235Z george.weasley calificar cmv3vv11100fg01lj8xv692ve ratings=2 noShows=1
+2026-10-16T03:17:04.814Z george.weasley unirse cmv7rx3uj01z601ljn6pwmjja

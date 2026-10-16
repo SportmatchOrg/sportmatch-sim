@@ -10,3 +10,4 @@
 - 2026-10-13 08:14 · miró básquet, nada en su zona; no se unió
 - 2026-10-13 12:13 · miró básquet, nada de principiante en su zona; no se anotó
 - 2026-10-15 12:13 · leyó notificaciones y miró básquet; nada en su zona
+- 2026-10-16 00:15 · calificó el básquet (todos bien) y pidió unirse al del martes en Club Palermo

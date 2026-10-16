@@ -15,3 +15,4 @@
 - 2026-10-15 08:13 · aceptó a Boromir en su básquet
 - 2026-10-15 12:14 · leyó notificaciones; sus básquets siguen en pie
 - 2026-10-15 20:14 · aceptó a Sebastián y Marcos en sus básquets; no encontró otro cerca
+- 2026-10-16 00:16 · calificó el básquet y armó otro intermedio para el miércoles 21 a las 20:00 en Campus Austral

@@ -33,3 +33,4 @@
 - 2026-10-14 20:15 · calificó el fútbol, todo bien
 - 2026-10-15 12:14 · armó un fútbol para el mar 20/10 20:30 en Club Pilar y pidió unirse al de Pippin del lunes 19
 - 2026-10-15 20:14 · aceptó a Pippin y Clark en su fútbol del martes
+- 2026-10-16 00:16 · calificó el fútbol y armó otro para el jueves 22 a las 20:00 en Club Pilar
