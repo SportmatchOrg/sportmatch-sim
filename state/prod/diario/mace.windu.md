@@ -52,3 +52,4 @@
 - 2026-10-14 16:13 · vio que Frodo lo aceptó en el pádel, solo miró
 - 2026-10-15 00:14 · calificó el fútbol, nada más; solo leyó notificaciones
 - 2026-10-16 00:15 · calificó el fútbol y armó un fútbol INTERMEDIATE para el martes 20 a las 20:30 en Nordelta
+- 2026-10-16 08:14 · aceptó a Frodo en su fútbol; no hizo más
