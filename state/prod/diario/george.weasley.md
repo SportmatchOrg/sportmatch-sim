@@ -1,3 +1,4 @@
 - 2026-10-13 00:13 · primera vez: pidió unirse al fútbol del jueves a la noche en Club Pilar
 - 2026-10-15 16:14 · pidió unirse al fútbol del lunes 19 de Pippin en Club Pilar
 - 2026-10-16 00:17 · calificó el fútbol y pidió unirse al del sábado 17 a la mañana en Nordelta (se anota a todo)
+- 2026-10-16 16:13 · armó un fútbol para el miércoles 21 en Club Pilar y pidió unirse al de Mace en Nordelta

@@ -2518,11 +2518,10 @@
   "cmv6tmfjr01l801lj2vkvguoo": {
     "jugadores": [
       "jaime.lannister",
-      "eowyn"
-    ],
-    "pendientes": [
+      "eowyn",
       "harry.potter"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -2741,7 +2740,9 @@
     "jugadores": [
       "bellatrix.lestrange"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "scott.lang"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -2774,11 +2775,10 @@
   "cmv9oisge00q601mhb3aaso2h": {
     "jugadores": [
       "pippin.tuk",
-      "clark.kent"
-    ],
-    "pendientes": [
+      "clark.kent",
       "marty.mcfly"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -2849,7 +2849,9 @@
       "frodo.bolson",
       "bellatrix.lestrange"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "george.weasley"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -2861,7 +2863,7 @@
     "cupo": 9,
     "creado": "2026-10-16T03:15:54.941Z",
     "pendientesHumanos": 0,
-    "anotados": 1
+    "anotados": 2
   },
   "cmvaebke902ch01mh99ykt6i4": {
     "jugadores": [],
@@ -2896,7 +2898,7 @@
     "cupo": 9,
     "creado": "2026-10-16T03:16:53.044Z",
     "pendientesHumanos": 0,
-    "anotados": 1
+    "anotados": 2
   },
   "cmvaecg3d02dj01mhmdd8w549": {
     "jugadores": [],
@@ -2966,7 +2968,9 @@
   },
   "cmvavf4kw02jx01mhw7w92pcl": {
     "jugadores": [],
-    "pendientes": [],
+    "pendientes": [
+      "clark.kent"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -2979,5 +2983,34 @@
     "creado": "2026-10-16T11:14:58.328Z",
     "pendientesHumanos": 0,
     "anotados": 0
+  },
+  "demo-match-f01": {
+    "jugadores": [],
+    "pendientes": [
+      "theoden"
+    ],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "humano:demo-user-bruno",
+    "fecha": "2026-10-17T22:00:00.000Z",
+    "deporte": "FUTBOL",
+    "cupo": 10
+  },
+  "cmvbcijou02q201mhz2xb75yv": {
+    "jugadores": [],
+    "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "george.weasley",
+    "fecha": "2026-10-21T23:30:00.000Z",
+    "deporte": "FUTBOL",
+    "cupo": 9,
+    "creado": "2026-10-16T19:13:31.316Z"
   }
 }

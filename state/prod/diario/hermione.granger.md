@@ -29,3 +29,4 @@
 - 2026-10-14 20:15 · aceptó a Sauron en su tenis ADVANCED del domingo
 - 2026-10-15 20:14 · aceptó a Marcos e Ivan en sus partidos del finde
 - 2026-10-16 04:14 · entró a mirar y leyó notificaciones; sin novedades
+- 2026-10-16 16:13 · entró un rato, solo miró

@@ -12,3 +12,4 @@
 - 2026-10-14 08:15 · entró a mirar; ya tiene fútbol anotado, no hizo más
 - 2026-10-15 00:14 · calificó el fútbol y pidió unirse al fútbol del lunes en Club Pilar (puntual, de noche)
 - 2026-10-15 16:14 · pidió unirse al fútbol del jueves de Harry Potter en CABA (puntual)
+- 2026-10-16 16:13 · pidió unirse al fútbol del sábado 17 en Parque Sur (puntual)
