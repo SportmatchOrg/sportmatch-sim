@@ -1,3 +1,4 @@
 - 2026-10-13 04:11 · primera vez en la app: miró los básquet, todavía no se anota a nada
 - 2026-10-14 08:11 · se anotó al básquet del sábado a la mañana en Campus Austral
 - 2026-10-15 08:12 · pidió unirse al básquet de Frodo del jueves
+- 2026-10-16 00:13 · calificó el básquet y pidió unirse al básquet ADVANCED de Frodo del lunes

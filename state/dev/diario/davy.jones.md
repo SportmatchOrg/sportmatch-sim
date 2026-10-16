@@ -11,3 +11,4 @@
 - 2026-10-12 12:12 · leyó notificaciones (lo aceptaron en el running de Faramir); hoy no sumó nada
 - 2026-10-13 08:11 · miró partidos, ya estaba anotado a lo suyo; hoy no sumó nada
 - 2026-10-13 16:12 · se anotó al básquet INTERMEDIATE del jue 15/10 en Campus Austral
+- 2026-10-16 00:12 · calificó el básquet y pidió unirse al running BEGINNER del domingo en Campus Austral

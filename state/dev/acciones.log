@@ -467,3 +467,48 @@
 2026-10-15T23:12:33.459Z eowyn unirse cmv3youc000ht01nqhzryvfmg
 2026-10-15T23:12:35.879Z walle unirse cmv8q5fst00z501qg4dk8zoyd
 2026-10-15T23:12:38.316Z obiwan.kenobi leer-notificaciones 1
+2026-10-16T03:10:28.596Z sorteo cj039tbft9gdeyjnkfmdexrpf faltaron=[] calificaran=[ron.weasley]
+2026-10-16T03:10:36.042Z sorteo cmv38z7ym00cq01nq470m7l2n faltaron=[] calificaran=[mace.windu,lois.lane,hector.barbossa,bellatrix.lestrange,fred.weasley,george.weasley,elrond]
+2026-10-16T03:10:41.835Z sorteo cmv55k3r800bp01mr3up4je49 faltaron=[milhouse.van.houten] calificaran=[frodo.bolson,neo,davy.jones,joker]
+2026-10-16T03:10:48.734Z sorteo cmv7aolkn009101qgcw92f7fk faltaron=[] calificaran=[steve.rogers,pippin.tuk,lois.lane]
+2026-10-16T03:11:10.759Z fred.weasley leer-notificaciones 1
+2026-10-16T03:11:16.568Z fred.weasley calificar cmv38z7ym00cq01nq470m7l2n ratings=3 noShows=0
+2026-10-16T03:11:21.519Z fred.weasley unirse cmv8yqkrb013y01qgvbk8z1g3
+2026-10-16T03:11:25.396Z ron.weasley leer-notificaciones 1
+2026-10-16T03:11:34.926Z ron.weasley calificar cj039tbft9gdeyjnkfmdexrpf ratings=1 noShows=0
+2026-10-16T03:11:42.126Z pippin.tuk calificar cmv7aolkn009101qgcw92f7fk ratings=3 noShows=0
+2026-10-16T03:11:44.297Z pippin.tuk unirse cmv8yqkrb013y01qgvbk8z1g3
+2026-10-16T03:11:47.682Z elrond leer-notificaciones 1
+2026-10-16T03:11:53.924Z elrond aceptar cmv55k5np00bs01mr3dtp1rek thanos
+2026-10-16T03:11:56.421Z elrond calificar cmv38z7ym00cq01nq470m7l2n ratings=3 noShows=0
+2026-10-16T03:12:05.115Z bellatrix.lestrange calificar cmv38z7ym00cq01nq470m7l2n ratings=3 noShows=0
+2026-10-16T03:12:06.972Z bellatrix.lestrange unirse cmv8yqkrb013y01qgvbk8z1g3
+2026-10-16T03:12:09.040Z bellatrix.lestrange unirse cmv7aouij009b01qge2wtga8z
+2026-10-16T03:12:11.107Z faramir leer-notificaciones 1
+2026-10-16T03:12:16.976Z faramir aceptar cmv3youc000ht01nqhzryvfmg eowyn
+2026-10-16T03:12:19.230Z mace.windu leer-notificaciones 1
+2026-10-16T03:12:25.796Z mace.windu calificar cmv38z7ym00cq01nq470m7l2n ratings=3 noShows=0
+2026-10-16T03:12:27.910Z mace.windu crear cmvae6mab00j501o33qljfo0o PADEL 2026-10-20T23:00:00.000Z
+2026-10-16T03:12:29.901Z steve.rogers leer-notificaciones 3
+2026-10-16T03:12:34.962Z steve.rogers calificar cmv7aolkn009101qgcw92f7fk ratings=3 noShows=0
+2026-10-16T03:12:36.930Z davy.jones leer-notificaciones 1
+2026-10-16T03:12:44.318Z davy.jones calificar cmv55k3r800bp01mr3up4je49 ratings=2 noShows=1
+2026-10-16T03:12:46.178Z davy.jones unirse cmv9x0c7k009e01o3i7wjn38y
+2026-10-16T03:12:48.164Z lois.lane leer-notificaciones 2
+2026-10-16T03:12:57.175Z lois.lane aceptar cmv8q5fst00z501qg4dk8zoyd walle
+2026-10-16T03:12:59.023Z lois.lane calificar cmv38z7ym00cq01nq470m7l2n ratings=3 noShows=0
+2026-10-16T03:13:00.844Z lois.lane calificar cmv7aolkn009101qgcw92f7fk ratings=3 noShows=0
+2026-10-16T03:13:06.464Z hector.barbossa cancelar cmva5lbkt00d201o3s8xbdr17
+2026-10-16T03:13:08.301Z hector.barbossa calificar cmv38z7ym00cq01nq470m7l2n ratings=3 noShows=0
+2026-10-16T03:13:14.705Z neo calificar cmv55k3r800bp01mr3up4je49 ratings=2 noShows=1
+2026-10-16T03:13:17.316Z frodo.bolson leer-notificaciones 1
+2026-10-16T03:13:23.182Z frodo.bolson calificar cmv55k3r800bp01mr3up4je49 ratings=2 noShows=1
+2026-10-16T03:13:25.053Z frodo.bolson crear cmvae7uee00l001o34zelugks BASQUET 2026-10-20T00:00:00.000Z
+2026-10-16T03:13:27.046Z joker leer-notificaciones 2
+2026-10-16T03:13:33.883Z joker calificar cmv55k3r800bp01mr3up4je49 ratings=3 noShows=1
+2026-10-16T03:13:35.674Z joker unirse cmvae7uee00l001o34zelugks
+2026-10-16T03:13:37.671Z george.weasley leer-notificaciones 4
+2026-10-16T03:13:47.742Z george.weasley aceptar cmv8yqkrb013y01qgvbk8z1g3 fred.weasley
+2026-10-16T03:13:49.663Z george.weasley aceptar cmv8yqkrb013y01qgvbk8z1g3 pippin.tuk
+2026-10-16T03:13:51.647Z george.weasley aceptar cmv8yqkrb013y01qgvbk8z1g3 bellatrix.lestrange
+2026-10-16T03:13:53.636Z george.weasley calificar cmv38z7ym00cq01nq470m7l2n ratings=3 noShows=0

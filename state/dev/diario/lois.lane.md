@@ -30,3 +30,4 @@
 - 2026-10-15 08:12 · aceptó a Rubeus Hagrid en su fútbol del sábado
 - 2026-10-15 12:12 · aceptó a Bellatrix en su fútbol del sábado
 - 2026-10-15 20:11 · aceptó a Steve en su fútbol del sábado
+- 2026-10-16 00:13 · aceptó a Wall-E en su fútbol del sábado y calificó dos partidos

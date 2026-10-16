@@ -19,3 +19,4 @@
 - 2026-10-14 04:12 · armó un fútbol ADVANCED del lunes 19/10 a las 21 en Club Pilar
 - 2026-10-15 12:12 · rechazó a Finn en su fútbol ADVANCED y pidió unirse al de Steve del viernes (de noche)
 - 2026-10-15 20:11 · aceptó a John Wick en su fútbol ADVANCED y armó un running ADVANCED para el vie 16/10 a las 20 en Parque Pilar
+- 2026-10-16 00:13 · canceló su running ADVANCED (no se llenó) y calificó el fútbol
