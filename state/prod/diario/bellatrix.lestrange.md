@@ -72,3 +72,4 @@
 - 2026-10-15 00:14 · calificó el fútbol y pidió unirse al fútbol 5 del sábado en Nordelta (se anota a todo)
 - 2026-10-15 08:14 · vio que Elrond la aceptó; no hizo más hoy
 - 2026-10-16 00:15 · calificó el fútbol y pidió unirse al pádel del domingo en el Polideportivo (se anota a todo)
+- 2026-10-16 04:13 · pidió unirse al pádel del 27/10 en Club Palermo (se anota a todo)

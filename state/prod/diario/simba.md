@@ -1,0 +1,1 @@
+- 2026-10-16 04:14 · primera vez en la app: se anotó al fútbol del jueves 22 en Club Pilar (tardes libres)

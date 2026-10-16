@@ -5,3 +5,4 @@
 - 2026-10-14 12:13 · aceptó a Mace Windu en su fútbol del sábado
 - 2026-10-14 20:15 · aceptó a Neo y a Obi-Wan en sus partidos
 - 2026-10-15 00:14 · aceptó a Milhouse en su básquet del viernes
+- 2026-10-16 04:13 · aceptó a George Weasley y pidió unirse al fútbol del martes en Nordelta

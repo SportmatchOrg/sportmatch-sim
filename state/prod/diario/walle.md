@@ -4,3 +4,4 @@
 - 2026-10-11 12:16 · calificó el fútbol, todos muy buena onda
 - 2026-10-13 04:14 · entró a mirar, sin novedades
 - 2026-10-15 00:15 · pidió unirse al fútbol del sábado a la mañana en Club Pilar (de a poco, vuelve a jugar)
+- 2026-10-16 04:14 · pidió unirse al fútbol INTERMEDIATE del lunes 19 en Club Pilar

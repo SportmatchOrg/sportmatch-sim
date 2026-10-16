@@ -2,3 +2,4 @@
 - 2026-10-11 20:14 · leyó notificaciones, sin novedades
 - 2026-10-13 12:14 · pidió unirse al básquet del jueves en Campus Austral (zona norte, puntual)
 - 2026-10-15 04:14 · pidió unirse al básquet de Neo del lunes 19 en Campus Austral
+- 2026-10-16 04:13 · leyó notificaciones: Neo lo aceptó en el básquet; no hizo más
