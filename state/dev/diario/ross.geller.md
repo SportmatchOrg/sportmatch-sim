@@ -1,0 +1,1 @@
+- 2026-10-16 16:11 · primera entrada: miró los fútbol, todavía no se anima a anotarse

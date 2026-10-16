@@ -2769,10 +2769,10 @@
     "anotados": 1
   },
   "cmvamqipi00om01o3edjmfqtp": {
-    "jugadores": [],
-    "pendientes": [
+    "jugadores": [
       "scott.lang"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -2835,10 +2835,10 @@
     "anotados": 0
   },
   "cmvavch6u00rw01o3johm4rmu": {
-    "jugadores": [],
-    "pendientes": [
+    "jugadores": [
       "bruce.wayne"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -2864,6 +2864,8 @@
     "fecha": "2026-10-18T11:00:00.000Z",
     "deporte": "PADEL",
     "cupo": 3,
-    "creado": "2026-10-16T15:11:43.402Z"
+    "creado": "2026-10-16T15:11:43.402Z",
+    "pendientesHumanos": 0,
+    "anotados": 0
   }
 }

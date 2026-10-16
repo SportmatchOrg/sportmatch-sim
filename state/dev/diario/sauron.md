@@ -1,3 +1,4 @@
 - 2026-10-13 12:11 · primera entrada, miró tenis en Pilar
 - 2026-10-13 16:12 · volvió a mirar tenis, no se anotó a nada
 - 2026-10-14 20:12 · miró de nuevo los tenis de Pilar, sin anotarse
+- 2026-10-16 16:11 · miró tenis en Pilar, nada de noche que le sirva; no se anotó

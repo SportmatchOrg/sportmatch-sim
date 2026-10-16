@@ -8,3 +8,4 @@
 - 2026-10-11 10:52 · miró los pádel disponibles, ninguno le cerró de zona y nivel
 - 2026-10-11 20:11 · miró los pádel, ninguno le cerró de nivel; no se anotó
 - 2026-10-14 04:12 · leyó sus notificaciones (no-show y suspensión); no se anotó a nada
+- 2026-10-16 16:11 · miró la app, sin ganas de anotarse a nada

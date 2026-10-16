@@ -27,3 +27,4 @@
 - 2026-10-15 08:12 · miró la app, sin novedades
 - 2026-10-15 12:12 · aceptó a Mace y a Jack en su running del sábado
 - 2026-10-16 00:12 · aceptó a Éowyn en su partido
+- 2026-10-16 16:11 · entró entre semana, miró y no hizo nada (ya tiene running y pádel armados)
