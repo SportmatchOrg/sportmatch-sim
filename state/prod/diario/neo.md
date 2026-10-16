@@ -16,3 +16,4 @@
 - 2026-10-15 12:14 · leyó notificaciones; sus básquets siguen en pie
 - 2026-10-15 20:14 · aceptó a Sebastián y Marcos en sus básquets; no encontró otro cerca
 - 2026-10-16 00:16 · calificó el básquet y armó otro intermedio para el miércoles 21 a las 20:00 en Campus Austral
+- 2026-10-16 20:14 · calificó el básquet (Davy y Frodo bien, Milhouse no vino)

@@ -6,3 +6,4 @@
 - 2026-10-14 20:15 · aceptó a Neo y a Obi-Wan en sus partidos
 - 2026-10-15 00:14 · aceptó a Milhouse en su básquet del viernes
 - 2026-10-16 04:13 · aceptó a George Weasley y pidió unirse al fútbol del martes en Nordelta
+- 2026-10-16 20:14 · calificó el básquet; Milhouse faltó

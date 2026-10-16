@@ -503,3 +503,22 @@
 2026-10-16T19:13:29.429Z scott.lang unirse cmv8ysnlb004301pigb7h94mk
 2026-10-16T19:13:31.318Z george.weasley crear cmvbcijou02q201mhz2xb75yv FUTBOL 2026-10-21T23:30:00.000Z
 2026-10-16T19:13:33.211Z george.weasley unirse cmvaeb21r02bs01mhrbg8wf7h
+2026-10-16T23:13:08.282Z sorteo cmv4ogf1c00u401lj7wh25urx faltaron=[] calificaran=[sam.gamyi]
+2026-10-16T23:13:12.525Z sorteo cmv5veii2019o01ljf2mr4iod faltaron=[milhouse.van.houten] calificaran=[frodo.bolson,neo]
+2026-10-16T23:13:16.322Z sorteo cmv7jdi6j01ti01ljfrih44d8 faltaron=[] calificaran=[elrond]
+2026-10-16T23:13:46.759Z elrond leer-notificaciones 1
+2026-10-16T23:13:57.021Z mace.windu leer-notificaciones 1
+2026-10-16T23:14:00.182Z chewbacca leer-notificaciones 1
+2026-10-16T23:14:08.271Z elrond aceptar cmv8ysnlb004301pigb7h94mk scott.lang
+2026-10-16T23:14:10.625Z mace.windu aceptar cmvaeb21r02bs01mhrbg8wf7h george.weasley
+2026-10-16T23:14:18.149Z mace.windu unirse cmv8ysnlb004301pigb7h94mk
+2026-10-16T23:14:20.245Z chewbacca aceptar cmvavf4kw02jx01mhw7w92pcl clark.kent
+2026-10-16T23:14:22.452Z harry.potter leer-notificaciones 1
+2026-10-16T23:14:37.937Z sam.gamyi unirse demo-match-f08
+2026-10-16T23:14:42.360Z frodo.bolson leer-notificaciones 1
+2026-10-16T23:14:52.506Z neo calificar cmv5veii2019o01ljf2mr4iod ratings=2 noShows=1
+2026-10-16T23:14:54.763Z frodo.bolson calificar cmv5veii2019o01ljf2mr4iod ratings=2 noShows=1
+2026-10-16T23:14:58.117Z sirius.black leer-notificaciones 1
+2026-10-16T23:15:01.439Z dobby leer-notificaciones 2
+2026-10-16T23:15:08.994Z sirius.black unirse cmv9oisge00q601mhb3aaso2h
+2026-10-16T23:15:11.506Z theoden unirse demo-match-f08

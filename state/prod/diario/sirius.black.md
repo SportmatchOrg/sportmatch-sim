@@ -4,3 +4,4 @@
 - 2026-10-12 16:14 · miró partidos de nuevo, sin novedades
 - 2026-10-15 00:15 · pidió unirse al fútbol intermedio del jueves en el Polideportivo Del Viso (nivel parejo)
 - 2026-10-15 16:14 · entró a mirar; no hizo nada
+- 2026-10-16 20:15 · pidió unirse al fútbol intermedio del martes 20 en Club Pilar (nivel parejo)

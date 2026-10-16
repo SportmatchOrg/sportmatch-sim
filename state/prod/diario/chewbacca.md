@@ -18,3 +18,4 @@
 - 2026-10-16 08:14 · armó un pádel INTERMEDIATE el miércoles 21 a las 20:00 en Pádel Point Pilar (le gusta conocer gente)
 - 2026-10-16 12:14 · miró partidos, ya está anotado a todo; solo leyó notificaciones
 - 2026-10-16 16:13 · leyó novedades; solo miró
+- 2026-10-16 20:14 · aceptó a Clark Kent en su pádel del miércoles; no hizo más

@@ -2375,8 +2375,12 @@
     "jugadores": [],
     "pendientes": [],
     "bajasSorteadas": false,
-    "asistencia": null,
-    "calificaran": [],
+    "asistencia": {
+      "sam.gamyi": true
+    },
+    "calificaran": [
+      "sam.gamyi"
+    ],
     "calificaron": [],
     "cancelado": false,
     "organizador": "sam.gamyi",
@@ -2458,9 +2462,20 @@
     ],
     "pendientes": [],
     "bajasSorteadas": false,
-    "asistencia": null,
-    "calificaran": [],
-    "calificaron": [],
+    "asistencia": {
+      "frodo.bolson": true,
+      "davy.jones": true,
+      "neo": true,
+      "milhouse.van.houten": false
+    },
+    "calificaran": [
+      "frodo.bolson",
+      "neo"
+    ],
+    "calificaron": [
+      "neo",
+      "frodo.bolson"
+    ],
     "cancelado": false,
     "organizador": "frodo.bolson",
     "fecha": "2026-10-16T23:00:00.000Z",
@@ -2533,7 +2548,7 @@
     "cupo": 5,
     "creado": "2026-10-13T15:13:35.165Z",
     "pendientesHumanos": 0,
-    "anotados": 2
+    "anotados": 3
   },
   "cmv72880f01q501ljfhuht2wu": {
     "jugadores": [
@@ -2557,8 +2572,12 @@
     "jugadores": [],
     "pendientes": [],
     "bajasSorteadas": false,
-    "asistencia": null,
-    "calificaran": [],
+    "asistencia": {
+      "elrond": true
+    },
+    "calificaran": [
+      "elrond"
+    ],
     "calificaron": [],
     "cancelado": false,
     "organizador": "elrond",
@@ -2633,7 +2652,7 @@
   "cmv7rxhdr01zg01ljlnubuszn": {
     "jugadores": [],
     "pendientes": [],
-    "bajasSorteadas": false,
+    "bajasSorteadas": true,
     "asistencia": null,
     "calificaran": [],
     "calificaron": [],
@@ -2738,10 +2757,11 @@
   },
   "cmv8ysnlb004301pigb7h94mk": {
     "jugadores": [
-      "bellatrix.lestrange"
+      "bellatrix.lestrange",
+      "scott.lang"
     ],
     "pendientes": [
-      "scott.lang"
+      "mace.windu"
     ],
     "bajasSorteadas": false,
     "asistencia": null,
@@ -2754,7 +2774,9 @@
     "cupo": 9,
     "creado": "2026-10-15T03:13:56.041Z",
     "pendientesHumanos": 0,
-    "anotados": 1
+    "anotados": 1,
+    "cancelSorteado": true,
+    "cancelar": false
   },
   "cmv9fy95q002e01mhq2y6wp6x": {
     "jugadores": [],
@@ -2778,7 +2800,9 @@
       "clark.kent",
       "marty.mcfly"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "sirius.black"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -2790,7 +2814,7 @@
     "cupo": 9,
     "creado": "2026-10-15T15:14:05.733Z",
     "pendientesHumanos": 0,
-    "anotados": 2
+    "anotados": 3
   },
   "cmv9sj8lo00sp01mhtrf0yhyt": {
     "jugadores": [],
@@ -2847,11 +2871,10 @@
   "cmvaeb21r02bs01mhrbg8wf7h": {
     "jugadores": [
       "frodo.bolson",
-      "bellatrix.lestrange"
-    ],
-    "pendientes": [
+      "bellatrix.lestrange",
       "george.weasley"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -2967,10 +2990,10 @@
     "anotados": 0
   },
   "cmvavf4kw02jx01mhw7w92pcl": {
-    "jugadores": [],
-    "pendientes": [
+    "jugadores": [
       "clark.kent"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -2997,7 +3020,8 @@
     "organizador": "humano:demo-user-bruno",
     "fecha": "2026-10-17T22:00:00.000Z",
     "deporte": "FUTBOL",
-    "cupo": 10
+    "cupo": 10,
+    "anotados": 3
   },
   "cmvbcijou02q201mhz2xb75yv": {
     "jugadores": [],
@@ -3011,6 +3035,24 @@
     "fecha": "2026-10-21T23:30:00.000Z",
     "deporte": "FUTBOL",
     "cupo": 9,
-    "creado": "2026-10-16T19:13:31.316Z"
+    "creado": "2026-10-16T19:13:31.316Z",
+    "pendientesHumanos": 0,
+    "anotados": 0
+  },
+  "demo-match-f08": {
+    "jugadores": [],
+    "pendientes": [
+      "sam.gamyi",
+      "theoden"
+    ],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "humano:cmv9kdfjl002r01mhqljmomj7",
+    "fecha": "2026-10-24T23:00:00.000Z",
+    "deporte": "FUTBOL",
+    "cupo": 10
   }
 }
