@@ -58,3 +58,4 @@
 - 2026-10-17 04:13 · armó un fútbol 5 para el martes 20 a las 20:30 en Nordelta; no había a quién calificar
 - 2026-10-17 08:13 · entró a calificar el partido pero no había a quién
 - 2026-10-17 12:16 · entró, no tenía a quién calificar; solo miró
+- 2026-10-17 16:12 · volvió a mirar; el partido por calificar no tenía a nadie

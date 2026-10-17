@@ -16,3 +16,4 @@
 - 2026-10-15 16:14 · entró a mirar; no hizo nada
 - 2026-10-17 08:14 · leyó una invitación de Harry Potter; no había a quién calificar
 - 2026-10-17 12:17 · entró temprano, nadie para calificar; solo miró
+- 2026-10-17 16:13 · entró temprano; ya tiene su pádel del domingo, no armó otro (el próximo finde queda lejos)

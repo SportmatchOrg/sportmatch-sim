@@ -40,3 +40,4 @@
 - 2026-10-16 20:15 · entró a mirar, sin novedades
 - 2026-10-17 00:15 · aceptó a Sirius en su fútbol
 - 2026-10-17 08:14 · aceptó a George Weasley en su fútbol
+- 2026-10-17 16:13 · aceptó a George Weasley en su fútbol del jueves y se anotó a su fútbol del miércoles en Club Pilar

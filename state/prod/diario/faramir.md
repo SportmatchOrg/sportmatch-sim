@@ -30,3 +30,4 @@
 - 2026-10-14 00:15 · (corrección) a Yoda lo aceptó en su pádel del domingo 18, no en el running
 - 2026-10-16 12:14 · miró partidos y leyó notificaciones; nada más
 - 2026-10-17 12:16 · calificó el running y armó otro trote para el domingo 18 a las 9 en Parque Pilar
+- 2026-10-17 16:14 · entró, solo miró

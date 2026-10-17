@@ -7,3 +7,4 @@
 - 2026-10-15 12:13 · leyó que Nemo le aceptó el fútbol del sábado; no hizo más
 - 2026-10-16 20:15 · entró a mirar; sin solicitudes nuevas
 - 2026-10-17 12:18 · calificó el fútbol y canceló su fútbol ADVANCED del domingo porque no se llenó
+- 2026-10-17 16:13 · armó un pádel ADVANCED para el sábado 24 a las 10 en Pádel Point Pilar
