@@ -40,3 +40,4 @@
 - 2026-10-13 20:11 · pidió unirse al fútbol del miércoles en River Courts (le queda en CABA)
 - 2026-10-15 00:12 · pidió unirse al fútbol de Frodo del vie 16/10 en Nordelta
 - 2026-10-17 00:13 · calificó el fútbol jugado (todos bien); miró partidos y no encontró nada que le quede en CABA
+- 2026-10-17 20:12 · miró partidos; no hay fútbol en CABA, no se anotó a nada

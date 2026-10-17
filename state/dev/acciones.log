@@ -674,3 +674,24 @@
 2026-10-17T19:11:25.725Z anakin.skywalker leer-notificaciones 1
 2026-10-17T19:11:39.465Z anakin.skywalker unirse cmvae6mab00j501o33qljfo0o
 2026-10-17T19:11:41.648Z simba unirse cmvavb6fg00r301o31speemun
+2026-10-17T23:10:35.128Z sorteo cmv7aouij009b01qge2wtga8z faltaron=[] calificaran=[lois.lane,bellatrix.lestrange,frodo.bolson]
+2026-10-17T23:10:38.193Z sorteo cmv8q5fst00z501qg4dk8zoyd faltaron=[steve.rogers] calificaran=[lois.lane,george.weasley,bellatrix.lestrange,pippin.tuk,clark.kent]
+2026-10-17T23:11:08.115Z pippin.tuk calificar cmv8q5fst00z501qg4dk8zoyd ratings=2 noShows=1
+2026-10-17T23:11:10.280Z pippin.tuk unirse cmvcaro5g00hk01nzmdjiwvfd
+2026-10-17T23:11:20.678Z bellatrix.lestrange calificar cmv7aouij009b01qge2wtga8z ratings=3 noShows=0
+2026-10-17T23:11:22.927Z bellatrix.lestrange calificar cmv8q5fst00z501qg4dk8zoyd ratings=3 noShows=1
+2026-10-17T23:11:25.089Z bellatrix.lestrange unirse cmvavch6u00rw01o3johm4rmu
+2026-10-17T23:11:27.296Z mace.windu leer-notificaciones 1
+2026-10-17T23:11:32.772Z mace.windu aceptar cmvae6mab00j501o33qljfo0o anakin.skywalker
+2026-10-17T23:11:42.046Z neo leer-notificaciones 1
+2026-10-17T23:11:49.762Z lois.lane calificar cmv7aouij009b01qge2wtga8z ratings=3 noShows=0
+2026-10-17T23:11:51.990Z lois.lane calificar cmv8q5fst00z501qg4dk8zoyd ratings=3 noShows=1
+2026-10-17T23:11:54.246Z lois.lane crear cmvd0gyj400tt01nzf7jk3gx2 FUTBOL 2026-10-22T23:30:00.000Z
+2026-10-17T23:11:56.505Z neo aceptar cmvavb6fg00r301o31speemun simba
+2026-10-17T23:12:09.621Z frodo.bolson calificar cmv7aouij009b01qge2wtga8z ratings=3 noShows=0
+2026-10-17T23:12:11.873Z clark.kent calificar cmv8q5fst00z501qg4dk8zoyd ratings=3 noShows=1
+2026-10-17T23:12:19.755Z george.weasley calificar cmv8q5fst00z501qg4dk8zoyd ratings=2 noShows=1
+2026-10-17T23:12:22.352Z george.weasley unirse cmvcaro5g00hk01nzmdjiwvfd
+2026-10-17T23:12:28.423Z dory leer-notificaciones 2
+2026-10-17T23:12:31.794Z gimli leer-notificaciones 1
+2026-10-17T23:12:36.928Z dory aceptar cmvcaro5g00hk01nzmdjiwvfd pippin.tuk

@@ -13,3 +13,4 @@
 - 2026-10-17 08:12 · entró y solo miró; sin novedades
 - 2026-10-17 12:14 · calificó el básquet; solo miró
 - 2026-10-17 16:11 · miró la app, sin novedades
+- 2026-10-17 20:12 · calificó el fútbol (4–5); después solo miró

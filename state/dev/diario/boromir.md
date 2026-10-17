@@ -10,3 +10,4 @@
 - 2026-10-15 20:11 · calificó el fútbol y leyó las notificaciones; hoy solo miró
 - 2026-10-16 08:12 · miró partidos; ya tiene varios pedidos en curso, no sumó nada más
 - 2026-10-16 16:11 · miró partidos; tiene varios pedidos en curso, no sumó nada
+- 2026-10-17 20:12 · miró la app y leyó notificaciones; ya tiene pedidos en curso

@@ -80,3 +80,4 @@
 - 2026-10-16 00:12 · calificó el fútbol y pidió unirse a los de George y Lois en Del Viso
 - 2026-10-17 00:13 · calificó los tres partidos jugados, casi todo 4–5
 - 2026-10-17 12:12 · calificó los tres partidos jugados, casi todo 4–5
+- 2026-10-17 20:11 · calificó dos partidos (4–5) y pidió unirse al pádel de Sam en Club Belgrano

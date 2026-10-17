@@ -1,1 +1,2 @@
 - 2026-10-16 04:12 · primera vez en la app: pidió unirse al tenis del sábado en River Courts
+- 2026-10-17 20:12 · entró a mirar, sin novedades

@@ -5,3 +5,4 @@
 - 2026-10-17 04:11 · pidió unirse al básquet del miércoles en Campus Austral (tarde libre)
 - 2026-10-17 08:12 · pidió unirse al fútbol de Lois del sábado 19:30 en Club Pilar; fue aceptado por Neo en el básquet
 - 2026-10-17 16:11 · miró partidos y leyó notificaciones; ya tiene pedidos hechos, no se anotó a otro
+- 2026-10-17 20:12 · calificó el fútbol del sábado; después solo miró

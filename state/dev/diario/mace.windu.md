@@ -54,3 +54,4 @@
 - 2026-10-16 20:12 · miró la app, sin novedades
 - 2026-10-17 00:13 · calificó el fútbol jugado, todos bien
 - 2026-10-17 16:11 · organizó un fútbol 5 para el miércoles 21/10 a la noche en Nordelta
+- 2026-10-17 20:11 · aceptó a Anakin en su pádel del martes en Tigre
