@@ -557,3 +557,32 @@
 2026-10-17T11:14:32.479Z lisa.simpson unirse cmvaebke902ch01mh99ykt6i4
 2026-10-17T11:14:38.450Z jack.sparrow leer-notificaciones 1
 2026-10-17T11:14:48.743Z albus.dumbledore crear cmvcaurva034f01mhdifp4x7w TENIS 2026-10-22T23:00:00.000Z
+2026-10-17T15:15:13.386Z sorteo cmv3ysj9p00ja01lj5l1k0vty faltaron=[jaime.lannister] calificaran=[faramir,montgomery.burns,tchalla]
+2026-10-17T15:15:14.004Z sorteo cmv3yt4td00k801lji8csv0y7 faltaron=[fred.weasley] calificaran=[nemo,rubeus.hagrid,pippin.tuk,barney.gumble]
+2026-10-17T15:15:14.651Z sorteo cmv3ytka200ku01ljt7fifemu faltaron=[] calificaran=[hermione.granger]
+2026-10-17T15:15:15.272Z sorteo cmv47ap9q00o401lj6xtldpxk faltaron=[] calificaran=[molly.weasley]
+2026-10-17T15:15:17.017Z sorteo cmv4x2r3h00xb01lja2jglpyi faltaron=[] calificaran=[jack.sparrow,chewbacca,yoda]
+2026-10-17T15:15:18.749Z sorteo cmv6ci64y01fi01ljirec25pt faltaron=[] calificaran=[barney.gumble]
+2026-10-17T15:15:22.663Z sorteo cmv7rx3uj01z601ljn6pwmjja faltaron=[mace.windu] calificaran=[frodo.bolson,george.weasley]
+2026-10-17T15:16:14.090Z yoda calificar cmv4x2r3h00xb01lja2jglpyi ratings=2 noShows=0
+2026-10-17T15:16:16.411Z pippin.tuk calificar cmv3yt4td00k801lji8csv0y7 ratings=2 noShows=1
+2026-10-17T15:16:18.720Z rubeus.hagrid calificar cmv3yt4td00k801lji8csv0y7 ratings=2 noShows=1
+2026-10-17T15:16:30.776Z pippin.tuk unirse cmvbcijou02q201mhz2xb75yv
+2026-10-17T15:16:42.124Z faramir calificar cmv3ysj9p00ja01lj5l1k0vty ratings=2 noShows=1
+2026-10-17T15:16:44.331Z faramir crear cmvcjhw5a037i01mhn6houf3d RUNNING 2026-10-18T12:00:00.000Z
+2026-10-17T15:16:53.684Z montgomery.burns calificar cmv3ysj9p00ja01lj5l1k0vty ratings=2 noShows=1
+2026-10-17T15:17:03.239Z nemo calificar cmv3yt4td00k801lji8csv0y7 ratings=3 noShows=1
+2026-10-17T15:17:05.533Z hermione.granger calificar cmv3ytka200ku01ljt7fifemu ratings=2 noShows=0
+2026-10-17T15:17:07.877Z sam.gamyi leer-notificaciones 1
+2026-10-17T15:17:16.638Z sam.gamyi aceptar cmvaebke902ch01mh99ykt6i4 lisa.simpson
+2026-10-17T15:17:26.812Z molly.weasley calificar cmv47ap9q00o401lj6xtldpxk ratings=1 noShows=0
+2026-10-17T15:17:29.439Z chewbacca calificar cmv4x2r3h00xb01lja2jglpyi ratings=2 noShows=0
+2026-10-17T15:17:37.400Z jack.sparrow calificar cmv4x2r3h00xb01lja2jglpyi ratings=2 noShows=0
+2026-10-17T15:17:48.375Z frodo.bolson calificar cmv7rx3uj01z601ljn6pwmjja ratings=2 noShows=1
+2026-10-17T15:17:50.608Z frodo.bolson crear cmvcjjbb3039001mhtdal6okk BASQUET 2026-10-20T23:30:00.000Z
+2026-10-17T15:18:06.582Z tchalla calificar cmv3ysj9p00ja01lj5l1k0vty ratings=3 noShows=1
+2026-10-17T15:18:21.108Z barney.gumble calificar cmv3yt4td00k801lji8csv0y7 ratings=2 noShows=1
+2026-10-17T15:18:22.444Z barney.gumble cancelar cmv7ryaik01zz01ljc729mz0u
+2026-10-17T15:18:24.791Z george.weasley calificar cmv7rx3uj01z601ljn6pwmjja ratings=2 noShows=1
+2026-10-17T15:18:27.053Z george.weasley aceptar cmvbcijou02q201mhz2xb75yv pippin.tuk
+2026-10-17T15:18:29.260Z george.weasley unirse cmvaecavm02d801mhnesc4em5

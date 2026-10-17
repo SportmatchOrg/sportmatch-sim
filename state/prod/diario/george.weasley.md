@@ -3,3 +3,4 @@
 - 2026-10-16 00:17 · calificó el fútbol y pidió unirse al del sábado 17 a la mañana en Nordelta (se anota a todo)
 - 2026-10-16 16:13 · armó un fútbol para el miércoles 21 en Club Pilar y pidió unirse al de Mace en Nordelta
 - 2026-10-17 04:14 · pidió unirse al fútbol del martes 20 en Club Pilar (se anota a todo)
+- 2026-10-17 12:18 · calificó el fútbol, aceptó a Pippin en el suyo y se anotó al de Lois del jueves en Club Pilar

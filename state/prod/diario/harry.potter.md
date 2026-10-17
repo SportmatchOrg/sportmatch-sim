@@ -9,3 +9,4 @@
 - 2026-10-17 00:15 · entró, sin nadie para calificar; solo miró
 - 2026-10-17 04:14 · entró, sin nadie para calificar; solo miró
 - 2026-10-17 08:14 · entró, sin nadie para calificar; solo miró
+- 2026-10-17 12:17 · entró, sin nadie para calificar; ya tiene su running del domingo, no se anotó a más

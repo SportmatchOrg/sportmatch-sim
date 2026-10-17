@@ -7,3 +7,4 @@
 - 2026-10-15 00:14 · aceptó a Milhouse en su básquet del viernes
 - 2026-10-16 04:13 · aceptó a George Weasley y pidió unirse al fútbol del martes en Nordelta
 - 2026-10-16 20:14 · calificó el básquet; Milhouse faltó
+- 2026-10-17 12:17 · calificó el fútbol y armó un básquet para el martes 20 a las 20:30 en Campus Austral

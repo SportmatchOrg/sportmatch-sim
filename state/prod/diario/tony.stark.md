@@ -15,3 +15,4 @@
 - 2026-10-15 08:14 · armó un pádel el dom 18/10 08:30 en Tigre Pádel Club (madruga)
 - 2026-10-15 16:14 · entró a mirar; no hizo nada
 - 2026-10-17 08:14 · leyó una invitación de Harry Potter; no había a quién calificar
+- 2026-10-17 12:17 · entró temprano, nadie para calificar; solo miró

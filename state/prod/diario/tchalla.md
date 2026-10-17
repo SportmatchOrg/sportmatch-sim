@@ -2,3 +2,4 @@
 - 2026-10-13 04:14 · pidió unirse al running del domingo 18 a la mañana en Parque Pilar
 - 2026-10-14 16:14 · leyó que Molly le aceptó el running; no hizo más
 - 2026-10-17 04:14 · leyó notificaciones y miró running en el norte; nada que le cierre, no se anotó
+- 2026-10-17 12:18 · calificó el running; no encontró nada en el norte, no se anotó

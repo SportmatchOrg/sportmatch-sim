@@ -8,3 +8,4 @@
 - 2026-10-13 16:14 · pidió unirse al pádel del domingo 18 a la mañana en Pádel Point Pilar
 - 2026-10-16 08:15 · vio que Faramir lo aceptó en el pádel; no hizo más
 - 2026-10-17 08:14 · ya tiene pedidos varios pádel del finde; hoy solo miró
+- 2026-10-17 12:16 · calificó el pádel; no se anotó a nada más

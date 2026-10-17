@@ -32,3 +32,4 @@
 - 2026-10-15 04:14 · aceptó a Wall-E y Jon Snow en su fútbol del sábado
 - 2026-10-15 12:13 · aceptó a Barney en su fútbol del sábado; no se anotó a nada más
 - 2026-10-16 08:15 · entró a mirar; ya está en sus partidos del finde, no hizo más
+- 2026-10-17 12:17 · calificó el fútbol; ya tiene sus partidos del finde, no se anotó a más
