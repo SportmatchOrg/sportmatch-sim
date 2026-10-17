@@ -55,3 +55,4 @@
 - 2026-10-16 20:13 · aceptó a Scott Lang en su partido; el fútbol jugado no tenía a nadie para calificar
 - 2026-10-16 20:14 · ahora sí: aceptó a Scott Lang en su partido
 - 2026-10-17 00:15 · aceptó a Mace Windu en su partido; no había a quién calificar
+- 2026-10-17 04:13 · armó un fútbol 5 para el martes 20 a las 20:30 en Nordelta; no había a quién calificar

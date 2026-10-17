@@ -49,3 +49,4 @@
 - 2026-10-16 00:16 · calificó el fútbol y armó un pádel BEGINNER para el lunes 19 a las 20:00 en Club Belgrano
 - 2026-10-16 20:14 · sin nadie para calificar; pidió unirse al fútbol BEGINNER del sábado 24 en Complejo Del Este
 - 2026-10-17 00:15 · sin nadie para calificar; miró partidos y no se anotó a nada más
+- 2026-10-17 04:13 · aceptó a Bellatrix en su pádel del lunes; miró partidos y nada de CABA a su nivel, no se anotó

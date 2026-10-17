@@ -1,1 +1,2 @@
 - 2026-10-12 04:14 · primera vez en la app, miró y no se anotó
+- 2026-10-17 04:14 · entró a mirar; nada para hacer

@@ -2611,11 +2611,10 @@
   "cmv7jgsyf01x201lj1y6854rh": {
     "jugadores": [
       "rex",
-      "boromir"
-    ],
-    "pendientes": [
+      "boromir",
       "milhouse.van.houten"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -2777,7 +2776,7 @@
     "cupo": 9,
     "creado": "2026-10-15T03:13:56.041Z",
     "pendientesHumanos": 0,
-    "anotados": 2,
+    "anotados": 3,
     "cancelSorteado": true,
     "cancelar": false
   },
@@ -2804,7 +2803,9 @@
       "marty.mcfly",
       "sirius.black"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "george.weasley"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -2816,7 +2817,7 @@
     "cupo": 9,
     "creado": "2026-10-15T15:14:05.733Z",
     "pendientesHumanos": 0,
-    "anotados": 3
+    "anotados": 4
   },
   "cmv9sj8lo00sp01mhtrf0yhyt": {
     "jugadores": [],
@@ -2841,7 +2842,8 @@
   "demo-match-f04": {
     "jugadores": [],
     "pendientes": [
-      "galadriel"
+      "galadriel",
+      "marge.simpson"
     ],
     "bajasSorteadas": false,
     "asistencia": null,
@@ -2891,10 +2893,10 @@
     "anotados": 3
   },
   "cmvaebke902ch01mh99ykt6i4": {
-    "jugadores": [],
-    "pendientes": [
+    "jugadores": [
       "bellatrix.lestrange"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -2928,10 +2930,10 @@
     "anotados": 2
   },
   "cmvaecg3d02dj01mhmdd8w549": {
-    "jugadores": [],
-    "pendientes": [
+    "jugadores": [
       "boromir"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -3074,6 +3076,22 @@
     "fecha": "2026-10-22T23:30:00.000Z",
     "deporte": "PADEL",
     "cupo": 3,
-    "creado": "2026-10-17T03:15:32.706Z"
+    "creado": "2026-10-17T03:15:32.706Z",
+    "pendientesHumanos": 0,
+    "anotados": 0
+  },
+  "cmvc287m702zu01mhkmn5hif8": {
+    "jugadores": [],
+    "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "elrond",
+    "fecha": "2026-10-20T23:30:00.000Z",
+    "deporte": "FUTBOL",
+    "cupo": 9,
+    "creado": "2026-10-17T07:13:19.133Z"
   }
 }

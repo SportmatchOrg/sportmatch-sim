@@ -24,3 +24,4 @@
 - 2026-10-15 08:14 · entró, no había nada de running que le sirviera; solo miró
 - 2026-10-16 00:16 · aceptó a Montgomery Burns en su running del sábado
 - 2026-10-16 00:16 · (corrección) ahora sí aceptó a Montgomery Burns en su running del sábado
+- 2026-10-17 04:14 · miró partidos de running; nada que cumpla su nivel, no se anotó

@@ -1,0 +1,1 @@
+- 2026-10-17 04:14 · primera vez en la app: pidió unirse al básquet del martes en Club Palermo (quiere conocer gente)
