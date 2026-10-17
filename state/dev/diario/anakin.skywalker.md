@@ -1,1 +1,2 @@
 - 2026-10-17 08:12 · primera vez: pidió unirse al pádel del domingo 10:30 en Pádel Point Pilar (cerca de casa)
+- 2026-10-17 16:11 · pidió unirse al pádel del martes en Tigre Pádel Club (le gusta conocer gente)

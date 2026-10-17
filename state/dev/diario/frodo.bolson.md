@@ -12,3 +12,4 @@
 - 2026-10-17 04:12 · armó un fútbol INTERMEDIATE el mié 21/10 21:00 en Fútbol 5 Nordelta
 - 2026-10-17 08:12 · entró y solo miró; sin novedades
 - 2026-10-17 12:14 · calificó el básquet; solo miró
+- 2026-10-17 16:11 · miró la app, sin novedades

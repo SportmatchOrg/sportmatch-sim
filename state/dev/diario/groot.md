@@ -1,0 +1,1 @@
+- 2026-10-17 16:11 · miró la app, sin novedades

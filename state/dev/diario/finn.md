@@ -7,3 +7,4 @@
 - 2026-10-17 00:13 · aceptó a Jon Snow en el fútbol ADVANCED del sábado
 - 2026-10-17 04:12 · miró la app, sin novedades
 - 2026-10-17 12:14 · calificó el fútbol; ya tiene sus dos fútbol armados, nada más
+- 2026-10-17 16:11 · miró la app, esperando el finde

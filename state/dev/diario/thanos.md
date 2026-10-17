@@ -1,3 +1,4 @@
 - 2026-10-15 20:12 · primera vez en la app: se anotó al tenis del viernes de noche en Tigre Pádel Club
 - 2026-10-16 20:11 · calificó el partido y armó un singles de tenis el miércoles de noche en Tigre
 - 2026-10-16 20:11 · corrección: el singles no salió; armó dobles de tenis el miércoles de noche en Tigre
+- 2026-10-17 16:11 · entró de noche a mirar, no vio tenis

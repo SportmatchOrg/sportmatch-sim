@@ -2055,7 +2055,7 @@
       "sam.gamyi",
       "tyrion.lannister"
     ],
-    "bajasSorteadas": false,
+    "bajasSorteadas": true,
     "asistencia": null,
     "calificaran": [],
     "calificaron": [],
@@ -2811,7 +2811,7 @@
     "cupo": 9,
     "creado": "2026-10-14T23:11:55.840Z",
     "pendientesHumanos": 0,
-    "anotados": 6
+    "anotados": 7
   },
   "cmv8yqkrb013y01qgvbk8z1g3": {
     "jugadores": [
@@ -2870,11 +2870,10 @@
   "cmv9x0c7k009e01o3i7wjn38y": {
     "jugadores": [
       "davy.jones",
-      "jack.sparrow"
-    ],
-    "pendientes": [
+      "jack.sparrow",
       "quigon.jinn"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -2908,7 +2907,9 @@
   },
   "cmvae6mab00j501o33qljfo0o": {
     "jugadores": [],
-    "pendientes": [],
+    "pendientes": [
+      "anakin.skywalker"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -2963,7 +2964,9 @@
     "jugadores": [
       "clark.kent"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "simba"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -3047,7 +3050,7 @@
     "cupo": 3,
     "creado": "2026-10-16T15:11:43.402Z",
     "pendientesHumanos": 0,
-    "anotados": 0,
+    "anotados": 1,
     "cancelSorteado": true,
     "cancelar": false
   },
@@ -3150,5 +3153,19 @@
     "creado": "2026-10-17T11:12:24.020Z",
     "pendientesHumanos": 0,
     "anotados": 0
+  },
+  "cmvcrvkak00qb01nz1a4mqgmm": {
+    "jugadores": [],
+    "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "mace.windu",
+    "fecha": "2026-10-22T00:00:00.000Z",
+    "deporte": "FUTBOL",
+    "cupo": 9,
+    "creado": "2026-10-17T19:11:19.064Z"
   }
 }
