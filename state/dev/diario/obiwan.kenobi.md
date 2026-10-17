@@ -7,3 +7,4 @@
 - 2026-10-15 20:12 · leyó notificaciones, hoy solo miró
 - 2026-10-16 04:12 · pidió unirse al fútbol INTERMEDIATE del viernes en Nordelta de Frodo
 - 2026-10-16 12:11 · miró la app, sin novedades
+- 2026-10-17 00:13 · calificó generoso el fútbol y pidió unirse al fútbol del martes en Nordelta

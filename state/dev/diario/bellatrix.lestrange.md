@@ -78,3 +78,4 @@
 - 2026-10-15 08:12 · pidió unirse al fútbol de Lois del sábado
 - 2026-10-15 16:12 · miró partidos, nada en CABA para anotarse
 - 2026-10-16 00:12 · calificó el fútbol y pidió unirse a los de George y Lois en Del Viso
+- 2026-10-17 00:13 · calificó los tres partidos jugados, casi todo 4–5

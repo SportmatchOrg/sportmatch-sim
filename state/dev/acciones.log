@@ -564,3 +564,28 @@
 2026-10-16T23:12:29.869Z john.wick leer-notificaciones 1
 2026-10-16T23:12:33.492Z barney.gumble leer-notificaciones 1
 2026-10-16T23:12:36.033Z scott.lang leer-notificaciones 1
+2026-10-17T03:10:45.982Z sorteo cmv5e4oiz00e801mr66hgx3l5 faltaron=[] calificaran=[steve.rogers,hermione.granger,hector.barbossa]
+2026-10-17T03:10:47.698Z sorteo cmv6ceiq200qr01mrbmghh3f0 faltaron=[] calificaran=[mace.windu,bellatrix.lestrange,gimli,obiwan.kenobi]
+2026-10-17T03:10:52.025Z sorteo cmv7j9je200dc01qgy6gpmj1g faltaron=[] calificaran=[elrond,bellatrix.lestrange,george.weasley]
+2026-10-17T03:10:58.303Z sorteo cmv8yqkrb013y01qgvbk8z1g3 faltaron=[fred.weasley] calificaran=[george.weasley,pippin.tuk,bellatrix.lestrange]
+2026-10-17T03:11:51.593Z gimli calificar cmv6ceiq200qr01mrbmghh3f0 ratings=3 noShows=0
+2026-10-17T03:11:54.435Z elrond calificar cmv7j9je200dc01qgy6gpmj1g ratings=3 noShows=0
+2026-10-17T03:11:56.850Z pippin.tuk calificar cmv8yqkrb013y01qgvbk8z1g3 ratings=2 noShows=1
+2026-10-17T03:11:59.190Z steve.rogers calificar cmv5e4oiz00e801mr66hgx3l5 ratings=3 noShows=0
+2026-10-17T03:12:17.038Z bellatrix.lestrange calificar cmv6ceiq200qr01mrbmghh3f0 ratings=3 noShows=0
+2026-10-17T03:12:19.693Z bellatrix.lestrange calificar cmv7j9je200dc01qgy6gpmj1g ratings=3 noShows=0
+2026-10-17T03:12:22.284Z bellatrix.lestrange calificar cmv8yqkrb013y01qgvbk8z1g3 ratings=2 noShows=1
+2026-10-17T03:12:24.892Z george.weasley calificar cmv7j9je200dc01qgy6gpmj1g ratings=3 noShows=0
+2026-10-17T03:12:27.515Z george.weasley calificar cmv8yqkrb013y01qgvbk8z1g3 ratings=2 noShows=1
+2026-10-17T03:12:40.620Z mace.windu calificar cmv6ceiq200qr01mrbmghh3f0 ratings=3 noShows=0
+2026-10-17T03:12:42.878Z hermione.granger calificar cmv5e4oiz00e801mr66hgx3l5 ratings=3 noShows=0
+2026-10-17T03:12:45.187Z obiwan.kenobi calificar cmv6ceiq200qr01mrbmghh3f0 ratings=3 noShows=0
+2026-10-17T03:12:47.535Z hector.barbossa calificar cmv5e4oiz00e801mr66hgx3l5 ratings=3 noShows=0
+2026-10-17T03:13:01.497Z molly.weasley aceptar cmv478u3w00mq01nqlps0i6xv eowyn
+2026-10-17T03:13:03.856Z barney.gumble rechazar cmvavbojv00rf01o34iypk759 yoda
+2026-10-17T03:13:06.169Z finn aceptar cmv89035w00sl01qgtopo7q2i jon.snow
+2026-10-17T03:13:14.208Z pippin.tuk unirse cmv8q5fst00z501qg4dk8zoyd
+2026-10-17T03:13:18.764Z obiwan.kenobi unirse cmvbl0jnc004h01nz7n93ckzd
+2026-10-17T03:13:21.093Z elrond unirse cmvamqipi00om01o3edjmfqtp
+2026-10-17T03:13:27.629Z elrond crear cmvbtnr1h00b001nzp1djski7 TENIS 2026-10-22T23:00:00.000Z
+2026-10-17T03:13:30.044Z barney.gumble crear cmvbtnswr00b301nz761d9h3l BASQUET 2026-10-18T12:30:00.000Z

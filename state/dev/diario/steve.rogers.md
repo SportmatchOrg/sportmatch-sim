@@ -92,3 +92,4 @@
 - 2026-10-15 16:12 · aceptó a Héctor y pidió unirse al fútbol INTERMEDIATE de Lois del sábado en Club Pilar
 - 2026-10-16 00:12 · calificó el fútbol del jueves
 - 2026-10-16 12:11 · miró la app, sin novedades
+- 2026-10-17 00:13 · calificó el fútbol jugado (4, 4 y 3)

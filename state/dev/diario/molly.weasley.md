@@ -12,3 +12,4 @@
 - 2026-10-15 16:12 · aceptó a Obi-Wan y armó un running BEGINNER para el dom 18/10 09:00 en Campus Austral
 - 2026-10-16 04:11 · aceptó a Davy Jones en su running del domingo
 - 2026-10-16 08:11 · aceptó a Jack Sparrow en su running del domingo
+- 2026-10-17 00:13 · aceptó la solicitud de Éowyn al running del sábado

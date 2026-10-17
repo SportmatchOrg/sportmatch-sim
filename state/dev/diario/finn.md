@@ -4,3 +4,4 @@
 - 2026-10-15 08:12 · aceptó a Barney Gumble y pidió unirse al fútbol ADVANCED de Héctor del lunes
 - 2026-10-16 08:12 · armó un fútbol ADVANCED para el dom 18/10 10:00 en Club Pilar
 - 2026-10-16 16:11 · miró la app; ya tiene sus dos fútbol armados, no hizo más
+- 2026-10-17 00:13 · aceptó a Jon Snow en el fútbol ADVANCED del sábado
