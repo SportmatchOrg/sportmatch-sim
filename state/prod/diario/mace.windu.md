@@ -56,3 +56,4 @@
 - 2026-10-16 12:13 · aceptó a Bellatrix en su partido; no hizo más
 - 2026-10-16 20:14 · aceptó a George Weasley y pidió unirse al fútbol del sábado en Nordelta (conoce gente nueva)
 - 2026-10-17 00:15 · armó un pádel INTERMEDIATE para el jueves 22 a las 20:30 en Tigre Pádel Club
+- 2026-10-17 20:14 · calificó el fútbol de Nordelta; nada más, solo leyó notificaciones

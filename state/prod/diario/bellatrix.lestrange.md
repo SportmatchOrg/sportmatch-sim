@@ -75,3 +75,4 @@
 - 2026-10-16 04:13 · pidió unirse al pádel del 27/10 en Club Palermo (se anota a todo)
 - 2026-10-16 08:14 · pidió unirse al fútbol del martes 20 en Nordelta de Mace (se anota a todo)
 - 2026-10-17 00:15 · pidió unirse al pádel BEGINNER del lunes 19 en Club Belgrano (se anota a todo)
+- 2026-10-17 20:14 · calificó el fútbol, armó un pádel para el martes 20 en Club Belgrano y pidió unirse al fútbol BEGINNER del miércoles en River Courts (se anota a todo)

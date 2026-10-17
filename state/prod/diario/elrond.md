@@ -59,3 +59,4 @@
 - 2026-10-17 08:13 · entró a calificar el partido pero no había a quién
 - 2026-10-17 12:16 · entró, no tenía a quién calificar; solo miró
 - 2026-10-17 16:12 · volvió a mirar; el partido por calificar no tenía a nadie
+- 2026-10-17 20:13 · calificó el fútbol de Nordelta: buen nivel y gente puntual

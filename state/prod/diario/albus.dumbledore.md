@@ -25,3 +25,4 @@
 - 2026-10-15 20:14 · canceló su partido porque no se llenaba
 - 2026-10-16 00:16 · calificó a Ron; nada más por hoy
 - 2026-10-17 08:14 · armó un tenis dobles INTERMEDIATE el jueves 22 a las 20:00 en Tigre (para conocer gente nueva)
+- 2026-10-17 20:14 · aceptó a Boromir en su tenis del jueves

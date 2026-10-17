@@ -2,3 +2,4 @@
 - 2026-10-14 12:14 · pidió unirse al running BEGINNER del lunes en la Costanera (recién empieza)
 - 2026-10-14 16:14 · pidió unirse al básquet del lunes 19 de Neo (sociable)
 - 2026-10-15 00:15 · leyó que Neo lo aceptó en el básquet; solo miró
+- 2026-10-17 20:14 · pidió unirse al fútbol BEGINNER del miércoles en River Courts (recién empieza)

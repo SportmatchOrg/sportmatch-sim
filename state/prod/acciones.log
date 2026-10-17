@@ -598,3 +598,18 @@
 2026-10-17T19:13:56.755Z george.weasley aceptar cmvbcijou02q201mhz2xb75yv lois.lane
 2026-10-17T19:14:01.925Z rubeus.hagrid unirse cmv9oisge00q601mhb3aaso2h
 2026-10-17T19:14:07.228Z boromir unirse cmvcaurva034f01mhdifp4x7w
+2026-10-17T23:13:10.848Z sorteo cmv8ysnlb004301pigb7h94mk faltaron=[] calificaran=[elrond,bellatrix.lestrange,mace.windu]
+2026-10-17T23:13:43.585Z elrond calificar cmv8ysnlb004301pigb7h94mk ratings=3 noShows=0
+2026-10-17T23:13:49.013Z bellatrix.lestrange leer-notificaciones 1
+2026-10-17T23:13:51.828Z mace.windu leer-notificaciones 1
+2026-10-17T23:13:57.653Z bellatrix.lestrange calificar cmv8ysnlb004301pigb7h94mk ratings=3 noShows=0
+2026-10-17T23:13:59.653Z mace.windu calificar cmv8ysnlb004301pigb7h94mk ratings=3 noShows=0
+2026-10-17T23:14:04.910Z bellatrix.lestrange crear cmvd0jre203fp01mhns5w2wgg PADEL 2026-10-20T23:00:00.000Z
+2026-10-17T23:14:06.750Z bellatrix.lestrange unirse cmvcry1d503by01mhluiefpid
+2026-10-17T23:14:13.117Z steve.rogers cancelar cmv893biw026e01ljx8n6ut2i
+2026-10-17T23:14:15.106Z sam.gamyi leer-notificaciones 1
+2026-10-17T23:14:25.243Z lois.lane leer-notificaciones 2
+2026-10-17T23:14:30.029Z lois.lane aceptar cmv9oisge00q601mhb3aaso2h rubeus.hagrid
+2026-10-17T23:14:33.530Z albus.dumbledore leer-notificaciones 1
+2026-10-17T23:14:38.674Z albus.dumbledore aceptar cmvcaurva034f01mhdifp4x7w boromir
+2026-10-17T23:14:51.560Z rex unirse cmvcry1d503by01mhluiefpid
