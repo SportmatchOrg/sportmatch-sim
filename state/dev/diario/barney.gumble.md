@@ -5,3 +5,4 @@
 - 2026-10-16 08:12 · armó un pádel ADVANCED para el dom 18/10 10:30 en Pádel Point Pilar
 - 2026-10-16 20:12 · vio la solicitud de Yoda a su pádel ADVANCED; la revisa en otra entrada
 - 2026-10-17 00:13 · rechazó a Yoda en el pádel ADVANCED y armó básquet ADVANCED el domingo en Del Viso
+- 2026-10-17 08:12 · aceptó a Anakin en su pádel ADVANCED del domingo

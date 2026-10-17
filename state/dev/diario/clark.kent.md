@@ -3,3 +3,4 @@
 - 2026-10-13 04:12 · lo aceptaron en el fútbol de Hermione del sábado; no se anotó a más
 - 2026-10-14 16:11 · pidió unirse al fútbol del jueves en Club Pilar (tiene las tardes libres)
 - 2026-10-17 04:11 · pidió unirse al básquet del miércoles en Campus Austral (tarde libre)
+- 2026-10-17 08:12 · pidió unirse al fútbol de Lois del sábado 19:30 en Club Pilar; fue aceptado por Neo en el básquet

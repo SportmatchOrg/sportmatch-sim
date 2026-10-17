@@ -16,3 +16,4 @@
 - 2026-10-15 20:11 · aceptó a Yoda en su pádel del sábado temprano
 - 2026-10-16 12:11 · armó un pádel para el domingo 18/10 a las 8 en Tigre (madruga)
 - 2026-10-16 20:12 · miró la app, sin novedades
+- 2026-10-17 08:11 · calificó el pádel jugado; ya tiene armado el del domingo, no armó otro

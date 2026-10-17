@@ -2068,11 +2068,10 @@
   },
   "cmv38y7e000bl01nqmgrwz9zs": {
     "jugadores": [
-      "eowyn",
       "bellatrix.lestrange"
     ],
     "pendientes": [],
-    "bajasSorteadas": false,
+    "bajasSorteadas": true,
     "asistencia": null,
     "calificaran": [],
     "calificaron": [],
@@ -2152,11 +2151,10 @@
     "jugadores": [
       "montgomery.burns",
       "davy.jones",
-      "fred.weasley",
       "eowyn"
     ],
     "pendientes": [],
-    "bajasSorteadas": false,
+    "bajasSorteadas": true,
     "asistencia": null,
     "calificaran": [],
     "calificaron": [],
@@ -2175,13 +2173,11 @@
       "harry.potter",
       "fred.weasley",
       "pippin.tuk",
-      "jon.snow",
-      "walle",
       "clark.kent",
       "bellatrix.lestrange"
     ],
     "pendientes": [],
-    "bajasSorteadas": false,
+    "bajasSorteadas": true,
     "asistencia": null,
     "calificaran": [],
     "calificaron": [],
@@ -2201,7 +2197,7 @@
       "eowyn"
     ],
     "pendientes": [],
-    "bajasSorteadas": false,
+    "bajasSorteadas": true,
     "asistencia": null,
     "calificaran": [],
     "calificaron": [],
@@ -2601,9 +2597,21 @@
     ],
     "pendientes": [],
     "bajasSorteadas": false,
-    "asistencia": null,
-    "calificaran": [],
-    "calificaron": [],
+    "asistencia": {
+      "tony.stark": true,
+      "saruman": true,
+      "yoda": true
+    },
+    "calificaran": [
+      "tony.stark",
+      "saruman",
+      "yoda"
+    ],
+    "calificaron": [
+      "yoda",
+      "tony.stark",
+      "saruman"
+    ],
     "cancelado": false,
     "organizador": "tony.stark",
     "fecha": "2026-10-17T11:00:00.000Z",
@@ -2657,7 +2665,7 @@
       "jon.snow"
     ],
     "pendientes": [],
-    "bajasSorteadas": false,
+    "bajasSorteadas": true,
     "asistencia": null,
     "calificaran": [],
     "calificaron": [],
@@ -2697,7 +2705,9 @@
       "walle",
       "pippin.tuk"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "clark.kent"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -2709,7 +2719,7 @@
     "cupo": 9,
     "creado": "2026-10-14T23:11:55.840Z",
     "pendientesHumanos": 0,
-    "anotados": 5
+    "anotados": 6
   },
   "cmv8yqkrb013y01qgvbk8z1g3": {
     "jugadores": [
@@ -2853,13 +2863,13 @@
     "cupo": 9,
     "creado": "2026-10-16T07:11:53.287Z",
     "pendientesHumanos": 0,
-    "anotados": 1
+    "anotados": 2
   },
   "cmvavb6fg00r301o31speemun": {
-    "jugadores": [],
-    "pendientes": [
+    "jugadores": [
       "clark.kent"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -2890,7 +2900,9 @@
     "anotados": 0
   },
   "cmvavbojv00rf01o34iypk759": {
-    "jugadores": [],
+    "jugadores": [
+      "anakin.skywalker"
+    ],
     "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
@@ -2925,7 +2937,9 @@
   },
   "cmvb3vla700u401o3xqi7tpal": {
     "jugadores": [],
-    "pendientes": [],
+    "pendientes": [
+      "saruman"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -2937,7 +2951,9 @@
     "cupo": 3,
     "creado": "2026-10-16T15:11:43.402Z",
     "pendientesHumanos": 0,
-    "anotados": 0
+    "anotados": 0,
+    "cancelSorteado": true,
+    "cancelar": false
   },
   "cmvbl0jnc004h01nz7n93ckzd": {
     "jugadores": [
@@ -2955,7 +2971,7 @@
     "cupo": 9,
     "creado": "2026-10-16T23:11:28.091Z",
     "pendientesHumanos": 0,
-    "anotados": 0
+    "anotados": 1
   },
   "cmvbl13hs004v01nzxqja4dp3": {
     "jugadores": [],
@@ -3017,6 +3033,22 @@
     "fecha": "2026-10-22T00:00:00.000Z",
     "deporte": "FUTBOL",
     "cupo": 9,
-    "creado": "2026-10-17T07:12:04.435Z"
+    "creado": "2026-10-17T07:12:04.435Z",
+    "pendientesHumanos": 0,
+    "anotados": 0
+  },
+  "cmvcaro5g00hk01nzmdjiwvfd": {
+    "jugadores": [],
+    "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "dory",
+    "fecha": "2026-10-20T23:30:00.000Z",
+    "deporte": "FUTBOL",
+    "cupo": 9,
+    "creado": "2026-10-17T11:12:24.020Z"
   }
 }

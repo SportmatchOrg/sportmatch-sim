@@ -3,3 +3,4 @@
 - 2026-10-15 08:12 · pidió unirse al básquet de Frodo del jueves
 - 2026-10-16 00:13 · calificó el básquet y pidió unirse al básquet ADVANCED de Frodo del lunes
 - 2026-10-17 04:12 · miró partidos de básquet, ya está anotado al del lunes
+- 2026-10-17 08:11 · aceptado en el básquet de Frodo; no se anotó a más
