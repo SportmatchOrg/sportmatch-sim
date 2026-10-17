@@ -10,3 +10,4 @@
 - 2026-10-15 12:14 · miró pádel y running del finde; ya tiene su running armado
 - 2026-10-16 12:14 · vio las solicitudes de Harry y Juan en su running; solo miró
 - 2026-10-16 16:13 · aceptó a Harry en su running del domingo
+- 2026-10-17 08:14 · leyó que Arya se bajó de su pádel; no hizo más

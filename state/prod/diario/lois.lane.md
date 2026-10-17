@@ -39,3 +39,4 @@
 - 2026-10-16 16:13 · aceptó a Marty en su fútbol del martes; no hizo más
 - 2026-10-16 20:15 · entró a mirar, sin novedades
 - 2026-10-17 00:15 · aceptó a Sirius en su fútbol
+- 2026-10-17 08:14 · aceptó a George Weasley en su fútbol

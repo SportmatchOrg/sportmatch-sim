@@ -50,3 +50,4 @@
 - 2026-10-16 20:14 · sin nadie para calificar; pidió unirse al fútbol BEGINNER del sábado 24 en Complejo Del Este
 - 2026-10-17 00:15 · sin nadie para calificar; miró partidos y no se anotó a nada más
 - 2026-10-17 04:13 · aceptó a Bellatrix en su pádel del lunes; miró partidos y nada de CABA a su nivel, no se anotó
+- 2026-10-17 08:14 · entró a calificar, no había a quién; solo miró

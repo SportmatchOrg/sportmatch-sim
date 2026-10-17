@@ -89,3 +89,4 @@
 - 2026-10-16 00:16 · calificó el fútbol; sigue esperando que se llenen sus partidos
 - 2026-10-16 08:14 · armó un fútbol ADVANCED el martes 20 a las 21:00 en Del Viso
 - 2026-10-16 12:14 · leyó notificaciones; sigue esperando que se llenen sus partidos
+- 2026-10-17 08:14 · entró a mirar; sus partidos ADVANCED siguen sin llenarse
