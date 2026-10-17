@@ -2191,10 +2191,10 @@
       "bellatrix.lestrange": true
     },
     "calificaran": [
-      "mace.windu",
-      "theoden",
       "elrond",
-      "bellatrix.lestrange"
+      "bellatrix.lestrange",
+      "theoden",
+      "mace.windu"
     ],
     "calificaron": [
       "elrond",
@@ -2613,7 +2613,9 @@
       "rex",
       "boromir"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "milhouse.van.houten"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -2653,7 +2655,9 @@
     "jugadores": [],
     "pendientes": [],
     "bajasSorteadas": true,
-    "asistencia": null,
+    "asistencia": {
+      "natasha.romanoff": true
+    },
     "calificaran": [],
     "calificaron": [],
     "cancelado": false,
@@ -2758,11 +2762,10 @@
   "cmv8ysnlb004301pigb7h94mk": {
     "jugadores": [
       "bellatrix.lestrange",
-      "scott.lang"
-    ],
-    "pendientes": [
+      "scott.lang",
       "mace.windu"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -2774,7 +2777,7 @@
     "cupo": 9,
     "creado": "2026-10-15T03:13:56.041Z",
     "pendientesHumanos": 0,
-    "anotados": 1,
+    "anotados": 2,
     "cancelSorteado": true,
     "cancelar": false
   },
@@ -2798,11 +2801,10 @@
     "jugadores": [
       "pippin.tuk",
       "clark.kent",
-      "marty.mcfly"
-    ],
-    "pendientes": [
+      "marty.mcfly",
       "sirius.black"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -2886,11 +2888,13 @@
     "cupo": 9,
     "creado": "2026-10-16T03:15:54.941Z",
     "pendientesHumanos": 0,
-    "anotados": 2
+    "anotados": 3
   },
   "cmvaebke902ch01mh99ykt6i4": {
     "jugadores": [],
-    "pendientes": [],
+    "pendientes": [
+      "bellatrix.lestrange"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -2925,7 +2929,9 @@
   },
   "cmvaecg3d02dj01mhmdd8w549": {
     "jugadores": [],
-    "pendientes": [],
+    "pendientes": [
+      "boromir"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -3005,7 +3011,7 @@
     "cupo": 3,
     "creado": "2026-10-16T11:14:58.328Z",
     "pendientesHumanos": 0,
-    "anotados": 0
+    "anotados": 1
   },
   "demo-match-f01": {
     "jugadores": [],
@@ -3053,6 +3059,21 @@
     "organizador": "humano:cmv9kdfjl002r01mhqljmomj7",
     "fecha": "2026-10-24T23:00:00.000Z",
     "deporte": "FUTBOL",
-    "cupo": 10
+    "cupo": 10,
+    "anotados": 2
+  },
+  "cmvbtqfl102x301mhi3zwjr8k": {
+    "jugadores": [],
+    "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "mace.windu",
+    "fecha": "2026-10-22T23:30:00.000Z",
+    "deporte": "PADEL",
+    "cupo": 3,
+    "creado": "2026-10-17T03:15:32.706Z"
   }
 }

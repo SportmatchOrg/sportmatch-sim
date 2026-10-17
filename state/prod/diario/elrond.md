@@ -54,3 +54,4 @@
 - 2026-10-15 04:14 · aceptó a Bellatrix en su fútbol 5 del sábado en Nordelta
 - 2026-10-16 20:13 · aceptó a Scott Lang en su partido; el fútbol jugado no tenía a nadie para calificar
 - 2026-10-16 20:14 · ahora sí: aceptó a Scott Lang en su partido
+- 2026-10-17 00:15 · aceptó a Mace Windu en su partido; no había a quién calificar

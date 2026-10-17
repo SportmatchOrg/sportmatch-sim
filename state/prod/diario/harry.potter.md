@@ -6,3 +6,4 @@
 - 2026-10-16 12:13 · se anotó al running del domingo a la mañana en Parque Pilar (le gusta el finde temprano)
 - 2026-10-16 16:13 · entró a calificar, no había a quién; solo miró
 - 2026-10-16 20:14 · otra vez sin nadie para calificar; solo leyó que lo aceptaron en el running
+- 2026-10-17 00:15 · entró, sin nadie para calificar; solo miró
