@@ -622,3 +622,49 @@
 2026-10-17T11:12:24.022Z dory crear cmvcaro5g00hk01nzmdjiwvfd FUTBOL 2026-10-20T23:30:00.000Z
 2026-10-17T11:12:32.752Z barney.gumble leer-notificaciones 1
 2026-10-17T11:12:41.307Z barney.gumble aceptar cmvavbojv00rf01o34iypk759 anakin.skywalker
+2026-10-17T15:10:34.021Z sorteo cmv38y7e000bl01nqmgrwz9zs faltaron=[] calificaran=[quigon.jinn,bellatrix.lestrange]
+2026-10-17T15:10:35.830Z sorteo cmv3youc000ht01nqhzryvfmg faltaron=[] calificaran=[faramir,davy.jones,eowyn]
+2026-10-17T15:10:36.494Z sorteo cmv3yqaeb00jo01nqi1f2drjh faltaron=[] calificaran=[hermione.granger,marty.mcfly,harry.potter,pippin.tuk,bellatrix.lestrange]
+2026-10-17T15:10:37.197Z sorteo cmv478u3w00mq01nqlps0i6xv faltaron=[] calificaran=[molly.weasley,montgomery.burns,obiwan.kenobi,eowyn]
+2026-10-17T15:10:38.860Z sorteo cmv6cfn4300rk01mr35kk81r2 faltaron=[] calificaran=[neo,walle,milhouse.van.houten,frodo.bolson]
+2026-10-17T15:10:43.387Z sorteo cmv89035w00sl01qgtopo7q2i faltaron=[] calificaran=[finn,bellatrix.lestrange,doc.brown,barney.gumble,jon.snow]
+2026-10-17T15:11:14.957Z eowyn leer-notificaciones 1
+2026-10-17T15:11:30.511Z eowyn calificar cmv3youc000ht01nqhzryvfmg ratings=3 noShows=0
+2026-10-17T15:11:32.711Z eowyn calificar cmv478u3w00mq01nqlps0i6xv ratings=3 noShows=0
+2026-10-17T15:11:35.143Z quigon.jinn leer-notificaciones 1
+2026-10-17T15:11:39.952Z pippin.tuk leer-notificaciones 1
+2026-10-17T15:11:48.048Z quigon.jinn calificar cmv38y7e000bl01nqmgrwz9zs ratings=1 noShows=0
+2026-10-17T15:11:50.467Z quigon.jinn unirse cmv9x0c7k009e01o3i7wjn38y
+2026-10-17T15:11:52.729Z pippin.tuk calificar cmv3yqaeb00jo01nqi1f2drjh ratings=3 noShows=0
+2026-10-17T15:12:04.977Z bellatrix.lestrange leer-notificaciones 2
+2026-10-17T15:12:10.585Z faramir leer-notificaciones 1
+2026-10-17T15:12:19.593Z bellatrix.lestrange calificar cmv38y7e000bl01nqmgrwz9zs ratings=1 noShows=0
+2026-10-17T15:12:23.134Z bellatrix.lestrange calificar cmv89035w00sl01qgtopo7q2i ratings=3 noShows=0
+2026-10-17T15:12:25.606Z faramir calificar cmv3youc000ht01nqhzryvfmg ratings=3 noShows=0
+2026-10-17T15:12:28.202Z milhouse.van.houten leer-notificaciones 2
+2026-10-17T15:12:41.463Z bellatrix.lestrange calificar cmv3yqaeb00jo01nqi1f2drjh ratings=3 noShows=0
+2026-10-17T15:12:43.596Z milhouse.van.houten calificar cmv6cfn4300rk01mr35kk81r2 ratings=3 noShows=0
+2026-10-17T15:12:45.893Z montgomery.burns calificar cmv478u3w00mq01nqlps0i6xv ratings=3 noShows=0
+2026-10-17T15:12:48.386Z jon.snow leer-notificaciones 1
+2026-10-17T15:12:51.624Z hermione.granger leer-notificaciones 2
+2026-10-17T15:13:01.638Z jon.snow calificar cmv89035w00sl01qgtopo7q2i ratings=3 noShows=0
+2026-10-17T15:13:03.880Z hermione.granger calificar cmv3yqaeb00jo01nqi1f2drjh ratings=3 noShows=0
+2026-10-17T15:13:06.136Z doc.brown calificar cmv89035w00sl01qgtopo7q2i ratings=3 noShows=0
+2026-10-17T15:13:14.020Z obiwan.kenobi leer-notificaciones 2
+2026-10-17T15:13:17.363Z molly.weasley leer-notificaciones 2
+2026-10-17T15:13:20.684Z tony.stark leer-notificaciones 1
+2026-10-17T15:13:34.848Z obiwan.kenobi calificar cmv478u3w00mq01nqlps0i6xv ratings=3 noShows=0
+2026-10-17T15:13:37.149Z molly.weasley calificar cmv478u3w00mq01nqlps0i6xv ratings=3 noShows=0
+2026-10-17T15:13:39.452Z tony.stark aceptar cmvb3vla700u401o3xqi7tpal saruman
+2026-10-17T15:13:47.664Z lois.lane leer-notificaciones 1
+2026-10-17T15:13:55.457Z davy.jones calificar cmv3youc000ht01nqhzryvfmg ratings=3 noShows=0
+2026-10-17T15:13:59.003Z lois.lane aceptar cmv8q5fst00z501qg4dk8zoyd clark.kent
+2026-10-17T15:14:18.307Z harry.potter calificar cmv3yqaeb00jo01nqi1f2drjh ratings=3 noShows=0
+2026-10-17T15:14:20.448Z marty.mcfly calificar cmv3yqaeb00jo01nqi1f2drjh ratings=3 noShows=0
+2026-10-17T15:14:22.709Z neo calificar cmv6cfn4300rk01mr35kk81r2 ratings=3 noShows=0
+2026-10-17T15:14:24.992Z walle calificar cmv6cfn4300rk01mr35kk81r2 ratings=3 noShows=0
+2026-10-17T15:14:27.255Z frodo.bolson calificar cmv6cfn4300rk01mr35kk81r2 ratings=3 noShows=0
+2026-10-17T15:14:31.854Z finn leer-notificaciones 1
+2026-10-17T15:14:40.690Z barney.gumble calificar cmv89035w00sl01qgtopo7q2i ratings=3 noShows=0
+2026-10-17T15:14:42.162Z barney.gumble cancelar cmvbtnswr00b301nz761d9h3l
+2026-10-17T15:14:44.454Z finn calificar cmv89035w00sl01qgtopo7q2i ratings=3 noShows=0

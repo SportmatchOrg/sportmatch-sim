@@ -30,3 +30,4 @@
 - 2026-10-14 08:11 · miró partidos, todo de noche; no se anotó
 - 2026-10-14 12:12 · miró de nuevo, nada temprano; no hizo nada
 - 2026-10-14 16:11 · pidió unirse al fútbol del sábado de Finn en Club Pilar (madruga)
+- 2026-10-17 12:13 · calificó el fútbol; ya casi no entra

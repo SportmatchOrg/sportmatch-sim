@@ -15,3 +15,4 @@
 - 2026-10-11 00:11 · calificó el pádel y armó un pádel para el sáb 17/10 10:00 en Tigre Pádel Club
 - 2026-10-11 16:11 · aceptó a Éowyn en su partido
 - 2026-10-12 08:11 · aceptó a Bellatrix en su pádel
+- 2026-10-17 12:12 · calificó el pádel y pidió unirse al running de Molly del domingo en Campus Austral

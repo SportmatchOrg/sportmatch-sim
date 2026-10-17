@@ -34,3 +34,4 @@
 - 2026-10-16 04:11 · aceptó a Bellatrix en su fútbol del sábado en Del Viso
 - 2026-10-16 08:12 · aceptó a Frodo en su fútbol del sábado en Del Viso
 - 2026-10-17 04:11 · aceptó a Pippin Tuk en su fútbol del sábado
+- 2026-10-17 12:13 · aceptó a Clark Kent en su fútbol del sábado en Club Pilar

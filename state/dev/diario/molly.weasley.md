@@ -13,3 +13,4 @@
 - 2026-10-16 04:11 · aceptó a Davy Jones en su running del domingo
 - 2026-10-16 08:11 · aceptó a Jack Sparrow en su running del domingo
 - 2026-10-17 00:13 · aceptó la solicitud de Éowyn al running del sábado
+- 2026-10-17 12:13 · calificó el running; ya tiene el del domingo armado, no armó otro

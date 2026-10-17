@@ -17,3 +17,4 @@
 - 2026-10-16 12:11 · armó un pádel para el domingo 18/10 a las 8 en Tigre (madruga)
 - 2026-10-16 20:12 · miró la app, sin novedades
 - 2026-10-17 08:11 · calificó el pádel jugado; ya tiene armado el del domingo, no armó otro
+- 2026-10-17 12:13 · aceptó a Saruman en su pádel del domingo; no armó otro

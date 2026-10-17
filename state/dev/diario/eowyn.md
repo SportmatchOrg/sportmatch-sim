@@ -30,3 +30,4 @@
 - 2026-10-15 20:12 · leyó que la aceptó Qui-Gon y pidió unirse al running del sábado en Parque Pilar
 - 2026-10-16 04:12 · pidió unirse al básquet del sábado de Neo (conocer gente nueva)
 - 2026-10-16 20:12 · se anotó al running del sábado a la mañana en Campus Austral (conocer gente nueva)
+- 2026-10-17 12:11 · calificó el básquet y el running que había jugado; hoy solo miró

@@ -35,3 +35,4 @@
 - 2026-10-14 00:12 · aceptó a JuanChi en su tenis del dom 18/10
 - 2026-10-15 04:12 · miró la app y leyó notificaciones, sin novedades
 - 2026-10-17 00:13 · calificó el fútbol jugado con criterio competitivo
+- 2026-10-17 12:13 · calificó el fútbol del grupo; sin novedades

@@ -12,3 +12,4 @@
 - 2026-10-16 04:12 · entró y solo miró
 - 2026-10-16 08:11 · aceptó a Éowyn y armó un básquet INTERMEDIATE el mié 21/10 20:30 en Campus Austral
 - 2026-10-17 08:11 · aceptó a Clark en su básquet; no se unió a nada, los básquet abiertos son ADVANCED
+- 2026-10-17 12:14 · calificó el básquet del sábado; sin novedades

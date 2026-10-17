@@ -29,3 +29,4 @@
 - 2026-10-16 00:12 · aceptó a Éowyn en su partido
 - 2026-10-16 16:11 · entró entre semana, miró y no hizo nada (ya tiene running y pádel armados)
 - 2026-10-17 04:12 · miró la app el sábado, ya tiene su running y pádel armados
+- 2026-10-17 12:12 · calificó el running; ya tiene su pádel armado, no armó nada nuevo
