@@ -2212,7 +2212,7 @@
     "cupo": 5,
     "creado": "2026-10-11T19:11:36.945Z",
     "pendientesHumanos": 0,
-    "anotados": 2
+    "anotados": 3
   },
   "cmv4ftakn001z01mrnd0n7vgw": {
     "jugadores": [
@@ -2668,7 +2668,7 @@
     "cupo": 9,
     "creado": "2026-10-14T15:11:52.732Z",
     "pendientesHumanos": 0,
-    "anotados": 3,
+    "anotados": 4,
     "cancelSorteado": true,
     "cancelar": false
   },
@@ -2694,11 +2694,10 @@
       "rubeus.hagrid",
       "bellatrix.lestrange",
       "steve.rogers",
-      "walle"
-    ],
-    "pendientes": [
+      "walle",
       "pippin.tuk"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -2839,11 +2838,10 @@
   },
   "cmvamqipi00om01o3edjmfqtp": {
     "jugadores": [
-      "scott.lang"
-    ],
-    "pendientes": [
+      "scott.lang",
       "elrond"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -2859,7 +2857,9 @@
   },
   "cmvavb6fg00r301o31speemun": {
     "jugadores": [],
-    "pendientes": [],
+    "pendientes": [
+      "clark.kent"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -2940,10 +2940,10 @@
     "anotados": 0
   },
   "cmvbl0jnc004h01nz7n93ckzd": {
-    "jugadores": [],
-    "pendientes": [
+    "jugadores": [
       "obiwan.kenobi"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -2985,7 +2985,9 @@
     "fecha": "2026-10-22T23:00:00.000Z",
     "deporte": "TENIS",
     "cupo": 3,
-    "creado": "2026-10-17T03:13:27.628Z"
+    "creado": "2026-10-17T03:13:27.628Z",
+    "pendientesHumanos": 0,
+    "anotados": 0
   },
   "cmvbtnswr00b301nz761d9h3l": {
     "jugadores": [],
@@ -2999,6 +3001,22 @@
     "fecha": "2026-10-18T12:30:00.000Z",
     "deporte": "BASQUET",
     "cupo": 7,
-    "creado": "2026-10-17T03:13:30.042Z"
+    "creado": "2026-10-17T03:13:30.042Z",
+    "pendientesHumanos": 0,
+    "anotados": 0
+  },
+  "cmvc26ly100dy01nz8bogds5h": {
+    "jugadores": [],
+    "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "frodo.bolson",
+    "fecha": "2026-10-22T00:00:00.000Z",
+    "deporte": "FUTBOL",
+    "cupo": 9,
+    "creado": "2026-10-17T07:12:04.435Z"
   }
 }

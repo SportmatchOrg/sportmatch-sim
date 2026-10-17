@@ -23,3 +23,4 @@
 - 2026-10-14 20:12 · aceptó a Ron en su partido
 - 2026-10-16 04:12 · armó un fútbol INTERMEDIATE para el mar 20/10 20:30 en Fútbol 5 Nordelta
 - 2026-10-16 16:11 · aceptó a Scott en su fútbol del martes
+- 2026-10-17 04:11 · aceptó a Elrond en su fútbol del martes

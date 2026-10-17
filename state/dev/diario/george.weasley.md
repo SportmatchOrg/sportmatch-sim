@@ -5,3 +5,4 @@
 - 2026-10-16 00:13 · aceptó a Fred, Pippin y Bellatrix en su fútbol de Del Viso y calificó el del miércoles
 - 2026-10-16 04:12 · entró, leyó notificaciones y solo miró
 - 2026-10-17 00:13 · calificó dos partidos; ya estaba anotado al fútbol del sábado en Club Pilar
+- 2026-10-17 04:12 · leyó notificaciones, hoy solo miró
