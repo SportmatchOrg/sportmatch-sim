@@ -2711,11 +2711,10 @@
   },
   "cmv7rv3ae00in01qgoi72y7xm": {
     "jugadores": [
-      "john.wick"
-    ],
-    "pendientes": [
+      "john.wick",
       "jon.snow"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -2889,11 +2888,10 @@
     "jugadores": [
       "davy.jones",
       "jack.sparrow",
-      "quigon.jinn"
-    ],
-    "pendientes": [
+      "quigon.jinn",
       "eowyn"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -2929,7 +2927,9 @@
     "jugadores": [
       "anakin.skywalker"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "eowyn"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -2983,7 +2983,8 @@
   "cmvavb6fg00r301o31speemun": {
     "jugadores": [
       "clark.kent",
-      "simba"
+      "simba",
+      "frodo.bolson"
     ],
     "pendientes": [],
     "bajasSorteadas": false,
@@ -3052,7 +3053,7 @@
     "cupo": 3,
     "creado": "2026-10-16T11:12:54.685Z",
     "pendientesHumanos": 0,
-    "anotados": 1
+    "anotados": 2
   },
   "cmvb3vla700u401o3xqi7tpal": {
     "jugadores": [
@@ -3109,10 +3110,10 @@
     "anotados": 0
   },
   "cmvbtnr1h00b001nzp1djski7": {
-    "jugadores": [],
-    "pendientes": [
+    "jugadores": [
       "albus.dumbledore"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -3177,11 +3178,13 @@
     "cupo": 9,
     "creado": "2026-10-17T11:12:24.020Z",
     "pendientesHumanos": 0,
-    "anotados": 1
+    "anotados": 2
   },
   "cmvcrvkak00qb01nz1a4mqgmm": {
     "jugadores": [],
-    "pendientes": [],
+    "pendientes": [
+      "bellatrix.lestrange"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -3223,7 +3226,9 @@
     "fecha": "2026-10-22T23:30:00.000Z",
     "deporte": "FUTBOL",
     "cupo": 9,
-    "creado": "2026-10-18T03:11:30.493Z"
+    "creado": "2026-10-18T03:11:30.493Z",
+    "pendientesHumanos": 0,
+    "anotados": 0
   },
   "cmvd91w6b00xl01nzfvlbxgcr": {
     "jugadores": [],
@@ -3237,6 +3242,22 @@
     "fecha": "2026-10-24T11:00:00.000Z",
     "deporte": "PADEL",
     "cupo": 3,
-    "creado": "2026-10-18T03:12:07.888Z"
+    "creado": "2026-10-18T03:12:07.888Z",
+    "pendientesHumanos": 0,
+    "anotados": 0
+  },
+  "cmvdhm93v010701nzivho4hlv": {
+    "jugadores": [],
+    "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "george.weasley",
+    "fecha": "2026-10-21T23:00:00.000Z",
+    "deporte": "FUTBOL",
+    "cupo": 9,
+    "creado": "2026-10-18T07:11:54.661Z"
   }
 }

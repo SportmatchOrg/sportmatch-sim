@@ -19,3 +19,4 @@
 - 2026-10-17 08:11 · calificó el pádel jugado; ya tiene armado el del domingo, no armó otro
 - 2026-10-17 12:13 · aceptó a Saruman en su pádel del domingo; no armó otro
 - 2026-10-18 00:12 · armó un pádel INTERMEDIATE para el sáb 24/10 a las 8 en Tigre (madruga)
+- 2026-10-18 04:12 · miró la app, ya tiene pádel armados

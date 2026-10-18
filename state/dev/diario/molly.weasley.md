@@ -15,3 +15,4 @@
 - 2026-10-17 00:13 · aceptó la solicitud de Éowyn al running del sábado
 - 2026-10-17 12:13 · calificó el running; ya tiene el del domingo armado, no armó otro
 - 2026-10-17 16:11 · aceptó a Qui-Gon Jinn en su running; ya tiene partidos armados, no armó otro
+- 2026-10-18 04:11 · aceptó a Éowyn en su running del domingo

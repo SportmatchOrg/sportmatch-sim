@@ -21,3 +21,4 @@
 - 2026-10-15 20:11 · aceptó a John Wick en su fútbol ADVANCED y armó un running ADVANCED para el vie 16/10 a las 20 en Parque Pilar
 - 2026-10-16 00:13 · canceló su running ADVANCED (no se llenó) y calificó el fútbol
 - 2026-10-17 00:13 · calificó el fútbol jugado, sin sobresaltos
+- 2026-10-18 04:11 · aceptó a Jon Snow en su fútbol ADVANCED

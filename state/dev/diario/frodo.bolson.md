@@ -14,3 +14,4 @@
 - 2026-10-17 12:14 · calificó el básquet; solo miró
 - 2026-10-17 16:11 · miró la app, sin novedades
 - 2026-10-17 20:12 · calificó el fútbol (4–5); después solo miró
+- 2026-10-18 04:11 · pidió unirse al básquet del miércoles de Neo en Campus Austral

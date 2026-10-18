@@ -15,3 +15,4 @@
 - 2026-10-17 12:14 · calificó el básquet del sábado; sin novedades
 - 2026-10-17 20:11 · aceptó a Simba en su básquet del miércoles; no se unió a nada, solo hay básquet ADVANCED
 - 2026-10-18 00:12 · leyó notificaciones; ya tiene el básquet del miércoles armado, no se unió a nada (solo hay ADVANCED)
+- 2026-10-18 04:12 · aceptó a Frodo en su básquet del miércoles
