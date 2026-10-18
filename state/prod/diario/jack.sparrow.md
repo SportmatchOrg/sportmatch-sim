@@ -12,3 +12,4 @@
 - 2026-10-16 16:13 · aceptó a Harry en su running del domingo
 - 2026-10-17 08:14 · leyó que Arya se bajó de su pádel; no hizo más
 - 2026-10-17 12:17 · calificó el pádel; solo miró
+- 2026-10-18 12:14 · calificó el running (Harry 5, Jaime 4); después solo miró

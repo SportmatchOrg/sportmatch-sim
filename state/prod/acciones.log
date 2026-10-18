@@ -651,3 +651,28 @@
 2026-10-18T11:14:38.906Z montgomery.burns leer-notificaciones 1
 2026-10-18T11:14:49.321Z lois.lane aceptar cmv9oisge00q601mhb3aaso2h bellatrix.lestrange
 2026-10-18T11:14:51.651Z lucius.malfoy unirse cmvcjjbb3039001mhtdal6okk
+2026-10-18T15:12:40.371Z sorteo cmv4x1xcu00wm01ljv71po2ww faltaron=[] calificaran=[davy.jones]
+2026-10-18T15:12:40.980Z sorteo cmv5mrnwl014i01ljx3n76m62 faltaron=[] calificaran=[faramir,yoda]
+2026-10-18T15:12:41.537Z sorteo cmv6tmfjr01l801lj2vkvguoo faltaron=[] calificaran=[jack.sparrow,jaime.lannister]
+2026-10-18T15:12:42.090Z sorteo cmv72880f01q501ljfhuht2wu faltaron=[] calificaran=[hermione.granger]
+2026-10-18T15:12:46.236Z sorteo cmv9fy95q002e01mhq2y6wp6x faltaron=[] calificaran=[tony.stark]
+2026-10-18T15:13:03.189Z sorteo cmvcjhw5a037i01mhn6houf3d faltaron=[] calificaran=[faramir]
+2026-10-18T15:13:33.867Z yoda calificar cmv5mrnwl014i01ljx3n76m62 ratings=1 noShows=0
+2026-10-18T15:13:37.899Z faramir leer-notificaciones 2
+2026-10-18T15:13:45.907Z faramir crear cmvdytx5q03tk01mhxxxbh4qt PADEL 2026-10-24T13:30:00.000Z
+2026-10-18T15:13:48.080Z mace.windu leer-notificaciones 1
+2026-10-18T15:13:52.980Z mace.windu aceptar cmvaeb21r02bs01mhrbg8wf7h elrond
+2026-10-18T15:13:55.172Z jaime.lannister leer-notificaciones 2
+2026-10-18T15:14:02.706Z hermione.granger leer-notificaciones 1
+2026-10-18T15:14:08.851Z hermione.granger calificar cmv72880f01q501ljfhuht2wu ratings=1 noShows=0
+2026-10-18T15:14:10.755Z hermione.granger crear cmvdyugc703u501mhxhuj5o7v FUTBOL 2026-10-24T13:00:00.000Z
+2026-10-18T15:14:16.783Z davy.jones leer-notificaciones 1
+2026-10-18T15:14:25.511Z davy.jones calificar cmv4x1xcu00wm01ljv71po2ww ratings=2 noShows=0
+2026-10-18T15:14:27.488Z davy.jones unirse cmvcjjbb3039001mhtdal6okk
+2026-10-18T15:14:35.169Z tony.stark crear cmvdyuz6g03uq01mh75lo5a4h PADEL 2026-10-24T11:30:00.000Z
+2026-10-18T15:14:37.150Z jack.sparrow leer-notificaciones 1
+2026-10-18T15:14:43.260Z jack.sparrow calificar cmv6tmfjr01l801lj2vkvguoo ratings=2 noShows=0
+2026-10-18T15:14:45.256Z frodo.bolson leer-notificaciones 2
+2026-10-18T15:14:53.395Z frodo.bolson aceptar cmvcjjbb3039001mhtdal6okk lucius.malfoy
+2026-10-18T15:14:55.361Z frodo.bolson aceptar cmvcjjbb3039001mhtdal6okk davy.jones
+2026-10-18T15:15:03.220Z barney.gumble crear cmvdyvkt503ve01mhtosliaet FUTBOL 2026-10-25T13:00:00.000Z

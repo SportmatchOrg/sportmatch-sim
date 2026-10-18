@@ -57,3 +57,4 @@
 - 2026-10-18 00:14 · aceptó a Bellatrix y a Rex en su partido
 - 2026-10-18 04:13 · aceptó a Burro en su partido y pidió unirse al tenis BEGINNER del jueves en River Courts
 - 2026-10-18 08:13 · miró partidos, nada nuevo de CABA que le encaje; no se anotó
+- 2026-10-18 12:14 · entró, leyó notificaciones y solo miró; nadie para calificar
