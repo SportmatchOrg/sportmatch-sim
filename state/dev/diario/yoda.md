@@ -9,3 +9,4 @@
 - 2026-10-15 16:12 · pidió unirse al pádel de Tony Stark del sáb 17/10 a la mañana en Tigre
 - 2026-10-16 20:12 · pidió unirse al pádel del domingo 10:30 en Pádel Point Pilar (fin de semana a la mañana)
 - 2026-10-17 08:11 · calificó el pádel jugado; le rechazaron una solicitud de Barney
+- 2026-10-18 16:12 · pidió unirse al pádel de Tony Stark del sáb 24/10 08:00 en Tigre (finde a la mañana)

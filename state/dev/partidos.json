@@ -2927,7 +2927,8 @@
     ],
     "calificaron": [
       "molly.weasley",
-      "davy.jones"
+      "davy.jones",
+      "jack.sparrow"
     ],
     "cancelado": false,
     "organizador": "molly.weasley",
@@ -3044,7 +3045,9 @@
     "calificaran": [
       "finn"
     ],
-    "calificaron": [],
+    "calificaron": [
+      "finn"
+    ],
     "cancelado": false,
     "organizador": "finn",
     "fecha": "2026-10-18T13:00:00.000Z",
@@ -3247,12 +3250,14 @@
     "cupo": 9,
     "creado": "2026-10-17T19:11:19.064Z",
     "pendientesHumanos": 0,
-    "anotados": 1
+    "anotados": 2
   },
   "cmvd0gyj400tt01nzf7jk3gx2": {
-    "jugadores": [],
-    "pendientes": [
+    "jugadores": [
       "george.weasley"
+    ],
+    "pendientes": [
+      "chewbacca"
     ],
     "bajasSorteadas": false,
     "asistencia": null,
@@ -3283,11 +3288,13 @@
     "cupo": 9,
     "creado": "2026-10-18T03:11:30.493Z",
     "pendientesHumanos": 0,
-    "anotados": 0
+    "anotados": 1
   },
   "cmvd91w6b00xl01nzfvlbxgcr": {
     "jugadores": [],
-    "pendientes": [],
+    "pendientes": [
+      "yoda"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -3317,11 +3324,13 @@
     "cupo": 9,
     "creado": "2026-10-18T07:11:54.661Z",
     "pendientesHumanos": 0,
-    "anotados": 0
+    "anotados": 1
   },
   "cmvdq7d8g013i01nzkcung1df": {
     "jugadores": [],
-    "pendientes": [],
+    "pendientes": [
+      "bellatrix.lestrange"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -3363,6 +3372,22 @@
     "fecha": "2026-10-24T13:00:00.000Z",
     "deporte": "PADEL",
     "cupo": 3,
-    "creado": "2026-10-18T15:12:07.828Z"
+    "creado": "2026-10-18T15:12:07.828Z",
+    "pendientesHumanos": 0,
+    "anotados": 0
+  },
+  "cmve7bfql018q01nzsf1bl8ao": {
+    "jugadores": [],
+    "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "lois.lane",
+    "fecha": "2026-10-23T23:00:00.000Z",
+    "deporte": "FUTBOL",
+    "cupo": 9,
+    "creado": "2026-10-18T19:11:20.065Z"
   }
 }

@@ -9,3 +9,4 @@
 - 2026-10-17 12:14 · calificó el fútbol; ya tiene sus dos fútbol armados, nada más
 - 2026-10-17 16:11 · miró la app, esperando el finde
 - 2026-10-18 12:12 · miró la app, sin nada para calificar
+- 2026-10-18 16:12 · cerró la calificación del fútbol (no había a quién calificar) y miró la app

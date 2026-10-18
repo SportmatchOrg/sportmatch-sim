@@ -9,3 +9,4 @@
 - 2026-10-17 20:12 · calificó el fútbol (4 y 5) y pidió unirse al de Dory del martes en Club Pilar
 - 2026-10-18 04:11 · armó un fútbol INTERMEDIATE el miércoles 21/10 20:00 en Club Pilar
 - 2026-10-18 12:12 · aceptó a Wall-E y pidió unirse al fútbol de Lois del jueves en Club Pilar
+- 2026-10-18 16:12 · miró la app, esperando que se llene su fútbol del miércoles
