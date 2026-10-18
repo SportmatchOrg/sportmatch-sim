@@ -1,0 +1,1 @@
+- 2026-10-18 20:14 · primera vez: pidió unirse al tenis del jueves 22 en Tigre Pádel Club (recién empieza, nivel intermedio)

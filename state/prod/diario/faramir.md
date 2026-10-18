@@ -34,3 +34,4 @@
 - 2026-10-17 20:14 · entró, leyó notificaciones y solo miró
 - 2026-10-18 12:13 · armó un pádel para el sábado 24 a las 10:30 en Pádel Point Pilar; no tenía a quién calificar
 - 2026-10-18 16:13 · calificó el pádel con Yoda (5)
+- 2026-10-18 20:13 · entró, no había a quién calificar; solo miró

@@ -1,2 +1,3 @@
 - 2026-10-18 04:14 · primera vez en la app: se anotó con entusiasmo al básquet del lunes 19 en Campus Austral (tiene las tardes libres)
 - 2026-10-18 16:14 · se anotó también al básquet del miércoles 21 en Campus Austral (tardes libres)
+- 2026-10-18 20:14 · leyó que Neo lo aceptó en el básquet; no hizo más

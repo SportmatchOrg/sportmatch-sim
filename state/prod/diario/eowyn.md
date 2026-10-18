@@ -31,3 +31,4 @@
 - 2026-10-12 16:15 · se unió al pádel del domingo 18 en Pádel Point Pilar (le gusta conocer gente nueva)
 - 2026-10-14 20:15 · pidió unirse al running del domingo 18 en Parque Pilar (le gusta conocer gente)
 - 2026-10-16 04:13 · leyó que Jack Sparrow la aceptó en el running; solo miró
+- 2026-10-18 20:14 · pidió unirse al pádel del sábado 24 en Pádel Point Pilar (le gusta conocer gente)

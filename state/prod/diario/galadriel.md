@@ -13,3 +13,4 @@
 - 2026-10-16 00:15 · calificó el básquet (todos bien) y pidió unirse al del martes en Club Palermo
 - 2026-10-16 16:13 · miró básquet, nada nuevo para principiante en su zona; solo miró
 - 2026-10-17 08:14 · miró básquet, nada de principiante en CABA; no se anotó
+- 2026-10-18 20:14 · leyó notificaciones; solo miró

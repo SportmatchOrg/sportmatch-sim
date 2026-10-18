@@ -32,3 +32,4 @@
 - 2026-10-16 16:13 · entró un rato, solo miró
 - 2026-10-17 12:17 · calificó el fútbol; ya tiene el fútbol y el tenis del finde armados, no organizó nada más
 - 2026-10-18 12:14 · calificó a Ivan (4) y armó un fútbol para el sábado 24 a las 10 en Club Pilar
+- 2026-10-18 20:13 · aceptó a Barney en su fútbol

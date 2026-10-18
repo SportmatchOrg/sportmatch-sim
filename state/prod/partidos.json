@@ -2406,9 +2406,7 @@
     "asistencia": {
       "sam.gamyi": true
     },
-    "calificaran": [
-      "sam.gamyi"
-    ],
+    "calificaran": [],
     "calificaron": [],
     "cancelado": false,
     "organizador": "sam.gamyi",
@@ -2521,8 +2519,8 @@
       "milhouse.van.houten": false
     },
     "calificaran": [
-      "frodo.bolson",
-      "neo"
+      "neo",
+      "frodo.bolson"
     ],
     "calificaron": [
       "neo",
@@ -2644,9 +2642,7 @@
     "asistencia": {
       "elrond": true
     },
-    "calificaran": [
-      "elrond"
-    ],
+    "calificaran": [],
     "calificaron": [],
     "cancelado": false,
     "organizador": "elrond",
@@ -2968,7 +2964,7 @@
     "pendientes": [
       "bellatrix.lestrange"
     ],
-    "bajasSorteadas": false,
+    "bajasSorteadas": true,
     "asistencia": null,
     "calificaran": [],
     "calificaron": [],
@@ -3026,7 +3022,9 @@
       "george.weasley",
       "sirius.black"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "john.wick"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -3038,16 +3036,15 @@
     "cupo": 9,
     "creado": "2026-10-16T03:16:53.044Z",
     "pendientesHumanos": 0,
-    "anotados": 3
+    "anotados": 4
   },
   "cmvaecg3d02dj01mhmdd8w549": {
     "jugadores": [
       "boromir",
-      "davy.jones"
-    ],
-    "pendientes": [
+      "davy.jones",
       "groot"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -3202,7 +3199,9 @@
     "jugadores": [
       "boromir"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "nala"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -3377,7 +3376,9 @@
   },
   "cmvdytx5q03tk01mhxxxbh4qt": {
     "jugadores": [],
-    "pendientes": [],
+    "pendientes": [
+      "eowyn"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -3392,10 +3393,10 @@
     "anotados": 0
   },
   "cmvdyugc703u501mhxhuj5o7v": {
-    "jugadores": [],
-    "pendientes": [
+    "jugadores": [
       "barney.gumble"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],

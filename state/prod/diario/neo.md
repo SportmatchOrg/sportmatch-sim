@@ -20,3 +20,4 @@
 - 2026-10-17 04:14 · aceptó a Milhouse y a Boromir en sus básquets; no se anotó a nada
 - 2026-10-18 00:14 · entró a mirar; sin novedades
 - 2026-10-18 08:14 · aceptó a Groot y a Davy Jones en sus básquets
+- 2026-10-18 20:13 · aceptó a Groot en su básquet
