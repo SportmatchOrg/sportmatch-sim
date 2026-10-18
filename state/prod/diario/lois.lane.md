@@ -43,3 +43,4 @@
 - 2026-10-17 16:13 · aceptó a George Weasley en su fútbol del jueves y se anotó a su fútbol del miércoles en Club Pilar
 - 2026-10-17 20:14 · aceptó a Rubeus Hagrid en su fútbol del martes
 - 2026-10-18 08:14 · aceptó a Bellatrix en su fútbol del martes
+- 2026-10-18 16:14 · aceptó a Sirius en su fútbol del jueves

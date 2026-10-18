@@ -2494,7 +2494,8 @@
       "yoda"
     ],
     "calificaron": [
-      "yoda"
+      "yoda",
+      "faramir"
     ],
     "cancelado": false,
     "organizador": "faramir",
@@ -2602,7 +2603,8 @@
       "jaime.lannister"
     ],
     "calificaron": [
-      "jack.sparrow"
+      "jack.sparrow",
+      "jaime.lannister"
     ],
     "cancelado": false,
     "organizador": "jack.sparrow",
@@ -2996,7 +2998,7 @@
     "cupo": 9,
     "creado": "2026-10-16T03:15:54.941Z",
     "pendientesHumanos": 0,
-    "anotados": 3
+    "anotados": 4
   },
   "cmvaebke902ch01mh99ykt6i4": {
     "jugadores": [
@@ -3021,7 +3023,8 @@
     "jugadores": [
       "simba",
       "pippin.tuk",
-      "george.weasley"
+      "george.weasley",
+      "sirius.black"
     ],
     "pendientes": [],
     "bajasSorteadas": false,
@@ -3042,7 +3045,9 @@
       "boromir",
       "davy.jones"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "groot"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -3250,7 +3255,7 @@
     "cupo": 7,
     "creado": "2026-10-17T15:17:50.606Z",
     "pendientesHumanos": 0,
-    "anotados": 0
+    "anotados": 2
   },
   "cmvcry1d503by01mhluiefpid": {
     "jugadores": [
@@ -3382,11 +3387,15 @@
     "fecha": "2026-10-24T13:30:00.000Z",
     "deporte": "PADEL",
     "cupo": 3,
-    "creado": "2026-10-18T15:13:45.905Z"
+    "creado": "2026-10-18T15:13:45.905Z",
+    "pendientesHumanos": 0,
+    "anotados": 0
   },
   "cmvdyugc703u501mhxhuj5o7v": {
     "jugadores": [],
-    "pendientes": [],
+    "pendientes": [
+      "barney.gumble"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -3396,7 +3405,9 @@
     "fecha": "2026-10-24T13:00:00.000Z",
     "deporte": "FUTBOL",
     "cupo": 9,
-    "creado": "2026-10-18T15:14:10.753Z"
+    "creado": "2026-10-18T15:14:10.753Z",
+    "pendientesHumanos": 0,
+    "anotados": 0
   },
   "cmvdyuz6g03uq01mh75lo5a4h": {
     "jugadores": [],
@@ -3410,7 +3421,9 @@
     "fecha": "2026-10-24T11:30:00.000Z",
     "deporte": "PADEL",
     "cupo": 3,
-    "creado": "2026-10-18T15:14:35.167Z"
+    "creado": "2026-10-18T15:14:35.167Z",
+    "pendientesHumanos": 0,
+    "anotados": 0
   },
   "cmvdyvkt503ve01mhtosliaet": {
     "jugadores": [],
@@ -3424,6 +3437,8 @@
     "fecha": "2026-10-25T13:00:00.000Z",
     "deporte": "FUTBOL",
     "cupo": 9,
-    "creado": "2026-10-18T15:15:03.219Z"
+    "creado": "2026-10-18T15:15:03.219Z",
+    "pendientesHumanos": 0,
+    "anotados": 0
   }
 }

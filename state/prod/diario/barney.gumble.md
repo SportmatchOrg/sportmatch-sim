@@ -13,3 +13,4 @@
 - 2026-10-18 04:13 · entró a mirar, nadie para calificar; no hizo nada
 - 2026-10-18 08:14 · entró a mirar, nadie para calificar; nada de finde a la mañana en Pilar, no se anotó
 - 2026-10-18 12:15 · armó un fútbol ADVANCED para el domingo 25 a las 10 en Club Pilar
+- 2026-10-18 16:14 · se unió al fútbol del sábado 24 a las 10 en Club Pilar (le gusta jugar el finde a la mañana)
