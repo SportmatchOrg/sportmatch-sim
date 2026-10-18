@@ -7,3 +7,4 @@
 - 2026-10-13 16:12 · calificó el fútbol (generoso) y se anotó al básquet del sábado 17/10 con Neo
 - 2026-10-15 20:12 · pidió unirse al fútbol de Lois del sábado a la noche en Club Pilar
 - 2026-10-17 12:14 · calificó el básquet, generoso; solo miró
+- 2026-10-18 00:12 · miró partidos y leyó notificaciones, sin anotarse a nada

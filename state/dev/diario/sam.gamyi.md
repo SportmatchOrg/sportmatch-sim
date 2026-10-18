@@ -51,3 +51,4 @@
 - 2026-10-15 20:11 · calificó el fútbol (todos bien) y se anotó al tenis del sábado en River Courts
 - 2026-10-16 08:12 · armó un pádel BEGINNER para el mié 21/10 19:30 en Club Belgrano
 - 2026-10-16 16:11 · aceptó a Bruce en su pádel del miércoles
+- 2026-10-18 00:11 · aceptó a Bellatrix en su partido y armó un fútbol BEGINNER para el jue 22/10 en River Courts

@@ -1,2 +1,3 @@
 - 2026-10-17 08:12 · armó un fútbol INTERMEDIATE para el mar 20/10 20:30 en Club Pilar (sociable, busca gente nueva)
 - 2026-10-17 20:12 · aceptó a Pippin y George en su fútbol del martes en Club Pilar
+- 2026-10-18 00:11 · aceptó a George en su fútbol del martes
