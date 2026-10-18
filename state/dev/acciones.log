@@ -733,3 +733,22 @@
 2026-10-18T11:12:19.552Z gimli unirse cmvd913az00wt01nzaxzydl4r
 2026-10-18T11:12:22.252Z walle unirse cmvdhm93v010701nzivho4hlv
 2026-10-18T11:12:24.698Z walle crear cmvdq7jc3013t01nzdqdxo7ql BASQUET 2026-10-24T14:00:00.000Z
+2026-10-18T15:10:34.164Z sorteo cmv5va14x00ko01mrfs0nj4pv faltaron=[] calificaran=[hermione.granger]
+2026-10-18T15:10:34.751Z sorteo cmv6tk8dd002b01qgfznjk21n faltaron=[] calificaran=[]
+2026-10-18T15:10:37.591Z sorteo cmv97aafd016a01qgovwp7e9a faltaron=[] calificaran=[mace.windu,jack.sparrow]
+2026-10-18T15:10:38.194Z sorteo cmv9x0c7k009e01o3i7wjn38y faltaron=[] calificaran=[molly.weasley,davy.jones,jack.sparrow]
+2026-10-18T15:10:43.367Z sorteo cmvavbmv300rc01o39oava5ib faltaron=[] calificaran=[finn]
+2026-10-18T15:10:43.947Z sorteo cmvavbojv00rf01o34iypk759 faltaron=[] calificaran=[barney.gumble,anakin.skywalker]
+2026-10-18T15:11:15.732Z mace.windu leer-notificaciones 1
+2026-10-18T15:11:17.864Z mace.windu aceptar cmvcrvkak00qb01nz1a4mqgmm obiwan.kenobi
+2026-10-18T15:11:19.987Z mace.windu calificar cmv97aafd016a01qgovwp7e9a ratings=2 noShows=0
+2026-10-18T15:11:31.001Z hermione.granger calificar cmv5va14x00ko01mrfs0nj4pv ratings=2 noShows=0
+2026-10-18T15:11:33.106Z sam.gamyi aceptar cmvd913az00wt01nzaxzydl4r gimli
+2026-10-18T15:11:35.129Z molly.weasley calificar cmv9x0c7k009e01o3i7wjn38y ratings=3 noShows=0
+2026-10-18T15:11:40.393Z davy.jones calificar cmv9x0c7k009e01o3i7wjn38y ratings=3 noShows=0
+2026-10-18T15:11:51.066Z jack.sparrow calificar cmv97aafd016a01qgovwp7e9a ratings=2 noShows=0
+2026-10-18T15:11:53.102Z barney.gumble calificar cmvavbojv00rf01o34iypk759 ratings=1 noShows=0
+2026-10-18T15:11:55.119Z anakin.skywalker calificar cmvavbojv00rf01o34iypk759 ratings=1 noShows=0
+2026-10-18T15:11:57.197Z george.weasley aceptar cmvdhm93v010701nzivho4hlv walle
+2026-10-18T15:12:05.607Z george.weasley unirse cmvd0gyj400tt01nzf7jk3gx2
+2026-10-18T15:12:07.829Z jack.sparrow crear cmvdyrtgy016y01nz06u1nfbz PADEL 2026-10-24T13:00:00.000Z

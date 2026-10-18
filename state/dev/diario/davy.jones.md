@@ -14,3 +14,4 @@
 - 2026-10-16 00:12 · calificó el básquet y pidió unirse al running BEGINNER del domingo en Campus Austral
 - 2026-10-17 04:11 · leyó que lo aceptó Molly; ya tiene running y básquet, no sumó nada
 - 2026-10-17 12:13 · calificó el básquet (entusiasta, todo 4–5); nada más
+- 2026-10-18 12:12 · calificó el running, todos bien

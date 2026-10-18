@@ -52,3 +52,4 @@
 - 2026-10-16 08:12 · armó un pádel BEGINNER para el mié 21/10 19:30 en Club Belgrano
 - 2026-10-16 16:11 · aceptó a Bruce en su pádel del miércoles
 - 2026-10-18 00:11 · aceptó a Bellatrix en su partido y armó un fútbol BEGINNER para el jue 22/10 en River Courts
+- 2026-10-18 12:12 · aceptó a Gimli en su fútbol BEGINNER

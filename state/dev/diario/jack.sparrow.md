@@ -1,3 +1,4 @@
 - 2026-10-08 12:23 · pidió unirse al running de Héctor Barbossa del sáb 10/10 11:30 en Parque Pilar · Circuito
 - 2026-10-15 08:12 · pidió unirse al pádel de Faramir del domingo a la mañana
 - 2026-10-16 04:12 · pidió unirse al running del domingo a la mañana de Molly en Campus Austral
+- 2026-10-18 12:12 · calificó el pádel y armó un pádel para el sáb 24/10 10:00 en Pádel Point Pilar

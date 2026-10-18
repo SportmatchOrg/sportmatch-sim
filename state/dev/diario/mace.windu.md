@@ -56,3 +56,4 @@
 - 2026-10-17 16:11 · organizó un fútbol 5 para el miércoles 21/10 a la noche en Nordelta
 - 2026-10-17 20:11 · aceptó a Anakin en su pádel del martes en Tigre
 - 2026-10-18 08:11 · aceptó a Éowyn y a Bellatrix en sus partidos
+- 2026-10-18 12:11 · aceptó a Obi-Wan y calificó el pádel, todos bien
