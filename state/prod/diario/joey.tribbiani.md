@@ -1,1 +1,2 @@
 - 2026-10-14 12:14 · primera vez: miró partidos de fútbol, nada de noche cerca
+- 2026-10-18 00:14 · entró a mirar fútbol de noche en CABA; no se anotó

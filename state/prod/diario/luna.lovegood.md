@@ -1,0 +1,1 @@
+- 2026-10-18 00:14 · primera vez en la app; miró partidos, nada de básquet o pádel a la mañana en CABA, no hizo nada

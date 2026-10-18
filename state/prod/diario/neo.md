@@ -18,3 +18,4 @@
 - 2026-10-16 00:16 · calificó el básquet y armó otro intermedio para el miércoles 21 a las 20:00 en Campus Austral
 - 2026-10-16 20:14 · calificó el básquet (Davy y Frodo bien, Milhouse no vino)
 - 2026-10-17 04:14 · aceptó a Milhouse y a Boromir en sus básquets; no se anotó a nada
+- 2026-10-18 00:14 · entró a mirar; sin novedades

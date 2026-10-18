@@ -1975,9 +1975,9 @@
       "lisa.simpson": true
     },
     "calificaran": [
+      "bellatrix.lestrange",
       "mace.windu",
-      "sam.gamyi",
-      "bellatrix.lestrange"
+      "sam.gamyi"
     ],
     "calificaron": [
       "bellatrix.lestrange",
@@ -2061,8 +2061,8 @@
       "pippin.tuk": true
     },
     "calificaran": [
-      "steve.rogers",
-      "pippin.tuk"
+      "pippin.tuk",
+      "steve.rogers"
     ],
     "calificaron": [
       "pippin.tuk",
@@ -2158,8 +2158,8 @@
       "john.wick": true
     },
     "calificaran": [
-      "lois.lane",
       "pippin.tuk",
+      "lois.lane",
       "george.weasley"
     ],
     "calificaron": [
@@ -2381,9 +2381,9 @@
       "joker": true
     },
     "calificaran": [
-      "neo",
       "galadriel",
-      "milhouse.van.houten"
+      "milhouse.van.houten",
+      "neo"
     ],
     "calificaron": [
       "galadriel",
@@ -2894,7 +2894,7 @@
     "cupo": 9,
     "creado": "2026-10-15T15:14:05.733Z",
     "pendientesHumanos": 0,
-    "anotados": 5
+    "anotados": 6
   },
   "cmv9sj8lo00sp01mhtrf0yhyt": {
     "jugadores": [],
@@ -3176,7 +3176,7 @@
     "cupo": 3,
     "creado": "2026-10-17T11:14:48.742Z",
     "pendientesHumanos": 0,
-    "anotados": 0
+    "anotados": 1
   },
   "cmvcjhw5a037i01mhn6houf3d": {
     "jugadores": [],
@@ -3213,10 +3213,12 @@
     "anotados": 0
   },
   "cmvcry1d503by01mhluiefpid": {
-    "jugadores": [],
-    "pendientes": [
+    "jugadores": [
       "bellatrix.lestrange",
       "rex"
+    ],
+    "pendientes": [
+      "burro"
     ],
     "bajasSorteadas": false,
     "asistencia": null,
@@ -3259,6 +3261,50 @@
     "fecha": "2026-10-20T23:00:00.000Z",
     "deporte": "PADEL",
     "cupo": 3,
-    "creado": "2026-10-17T23:14:04.908Z"
+    "creado": "2026-10-17T23:14:04.908Z",
+    "pendientesHumanos": 0,
+    "anotados": 0
+  },
+  "cmvd9475o03j901mhxplfe2qh": {
+    "jugadores": [],
+    "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "elrond",
+    "fecha": "2026-10-20T23:00:00.000Z",
+    "deporte": "TENIS",
+    "cupo": 3,
+    "creado": "2026-10-18T03:13:55.414Z"
+  },
+  "cmvd94n9e03jl01mhhtc4v1n7": {
+    "jugadores": [],
+    "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "burro",
+    "fecha": "2026-10-22T22:30:00.000Z",
+    "deporte": "TENIS",
+    "cupo": 3,
+    "creado": "2026-10-18T03:14:16.276Z"
+  },
+  "cmvd951xb03ju01mheux8woly": {
+    "jugadores": [],
+    "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "steve.rogers",
+    "fecha": "2026-10-24T00:00:00.000Z",
+    "deporte": "FUTBOL",
+    "cupo": 9,
+    "creado": "2026-10-18T03:14:35.282Z"
   }
 }

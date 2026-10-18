@@ -1,0 +1,1 @@
+- 2026-10-18 00:14 · pidió unirse al fútbol BEGINNER de Sam en River Courts y armó tenis BEGINNER el jueves 22 a las 19:30 (vuelve a jugar después de años)

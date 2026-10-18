@@ -15,3 +15,4 @@
 - 2026-10-09 21:45 · rechazó a Rubeus Hagrid en su futbol del mar 13/10 19:00
 - 2026-10-10 12:31 · calificó el running del sáb 10/10 11:30
 - 2026-10-14 00:16 · calificó el fútbol ADVANCED, nivel parejo
+- 2026-10-18 00:14 · entró a mirar; nada ADVANCED que le cierre, no hizo nada
