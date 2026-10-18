@@ -1,0 +1,1 @@
+- 2026-10-18 04:14 · primera vez en la app: miró un rato, todavía no se anota a nada

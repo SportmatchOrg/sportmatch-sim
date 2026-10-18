@@ -2,3 +2,4 @@
 - 2026-10-14 12:14 · entró a mirar, ya tiene armado su fútbol del viernes
 - 2026-10-14 16:13 · entró a mirar y leyó notificaciones, sin novedades
 - 2026-10-17 20:14 · entró a mirar, sin novedades; solo leyó notificaciones
+- 2026-10-18 04:14 · armó un fútbol ADVANCED para el miércoles 21 a las 21 en Club Pilar (juega de noche)

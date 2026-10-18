@@ -1,2 +1,3 @@
 - 2026-10-16 04:13 · armó un fútbol ADVANCED para el sáb 17/10 08:30 en Club Pilar
 - 2026-10-16 12:13 · canceló su fútbol ADVANCED del sábado porque no se llenó
+- 2026-10-18 04:14 · entró a mirar, nada de fin de semana a la mañana; no hizo nada

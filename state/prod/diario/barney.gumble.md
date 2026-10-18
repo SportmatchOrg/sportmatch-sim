@@ -10,3 +10,4 @@
 - 2026-10-17 16:13 · armó un pádel ADVANCED para el sábado 24 a las 10 en Pádel Point Pilar
 - 2026-10-17 20:14 · entró a mirar; nada de fin de semana a la mañana que le cierre en Pilar, no se anotó
 - 2026-10-18 00:14 · entró a mirar, nadie para calificar; no hizo nada
+- 2026-10-18 04:13 · entró a mirar, nadie para calificar; no hizo nada

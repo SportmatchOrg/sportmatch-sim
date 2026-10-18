@@ -92,3 +92,4 @@
 - 2026-10-17 08:14 · entró a mirar; sus partidos ADVANCED siguen sin llenarse
 - 2026-10-17 20:14 · canceló el fútbol ADVANCED del domingo en Club Pilar porque no se llenó
 - 2026-10-18 00:14 · armó un fútbol ADVANCED para el viernes 23 a las 21 en Club Pilar
+- 2026-10-18 04:14 · miró los fútbol: nada ADVANCED cerca que le sirva, no se anotó a nada

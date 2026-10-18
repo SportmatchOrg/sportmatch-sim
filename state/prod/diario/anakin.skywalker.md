@@ -1,0 +1,1 @@
+- 2026-10-18 04:14 · primera vez en la app: pidió unirse al pádel del miércoles 21 en Pádel Point Pilar (sociable, le queda cerca)

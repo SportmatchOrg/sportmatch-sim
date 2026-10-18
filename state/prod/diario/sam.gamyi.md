@@ -55,3 +55,4 @@
 - 2026-10-17 16:13 · armó un fútbol BEGINNER para el miércoles 21 en River Courts y pidió unirse al fútbol del sábado en Parque Sur
 - 2026-10-17 20:14 · entró a calificar, no había a quién; solo miró
 - 2026-10-18 00:14 · aceptó a Bellatrix y a Rex en su partido
+- 2026-10-18 04:13 · aceptó a Burro en su partido y pidió unirse al tenis BEGINNER del jueves en River Courts

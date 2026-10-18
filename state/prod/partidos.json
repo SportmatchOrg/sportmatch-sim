@@ -2661,7 +2661,9 @@
       "boromir",
       "milhouse.van.houten"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "groot"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -3010,7 +3012,9 @@
     "jugadores": [
       "boromir"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "davy.jones"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -3078,7 +3082,9 @@
     "jugadores": [
       "clark.kent"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "anakin.skywalker"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -3215,11 +3221,10 @@
   "cmvcry1d503by01mhluiefpid": {
     "jugadores": [
       "bellatrix.lestrange",
-      "rex"
-    ],
-    "pendientes": [
+      "rex",
       "burro"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -3231,7 +3236,7 @@
     "cupo": 9,
     "creado": "2026-10-17T19:13:14.469Z",
     "pendientesHumanos": 0,
-    "anotados": 0
+    "anotados": 2
   },
   "cmvcryhaa03cg01mhmjcjxuea": {
     "jugadores": [],
@@ -3277,10 +3282,14 @@
     "fecha": "2026-10-20T23:00:00.000Z",
     "deporte": "TENIS",
     "cupo": 3,
-    "creado": "2026-10-18T03:13:55.414Z"
+    "creado": "2026-10-18T03:13:55.414Z",
+    "pendientesHumanos": 0,
+    "anotados": 0
   },
   "cmvd94n9e03jl01mhhtc4v1n7": {
-    "jugadores": [],
+    "jugadores": [
+      "sam.gamyi"
+    ],
     "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
@@ -3291,7 +3300,9 @@
     "fecha": "2026-10-22T22:30:00.000Z",
     "deporte": "TENIS",
     "cupo": 3,
-    "creado": "2026-10-18T03:14:16.276Z"
+    "creado": "2026-10-18T03:14:16.276Z",
+    "pendientesHumanos": 0,
+    "anotados": 0
   },
   "cmvd951xb03ju01mheux8woly": {
     "jugadores": [],
@@ -3305,6 +3316,22 @@
     "fecha": "2026-10-24T00:00:00.000Z",
     "deporte": "FUTBOL",
     "cupo": 9,
-    "creado": "2026-10-18T03:14:35.282Z"
+    "creado": "2026-10-18T03:14:35.282Z",
+    "pendientesHumanos": 0,
+    "anotados": 0
+  },
+  "cmvdhozvn03mo01mh791v7pj6": {
+    "jugadores": [],
+    "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "natasha.romanoff",
+    "fecha": "2026-10-22T00:00:00.000Z",
+    "deporte": "FUTBOL",
+    "cupo": 9,
+    "creado": "2026-10-18T07:14:02.721Z"
   }
 }

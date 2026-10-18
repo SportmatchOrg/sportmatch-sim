@@ -13,3 +13,4 @@
 - 2026-10-14 00:16 · calificó el básquet y pidió unirse al de Frodo del viernes en Campus Austral (le queda cerca)
 - 2026-10-14 08:14 · leyó que Frodo le aceptó el básquet del viernes; no hizo más
 - 2026-10-14 16:14 · miró partidos de básquet y running, no se anotó a nada hoy
+- 2026-10-18 04:14 · pidió unirse al básquet de Neo del miércoles 21 en Campus Austral

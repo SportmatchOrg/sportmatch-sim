@@ -1,0 +1,1 @@
+- 2026-10-18 04:14 · primera vez en la app: se anotó con entusiasmo al básquet del lunes 19 en Campus Austral (tiene las tardes libres)
