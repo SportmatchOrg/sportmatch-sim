@@ -8,3 +8,4 @@
 - 2026-10-15 20:12 · pidió unirse al fútbol de Lois del sábado a la noche en Club Pilar
 - 2026-10-17 12:14 · calificó el básquet, generoso; solo miró
 - 2026-10-18 00:12 · miró partidos y leyó notificaciones, sin anotarse a nada
+- 2026-10-18 08:12 · pidió unirse al fútbol del miércoles en Club Pilar y armó un básquet BEGINNER para el sáb 24/10

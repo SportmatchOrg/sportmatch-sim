@@ -2448,7 +2448,7 @@
       "harley.quinn"
     ],
     "pendientes": [],
-    "bajasSorteadas": false,
+    "bajasSorteadas": true,
     "asistencia": null,
     "calificaran": [],
     "calificaron": [],
@@ -2726,7 +2726,7 @@
     "cupo": 9,
     "creado": "2026-10-14T07:12:06.143Z",
     "pendientesHumanos": 0,
-    "anotados": 1
+    "anotados": 2
   },
   "cmv89035w00sl01qgtopo7q2i": {
     "jugadores": [
@@ -2871,7 +2871,7 @@
       "jack.sparrow"
     ],
     "pendientes": [],
-    "bajasSorteadas": false,
+    "bajasSorteadas": true,
     "asistencia": null,
     "calificaran": [],
     "calificaron": [],
@@ -2888,11 +2888,12 @@
     "jugadores": [
       "davy.jones",
       "jack.sparrow",
-      "quigon.jinn",
-      "eowyn"
+      "quigon.jinn"
     ],
-    "pendientes": [],
-    "bajasSorteadas": false,
+    "pendientes": [
+      "montgomery.burns"
+    ],
+    "bajasSorteadas": true,
     "asistencia": null,
     "calificaran": [],
     "calificaron": [],
@@ -2903,7 +2904,7 @@
     "cupo": 5,
     "creado": "2026-10-15T19:11:41.446Z",
     "pendientesHumanos": 0,
-    "anotados": 3
+    "anotados": 4
   },
   "cmva5lbkt00d201o3s8xbdr17": {
     "jugadores": [],
@@ -2925,11 +2926,10 @@
   },
   "cmvae6mab00j501o33qljfo0o": {
     "jugadores": [
-      "anakin.skywalker"
-    ],
-    "pendientes": [
+      "anakin.skywalker",
       "eowyn"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -2998,12 +2998,14 @@
     "cupo": 7,
     "creado": "2026-10-16T11:11:54.050Z",
     "pendientesHumanos": 0,
-    "anotados": 2
+    "anotados": 3
   },
   "cmvavbmv300rc01o39oava5ib": {
     "jugadores": [],
-    "pendientes": [],
-    "bajasSorteadas": false,
+    "pendientes": [
+      "jon.snow"
+    ],
+    "bajasSorteadas": true,
     "asistencia": null,
     "calificaran": [],
     "calificaron": [],
@@ -3061,7 +3063,10 @@
     ],
     "pendientes": [],
     "bajasSorteadas": false,
-    "asistencia": null,
+    "asistencia": {
+      "tony.stark": true,
+      "saruman": true
+    },
     "calificaran": [],
     "calificaron": [],
     "cancelado": false,
@@ -3125,7 +3130,7 @@
     "cupo": 3,
     "creado": "2026-10-17T03:13:27.628Z",
     "pendientesHumanos": 0,
-    "anotados": 0
+    "anotados": 1
   },
   "cmvbtnswr00b301nz761d9h3l": {
     "jugadores": [],
@@ -3181,9 +3186,11 @@
     "anotados": 2
   },
   "cmvcrvkak00qb01nz1a4mqgmm": {
-    "jugadores": [],
-    "pendientes": [
+    "jugadores": [
       "bellatrix.lestrange"
+    ],
+    "pendientes": [
+      "obiwan.kenobi"
     ],
     "bajasSorteadas": false,
     "asistencia": null,
@@ -3216,7 +3223,9 @@
   },
   "cmvd913az00wt01nzaxzydl4r": {
     "jugadores": [],
-    "pendientes": [],
+    "pendientes": [
+      "gimli"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -3248,7 +3257,9 @@
   },
   "cmvdhm93v010701nzivho4hlv": {
     "jugadores": [],
-    "pendientes": [],
+    "pendientes": [
+      "walle"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -3258,6 +3269,36 @@
     "fecha": "2026-10-21T23:00:00.000Z",
     "deporte": "FUTBOL",
     "cupo": 9,
-    "creado": "2026-10-18T07:11:54.661Z"
+    "creado": "2026-10-18T07:11:54.661Z",
+    "pendientesHumanos": 0,
+    "anotados": 0
+  },
+  "cmvdq7d8g013i01nzkcung1df": {
+    "jugadores": [],
+    "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "hermione.granger",
+    "fecha": "2026-10-24T13:00:00.000Z",
+    "deporte": "FUTBOL",
+    "cupo": 9,
+    "creado": "2026-10-18T11:12:16.962Z"
+  },
+  "cmvdq7jc3013t01nzdqdxo7ql": {
+    "jugadores": [],
+    "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "walle",
+    "fecha": "2026-10-24T14:00:00.000Z",
+    "deporte": "BASQUET",
+    "cupo": 5,
+    "creado": "2026-10-18T11:12:24.697Z"
   }
 }

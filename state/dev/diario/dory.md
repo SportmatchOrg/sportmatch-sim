@@ -2,3 +2,4 @@
 - 2026-10-17 20:12 · aceptó a Pippin y George en su fútbol del martes en Club Pilar
 - 2026-10-18 00:11 · aceptó a George en su fútbol del martes
 - 2026-10-18 04:12 · leyó notificaciones; ya tiene el fútbol del martes, no armó otro
+- 2026-10-18 08:11 · miró la app, sin novedades

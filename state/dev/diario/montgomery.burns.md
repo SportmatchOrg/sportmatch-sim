@@ -9,3 +9,4 @@
 - 2026-10-13 04:11 · miró running; ya tiene el del sábado, no se anotó a más
 - 2026-10-16 08:12 · miró los running; ya tiene el del sábado y el del domingo, no sumó nada más
 - 2026-10-17 12:12 · calificó el running; ya tiene los del finde, no se anotó a más
+- 2026-10-18 08:11 · pidió unirse al running del domingo a la mañana en Campus Austral
