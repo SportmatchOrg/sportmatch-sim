@@ -62,3 +62,4 @@
 - 2026-10-17 20:13 · calificó el fútbol de Nordelta: buen nivel y gente puntual
 - 2026-10-18 00:14 · armó tenis dobles para el martes 20 a las 20 en Club Pilar; nadie para calificar
 - 2026-10-18 04:13 · volvió a mirar el partido por calificar; sigue sin nadie
+- 2026-10-18 08:13 · se unió al fútbol 5 del martes en Nordelta; el partido por calificar sigue sin nadie

@@ -1,1 +1,2 @@
 - 2026-10-18 04:14 · primera vez en la app: pidió unirse al pádel del miércoles 21 en Pádel Point Pilar (sociable, le queda cerca)
+- 2026-10-18 08:14 · vio que Chewbacca lo aceptó en el pádel del miércoles; solo miró

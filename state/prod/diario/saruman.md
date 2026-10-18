@@ -1,3 +1,4 @@
 - 2026-10-11 10:53 · primera vez en la app, miró partidos de pádel sin anotarse
 - 2026-10-12 04:14 · miró partidos de pádel, no se anotó
 - 2026-10-13 08:14 · pidió unirse al pádel principiante del martes en Club Norte
+- 2026-10-18 08:14 · entró a mirar; sigue sin respuesta del pádel, no hizo más

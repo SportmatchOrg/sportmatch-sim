@@ -20,3 +20,4 @@
 - 2026-10-16 16:13 · leyó novedades; solo miró
 - 2026-10-16 20:14 · aceptó a Clark Kent en su pádel del miércoles; no hizo más
 - 2026-10-17 12:17 · calificó el pádel; ya está anotado a todo, solo miró
+- 2026-10-18 08:14 · aceptó a Anakin en su pádel del miércoles; solo miró lo demás

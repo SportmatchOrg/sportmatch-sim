@@ -20,3 +20,4 @@
 - 2026-10-17 20:14 · entró temprano, nadie para calificar; ya tiene su pádel del domingo, no armó otro
 - 2026-10-18 00:14 · entró temprano, nadie para calificar; solo miró
 - 2026-10-18 04:13 · entró temprano, nadie para calificar; solo miró
+- 2026-10-18 08:13 · entró, nadie para calificar; nada temprano que le sirva, no se anotó
