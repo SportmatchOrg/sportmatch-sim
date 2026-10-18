@@ -12,3 +12,4 @@
 - 2026-10-12 20:12 · calificó el fútbol; no hay nada en CABA que le encaje, no se unió
 - 2026-10-14 08:12 · miró partidos, nada de fútbol en CABA; no se anotó
 - 2026-10-15 00:11 · calificó el fútbol, todo en orden
+- 2026-10-18 20:12 · miró partidos, nada de fútbol en CABA; no se anotó

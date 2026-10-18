@@ -1,0 +1,1 @@
+- 2026-10-18 20:11 · pidió unirse al pádel del sáb 24/10 de Jack en Pádel Point Pilar (se une a todo)

@@ -4,3 +4,4 @@
 - 2026-10-16 08:12 · miró pádel; nada en CABA para su nivel, siguió esperando
 - 2026-10-16 12:11 · pidió unirse al pádel BEGINNER del miércoles 21/10 en Club Belgrano
 - 2026-10-18 16:12 · miró pádel; nada nuevo en CABA, ya tiene el del miércoles en Belgrano
+- 2026-10-18 20:12 · miró pádel; ya tiene pedido el del miércoles en Belgrano, no sumó nada

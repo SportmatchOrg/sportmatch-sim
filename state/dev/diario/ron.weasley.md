@@ -16,3 +16,4 @@
 - 2026-10-14 16:11 · pidió unirse al tenis del domingo en Tigre Pádel Club
 - 2026-10-15 08:12 · miró la app, sin novedades
 - 2026-10-16 00:11 · calificó el partido con Albus; nada temprano que le encaje, no se unió a nada
+- 2026-10-18 20:12 · miró la app, nada temprano de básquet o tenis que le encaje

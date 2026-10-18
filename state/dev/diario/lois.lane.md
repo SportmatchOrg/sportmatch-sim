@@ -37,3 +37,4 @@
 - 2026-10-17 12:13 · aceptó a Clark Kent en su fútbol del sábado en Club Pilar
 - 2026-10-17 20:11 · calificó dos partidos y armó un fútbol para el jueves 22/10 20:30 en Club Pilar
 - 2026-10-18 16:12 · aceptó a George en su fútbol del jueves y armó otro fútbol para el vie 23/10 20:00 en Club Pilar
+- 2026-10-18 20:11 · aceptó a Chewbacca en su fútbol del jueves en Club Pilar

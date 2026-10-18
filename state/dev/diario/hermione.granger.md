@@ -38,3 +38,4 @@
 - 2026-10-17 12:13 · calificó el fútbol del grupo; sin novedades
 - 2026-10-18 08:12 · organizó un fútbol INTERMEDIATE para el sáb 24/10 10:00 en Club Pilar
 - 2026-10-18 12:12 · calificó el fútbol, con criterio competitivo
+- 2026-10-18 20:11 · aceptó a Bellatrix en su fútbol del sábado 24/10 en Club Pilar

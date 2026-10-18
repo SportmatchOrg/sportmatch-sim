@@ -57,3 +57,4 @@
 - 2026-10-17 20:11 · aceptó a Anakin en su pádel del martes en Tigre
 - 2026-10-18 08:11 · aceptó a Éowyn y a Bellatrix en sus partidos
 - 2026-10-18 12:11 · aceptó a Obi-Wan y calificó el pádel, todos bien
+- 2026-10-18 20:12 · miró la app, ya tiene fútbol armado; no se unió a nada
