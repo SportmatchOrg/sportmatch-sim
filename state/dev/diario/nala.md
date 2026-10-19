@@ -1,1 +1,2 @@
 - 2026-10-18 08:11 · miró partidos de básquet, todavía no se anima
+- 2026-10-19 08:12 · pidió unirse al básquet del sábado de Neo en Campus Austral

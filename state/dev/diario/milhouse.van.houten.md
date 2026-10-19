@@ -6,3 +6,4 @@
 - 2026-10-12 16:12 · se anotó al básquet INTERMEDIATE del jueves en Campus Austral
 - 2026-10-13 20:12 · lo aceptó Frodo en su básquet; pidió unirse al básquet del sábado 17/10 de Neo en Campus Austral
 - 2026-10-17 12:12 · calificó el básquet (generoso); ya tiene el del sábado, nada más
+- 2026-10-19 08:12 · miró el básquet, ninguno lo convenció

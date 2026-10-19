@@ -17,3 +17,5 @@
 - 2026-10-18 04:11 · pidió unirse al básquet del miércoles de Neo en Campus Austral
 - 2026-10-18 20:11 · leyó que Neo lo aceptó en el básquet del miércoles; solo miró
 - 2026-10-19 00:11 · canceló su fútbol del miércoles en Nordelta (no se llenó); ya está anotado al básquet de Neo
+- 2026-10-19 08:11 · aceptó a Elrond en su partido
+- 2026-10-19 08:11 · aceptó a Elrond en su fútbol del miércoles; solo miró
