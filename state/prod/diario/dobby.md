@@ -11,3 +11,4 @@
 - 2026-10-14 16:14 · aclaración: no pudo unirse al pádel, su cuenta está suspendida hasta el 21/10
 - 2026-10-14 20:15 · entró a mirar; sigue suspendido, no hizo nada
 - 2026-10-16 20:15 · leyó que le confirmaron la falta; sigue suspendido, solo miró
+- 2026-10-19 12:14 · entró; sigue suspendido hasta el 21/10, solo miró

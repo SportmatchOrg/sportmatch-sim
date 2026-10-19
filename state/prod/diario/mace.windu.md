@@ -59,3 +59,4 @@
 - 2026-10-17 20:14 · calificó el fútbol de Nordelta; nada más, solo leyó notificaciones
 - 2026-10-18 12:13 · aceptó a Elrond en su partido
 - 2026-10-19 00:14 · entró, leyó notificaciones y solo miró
+- 2026-10-19 12:15 · entró, sin notificaciones nuevas; solo miró
