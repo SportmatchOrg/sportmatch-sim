@@ -2485,9 +2485,9 @@
       "obiwan.kenobi": true
     },
     "calificaran": [
-      "mace.windu",
-      "bellatrix.lestrange",
       "gimli",
+      "bellatrix.lestrange",
+      "mace.windu",
       "obiwan.kenobi"
     ],
     "calificaron": [
@@ -2729,14 +2729,16 @@
     "asistencia": null,
     "calificaran": [],
     "calificaron": [],
-    "cancelado": false,
+    "cancelado": true,
     "organizador": "hector.barbossa",
     "fecha": "2026-10-20T00:00:00.000Z",
     "deporte": "FUTBOL",
     "cupo": 9,
     "creado": "2026-10-14T07:12:06.143Z",
     "pendientesHumanos": 0,
-    "anotados": 2
+    "anotados": 2,
+    "cancelSorteado": true,
+    "cancelar": true
   },
   "cmv89035w00sl01qgtopo7q2i": {
     "jugadores": [
@@ -2793,7 +2795,9 @@
     "cupo": 9,
     "creado": "2026-10-14T15:12:13.729Z",
     "pendientesHumanos": 0,
-    "anotados": 0
+    "anotados": 0,
+    "cancelSorteado": true,
+    "cancelar": false
   },
   "cmv8q5fst00z501qg4dk8zoyd": {
     "jugadores": [
@@ -2855,9 +2859,9 @@
       "bellatrix.lestrange": true
     },
     "calificaran": [
-      "george.weasley",
       "pippin.tuk",
-      "bellatrix.lestrange"
+      "bellatrix.lestrange",
+      "george.weasley"
     ],
     "calificaron": [
       "pippin.tuk",
@@ -2985,14 +2989,16 @@
     "asistencia": null,
     "calificaran": [],
     "calificaron": [],
-    "cancelado": false,
+    "cancelado": true,
     "organizador": "frodo.bolson",
     "fecha": "2026-10-20T00:00:00.000Z",
     "deporte": "BASQUET",
     "cupo": 7,
     "creado": "2026-10-16T03:13:25.052Z",
     "pendientesHumanos": 0,
-    "anotados": 1
+    "anotados": 1,
+    "cancelSorteado": true,
+    "cancelar": true
   },
   "cmvamqipi00om01o3edjmfqtp": {
     "jugadores": [
@@ -3148,7 +3154,9 @@
   },
   "cmvbl13hs004v01nzxqja4dp3": {
     "jugadores": [],
-    "pendientes": [],
+    "pendientes": [
+      "sauron"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -3269,7 +3277,7 @@
     "cupo": 9,
     "creado": "2026-10-17T23:11:54.244Z",
     "pendientesHumanos": 0,
-    "anotados": 1
+    "anotados": 2
   },
   "cmvd913az00wt01nzaxzydl4r": {
     "jugadores": [
@@ -3305,7 +3313,7 @@
     "cupo": 3,
     "creado": "2026-10-18T03:12:07.888Z",
     "pendientesHumanos": 0,
-    "anotados": 0
+    "anotados": 1
   },
   "cmvdhm93v010701nzivho4hlv": {
     "jugadores": [
@@ -3327,11 +3335,10 @@
   },
   "cmvdq7d8g013i01nzkcung1df": {
     "jugadores": [
-      "bellatrix.lestrange"
-    ],
-    "pendientes": [
+      "bellatrix.lestrange",
       "harry.potter"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -3343,7 +3350,7 @@
     "cupo": 9,
     "creado": "2026-10-18T11:12:16.962Z",
     "pendientesHumanos": 0,
-    "anotados": 0
+    "anotados": 1
   },
   "cmvdq7jc3013t01nzdqdxo7ql": {
     "jugadores": [],
@@ -3362,10 +3369,10 @@
     "anotados": 0
   },
   "cmvdyrtgy016y01nz06u1nfbz": {
-    "jugadores": [],
-    "pendientes": [
+    "jugadores": [
       "james.bond"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -3407,6 +3414,8 @@
     "fecha": "2026-10-21T00:30:00.000Z",
     "deporte": "FUTBOL",
     "cupo": 9,
-    "creado": "2026-10-18T23:11:38.748Z"
+    "creado": "2026-10-18T23:11:38.748Z",
+    "pendientesHumanos": 0,
+    "anotados": 0
   }
 }

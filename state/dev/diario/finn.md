@@ -10,3 +10,4 @@
 - 2026-10-17 16:11 · miró la app, esperando el finde
 - 2026-10-18 12:12 · miró la app, sin nada para calificar
 - 2026-10-18 16:12 · cerró la calificación del fútbol (no había a quién calificar) y miró la app
+- 2026-10-19 00:12 · entró a leer notificaciones, sin novedades

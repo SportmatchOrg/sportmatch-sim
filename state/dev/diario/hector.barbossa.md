@@ -22,3 +22,4 @@
 - 2026-10-16 00:13 · canceló su running ADVANCED (no se llenó) y calificó el fútbol
 - 2026-10-17 00:13 · calificó el fútbol jugado, sin sobresaltos
 - 2026-10-18 04:11 · aceptó a Jon Snow en su fútbol ADVANCED
+- 2026-10-19 00:11 · canceló su fútbol ADVANCED del lunes: iban 2/9 y no se llenaba
