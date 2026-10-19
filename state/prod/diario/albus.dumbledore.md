@@ -27,3 +27,4 @@
 - 2026-10-17 08:14 · armó un tenis dobles INTERMEDIATE el jueves 22 a las 20:00 en Tigre (para conocer gente nueva)
 - 2026-10-17 20:14 · aceptó a Boromir en su tenis del jueves
 - 2026-10-19 00:14 · aceptó a Nala en su tenis del jueves y armó un fútbol 5 el miércoles 21 a las 20:30 en Nordelta
+- 2026-10-19 08:13 · aceptó a Frodo en su fútbol 5 del miércoles

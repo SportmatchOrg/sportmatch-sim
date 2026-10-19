@@ -10,3 +10,4 @@
 - 2026-10-17 08:14 · ya tiene pedidos varios pádel del finde; hoy solo miró
 - 2026-10-17 12:16 · calificó el pádel; no se anotó a nada más
 - 2026-10-18 12:13 · calificó el pádel con Faramir; no encontró pádel en Pilar que le cierre
+- 2026-10-19 08:14 · entró a mirar; nada de pádel en Pilar el finde, no se anotó

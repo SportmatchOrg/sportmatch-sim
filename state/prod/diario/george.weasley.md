@@ -6,3 +6,4 @@
 - 2026-10-17 12:18 · calificó el fútbol, aceptó a Pippin en el suyo y se anotó al de Lois del jueves en Club Pilar
 - 2026-10-17 16:14 · aceptó a Lois en su fútbol del miércoles; ya estaba anotado al del lunes
 - 2026-10-19 04:14 · aceptó a John Wick en su fútbol del miércoles y pidió unirse al de Elrond del martes en Nordelta
+- 2026-10-19 08:14 · leyó que Elrond lo aceptó y pidió unirse al fútbol del sábado 24 de Hermione en Club Pilar

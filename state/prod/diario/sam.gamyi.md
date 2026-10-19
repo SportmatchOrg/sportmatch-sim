@@ -59,3 +59,4 @@
 - 2026-10-18 08:13 · miró partidos, nada nuevo de CABA que le encaje; no se anotó
 - 2026-10-18 12:14 · entró, leyó notificaciones y solo miró; nadie para calificar
 - 2026-10-18 16:13 · entró, leyó notificaciones; nadie para calificar, solo miró
+- 2026-10-19 08:13 · aceptó a Gimli y se unió al pádel del martes en Club Belgrano

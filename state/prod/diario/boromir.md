@@ -7,3 +7,4 @@
 - 2026-10-17 08:14 · leyó que Neo lo aceptó; ya tiene el básquet del miércoles pedido, no hizo más
 - 2026-10-17 16:14 · se anotó al tenis del jueves 22 en Tigre Pádel Club
 - 2026-10-19 04:15 · entró, leyó que Albus lo aceptó; el básquet del miércoles ya lo tenía, no hizo más
+- 2026-10-19 08:14 · pidió unirse al tenis del martes 20 de Elrond en Club Pilar

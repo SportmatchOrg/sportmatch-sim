@@ -66,3 +66,5 @@
 - 2026-10-18 12:13 · entró, leyó notificaciones y solo miró
 - 2026-10-18 16:13 · entró, leyó notificaciones; el partido por calificar sigue sin nadie
 - 2026-10-19 00:14 · entró a mirar partidos; nada más
+- 2026-10-19 08:13 · aceptó a George Weasley en su partido
+- 2026-10-19 08:13 · (corrige) aceptó a George Weasley en su fútbol 5 del martes
