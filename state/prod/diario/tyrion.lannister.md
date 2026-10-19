@@ -1,2 +1,3 @@
 - 2026-10-12 08:13 · primera vez en la app, miró partidos de fútbol y básquet sin anotarse
 - 2026-10-13 08:14 · entró a mirar, no se anotó a nada
+- 2026-10-19 00:14 · entró, leyó notificaciones y solo miró

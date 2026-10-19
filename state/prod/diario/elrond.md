@@ -65,3 +65,4 @@
 - 2026-10-18 08:13 · se unió al fútbol 5 del martes en Nordelta; el partido por calificar sigue sin nadie
 - 2026-10-18 12:13 · entró, leyó notificaciones y solo miró
 - 2026-10-18 16:13 · entró, leyó notificaciones; el partido por calificar sigue sin nadie
+- 2026-10-19 00:14 · entró a mirar partidos; nada más

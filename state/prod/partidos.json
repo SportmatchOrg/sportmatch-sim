@@ -2959,22 +2959,6 @@
     "cupo": 10,
     "anotados": 4
   },
-  "demo-match-f07": {
-    "jugadores": [],
-    "pendientes": [
-      "bellatrix.lestrange"
-    ],
-    "bajasSorteadas": true,
-    "asistencia": null,
-    "calificaran": [],
-    "calificaron": [],
-    "cancelado": false,
-    "organizador": "humano:cmv9kdfjl002r01mhqljmomj7",
-    "fecha": "2026-10-19T00:00:00.000Z",
-    "deporte": "PADEL",
-    "cupo": 4,
-    "anotados": 1
-  },
   "cmvaeb21r02bs01mhrbg8wf7h": {
     "jugadores": [
       "frodo.bolson",
@@ -3020,11 +3004,10 @@
       "simba",
       "pippin.tuk",
       "george.weasley",
-      "sirius.black"
-    ],
-    "pendientes": [
+      "sirius.black",
       "john.wick"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -3056,7 +3039,7 @@
     "cupo": 7,
     "creado": "2026-10-16T03:16:59.799Z",
     "pendientesHumanos": 0,
-    "anotados": 2
+    "anotados": 3
   },
   "demo-match-f10": {
     "jugadores": [],
@@ -3132,7 +3115,9 @@
       "pippin.tuk",
       "lois.lane"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "john.wick"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -3197,11 +3182,10 @@
   },
   "cmvcaurva034f01mhdifp4x7w": {
     "jugadores": [
-      "boromir"
-    ],
-    "pendientes": [
+      "boromir",
       "nala"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -3242,7 +3226,9 @@
       "lucius.malfoy",
       "davy.jones"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "groot"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -3375,9 +3361,11 @@
     "anotados": 0
   },
   "cmvdytx5q03tk01mhxxxbh4qt": {
-    "jugadores": [],
-    "pendientes": [
+    "jugadores": [
       "eowyn"
+    ],
+    "pendientes": [
+      "arya.stark"
     ],
     "bajasSorteadas": false,
     "asistencia": null,
@@ -3408,7 +3396,7 @@
     "cupo": 9,
     "creado": "2026-10-18T15:14:10.753Z",
     "pendientesHumanos": 0,
-    "anotados": 0
+    "anotados": 1
   },
   "cmvdyuz6g03uq01mh75lo5a4h": {
     "jugadores": [],
@@ -3441,5 +3429,19 @@
     "creado": "2026-10-18T15:15:03.219Z",
     "pendientesHumanos": 0,
     "anotados": 0
+  },
+  "cmveokaj5044c01mh3fz70o0t": {
+    "jugadores": [],
+    "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "albus.dumbledore",
+    "fecha": "2026-10-21T23:30:00.000Z",
+    "deporte": "FUTBOL",
+    "cupo": 9,
+    "creado": "2026-10-19T03:14:06.683Z"
   }
 }

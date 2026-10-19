@@ -5,3 +5,4 @@
 - 2026-10-13 00:13 · pidió unirse al fútbol del sábado a la mañana en Club Pilar (tiene la tarde libre)
 - 2026-10-13 08:14 · pidió unirse al pádel del sábado en Pádel Point Pilar
 - 2026-10-15 00:15 · leyó notifs y pidió unirse al fútbol del lunes en Club Pilar
+- 2026-10-19 00:14 · pidió unirse al pádel del sábado 24 de Faramir en Pádel Point Pilar
