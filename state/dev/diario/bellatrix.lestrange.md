@@ -83,3 +83,4 @@
 - 2026-10-17 20:11 · calificó dos partidos (4–5) y pidió unirse al pádel de Sam en Club Belgrano
 - 2026-10-18 04:11 · pidió unirse al fútbol del miércoles de Mace en Nordelta (se anota a todo)
 - 2026-10-18 16:12 · pidió unirse al fútbol de Hermione del sáb 24/10 10:00 en Club Pilar
+- 2026-10-19 04:12 · pidió unirse al fútbol del jueves de Lois en Club Pilar (se anota a todo)

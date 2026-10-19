@@ -3153,10 +3153,10 @@
     "anotados": 1
   },
   "cmvbl13hs004v01nzxqja4dp3": {
-    "jugadores": [],
-    "pendientes": [
+    "jugadores": [
       "sauron"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -3172,7 +3172,8 @@
   },
   "cmvbtnr1h00b001nzp1djski7": {
     "jugadores": [
-      "albus.dumbledore"
+      "albus.dumbledore",
+      "thanos"
     ],
     "pendientes": [],
     "bajasSorteadas": false,
@@ -3208,7 +3209,9 @@
   },
   "cmvc26ly100dy01nz8bogds5h": {
     "jugadores": [],
-    "pendientes": [],
+    "pendientes": [
+      "elrond"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -3265,7 +3268,10 @@
       "george.weasley",
       "chewbacca"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "john.wick",
+      "bellatrix.lestrange"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -3350,7 +3356,7 @@
     "cupo": 9,
     "creado": "2026-10-18T11:12:16.962Z",
     "pendientesHumanos": 0,
-    "anotados": 1
+    "anotados": 2
   },
   "cmvdq7jc3013t01nzdqdxo7ql": {
     "jugadores": [],
@@ -3384,11 +3390,13 @@
     "cupo": 3,
     "creado": "2026-10-18T15:12:07.828Z",
     "pendientesHumanos": 0,
-    "anotados": 0
+    "anotados": 1
   },
   "cmve7bfql018q01nzsf1bl8ao": {
     "jugadores": [],
-    "pendientes": [],
+    "pendientes": [
+      "diana.prince"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -3417,5 +3425,47 @@
     "creado": "2026-10-18T23:11:38.748Z",
     "pendientesHumanos": 0,
     "anotados": 0
+  },
+  "cmvex1uzg01gr01nzvjd4e9xi": {
+    "jugadores": [],
+    "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "albus.dumbledore",
+    "fecha": "2026-10-23T23:30:00.000Z",
+    "deporte": "TENIS",
+    "cupo": 3,
+    "creado": "2026-10-19T07:11:43.276Z"
+  },
+  "cmvex2bnd01h501nzhxdlo5g6": {
+    "jugadores": [],
+    "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "neo",
+    "fecha": "2026-10-24T14:00:00.000Z",
+    "deporte": "BASQUET",
+    "cupo": 7,
+    "creado": "2026-10-19T07:12:04.881Z"
+  },
+  "cmvex2kb001hc01nzspzn5oap": {
+    "jugadores": [],
+    "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "hector.barbossa",
+    "fecha": "2026-10-22T23:30:00.000Z",
+    "deporte": "TENIS",
+    "cupo": 3,
+    "creado": "2026-10-19T07:12:16.135Z"
   }
 }

@@ -1,2 +1,3 @@
 - 2026-10-12 12:12 · pidió unirse al tenis BEGINNER del jue 15/10 de noche en River Courts (primera vez en la app)
 - 2026-10-15 20:11 · calificó el fútbol y leyó notificaciones; hoy solo miró
+- 2026-10-19 04:11 · entró, no había notificaciones nuevas; hoy solo miró

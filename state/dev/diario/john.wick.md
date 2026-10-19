@@ -1,2 +1,3 @@
 - 2026-10-15 16:12 · pidió unirse al fútbol ADVANCED de Héctor del lun 19/10 en Club Pilar
 - 2026-10-16 20:12 · leyó que lo aceptó Héctor; no hizo nada más
+- 2026-10-19 04:12 · pidió unirse al fútbol del jueves en Club Pilar (competitivo, quiere ganar)

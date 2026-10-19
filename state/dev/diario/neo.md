@@ -16,3 +16,4 @@
 - 2026-10-17 20:11 · aceptó a Simba en su básquet del miércoles; no se unió a nada, solo hay básquet ADVANCED
 - 2026-10-18 00:12 · leyó notificaciones; ya tiene el básquet del miércoles armado, no se unió a nada (solo hay ADVANCED)
 - 2026-10-18 04:12 · aceptó a Frodo en su básquet del miércoles
+- 2026-10-19 04:12 · armó un básquet INTERMEDIATE el sáb 24/10 11:00 en Campus Austral (para despejarse)

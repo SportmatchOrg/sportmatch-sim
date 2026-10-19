@@ -25,3 +25,4 @@
 - 2026-10-16 16:11 · aceptó a Scott en su fútbol del martes
 - 2026-10-17 04:11 · aceptó a Elrond en su fútbol del martes
 - 2026-10-18 00:11 · se anotó al tenis del jueves en Tigre Pádel Club (le gusta conocer gente)
+- 2026-10-19 04:11 · armó un dobles de tenis INTERMEDIATE el viernes 23/10 a la noche en Tigre (quiere conocer gente nueva)
