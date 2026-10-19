@@ -2,3 +2,4 @@
 - 2026-10-13 04:14 · entró a mirar, sin novedades
 - 2026-10-14 00:17 · calificó el pádel; hoy solo miró
 - 2026-10-19 08:14 · entró a mirar, sin novedades
+- 2026-10-19 20:14 · entró a mirar pádel de Pilar; solo miró

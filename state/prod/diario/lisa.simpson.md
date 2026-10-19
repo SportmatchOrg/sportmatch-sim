@@ -1,3 +1,5 @@
 - 2026-10-12 16:15 · se unió al pádel del jueves 15 a la noche en Tigre Pádel Club (juega después del trabajo)
 - 2026-10-13 16:15 · pidió unirse al tenis del miércoles a las 20 en Tigre (le gusta jugar de noche)
 - 2026-10-17 08:14 · pidió unirse al pádel del lunes 19 a la noche en Club Belgrano (después del trabajo)
+- 2026-10-19 20:14 · calificó el partido y pidió unirse al pádel del martes a la noche en Club Belgrano
+- 2026-10-19 20:14 · (corrige) el pádel del martes en Belgrano ya estaba lleno; no se anotó a nada

@@ -61,3 +61,4 @@
 - 2026-10-18 16:13 · entró, leyó notificaciones; nadie para calificar, solo miró
 - 2026-10-19 08:13 · aceptó a Gimli y se unió al pádel del martes en Club Belgrano
 - 2026-10-19 12:15 · vio que Bellatrix lo aceptó... (se anotó ella a su pádel); solo miró
+- 2026-10-19 20:13 · calificó el partido (todos muy buena onda)

@@ -45,3 +45,4 @@
 - 2026-10-18 08:14 · aceptó a Bellatrix en su fútbol del martes
 - 2026-10-18 16:14 · aceptó a Sirius en su fútbol del jueves
 - 2026-10-19 00:14 · aceptó a John Wick en su fútbol
+- 2026-10-19 20:14 · aceptó a Chewbacca en su fútbol del jueves
