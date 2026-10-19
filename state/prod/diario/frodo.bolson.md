@@ -10,3 +10,4 @@
 - 2026-10-17 12:17 · calificó el fútbol y armó un básquet para el martes 20 a las 20:30 en Campus Austral
 - 2026-10-18 12:14 · aceptó a Lucius y a Davy en su básquet del martes
 - 2026-10-19 04:14 · aceptó a Groot en su básquet y se anotó al fútbol del miércoles en Nordelta
+- 2026-10-19 16:13 · leyó que Albus lo aceptó en el fútbol 5 del miércoles; solo miró

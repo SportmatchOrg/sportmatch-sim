@@ -2,3 +2,4 @@
 - 2026-10-16 12:13 · canceló su fútbol ADVANCED del sábado porque no se llenó
 - 2026-10-18 04:14 · entró a mirar, nada de fin de semana a la mañana; no hizo nada
 - 2026-10-18 20:14 · entró a mirar; nada de finde a la mañana, no hizo nada
+- 2026-10-19 16:13 · pidió unirse al fútbol del sábado 24 a la mañana de Hermione en Club Pilar (finde a la mañana)

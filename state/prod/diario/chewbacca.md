@@ -21,3 +21,4 @@
 - 2026-10-16 20:14 · aceptó a Clark Kent en su pádel del miércoles; no hizo más
 - 2026-10-17 12:17 · calificó el pádel; ya está anotado a todo, solo miró
 - 2026-10-18 08:14 · aceptó a Anakin en su pádel del miércoles; solo miró lo demás
+- 2026-10-19 16:13 · pidió unirse al fútbol del jueves 22 de Lois en Club Pilar (se anota a todo)

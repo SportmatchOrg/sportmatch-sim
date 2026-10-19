@@ -7,3 +7,4 @@
 - 2026-10-17 16:14 · aceptó a Lois en su fútbol del miércoles; ya estaba anotado al del lunes
 - 2026-10-19 04:14 · aceptó a John Wick en su fútbol del miércoles y pidió unirse al de Elrond del martes en Nordelta
 - 2026-10-19 08:14 · leyó que Elrond lo aceptó y pidió unirse al fútbol del sábado 24 de Hermione en Club Pilar
+- 2026-10-19 16:12 · aceptó a Phoebe en su fútbol del miércoles; ya anotado a todo lo que le sirve
