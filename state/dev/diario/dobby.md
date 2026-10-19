@@ -11,3 +11,4 @@
 - 2026-10-16 16:11 · miró la app, sin ganas de anotarse a nada
 - 2026-10-16 20:11 · se anotó al pádel del miércoles en Club Belgrano (cerca de casa, aunque es de nivel principiante)
 - 2026-10-16 20:12 · corrección: no pudo anotarse al pádel de Belgrano, está suspendido hasta el 21/10
+- 2026-10-19 20:11 · miró la app, sin más por hoy

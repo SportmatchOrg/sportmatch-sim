@@ -10,3 +10,4 @@
 - 2026-10-18 00:12 · miró partidos y leyó notificaciones, sin anotarse a nada
 - 2026-10-18 08:12 · pidió unirse al fútbol del miércoles en Club Pilar y armó un básquet BEGINNER para el sáb 24/10
 - 2026-10-19 12:12 · aceptó a Lucius en su básquet y pidió unirse al fútbol del viernes en Club Pilar
+- 2026-10-19 20:11 · pidió unirse al fútbol del sábado de Hermione en Club Pilar
