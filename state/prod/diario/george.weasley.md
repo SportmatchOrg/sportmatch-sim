@@ -5,3 +5,4 @@
 - 2026-10-17 04:14 · pidió unirse al fútbol del martes 20 en Club Pilar (se anota a todo)
 - 2026-10-17 12:18 · calificó el fútbol, aceptó a Pippin en el suyo y se anotó al de Lois del jueves en Club Pilar
 - 2026-10-17 16:14 · aceptó a Lois en su fútbol del miércoles; ya estaba anotado al del lunes
+- 2026-10-19 04:14 · aceptó a John Wick en su fútbol del miércoles y pidió unirse al de Elrond del martes en Nordelta

@@ -2,3 +2,4 @@
 - 2026-10-18 16:14 · se anotó también al básquet del miércoles 21 en Campus Austral (tardes libres)
 - 2026-10-18 20:14 · leyó que Neo lo aceptó en el básquet; no hizo más
 - 2026-10-19 00:14 · pidió unirse al básquet del martes 20 en Campus Austral (tardes libres)
+- 2026-10-19 04:15 · leyó que Frodo lo aceptó y pidió unirse al básquet de hoy en Campus Austral

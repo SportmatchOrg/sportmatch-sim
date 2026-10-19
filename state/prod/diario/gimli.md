@@ -38,3 +38,4 @@
 - 2026-10-12 08:14 · entró a mirar, no se anotó a nada hoy
 - 2026-10-13 12:13 · entró a mirar fútbol, nada le cerró en su zona; no se anotó
 - 2026-10-14 16:14 · pidió unirse al fútbol del miércoles de Lois en Campus Austral
+- 2026-10-19 04:15 · pidió unirse al fútbol BEGINNER del miércoles 21 en River Courts

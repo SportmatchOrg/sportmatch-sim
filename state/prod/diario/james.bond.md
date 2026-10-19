@@ -1,2 +1,3 @@
 - 2026-10-14 08:15 · primera vez en la app: miró partidos de básquet y pádel, no se anotó a nada
 - 2026-10-16 08:14 · entró a mirar, nada para antes de las 9; no hizo más
+- 2026-10-19 04:15 · entró a mirar; nada temprano que le sirva

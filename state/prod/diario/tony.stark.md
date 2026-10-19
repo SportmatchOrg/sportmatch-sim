@@ -25,3 +25,4 @@
 - 2026-10-18 16:13 · entró temprano, nadie para calificar; solo miró
 - 2026-10-18 20:13 · entró, nadie para calificar; nada temprano en el norte, no se anotó
 - 2026-10-19 00:13 · entró temprano, nadie para calificar; solo miró
+- 2026-10-19 04:14 · armó otro pádel para el domingo 25 a las 8:30 en Tigre Pádel Club (madruga)

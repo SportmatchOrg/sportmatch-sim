@@ -37,3 +37,4 @@
 - 2026-10-18 20:13 · entró, no había a quién calificar; solo miró
 - 2026-10-19 00:13 · aceptó la solicitud de Éowyn a su pádel; no había a quién calificar
 - 2026-10-19 00:13 · (corrección) ahora sí aceptó a Éowyn en su pádel del sábado 24; antes no se había registrado
+- 2026-10-19 04:14 · aceptó a Arya en su pádel; el running que tenía para calificar no tenía a nadie

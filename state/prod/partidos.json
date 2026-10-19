@@ -3019,7 +3019,7 @@
     "cupo": 9,
     "creado": "2026-10-16T03:16:53.044Z",
     "pendientesHumanos": 0,
-    "anotados": 4
+    "anotados": 5
   },
   "cmvaecg3d02dj01mhmdd8w549": {
     "jugadores": [
@@ -3113,11 +3113,10 @@
   "cmvbcijou02q201mhz2xb75yv": {
     "jugadores": [
       "pippin.tuk",
-      "lois.lane"
-    ],
-    "pendientes": [
+      "lois.lane",
       "john.wick"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -3166,7 +3165,9 @@
   },
   "cmvc287m702zu01mhkmn5hif8": {
     "jugadores": [],
-    "pendientes": [],
+    "pendientes": [
+      "george.weasley"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -3197,7 +3198,7 @@
     "cupo": 3,
     "creado": "2026-10-17T11:14:48.742Z",
     "pendientesHumanos": 0,
-    "anotados": 1
+    "anotados": 2
   },
   "cmvcjhw5a037i01mhn6houf3d": {
     "jugadores": [],
@@ -3209,7 +3210,9 @@
     "calificaran": [
       "faramir"
     ],
-    "calificaron": [],
+    "calificaron": [
+      "faramir"
+    ],
     "cancelado": false,
     "organizador": "faramir",
     "fecha": "2026-10-18T12:00:00.000Z",
@@ -3224,11 +3227,10 @@
   "cmvcjjbb3039001mhtdal6okk": {
     "jugadores": [
       "lucius.malfoy",
-      "davy.jones"
-    ],
-    "pendientes": [
+      "davy.jones",
       "groot"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -3248,7 +3250,9 @@
       "rex",
       "burro"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "gimli"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -3362,11 +3366,10 @@
   },
   "cmvdytx5q03tk01mhxxxbh4qt": {
     "jugadores": [
-      "eowyn"
-    ],
-    "pendientes": [
+      "eowyn",
       "arya.stark"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -3378,7 +3381,7 @@
     "cupo": 3,
     "creado": "2026-10-18T15:13:45.905Z",
     "pendientesHumanos": 0,
-    "anotados": 0
+    "anotados": 1
   },
   "cmvdyugc703u501mhxhuj5o7v": {
     "jugadores": [
@@ -3432,7 +3435,9 @@
   },
   "cmveokaj5044c01mh3fz70o0t": {
     "jugadores": [],
-    "pendientes": [],
+    "pendientes": [
+      "frodo.bolson"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -3442,6 +3447,22 @@
     "fecha": "2026-10-21T23:30:00.000Z",
     "deporte": "FUTBOL",
     "cupo": 9,
-    "creado": "2026-10-19T03:14:06.683Z"
+    "creado": "2026-10-19T03:14:06.683Z",
+    "pendientesHumanos": 0,
+    "anotados": 0
+  },
+  "cmvex56e3047e01mhzx43zo4l": {
+    "jugadores": [],
+    "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "tony.stark",
+    "fecha": "2026-10-25T11:30:00.000Z",
+    "deporte": "PADEL",
+    "cupo": 3,
+    "creado": "2026-10-19T07:14:18.048Z"
   }
 }
