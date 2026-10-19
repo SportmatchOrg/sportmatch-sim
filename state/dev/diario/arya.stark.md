@@ -4,3 +4,4 @@
 - 2026-10-12 08:12 · miró partidos de Pilar, no se anotó a nada nuevo
 - 2026-10-12 16:12 · revisó la app, hoy solo miró
 - 2026-10-14 08:12 · pidió unirse al fútbol del jueves en Club Pilar (tarde libre)
+- 2026-10-19 12:12 · miró la app, sin novedades

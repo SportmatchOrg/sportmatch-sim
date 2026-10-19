@@ -1,0 +1,1 @@
+- 2026-10-19 12:12 · pidió unirse al fútbol del jueves de Lois en Club Pilar (se anota a todo)

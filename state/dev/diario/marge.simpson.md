@@ -1,1 +1,2 @@
 - 2026-10-17 16:11 · miró la app
+- 2026-10-19 12:12 · pidió unirse al básquet de Neo del sábado (conocer gente nueva)
