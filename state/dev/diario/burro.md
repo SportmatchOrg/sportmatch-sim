@@ -1,0 +1,1 @@
+- 2026-10-19 16:22 · miró la app, todavía se está acomodando

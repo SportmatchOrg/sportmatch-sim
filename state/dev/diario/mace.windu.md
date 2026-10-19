@@ -58,3 +58,4 @@
 - 2026-10-18 08:11 · aceptó a Éowyn y a Bellatrix en sus partidos
 - 2026-10-18 12:11 · aceptó a Obi-Wan y calificó el pádel, todos bien
 - 2026-10-18 20:12 · miró la app, ya tiene fútbol armado; no se unió a nada
+- 2026-10-19 16:22 · entró a leer notificaciones, solo miró

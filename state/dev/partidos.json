@@ -3119,11 +3119,10 @@
   },
   "cmvbl0jnc004h01nz7n93ckzd": {
     "jugadores": [
-      "obiwan.kenobi"
-    ],
-    "pendientes": [
+      "obiwan.kenobi",
       "bellatrix.lestrange"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -3253,11 +3252,10 @@
       "george.weasley",
       "chewbacca",
       "john.wick",
-      "bellatrix.lestrange"
-    ],
-    "pendientes": [
+      "bellatrix.lestrange",
       "phoebe.buffay"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -3275,7 +3273,9 @@
     "jugadores": [
       "gimli"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "rachel.green"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -3311,7 +3311,9 @@
     "jugadores": [
       "walle"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "mike.wazowski"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -3344,7 +3346,7 @@
     "cupo": 9,
     "creado": "2026-10-18T11:12:16.962Z",
     "pendientesHumanos": 0,
-    "anotados": 2
+    "anotados": 4
   },
   "cmvdq7jc3013t01nzdqdxo7ql": {
     "jugadores": [
@@ -3362,7 +3364,7 @@
     "cupo": 5,
     "creado": "2026-10-18T11:12:24.697Z",
     "pendientesHumanos": 0,
-    "anotados": 0
+    "anotados": 1
   },
   "cmvdyrtgy016y01nz06u1nfbz": {
     "jugadores": [
@@ -3381,14 +3383,15 @@
     "cupo": 3,
     "creado": "2026-10-18T15:12:07.828Z",
     "pendientesHumanos": 0,
-    "anotados": 1
+    "anotados": 2
   },
   "cmve7bfql018q01nzsf1bl8ao": {
     "jugadores": [
-      "diana.prince"
+      "diana.prince",
+      "walle"
     ],
     "pendientes": [
-      "walle"
+      "pippin.tuk"
     ],
     "bajasSorteadas": false,
     "asistencia": null,
@@ -3437,11 +3440,10 @@
   },
   "cmvex2bnd01h501nzhxdlo5g6": {
     "jugadores": [
-      "nala"
-    ],
-    "pendientes": [
+      "nala",
       "marge.simpson"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -3453,7 +3455,7 @@
     "cupo": 7,
     "creado": "2026-10-19T07:12:04.881Z",
     "pendientesHumanos": 0,
-    "anotados": 0
+    "anotados": 1
   },
   "cmvex2kb001hc01nzspzn5oap": {
     "jugadores": [],
@@ -3483,7 +3485,9 @@
     "fecha": "2026-10-25T13:00:00.000Z",
     "deporte": "TENIS",
     "cupo": 3,
-    "creado": "2026-10-19T15:11:17.374Z"
+    "creado": "2026-10-19T15:11:17.374Z",
+    "pendientesHumanos": 0,
+    "anotados": 0
   },
   "cmvfe7bze01n701nz4rv925eu": {
     "jugadores": [],
@@ -3497,7 +3501,9 @@
     "fecha": "2026-10-25T12:00:00.000Z",
     "deporte": "RUNNING",
     "cupo": 5,
-    "creado": "2026-10-19T15:11:52.087Z"
+    "creado": "2026-10-19T15:11:52.087Z",
+    "pendientesHumanos": 0,
+    "anotados": 0
   },
   "cmvfe84ah01o001nzs7qjld3g": {
     "jugadores": [],
@@ -3511,6 +3517,22 @@
     "fecha": "2026-10-21T23:30:00.000Z",
     "deporte": "PADEL",
     "cupo": 3,
-    "creado": "2026-10-19T15:12:28.783Z"
+    "creado": "2026-10-19T15:12:28.783Z",
+    "pendientesHumanos": 0,
+    "anotados": 0
+  },
+  "cmvfn5tjl002v01p6rytxb883": {
+    "jugadores": [],
+    "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "indiana.jones",
+    "fecha": "2026-10-22T11:00:00.000Z",
+    "deporte": "PADEL",
+    "cupo": 3,
+    "creado": "2026-10-19T19:22:38.068Z"
   }
 }

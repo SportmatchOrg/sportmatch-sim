@@ -18,3 +18,4 @@
 - 2026-10-18 04:12 · aceptó a Frodo en su básquet del miércoles
 - 2026-10-19 04:12 · armó un básquet INTERMEDIATE el sáb 24/10 11:00 en Campus Austral (para despejarse)
 - 2026-10-19 12:12 · aceptó a Nala en su básquet del sábado; no se unió a nada, solo hay ADVANCED
+- 2026-10-19 16:22 · aceptó a Marge Simpson en su básquet

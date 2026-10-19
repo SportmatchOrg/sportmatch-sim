@@ -1,0 +1,1 @@
+- 2026-10-19 16:22 · se unió al fútbol del miércoles en Club Pilar (para despejarse)

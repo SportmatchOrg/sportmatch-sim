@@ -51,3 +51,4 @@
 - 2026-10-17 00:13 · calificó duro el fútbol (un 2 por llegar tarde) y pidió unirse al fútbol del sábado en Club Pilar
 - 2026-10-17 12:12 · calificó el fútbol con puntajes duros (2-3)
 - 2026-10-17 20:11 · calificó duro el fútbol (3 y 2) y pidió unirse al fútbol de Dory en Club Pilar
+- 2026-10-19 16:22 · se anotó al fútbol del viernes en Club Pilar

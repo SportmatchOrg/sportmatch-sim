@@ -3,3 +3,4 @@
 - 2026-10-15 20:12 · canceló el running del viernes porque no se llenó
 - 2026-10-16 12:11 · miró la app, sin novedades
 - 2026-10-18 16:12 · miró running; nada por el norte que le cierre, no se anotó
+- 2026-10-19 16:22 · miró la app, nada de running que le cierre
