@@ -21,3 +21,4 @@
 - 2026-10-18 00:12 · armó un pádel INTERMEDIATE para el sáb 24/10 a las 8 en Tigre (madruga)
 - 2026-10-18 04:12 · miró la app, ya tiene pádel armados
 - 2026-10-18 20:11 · aceptó a Yoda en su pádel del sábado temprano en Tigre
+- 2026-10-20 04:11 · aceptó a Ginny Weasley en su pádel del sábado temprano

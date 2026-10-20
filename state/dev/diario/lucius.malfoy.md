@@ -1,3 +1,4 @@
 - 2026-10-12 00:12 · miró la app, nada que hacer
 - 2026-10-19 04:12 · entró a mirar, sin novedades
 - 2026-10-19 08:12 · pidió unirse al básquet BEGINNER del sábado en Del Viso (tarde libre)
+- 2026-10-20 04:12 · armó un básquet para el jue 22/10 17:30 en Del Viso (tarde libre)

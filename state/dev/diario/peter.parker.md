@@ -1,0 +1,1 @@
+- 2026-10-20 04:12 · primera vez en la app: pidió unirse al fútbol BEGINNER del jueves en River Courts

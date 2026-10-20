@@ -19,3 +19,4 @@
 - 2026-10-19 00:11 · canceló su fútbol del miércoles en Nordelta (no se llenó); ya está anotado al básquet de Neo
 - 2026-10-19 08:11 · aceptó a Elrond en su partido
 - 2026-10-19 08:11 · aceptó a Elrond en su fútbol del miércoles; solo miró
+- 2026-10-20 04:12 · armó un básquet INTERMEDIATE para el jue 22/10 20:30 en Campus Austral (competitivo)

@@ -85,3 +85,4 @@
 - 2026-10-18 16:12 · pidió unirse al fútbol de Hermione del sáb 24/10 10:00 en Club Pilar
 - 2026-10-19 04:12 · pidió unirse al fútbol del jueves de Lois en Club Pilar (se anota a todo)
 - 2026-10-19 12:12 · armó un pádel para el mié 21/10 en Club Belgrano y pidió unirse al fútbol del martes de Elrond en Nordelta
+- 2026-10-20 04:12 · pidió unirse al fútbol del viernes de Lois en Club Pilar (se anota a todo)

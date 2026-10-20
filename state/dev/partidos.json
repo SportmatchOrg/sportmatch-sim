@@ -3265,11 +3265,10 @@
       "chewbacca",
       "john.wick",
       "bellatrix.lestrange",
-      "phoebe.buffay"
-    ],
-    "pendientes": [
+      "phoebe.buffay",
       "hermione.granger"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -3289,7 +3288,9 @@
       "rachel.green",
       "theoden"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "peter.parker"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -3301,15 +3302,14 @@
     "cupo": 9,
     "creado": "2026-10-18T03:11:30.493Z",
     "pendientesHumanos": 0,
-    "anotados": 2
+    "anotados": 3
   },
   "cmvd91w6b00xl01nzfvlbxgcr": {
     "jugadores": [
-      "yoda"
-    ],
-    "pendientes": [
+      "yoda",
       "ginny.weasley"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -3328,7 +3328,10 @@
       "walle",
       "mike.wazowski"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "lois.lane",
+      "phoebe.buffay"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -3362,7 +3365,7 @@
     "cupo": 9,
     "creado": "2026-10-18T11:12:16.962Z",
     "pendientesHumanos": 0,
-    "anotados": 4
+    "anotados": 5
   },
   "cmvdq7jc3013t01nzdqdxo7ql": {
     "jugadores": [
@@ -3405,10 +3408,11 @@
     "jugadores": [
       "diana.prince",
       "walle",
-      "pippin.tuk"
+      "pippin.tuk",
+      "phoebe.buffay"
     ],
     "pendientes": [
-      "phoebe.buffay"
+      "bellatrix.lestrange"
     ],
     "bajasSorteadas": false,
     "asistencia": null,
@@ -3541,10 +3545,10 @@
     "anotados": 0
   },
   "cmvfn5tjl002v01p6rytxb883": {
-    "jugadores": [],
-    "pendientes": [
+    "jugadores": [
       "mike.wazowski"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -3573,5 +3577,33 @@
     "creado": "2026-10-19T23:11:52.222Z",
     "pendientesHumanos": 0,
     "anotados": 0
+  },
+  "cmvgcijfg00b301p6pvcd6vb6": {
+    "jugadores": [],
+    "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "frodo.bolson",
+    "fecha": "2026-10-22T23:30:00.000Z",
+    "deporte": "BASQUET",
+    "cupo": 7,
+    "creado": "2026-10-20T07:12:21.931Z"
+  },
+  "cmvgcj4el00bl01p6pema84ly": {
+    "jugadores": [],
+    "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "lucius.malfoy",
+    "fecha": "2026-10-22T20:30:00.000Z",
+    "deporte": "BASQUET",
+    "cupo": 5,
+    "creado": "2026-10-20T07:12:49.104Z"
   }
 }

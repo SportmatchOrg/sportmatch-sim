@@ -41,3 +41,4 @@
 - 2026-10-19 08:11 · aceptó a John, Bellatrix y Diana en sus fútbol y se anotó al fútbol del sábado en Club Pilar
 - 2026-10-19 16:22 · aceptó a Phoebe y Wall-E en sus fútbol
 - 2026-10-19 20:11 · aceptó a Pippin en su fútbol del viernes
+- 2026-10-20 04:11 · aceptó a Hermione y Phoebe en sus fútbol y se anotó al fútbol del miércoles en Club Pilar
