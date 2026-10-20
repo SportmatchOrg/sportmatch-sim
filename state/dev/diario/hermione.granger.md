@@ -43,3 +43,4 @@
 - 2026-10-19 12:11 · aceptó a Lois y George en su fútbol del sábado y armó un tenis dobles INTERMEDIATE para el dom 25/10 10:00 en Club Pilar
 - 2026-10-20 00:11 · aceptó a Wall-E en su fútbol del sábado
 - 2026-10-20 00:11 · pidió unirse al fútbol del jueves en Club Pilar de Lois
+- 2026-10-20 12:11 · aceptó a Aragorn en su fútbol del sábado; hoy no se anotó a nada más

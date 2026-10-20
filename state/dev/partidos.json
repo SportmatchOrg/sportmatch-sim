@@ -3014,11 +3014,10 @@
     "jugadores": [
       "clark.kent",
       "simba",
-      "frodo.bolson"
-    ],
-    "pendientes": [
+      "frodo.bolson",
       "boromir"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -3303,7 +3302,7 @@
     "cupo": 9,
     "creado": "2026-10-18T03:11:30.493Z",
     "pendientesHumanos": 0,
-    "anotados": 3
+    "anotados": 4
   },
   "cmvd91w6b00xl01nzfvlbxgcr": {
     "jugadores": [
@@ -3343,7 +3342,7 @@
     "cupo": 9,
     "creado": "2026-10-18T07:11:54.661Z",
     "pendientesHumanos": 0,
-    "anotados": 2
+    "anotados": 4
   },
   "cmvdq7d8g013i01nzkcung1df": {
     "jugadores": [
@@ -3351,11 +3350,10 @@
       "harry.potter",
       "lois.lane",
       "george.weasley",
-      "walle"
-    ],
-    "pendientes": [
+      "walle",
       "aragorn"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -3412,11 +3410,10 @@
       "walle",
       "pippin.tuk",
       "phoebe.buffay",
-      "bellatrix.lestrange"
-    ],
-    "pendientes": [
+      "bellatrix.lestrange",
       "george.weasley"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -3428,7 +3425,7 @@
     "cupo": 9,
     "creado": "2026-10-18T19:11:20.065Z",
     "pendientesHumanos": 0,
-    "anotados": 4
+    "anotados": 5
   },
   "cmvefwh9s01bx01nzv5i7u0sl": {
     "jugadores": [],
@@ -3533,7 +3530,9 @@
   },
   "cmvfe84ah01o001nzs7qjld3g": {
     "jugadores": [],
-    "pendientes": [],
+    "pendientes": [
+      "ginny.weasley"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -3567,7 +3566,9 @@
   },
   "cmvfvcm97005l01p6ty3wik38": {
     "jugadores": [],
-    "pendientes": [],
+    "pendientes": [
+      "lisa.simpson"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -3599,7 +3600,9 @@
   },
   "cmvgcj4el00bl01p6pema84ly": {
     "jugadores": [],
-    "pendientes": [],
+    "pendientes": [
+      "phoebe.buffay"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -3612,5 +3615,19 @@
     "creado": "2026-10-20T07:12:49.104Z",
     "pendientesHumanos": 0,
     "anotados": 0
+  },
+  "cmvgtoagy00hp01p6ts3w77nz": {
+    "jugadores": [],
+    "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "natasha.romanoff",
+    "fecha": "2026-10-23T00:30:00.000Z",
+    "deporte": "FUTBOL",
+    "cupo": 9,
+    "creado": "2026-10-20T15:12:43.679Z"
   }
 }

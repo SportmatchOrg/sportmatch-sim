@@ -4,3 +4,4 @@
 - 2026-10-15 16:12 · miró la app, su fútbol sigue abierto
 - 2026-10-19 00:12 · leyó notificaciones; su fútbol ADVANCED del lunes sigue abierto, no se anotó a nada
 - 2026-10-20 00:11 · cerró la calificación del fútbol; no había a quién calificar
+- 2026-10-20 12:12 · armó un fútbol ADVANCED para el jue 22/10 21:30 en Club Pilar

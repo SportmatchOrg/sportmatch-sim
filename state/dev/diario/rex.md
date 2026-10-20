@@ -1,3 +1,4 @@
 - 2026-10-14 04:11 · primera vez: se unió al running BEGINNER del lunes 19/10 en la Costanera (quiere conocer gente)
 - 2026-10-16 16:11 · miró partidos, por ahora solo mirando
 - 2026-10-18 00:12 · miró partidos, sin novedades
+- 2026-10-20 12:12 · miró running y fútbol, nada que le cierre en CABA; hoy solo miró

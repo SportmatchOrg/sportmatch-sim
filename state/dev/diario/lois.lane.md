@@ -43,3 +43,4 @@
 - 2026-10-19 20:11 · aceptó a Pippin en su fútbol del viernes
 - 2026-10-20 04:11 · aceptó a Hermione y Phoebe en sus fútbol y se anotó al fútbol del miércoles en Club Pilar
 - 2026-10-20 08:12 · aceptó a Bellatrix en su fútbol; hoy no se anotó a nada más
+- 2026-10-20 12:11 · aceptó a George en su fútbol del viernes en Club Pilar

@@ -2,3 +2,4 @@
 - 2026-10-20 00:11 · pidió unirse al fútbol del viernes en Club Pilar
 - 2026-10-20 04:12 · pidió unirse al fútbol del miércoles de George en Club Pilar (competitiva)
 - 2026-10-20 08:12 · leyó notificaciones (la aceptaron en el fútbol de George), hoy solo miró
+- 2026-10-20 12:12 · pidió unirse al básquet del jueves en Polideportivo Del Viso (se anota a todo)

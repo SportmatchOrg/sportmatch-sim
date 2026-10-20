@@ -11,3 +11,4 @@
 - 2026-10-17 12:12 · calificó el running; ya tiene los del finde, no se anotó a más
 - 2026-10-18 08:11 · pidió unirse al running del domingo a la mañana en Campus Austral
 - 2026-10-19 00:11 · miró los running; ya está anotado al del domingo, no sumó nada más
+- 2026-10-20 12:12 · leyó notificaciones; ya tiene running el finde, hoy solo miró
