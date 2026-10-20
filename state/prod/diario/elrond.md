@@ -71,3 +71,4 @@
 - 2026-10-19 12:13 · aceptó a Boromir en su partido
 - 2026-10-19 12:14 · (corrige) la entrada anterior iba antes de tiempo; ahora sí aceptó a Boromir en su partido
 - 2026-10-19 20:13 · aceptó a Albus en su partido y pidió unirse al fútbol 5 del miércoles en Nordelta
+- 2026-10-20 00:13 · aceptó a nacho en su fútbol 5 del martes en Nordelta

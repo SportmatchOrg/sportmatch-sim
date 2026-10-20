@@ -15,3 +15,4 @@
 - 2026-10-16 16:13 · pidió unirse al fútbol del sábado 17 en Parque Sur (puntual)
 - 2026-10-16 20:15 · pidió unirse al fútbol BEGINNER del sábado 24 en Complejo Del Este
 - 2026-10-17 04:14 · entró, ya tiene varias solicitudes pendientes; no pidió nada más
+- 2026-10-20 00:13 · calificó el fútbol; no encontró otro que le sirva

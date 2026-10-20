@@ -777,3 +777,27 @@
 2026-10-19T23:14:10.948Z indiana.jones leer-notificaciones 1
 2026-10-19T23:14:17.737Z lisa.simpson calificar cmvaebke902ch01mh99ykt6i4 ratings=2 noShows=0
 2026-10-19T23:14:22.134Z indiana.jones aceptar cmvfebhyi04fg01mhs6lzbcn9 anakin.skywalker
+2026-10-20T03:12:20.396Z sorteo cmv7jgsyf01x201lj1y6854rh faltaron=[] calificaran=[neo,rex,boromir,milhouse.van.houten]
+2026-10-20T03:12:21.199Z sorteo cmv80j1zb023101lj2oat1hxq faltaron=[] calificaran=[pippin.tuk,theoden,lois.lane,george.weasley]
+2026-10-20T03:13:08.916Z pippin.tuk leer-notificaciones 1
+2026-10-20T03:13:16.315Z pippin.tuk calificar cmv80j1zb023101lj2oat1hxq ratings=3 noShows=0
+2026-10-20T03:13:21.015Z elrond leer-notificaciones 1
+2026-10-20T03:13:27.409Z elrond aceptar cmvc287m702zu01mhkmn5hif8 cmv877slj023d01ljf5ob2mit
+2026-10-20T03:13:39.702Z milhouse.van.houten calificar cmv7jgsyf01x201lj1y6854rh ratings=3 noShows=0
+2026-10-20T03:13:41.746Z milhouse.van.houten unirse cmvaecg3d02dj01mhmdd8w549
+2026-10-20T03:13:45.921Z steve.rogers cancelar cmvaves4b02jm01mhqik81fdm
+2026-10-20T03:13:55.262Z theoden calificar cmv80j1zb023101lj2oat1hxq ratings=3 noShows=0
+2026-10-20T03:13:59.061Z boromir leer-notificaciones 1
+2026-10-20T03:14:07.396Z boromir calificar cmv7jgsyf01x201lj1y6854rh ratings=3 noShows=0
+2026-10-20T03:14:09.592Z boromir unirse cmvcjjbb3039001mhtdal6okk
+2026-10-20T03:14:22.775Z lois.lane calificar cmv80j1zb023101lj2oat1hxq ratings=3 noShows=0
+2026-10-20T03:14:25.593Z albus.dumbledore leer-notificaciones 2
+2026-10-20T03:14:30.501Z albus.dumbledore aceptar cmveokaj5044c01mh3fz70o0t elrond
+2026-10-20T03:14:32.656Z neo leer-notificaciones 1
+2026-10-20T03:14:38.235Z neo calificar cmv7jgsyf01x201lj1y6854rh ratings=3 noShows=0
+2026-10-20T03:14:40.440Z george.weasley leer-notificaciones 1
+2026-10-20T03:14:48.571Z george.weasley calificar cmv80j1zb023101lj2oat1hxq ratings=3 noShows=0
+2026-10-20T03:14:50.703Z george.weasley aceptar cmvbcijou02q201mhz2xb75yv bellatrix.lestrange
+2026-10-20T03:14:52.930Z george.weasley unirse cmvd951xb03ju01mheux8woly
+2026-10-20T03:14:57.261Z rex leer-notificaciones 1
+2026-10-20T03:15:03.705Z rex calificar cmv7jgsyf01x201lj1y6854rh ratings=3 noShows=0

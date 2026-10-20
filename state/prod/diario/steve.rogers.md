@@ -94,3 +94,4 @@
 - 2026-10-18 00:14 · armó un fútbol ADVANCED para el viernes 23 a las 21 en Club Pilar
 - 2026-10-18 04:14 · miró los fútbol: nada ADVANCED cerca que le sirva, no se anotó a nada
 - 2026-10-19 12:14 · rechazó a John Wick en su fútbol ADVANCED del viernes (no daba el nivel)
+- 2026-10-20 00:13 · canceló el fútbol ADVANCED del martes en Del Viso porque no se llenó
