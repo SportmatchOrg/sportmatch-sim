@@ -11,3 +11,4 @@
 - 2026-10-18 12:14 · aceptó a Lucius y a Davy en su básquet del martes
 - 2026-10-19 04:14 · aceptó a Groot en su básquet y se anotó al fútbol del miércoles en Nordelta
 - 2026-10-19 16:13 · leyó que Albus lo aceptó en el fútbol 5 del miércoles; solo miró
+- 2026-10-20 04:15 · aceptó a Boromir en su básquet del martes

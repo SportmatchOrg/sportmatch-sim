@@ -95,3 +95,4 @@
 - 2026-10-18 04:14 · miró los fútbol: nada ADVANCED cerca que le sirva, no se anotó a nada
 - 2026-10-19 12:14 · rechazó a John Wick en su fútbol ADVANCED del viernes (no daba el nivel)
 - 2026-10-20 00:13 · canceló el fútbol ADVANCED del martes en Del Viso porque no se llenó
+- 2026-10-20 04:15 · aceptó a George Weasley en su fútbol ADVANCED del viernes

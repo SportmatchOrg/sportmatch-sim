@@ -10,3 +10,4 @@
 - 2026-10-15 20:15 · pidió unirse al running del sábado 17 en Campus Austral
 - 2026-10-17 12:16 · calificó el running; ya tiene el del domingo, no se anotó a más
 - 2026-10-18 08:14 · entró a mirar; ya tiene su running del domingo, no se anotó a más
+- 2026-10-20 04:15 · entró a mirar; el único running es en Costanera, lejos de Pilar, no se anotó

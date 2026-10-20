@@ -22,3 +22,4 @@
 - 2026-10-18 08:14 · aceptó a Groot y a Davy Jones en sus básquets
 - 2026-10-18 20:13 · aceptó a Groot en su básquet
 - 2026-10-20 00:14 · calificó el básquet; todos bien
+- 2026-10-20 04:15 · aceptó a Milhouse en su básquet del miércoles

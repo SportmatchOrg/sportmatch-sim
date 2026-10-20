@@ -3049,10 +3049,11 @@
     "jugadores": [
       "boromir",
       "davy.jones",
-      "groot"
+      "groot",
+      "milhouse.van.houten"
     ],
     "pendientes": [
-      "milhouse.van.houten"
+      "simba"
     ],
     "bajasSorteadas": false,
     "asistencia": null,
@@ -3158,13 +3159,15 @@
     "cupo": 9,
     "creado": "2026-10-16T19:13:31.316Z",
     "pendientesHumanos": 0,
-    "anotados": 4
+    "anotados": 5
   },
   "demo-match-f08": {
     "jugadores": [],
     "pendientes": [
       "sam.gamyi",
-      "theoden"
+      "theoden",
+      "peter.parker",
+      "burro"
     ],
     "bajasSorteadas": false,
     "asistencia": null,
@@ -3210,7 +3213,7 @@
     "cupo": 9,
     "creado": "2026-10-17T07:13:19.133Z",
     "pendientesHumanos": 0,
-    "anotados": 2,
+    "anotados": 3,
     "cancelSorteado": true,
     "cancelar": false
   },
@@ -3261,11 +3264,10 @@
     "jugadores": [
       "lucius.malfoy",
       "davy.jones",
-      "groot"
-    ],
-    "pendientes": [
+      "groot",
       "boromir"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -3286,7 +3288,9 @@
       "burro",
       "gimli"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "peter.parker"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -3372,10 +3376,10 @@
     "anotados": 1
   },
   "cmvd951xb03ju01mheux8woly": {
-    "jugadores": [],
-    "pendientes": [
+    "jugadores": [
       "george.weasley"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -3495,7 +3499,7 @@
     "cupo": 9,
     "creado": "2026-10-19T03:14:06.683Z",
     "pendientesHumanos": 0,
-    "anotados": 3
+    "anotados": 4
   },
   "cmvex56e3047e01mhzx43zo4l": {
     "jugadores": [],
@@ -3562,5 +3566,20 @@
     "creado": "2026-10-19T19:13:00.608Z",
     "pendientesHumanos": 0,
     "anotados": 0
+  },
+  "demo-match-f05": {
+    "jugadores": [],
+    "pendientes": [
+      "alfred.pennyworth"
+    ],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "humano:demo-user-lucia",
+    "fecha": "2026-10-21T11:00:00.000Z",
+    "deporte": "RUNNING",
+    "cupo": 15
   }
 }

@@ -1,0 +1,1 @@
+- 2026-10-20 04:15 · primera vez en la app: pidió unirse al running del miércoles en Costanera
