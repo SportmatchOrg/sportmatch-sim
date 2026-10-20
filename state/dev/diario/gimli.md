@@ -44,3 +44,4 @@
 - 2026-10-18 08:12 · pidió unirse al fútbol BEGINNER del jueves en River Courts (le queda en CABA)
 - 2026-10-18 16:12 · miró la app, sin novedades
 - 2026-10-19 08:12 · entró a mirar, sin novedades
+- 2026-10-20 08:12 · miró partidos, no hay fútbol en CABA que le encaje; no se anotó

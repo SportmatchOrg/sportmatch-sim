@@ -3016,7 +3016,9 @@
       "simba",
       "frodo.bolson"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "boromir"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -3280,17 +3282,16 @@
     "cupo": 9,
     "creado": "2026-10-17T23:11:54.244Z",
     "pendientesHumanos": 0,
-    "anotados": 5
+    "anotados": 6
   },
   "cmvd913az00wt01nzaxzydl4r": {
     "jugadores": [
       "gimli",
       "rachel.green",
-      "theoden"
-    ],
-    "pendientes": [
+      "theoden",
       "peter.parker"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -3321,17 +3322,16 @@
     "cupo": 3,
     "creado": "2026-10-18T03:12:07.888Z",
     "pendientesHumanos": 0,
-    "anotados": 1
+    "anotados": 2
   },
   "cmvdhm93v010701nzivho4hlv": {
     "jugadores": [
       "walle",
-      "mike.wazowski"
-    ],
-    "pendientes": [
+      "mike.wazowski",
       "lois.lane",
       "phoebe.buffay"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -3353,7 +3353,9 @@
       "george.weasley",
       "walle"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "aragorn"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -3409,10 +3411,11 @@
       "diana.prince",
       "walle",
       "pippin.tuk",
-      "phoebe.buffay"
+      "phoebe.buffay",
+      "bellatrix.lestrange"
     ],
     "pendientes": [
-      "bellatrix.lestrange"
+      "george.weasley"
     ],
     "bajasSorteadas": false,
     "asistencia": null,
@@ -3425,7 +3428,7 @@
     "cupo": 9,
     "creado": "2026-10-18T19:11:20.065Z",
     "pendientesHumanos": 0,
-    "anotados": 3
+    "anotados": 4
   },
   "cmvefwh9s01bx01nzv5i7u0sl": {
     "jugadores": [],
@@ -3560,7 +3563,7 @@
     "cupo": 3,
     "creado": "2026-10-19T19:22:38.068Z",
     "pendientesHumanos": 0,
-    "anotados": 0
+    "anotados": 1
   },
   "cmvfvcm97005l01p6ty3wik38": {
     "jugadores": [],
@@ -3590,7 +3593,9 @@
     "fecha": "2026-10-22T23:30:00.000Z",
     "deporte": "BASQUET",
     "cupo": 7,
-    "creado": "2026-10-20T07:12:21.931Z"
+    "creado": "2026-10-20T07:12:21.931Z",
+    "pendientesHumanos": 0,
+    "anotados": 0
   },
   "cmvgcj4el00bl01p6pema84ly": {
     "jugadores": [],
@@ -3604,6 +3609,8 @@
     "fecha": "2026-10-22T20:30:00.000Z",
     "deporte": "BASQUET",
     "cupo": 5,
-    "creado": "2026-10-20T07:12:49.104Z"
+    "creado": "2026-10-20T07:12:49.104Z",
+    "pendientesHumanos": 0,
+    "anotados": 0
   }
 }

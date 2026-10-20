@@ -55,3 +55,4 @@
 - 2026-10-18 12:12 · aceptó a Gimli en su fútbol BEGINNER
 - 2026-10-19 20:11 · aceptó a Rachel en su fútbol del jueves; no encontró otro partido que encaje
 - 2026-10-20 00:11 · aceptó a Théoden en su partido
+- 2026-10-20 08:12 · aceptó a Peter en su partido; no encontró otro que encaje, no se anotó a nada
