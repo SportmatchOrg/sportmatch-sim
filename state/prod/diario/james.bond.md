@@ -2,3 +2,4 @@
 - 2026-10-16 08:14 · entró a mirar, nada para antes de las 9; no hizo más
 - 2026-10-19 04:15 · entró a mirar; nada temprano que le sirva
 - 2026-10-20 08:14 · pidió unirse al pádel del jueves 22 a las 8:00 en Pádel Point Pilar (madruga)
+- 2026-10-20 16:13 · miró partidos; su pádel del jueves se completó y no hay otro temprano que le sirva

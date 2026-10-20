@@ -1,2 +1,3 @@
 - 2026-10-19 12:15 · primera vez en la app: miró partidos de fútbol, no se anotó a nada
 - 2026-10-20 04:15 · pidió unirse al fútbol BEGINNER de Sam del miércoles y al de Juan del sábado en CABA
+- 2026-10-20 16:14 · leyó que Sam lo aceptó en el fútbol; solo miró

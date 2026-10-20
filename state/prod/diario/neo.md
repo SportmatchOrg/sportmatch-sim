@@ -25,3 +25,4 @@
 - 2026-10-20 04:15 · aceptó a Milhouse en su básquet del miércoles
 - 2026-10-20 08:13 · aceptó a Simba y armó básquet intermedio el viernes 23 a las 20:30 en Campus Austral
 - 2026-10-20 12:15 · aceptó a Ron en su básquet del viernes
+- 2026-10-20 16:14 · entró a mirar; nada nuevo

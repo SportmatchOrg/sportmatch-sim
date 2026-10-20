@@ -3158,7 +3158,7 @@
     "cupo": 9,
     "creado": "2026-10-16T19:13:31.316Z",
     "pendientesHumanos": 0,
-    "anotados": 5
+    "anotados": 6
   },
   "demo-match-f08": {
     "jugadores": [],
@@ -3304,7 +3304,9 @@
   },
   "cmvcryhaa03cg01mhmjcjxuea": {
     "jugadores": [],
-    "pendientes": [],
+    "pendientes": [
+      "yoda"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -3433,7 +3435,9 @@
       "finn",
       "chewbacca"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "lois.lane"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -3445,7 +3449,7 @@
     "cupo": 9,
     "creado": "2026-10-18T15:14:10.753Z",
     "pendientesHumanos": 0,
-    "anotados": 3
+    "anotados": 4
   },
   "cmvdyuz6g03uq01mh75lo5a4h": {
     "jugadores": [],
@@ -3551,7 +3555,7 @@
     "cupo": 3,
     "creado": "2026-10-19T15:15:06.419Z",
     "pendientesHumanos": 0,
-    "anotados": 1
+    "anotados": 2
   },
   "cmvfmtfz304ir01mh90rendmq": {
     "jugadores": [],
@@ -3589,7 +3593,9 @@
     "jugadores": [
       "ron.weasley"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "frodo.bolson"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -3601,11 +3607,13 @@
     "cupo": 7,
     "creado": "2026-10-20T11:13:51.737Z",
     "pendientesHumanos": 0,
-    "anotados": 0
+    "anotados": 1
   },
   "cmvgtr489051p01mh1hyqlwpr": {
     "jugadores": [],
-    "pendientes": [],
+    "pendientes": [
+      "woody"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -3615,6 +3623,24 @@
     "fecha": "2026-10-23T23:00:00.000Z",
     "deporte": "PADEL",
     "cupo": 3,
-    "creado": "2026-10-20T15:14:55.542Z"
+    "creado": "2026-10-20T15:14:55.542Z",
+    "pendientesHumanos": 0,
+    "anotados": 0
+  },
+  "cmvh2azzs054y01mhr0y9c8g8": {
+    "jugadores": [],
+    "pendientes": [
+      "clark.kent"
+    ],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "frodo.bolson",
+    "fecha": "2026-10-22T23:30:00.000Z",
+    "deporte": "BASQUET",
+    "cupo": 7,
+    "creado": "2026-10-20T19:14:20.108Z"
   }
 }

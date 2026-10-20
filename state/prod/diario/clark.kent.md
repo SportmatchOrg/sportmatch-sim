@@ -8,3 +8,4 @@
 - 2026-10-15 20:14 · vio que Lois lo aceptó en el fútbol del martes; no se anotó a más
 - 2026-10-16 16:13 · pidió unirse al pádel del miércoles 21 en Pádel Point Pilar (tarde libre)
 - 2026-10-20 12:15 · entró a mirar y leyó notificaciones; sin novedades
+- 2026-10-20 16:14 · pidió unirse al básquet de Frodo del jueves 22 en Campus Austral
