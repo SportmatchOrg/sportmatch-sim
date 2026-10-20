@@ -35,3 +35,4 @@
 - 2026-10-18 20:13 · aceptó a Barney en su fútbol
 - 2026-10-19 12:14 · aceptó a George Weasley en su fútbol y armó tenis dobles para el domingo 25 a las 10 en Club Pilar
 - 2026-10-19 20:13 · aceptó a Finn en su fútbol del sábado
+- 2026-10-20 12:14 · aceptó a Chewbacca en su partido; entre semana no se anotó a nada

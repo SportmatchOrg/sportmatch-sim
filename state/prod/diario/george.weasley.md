@@ -9,3 +9,4 @@
 - 2026-10-19 08:14 · leyó que Elrond lo aceptó y pidió unirse al fútbol del sábado 24 de Hermione en Club Pilar
 - 2026-10-19 16:12 · aceptó a Phoebe en su fútbol del miércoles; ya anotado a todo lo que le sirve
 - 2026-10-20 00:14 · calificó el fútbol, aceptó a Bellatrix en el suyo y pidió unirse al de Steve del viernes en Club Pilar
+- 2026-10-20 12:15 · aceptó a Mike Wazowski en su fútbol del miércoles; ya anotado a todo lo que le sirve

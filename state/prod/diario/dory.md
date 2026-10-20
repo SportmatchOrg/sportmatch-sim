@@ -1,1 +1,2 @@
 - 2026-10-17 16:14 · entró, solo miró
+- 2026-10-20 12:15 · entró a mirar; sin novedades

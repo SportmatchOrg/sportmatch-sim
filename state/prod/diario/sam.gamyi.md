@@ -63,3 +63,4 @@
 - 2026-10-19 12:15 · vio que Bellatrix lo aceptó... (se anotó ella a su pádel); solo miró
 - 2026-10-19 20:13 · calificó el partido (todos muy buena onda)
 - 2026-10-20 08:13 · aceptó a Peter Parker en su partido; miró partidos y nada de CABA le encajó
+- 2026-10-20 12:15 · armó pádel BEGINNER para el viernes 23 a las 20 en Club Belgrano
