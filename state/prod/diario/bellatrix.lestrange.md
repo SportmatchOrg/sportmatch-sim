@@ -79,3 +79,4 @@
 - 2026-10-18 08:14 · pidió unirse al fútbol del martes 20 en Club Pilar (se anota a todo)
 - 2026-10-19 12:14 · aceptó a Sam Gamyi y pidió unirse al fútbol del miércoles en Nordelta (se anota a todo)
 - 2026-10-19 20:13 · aceptó a Woody, calificó el fútbol y pidió unirse al fútbol del miércoles en Club Pilar (se anota a todo)
+- 2026-10-20 20:14 · calificó el fútbol y pidió unirse al pádel BEGINNER del viernes en Club Belgrano (se anota a todo)

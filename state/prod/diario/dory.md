@@ -1,2 +1,3 @@
 - 2026-10-17 16:14 · entró, solo miró
 - 2026-10-20 12:15 · entró a mirar; sin novedades
+- 2026-10-20 20:15 · armó un fútbol para el miércoles 21 a las 20:30 en Club Pilar (le gusta conocer gente)

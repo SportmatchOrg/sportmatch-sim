@@ -17,3 +17,4 @@
 - 2026-10-18 12:14 · calificó el running (5 y 5) y pidió unirse al básquet de Frodo del martes en Campus Austral
 - 2026-10-20 04:15 · leyó que Frodo lo aceptó; no hay básquet de su nivel en Pilar, solo miró
 - 2026-10-20 12:15 · entró a mirar partidos, sin novedades
+- 2026-10-20 20:15 · pidió unirse al básquet del jueves de Frodo en Campus Austral (entusiasta)

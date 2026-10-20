@@ -844,3 +844,30 @@
 2026-10-20T19:14:22.340Z frodo.bolson unirse cmvgl53w004xv01mhabuw1j47
 2026-10-20T19:14:29.149Z peter.parker leer-notificaciones 1
 2026-10-20T19:14:40.269Z clark.kent unirse cmvh2azzs054y01mhr0y9c8g8
+2026-10-20T23:13:43.670Z sorteo cmvd0jre203fp01mhns5w2wgg faltaron=[] calificaran=[bellatrix.lestrange]
+2026-10-20T23:13:44.128Z sorteo cmvd9475o03j901mhxplfe2qh faltaron=[] calificaran=[elrond,boromir]
+2026-10-20T23:14:10.686Z elrond calificar cmvd9475o03j901mhxplfe2qh ratings=1 noShows=0
+2026-10-20T23:14:12.138Z elrond crear cmvhavgyn057f01mhyw4lea6j FUTBOL 2026-10-23T23:30:00.000Z
+2026-10-20T23:14:15.930Z bellatrix.lestrange leer-notificaciones 1
+2026-10-20T23:14:22.357Z bellatrix.lestrange calificar cmvd0jre203fp01mhns5w2wgg ratings=2 noShows=0
+2026-10-20T23:14:23.841Z bellatrix.lestrange unirse cmvgtr489051p01mh1hyqlwpr
+2026-10-20T23:14:30.304Z hermione.granger leer-notificaciones 1
+2026-10-20T23:14:31.771Z sam.gamyi leer-notificaciones 2
+2026-10-20T23:14:45.283Z hermione.granger aceptar cmvdyugc703u501mhxhuj5o7v lois.lane
+2026-10-20T23:14:46.651Z sam.gamyi aceptar cmvgtr489051p01mh1hyqlwpr woody
+2026-10-20T23:14:48.323Z sam.gamyi aceptar cmvgtr489051p01mh1hyqlwpr bellatrix.lestrange
+2026-10-20T23:14:57.088Z boromir leer-notificaciones 1
+2026-10-20T23:14:58.510Z neo leer-notificaciones 1
+2026-10-20T23:15:00.307Z frodo.bolson leer-notificaciones 1
+2026-10-20T23:15:08.979Z boromir calificar cmvd9475o03j901mhxplfe2qh ratings=1 noShows=0
+2026-10-20T23:15:10.717Z boromir unirse cmvgl53w004xv01mhabuw1j47
+2026-10-20T23:15:12.158Z neo aceptar cmvgl53w004xv01mhabuw1j47 frodo.bolson
+2026-10-20T23:15:13.604Z frodo.bolson aceptar cmvh2azzs054y01mhr0y9c8g8 clark.kent
+2026-10-20T23:15:19.297Z neo unirse cmvh2azzs054y01mhr0y9c8g8
+2026-10-20T23:15:20.962Z barney.gumble leer-notificaciones 1
+2026-10-20T23:15:28.647Z barney.gumble aceptar cmvcryhaa03cg01mhmjcjxuea yoda
+2026-10-20T23:15:31.549Z indiana.jones crear cmvhax69a059j01mh1ynyxm03 TENIS 2026-10-22T10:30:00.000Z
+2026-10-20T23:15:40.893Z marty.mcfly leer-notificaciones 1
+2026-10-20T23:15:47.752Z davy.jones unirse cmvh2azzs054y01mhr0y9c8g8
+2026-10-20T23:15:49.532Z dory crear cmvhaxk43059u01mh1xug7gjd FUTBOL 2026-10-21T23:30:00.000Z
+2026-10-20T23:15:50.978Z marty.mcfly unirse cmvdyugc703u501mhxhuj5o7v

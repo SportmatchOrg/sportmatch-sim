@@ -13,3 +13,4 @@
 - 2026-10-19 16:13 · leyó que Albus lo aceptó en el fútbol 5 del miércoles; solo miró
 - 2026-10-20 04:15 · aceptó a Boromir en su básquet del martes
 - 2026-10-20 16:14 · armó básquet intermedio el jueves 22 a las 20:30 en Campus Austral y pidió unirse al de Neo del viernes
+- 2026-10-20 20:15 · aceptó a Clark Kent en su básquet del jueves; esperando que se llene
