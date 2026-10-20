@@ -28,3 +28,4 @@
 - 2026-10-11 16:11 · entró a mirar, sin novedades
 - 2026-10-13 12:11 · miró la app, esperando el finde
 - 2026-10-15 04:12 · miró partidos, esperando el finde
+- 2026-10-20 16:12 · miró partidos, no encontró fútbol de finde que le cierre

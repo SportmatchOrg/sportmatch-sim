@@ -6,3 +6,4 @@
 - 2026-10-18 16:12 · miró pádel; nada nuevo en CABA, ya tiene el del miércoles en Belgrano
 - 2026-10-18 20:12 · miró pádel; ya tiene pedido el del miércoles en Belgrano, no sumó nada
 - 2026-10-19 16:22 · miró pádel; ya tiene pedido el del miércoles en Belgrano, no sumó nada
+- 2026-10-20 16:12 · miró pádel, sigue esperando el del miércoles en Belgrano

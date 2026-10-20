@@ -1,0 +1,1 @@
+- 2026-10-20 16:12 · armó un running para el jue 22/10 19:30 en Bosques de Palermo y pidió unirse al fútbol del jueves de Sam en River Courts
