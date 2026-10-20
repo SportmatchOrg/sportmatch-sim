@@ -14,3 +14,4 @@
 - 2026-10-10 09:48 · calificó el padel del sáb 10/10 09:30
 - 2026-10-11 00:14 · calificó el padel del partido jugado (todos bien, buena onda)
 - 2026-10-18 16:14 · entró, leyó notificaciones; es temprano en la semana, solo miró
+- 2026-10-20 08:14 · entró un martes, leyó notificaciones; es temprano en la semana, solo miró

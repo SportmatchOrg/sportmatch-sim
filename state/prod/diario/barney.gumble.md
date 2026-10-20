@@ -18,3 +18,4 @@
 - 2026-10-19 00:14 · entró, no había a quién calificar; solo miró
 - 2026-10-19 04:14 · entró, no había a quién calificar; solo miró
 - 2026-10-19 08:13 · entró, no había a quién calificar; solo miró
+- 2026-10-20 08:14 · leyó notificaciones; entre semana, solo miró

@@ -3050,11 +3050,10 @@
       "boromir",
       "davy.jones",
       "groot",
-      "milhouse.van.houten"
-    ],
-    "pendientes": [
+      "milhouse.van.houten",
       "simba"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -3066,7 +3065,7 @@
     "cupo": 7,
     "creado": "2026-10-16T03:16:59.799Z",
     "pendientesHumanos": 0,
-    "anotados": 3
+    "anotados": 4
   },
   "demo-match-f10": {
     "jugadores": [],
@@ -3147,7 +3146,9 @@
       "phoebe.buffay",
       "bellatrix.lestrange"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "mike.wazowski"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -3279,18 +3280,17 @@
     "cupo": 7,
     "creado": "2026-10-17T15:17:50.606Z",
     "pendientesHumanos": 0,
-    "anotados": 3
+    "anotados": 4
   },
   "cmvcry1d503by01mhluiefpid": {
     "jugadores": [
       "bellatrix.lestrange",
       "rex",
       "burro",
-      "gimli"
-    ],
-    "pendientes": [
+      "gimli",
       "peter.parker"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -3391,7 +3391,7 @@
     "cupo": 9,
     "creado": "2026-10-18T03:14:35.282Z",
     "pendientesHumanos": 0,
-    "anotados": 0
+    "anotados": 1
   },
   "cmvdhozvn03mo01mh791v7pj6": {
     "jugadores": [],
@@ -3434,7 +3434,9 @@
       "george.weasley",
       "finn"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "chewbacca"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -3537,7 +3539,10 @@
     "jugadores": [
       "anakin.skywalker"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "eowyn",
+      "james.bond"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -3580,6 +3585,21 @@
     "organizador": "humano:demo-user-lucia",
     "fecha": "2026-10-21T11:00:00.000Z",
     "deporte": "RUNNING",
-    "cupo": 15
+    "cupo": 15,
+    "anotados": 2
+  },
+  "cmvgl53w004xv01mhabuw1j47": {
+    "jugadores": [],
+    "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "neo",
+    "fecha": "2026-10-23T23:30:00.000Z",
+    "deporte": "BASQUET",
+    "cupo": 7,
+    "creado": "2026-10-20T11:13:51.737Z"
   }
 }

@@ -23,3 +23,4 @@
 - 2026-10-18 20:13 · aceptó a Groot en su básquet
 - 2026-10-20 00:14 · calificó el básquet; todos bien
 - 2026-10-20 04:15 · aceptó a Milhouse en su básquet del miércoles
+- 2026-10-20 08:13 · aceptó a Simba y armó básquet intermedio el viernes 23 a las 20:30 en Campus Austral

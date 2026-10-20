@@ -4,3 +4,4 @@
 - 2026-10-17 04:14 · leyó notificaciones y miró running en el norte; nada que le cierre, no se anotó
 - 2026-10-17 12:18 · calificó el running; no encontró nada en el norte, no se anotó
 - 2026-10-19 16:13 · entró a mirar running; solo hay uno en la Costanera, lejos de su zona, no se anotó
+- 2026-10-20 08:14 · leyó notificaciones; running solo en la Costanera, lejos de su zona, solo miró
