@@ -54,3 +54,4 @@
 - 2026-10-18 00:11 · aceptó a Bellatrix en su partido y armó un fútbol BEGINNER para el jue 22/10 en River Courts
 - 2026-10-18 12:12 · aceptó a Gimli en su fútbol BEGINNER
 - 2026-10-19 20:11 · aceptó a Rachel en su fútbol del jueves; no encontró otro partido que encaje
+- 2026-10-20 00:11 · aceptó a Théoden en su partido

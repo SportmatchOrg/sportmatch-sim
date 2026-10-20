@@ -1,1 +1,2 @@
 - 2026-10-19 12:12 · se enteró de que Frodo canceló y solo miró partidos de pádel
+- 2026-10-20 00:11 · miró pádel de noche, no se decidió

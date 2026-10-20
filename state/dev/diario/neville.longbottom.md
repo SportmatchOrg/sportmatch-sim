@@ -1,0 +1,1 @@
+- 2026-10-20 00:11 · primera vuelta: miró partidos de fútbol, sin anotarse

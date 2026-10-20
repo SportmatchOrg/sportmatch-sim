@@ -3,3 +3,4 @@
 - 2026-10-15 08:12 · miró la app, sin novedades
 - 2026-10-15 16:12 · miró la app, su fútbol sigue abierto
 - 2026-10-19 00:12 · leyó notificaciones; su fútbol ADVANCED del lunes sigue abierto, no se anotó a nada
+- 2026-10-20 00:11 · cerró la calificación del fútbol; no había a quién calificar

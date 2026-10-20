@@ -11,3 +11,4 @@
 - 2026-10-16 08:12 · miró partidos; ya tiene varios pedidos en curso, no sumó nada más
 - 2026-10-16 16:11 · miró partidos; tiene varios pedidos en curso, no sumó nada
 - 2026-10-17 20:12 · miró la app y leyó notificaciones; ya tiene pedidos en curso
+- 2026-10-20 00:11 · miró partidos de básquet, no se anotó a nada
