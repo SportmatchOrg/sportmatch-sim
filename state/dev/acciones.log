@@ -916,3 +916,26 @@
 2026-10-20T19:12:04.783Z alfred.pennyworth unirse cmvd913az00wt01nzaxzydl4r
 2026-10-20T19:12:06.851Z montgomery.burns unirse cmvfe7bze01n701nz4rv925eu
 2026-10-20T19:12:09.214Z clark.kent unirse cmvgcj4el00bl01p6pema84ly
+2026-10-20T23:10:30.519Z sorteo cmvae6mab00j501o33qljfo0o faltaron=[] calificaran=[mace.windu,anakin.skywalker,eowyn]
+2026-10-20T23:10:33.738Z sorteo cmvbl0jnc004h01nz7n93ckzd faltaron=[obiwan.kenobi] calificaran=[elrond,bellatrix.lestrange]
+2026-10-20T23:11:14.136Z eowyn leer-notificaciones 1
+2026-10-20T23:11:17.762Z elrond leer-notificaciones 1
+2026-10-20T23:11:23.715Z eowyn calificar cmvae6mab00j501o33qljfo0o ratings=2 noShows=0
+2026-10-20T23:11:26.276Z elrond calificar cmvbl0jnc004h01nz7n93ckzd ratings=1 noShows=1
+2026-10-20T23:11:33.159Z elrond unirse cmvex1uzg01gr01nzvjd4e9xi
+2026-10-20T23:11:40.632Z bellatrix.lestrange calificar cmvbl0jnc004h01nz7n93ckzd ratings=1 noShows=1
+2026-10-20T23:11:42.944Z bellatrix.lestrange unirse cmvdhm93v010701nzivho4hlv
+2026-10-20T23:11:52.204Z mace.windu calificar cmvae6mab00j501o33qljfo0o ratings=2 noShows=0
+2026-10-20T23:11:59.280Z mace.windu crear cmvhasmfd00ne01p6iy5klfzs PADEL 2026-10-23T23:30:00.000Z
+2026-10-20T23:12:03.784Z sam.gamyi leer-notificaciones 1
+2026-10-20T23:12:07.588Z jack.sparrow leer-notificaciones 1
+2026-10-20T23:12:14.759Z sam.gamyi aceptar cmvd913az00wt01nzaxzydl4r alfred.pennyworth
+2026-10-20T23:12:17.727Z jack.sparrow aceptar cmvfe7bze01n701nz4rv925eu montgomery.burns
+2026-10-20T23:12:20.654Z frodo.bolson leer-notificaciones 1
+2026-10-20T23:12:24.633Z lucius.malfoy leer-notificaciones 1
+2026-10-20T23:12:32.871Z frodo.bolson aceptar cmvc26ly100dy01nz8bogds5h bellatrix.lestrange
+2026-10-20T23:12:35.638Z lucius.malfoy aceptar cmvgcj4el00bl01p6pema84ly clark.kent
+2026-10-20T23:12:38.267Z anakin.skywalker leer-notificaciones 1
+2026-10-20T23:12:44.920Z anakin.skywalker calificar cmvae6mab00j501o33qljfo0o ratings=2 noShows=0
+2026-10-20T23:12:47.445Z anakin.skywalker unirse cmvfn5tjl002v01p6rytxb883
+2026-10-20T23:12:55.435Z boromir leer-notificaciones 1

@@ -20,3 +20,4 @@
 - 2026-10-19 08:11 · aceptó a Elrond en su partido
 - 2026-10-19 08:11 · aceptó a Elrond en su fútbol del miércoles; solo miró
 - 2026-10-20 04:12 · armó un básquet INTERMEDIATE para el jue 22/10 20:30 en Campus Austral (competitivo)
+- 2026-10-20 20:12 · aceptó a Bellatrix en su partido; no se anotó a nada más
