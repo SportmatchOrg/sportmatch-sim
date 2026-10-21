@@ -46,3 +46,4 @@
 - 2026-10-20 12:11 · aceptó a George en su fútbol del viernes en Club Pilar
 - 2026-10-21 08:12 · aceptó a Neville en su fútbol del jueves
 - 2026-10-21 16:12 · aceptó a Wall-E en su fútbol
+- 2026-10-21 20:12 · calificó el fútbol jugado (5, 4 y 4)

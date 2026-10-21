@@ -13,3 +13,4 @@
 - 2026-10-19 20:11 · pidió unirse al fútbol del sábado de Hermione en Club Pilar
 - 2026-10-21 04:11 · aceptó a Nala en su básquet
 - 2026-10-21 12:11 · aceptó a Saul en su básquet y pidió unirse al fútbol del jueves en Club Pilar
+- 2026-10-21 20:12 · calificó el fútbol (5, 5 y 4) y pidió unirse al básquet del jueves en Del Viso

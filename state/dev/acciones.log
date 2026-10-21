@@ -1011,3 +1011,27 @@
 2026-10-21T19:12:12.592Z obiwan.kenobi leer-notificaciones 2
 2026-10-21T19:12:21.732Z arya.stark unirse cmvhrwysc001n01lh0jz65guz
 2026-10-21T19:12:24.284Z obiwan.kenobi unirse cmvfe7bze01n701nz4rv925eu
+2026-10-21T23:10:29.194Z sorteo cmvavch6u00rw01o3johm4rmu faltaron=[] calificaran=[sam.gamyi,bruce.wayne,bellatrix.lestrange]
+2026-10-21T23:10:37.691Z sorteo cmvdhm93v010701nzivho4hlv faltaron=[] calificaran=[george.weasley,walle,lois.lane,phoebe.buffay,bellatrix.lestrange]
+2026-10-21T23:11:06.083Z bellatrix.lestrange leer-notificaciones 1
+2026-10-21T23:11:12.903Z bellatrix.lestrange calificar cmvavch6u00rw01o3johm4rmu ratings=2 noShows=0
+2026-10-21T23:11:15.598Z bellatrix.lestrange calificar cmvdhm93v010701nzivho4hlv ratings=3 noShows=0
+2026-10-21T23:11:22.439Z bellatrix.lestrange unirse cmvd913az00wt01nzaxzydl4r
+2026-10-21T23:11:24.679Z steve.rogers leer-notificaciones 1
+2026-10-21T23:11:32.569Z sam.gamyi leer-notificaciones 1
+2026-10-21T23:11:43.041Z steve.rogers aceptar cmvhrwysc001n01lh0jz65guz arya.stark
+2026-10-21T23:11:48.801Z sam.gamyi calificar cmvavch6u00rw01o3johm4rmu ratings=2 noShows=0
+2026-10-21T23:11:51.050Z jack.sparrow leer-notificaciones 1
+2026-10-21T23:11:56.068Z jack.sparrow aceptar cmvfe7bze01n701nz4rv925eu obiwan.kenobi
+2026-10-21T23:12:03.361Z lois.lane calificar cmvdhm93v010701nzivho4hlv ratings=3 noShows=0
+2026-10-21T23:12:05.870Z walle leer-notificaciones 1
+2026-10-21T23:12:12.841Z walle calificar cmvdhm93v010701nzivho4hlv ratings=3 noShows=0
+2026-10-21T23:12:15.561Z walle unirse cmvgcj4el00bl01p6pema84ly
+2026-10-21T23:12:22.507Z bruce.wayne calificar cmvavch6u00rw01o3johm4rmu ratings=2 noShows=0
+2026-10-21T23:12:25.791Z george.weasley leer-notificaciones 1
+2026-10-21T23:12:32.108Z george.weasley calificar cmvdhm93v010701nzivho4hlv ratings=3 noShows=0
+2026-10-21T23:12:34.528Z phoebe.buffay leer-notificaciones 1
+2026-10-21T23:12:41.278Z phoebe.buffay calificar cmvdhm93v010701nzivho4hlv ratings=3 noShows=0
+2026-10-21T23:12:43.629Z phoebe.buffay unirse cmvgtoagy00hp01p6ts3w77nz
+2026-10-21T23:12:49.244Z anakin.skywalker unirse cmvhasmfd00ne01p6iy5klfzs
+2026-10-21T23:12:51.620Z saul.goodman leer-notificaciones 1

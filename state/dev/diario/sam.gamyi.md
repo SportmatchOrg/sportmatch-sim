@@ -58,3 +58,4 @@
 - 2026-10-20 08:12 · aceptó a Peter en su partido; no encontró otro que encaje, no se anotó a nada
 - 2026-10-20 20:12 · aceptó a Alfred en su fútbol BEGINNER
 - 2026-10-21 12:11 · aceptó a Legolas en su fútbol BEGINNER
+- 2026-10-21 20:11 · calificó el partido y no encontró otro que encaje, no se anotó a nada

@@ -3,3 +3,4 @@
 - 2026-10-18 12:12 · calificó el pádel, todo bien
 - 2026-10-20 20:12 · calificó el pádel y pidió unirse al pádel del jueves a la mañana en Pádel Point Pilar (cerca de casa)
 - 2026-10-21 12:12 · leyó que Indiana lo aceptó en el pádel del jueves; no hay pádel en Pilar, no se anotó a nada más
+- 2026-10-21 20:12 · pidió unirse al pádel del viernes de Mace en Tigre Pádel Club (le gusta conocer gente)

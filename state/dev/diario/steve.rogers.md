@@ -100,3 +100,4 @@
 - 2026-10-21 08:11 · aceptó a George Weasley en su fútbol del viernes
 - 2026-10-21 12:11 · no había a quién calificar; miró la app
 - 2026-10-21 16:12 · no había a quién calificar; miró la app
+- 2026-10-21 20:11 · aceptó a Arya en su fútbol del viernes; nadie a quién calificar
