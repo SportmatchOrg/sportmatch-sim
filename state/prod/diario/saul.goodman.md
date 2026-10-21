@@ -1,1 +1,2 @@
 - 2026-10-21 12:14 · primera vez: pidió unirse al básquet del jueves de Marty en Del Viso
+- 2026-10-21 16:14 · leyó que Marty lo aceptó en su básquet del jueves; ya anotado, solo miró

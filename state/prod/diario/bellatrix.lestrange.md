@@ -81,3 +81,4 @@
 - 2026-10-19 20:13 · aceptó a Woody, calificó el fútbol y pidió unirse al fútbol del miércoles en Club Pilar (se anota a todo)
 - 2026-10-20 20:14 · calificó el fútbol y pidió unirse al pádel BEGINNER del viernes en Club Belgrano (se anota a todo)
 - 2026-10-21 00:14 · calificó el fútbol y pidió unirse al pádel del martes 27 en Club Palermo (se anota a todo)
+- 2026-10-21 16:15 · leyó notificaciones; ya anotada a todo lo que le sirve, solo miró

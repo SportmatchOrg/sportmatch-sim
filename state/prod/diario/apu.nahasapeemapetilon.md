@@ -4,3 +4,4 @@
 - 2026-10-19 08:14 · entró a mirar, sin novedades
 - 2026-10-19 20:14 · entró a mirar pádel de Pilar; solo miró
 - 2026-10-21 08:15 · miró pádel; nada BEGINNER/INTERMEDIATE en Pilar, no se anotó
+- 2026-10-21 16:14 · miró pádel de nuevo; nada de su nivel en Pilar, no se anotó

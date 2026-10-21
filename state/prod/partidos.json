@@ -3051,11 +3051,10 @@
       "george.weasley",
       "sirius.black",
       "john.wick",
-      "chewbacca"
-    ],
-    "pendientes": [
+      "chewbacca",
       "neville.longbottom"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -3075,11 +3074,10 @@
       "davy.jones",
       "groot",
       "milhouse.van.houten",
-      "simba"
-    ],
-    "pendientes": [
+      "simba",
       "eowyn"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -3171,11 +3169,10 @@
       "john.wick",
       "phoebe.buffay",
       "bellatrix.lestrange",
-      "mike.wazowski"
-    ],
-    "pendientes": [
+      "mike.wazowski",
       "clark.kent"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -3671,7 +3668,7 @@
     "cupo": 7,
     "creado": "2026-10-20T11:13:51.737Z",
     "pendientesHumanos": 0,
-    "anotados": 3
+    "anotados": 4
   },
   "cmvgtr489051p01mh1hyqlwpr": {
     "jugadores": [
@@ -3715,7 +3712,9 @@
   },
   "cmvhavgyn057f01mhyw4lea6j": {
     "jugadores": [],
-    "pendientes": [],
+    "pendientes": [
+      "marty.mcfly"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -3770,7 +3769,10 @@
   },
   "cmvhjh4uu05ej01mh2l1emva6": {
     "jugadores": [],
-    "pendientes": [],
+    "pendientes": [
+      "george.weasley",
+      "chewbacca"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -3785,11 +3787,11 @@
     "anotados": 0
   },
   "cmvhjh6jp05em01mhpbg9w1cn": {
-    "jugadores": [],
-    "pendientes": [
+    "jugadores": [
       "saul.goodman",
       "davy.jones"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -3831,7 +3833,9 @@
     "fecha": "2026-10-24T13:00:00.000Z",
     "deporte": "TENIS",
     "cupo": 3,
-    "creado": "2026-10-21T15:14:25.163Z"
+    "creado": "2026-10-21T15:14:25.163Z",
+    "pendientesHumanos": 0,
+    "anotados": 0
   },
   "cmvi96gt205qp01mhrc1hnnz8": {
     "jugadores": [],
@@ -3845,7 +3849,9 @@
     "fecha": "2026-10-24T00:00:00.000Z",
     "deporte": "TENIS",
     "cupo": 3,
-    "creado": "2026-10-21T15:14:32.103Z"
+    "creado": "2026-10-21T15:14:32.103Z",
+    "pendientesHumanos": 0,
+    "anotados": 0
   },
   "cmvi96id805qs01mhnplpfknu": {
     "jugadores": [],
@@ -3859,6 +3865,8 @@
     "fecha": "2026-10-22T23:00:00.000Z",
     "deporte": "FUTBOL",
     "cupo": 9,
-    "creado": "2026-10-21T15:14:34.119Z"
+    "creado": "2026-10-21T15:14:34.119Z",
+    "pendientesHumanos": 0,
+    "anotados": 0
   }
 }

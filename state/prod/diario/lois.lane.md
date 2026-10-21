@@ -50,3 +50,4 @@
 - 2026-10-20 16:13 · se anotó al fútbol del sábado en Club Pilar (pidió unirse, espera que la acepten)
 - 2026-10-21 00:14 · calificó el fútbol y armó uno INTERMEDIATE el viernes 23 a las 20:30 en Polideportivo Del Viso
 - 2026-10-21 07:36 · entró a mirar; nada nuevo
+- 2026-10-21 16:13 · aceptó a Neville en su fútbol
