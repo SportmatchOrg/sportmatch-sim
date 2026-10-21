@@ -3296,7 +3296,7 @@
     "cupo": 9,
     "creado": "2026-10-17T19:11:19.064Z",
     "pendientesHumanos": 0,
-    "anotados": 2,
+    "anotados": 3,
     "cancelSorteado": true,
     "cancelar": false
   },
@@ -3310,7 +3310,9 @@
       "hermione.granger",
       "neville.longbottom"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "walle"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -3322,7 +3324,7 @@
     "cupo": 9,
     "creado": "2026-10-17T23:11:54.244Z",
     "pendientesHumanos": 0,
-    "anotados": 6
+    "anotados": 7
   },
   "cmvd913az00wt01nzaxzydl4r": {
     "jugadores": [
@@ -3330,11 +3332,10 @@
       "rachel.green",
       "theoden",
       "peter.parker",
-      "alfred.pennyworth"
-    ],
-    "pendientes": [
+      "alfred.pennyworth",
       "legolas"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -3415,11 +3416,10 @@
   "cmvdq7jc3013t01nzdqdxo7ql": {
     "jugadores": [
       "lucius.malfoy",
-      "nala"
-    ],
-    "pendientes": [
+      "nala",
       "saul.goodman"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -3518,11 +3518,10 @@
   "cmvex2bnd01h501nzhxdlo5g6": {
     "jugadores": [
       "nala",
-      "marge.simpson"
-    ],
-    "pendientes": [
+      "marge.simpson",
       "phoebe.buffay"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -3591,7 +3590,9 @@
     "jugadores": [
       "ginny.weasley"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "dobby"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -3658,7 +3659,7 @@
     "cupo": 7,
     "creado": "2026-10-20T07:12:21.931Z",
     "pendientesHumanos": 0,
-    "anotados": 0
+    "anotados": 1
   },
   "cmvgcj4el00bl01p6pema84ly": {
     "jugadores": [
@@ -3731,7 +3732,9 @@
   },
   "cmvhasmfd00ne01p6iy5klfzs": {
     "jugadores": [],
-    "pendientes": [],
+    "pendientes": [
+      "ginny.weasley"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -3761,11 +3764,13 @@
     "cupo": 9,
     "creado": "2026-10-21T07:11:15.365Z",
     "pendientesHumanos": 0,
-    "anotados": 0
+    "anotados": 1
   },
   "cmvi0j5kb006401lh2rwxggk2": {
     "jugadores": [],
-    "pendientes": [],
+    "pendientes": [
+      "peter.parker"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -3775,6 +3780,22 @@
     "fecha": "2026-10-24T23:00:00.000Z",
     "deporte": "FUTBOL",
     "cupo": 9,
-    "creado": "2026-10-21T11:12:27.534Z"
+    "creado": "2026-10-21T11:12:27.534Z",
+    "pendientesHumanos": 0,
+    "anotados": 0
+  },
+  "cmvi93rg3009r01lhvtcoo17j": {
+    "jugadores": [],
+    "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "frodo.bolson",
+    "fecha": "2026-10-24T00:00:00.000Z",
+    "deporte": "FUTBOL",
+    "cupo": 9,
+    "creado": "2026-10-21T15:12:25.945Z"
   }
 }

@@ -38,3 +38,4 @@
 - 2026-10-16 00:11 · calificó el fútbol del miércoles y se anotó al fútbol de George en Del Viso (siempre suma)
 - 2026-10-16 04:12 · entró y solo miró
 - 2026-10-17 08:12 · leyó notificaciones; entró y no hizo nada más
+- 2026-10-21 12:12 · quiso unirse al fútbol de Lois pero está suspendido hasta el 24/10; leyó notificaciones

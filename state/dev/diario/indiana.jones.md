@@ -2,3 +2,4 @@
 - 2026-10-19 16:22 · armó un pádel INTERMEDIATE el jue 22/10 08:00 en Pádel Point Pilar (madrugador)
 - 2026-10-20 04:11 · aceptó a Mike Wazowski en su pádel del jueves temprano
 - 2026-10-21 00:12 · aceptó a Anakin en su pádel del jueves temprano
+- 2026-10-21 12:12 · miró partidos, nada temprano que le cierre; no hizo nada

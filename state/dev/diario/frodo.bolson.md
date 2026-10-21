@@ -23,3 +23,4 @@
 - 2026-10-20 20:12 · aceptó a Bellatrix en su partido; no se anotó a nada más
 - 2026-10-21 00:11 · canceló el básquet que no se llenaba
 - 2026-10-21 08:11 · aceptó a Timón en su partido
+- 2026-10-21 12:12 · armó un fútbol INTERMEDIATE para el vie 23/10 21:00 en Fútbol 5 Nordelta (competitivo)
