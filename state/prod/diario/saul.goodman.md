@@ -1,0 +1,1 @@
+- 2026-10-21 12:14 · primera vez: pidió unirse al básquet del jueves de Marty en Del Viso

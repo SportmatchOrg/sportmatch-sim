@@ -3053,7 +3053,9 @@
       "john.wick",
       "chewbacca"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "neville.longbottom"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -3075,7 +3077,9 @@
       "milhouse.van.houten",
       "simba"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "eowyn"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -3169,7 +3173,9 @@
       "bellatrix.lestrange",
       "mike.wazowski"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "clark.kent"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -3218,7 +3224,7 @@
     "cupo": 3,
     "creado": "2026-10-17T03:15:32.706Z",
     "pendientesHumanos": 0,
-    "anotados": 0
+    "anotados": 1
   },
   "cmvc287m702zu01mhkmn5hif8": {
     "jugadores": [
@@ -3440,7 +3446,7 @@
     "cupo": 3,
     "creado": "2026-10-18T03:14:16.276Z",
     "pendientesHumanos": 0,
-    "anotados": 1
+    "anotados": 2
   },
   "cmvd951xb03ju01mheux8woly": {
     "jugadores": [
@@ -3520,7 +3526,7 @@
     "cupo": 9,
     "creado": "2026-10-18T15:14:10.753Z",
     "pendientesHumanos": 0,
-    "anotados": 7
+    "anotados": 8
   },
   "cmvdyuz6g03uq01mh75lo5a4h": {
     "jugadores": [],
@@ -3644,17 +3650,16 @@
     "cupo": 9,
     "creado": "2026-10-19T19:13:00.608Z",
     "pendientesHumanos": 0,
-    "anotados": 0
+    "anotados": 1
   },
   "cmvgl53w004xv01mhabuw1j47": {
     "jugadores": [
       "ron.weasley",
       "frodo.bolson",
-      "boromir"
-    ],
-    "pendientes": [
+      "boromir",
       "groot"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -3706,7 +3711,7 @@
     "cupo": 7,
     "creado": "2026-10-20T19:14:20.108Z",
     "pendientesHumanos": 0,
-    "anotados": 3
+    "anotados": 4
   },
   "cmvhavgyn057f01mhyw4lea6j": {
     "jugadores": [],
@@ -3781,7 +3786,10 @@
   },
   "cmvhjh6jp05em01mhpbg9w1cn": {
     "jugadores": [],
-    "pendientes": [],
+    "pendientes": [
+      "saul.goodman",
+      "davy.jones"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -3810,5 +3818,47 @@
     "creado": "2026-10-21T10:36:17.166Z",
     "pendientesHumanos": 0,
     "anotados": 0
+  },
+  "cmvi96bge05qm01mhm5n0cmvc": {
+    "jugadores": [],
+    "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "elrond",
+    "fecha": "2026-10-24T13:00:00.000Z",
+    "deporte": "TENIS",
+    "cupo": 3,
+    "creado": "2026-10-21T15:14:25.163Z"
+  },
+  "cmvi96gt205qp01mhrc1hnnz8": {
+    "jugadores": [],
+    "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "hector.barbossa",
+    "fecha": "2026-10-24T00:00:00.000Z",
+    "deporte": "TENIS",
+    "cupo": 3,
+    "creado": "2026-10-21T15:14:32.103Z"
+  },
+  "cmvi96id805qs01mhnplpfknu": {
+    "jugadores": [],
+    "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "burro",
+    "fecha": "2026-10-22T23:00:00.000Z",
+    "deporte": "FUTBOL",
+    "cupo": 9,
+    "creado": "2026-10-21T15:14:34.119Z"
   }
 }

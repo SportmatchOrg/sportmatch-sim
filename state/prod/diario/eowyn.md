@@ -34,3 +34,4 @@
 - 2026-10-18 20:14 · pidió unirse al pádel del sábado 24 en Pádel Point Pilar (le gusta conocer gente)
 - 2026-10-20 08:14 · pidió unirse al pádel del jueves 22 a la mañana en Pádel Point Pilar (se anota a todo)
 - 2026-10-21 07:36 · leyó que Indiana la aceptó en el pádel; solo miró
+- 2026-10-21 12:14 · pidió unirse al básquet del miércoles de Neo en Campus Austral

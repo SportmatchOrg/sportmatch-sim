@@ -3,3 +3,4 @@
 - 2026-10-20 04:15 · pidió unirse al fútbol BEGINNER del sábado en Complejo Del Este
 - 2026-10-21 07:36 · entró a mirar, sin novedades
 - 2026-10-21 08:15 · intentó aceptar a Thanos pero el partido ya estaba lleno
+- 2026-10-21 12:14 · armó fútbol el jueves 22 a las 20 en River Courts (vuelve a la cancha)

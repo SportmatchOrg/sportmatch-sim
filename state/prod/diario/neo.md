@@ -28,3 +28,4 @@
 - 2026-10-20 16:14 · entró a mirar; nada nuevo
 - 2026-10-20 20:15 · aceptó a Frodo y pidió unirse al básquet del jueves de Frodo en Campus Austral
 - 2026-10-21 00:15 · aceptó a Boromir en su básquet del viernes; solo miró
+- 2026-10-21 12:14 · aceptó a Groot en su básquet del viernes
