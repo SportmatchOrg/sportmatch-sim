@@ -952,3 +952,30 @@
 2026-10-21T19:14:34.614Z saul.goodman leer-notificaciones 1
 2026-10-21T19:14:59.146Z chewbacca leer-notificaciones 1
 2026-10-21T19:15:04.417Z chewbacca unirse cmvhjh4uu05ej01mh2l1emva6
+2026-10-21T23:13:22.053Z sorteo cmvaecg3d02dj01mhmdd8w549 faltaron=[groot,simba,eowyn] calificaran=[boromir,davy.jones,milhouse.van.houten]
+2026-10-21T23:13:23.790Z sorteo cmvavf4kw02jx01mhw7w92pcl faltaron=[] calificaran=[chewbacca]
+2026-10-21T23:13:30.642Z sorteo cmvcry1d503by01mhluiefpid faltaron=[] calificaran=[sam.gamyi,bellatrix.lestrange,gimli,peter.parker]
+2026-10-21T23:14:01.028Z gimli leer-notificaciones 1
+2026-10-21T23:14:08.635Z gimli calificar cmvcry1d503by01mhluiefpid ratings=3 noShows=0
+2026-10-21T23:14:10.988Z elrond leer-notificaciones 1
+2026-10-21T23:14:20.784Z elrond aceptar cmvhavgyn057f01mhyw4lea6j marty.mcfly
+2026-10-21T23:14:30.119Z bellatrix.lestrange calificar cmvcry1d503by01mhluiefpid ratings=3 noShows=0
+2026-10-21T23:14:32.898Z bellatrix.lestrange unirse demo-match-f08
+2026-10-21T23:14:37.527Z milhouse.van.houten leer-notificaciones 1
+2026-10-21T23:14:43.133Z milhouse.van.houten calificar cmvaecg3d02dj01mhmdd8w549 ratings=1 noShows=3
+2026-10-21T23:14:45.329Z milhouse.van.houten unirse cmvh2azzs054y01mhr0y9c8g8
+2026-10-21T23:14:54.355Z sam.gamyi calificar cmvcry1d503by01mhluiefpid ratings=3 noShows=0
+2026-10-21T23:14:56.733Z davy.jones leer-notificaciones 2
+2026-10-21T23:15:01.751Z davy.jones calificar cmvaecg3d02dj01mhmdd8w549 ratings=1 noShows=3
+2026-10-21T23:15:04.096Z boromir leer-notificaciones 1
+2026-10-21T23:15:09.401Z boromir calificar cmvaecg3d02dj01mhmdd8w549 ratings=2 noShows=3
+2026-10-21T23:15:11.674Z boromir unirse cmvfeaqay04ev01mhide54l3s
+2026-10-21T23:15:25.009Z chewbacca calificar cmvavf4kw02jx01mhw7w92pcl ratings=2 noShows=0
+2026-10-21T23:15:27.236Z chewbacca unirse cmvbcijou02q201mhz2xb75yv
+2026-10-21T23:15:30.816Z lois.lane leer-notificaciones 2
+2026-10-21T23:15:36.544Z lois.lane aceptar cmvhjh4uu05ej01mh2l1emva6 george.weasley
+2026-10-21T23:15:38.719Z lois.lane aceptar cmvhjh4uu05ej01mh2l1emva6 chewbacca
+2026-10-21T23:15:48.082Z peter.parker calificar cmvcry1d503by01mhluiefpid ratings=3 noShows=0
+2026-10-21T23:15:50.351Z peter.parker unirse cmvi96id805qs01mhnplpfknu
+2026-10-21T23:16:01.364Z george.weasley leer-notificaciones 2
+2026-10-21T23:16:13.017Z george.weasley unirse cmvdyvkt503ve01mhtosliaet

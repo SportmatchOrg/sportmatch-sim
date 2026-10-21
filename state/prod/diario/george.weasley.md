@@ -13,3 +13,4 @@
 - 2026-10-21 00:14 · calificó tres partidos de fútbol, todo bien; no hizo más
 - 2026-10-21 07:36 · entró a mirar; ya está anotado a todo lo suyo
 - 2026-10-21 16:14 · aceptó a Clark en su fútbol y pidió unirse al de Lois del viernes en Del Viso
+- 2026-10-21 20:16 · pidió unirse al fútbol del domingo 25 a la mañana en Club Pilar (se anota a todo)

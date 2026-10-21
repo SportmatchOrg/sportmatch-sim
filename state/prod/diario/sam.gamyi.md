@@ -66,3 +66,4 @@
 - 2026-10-20 12:15 · armó pádel BEGINNER para el viernes 23 a las 20 en Club Belgrano
 - 2026-10-20 20:14 · aceptó a Woody y a Bellatrix en su pádel del viernes
 - 2026-10-21 16:14 · entró, leyó notificaciones y miró partidos; nada de CABA le encajó
+- 2026-10-21 20:14 · calificó el fútbol, todo en orden

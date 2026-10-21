@@ -24,3 +24,4 @@
 - 2026-10-19 16:13 · pidió unirse al fútbol del jueves 22 de Lois en Club Pilar (se anota a todo)
 - 2026-10-20 08:14 · pidió unirse al fútbol del sábado 24 en Club Pilar (sociable, se anota a todo)
 - 2026-10-21 16:15 · leyó que Hermione lo aceptó y pidió unirse al fútbol del viernes de Lois en Del Viso (se anota a todo)
+- 2026-10-21 20:15 · calificó el pádel y pidió unirse al fútbol del miércoles 21 en Club Pilar (se anota a todo)

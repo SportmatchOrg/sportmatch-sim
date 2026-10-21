@@ -51,3 +51,4 @@
 - 2026-10-21 00:14 · calificó el fútbol y armó uno INTERMEDIATE el viernes 23 a las 20:30 en Polideportivo Del Viso
 - 2026-10-21 07:36 · entró a mirar; nada nuevo
 - 2026-10-21 16:13 · aceptó a Neville en su fútbol
+- 2026-10-21 20:15 · aceptó a George y a Chewbacca en su fútbol del viernes en Del Viso

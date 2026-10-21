@@ -77,3 +77,4 @@
 - 2026-10-20 20:14 · calificó con 5 a Boromir y armó un fútbol 5 el viernes 20:30 en Nordelta
 - 2026-10-21 00:15 · calificó dos fútbol, todo bien; no hizo más
 - 2026-10-21 12:14 · armó tenis dobles el sábado 24 a las 10 en Tigre Pádel Club
+- 2026-10-21 20:14 · aceptó a Marty McFly en su partido

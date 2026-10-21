@@ -10,3 +10,4 @@
 - 2026-10-19 08:14 · pidió unirse al tenis del martes 20 de Elrond en Club Pilar
 - 2026-10-20 00:14 · calificó el básquet y pidió unirse al de Frodo del martes en Campus Austral
 - 2026-10-20 20:15 · calificó con 5 a Elrond y pidió unirse al básquet del viernes de Neo en Campus Austral
+- 2026-10-21 20:15 · calificó el básquet y pidió unirse al tenis del domingo 25 en Club Pilar
