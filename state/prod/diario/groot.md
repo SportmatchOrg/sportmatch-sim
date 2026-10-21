@@ -4,3 +4,4 @@
 - 2026-10-19 00:14 · pidió unirse al básquet del martes 20 en Campus Austral (tardes libres)
 - 2026-10-19 04:15 · leyó que Frodo lo aceptó y pidió unirse al básquet de hoy en Campus Austral
 - 2026-10-21 00:16 · entró, leyó y no calificó el básquet; no se anotó a nada
+- 2026-10-21 07:36 · se anotó al básquet del jueves en Campus Austral; sigue sin calificar el anterior

@@ -1,3 +1,6 @@
 - 2026-10-17 16:14 · entró, solo miró
 - 2026-10-20 12:15 · entró a mirar; sin novedades
 - 2026-10-20 20:15 · armó un fútbol para el miércoles 21 a las 20:30 en Club Pilar (le gusta conocer gente)
+- 2026-10-21 07:36 · aceptó a Pippin y Clark y armó un fútbol 5 el viernes 23 en Nordelta
+- 2026-10-21 07:36 · aceptó a Pippin y Clark en su fútbol
+- 2026-10-21 07:36 · armó un fútbol 5 el viernes 23 a las 20:30 en Nordelta
