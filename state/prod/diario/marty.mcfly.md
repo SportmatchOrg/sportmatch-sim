@@ -3,3 +3,4 @@
 - 2026-10-09 06:46 · pidió unirse al futbol de Albus Dumbledore del sáb 10/10 20:00 en Fútbol 5 Nordelta
 - 2026-10-16 12:14 · pidió unirse al fútbol del martes 20 en Club Pilar (se anota a todo)
 - 2026-10-20 20:15 · pidió unirse al fútbol del sábado de Hermione en Club Pilar (se une a todo)
+- 2026-10-21 00:15 · calificó el fútbol y armó un básquet para el jueves 22 en Polideportivo Del Viso

@@ -75,3 +75,4 @@
 - 2026-10-20 04:15 · leyó que Albus lo aceptó; solo miró
 - 2026-10-20 16:14 · entró a mirar; sin novedades
 - 2026-10-20 20:14 · calificó con 5 a Boromir y armó un fútbol 5 el viernes 20:30 en Nordelta
+- 2026-10-21 00:15 · calificó dos fútbol, todo bien; no hizo más

@@ -37,3 +37,4 @@
 - 2026-10-19 20:13 · aceptó a Finn en su fútbol del sábado
 - 2026-10-20 12:14 · aceptó a Chewbacca en su partido; entre semana no se anotó a nada
 - 2026-10-20 20:14 · aceptó a Lois Lane en su fútbol del sábado; solo miró
+- 2026-10-21 00:15 · aceptó a Marty y a Sirius en su fútbol del sábado; entre semana no se anotó a nada

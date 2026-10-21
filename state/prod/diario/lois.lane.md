@@ -48,3 +48,4 @@
 - 2026-10-19 20:14 · aceptó a Chewbacca en su fútbol del jueves
 - 2026-10-20 00:14 · calificó el fútbol; todos bien
 - 2026-10-20 16:13 · se anotó al fútbol del sábado en Club Pilar (pidió unirse, espera que la acepten)
+- 2026-10-21 00:14 · calificó el fútbol y armó uno INTERMEDIATE el viernes 23 a las 20:30 en Polideportivo Del Viso

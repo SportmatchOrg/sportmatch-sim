@@ -4,3 +4,4 @@
 - 2026-10-14 08:14 · pidió unirse al básquet del jueves 15 en Campus Austral
 - 2026-10-15 04:14 · entró a mirar, espera respuesta del básquet del jueves
 - 2026-10-18 08:14 · pidió unirse al básquet del martes 20 en Campus Austral (tardes libres)
+- 2026-10-21 00:16 · calificó el básquet; no se anotó a nada más
