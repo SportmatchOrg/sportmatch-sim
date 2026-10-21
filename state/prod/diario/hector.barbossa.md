@@ -18,3 +18,4 @@
 - 2026-10-18 00:14 · entró a mirar; nada ADVANCED que le cierre, no hizo nada
 - 2026-10-18 16:14 · entró, leyó notificaciones; nada ADVANCED de noche que le cierre, solo miró
 - 2026-10-19 16:13 · armó un fútbol ADVANCED el jueves 22 a las 21:00 en Club Pilar (después del trabajo)
+- 2026-10-21 08:15 · aceptó a John Wick en su fútbol ADVANCED del jueves

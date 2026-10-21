@@ -3203,10 +3203,10 @@
     "anotados": 2
   },
   "cmvbtqfl102x301mhi3zwjr8k": {
-    "jugadores": [],
-    "pendientes": [
+    "jugadores": [
       "bruce.wayne"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -3317,7 +3317,8 @@
       "groot"
     ],
     "calificaron": [
-      "lucius.malfoy"
+      "lucius.malfoy",
+      "groot"
     ],
     "cancelado": false,
     "organizador": "frodo.bolson",
@@ -3424,11 +3425,10 @@
   },
   "cmvd94n9e03jl01mhhtc4v1n7": {
     "jugadores": [
-      "sam.gamyi"
-    ],
-    "pendientes": [
+      "sam.gamyi",
       "thanos"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -3505,11 +3505,10 @@
       "chewbacca",
       "lois.lane",
       "marty.mcfly",
-      "sirius.black"
-    ],
-    "pendientes": [
+      "sirius.black",
       "harry.potter"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -3630,10 +3629,10 @@
     "anotados": 2
   },
   "cmvfmtfz304ir01mh90rendmq": {
-    "jugadores": [],
-    "pendientes": [
+    "jugadores": [
       "john.wick"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -3647,29 +3646,15 @@
     "pendientesHumanos": 0,
     "anotados": 0
   },
-  "demo-match-f05": {
-    "jugadores": [],
-    "pendientes": [
-      "alfred.pennyworth"
-    ],
-    "bajasSorteadas": true,
-    "asistencia": null,
-    "calificaran": [],
-    "calificaron": [],
-    "cancelado": false,
-    "organizador": "humano:demo-user-lucia",
-    "fecha": "2026-10-21T11:00:00.000Z",
-    "deporte": "RUNNING",
-    "cupo": 15,
-    "anotados": 2
-  },
   "cmvgl53w004xv01mhabuw1j47": {
     "jugadores": [
       "ron.weasley",
       "frodo.bolson",
       "boromir"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "groot"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -3706,11 +3691,10 @@
     "jugadores": [
       "clark.kent",
       "neo",
-      "davy.jones"
-    ],
-    "pendientes": [
+      "davy.jones",
       "groot"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -3775,7 +3759,7 @@
     "cupo": 9,
     "creado": "2026-10-20T23:15:49.530Z",
     "pendientesHumanos": 0,
-    "anotados": 0,
+    "anotados": 2,
     "cancelSorteado": true,
     "cancelar": false
   },
@@ -3823,6 +3807,8 @@
     "fecha": "2026-10-23T23:30:00.000Z",
     "deporte": "FUTBOL",
     "cupo": 9,
-    "creado": "2026-10-21T10:36:17.166Z"
+    "creado": "2026-10-21T10:36:17.166Z",
+    "pendientesHumanos": 0,
+    "anotados": 0
   }
 }

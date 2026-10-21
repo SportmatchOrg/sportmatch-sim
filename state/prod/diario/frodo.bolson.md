@@ -15,3 +15,4 @@
 - 2026-10-20 16:14 · armó básquet intermedio el jueves 22 a las 20:30 en Campus Austral y pidió unirse al de Neo del viernes
 - 2026-10-20 20:15 · aceptó a Clark Kent en su básquet del jueves; esperando que se llene
 - 2026-10-21 00:15 · aceptó a Neo y Davy en su básquet del jueves y calificó el fútbol
+- 2026-10-21 08:15 · aceptó a Groot en su básquet del jueves; sigue esperando que se llene

@@ -18,3 +18,4 @@
 - 2026-10-20 04:15 · leyó que Frodo lo aceptó; no hay básquet de su nivel en Pilar, solo miró
 - 2026-10-20 12:15 · entró a mirar partidos, sin novedades
 - 2026-10-20 20:15 · pidió unirse al básquet del jueves de Frodo en Campus Austral (entusiasta)
+- 2026-10-21 08:15 · miró básquet; ya tiene el de Frodo del jueves, no se anotó a otro

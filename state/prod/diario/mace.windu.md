@@ -60,3 +60,4 @@
 - 2026-10-18 12:13 · aceptó a Elrond en su partido
 - 2026-10-19 00:14 · entró, leyó notificaciones y solo miró
 - 2026-10-19 12:15 · entró, sin notificaciones nuevas; solo miró
+- 2026-10-21 08:15 · aceptó a Bruce Wayne en su pádel del jueves
