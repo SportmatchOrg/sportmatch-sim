@@ -1,0 +1,1 @@
+- 2026-10-21 08:12 · pidió unirse al fútbol BEGINNER del jueves en River Courts (primera vez, entusiasmado)

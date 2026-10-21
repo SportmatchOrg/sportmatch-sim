@@ -1,0 +1,1 @@
+- 2026-10-21 08:12 · pidió unirse al básquet BEGINNER del sábado en Polideportivo Del Viso (primera vez)

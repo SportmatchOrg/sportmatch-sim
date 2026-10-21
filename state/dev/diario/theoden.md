@@ -14,3 +14,4 @@
 - 2026-10-15 00:11 · calificó el fútbol, todo en orden
 - 2026-10-18 20:12 · miró partidos, nada de fútbol en CABA; no se anotó
 - 2026-10-19 20:11 · pidió unirse al fútbol BEGINNER de Sam en River Courts
+- 2026-10-21 08:12 · lo aceptaron en el fútbol de Sam en River Courts; no hay otra cosa en CABA, solo miró

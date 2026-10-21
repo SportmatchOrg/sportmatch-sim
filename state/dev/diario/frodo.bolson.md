@@ -22,3 +22,4 @@
 - 2026-10-20 04:12 · armó un básquet INTERMEDIATE para el jue 22/10 20:30 en Campus Austral (competitivo)
 - 2026-10-20 20:12 · aceptó a Bellatrix en su partido; no se anotó a nada más
 - 2026-10-21 00:11 · canceló el básquet que no se llenaba
+- 2026-10-21 08:11 · aceptó a Timón en su partido

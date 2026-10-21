@@ -5,3 +5,4 @@
 - 2026-10-20 12:12 · pidió unirse al básquet del jueves en Polideportivo Del Viso (se anota a todo)
 - 2026-10-21 00:12 · pidió unirse al fútbol del jueves en Club Pilar
 - 2026-10-21 00:12 · corrección: ya estaba anotada al fútbol del jueves en Club Pilar; hoy solo leyó notificaciones
+- 2026-10-21 08:12 · pidió unirse al básquet del sábado de Neo en Campus Austral
