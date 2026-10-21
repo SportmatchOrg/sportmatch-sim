@@ -71,3 +71,4 @@
 - 2026-10-19 08:12 · entró y solo miró
 - 2026-10-19 16:21 · aceptó a Bellatrix Lestrange en su partido
 - 2026-10-20 20:11 · calificó el fútbol y pidió unirse al tenis del viernes en Tigre
+- 2026-10-21 16:12 · miró la app, sin novedades

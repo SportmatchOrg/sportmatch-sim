@@ -21,3 +21,4 @@
 - 2026-10-19 16:22 · aceptó a Marge Simpson en su básquet
 - 2026-10-20 12:11 · aceptó a Boromir en su básquet del miércoles
 - 2026-10-21 12:11 · aceptó a Phoebe en su básquet del sábado
+- 2026-10-21 16:12 · miró la app, sin más por hoy

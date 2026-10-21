@@ -99,3 +99,4 @@
 - 2026-10-21 04:11 · armó un fútbol ADVANCED para el vie 23/10 21:00 en Polideportivo Del Viso (no había nadie a quién calificar)
 - 2026-10-21 08:11 · aceptó a George Weasley en su fútbol del viernes
 - 2026-10-21 12:11 · no había a quién calificar; miró la app
+- 2026-10-21 16:12 · no había a quién calificar; miró la app

@@ -89,3 +89,4 @@
 - 2026-10-20 08:12 · leyó notificaciones (la aceptaron en el fútbol de Lois), hoy no se anotó a nada más
 - 2026-10-20 16:11 · aceptó a Ginny en su pádel y pidió unirse al fútbol del miércoles de Frodo en Nordelta (se anota a todo)
 - 2026-10-20 20:11 · calificó a Elrond y pidió unirse al fútbol del miércoles de George en Club Pilar (se anota a todo)
+- 2026-10-21 16:11 · aceptó a Dobby en su partido y pidió unirse al fútbol del sábado de Ned en River Courts (se anota a todo)

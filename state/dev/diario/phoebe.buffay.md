@@ -6,3 +6,4 @@
 - 2026-10-21 00:12 · pidió unirse al fútbol del jueves en Club Pilar
 - 2026-10-21 00:12 · corrección: ya estaba anotada al fútbol del jueves en Club Pilar; hoy solo leyó notificaciones
 - 2026-10-21 08:12 · pidió unirse al básquet del sábado de Neo en Campus Austral
+- 2026-10-21 16:12 · leyó notificaciones, hoy solo miró

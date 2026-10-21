@@ -11,3 +11,4 @@
 - 2026-10-17 12:13 · calificó generoso el running; ya tiene varios partidos, no sumó nada
 - 2026-10-18 08:11 · pidió unirse al fútbol del miércoles en Nordelta de Mace (juega con amigos)
 - 2026-10-19 20:11 · miró la app, sin más por hoy
+- 2026-10-21 16:12 · pidió unirse al running del domingo en Parque Pilar (recién empieza)

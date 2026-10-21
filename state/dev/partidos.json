@@ -3308,11 +3308,10 @@
       "bellatrix.lestrange",
       "phoebe.buffay",
       "hermione.granger",
-      "neville.longbottom"
-    ],
-    "pendientes": [
+      "neville.longbottom",
       "walle"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -3347,7 +3346,7 @@
     "cupo": 9,
     "creado": "2026-10-18T03:11:30.493Z",
     "pendientesHumanos": 0,
-    "anotados": 5
+    "anotados": 6
   },
   "cmvd91w6b00xl01nzfvlbxgcr": {
     "jugadores": [
@@ -3431,7 +3430,7 @@
     "cupo": 5,
     "creado": "2026-10-18T11:12:24.697Z",
     "pendientesHumanos": 0,
-    "anotados": 2
+    "anotados": 3
   },
   "cmvdyrtgy016y01nz06u1nfbz": {
     "jugadores": [
@@ -3533,7 +3532,7 @@
     "cupo": 7,
     "creado": "2026-10-19T07:12:04.881Z",
     "pendientesHumanos": 0,
-    "anotados": 2
+    "anotados": 3
   },
   "cmvex2kb001hc01nzspzn5oap": {
     "jugadores": [],
@@ -3572,7 +3571,9 @@
       "montgomery.burns",
       "eowyn"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "obiwan.kenobi"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -3588,11 +3589,10 @@
   },
   "cmvfe84ah01o001nzs7qjld3g": {
     "jugadores": [
-      "ginny.weasley"
-    ],
-    "pendientes": [
+      "ginny.weasley",
       "dobby"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -3731,10 +3731,10 @@
     "anotados": 0
   },
   "cmvhasmfd00ne01p6iy5klfzs": {
-    "jugadores": [],
-    "pendientes": [
+    "jugadores": [
       "ginny.weasley"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -3752,7 +3752,9 @@
     "jugadores": [
       "george.weasley"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "arya.stark"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -3767,10 +3769,11 @@
     "anotados": 1
   },
   "cmvi0j5kb006401lh2rwxggk2": {
-    "jugadores": [],
-    "pendientes": [
-      "peter.parker"
+    "jugadores": [
+      "peter.parker",
+      "bellatrix.lestrange"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -3796,6 +3799,8 @@
     "fecha": "2026-10-24T00:00:00.000Z",
     "deporte": "FUTBOL",
     "cupo": 9,
-    "creado": "2026-10-21T15:12:25.945Z"
+    "creado": "2026-10-21T15:12:25.945Z",
+    "pendientesHumanos": 0,
+    "anotados": 0
   }
 }
