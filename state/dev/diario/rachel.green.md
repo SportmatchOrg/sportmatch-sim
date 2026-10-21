@@ -7,3 +7,4 @@
 - 2026-10-15 16:12 · primera vez: miró fútbol, nada en CABA que le cierre
 - 2026-10-19 16:22 · se unió al fútbol del jueves en River Courts (único en CABA)
 - 2026-10-19 20:11 · ya estaba anotada a un partido, hoy solo miró
+- 2026-10-21 04:13 · ya estaba anotada al fútbol del jueves en River Courts; no hay otro en CABA, solo miró

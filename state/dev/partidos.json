@@ -3283,7 +3283,9 @@
       "bellatrix.lestrange",
       "obiwan.kenobi"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "scott.lang"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -3383,7 +3385,7 @@
     "cupo": 9,
     "creado": "2026-10-18T07:11:54.661Z",
     "pendientesHumanos": 0,
-    "anotados": 4
+    "anotados": 5
   },
   "cmvdq7d8g013i01nzkcung1df": {
     "jugadores": [
@@ -3410,11 +3412,10 @@
   },
   "cmvdq7jc3013t01nzdqdxo7ql": {
     "jugadores": [
-      "lucius.malfoy"
-    ],
-    "pendientes": [
+      "lucius.malfoy",
       "nala"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -3508,7 +3509,7 @@
     "cupo": 3,
     "creado": "2026-10-19T07:11:43.276Z",
     "pendientesHumanos": 0,
-    "anotados": 0
+    "anotados": 1
   },
   "cmvex2bnd01h501nzhxdlo5g6": {
     "jugadores": [
@@ -3563,11 +3564,10 @@
   },
   "cmvfe7bze01n701nz4rv925eu": {
     "jugadores": [
-      "montgomery.burns"
-    ],
-    "pendientes": [
+      "montgomery.burns",
       "eowyn"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -3616,7 +3616,7 @@
     "cupo": 3,
     "creado": "2026-10-19T19:22:38.068Z",
     "pendientesHumanos": 0,
-    "anotados": 1
+    "anotados": 2
   },
   "cmvfvcm97005l01p6ty3wik38": {
     "jugadores": [
@@ -3638,7 +3638,9 @@
   },
   "cmvgcijfg00b301p6pvcd6vb6": {
     "jugadores": [],
-    "pendientes": [],
+    "pendientes": [
+      "timon"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -3672,10 +3674,10 @@
     "anotados": 2
   },
   "cmvgtoagy00hp01p6ts3w77nz": {
-    "jugadores": [],
-    "pendientes": [
+    "jugadores": [
       "george.weasley"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -3736,5 +3738,21 @@
     "creado": "2026-10-20T23:11:59.278Z",
     "pendientesHumanos": 0,
     "anotados": 0
+  },
+  "cmvhrwysc001n01lh0jz65guz": {
+    "jugadores": [],
+    "pendientes": [
+      "george.weasley"
+    ],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "steve.rogers",
+    "fecha": "2026-10-24T00:00:00.000Z",
+    "deporte": "FUTBOL",
+    "cupo": 9,
+    "creado": "2026-10-21T07:11:15.365Z"
   }
 }

@@ -3,3 +3,4 @@
 - 2026-10-16 12:11 · pidió unirse al fútbol 5 del martes 20/10 en Nordelta; el viernes ya lo aceptó Elrond
 - 2026-10-16 20:12 · leyó que lo aceptó Albus; no hizo nada más
 - 2026-10-17 04:11 · miró partidos, no encontró nada a su nivel y no se anotó
+- 2026-10-21 04:12 · pidió unirse al fútbol 5 INTERMEDIATE del miércoles en Nordelta (se le canceló el de Albus)

@@ -6,3 +6,4 @@
 - 2026-10-19 00:11 · aceptó a James Bond en su pádel del finde
 - 2026-10-19 12:12 · aceptó a Yoda en su pádel y armó un running para el dom 25/10 9:00 en Parque Pilar
 - 2026-10-20 20:12 · aceptó a Montgomery en su running del domingo; no se anotó a nada (sin partidos de finde a la mañana que le sirvan)
+- 2026-10-21 04:11 · aceptó a Éowyn en su running del domingo

@@ -96,3 +96,4 @@
 - 2026-10-18 08:11 · miró la app, sin novedades
 - 2026-10-18 20:11 · armó un fútbol INTERMEDIATE para el mar 20/10 21:30 en Club Pilar
 - 2026-10-21 00:11 · no había a quién calificar; miró la app
+- 2026-10-21 04:11 · armó un fútbol ADVANCED para el vie 23/10 21:00 en Polideportivo Del Viso (no había nadie a quién calificar)
