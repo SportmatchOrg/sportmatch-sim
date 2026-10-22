@@ -35,3 +35,4 @@
 - 2026-10-18 04:12 · pidió unirse al pádel del martes de Mace en Tigre (conocer gente nueva)
 - 2026-10-20 20:11 · calificó el pádel que jugó; hoy nada más
 - 2026-10-21 00:12 · pidió unirse al running del domingo en Parque Pilar
+- 2026-10-22 08:12 · leyó notificaciones y pidió unirse al pádel del sábado de Aragorn

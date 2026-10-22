@@ -3468,7 +3468,9 @@
       "walle",
       "aragorn"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "arya.stark"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -3501,7 +3503,7 @@
     "cupo": 5,
     "creado": "2026-10-18T11:12:24.697Z",
     "pendientesHumanos": 0,
-    "anotados": 3
+    "anotados": 4
   },
   "cmvdyrtgy016y01nz06u1nfbz": {
     "jugadores": [
@@ -3589,11 +3591,10 @@
     "jugadores": [
       "nala",
       "marge.simpson",
-      "phoebe.buffay"
-    ],
-    "pendientes": [
+      "phoebe.buffay",
       "frodo.bolson"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -3623,7 +3624,7 @@
     "cupo": 3,
     "creado": "2026-10-19T07:12:16.135Z",
     "pendientesHumanos": 0,
-    "anotados": 0,
+    "anotados": 1,
     "cancelSorteado": true,
     "cancelar": false
   },
@@ -3699,9 +3700,19 @@
     ],
     "pendientes": [],
     "bajasSorteadas": false,
-    "asistencia": null,
-    "calificaran": [],
-    "calificaron": [],
+    "asistencia": {
+      "indiana.jones": true,
+      "mike.wazowski": true,
+      "anakin.skywalker": true
+    },
+    "calificaran": [
+      "indiana.jones",
+      "anakin.skywalker"
+    ],
+    "calificaron": [
+      "anakin.skywalker",
+      "indiana.jones"
+    ],
     "cancelado": false,
     "organizador": "indiana.jones",
     "fecha": "2026-10-22T11:00:00.000Z",
@@ -3734,7 +3745,9 @@
       "timon",
       "boromir"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "neo"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -3746,7 +3759,7 @@
     "cupo": 7,
     "creado": "2026-10-20T07:12:21.931Z",
     "pendientesHumanos": 0,
-    "anotados": 1,
+    "anotados": 2,
     "cancelSorteado": true,
     "cancelar": false
   },
@@ -3900,7 +3913,10 @@
   },
   "cmvj7evvm00oy01lh98zb8q5y": {
     "jugadores": [],
-    "pendientes": [],
+    "pendientes": [
+      "anakin.skywalker",
+      "eowyn"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -3910,6 +3926,50 @@
     "fecha": "2026-10-24T13:00:00.000Z",
     "deporte": "PADEL",
     "cupo": 3,
-    "creado": "2026-10-22T07:12:51.878Z"
+    "creado": "2026-10-22T07:12:51.878Z",
+    "pendientesHumanos": 0,
+    "anotados": 0
+  },
+  "cmvjfyc8700rg01lhtyxaxshn": {
+    "jugadores": [],
+    "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "indiana.jones",
+    "fecha": "2026-10-24T11:00:00.000Z",
+    "deporte": "PADEL",
+    "cupo": 3,
+    "creado": "2026-10-22T11:11:56.418Z"
+  },
+  "cmvjfyt4q00rm01lhaz74wqdy": {
+    "jugadores": [],
+    "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "dory",
+    "fecha": "2026-10-27T00:00:00.000Z",
+    "deporte": "FUTBOL",
+    "cupo": 9,
+    "creado": "2026-10-22T11:12:18.382Z"
+  },
+  "cmvjfyzkr00rx01lh6evcff3c": {
+    "jugadores": [],
+    "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "faramir",
+    "fecha": "2026-10-24T12:00:00.000Z",
+    "deporte": "RUNNING",
+    "cupo": 5,
+    "creado": "2026-10-22T11:12:26.741Z"
   }
 }

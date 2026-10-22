@@ -3,3 +3,4 @@
 - 2026-10-20 04:11 · aceptó a Mike Wazowski en su pádel del jueves temprano
 - 2026-10-21 00:12 · aceptó a Anakin en su pádel del jueves temprano
 - 2026-10-21 12:12 · miró partidos, nada temprano que le cierre; no hizo nada
+- 2026-10-22 08:12 · calificó el último partido y armó un pádel para el sábado 8 am en Pádel Point

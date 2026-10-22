@@ -13,3 +13,4 @@
 - 2026-10-19 00:11 · miró los running; ya está anotado al del domingo, no sumó nada más
 - 2026-10-20 12:12 · leyó notificaciones; ya tiene running el finde, hoy solo miró
 - 2026-10-20 16:12 · pidió unirse al running del dom 25/10 09:00 en Parque Pilar (fin de semana a la mañana)
+- 2026-10-22 08:12 · miró la app; nada por ahora

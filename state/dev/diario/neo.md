@@ -23,3 +23,4 @@
 - 2026-10-21 12:11 · aceptó a Phoebe en su básquet del sábado
 - 2026-10-21 16:12 · miró la app, sin más por hoy
 - 2026-10-22 00:12 · calificó el básquet, sin más por hoy
+- 2026-10-22 08:12 · aceptó a Frodo en su básquet y se anotó al básquet de Frodo del jueves

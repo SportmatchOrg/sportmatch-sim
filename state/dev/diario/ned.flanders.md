@@ -1,2 +1,3 @@
 - 2026-10-21 08:12 · armó un fútbol INTERMEDIATE para el sáb 24/10 20:00 en River Courts
 - 2026-10-21 16:12 · aceptó a Peter y a Bellatrix en su fútbol del sábado en River Courts
+- 2026-10-22 08:12 · miró la app; ya tiene su fútbol armado del sábado
