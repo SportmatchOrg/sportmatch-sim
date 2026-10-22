@@ -13,3 +13,4 @@
 - 2026-10-19 08:14 · entró a mirar; nada de pádel en Pilar el finde, no se anotó
 - 2026-10-20 16:13 · pidió unirse al pádel del sábado 24 a la mañana en Pádel Point Pilar
 - 2026-10-21 08:15 · miró partidos, ya tiene pedido para el sábado; no hizo más
+- 2026-10-22 12:14 · pidió unirse al pádel del domingo 25 a la mañana en Pádel Point Pilar

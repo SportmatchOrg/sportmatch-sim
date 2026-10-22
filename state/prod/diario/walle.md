@@ -5,3 +5,4 @@
 - 2026-10-13 04:14 · entró a mirar, sin novedades
 - 2026-10-15 00:15 · pidió unirse al fútbol del sábado a la mañana en Club Pilar (de a poco, vuelve a jugar)
 - 2026-10-16 04:14 · pidió unirse al fútbol INTERMEDIATE del lunes 19 en Club Pilar
+- 2026-10-22 12:14 · vio que Pippin lo aceptó en el fútbol; no hizo más

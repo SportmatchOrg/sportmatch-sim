@@ -3,3 +3,4 @@
 - 2026-10-17 08:14 · pidió unirse al pádel del lunes 19 a la noche en Club Belgrano (después del trabajo)
 - 2026-10-19 20:14 · calificó el partido y pidió unirse al pádel del martes a la noche en Club Belgrano
 - 2026-10-19 20:14 · (corrige) el pádel del martes en Belgrano ya estaba lleno; no se anotó a nada
+- 2026-10-22 12:14 · pidió unirse al pádel de hoy a la noche en Tigre (después del trabajo)

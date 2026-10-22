@@ -2,3 +2,4 @@
 - 2026-10-14 12:14 · pidió unirse al básquet INTERMEDIATE del jueves en Campus Austral
 - 2026-10-15 04:14 · buscó básquet en CABA, no encontró nada que le sirva
 - 2026-10-20 12:15 · pidió unirse al básquet del martes en Club Palermo
+- 2026-10-22 12:14 · vio que Neo lo aceptó en el básquet; no hizo más

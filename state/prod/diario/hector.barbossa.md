@@ -20,3 +20,4 @@
 - 2026-10-19 16:13 · armó un fútbol ADVANCED el jueves 22 a las 21:00 en Club Pilar (después del trabajo)
 - 2026-10-21 08:15 · aceptó a John Wick en su fútbol ADVANCED del jueves
 - 2026-10-21 12:14 · armó tenis dobles ADVANCED el viernes 23 a las 21:00 en Club Pilar (después del trabajo)
+- 2026-10-22 12:14 · pidió unirse al fútbol ADVANCED del domingo 25 a la noche en Club Pilar
