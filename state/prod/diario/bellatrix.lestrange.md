@@ -84,3 +84,4 @@
 - 2026-10-21 16:15 · leyó notificaciones; ya anotada a todo lo que le sirve, solo miró
 - 2026-10-21 20:14 · calificó el fútbol y pidió unirse al fútbol BEGINNER del sábado 24 en Complejo Del Este (se anota a todo)
 - 2026-10-22 00:15 · calificó dos fútbol y pidió unirse al fútbol del jueves 22 en Complejo Del Este (se anota a todo)
+- 2026-10-22 08:14 · pidió unirse al fútbol del viernes en Nordelta de Dory (se anota a todo)

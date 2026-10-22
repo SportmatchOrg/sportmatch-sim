@@ -1,0 +1,1 @@
+- 2026-10-22 08:15 · primera vez: recorrió la app y los fútbol de CABA, sin armar nada todavía

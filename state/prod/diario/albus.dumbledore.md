@@ -31,3 +31,4 @@
 - 2026-10-19 16:12 · aceptó a Bellatrix y Obi-Wan en su fútbol 5 y pidió unirse al de Elrond del martes en Nordelta (conocer gente)
 - 2026-10-20 00:14 · aceptó a Elrond en su fútbol 5 del miércoles en Nordelta
 - 2026-10-21 00:15 · calificó el fútbol de Nordelta; no hizo más
+- 2026-10-22 08:15 · armó un fútbol 5 para el sábado 24 a las 20:30 en Nordelta (para conocer gente)

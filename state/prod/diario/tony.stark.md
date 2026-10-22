@@ -33,3 +33,4 @@
 - 2026-10-20 00:14 · entró temprano; nada para calificar ni pádel a la mañana en el norte, solo miró
 - 2026-10-20 04:15 · entró temprano; nadie para calificar, solo miró
 - 2026-10-20 08:13 · entró temprano, leyó notificaciones; nada para calificar, solo miró
+- 2026-10-22 08:14 · aceptó a Éowyn en su pádel del domingo; no encontró pádel antes de las 9 para anotarse

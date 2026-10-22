@@ -96,3 +96,4 @@
 - 2026-10-19 12:14 · rechazó a John Wick en su fútbol ADVANCED del viernes (no daba el nivel)
 - 2026-10-20 00:13 · canceló el fútbol ADVANCED del martes en Del Viso porque no se llenó
 - 2026-10-20 04:15 · aceptó a George Weasley en su fútbol ADVANCED del viernes
+- 2026-10-22 08:14 · aceptó a Padmé en su fútbol del viernes y armó un fútbol ADVANCED para el domingo 25 a las 20 en Club Pilar

@@ -3514,11 +3514,10 @@
   },
   "cmvd951xb03ju01mheux8woly": {
     "jugadores": [
-      "george.weasley"
-    ],
-    "pendientes": [
+      "george.weasley",
       "padme.amidala"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -3542,7 +3541,9 @@
     "calificaran": [
       "natasha.romanoff"
     ],
-    "calificaron": [],
+    "calificaron": [
+      "natasha.romanoff"
+    ],
     "cancelado": false,
     "organizador": "natasha.romanoff",
     "fecha": "2026-10-22T00:00:00.000Z",
@@ -3670,10 +3671,10 @@
     "anotados": 4
   },
   "cmvex56e3047e01mhzx43zo4l": {
-    "jugadores": [],
-    "pendientes": [
+    "jugadores": [
       "eowyn"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -3714,9 +3715,17 @@
       "james.bond"
     ],
     "bajasSorteadas": false,
-    "asistencia": null,
-    "calificaran": [],
-    "calificaron": [],
+    "asistencia": {
+      "indiana.jones": true,
+      "anakin.skywalker": false,
+      "eowyn": true
+    },
+    "calificaran": [
+      "indiana.jones"
+    ],
+    "calificaron": [
+      "indiana.jones"
+    ],
     "cancelado": false,
     "organizador": "indiana.jones",
     "fecha": "2026-10-22T11:00:00.000Z",
@@ -3825,7 +3834,7 @@
     "cupo": 9,
     "creado": "2026-10-20T23:14:12.136Z",
     "pendientesHumanos": 0,
-    "anotados": 1
+    "anotados": 2
   },
   "cmvhax69a059j01mh1ynyxm03": {
     "jugadores": [],
@@ -3833,9 +3842,15 @@
       "harley.quinn"
     ],
     "bajasSorteadas": false,
-    "asistencia": null,
-    "calificaran": [],
-    "calificaron": [],
+    "asistencia": {
+      "indiana.jones": true
+    },
+    "calificaran": [
+      "indiana.jones"
+    ],
+    "calificaron": [
+      "indiana.jones"
+    ],
     "cancelado": false,
     "organizador": "indiana.jones",
     "fecha": "2026-10-22T10:30:00.000Z",
@@ -3887,7 +3902,9 @@
       "clark.kent",
       "phoebe.buffay"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "marty.mcfly"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -3899,16 +3916,15 @@
     "cupo": 9,
     "creado": "2026-10-21T03:14:59.812Z",
     "pendientesHumanos": 0,
-    "anotados": 2
+    "anotados": 4
   },
   "cmvhjh6jp05em01mhpbg9w1cn": {
     "jugadores": [
       "saul.goodman",
-      "davy.jones"
-    ],
-    "pendientes": [
+      "davy.jones",
       "nelson.muntz"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -3926,7 +3942,9 @@
   },
   "cmvhz8mwh05j101mh5bmxc9lb": {
     "jugadores": [],
-    "pendientes": [],
+    "pendientes": [
+      "bellatrix.lestrange"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -4023,5 +4041,49 @@
     "creado": "2026-10-22T03:16:51.687Z",
     "pendientesHumanos": 0,
     "anotados": 0
+  },
+  "cmvjg0rof06b501mha1n1222i": {
+    "jugadores": [],
+    "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "steve.rogers",
+    "fecha": "2026-10-25T23:00:00.000Z",
+    "deporte": "FUTBOL",
+    "cupo": 9,
+    "creado": "2026-10-22T11:13:49.758Z"
+  },
+  "cmvjg1yg706cd01mhf456zcup": {
+    "jugadores": [],
+    "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "indiana.jones",
+    "fecha": "2026-10-25T11:00:00.000Z",
+    "deporte": "PADEL",
+    "cupo": 3,
+    "creado": "2026-10-22T11:14:45.181Z"
+  },
+  "cmvjg2e5l06cn01mhalzzk9te": {
+    "jugadores": [],
+    "pendientes": [
+      "elrond"
+    ],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "albus.dumbledore",
+    "fecha": "2026-10-24T23:30:00.000Z",
+    "deporte": "FUTBOL",
+    "cupo": 9,
+    "creado": "2026-10-22T11:15:05.536Z"
   }
 }

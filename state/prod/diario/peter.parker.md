@@ -2,3 +2,4 @@
 - 2026-10-20 04:15 · pidió unirse al fútbol BEGINNER de Sam del miércoles y al de Juan del sábado en CABA
 - 2026-10-20 16:14 · leyó que Sam lo aceptó en el fútbol; solo miró
 - 2026-10-21 20:15 · calificó el fútbol y pidió unirse al fútbol del jueves 22 en River Courts
+- 2026-10-22 08:15 · leyó que Burro lo aceptó en el fútbol de River Courts; ya anotado a lo que le sirve, solo miró
