@@ -62,3 +62,4 @@
 - 2026-10-19 12:15 · entró, sin notificaciones nuevas; solo miró
 - 2026-10-21 08:15 · aceptó a Bruce Wayne en su pádel del jueves
 - 2026-10-22 08:15 · entró, sin novedades; solo miró
+- 2026-10-22 16:14 · aceptó a Lisa Simpson en su pádel del jueves

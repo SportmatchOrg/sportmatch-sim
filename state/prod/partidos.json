@@ -3257,11 +3257,10 @@
   },
   "cmvbtqfl102x301mhi3zwjr8k": {
     "jugadores": [
-      "bruce.wayne"
-    ],
-    "pendientes": [
+      "bruce.wayne",
       "lisa.simpson"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -3676,7 +3675,10 @@
     "jugadores": [
       "eowyn"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "saruman",
+      "indiana.jones"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -3762,10 +3764,11 @@
       "ron.weasley",
       "frodo.bolson",
       "boromir",
-      "groot"
+      "groot",
+      "nelson.muntz"
     ],
     "pendientes": [
-      "nelson.muntz"
+      "marty.mcfly"
     ],
     "bajasSorteadas": false,
     "asistencia": null,
@@ -3919,7 +3922,7 @@
     "cupo": 9,
     "creado": "2026-10-21T03:14:59.812Z",
     "pendientesHumanos": 0,
-    "anotados": 4
+    "anotados": 5
   },
   "cmvhjh6jp05em01mhpbg9w1cn": {
     "jugadores": [
@@ -3959,7 +3962,7 @@
     "cupo": 9,
     "creado": "2026-10-21T10:36:17.166Z",
     "pendientesHumanos": 0,
-    "anotados": 0
+    "anotados": 1
   },
   "cmvi96bge05qm01mhm5n0cmvc": {
     "jugadores": [],
@@ -3997,7 +4000,9 @@
     "jugadores": [
       "peter.parker"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "rubeus.hagrid"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -4046,10 +4051,10 @@
     "anotados": 0
   },
   "cmvjg0rof06b501mha1n1222i": {
-    "jugadores": [],
-    "pendientes": [
+    "jugadores": [
       "hector.barbossa"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -4064,10 +4069,10 @@
     "anotados": 0
   },
   "cmvjg1yg706cd01mhf456zcup": {
-    "jugadores": [],
-    "pendientes": [
+    "jugadores": [
       "yoda"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -4097,6 +4102,20 @@
     "cupo": 9,
     "creado": "2026-10-22T11:15:05.536Z",
     "pendientesHumanos": 0,
-    "anotados": 0
+    "anotados": 1
+  },
+  "cmvjx6lcm06j401mhk1p6oqmg": {
+    "jugadores": [],
+    "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "neo",
+    "fecha": "2026-10-25T14:00:00.000Z",
+    "deporte": "BASQUET",
+    "cupo": 5,
+    "creado": "2026-10-22T19:14:14.965Z"
   }
 }

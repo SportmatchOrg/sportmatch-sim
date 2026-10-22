@@ -40,3 +40,4 @@
 - 2026-10-14 16:14 · pidió unirse al fútbol del miércoles de Lois en Campus Austral
 - 2026-10-19 04:15 · pidió unirse al fútbol BEGINNER del miércoles 21 en River Courts
 - 2026-10-21 20:14 · calificó el fútbol jugado: buena onda con todos
+- 2026-10-22 16:14 · entró y solo miró

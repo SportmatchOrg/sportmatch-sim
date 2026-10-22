@@ -12,3 +12,4 @@
 - 2026-10-22 00:17 · volvió a intentar aceptar a James Bond pero el partido sigue lleno; nada más
 - 2026-10-22 04:14 · quiso aceptar a James Bond pero el partido sigue lleno; nada más
 - 2026-10-22 08:14 · calificó el tenis (Éowyn 5) y armó un pádel para el domingo 25 a las 8 en Pádel Point Pilar
+- 2026-10-22 16:14 · aceptó a Yoda y pidió unirse al pádel del domingo a la mañana en Tigre (madruga)

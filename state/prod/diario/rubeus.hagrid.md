@@ -17,3 +17,4 @@
 - 2026-10-17 12:16 · calificó el fútbol; hoy solo miró
 - 2026-10-17 16:14 · pidió unirse al fútbol del martes en Club Pilar (tardes libres)
 - 2026-10-21 00:14 · calificó el fútbol y no se anotó a nada más (es mitad de semana)
+- 2026-10-22 16:14 · pidió unirse al fútbol del jueves en River Courts (tiene la tarde libre)
