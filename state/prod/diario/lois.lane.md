@@ -55,3 +55,4 @@
 - 2026-10-22 00:15 · calificó el fútbol, todos puntuales; no hizo más
 - 2026-10-22 04:14 · aceptó a Clark y a Phoebe en su fútbol
 - 2026-10-22 12:14 · aceptó a Marty en su fútbol del viernes en Del Viso
+- 2026-10-22 20:14 · calificó el fútbol y armó uno para el martes 27 a las 20:30 en Club Pilar

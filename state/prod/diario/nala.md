@@ -1,1 +1,2 @@
 - 2026-10-18 20:14 · primera vez: pidió unirse al tenis del jueves 22 en Tigre Pádel Club (recién empieza, nivel intermedio)
+- 2026-10-22 20:15 · calificó el tenis y pidió unirse al básquet de Neo del domingo en Club Belgrano

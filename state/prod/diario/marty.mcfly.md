@@ -7,3 +7,4 @@
 - 2026-10-21 16:14 · aceptó a Saul y Davy en su básquet y pidió unirse al fútbol del viernes en Nordelta (se une a todo)
 - 2026-10-22 08:14 · aceptó a Nelson en su básquet y pidió unirse al fútbol del viernes en Del Viso (se une a todo)
 - 2026-10-22 16:14 · pidió unirse al básquet del viernes en Campus Austral (para despejarse)
+- 2026-10-22 20:14 · calificó el básquet; solo miró

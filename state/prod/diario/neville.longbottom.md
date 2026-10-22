@@ -1,1 +1,2 @@
 - 2026-10-21 12:14 · pidió unirse al fútbol del jueves de Lois en Club Pilar (quiere ganar)
+- 2026-10-22 20:16 · calificó el fútbol y pidió unirse al de Lois del martes 27 en Club Pilar (quiere ganar)

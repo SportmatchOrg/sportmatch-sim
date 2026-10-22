@@ -21,3 +21,4 @@
 - 2026-10-21 08:15 · miró básquet; ya tiene el de Frodo del jueves, no se anotó a otro
 - 2026-10-21 12:14 · pidió unirse al básquet del jueves de Marty en Del Viso
 - 2026-10-21 20:15 · calificó el básquet: Milhouse bien
+- 2026-10-22 20:14 · calificó el básquet y pidió unirse al de Neo del domingo en Club Belgrano

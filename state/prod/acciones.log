@@ -1064,3 +1064,43 @@
 2026-10-22T19:14:13.084Z saruman unirse cmvex56e3047e01mhzx43zo4l
 2026-10-22T19:14:14.967Z neo crear cmvjx6lcm06j401mhk1p6oqmg BASQUET 2026-10-25T14:00:00.000Z
 2026-10-22T19:14:20.831Z indiana.jones unirse cmvex56e3047e01mhzx43zo4l
+2026-10-22T23:13:07.711Z sorteo cmvaecavm02d801mhnesc4em5 faltaron=[] calificaran=[lois.lane,simba,pippin.tuk,george.weasley,sirius.black,chewbacca,neville.longbottom]
+2026-10-22T23:13:15.254Z sorteo cmvcaurva034f01mhdifp4x7w faltaron=[] calificaran=[nala]
+2026-10-22T23:13:16.898Z sorteo cmvd94n9e03jl01mhhtc4v1n7 faltaron=[] calificaran=[burro,sam.gamyi,thanos]
+2026-10-22T23:13:32.407Z sorteo cmvhjh6jp05em01mhpbg9w1cn faltaron=[] calificaran=[marty.mcfly,davy.jones,nelson.muntz]
+2026-10-22T23:13:36.062Z sorteo cmvi96id805qs01mhnplpfknu faltaron=[] calificaran=[burro,peter.parker]
+2026-10-22T23:13:54.405Z pippin.tuk calificar cmvaecavm02d801mhnesc4em5 ratings=3 noShows=0
+2026-10-22T23:14:06.423Z sam.gamyi calificar cmvd94n9e03jl01mhhtc4v1n7 ratings=2 noShows=0
+2026-10-22T23:14:08.689Z davy.jones calificar cmvhjh6jp05em01mhpbg9w1cn ratings=3 noShows=0
+2026-10-22T23:14:10.894Z davy.jones unirse cmvjx6lcm06j401mhk1p6oqmg
+2026-10-22T23:14:15.331Z chewbacca leer-notificaciones 1
+2026-10-22T23:14:18.587Z tony.stark leer-notificaciones 2
+2026-10-22T23:14:21.972Z sirius.black leer-notificaciones 1
+2026-10-22T23:14:27.137Z chewbacca calificar cmvaecavm02d801mhnesc4em5 ratings=3 noShows=0
+2026-10-22T23:14:29.433Z tony.stark aceptar cmvex56e3047e01mhzx43zo4l saruman
+2026-10-22T23:14:33.776Z sirius.black calificar cmvaecavm02d801mhnesc4em5 ratings=3 noShows=0
+2026-10-22T23:14:40.354Z marty.mcfly leer-notificaciones 1
+2026-10-22T23:14:43.520Z neo leer-notificaciones 3
+2026-10-22T23:14:49.092Z lois.lane calificar cmvaecavm02d801mhnesc4em5 ratings=3 noShows=0
+2026-10-22T23:14:51.298Z marty.mcfly calificar cmvhjh6jp05em01mhpbg9w1cn ratings=3 noShows=0
+2026-10-22T23:14:53.629Z neo aceptar cmvgl53w004xv01mhabuw1j47 marty.mcfly
+2026-10-22T23:14:58.450Z lois.lane crear cmvk5s60k06n001mhrbz8wu7m FUTBOL 2026-10-27T23:30:00.000Z
+2026-10-22T23:15:00.801Z thanos leer-notificaciones 1
+2026-10-22T23:15:06.642Z simba leer-notificaciones 2
+2026-10-22T23:15:12.891Z thanos calificar cmvd94n9e03jl01mhhtc4v1n7 ratings=2 noShows=0
+2026-10-22T23:15:15.069Z george.weasley calificar cmvaecavm02d801mhnesc4em5 ratings=3 noShows=0
+2026-10-22T23:15:17.314Z simba calificar cmvaecavm02d801mhnesc4em5 ratings=3 noShows=0
+2026-10-22T23:15:19.485Z simba unirse cmvk5s60k06n001mhrbz8wu7m
+2026-10-22T23:15:23.662Z nala leer-notificaciones 1
+2026-10-22T23:15:31.205Z burro leer-notificaciones 1
+2026-10-22T23:15:35.853Z neville.longbottom leer-notificaciones 1
+2026-10-22T23:15:39.207Z nelson.muntz leer-notificaciones 2
+2026-10-22T23:15:46.130Z nala calificar cmvcaurva034f01mhdifp4x7w ratings=2 noShows=0
+2026-10-22T23:15:48.736Z nala unirse cmvjx6lcm06j401mhk1p6oqmg
+2026-10-22T23:15:50.973Z peter.parker calificar cmvi96id805qs01mhnplpfknu ratings=1 noShows=0
+2026-10-22T23:15:52.971Z peter.parker crear cmvk5tc3g06ok01mhcrj3hby0 FUTBOL 2026-10-26T23:30:00.000Z
+2026-10-22T23:15:56.494Z burro calificar cmvd94n9e03jl01mhhtc4v1n7 ratings=2 noShows=0
+2026-10-22T23:15:59.387Z neville.longbottom calificar cmvaecavm02d801mhnesc4em5 ratings=3 noShows=0
+2026-10-22T23:16:02.747Z nelson.muntz calificar cmvhjh6jp05em01mhpbg9w1cn ratings=3 noShows=0
+2026-10-22T23:16:09.873Z neville.longbottom unirse cmvk5s60k06n001mhrbz8wu7m
+2026-10-22T23:16:13.873Z burro calificar cmvi96id805qs01mhnplpfknu ratings=1 noShows=0

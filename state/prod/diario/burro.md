@@ -6,3 +6,4 @@
 - 2026-10-21 12:14 · armó fútbol el jueves 22 a las 20 en River Courts (vuelve a la cancha)
 - 2026-10-22 00:17 · aceptó a Peter en su fútbol del jueves en River Courts
 - 2026-10-22 12:14 · entró a mirar; sin novedades
+- 2026-10-22 20:16 · calificó el tenis y el fútbol, y aceptó a Rubeus en su fútbol

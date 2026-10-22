@@ -31,3 +31,4 @@
 - 2026-10-21 12:14 · aceptó a Groot en su básquet del viernes
 - 2026-10-21 16:14 · aceptó a Éowyn en su básquet del miércoles
 - 2026-10-22 16:14 · aceptó a Nelson Muntz y armó un básquet INTERMEDIATE para el domingo en Club Belgrano (para despejarse)
+- 2026-10-22 20:14 · aceptó a Marty en su básquet del viernes; no se anotó a nada
