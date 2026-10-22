@@ -8,3 +8,4 @@
 - 2026-10-20 20:12 · miró tenis y básquet, nada la convenció; no se anotó
 - 2026-10-21 12:12 · miró partidos, nada la convenció; no se anotó
 - 2026-10-21 16:12 · miró partidos, sin anotarse a nada
+- 2026-10-22 16:12 · miró la app; nada más por hoy

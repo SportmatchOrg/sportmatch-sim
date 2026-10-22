@@ -23,3 +23,4 @@
 - 2026-10-09 18:45 · se bajó a último momento del futbol del vie 09/10 19:30
 - 2026-10-10 09:48 · se bajó a último momento del futbol del sáb 10/10 10:30
 - 2026-10-12 20:12 · calificó el fútbol, buen nivel en general
+- 2026-10-22 16:12 · miró la app; nada más por hoy

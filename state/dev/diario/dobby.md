@@ -15,3 +15,4 @@
 - 2026-10-20 20:12 · miró los pádel, sigue suspendido hasta mañana; no se anotó
 - 2026-10-21 12:12 · pidió unirse al pádel del miércoles en Club Belgrano
 - 2026-10-21 20:12 · miró los pádel; el único es intermedio y en Tigre, lejos de CABA; no se anotó
+- 2026-10-22 16:12 · miró los pádel; ninguno cerca ni a su nivel, no se anotó

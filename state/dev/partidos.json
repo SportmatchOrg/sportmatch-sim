@@ -3481,7 +3481,7 @@
     "cupo": 9,
     "creado": "2026-10-18T11:12:16.962Z",
     "pendientesHumanos": 0,
-    "anotados": 6
+    "anotados": 7
   },
   "cmvdq7jc3013t01nzdqdxo7ql": {
     "jugadores": [
@@ -3593,7 +3593,9 @@
       "phoebe.buffay",
       "frodo.bolson"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "luke.skywalker"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -3757,7 +3759,7 @@
     "cupo": 7,
     "creado": "2026-10-20T07:12:21.931Z",
     "pendientesHumanos": 0,
-    "anotados": 2,
+    "anotados": 3,
     "cancelSorteado": true,
     "cancelar": false
   },
@@ -3765,12 +3767,11 @@
     "jugadores": [
       "phoebe.buffay",
       "clark.kent",
-      "walle"
-    ],
-    "pendientes": [
+      "walle",
       "fiona"
     ],
-    "bajasSorteadas": false,
+    "pendientes": [],
+    "bajasSorteadas": true,
     "asistencia": null,
     "calificaran": [],
     "calificaron": [],
@@ -3788,7 +3789,9 @@
       "george.weasley",
       "phoebe.buffay"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "finn"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -3896,10 +3899,10 @@
     "anotados": 2
   },
   "cmvi93rg3009r01lhvtcoo17j": {
-    "jugadores": [],
-    "pendientes": [
+    "jugadores": [
       "obiwan.kenobi"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -3930,7 +3933,7 @@
     "cupo": 3,
     "creado": "2026-10-22T07:12:51.878Z",
     "pendientesHumanos": 0,
-    "anotados": 0
+    "anotados": 2
   },
   "cmvjfyc8700rg01lhtyxaxshn": {
     "jugadores": [],
@@ -3992,7 +3995,9 @@
     "fecha": "2026-10-24T23:00:00.000Z",
     "deporte": "FUTBOL",
     "cupo": 9,
-    "creado": "2026-10-22T15:12:00.818Z"
+    "creado": "2026-10-22T15:12:00.818Z",
+    "pendientesHumanos": 0,
+    "anotados": 0
   },
   "cmvjoj4kg00uq01lh244ajeaf": {
     "jugadores": [],
@@ -4006,6 +4011,8 @@
     "fecha": "2026-10-25T11:00:00.000Z",
     "deporte": "PADEL",
     "cupo": 3,
-    "creado": "2026-10-22T15:12:03.197Z"
+    "creado": "2026-10-22T15:12:03.197Z",
+    "pendientesHumanos": 0,
+    "anotados": 0
   }
 }

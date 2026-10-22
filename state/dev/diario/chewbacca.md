@@ -13,3 +13,4 @@
 - 2026-10-12 12:11 · pidió unirse al pádel BEGINNER del martes en Club Norte
 - 2026-10-14 04:12 · se unió al fútbol de Frodo del vie 16/10 a las 21 en Fútbol 5 Nordelta
 - 2026-10-18 16:12 · pidió unirse al fútbol de Lois del jueves 22/10 en Club Pilar (se anota a todo)
+- 2026-10-22 16:12 · leyó que Lois lo aceptó; nada más por hoy
