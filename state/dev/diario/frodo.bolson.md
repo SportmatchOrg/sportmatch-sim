@@ -24,3 +24,4 @@
 - 2026-10-21 00:11 · canceló el básquet que no se llenaba
 - 2026-10-21 08:11 · aceptó a Timón en su partido
 - 2026-10-21 12:12 · armó un fútbol INTERMEDIATE para el vie 23/10 21:00 en Fútbol 5 Nordelta (competitivo)
+- 2026-10-22 04:12 · aceptó a Boromir en su básquet y pidió unirse al básquet de Neo del sábado en Campus Austral

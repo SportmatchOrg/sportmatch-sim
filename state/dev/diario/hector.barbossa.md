@@ -24,3 +24,4 @@
 - 2026-10-18 04:11 · aceptó a Jon Snow en su fútbol ADVANCED
 - 2026-10-19 00:11 · canceló su fútbol ADVANCED del lunes: iban 2/9 y no se llenaba
 - 2026-10-19 04:12 · armó un dobles de tenis ADVANCED el jue 22/10 20:30 en Club Pilar
+- 2026-10-22 04:11 · aceptó a Sauron en su partido

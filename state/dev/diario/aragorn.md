@@ -1,1 +1,2 @@
 - 2026-10-20 08:12 · primer día: pidió unirse al fútbol del sábado de Hermione en Club Pilar
+- 2026-10-22 04:12 · armó un pádel BEGINNER para el sáb 24/10 10:00 en Pádel Point Pilar

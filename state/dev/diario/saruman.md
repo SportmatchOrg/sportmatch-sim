@@ -3,3 +3,4 @@
 - 2026-10-15 12:12 · miró partidos; ya estaba anotado al pádel de Tony
 - 2026-10-17 08:11 · calificó el pádel y pidió unirse al pádel de Tony del domingo 8:00 en Tigre
 - 2026-10-18 16:12 · miró la app y leyó notificaciones, no se anotó
+- 2026-10-22 04:12 · miró la app; no hay pádel nuevo

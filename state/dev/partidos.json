@@ -3397,7 +3397,7 @@
     "cupo": 9,
     "creado": "2026-10-18T03:11:30.493Z",
     "pendientesHumanos": 0,
-    "anotados": 6
+    "anotados": 7
   },
   "cmvd91w6b00xl01nzfvlbxgcr": {
     "jugadores": [
@@ -3486,11 +3486,10 @@
     "jugadores": [
       "lucius.malfoy",
       "nala",
-      "saul.goodman"
-    ],
-    "pendientes": [
+      "saul.goodman",
       "clark.kent"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -3592,7 +3591,9 @@
       "marge.simpson",
       "phoebe.buffay"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "frodo.bolson"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -3607,10 +3608,10 @@
     "anotados": 3
   },
   "cmvex2kb001hc01nzspzn5oap": {
-    "jugadores": [],
-    "pendientes": [
+    "jugadores": [
       "sauron"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -3679,7 +3680,8 @@
       "ginny.weasley"
     ],
     "calificaron": [
-      "bellatrix.lestrange"
+      "bellatrix.lestrange",
+      "ginny.weasley"
     ],
     "cancelado": false,
     "organizador": "bellatrix.lestrange",
@@ -3729,11 +3731,10 @@
   },
   "cmvgcijfg00b301p6pvcd6vb6": {
     "jugadores": [
-      "timon"
-    ],
-    "pendientes": [
+      "timon",
       "boromir"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -3767,7 +3768,7 @@
     "cupo": 5,
     "creado": "2026-10-20T07:12:49.104Z",
     "pendientesHumanos": 0,
-    "anotados": 2
+    "anotados": 3
   },
   "cmvgtoagy00hp01p6ts3w77nz": {
     "jugadores": [
@@ -3786,7 +3787,7 @@
     "cupo": 9,
     "creado": "2026-10-20T15:12:43.679Z",
     "pendientesHumanos": 0,
-    "anotados": 1,
+    "anotados": 2,
     "cancelSorteado": true,
     "cancelar": false
   },
@@ -3841,7 +3842,7 @@
     "cupo": 3,
     "creado": "2026-10-20T23:11:59.278Z",
     "pendientesHumanos": 0,
-    "anotados": 1
+    "anotados": 2
   },
   "cmvhrwysc001n01lh0jz65guz": {
     "jugadores": [
@@ -3896,5 +3897,19 @@
     "creado": "2026-10-21T15:12:25.945Z",
     "pendientesHumanos": 0,
     "anotados": 0
+  },
+  "cmvj7evvm00oy01lh98zb8q5y": {
+    "jugadores": [],
+    "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "aragorn",
+    "fecha": "2026-10-24T13:00:00.000Z",
+    "deporte": "PADEL",
+    "cupo": 3,
+    "creado": "2026-10-22T07:12:51.878Z"
   }
 }
