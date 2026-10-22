@@ -16,3 +16,4 @@
 - 2026-10-21 20:16 · pidió unirse al fútbol del domingo 25 a la mañana en Club Pilar (se anota a todo)
 - 2026-10-22 00:16 · calificó el fútbol y pidió unirse al fútbol del jueves 22 de Lois en Club Pilar (le gusta conocer gente)
 - 2026-10-22 00:16 · corrección: ya estaba anotado al fútbol del jueves 22; solo calificó
+- 2026-10-22 04:15 · entró a mirar fútbol; solo leyó notificaciones

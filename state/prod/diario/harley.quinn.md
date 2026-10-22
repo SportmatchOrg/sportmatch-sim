@@ -7,3 +7,4 @@
 - 2026-10-07 18:19 · aceptó a Ron Weasley en su basquet del jue 08/10 20:00
 - 2026-10-08 12:17 · aceptó a Milhouse Van Houten en su basquet del jue 08/10 20:00
 - 2026-10-17 00:15 · miró básquet, nada en Pilar a la mañana; no se anotó
+- 2026-10-22 04:15 · se unió al tenis del jueves 7:30 en Club Pilar (madruga)

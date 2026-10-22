@@ -3516,7 +3516,9 @@
     "jugadores": [
       "george.weasley"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "padme.amidala"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -3628,7 +3630,7 @@
     "cupo": 9,
     "creado": "2026-10-18T15:15:03.219Z",
     "pendientesHumanos": 0,
-    "anotados": 0
+    "anotados": 1
   },
   "cmveokaj5044c01mh3fz70o0t": {
     "jugadores": [
@@ -3669,7 +3671,9 @@
   },
   "cmvex56e3047e01mhzx43zo4l": {
     "jugadores": [],
-    "pendientes": [],
+    "pendientes": [
+      "eowyn"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -3699,7 +3703,7 @@
     "cupo": 3,
     "creado": "2026-10-19T15:14:30.587Z",
     "pendientesHumanos": 0,
-    "anotados": 0
+    "anotados": 1
   },
   "cmvfebhyi04fg01mhs6lzbcn9": {
     "jugadores": [
@@ -3802,15 +3806,14 @@
     "cupo": 7,
     "creado": "2026-10-20T19:14:20.108Z",
     "pendientesHumanos": 0,
-    "anotados": 4
+    "anotados": 5
   },
   "cmvhavgyn057f01mhyw4lea6j": {
     "jugadores": [
-      "marty.mcfly"
-    ],
-    "pendientes": [
+      "marty.mcfly",
       "obiwan.kenobi"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -3826,7 +3829,9 @@
   },
   "cmvhax69a059j01mh1ynyxm03": {
     "jugadores": [],
-    "pendientes": [],
+    "pendientes": [
+      "harley.quinn"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -3878,12 +3883,11 @@
   "cmvhjh4uu05ej01mh2l1emva6": {
     "jugadores": [
       "george.weasley",
-      "chewbacca"
-    ],
-    "pendientes": [
+      "chewbacca",
       "clark.kent",
       "phoebe.buffay"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -3902,7 +3906,9 @@
       "saul.goodman",
       "davy.jones"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "nelson.muntz"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -3982,7 +3988,7 @@
     "cupo": 9,
     "creado": "2026-10-21T15:14:34.119Z",
     "pendientesHumanos": 0,
-    "anotados": 0,
+    "anotados": 1,
     "cancelSorteado": true,
     "cancelar": false
   },
@@ -3999,7 +4005,8 @@
     "organizador": "humano:cmv2xntp700094rryq141soee",
     "fecha": "2026-10-23T01:00:00.000Z",
     "deporte": "FUTBOL",
-    "cupo": 14
+    "cupo": 14,
+    "anotados": 0
   },
   "cmviyzdud065301mhopw14inq": {
     "jugadores": [],
@@ -4013,6 +4020,8 @@
     "fecha": "2026-10-27T00:00:00.000Z",
     "deporte": "FUTBOL",
     "cupo": 9,
-    "creado": "2026-10-22T03:16:51.687Z"
+    "creado": "2026-10-22T03:16:51.687Z",
+    "pendientesHumanos": 0,
+    "anotados": 0
   }
 }
