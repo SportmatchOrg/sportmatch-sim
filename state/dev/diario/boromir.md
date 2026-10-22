@@ -14,3 +14,4 @@
 - 2026-10-20 00:11 · miró partidos de básquet, no se anotó a nada
 - 2026-10-20 08:12 · pidió unirse al básquet del miércoles de Neo en Campus Austral
 - 2026-10-20 20:12 · leyó que Neo lo aceptó en el básquet del miércoles; solo miró
+- 2026-10-22 00:12 · calificó el básquet y pidió unirse al básquet del jueves en Campus Austral

@@ -4,3 +4,4 @@
 - 2026-10-20 04:12 · armó un básquet para el jue 22/10 17:30 en Del Viso (tarde libre)
 - 2026-10-20 16:11 · aceptó a Phoebe en su básquet de Del Viso
 - 2026-10-20 20:12 · aceptó a Clark en su básquet de Del Viso; ya tiene el del sábado, no se anotó a más
+- 2026-10-22 00:12 · aceptó a Wall-E en su básquet de Del Viso

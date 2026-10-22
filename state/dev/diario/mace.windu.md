@@ -64,3 +64,5 @@
 - 2026-10-21 08:11 · aceptó a Scott Lang en su partido
 - 2026-10-21 08:12 · corrección: recién ahora aceptó a Scott Lang en su fútbol
 - 2026-10-21 16:12 · aceptó a Ginny en su pádel del viernes en Tigre
+- 2026-10-22 00:11 · aceptó a Anakin y calificó el fútbol
+- 2026-10-22 00:11 · corrección: recién ahora aceptó a Anakin en su partido (antes el comando falló)

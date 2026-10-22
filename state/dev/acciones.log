@@ -1035,3 +1035,29 @@
 2026-10-21T23:12:43.629Z phoebe.buffay unirse cmvgtoagy00hp01p6ts3w77nz
 2026-10-21T23:12:49.244Z anakin.skywalker unirse cmvhasmfd00ne01p6iy5klfzs
 2026-10-21T23:12:51.620Z saul.goodman leer-notificaciones 1
+2026-10-22T03:10:28.638Z sorteo cmvavb6fg00r301o31speemun faltaron=[frodo.bolson] calificaran=[neo,clark.kent,simba,boromir]
+2026-10-22T03:10:29.271Z sorteo cmvbl13hs004v01nzxqja4dp3 faltaron=[] calificaran=[thanos,sauron]
+2026-10-22T03:10:30.955Z sorteo cmvcrvkak00qb01nz1a4mqgmm faltaron=[] calificaran=[mace.windu,bellatrix.lestrange,obiwan.kenobi]
+2026-10-22T03:10:45.469Z sorteo cmvfe84ah01o001nzs7qjld3g faltaron=[] calificaran=[bellatrix.lestrange,ginny.weasley]
+2026-10-22T03:11:23.912Z bellatrix.lestrange calificar cmvcrvkak00qb01nz1a4mqgmm ratings=3 noShows=0
+2026-10-22T03:11:25.856Z bellatrix.lestrange calificar cmvfe84ah01o001nzs7qjld3g ratings=2 noShows=0
+2026-10-22T03:11:27.912Z mace.windu leer-notificaciones 1
+2026-10-22T03:11:36.957Z mace.windu calificar cmvcrvkak00qb01nz1a4mqgmm ratings=3 noShows=0
+2026-10-22T03:11:46.616Z mace.windu aceptar cmvhasmfd00ne01p6iy5klfzs anakin.skywalker
+2026-10-22T03:11:53.374Z sam.gamyi aceptar cmvd913az00wt01nzaxzydl4r bellatrix.lestrange
+2026-10-22T03:11:55.627Z obiwan.kenobi leer-notificaciones 1
+2026-10-22T03:12:01.083Z obiwan.kenobi calificar cmvcrvkak00qb01nz1a4mqgmm ratings=3 noShows=0
+2026-10-22T03:12:10.553Z boromir calificar cmvavb6fg00r301o31speemun ratings=3 noShows=1
+2026-10-22T03:12:12.662Z boromir unirse cmvgcijfg00b301p6pvcd6vb6
+2026-10-22T03:12:20.697Z neo calificar cmvavb6fg00r301o31speemun ratings=2 noShows=1
+2026-10-22T03:12:26.306Z thanos calificar cmvbl13hs004v01nzxqja4dp3 ratings=1 noShows=0
+2026-10-22T03:12:28.625Z clark.kent leer-notificaciones 1
+2026-10-22T03:12:37.610Z clark.kent calificar cmvavb6fg00r301o31speemun ratings=2 noShows=1
+2026-10-22T03:12:39.509Z clark.kent unirse cmvdq7jc3013t01nzdqdxo7ql
+2026-10-22T03:12:42.750Z lucius.malfoy leer-notificaciones 1
+2026-10-22T03:12:47.443Z lucius.malfoy aceptar cmvgcj4el00bl01p6pema84ly walle
+2026-10-22T03:12:55.445Z sauron calificar cmvbl13hs004v01nzxqja4dp3 ratings=1 noShows=0
+2026-10-22T03:12:57.367Z sauron unirse cmvex2kb001hc01nzspzn5oap
+2026-10-22T03:12:59.420Z natasha.romanoff leer-notificaciones 1
+2026-10-22T03:13:05.511Z natasha.romanoff aceptar cmvgtoagy00hp01p6ts3w77nz phoebe.buffay
+2026-10-22T03:13:14.248Z simba calificar cmvavb6fg00r301o31speemun ratings=2 noShows=1

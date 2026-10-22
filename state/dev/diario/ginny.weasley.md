@@ -1,3 +1,4 @@
 - 2026-10-20 00:11 · pidió lugar en el pádel del sábado a la mañana en Tigre
 - 2026-10-20 12:12 · pidió lugar en el pádel del miércoles de noche en Club Belgrano
 - 2026-10-21 12:12 · pidió unirse al pádel del viernes en Tigre Pádel Club
+- 2026-10-22 00:13 · entró, no calificó el pádel (no es de calificar) y no hay pádel nuevo
