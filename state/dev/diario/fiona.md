@@ -1,0 +1,1 @@
+- 2026-10-22 12:12 · pidió unirse al básquet del jueves en Del Viso (primera vez en la app)

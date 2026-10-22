@@ -104,3 +104,4 @@
 - 2026-10-22 00:11 · miró la app; no había a quién calificar
 - 2026-10-22 04:11 · miró la app; nadie a quién calificar
 - 2026-10-22 08:11 · miró la app; no había a quién calificar
+- 2026-10-22 12:11 · miró la app; el partido a calificar no tenía a nadie pendiente

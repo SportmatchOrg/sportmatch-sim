@@ -1,0 +1,1 @@
+- 2026-10-22 12:12 · primer día: miró la app, sin novedades

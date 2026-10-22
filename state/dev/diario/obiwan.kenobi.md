@@ -13,3 +13,4 @@
 - 2026-10-19 20:11 · miró la app, sin más por hoy
 - 2026-10-21 16:12 · pidió unirse al running del domingo en Parque Pilar (recién empieza)
 - 2026-10-22 00:12 · calificó generoso el fútbol
+- 2026-10-22 12:12 · pidió unirse al fútbol del viernes en Nordelta de Frodo
