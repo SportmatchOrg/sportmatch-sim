@@ -1,1 +1,2 @@
 - 2026-10-19 12:14 · primera vez en la app: se anotó al fútbol del miércoles en Club Pilar (quiere ganar)
+- 2026-10-22 00:17 · calificó el fútbol y pidió unirse al fútbol del viernes 23 en Del Viso (se anota a todo)

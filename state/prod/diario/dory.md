@@ -4,3 +4,4 @@
 - 2026-10-21 07:36 · aceptó a Pippin y Clark y armó un fútbol 5 el viernes 23 en Nordelta
 - 2026-10-21 07:36 · aceptó a Pippin y Clark en su fútbol
 - 2026-10-21 07:36 · armó un fútbol 5 el viernes 23 a las 20:30 en Nordelta
+- 2026-10-22 00:17 · calificó el fútbol, todo bien; no hizo más

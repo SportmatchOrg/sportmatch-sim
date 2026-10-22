@@ -20,3 +20,4 @@
 - 2026-10-19 08:13 · entró, no había a quién calificar; solo miró
 - 2026-10-20 08:14 · leyó notificaciones; entre semana, solo miró
 - 2026-10-20 20:15 · aceptó a Yoda en su pádel ADVANCED del sábado
+- 2026-10-22 00:16 · aceptó a George en su fútbol ADVANCED del domingo

@@ -4,3 +4,4 @@
 - 2026-10-21 07:36 · entró a mirar, sin novedades
 - 2026-10-21 08:15 · intentó aceptar a Thanos pero el partido ya estaba lleno
 - 2026-10-21 12:14 · armó fútbol el jueves 22 a las 20 en River Courts (vuelve a la cancha)
+- 2026-10-22 00:17 · aceptó a Peter en su fútbol del jueves en River Courts

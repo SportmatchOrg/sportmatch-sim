@@ -11,3 +11,4 @@
 - 2026-10-20 16:14 · pidió unirse al básquet de Frodo del jueves 22 en Campus Austral
 - 2026-10-21 00:15 · calificó el fútbol y pidió unirse al fútbol del miércoles de Dory en Club Pilar (tardes libres)
 - 2026-10-21 12:14 · pidió unirse al fútbol del miércoles de George Weasley en Club Pilar (tardes libres)
+- 2026-10-22 00:16 · calificó dos fútbol y pidió unirse al fútbol del viernes 23 de Lois en Del Viso (tardes libres)
