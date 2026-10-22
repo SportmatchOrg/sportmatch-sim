@@ -53,3 +53,4 @@
 - 2026-10-17 20:11 · calificó duro el fútbol (3 y 2) y pidió unirse al fútbol de Dory en Club Pilar
 - 2026-10-19 16:22 · se anotó al fútbol del viernes en Club Pilar
 - 2026-10-21 00:11 · calificó duro el fútbol (3 y 2)
+- 2026-10-22 20:12 · pidió unirse al fútbol del sábado 20:00 en River Courts

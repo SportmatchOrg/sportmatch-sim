@@ -24,3 +24,4 @@
 - 2026-10-21 16:12 · miró la app, sin más por hoy
 - 2026-10-22 00:12 · calificó el básquet, sin más por hoy
 - 2026-10-22 08:12 · aceptó a Frodo en su básquet y se anotó al básquet de Frodo del jueves
+- 2026-10-22 20:11 · aceptó a Luke en su básquet del sábado; ya está anotado al de Frodo, no se unió a nada más

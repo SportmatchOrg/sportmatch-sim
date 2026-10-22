@@ -8,3 +8,5 @@
 - 2026-10-21 08:12 · pidió unirse al básquet del sábado de Neo en Campus Austral
 - 2026-10-21 16:12 · leyó notificaciones, hoy solo miró
 - 2026-10-21 20:12 · calificó el fútbol (4, 5 y 4) y pidió unirse al fútbol ADVANCED del jueves de Natasha en Club Pilar (competitiva)
+- 2026-10-22 20:12 · calificó el básquet (4, 5 y 4) y pidió unirse al fútbol del viernes de Lois en Club Pilar
+- 2026-10-22 20:12 · corrección: el fútbol del viernes de Lois ya lo tenía; en realidad pidió el del sábado de Hermione en Club Pilar
