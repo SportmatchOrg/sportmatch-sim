@@ -3688,7 +3688,7 @@
     "cupo": 9,
     "creado": "2026-10-18T15:15:03.219Z",
     "pendientesHumanos": 0,
-    "anotados": 1
+    "anotados": 2
   },
   "cmveokaj5044c01mh3fz70o0t": {
     "jugadores": [
@@ -4177,11 +4177,10 @@
   },
   "cmvjg2e5l06cn01mhalzzk9te": {
     "jugadores": [
-      "elrond"
-    ],
-    "pendientes": [
+      "elrond",
       "obiwan.kenobi"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -4199,11 +4198,10 @@
     "jugadores": [
       "davy.jones",
       "nala",
-      "nelson.muntz"
-    ],
-    "pendientes": [
+      "nelson.muntz",
       "milhouse.van.houten"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -4215,15 +4213,16 @@
     "cupo": 5,
     "creado": "2026-10-22T19:14:14.965Z",
     "pendientesHumanos": 0,
-    "anotados": 2
+    "anotados": 3
   },
   "cmvk5s60k06n001mhrbz8wu7m": {
     "jugadores": [
       "simba",
-      "neville.longbottom"
+      "neville.longbottom",
+      "saul.goodman"
     ],
     "pendientes": [
-      "saul.goodman"
+      "fred.weasley"
     ],
     "bajasSorteadas": false,
     "asistencia": null,
@@ -4284,7 +4283,9 @@
     "cupo": 5,
     "creado": "2026-10-23T03:17:15.471Z",
     "pendientesHumanos": 0,
-    "anotados": 0
+    "anotados": 0,
+    "cancelSorteado": true,
+    "cancelar": false
   },
   "cmvkmwejf06vy01mhci2e7fnl": {
     "jugadores": [],
@@ -4298,6 +4299,37 @@
     "fecha": "2026-10-26T23:30:00.000Z",
     "deporte": "FUTBOL",
     "cupo": 9,
-    "creado": "2026-10-23T07:14:09.618Z"
+    "creado": "2026-10-23T07:14:09.618Z",
+    "pendientesHumanos": 0,
+    "anotados": 0
+  },
+  "demo-match-f09": {
+    "jugadores": [],
+    "pendientes": [
+      "nelson.muntz"
+    ],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "humano:demo-user-federico",
+    "fecha": "2026-10-25T23:00:00.000Z",
+    "deporte": "BASQUET",
+    "cupo": 6
+  },
+  "cmvkvhmyn06z501mhbizkvlcp": {
+    "jugadores": [],
+    "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "mace.windu",
+    "fecha": "2026-10-27T23:30:00.000Z",
+    "deporte": "FUTBOL",
+    "cupo": 9,
+    "creado": "2026-10-23T11:14:37.198Z"
   }
 }

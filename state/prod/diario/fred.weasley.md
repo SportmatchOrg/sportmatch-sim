@@ -34,3 +34,4 @@
 - 2026-10-17 04:14 · pidió unirse al fútbol del lunes 19 de Pippin en Club Pilar (se anota con entusiasmo)
 - 2026-10-17 04:14 · (corrección) no pudo anotarse al fútbol de Pippin: está suspendido hasta el 23/10 por faltar
 - 2026-10-18 00:14 · entró, le llegó que faltó a un partido; sigue suspendido hasta el 23/10, no se anotó a nada
+- 2026-10-23 08:14 · pidió unirse al fútbol del martes 27 de Lois en Club Pilar (se suma a todo)

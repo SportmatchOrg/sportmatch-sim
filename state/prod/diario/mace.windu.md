@@ -64,3 +64,4 @@
 - 2026-10-22 08:15 · entró, sin novedades; solo miró
 - 2026-10-22 16:14 · aceptó a Lisa Simpson en su pádel del jueves
 - 2026-10-23 00:15 · calificó el último partido (5 y 4); después solo miró
+- 2026-10-23 08:14 · armó un fútbol 5 para el martes 27 a las 20:30 en Nordelta (después del laburo, a conocer gente)

@@ -1,2 +1,3 @@
 - 2026-10-15 08:14 · primera vez en la app, miró partidos; no se anotó
 - 2026-10-16 16:13 · pidió unirse al fútbol del sábado 17 de Elrond en Nordelta
+- 2026-10-23 08:14 · entró, leyó notificaciones y solo miró; nada con el nivel que le gusta

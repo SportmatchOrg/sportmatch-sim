@@ -99,3 +99,4 @@
 - 2026-10-22 08:14 · aceptó a Padmé en su fútbol del viernes y armó un fútbol ADVANCED para el domingo 25 a las 20 en Club Pilar
 - 2026-10-22 16:14 · aceptó a Héctor Barbossa en su fútbol ADVANCED del domingo
 - 2026-10-23 00:15 · canceló el fútbol del Del Viso que no se llenaba y se anotó al ADVANCED del domingo en Club Pilar
+- 2026-10-23 08:14 · entró, leyó notificaciones y solo miró

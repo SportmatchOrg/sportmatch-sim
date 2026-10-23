@@ -38,3 +38,4 @@
 - 2026-10-23 00:15 · aceptó a Indiana en su pádel
 - 2026-10-23 00:16 · quiso aceptar a Indiana pero el pádel ya estaba lleno (la línea anterior no aplica)
 - 2026-10-23 04:14 · Indiana sigue pendiente pero el pádel está lleno; no pudo aceptarlo
+- 2026-10-23 08:14 · revisó solicitudes: Indiana sigue pendiente y el pádel está lleno; no pudo hacer nada más

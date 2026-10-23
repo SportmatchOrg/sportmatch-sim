@@ -33,3 +33,4 @@
 - 2026-10-21 00:15 · calificó el fútbol de Nordelta; no hizo más
 - 2026-10-22 08:15 · armó un fútbol 5 para el sábado 24 a las 20:30 en Nordelta (para conocer gente)
 - 2026-10-22 12:14 · aceptó a Elrond en su fútbol 5 del sábado en Nordelta
+- 2026-10-23 08:14 · aceptó a Obi-Wan en su fútbol 5 del sábado en Nordelta (conocer gente)
