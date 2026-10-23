@@ -3577,7 +3577,7 @@
     "cupo": 9,
     "creado": "2026-10-18T19:11:20.065Z",
     "pendientesHumanos": 0,
-    "anotados": 6
+    "anotados": 7
   },
   "cmvefwh9s01bx01nzv5i7u0sl": {
     "jugadores": [],
@@ -3689,7 +3689,9 @@
       "eowyn",
       "obiwan.kenobi"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "faramir"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -3970,7 +3972,9 @@
       "bellatrix.lestrange",
       "pippin.tuk"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "phoebe.buffay"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -4048,10 +4052,11 @@
   "cmvjfyt4q00rm01lhaz74wqdy": {
     "jugadores": [
       "george.weasley",
-      "sirius.black"
+      "sirius.black",
+      "phoebe.buffay"
     ],
     "pendientes": [
-      "phoebe.buffay"
+      "diana.prince"
     ],
     "bajasSorteadas": false,
     "asistencia": null,
@@ -4067,10 +4072,10 @@
     "anotados": 2
   },
   "cmvjfyzkr00rx01lh6evcff3c": {
-    "jugadores": [],
-    "pendientes": [
+    "jugadores": [
       "eowyn"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -4104,7 +4109,7 @@
     "cupo": 9,
     "creado": "2026-10-22T15:12:00.818Z",
     "pendientesHumanos": 0,
-    "anotados": 2
+    "anotados": 3
   },
   "cmvjoj4kg00uq01lh244ajeaf": {
     "jugadores": [],
@@ -4194,10 +4199,11 @@
   },
   "cmvkmudo800bb01o9hvgtzrg6": {
     "jugadores": [
-      "boromir"
+      "boromir",
+      "aragorn"
     ],
     "pendientes": [
-      "aragorn"
+      "fiona"
     ],
     "bajasSorteadas": false,
     "asistencia": null,
@@ -4210,7 +4216,7 @@
     "cupo": 7,
     "creado": "2026-10-23T07:12:35.179Z",
     "pendientesHumanos": 0,
-    "anotados": 0
+    "anotados": 1
   },
   "cmvkve41k00dj01o9lysl6295": {
     "jugadores": [],
@@ -4227,5 +4233,33 @@
     "creado": "2026-10-23T11:11:52.711Z",
     "pendientesHumanos": 0,
     "anotados": 0
+  },
+  "cmvlcjsdl00kw01o9olkascub": {
+    "jugadores": [],
+    "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "sam.gamyi",
+    "fecha": "2026-10-27T23:00:00.000Z",
+    "deporte": "PADEL",
+    "cupo": 3,
+    "creado": "2026-10-23T19:12:11.019Z"
+  },
+  "cmvlck8x400l601o9b73x56r4": {
+    "jugadores": [],
+    "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "fiona",
+    "fecha": "2026-10-26T23:00:00.000Z",
+    "deporte": "BASQUET",
+    "cupo": 7,
+    "creado": "2026-10-23T19:12:32.461Z"
   }
 }

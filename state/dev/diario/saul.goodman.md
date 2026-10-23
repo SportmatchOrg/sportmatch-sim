@@ -2,3 +2,4 @@
 - 2026-10-21 20:12 · leyó que Wall-E lo aceptó en el básquet del sábado; hoy solo miró
 - 2026-10-23 04:12 · pidió unirse al básquet del domingo de Neo en Campus Austral
 - 2026-10-23 12:12 · entró y solo miró
+- 2026-10-23 16:12 · leyó que Neo lo aceptó en el básquet del domingo; solo miró

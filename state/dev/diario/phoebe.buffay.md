@@ -13,3 +13,4 @@
 - 2026-10-23 00:13 · calificó dos partidos de fútbol; hoy no se anotó a nada más
 - 2026-10-23 04:12 · armó un básquet INTERMEDIATE para el mié 28/10 20:00 en Campus Austral (a ganar)
 - 2026-10-23 12:12 · aceptó a Boromir en su básquet y pidió unirse al fútbol del lunes en Club Pilar (competitiva)
+- 2026-10-23 16:11 · aceptó a Aragorn en su básquet y pidió unirse al fútbol del sábado de Ned en River Courts (competitiva)

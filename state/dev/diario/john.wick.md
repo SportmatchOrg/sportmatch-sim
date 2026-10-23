@@ -2,3 +2,4 @@
 - 2026-10-16 20:12 · leyó que lo aceptó Héctor; no hizo nada más
 - 2026-10-19 04:12 · pidió unirse al fútbol del jueves en Club Pilar (competitivo, quiere ganar)
 - 2026-10-20 04:12 · leyó que Lois lo aceptó; solo miró
+- 2026-10-23 16:12 · leyó notificaciones, sin novedades; solo miró

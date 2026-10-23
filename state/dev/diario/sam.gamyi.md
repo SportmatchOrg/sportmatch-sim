@@ -61,3 +61,4 @@
 - 2026-10-21 20:11 · calificó el partido y no encontró otro que encaje, no se anotó a nada
 - 2026-10-22 00:11 · aceptó a Bellatrix en su partido
 - 2026-10-23 00:11 · calificó el fútbol del otro día (generoso, todo bien)
+- 2026-10-23 16:12 · armó un pádel BEGINNER para el martes 27 a las 20 en Club Belgrano (recién empieza, quiere gente de su nivel)
