@@ -1,3 +1,4 @@
 - 2026-10-19 04:15 · primera vez en la app: miró partidos de pádel y fútbol, no se anotó a nada
 - 2026-10-19 16:12 · pidió unirse al pádel intermedio del martes en Club Belgrano (recién empieza, algo parejo)
 - 2026-10-20 16:14 · le aceptaron el pádel del martes; pidió unirse a un pádel BEGINNER del viernes en Club Belgrano
+- 2026-10-23 20:15 · calificó el fútbol, todos muy copados; solo miró

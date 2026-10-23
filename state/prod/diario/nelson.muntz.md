@@ -4,3 +4,4 @@
 - 2026-10-23 00:17 · se anotó al básquet de Neo del domingo y armó un básquet para el sábado 24 a las 8 en Del Viso (madruga)
 - 2026-10-23 08:14 · pidió unirse al básquet del domingo de Federico en el Municipal (se anota a todo)
 - 2026-10-23 16:14 · leyó que Neo lo aceptó; no quedan básquets para anotarse
+- 2026-10-23 20:16 · aceptó a James Bond en su básquet del sábado; ya estaba anotado a los demás

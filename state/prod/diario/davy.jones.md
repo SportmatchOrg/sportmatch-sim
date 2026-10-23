@@ -23,3 +23,4 @@
 - 2026-10-21 20:15 · calificó el básquet: Milhouse bien
 - 2026-10-22 20:14 · calificó el básquet y pidió unirse al de Neo del domingo en Club Belgrano
 - 2026-10-23 00:15 · calificó el básquet (5, 4 y 5); no hay nada de su nivel para anotarse
+- 2026-10-23 20:16 · leyó que Neo lo aceptó; el básquet que queda es ADVANCED, solo miró
