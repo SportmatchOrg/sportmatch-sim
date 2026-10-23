@@ -3564,7 +3564,9 @@
       "bellatrix.lestrange",
       "george.weasley"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "dory"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -3637,7 +3639,7 @@
     "cupo": 7,
     "creado": "2026-10-19T07:12:04.881Z",
     "pendientesHumanos": 0,
-    "anotados": 5
+    "anotados": 6
   },
   "cmvex2kb001hc01nzspzn5oap": {
     "jugadores": [
@@ -4024,11 +4026,11 @@
     "anotados": 2
   },
   "cmvjfyc8700rg01lhtyxaxshn": {
-    "jugadores": [],
-    "pendientes": [
+    "jugadores": [
       "james.bond",
       "apu.nahasapeemapetilon"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -4040,15 +4042,16 @@
     "cupo": 3,
     "creado": "2026-10-22T11:11:56.418Z",
     "pendientesHumanos": 0,
-    "anotados": 0
+    "anotados": 0,
+    "cancelSorteado": true,
+    "cancelar": false
   },
   "cmvjfyt4q00rm01lhaz74wqdy": {
     "jugadores": [
-      "george.weasley"
-    ],
-    "pendientes": [
+      "george.weasley",
       "sirius.black"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -4060,7 +4063,7 @@
     "cupo": 9,
     "creado": "2026-10-22T11:12:18.382Z",
     "pendientesHumanos": 0,
-    "anotados": 0
+    "anotados": 1
   },
   "cmvjfyzkr00rx01lh6evcff3c": {
     "jugadores": [],
@@ -4080,10 +4083,11 @@
   },
   "cmvjoj2qv00un01lh9iwwn7pw": {
     "jugadores": [
-      "bellatrix.lestrange"
+      "bellatrix.lestrange",
+      "scott.lang"
     ],
     "pendientes": [
-      "scott.lang"
+      "chewbacca"
     ],
     "bajasSorteadas": false,
     "asistencia": null,
@@ -4096,7 +4100,7 @@
     "cupo": 9,
     "creado": "2026-10-22T15:12:00.818Z",
     "pendientesHumanos": 0,
-    "anotados": 0
+    "anotados": 1
   },
   "cmvjoj4kg00uq01lh244ajeaf": {
     "jugadores": [],
@@ -4131,10 +4135,10 @@
     "anotados": 0
   },
   "cmvk5nu4b00zw01lhis8bb9nc": {
-    "jugadores": [],
-    "pendientes": [
+    "jugadores": [
       "boromir"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -4149,10 +4153,10 @@
     "anotados": 0
   },
   "cmvke9s20005s01o9tzw24nss": {
-    "jugadores": [],
-    "pendientes": [
+    "jugadores": [
       "saul.goodman"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -4184,7 +4188,9 @@
   },
   "cmvkmudo800bb01o9hvgtzrg6": {
     "jugadores": [],
-    "pendientes": [],
+    "pendientes": [
+      "boromir"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -4194,6 +4200,22 @@
     "fecha": "2026-10-28T23:00:00.000Z",
     "deporte": "BASQUET",
     "cupo": 7,
-    "creado": "2026-10-23T07:12:35.179Z"
+    "creado": "2026-10-23T07:12:35.179Z",
+    "pendientesHumanos": 0,
+    "anotados": 0
+  },
+  "cmvkve41k00dj01o9lysl6295": {
+    "jugadores": [],
+    "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "elrond",
+    "fecha": "2026-10-26T23:00:00.000Z",
+    "deporte": "TENIS",
+    "cupo": 3,
+    "creado": "2026-10-23T11:11:52.711Z"
   }
 }

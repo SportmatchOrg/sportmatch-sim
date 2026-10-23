@@ -17,3 +17,4 @@
 - 2026-10-22 00:12 · calificó el básquet y pidió unirse al básquet del jueves en Campus Austral
 - 2026-10-23 00:12 · calificó el básquet y pidió unirse al del sábado de Neo en Campus Austral
 - 2026-10-23 04:12 · pidió unirse al tenis del lunes de Albus en Tigre Pádel Club
+- 2026-10-23 08:12 · pidió unirse al básquet del miércoles 28/10 en Campus Austral

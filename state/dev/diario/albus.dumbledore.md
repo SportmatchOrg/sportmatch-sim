@@ -29,3 +29,4 @@
 - 2026-10-20 00:11 · canceló el fútbol que no se llenaba
 - 2026-10-21 00:11 · aceptó a Elrond en su partido
 - 2026-10-22 20:11 · calificó el partido y armó un dobles de tenis el lun 26/10 20:00 en Tigre
+- 2026-10-23 08:12 · aceptó a Boromir en su tenis del viernes; nada más

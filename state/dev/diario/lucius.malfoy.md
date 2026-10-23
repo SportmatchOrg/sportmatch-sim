@@ -6,3 +6,4 @@
 - 2026-10-20 20:12 · aceptó a Clark en su básquet de Del Viso; ya tiene el del sábado, no se anotó a más
 - 2026-10-22 00:12 · aceptó a Wall-E en su básquet de Del Viso
 - 2026-10-22 16:11 · aceptó a Fiona en su básquet de Del Viso
+- 2026-10-23 08:12 · miró la app, sin ganas de nada hoy
