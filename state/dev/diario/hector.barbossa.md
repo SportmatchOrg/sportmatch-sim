@@ -25,3 +25,4 @@
 - 2026-10-19 00:11 · canceló su fútbol ADVANCED del lunes: iban 2/9 y no se llenaba
 - 2026-10-19 04:12 · armó un dobles de tenis ADVANCED el jue 22/10 20:30 en Club Pilar
 - 2026-10-22 04:11 · aceptó a Sauron en su partido
+- 2026-10-23 00:12 · calificó a Sauron tras el partido de la noche

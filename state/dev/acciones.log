@@ -1127,3 +1127,49 @@
 2026-10-22T23:12:29.022Z phoebe.buffay unirse cmvdq7d8g013i01nzkcung1df
 2026-10-22T23:12:31.297Z fiona calificar cmvgcj4el00bl01p6pema84ly ratings=3 noShows=0
 2026-10-22T23:12:40.971Z pippin.tuk unirse cmvi0j5kb006401lh2rwxggk2
+2026-10-23T03:10:27.627Z sorteo cmvd0gyj400tt01nzf7jk3gx2 faltaron=[john.wick] calificaran=[lois.lane,george.weasley,bellatrix.lestrange,phoebe.buffay,hermione.granger]
+2026-10-23T03:10:28.277Z sorteo cmvd913az00wt01nzaxzydl4r faltaron=[alfred.pennyworth] calificaran=[sam.gamyi,rachel.green,peter.parker,bellatrix.lestrange]
+2026-10-23T03:10:37.718Z sorteo cmvex2kb001hc01nzspzn5oap faltaron=[] calificaran=[hector.barbossa]
+2026-10-23T03:10:41.853Z sorteo cmvgcijfg00b301p6pvcd6vb6 faltaron=[] calificaran=[frodo.bolson,boromir,neo]
+2026-10-23T03:10:42.505Z sorteo cmvgtoagy00hp01p6ts3w77nz faltaron=[] calificaran=[natasha.romanoff,george.weasley,phoebe.buffay,finn]
+2026-10-23T03:11:09.859Z bellatrix.lestrange leer-notificaciones 2
+2026-10-23T03:11:17.678Z bellatrix.lestrange calificar cmvd0gyj400tt01nzf7jk3gx2 ratings=3 noShows=1
+2026-10-23T03:11:19.984Z bellatrix.lestrange calificar cmvd913az00wt01nzaxzydl4r ratings=3 noShows=1
+2026-10-23T03:11:27.048Z bellatrix.lestrange unirse cmvjoj2qv00un01lh9iwwn7pw
+2026-10-23T03:11:32.760Z steve.rogers leer-notificaciones 1
+2026-10-23T03:11:34.020Z steve.rogers cancelar cmvhrwysc001n01lh0jz65guz
+2026-10-23T03:11:38.102Z hermione.granger leer-notificaciones 1
+2026-10-23T03:11:45.125Z hermione.granger calificar cmvd0gyj400tt01nzf7jk3gx2 ratings=3 noShows=1
+2026-10-23T03:11:47.420Z hermione.granger aceptar cmvdq7d8g013i01nzkcung1df phoebe.buffay
+2026-10-23T03:11:49.641Z sam.gamyi leer-notificaciones 1
+2026-10-23T03:11:55.736Z sam.gamyi calificar cmvd913az00wt01nzaxzydl4r ratings=2 noShows=1
+2026-10-23T03:11:58.109Z boromir leer-notificaciones 1
+2026-10-23T03:12:05.618Z boromir calificar cmvgcijfg00b301p6pvcd6vb6 ratings=3 noShows=0
+2026-10-23T03:12:07.656Z boromir unirse cmvex2bnd01h501nzhxdlo5g6
+2026-10-23T03:12:11.704Z lois.lane leer-notificaciones 2
+2026-10-23T03:12:17.740Z lois.lane calificar cmvd0gyj400tt01nzf7jk3gx2 ratings=3 noShows=1
+2026-10-23T03:12:24.827Z hector.barbossa calificar cmvex2kb001hc01nzspzn5oap ratings=1 noShows=0
+2026-10-23T03:12:27.122Z neo leer-notificaciones 1
+2026-10-23T03:12:34.947Z neo calificar cmvgcijfg00b301p6pvcd6vb6 ratings=3 noShows=0
+2026-10-23T03:12:37.076Z neo crear cmvke9s20005s01o9tzw24nss BASQUET 2026-10-25T13:30:00.000Z
+2026-10-23T03:12:46.738Z rachel.green calificar cmvd913az00wt01nzaxzydl4r ratings=2 noShows=1
+2026-10-23T03:12:48.970Z frodo.bolson leer-notificaciones 2
+2026-10-23T03:12:57.395Z frodo.bolson aceptar cmvi93rg3009r01lhvtcoo17j elrond
+2026-10-23T03:12:58.782Z frodo.bolson cancelar cmvi93rg3009r01lhvtcoo17j
+2026-10-23T03:13:00.896Z frodo.bolson calificar cmvgcijfg00b301p6pvcd6vb6 ratings=3 noShows=0
+2026-10-23T03:13:04.868Z george.weasley leer-notificaciones 4
+2026-10-23T03:13:12.912Z george.weasley calificar cmvd0gyj400tt01nzf7jk3gx2 ratings=2 noShows=1
+2026-10-23T03:13:15.053Z george.weasley calificar cmvgtoagy00hp01p6ts3w77nz ratings=3 noShows=0
+2026-10-23T03:13:17.413Z george.weasley unirse cmvjfyt4q00rm01lhaz74wqdy
+2026-10-23T03:13:21.720Z finn leer-notificaciones 2
+2026-10-23T03:13:28.078Z finn calificar cmvgtoagy00hp01p6ts3w77nz ratings=3 noShows=0
+2026-10-23T03:13:30.303Z finn crear cmvkeax4g007801o9rhy7zw5k RUNNING 2026-10-24T11:30:00.000Z
+2026-10-23T03:13:34.264Z natasha.romanoff leer-notificaciones 1
+2026-10-23T03:13:40.156Z natasha.romanoff calificar cmvgtoagy00hp01p6ts3w77nz ratings=3 noShows=0
+2026-10-23T03:13:42.502Z phoebe.buffay leer-notificaciones 3
+2026-10-23T03:13:50.264Z phoebe.buffay calificar cmvd0gyj400tt01nzf7jk3gx2 ratings=2 noShows=1
+2026-10-23T03:13:52.399Z phoebe.buffay calificar cmvgtoagy00hp01p6ts3w77nz ratings=3 noShows=0
+2026-10-23T03:13:54.747Z peter.parker leer-notificaciones 1
+2026-10-23T03:14:00.885Z peter.parker calificar cmvd913az00wt01nzaxzydl4r ratings=3 noShows=1
+2026-10-23T03:14:03.327Z ned.flanders leer-notificaciones 1
+2026-10-23T03:14:09.144Z ned.flanders aceptar cmvi0j5kb006401lh2rwxggk2 pippin.tuk

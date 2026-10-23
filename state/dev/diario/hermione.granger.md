@@ -45,3 +45,4 @@
 - 2026-10-20 00:11 · pidió unirse al fútbol del jueves en Club Pilar de Lois
 - 2026-10-20 12:11 · aceptó a Aragorn en su fútbol del sábado; hoy no se anotó a nada más
 - 2026-10-22 12:11 · aceptó a Arya en su fútbol del sábado
+- 2026-10-23 00:11 · calificó el fútbol y aceptó a Phoebe en su partido

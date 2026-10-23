@@ -14,3 +14,4 @@
 - 2026-10-19 20:11 · miró la app, sin más por hoy
 - 2026-10-20 16:12 · armó un fútbol ADVANCED para el dom 25/10 10:00 en Del Viso
 - 2026-10-22 16:12 · pidió unirse al fútbol ADVANCED del jueves en Club Pilar
+- 2026-10-23 00:13 · calificó el fútbol y armó un running ADVANCED para el sáb 24/10 8:30 en Parque Pilar

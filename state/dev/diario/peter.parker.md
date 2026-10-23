@@ -1,3 +1,4 @@
 - 2026-10-20 04:12 · primera vez en la app: pidió unirse al fútbol BEGINNER del jueves en River Courts
 - 2026-10-21 08:12 · leyó que Sam lo aceptó en el fútbol del jueves en River Courts; hoy solo miró
 - 2026-10-21 12:12 · pidió unirse al fútbol del sábado en River Courts
+- 2026-10-23 00:14 · calificó el fútbol y leyó que Ned lo aceptó; no hay nada nuevo en CABA
