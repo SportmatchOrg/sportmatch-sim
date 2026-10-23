@@ -12,3 +12,4 @@
 - 2026-10-21 00:15 · calificó el fútbol y pidió unirse al fútbol del miércoles de Dory en Club Pilar (tardes libres)
 - 2026-10-21 12:14 · pidió unirse al fútbol del miércoles de George Weasley en Club Pilar (tardes libres)
 - 2026-10-22 00:16 · calificó dos fútbol y pidió unirse al fútbol del viernes 23 de Lois en Del Viso (tardes libres)
+- 2026-10-23 00:16 · calificó el básquet (5, 4 y 5); solo miró lo demás

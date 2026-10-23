@@ -2932,14 +2932,14 @@
       "bellatrix.lestrange": true
     },
     "calificaran": [
-      "lois.lane",
       "pippin.tuk",
-      "clark.kent",
-      "marty.mcfly",
-      "sirius.black",
-      "george.weasley",
       "rubeus.hagrid",
-      "bellatrix.lestrange"
+      "bellatrix.lestrange",
+      "sirius.black",
+      "lois.lane",
+      "marty.mcfly",
+      "clark.kent",
+      "george.weasley"
     ],
     "calificaron": [
       "pippin.tuk",
@@ -2995,9 +2995,9 @@
       "elrond": true
     },
     "calificaran": [
-      "frodo.bolson",
       "george.weasley",
-      "elrond"
+      "elrond",
+      "frodo.bolson"
     ],
     "calificaron": [
       "george.weasley",
@@ -3287,9 +3287,17 @@
     ],
     "pendientes": [],
     "bajasSorteadas": true,
-    "asistencia": null,
-    "calificaran": [],
-    "calificaron": [],
+    "asistencia": {
+      "mace.windu": true,
+      "bruce.wayne": true,
+      "lisa.simpson": true
+    },
+    "calificaran": [
+      "mace.windu"
+    ],
+    "calificaron": [
+      "mace.windu"
+    ],
     "cancelado": false,
     "organizador": "mace.windu",
     "fecha": "2026-10-22T23:30:00.000Z",
@@ -3312,8 +3320,8 @@
       "albus.dumbledore": true
     },
     "calificaran": [
-      "elrond",
       "george.weasley",
+      "elrond",
       "albus.dumbledore"
     ],
     "calificaron": [
@@ -3568,14 +3576,16 @@
     "asistencia": null,
     "calificaran": [],
     "calificaron": [],
-    "cancelado": false,
+    "cancelado": true,
     "organizador": "steve.rogers",
     "fecha": "2026-10-24T00:00:00.000Z",
     "deporte": "FUTBOL",
     "cupo": 9,
     "creado": "2026-10-18T03:14:35.282Z",
     "pendientesHumanos": 0,
-    "anotados": 2
+    "anotados": 2,
+    "cancelSorteado": true,
+    "cancelar": true
   },
   "cmvdhozvn03mo01mh791v7pj6": {
     "jugadores": [],
@@ -3665,7 +3675,9 @@
     "jugadores": [
       "george.weasley"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "steve.rogers"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -3735,7 +3747,7 @@
     "cupo": 3,
     "creado": "2026-10-19T07:14:18.048Z",
     "pendientesHumanos": 0,
-    "anotados": 1
+    "anotados": 2
   },
   "cmvfeaqay04ev01mhide54l3s": {
     "jugadores": [
@@ -3790,9 +3802,16 @@
     ],
     "pendientes": [],
     "bajasSorteadas": true,
-    "asistencia": null,
-    "calificaran": [],
-    "calificaron": [],
+    "asistencia": {
+      "hector.barbossa": true,
+      "john.wick": true
+    },
+    "calificaran": [
+      "hector.barbossa"
+    ],
+    "calificaron": [
+      "hector.barbossa"
+    ],
     "cancelado": false,
     "organizador": "hector.barbossa",
     "fecha": "2026-10-23T00:00:00.000Z",
@@ -3825,7 +3844,7 @@
     "cupo": 7,
     "creado": "2026-10-20T11:13:51.737Z",
     "pendientesHumanos": 0,
-    "anotados": 5
+    "anotados": 6
   },
   "cmvgtr489051p01mh1hyqlwpr": {
     "jugadores": [
@@ -3856,9 +3875,24 @@
     ],
     "pendientes": [],
     "bajasSorteadas": true,
-    "asistencia": null,
-    "calificaran": [],
-    "calificaron": [],
+    "asistencia": {
+      "frodo.bolson": true,
+      "clark.kent": true,
+      "neo": true,
+      "davy.jones": true,
+      "groot": true,
+      "milhouse.van.houten": true
+    },
+    "calificaran": [
+      "clark.kent",
+      "neo",
+      "davy.jones"
+    ],
+    "calificaron": [
+      "davy.jones",
+      "neo",
+      "clark.kent"
+    ],
     "cancelado": false,
     "organizador": "frodo.bolson",
     "fecha": "2026-10-22T23:30:00.000Z",
@@ -3885,7 +3919,9 @@
     "cupo": 9,
     "creado": "2026-10-20T23:14:12.136Z",
     "pendientesHumanos": 0,
-    "anotados": 2
+    "anotados": 2,
+    "cancelSorteado": true,
+    "cancelar": false
   },
   "cmvhax69a059j01mh1ynyxm03": {
     "jugadores": [],
@@ -4019,7 +4055,9 @@
     "cupo": 9,
     "creado": "2026-10-21T10:36:17.166Z",
     "pendientesHumanos": 0,
-    "anotados": 1
+    "anotados": 1,
+    "cancelSorteado": true,
+    "cancelar": false
   },
   "cmvi96bge05qm01mhm5n0cmvc": {
     "jugadores": [],
@@ -4044,14 +4082,16 @@
     "asistencia": null,
     "calificaran": [],
     "calificaron": [],
-    "cancelado": false,
+    "cancelado": true,
     "organizador": "hector.barbossa",
     "fecha": "2026-10-24T00:00:00.000Z",
     "deporte": "TENIS",
     "cupo": 3,
     "creado": "2026-10-21T15:14:32.103Z",
     "pendientesHumanos": 0,
-    "anotados": 0
+    "anotados": 0,
+    "cancelSorteado": true,
+    "cancelar": true
   },
   "cmvi96id805qs01mhnplpfknu": {
     "jugadores": [
@@ -4083,22 +4123,6 @@
     "anotados": 1,
     "cancelSorteado": true,
     "cancelar": false
-  },
-  "cmv2xnu80000g4rry3aw248lr": {
-    "jugadores": [],
-    "pendientes": [
-      "bellatrix.lestrange"
-    ],
-    "bajasSorteadas": true,
-    "asistencia": null,
-    "calificaran": [],
-    "calificaron": [],
-    "cancelado": false,
-    "organizador": "humano:cmv2xntp700094rryq141soee",
-    "fecha": "2026-10-23T01:00:00.000Z",
-    "deporte": "FUTBOL",
-    "cupo": 14,
-    "anotados": 0
   },
   "cmviyzdud065301mhopw14inq": {
     "jugadores": [],
@@ -4171,10 +4195,12 @@
     "anotados": 1
   },
   "cmvjx6lcm06j401mhk1p6oqmg": {
-    "jugadores": [],
-    "pendientes": [
+    "jugadores": [
       "davy.jones",
       "nala"
+    ],
+    "pendientes": [
+      "nelson.muntz"
     ],
     "bajasSorteadas": false,
     "asistencia": null,
@@ -4190,11 +4216,11 @@
     "anotados": 0
   },
   "cmvk5s60k06n001mhrbz8wu7m": {
-    "jugadores": [],
-    "pendientes": [
+    "jugadores": [
       "simba",
       "neville.longbottom"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -4204,7 +4230,9 @@
     "fecha": "2026-10-27T23:30:00.000Z",
     "deporte": "FUTBOL",
     "cupo": 9,
-    "creado": "2026-10-22T23:14:58.448Z"
+    "creado": "2026-10-22T23:14:58.448Z",
+    "pendientesHumanos": 0,
+    "anotados": 0
   },
   "cmvk5tc3g06ok01mhcrj3hby0": {
     "jugadores": [],
@@ -4218,6 +4246,36 @@
     "fecha": "2026-10-26T23:30:00.000Z",
     "deporte": "FUTBOL",
     "cupo": 9,
-    "creado": "2026-10-22T23:15:52.969Z"
+    "creado": "2026-10-22T23:15:52.969Z",
+    "pendientesHumanos": 0,
+    "anotados": 0
+  },
+  "cmvkefj3506tf01mhg4mq9hrc": {
+    "jugadores": [],
+    "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "burro",
+    "fecha": "2026-10-25T14:00:00.000Z",
+    "deporte": "TENIS",
+    "cupo": 3,
+    "creado": "2026-10-23T03:17:05.466Z"
+  },
+  "cmvkefqt106tm01mhi2d3py50": {
+    "jugadores": [],
+    "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "nelson.muntz",
+    "fecha": "2026-10-24T11:00:00.000Z",
+    "deporte": "BASQUET",
+    "cupo": 5,
+    "creado": "2026-10-23T03:17:15.471Z"
   }
 }
