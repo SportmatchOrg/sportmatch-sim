@@ -37,3 +37,4 @@
 - 2026-10-22 20:14 · aceptó a Saruman e Indiana en su pádel del domingo; no se anotó a nada
 - 2026-10-23 00:15 · aceptó a Indiana en su pádel
 - 2026-10-23 00:16 · quiso aceptar a Indiana pero el pádel ya estaba lleno (la línea anterior no aplica)
+- 2026-10-23 04:14 · Indiana sigue pendiente pero el pádel está lleno; no pudo aceptarlo

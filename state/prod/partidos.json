@@ -3673,11 +3673,10 @@
   },
   "cmvdyvkt503ve01mhtosliaet": {
     "jugadores": [
-      "george.weasley"
-    ],
-    "pendientes": [
+      "george.weasley",
       "steve.rogers"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -4180,7 +4179,9 @@
     "jugadores": [
       "elrond"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "obiwan.kenobi"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -4197,10 +4198,11 @@
   "cmvjx6lcm06j401mhk1p6oqmg": {
     "jugadores": [
       "davy.jones",
-      "nala"
+      "nala",
+      "nelson.muntz"
     ],
     "pendientes": [
-      "nelson.muntz"
+      "milhouse.van.houten"
     ],
     "bajasSorteadas": false,
     "asistencia": null,
@@ -4213,14 +4215,16 @@
     "cupo": 5,
     "creado": "2026-10-22T19:14:14.965Z",
     "pendientesHumanos": 0,
-    "anotados": 0
+    "anotados": 2
   },
   "cmvk5s60k06n001mhrbz8wu7m": {
     "jugadores": [
       "simba",
       "neville.longbottom"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "saul.goodman"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -4232,7 +4236,7 @@
     "cupo": 9,
     "creado": "2026-10-22T23:14:58.448Z",
     "pendientesHumanos": 0,
-    "anotados": 0
+    "anotados": 2
   },
   "cmvk5tc3g06ok01mhcrj3hby0": {
     "jugadores": [],
@@ -4262,7 +4266,9 @@
     "fecha": "2026-10-25T14:00:00.000Z",
     "deporte": "TENIS",
     "cupo": 3,
-    "creado": "2026-10-23T03:17:05.466Z"
+    "creado": "2026-10-23T03:17:05.466Z",
+    "pendientesHumanos": 0,
+    "anotados": 0
   },
   "cmvkefqt106tm01mhi2d3py50": {
     "jugadores": [],
@@ -4276,6 +4282,22 @@
     "fecha": "2026-10-24T11:00:00.000Z",
     "deporte": "BASQUET",
     "cupo": 5,
-    "creado": "2026-10-23T03:17:15.471Z"
+    "creado": "2026-10-23T03:17:15.471Z",
+    "pendientesHumanos": 0,
+    "anotados": 0
+  },
+  "cmvkmwejf06vy01mhci2e7fnl": {
+    "jugadores": [],
+    "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "dory",
+    "fecha": "2026-10-26T23:30:00.000Z",
+    "deporte": "FUTBOL",
+    "cupo": 9,
+    "creado": "2026-10-23T07:14:09.618Z"
   }
 }

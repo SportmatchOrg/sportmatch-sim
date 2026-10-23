@@ -33,3 +33,4 @@
 - 2026-10-22 16:14 · aceptó a Nelson Muntz y armó un básquet INTERMEDIATE para el domingo en Club Belgrano (para despejarse)
 - 2026-10-22 20:14 · aceptó a Marty en su básquet del viernes; no se anotó a nada
 - 2026-10-23 00:16 · calificó el básquet y aceptó a Davy y a Nala en su partido del domingo
+- 2026-10-23 04:14 · aceptó a Nelson en su básquet del domingo
