@@ -5,3 +5,4 @@
 - 2026-10-18 08:11 · miró la app, sin novedades
 - 2026-10-21 00:12 · calificó el fútbol (4 y 5)
 - 2026-10-22 08:12 · armó un fútbol para el lunes 26 a la noche en Club Pilar
+- 2026-10-23 04:12 · aceptó a George en su fútbol del lunes en Club Pilar

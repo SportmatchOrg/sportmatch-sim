@@ -1,2 +1,3 @@
 - 2026-10-21 08:12 · pidió unirse al básquet BEGINNER del sábado en Polideportivo Del Viso (primera vez)
 - 2026-10-21 20:12 · leyó que Wall-E lo aceptó en el básquet del sábado; hoy solo miró
+- 2026-10-23 04:12 · pidió unirse al básquet del domingo de Neo en Campus Austral

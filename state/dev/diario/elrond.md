@@ -74,3 +74,4 @@
 - 2026-10-21 16:12 · miró la app, sin novedades
 - 2026-10-22 12:12 · armó un fútbol INTERMEDIATE para el sáb 24/10 20:00 en Nordelta
 - 2026-10-22 20:11 · calificó el partido (5 y 4) y se anotó al fútbol del viernes en Nordelta
+- 2026-10-23 04:12 · aceptó a Bellatrix en su fútbol del sábado en Nordelta

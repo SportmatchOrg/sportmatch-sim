@@ -5,3 +5,4 @@
 - 2026-10-17 16:11 · miró partidos de pádel, no se anotó
 - 2026-10-19 12:12 · entró a mirar partidos, no se anotó a nada
 - 2026-10-20 00:11 · miró la app, nada nuevo
+- 2026-10-23 04:12 · entró a mirar partidos y leyó notificaciones; no se anotó a nada

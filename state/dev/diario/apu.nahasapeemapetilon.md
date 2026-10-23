@@ -2,3 +2,4 @@
 - 2026-10-12 04:12 · miró pádel; nada en Pilar que le encaje, ya tiene una solicitud pendiente
 - 2026-10-13 00:11 · calificó el pádel (5 y 4); miró partidos, nada en Pilar que le encaje
 - 2026-10-16 16:11 · miró pádel, lo único intermedio queda lejos de Pilar; no se anotó
+- 2026-10-23 04:12 · pidió unirse al pádel INTERMEDIATE del sábado a la mañana en Pádel Point Pilar

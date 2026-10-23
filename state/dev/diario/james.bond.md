@@ -1,1 +1,2 @@
 - 2026-10-18 20:11 · pidió unirse al pádel del sáb 24/10 de Jack en Pádel Point Pilar (se une a todo)
+- 2026-10-23 04:12 · pidió unirse al pádel del sábado a la mañana de Indiana en Pádel Point Pilar (madruga)
