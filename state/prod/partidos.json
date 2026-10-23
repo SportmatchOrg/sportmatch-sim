@@ -3267,7 +3267,8 @@
       "theoden",
       "peter.parker",
       "burro",
-      "bellatrix.lestrange"
+      "bellatrix.lestrange",
+      "rex"
     ],
     "bajasSorteadas": false,
     "asistencia": null,
@@ -3656,10 +3657,10 @@
     "anotados": 8
   },
   "cmvdyuz6g03uq01mh75lo5a4h": {
-    "jugadores": [],
-    "pendientes": [
+    "jugadores": [
       "saruman"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -4167,7 +4168,9 @@
     "jugadores": [
       "yoda"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "tony.stark"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -4240,7 +4243,7 @@
     "cupo": 9,
     "creado": "2026-10-22T23:14:58.448Z",
     "pendientesHumanos": 0,
-    "anotados": 3
+    "anotados": 4
   },
   "cmvk5tc3g06ok01mhcrj3hby0": {
     "jugadores": [],
@@ -4276,7 +4279,9 @@
   },
   "cmvkefqt106tm01mhi2d3py50": {
     "jugadores": [],
-    "pendientes": [],
+    "pendientes": [
+      "james.bond"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -4293,9 +4298,11 @@
     "cancelar": false
   },
   "cmvkmwejf06vy01mhci2e7fnl": {
-    "jugadores": [],
-    "pendientes": [
+    "jugadores": [
       "rubeus.hagrid"
+    ],
+    "pendientes": [
+      "arya.stark"
     ],
     "bajasSorteadas": false,
     "asistencia": null,

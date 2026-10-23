@@ -12,3 +12,4 @@
 - 2026-10-20 20:15 · calificó con 5 a Elrond y pidió unirse al básquet del viernes de Neo en Campus Austral
 - 2026-10-21 20:15 · calificó el básquet y pidió unirse al tenis del domingo 25 en Club Pilar
 - 2026-10-23 08:14 · entró, leyó notificaciones y solo miró
+- 2026-10-23 16:15 · entró, leyó notificaciones y solo miró

@@ -1,3 +1,4 @@
 - 2026-10-14 16:14 · primera vez: pidió unirse al tenis del domingo en Club Pilar
 - 2026-10-15 08:14 · entró un rato a mirar tenis; nada de noche en Pilar, no se anotó
 - 2026-10-22 16:14 · entró un rato y solo miró
+- 2026-10-23 16:14 · entró, leyó notificaciones; el tenis que hay es de mañana, no se anotó (juega de noche)

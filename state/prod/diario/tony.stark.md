@@ -40,3 +40,4 @@
 - 2026-10-23 04:14 · Indiana sigue pendiente pero el pádel está lleno; no pudo aceptarlo
 - 2026-10-23 08:14 · revisó solicitudes: Indiana sigue pendiente y el pádel está lleno; no pudo hacer nada más
 - 2026-10-23 12:13 · Indiana sigue pendiente y el pádel está lleno; no insistió
+- 2026-10-23 16:14 · aceptó a Saruman en su pádel y se unió al pádel del domingo 8:00 en Pádel Point Pilar (madruga)

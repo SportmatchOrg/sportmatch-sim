@@ -5,3 +5,4 @@
 - 2026-10-20 16:13 · miró partidos; su pádel del jueves se completó y no hay otro temprano que le sirva
 - 2026-10-21 08:15 · miró partidos; nada temprano que le sirva, no se anotó
 - 2026-10-23 04:14 · entró a mirar; nada temprano que le sirva
+- 2026-10-23 16:14 · pidió unirse al básquet del sábado a las 8 en Del Viso (madruga, se une a todo)
