@@ -1,0 +1,1 @@
+- 2026-10-23 20:14 · primera vez: miró la app y leyó notificaciones, no hizo nada más

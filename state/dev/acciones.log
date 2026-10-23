@@ -1233,3 +1233,30 @@
 2026-10-23T19:12:32.464Z fiona crear cmvlck8x400l601o9b73x56r4 BASQUET 2026-10-26T23:00:00.000Z
 2026-10-23T19:12:34.778Z fiona unirse cmvkmudo800bb01o9hvgtzrg6
 2026-10-23T19:12:44.827Z saul.goodman leer-notificaciones 2
+2026-10-23T23:11:47.179Z sorteo cmve7bfql018q01nzsf1bl8ao faltaron=[] calificaran=[lois.lane,walle,pippin.tuk,phoebe.buffay,bellatrix.lestrange,george.weasley,dory]
+2026-10-23T23:12:21.558Z pippin.tuk leer-notificaciones 3
+2026-10-23T23:12:30.578Z pippin.tuk calificar cmve7bfql018q01nzsf1bl8ao ratings=3 noShows=0
+2026-10-23T23:12:33.330Z bellatrix.lestrange leer-notificaciones 4
+2026-10-23T23:12:42.599Z bellatrix.lestrange calificar cmve7bfql018q01nzsf1bl8ao ratings=3 noShows=0
+2026-10-23T23:12:44.853Z bellatrix.lestrange unirse cmvlcjsdl00kw01o9olkascub
+2026-10-23T23:12:47.201Z jack.sparrow leer-notificaciones 2
+2026-10-23T23:12:52.579Z jack.sparrow aceptar cmvfe7bze01n701nz4rv925eu faramir
+2026-10-23T23:12:59.990Z lois.lane calificar cmve7bfql018q01nzsf1bl8ao ratings=3 noShows=0
+2026-10-23T23:13:02.653Z lois.lane unirse cmvjfyt4q00rm01lhaz74wqdy
+2026-10-23T23:13:04.982Z walle leer-notificaciones 3
+2026-10-23T23:13:10.373Z walle calificar cmve7bfql018q01nzsf1bl8ao ratings=3 noShows=0
+2026-10-23T23:13:12.911Z george.weasley leer-notificaciones 2
+2026-10-23T23:13:18.768Z george.weasley calificar cmve7bfql018q01nzsf1bl8ao ratings=3 noShows=0
+2026-10-23T23:13:21.203Z george.weasley unirse cmvk5nlae00zn01lh143e037j
+2026-10-23T23:13:23.557Z dory leer-notificaciones 2
+2026-10-23T23:13:31.110Z dory calificar cmve7bfql018q01nzsf1bl8ao ratings=3 noShows=0
+2026-10-23T23:13:33.441Z dory aceptar cmvjfyt4q00rm01lhaz74wqdy diana.prince
+2026-10-23T23:13:35.857Z dory aceptar cmvjfyt4q00rm01lhaz74wqdy lois.lane
+2026-10-23T23:13:39.052Z phoebe.buffay leer-notificaciones 1
+2026-10-23T23:13:46.681Z phoebe.buffay calificar cmve7bfql018q01nzsf1bl8ao ratings=3 noShows=0
+2026-10-23T23:13:48.929Z phoebe.buffay aceptar cmvkmudo800bb01o9hvgtzrg6 fiona
+2026-10-23T23:13:51.238Z phoebe.buffay unirse cmvke9s20005s01o9tzw24nss
+2026-10-23T23:13:53.589Z ned.flanders leer-notificaciones 2
+2026-10-23T23:13:59.047Z ned.flanders aceptar cmvi0j5kb006401lh2rwxggk2 phoebe.buffay
+2026-10-23T23:14:00.718Z ned.flanders cancelar cmvi0j5kb006401lh2rwxggk2
+2026-10-23T23:14:11.991Z padme.amidala unirse cmvjfyt4q00rm01lhaz74wqdy

@@ -1,0 +1,1 @@
+- 2026-10-23 20:14 · primera vez: miró los partidos; el básquet que hay no es antes de las 9, no se anotó

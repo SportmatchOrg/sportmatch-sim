@@ -8,3 +8,4 @@
 - 2026-10-20 20:12 · aceptó a Montgomery en su running del domingo; no se anotó a nada (sin partidos de finde a la mañana que le sirvan)
 - 2026-10-21 04:11 · aceptó a Éowyn en su running del domingo
 - 2026-10-21 20:11 · aceptó a Obi-Wan en su running del domingo
+- 2026-10-23 20:12 · aceptó a Faramir en su running del domingo

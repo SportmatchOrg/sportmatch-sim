@@ -50,3 +50,4 @@
 - 2026-10-22 12:12 · miró la app, sin novedades
 - 2026-10-23 00:12 · calificó el fútbol del otro día (4, 5 y 4)
 - 2026-10-23 12:12 · aceptó a Dory en su fútbol de hoy
+- 2026-10-23 20:13 · calificó el fútbol (4, 5 y 4) y pidió unirse al fútbol del lunes de Dory en Club Pilar
