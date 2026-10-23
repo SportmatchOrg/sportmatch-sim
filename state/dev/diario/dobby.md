@@ -16,3 +16,4 @@
 - 2026-10-21 12:12 · pidió unirse al pádel del miércoles en Club Belgrano
 - 2026-10-21 20:12 · miró los pádel; el único es intermedio y en Tigre, lejos de CABA; no se anotó
 - 2026-10-22 16:12 · miró los pádel; ninguno cerca ni a su nivel, no se anotó
+- 2026-10-23 12:12 · miró los pádel; el único está en Tigre, lejos, no se anotó

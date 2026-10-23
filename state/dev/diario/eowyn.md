@@ -36,3 +36,4 @@
 - 2026-10-20 20:11 · calificó el pádel que jugó; hoy nada más
 - 2026-10-21 00:12 · pidió unirse al running del domingo en Parque Pilar
 - 2026-10-22 08:12 · leyó notificaciones y pidió unirse al pádel del sábado de Aragorn
+- 2026-10-23 12:12 · pidió unirse al running BEGINNER del sábado de Faramir en Parque Pilar (conocer gente nueva)

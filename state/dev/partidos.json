@@ -3562,11 +3562,10 @@
       "pippin.tuk",
       "phoebe.buffay",
       "bellatrix.lestrange",
-      "george.weasley"
-    ],
-    "pendientes": [
+      "george.weasley",
       "dory"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -4042,7 +4041,7 @@
     "cupo": 3,
     "creado": "2026-10-22T11:11:56.418Z",
     "pendientesHumanos": 0,
-    "anotados": 0,
+    "anotados": 2,
     "cancelSorteado": true,
     "cancelar": false
   },
@@ -4051,7 +4050,9 @@
       "george.weasley",
       "sirius.black"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "phoebe.buffay"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -4063,11 +4064,13 @@
     "cupo": 9,
     "creado": "2026-10-22T11:12:18.382Z",
     "pendientesHumanos": 0,
-    "anotados": 1
+    "anotados": 2
   },
   "cmvjfyzkr00rx01lh6evcff3c": {
     "jugadores": [],
-    "pendientes": [],
+    "pendientes": [
+      "eowyn"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -4079,16 +4082,17 @@
     "cupo": 5,
     "creado": "2026-10-22T11:12:26.741Z",
     "pendientesHumanos": 0,
-    "anotados": 0
+    "anotados": 0,
+    "cancelSorteado": true,
+    "cancelar": false
   },
   "cmvjoj2qv00un01lh9iwwn7pw": {
     "jugadores": [
       "bellatrix.lestrange",
-      "scott.lang"
-    ],
-    "pendientes": [
+      "scott.lang",
       "chewbacca"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -4100,7 +4104,7 @@
     "cupo": 9,
     "creado": "2026-10-22T15:12:00.818Z",
     "pendientesHumanos": 0,
-    "anotados": 1
+    "anotados": 2
   },
   "cmvjoj4kg00uq01lh244ajeaf": {
     "jugadores": [],
@@ -4150,7 +4154,7 @@
     "cupo": 3,
     "creado": "2026-10-22T23:11:36.419Z",
     "pendientesHumanos": 0,
-    "anotados": 0
+    "anotados": 1
   },
   "cmvke9s20005s01o9tzw24nss": {
     "jugadores": [
@@ -4168,7 +4172,7 @@
     "cupo": 7,
     "creado": "2026-10-23T03:12:37.075Z",
     "pendientesHumanos": 0,
-    "anotados": 0
+    "anotados": 1
   },
   "cmvkeax4g007801o9rhy7zw5k": {
     "jugadores": [],
@@ -4177,19 +4181,23 @@
     "asistencia": null,
     "calificaran": [],
     "calificaron": [],
-    "cancelado": false,
+    "cancelado": true,
     "organizador": "finn",
     "fecha": "2026-10-24T11:30:00.000Z",
     "deporte": "RUNNING",
     "cupo": 5,
     "creado": "2026-10-23T03:13:30.301Z",
     "pendientesHumanos": 0,
-    "anotados": 0
+    "anotados": 0,
+    "cancelSorteado": true,
+    "cancelar": true
   },
   "cmvkmudo800bb01o9hvgtzrg6": {
-    "jugadores": [],
-    "pendientes": [
+    "jugadores": [
       "boromir"
+    ],
+    "pendientes": [
+      "aragorn"
     ],
     "bajasSorteadas": false,
     "asistencia": null,
@@ -4216,6 +4224,8 @@
     "fecha": "2026-10-26T23:00:00.000Z",
     "deporte": "TENIS",
     "cupo": 3,
-    "creado": "2026-10-23T11:11:52.711Z"
+    "creado": "2026-10-23T11:11:52.711Z",
+    "pendientesHumanos": 0,
+    "anotados": 0
   }
 }

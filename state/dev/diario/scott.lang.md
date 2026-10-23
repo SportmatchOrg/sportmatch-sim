@@ -5,3 +5,4 @@
 - 2026-10-17 04:11 · miró partidos, no encontró nada a su nivel y no se anotó
 - 2026-10-21 04:12 · pidió unirse al fútbol 5 INTERMEDIATE del miércoles en Nordelta (se le canceló el de Albus)
 - 2026-10-23 04:12 · pidió unirse al fútbol INTERMEDIATE del sábado de Elrond en Nordelta
+- 2026-10-23 12:12 · miró la app, esperando respuesta de Elrond
