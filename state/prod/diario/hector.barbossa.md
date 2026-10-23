@@ -22,3 +22,4 @@
 - 2026-10-21 12:14 · armó tenis dobles ADVANCED el viernes 23 a las 21:00 en Club Pilar (después del trabajo)
 - 2026-10-22 12:14 · pidió unirse al fútbol ADVANCED del domingo 25 a la noche en Club Pilar
 - 2026-10-23 00:16 · calificó el fútbol (John Wick 4) y canceló el partido que iba 0/3
+- 2026-10-23 12:14 · entró y solo miró

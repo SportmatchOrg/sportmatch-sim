@@ -3657,7 +3657,9 @@
   },
   "cmvdyuz6g03uq01mh75lo5a4h": {
     "jugadores": [],
-    "pendientes": [],
+    "pendientes": [
+      "saruman"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -3669,7 +3671,9 @@
     "cupo": 3,
     "creado": "2026-10-18T15:14:35.167Z",
     "pendientesHumanos": 0,
-    "anotados": 0
+    "anotados": 0,
+    "cancelSorteado": true,
+    "cancelar": false
   },
   "cmvdyvkt503ve01mhtosliaet": {
     "jugadores": [
@@ -4072,7 +4076,9 @@
     "cupo": 3,
     "creado": "2026-10-21T15:14:25.163Z",
     "pendientesHumanos": 0,
-    "anotados": 0
+    "anotados": 0,
+    "cancelSorteado": true,
+    "cancelar": false
   },
   "cmvi96gt205qp01mhrc1hnnz8": {
     "jugadores": [],
@@ -4192,7 +4198,7 @@
     "cupo": 9,
     "creado": "2026-10-22T11:15:05.536Z",
     "pendientesHumanos": 0,
-    "anotados": 1
+    "anotados": 2
   },
   "cmvjx6lcm06j401mhk1p6oqmg": {
     "jugadores": [
@@ -4213,17 +4219,16 @@
     "cupo": 5,
     "creado": "2026-10-22T19:14:14.965Z",
     "pendientesHumanos": 0,
-    "anotados": 3
+    "anotados": 4
   },
   "cmvk5s60k06n001mhrbz8wu7m": {
     "jugadores": [
       "simba",
       "neville.longbottom",
-      "saul.goodman"
-    ],
-    "pendientes": [
+      "saul.goodman",
       "fred.weasley"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -4235,7 +4240,7 @@
     "cupo": 9,
     "creado": "2026-10-22T23:14:58.448Z",
     "pendientesHumanos": 0,
-    "anotados": 2
+    "anotados": 3
   },
   "cmvk5tc3g06ok01mhcrj3hby0": {
     "jugadores": [],
@@ -4289,7 +4294,9 @@
   },
   "cmvkmwejf06vy01mhci2e7fnl": {
     "jugadores": [],
-    "pendientes": [],
+    "pendientes": [
+      "rubeus.hagrid"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -4316,7 +4323,8 @@
     "organizador": "humano:demo-user-federico",
     "fecha": "2026-10-25T23:00:00.000Z",
     "deporte": "BASQUET",
-    "cupo": 6
+    "cupo": 6,
+    "anotados": 2
   },
   "cmvkvhmyn06z501mhbizkvlcp": {
     "jugadores": [],
@@ -4330,6 +4338,8 @@
     "fecha": "2026-10-27T23:30:00.000Z",
     "deporte": "FUTBOL",
     "cupo": 9,
-    "creado": "2026-10-23T11:14:37.198Z"
+    "creado": "2026-10-23T11:14:37.198Z",
+    "pendientesHumanos": 0,
+    "anotados": 0
   }
 }
