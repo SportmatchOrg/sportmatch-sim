@@ -29,3 +29,4 @@
 - 2026-10-11 00:14 · calificó el fútbol
 - 2026-10-15 00:15 · pidió unirse al fútbol del sábado a la mañana en Club Pilar (prefiere el finde)
 - 2026-10-15 12:14 · vio que Nemo le aceptó el fútbol del sábado; no hizo más
+- 2026-10-24 16:14 · entró a mirar, sin novedades

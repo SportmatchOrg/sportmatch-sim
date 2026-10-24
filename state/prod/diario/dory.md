@@ -11,3 +11,4 @@
 - 2026-10-23 20:16 · aceptó a Arya en su fútbol del lunes (le gusta conocer gente)
 - 2026-10-24 00:15 · calificó a Bellatrix, solo miró
 - 2026-10-24 04:14 · aceptó a Marty y a Lois en su fútbol del lunes
+- 2026-10-24 16:14 · aceptó a George Weasley en su fútbol

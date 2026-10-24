@@ -4265,7 +4265,9 @@
     "jugadores": [
       "hector.barbossa"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "hermione.granger"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -4380,7 +4382,7 @@
     "cupo": 9,
     "creado": "2026-10-22T23:15:52.969Z",
     "pendientesHumanos": 0,
-    "anotados": 0
+    "anotados": 1
   },
   "cmvkefj3506tf01mhg4mq9hrc": {
     "jugadores": [],
@@ -4438,11 +4440,10 @@
       "rubeus.hagrid",
       "arya.stark",
       "marty.mcfly",
-      "lois.lane"
-    ],
-    "pendientes": [
+      "lois.lane",
       "george.weasley"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -4525,7 +4526,7 @@
     "cupo": 7,
     "creado": "2026-10-24T03:15:33.367Z",
     "pendientesHumanos": 0,
-    "anotados": 2
+    "anotados": 4
   },
   "cmvlttggl008a01rym2rlglyj": {
     "jugadores": [],
@@ -4544,11 +4545,11 @@
     "anotados": 0
   },
   "cmvm2b23k00aa01ry3jx7hpdy": {
-    "jugadores": [],
-    "pendientes": [
+    "jugadores": [
       "eowyn",
       "saruman"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -4574,7 +4575,9 @@
     "fecha": "2026-10-27T22:30:00.000Z",
     "deporte": "TENIS",
     "cupo": 3,
-    "creado": "2026-10-24T15:14:45.480Z"
+    "creado": "2026-10-24T15:14:45.480Z",
+    "pendientesHumanos": 0,
+    "anotados": 0
   },
   "cmvmjjvmt00ik01ry35byhq1e": {
     "jugadores": [],
@@ -4588,6 +4591,38 @@
     "fecha": "2026-10-25T11:30:00.000Z",
     "deporte": "PADEL",
     "cupo": 3,
-    "creado": "2026-10-24T15:15:58.701Z"
+    "creado": "2026-10-24T15:15:58.701Z",
+    "pendientesHumanos": 0,
+    "anotados": 0,
+    "cancelSorteado": true,
+    "cancelar": false
+  },
+  "cmvms2fdw00lj01rymxrj5y74": {
+    "jugadores": [],
+    "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "tony.stark",
+    "fecha": "2026-10-25T11:00:00.000Z",
+    "deporte": "PADEL",
+    "cupo": 3,
+    "creado": "2026-10-24T19:14:21.056Z"
+  },
+  "cmvms310b00m401ry8cx2dj53": {
+    "jugadores": [],
+    "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "hector.barbossa",
+    "fecha": "2026-10-29T00:00:00.000Z",
+    "deporte": "FUTBOL",
+    "cupo": 9,
+    "creado": "2026-10-24T19:14:49.073Z"
   }
 }

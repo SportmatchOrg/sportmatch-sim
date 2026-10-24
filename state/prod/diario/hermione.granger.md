@@ -41,3 +41,4 @@
 - 2026-10-21 08:15 · aceptó a Harry Potter en su tenis; entre semana no organizó nada
 - 2026-10-22 00:15 · aceptó a Boromir en su tenis; entre semana no organizó nada
 - 2026-10-24 12:15 · calificó el fútbol (5, 4 y 4); después solo miró
+- 2026-10-24 16:14 · se unió al fútbol ADVANCED del domingo en Club Pilar (competitiva, juega para ganar)
