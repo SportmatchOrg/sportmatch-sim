@@ -31,3 +31,4 @@
 - 2026-10-24 00:12 · aceptó a Phoebe en su básquet del domingo; nada más
 - 2026-10-24 08:11 · aceptó a Groot en su básquet
 - 2026-10-24 12:12 · calificó el básquet (4, 5 y 5); nada más
+- 2026-10-24 20:12 · aceptó a Nala en su básquet; nada nuevo para unirse

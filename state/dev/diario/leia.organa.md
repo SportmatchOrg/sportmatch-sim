@@ -1,2 +1,3 @@
 - 2026-10-22 12:12 · primer día: miró la app, sin novedades
 - 2026-10-24 08:12 · pidió unirse al fútbol del sábado de noche en Nordelta (conoce gente)
+- 2026-10-24 20:12 · calificó el fútbol (5 y 4)

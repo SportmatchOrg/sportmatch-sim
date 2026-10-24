@@ -32,3 +32,4 @@
 - 2026-10-17 12:13 · calificó el fútbol jugado; hoy no sumó nada más
 - 2026-10-18 00:11 · pidió unirse al fútbol ADVANCED del lunes en Club Pilar (competitivo)
 - 2026-10-18 08:11 · pidió unirse al fútbol ADVANCED del domingo 10:00 en Club Pilar (a ganar)
+- 2026-10-24 20:12 · pidió unirse al fútbol advanced del martes de Steve (competitivo)

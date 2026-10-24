@@ -17,3 +17,4 @@
 - 2026-10-23 20:13 · calificó el fútbol (4, 5 y 4), aceptó a Fiona en su básquet y pidió unirse al básquet del domingo de Neo en Campus Austral
 - 2026-10-24 04:11 · aceptó a Timón en su básquet
 - 2026-10-24 16:12 · calificó el básquet (4, 5 y 4) y pidió unirse al fútbol del martes de Lois en Club Pilar (competitiva)
+- 2026-10-24 20:12 · aceptó a Luke en su básquet; el fútbol del lunes ya lo tenía anotado
