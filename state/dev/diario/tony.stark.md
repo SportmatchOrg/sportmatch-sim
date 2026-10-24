@@ -23,3 +23,4 @@
 - 2026-10-18 20:11 · aceptó a Yoda en su pádel del sábado temprano en Tigre
 - 2026-10-20 04:11 · aceptó a Ginny Weasley en su pádel del sábado temprano
 - 2026-10-22 12:12 · armó un pádel INTERMEDIATE para el dom 25/10 08:00 en Tigre (madruga)
+- 2026-10-24 04:11 · aceptó a Saruman en su pádel

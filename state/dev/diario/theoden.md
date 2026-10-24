@@ -15,3 +15,4 @@
 - 2026-10-18 20:12 · miró partidos, nada de fútbol en CABA; no se anotó
 - 2026-10-19 20:11 · pidió unirse al fútbol BEGINNER de Sam en River Courts
 - 2026-10-21 08:12 · lo aceptaron en el fútbol de Sam en River Courts; no hay otra cosa en CABA, solo miró
+- 2026-10-24 04:11 · pidió unirse al fútbol del lunes de Dory en Club Pilar

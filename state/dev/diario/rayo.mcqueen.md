@@ -11,3 +11,4 @@
 - 2026-10-20 16:12 · entró a mirar fútbol y pádel, no se anotó a nada
 - 2026-10-23 08:12 · miró partidos de fútbol y pádel, no se anotó a nada
 - 2026-10-23 16:12 · entró a mirar fútbol y pádel, no se anotó a nada
+- 2026-10-24 04:11 · miró la app, no se anotó a nada

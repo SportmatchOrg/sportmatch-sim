@@ -9,3 +9,4 @@
 - 2026-10-21 04:11 · aceptó a Éowyn en su running del domingo
 - 2026-10-21 20:11 · aceptó a Obi-Wan en su running del domingo
 - 2026-10-23 20:12 · aceptó a Faramir en su running del domingo
+- 2026-10-24 04:11 · miró la app, sin novedades

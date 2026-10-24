@@ -15,3 +15,4 @@
 - 2026-10-23 12:12 · aceptó a Boromir en su básquet y pidió unirse al fútbol del lunes en Club Pilar (competitiva)
 - 2026-10-23 16:11 · aceptó a Aragorn en su básquet y pidió unirse al fútbol del sábado de Ned en River Courts (competitiva)
 - 2026-10-23 20:13 · calificó el fútbol (4, 5 y 4), aceptó a Fiona en su básquet y pidió unirse al básquet del domingo de Neo en Campus Austral
+- 2026-10-24 04:11 · aceptó a Timón en su básquet

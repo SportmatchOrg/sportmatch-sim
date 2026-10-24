@@ -4098,7 +4098,9 @@
       "lois.lane",
       "padme.amidala"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "theoden"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -4110,13 +4112,15 @@
     "cupo": 9,
     "creado": "2026-10-22T11:12:18.382Z",
     "pendientesHumanos": 0,
-    "anotados": 5
+    "anotados": 6
   },
   "cmvjfyzkr00rx01lh6evcff3c": {
     "jugadores": [
       "eowyn"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "nala"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -4155,10 +4159,10 @@
     "cancelar": false
   },
   "cmvjoj4kg00uq01lh244ajeaf": {
-    "jugadores": [],
-    "pendientes": [
+    "jugadores": [
       "saruman"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -4188,7 +4192,7 @@
     "cupo": 9,
     "creado": "2026-10-22T23:11:24.970Z",
     "pendientesHumanos": 0,
-    "anotados": 0
+    "anotados": 1
   },
   "cmvk5nu4b00zw01lhis8bb9nc": {
     "jugadores": [
@@ -4213,7 +4217,9 @@
       "saul.goodman",
       "phoebe.buffay"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "groot"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -4225,7 +4231,7 @@
     "cupo": 7,
     "creado": "2026-10-23T03:12:37.075Z",
     "pendientesHumanos": 0,
-    "anotados": 1
+    "anotados": 2
   },
   "cmvkeax4g007801o9rhy7zw5k": {
     "jugadores": [],
@@ -4249,11 +4255,10 @@
     "jugadores": [
       "boromir",
       "aragorn",
-      "fiona"
-    ],
-    "pendientes": [
+      "fiona",
       "timon"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -4299,7 +4304,7 @@
     "cupo": 3,
     "creado": "2026-10-23T19:12:11.019Z",
     "pendientesHumanos": 0,
-    "anotados": 0
+    "anotados": 1
   },
   "cmvlck8x400l601o9b73x56r4": {
     "jugadores": [],
@@ -4329,7 +4334,9 @@
     "fecha": "2026-10-28T23:00:00.000Z",
     "deporte": "PADEL",
     "cupo": 3,
-    "creado": "2026-10-24T03:12:03.882Z"
+    "creado": "2026-10-24T03:12:03.882Z",
+    "pendientesHumanos": 0,
+    "anotados": 0
   },
   "cmvltoyv7007e01sacw2wpwz6": {
     "jugadores": [],
@@ -4343,7 +4350,9 @@
     "fecha": "2026-10-28T00:00:00.000Z",
     "deporte": "FUTBOL",
     "cupo": 9,
-    "creado": "2026-10-24T03:12:06.179Z"
+    "creado": "2026-10-24T03:12:06.179Z",
+    "pendientesHumanos": 0,
+    "anotados": 0
   },
   "cmvltpjif007u01sa50r4xwlg": {
     "jugadores": [],
@@ -4357,6 +4366,8 @@
     "fecha": "2026-10-30T00:00:00.000Z",
     "deporte": "BASQUET",
     "cupo": 5,
-    "creado": "2026-10-24T03:12:32.945Z"
+    "creado": "2026-10-24T03:12:32.945Z",
+    "pendientesHumanos": 0,
+    "anotados": 0
   }
 }

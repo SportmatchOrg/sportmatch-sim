@@ -4,3 +4,4 @@
 - 2026-10-23 00:14 · aceptó a Pippin en su fútbol del sábado; no armó nada más
 - 2026-10-23 20:14 · aceptó a Phoebe y canceló el fútbol del sábado porque no se llenó
 - 2026-10-24 00:12 · armó un básquet INTERMEDIATE el jueves 29 en Club Belgrano
+- 2026-10-24 04:11 · miró la app, sin novedades
