@@ -11,3 +11,4 @@
 - 2026-10-17 12:16 · calificó el running; ya tiene el del domingo, no se anotó a más
 - 2026-10-18 08:14 · entró a mirar; ya tiene su running del domingo, no se anotó a más
 - 2026-10-20 04:15 · entró a mirar; el único running es en Costanera, lejos de Pilar, no se anotó
+- 2026-10-24 04:14 · entró y solo miró

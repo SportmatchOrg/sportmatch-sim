@@ -1,1 +1,2 @@
 - 2026-10-18 20:14 · primera vez en la app: entró y solo miró
+- 2026-10-24 04:14 · se anotó al básquet del martes 27 en Campus Austral (entusiasmado)

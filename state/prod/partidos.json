@@ -3679,11 +3679,10 @@
   "cmvdyvkt503ve01mhtosliaet": {
     "jugadores": [
       "george.weasley",
-      "steve.rogers"
-    ],
-    "pendientes": [
+      "steve.rogers",
       "phoebe.buffay"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -3854,7 +3853,8 @@
     ],
     "calificaron": [
       "neo",
-      "nelson.muntz"
+      "nelson.muntz",
+      "groot"
     ],
     "cancelado": false,
     "organizador": "neo",
@@ -4193,7 +4193,9 @@
   },
   "cmviyzdud065301mhopw14inq": {
     "jugadores": [],
-    "pendientes": [],
+    "pendientes": [
+      "barney.gumble"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -4293,11 +4295,10 @@
       "simba",
       "neville.longbottom",
       "saul.goodman",
-      "fred.weasley"
-    ],
-    "pendientes": [
+      "fred.weasley",
       "george.weasley"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -4345,11 +4346,10 @@
   },
   "cmvkefqt106tm01mhi2d3py50": {
     "jugadores": [
-      "james.bond"
-    ],
-    "pendientes": [
+      "james.bond",
       "groot"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -4368,11 +4368,11 @@
   "cmvkmwejf06vy01mhci2e7fnl": {
     "jugadores": [
       "rubeus.hagrid",
-      "arya.stark"
+      "arya.stark",
+      "marty.mcfly",
+      "lois.lane"
     ],
-    "pendientes": [
-      "marty.mcfly"
-    ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -4403,10 +4403,10 @@
     "anotados": 2
   },
   "cmvkvhmyn06z501mhbizkvlcp": {
-    "jugadores": [],
-    "pendientes": [
+    "jugadores": [
       "obiwan.kenobi"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -4438,7 +4438,10 @@
   },
   "cmvltteqs008701ryc08kb1km": {
     "jugadores": [],
-    "pendientes": [],
+    "pendientes": [
+      "nelson.muntz",
+      "timon"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -4448,7 +4451,9 @@
     "fecha": "2026-10-27T23:00:00.000Z",
     "deporte": "BASQUET",
     "cupo": 7,
-    "creado": "2026-10-24T03:15:33.367Z"
+    "creado": "2026-10-24T03:15:33.367Z",
+    "pendientesHumanos": 0,
+    "anotados": 0
   },
   "cmvlttggl008a01rym2rlglyj": {
     "jugadores": [],
@@ -4462,6 +4467,22 @@
     "fecha": "2026-10-28T23:30:00.000Z",
     "deporte": "TENIS",
     "cupo": 3,
-    "creado": "2026-10-24T03:15:35.584Z"
+    "creado": "2026-10-24T03:15:35.584Z",
+    "pendientesHumanos": 0,
+    "anotados": 0
+  },
+  "cmvm2b23k00aa01ry3jx7hpdy": {
+    "jugadores": [],
+    "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "mace.windu",
+    "fecha": "2026-10-29T23:00:00.000Z",
+    "deporte": "PADEL",
+    "cupo": 3,
+    "creado": "2026-10-24T07:13:13.718Z"
   }
 }

@@ -43,3 +43,4 @@
 - 2026-10-23 16:14 · aceptó a Saruman en su pádel y se unió al pádel del domingo 8:00 en Pádel Point Pilar (madruga)
 - 2026-10-23 20:16 · aceptó a Indiana pero el pádel ya estaba lleno; nada más
 - 2026-10-24 00:15 · quiso aceptar una solicitud pero el partido ya estaba lleno
+- 2026-10-24 04:13 · leyó notificaciones; Indiana ya quedó adentro y no había nada más para revisar
