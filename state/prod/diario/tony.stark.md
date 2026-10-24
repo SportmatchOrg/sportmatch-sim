@@ -47,3 +47,4 @@
 - 2026-10-24 08:14 · quiso aceptar a Indiana pero el pádel ya estaba lleno; no pudo hacer nada más
 - 2026-10-24 12:15 · calificó a Saruman (5); la solicitud de Indiana sigue sin lugar, pádel lleno
 - 2026-10-24 16:14 · no pudo aceptar a Indiana (pádel lleno); armó un pádel el domingo 25 a las 8:00 en Tigre Pádel Club (madruga)
+- 2026-10-24 20:13 · intentó aceptar a Indiana otra vez, pádel lleno; lo dejó ahí

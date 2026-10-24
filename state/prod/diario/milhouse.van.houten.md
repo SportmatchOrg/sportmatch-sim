@@ -15,3 +15,4 @@
 - 2026-10-21 20:14 · calificó el básquet generoso y pidió unirse al básquet intermedio del jueves 22 en Campus Austral
 - 2026-10-23 04:14 · pidió unirse al básquet intermedio del domingo de Neo en Club Belgrano
 - 2026-10-23 16:15 · leyó que Neo lo aceptó en el básquet; solo miró
+- 2026-10-24 20:13 · pidió unirse al básquet intermedio del martes 27 de Neo en Campus Austral

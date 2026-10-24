@@ -1,0 +1,1 @@
+- 2026-10-24 20:13 · entró a mirar básquet y running; solo miró

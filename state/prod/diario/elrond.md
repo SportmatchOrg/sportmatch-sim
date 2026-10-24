@@ -87,3 +87,4 @@
 - 2026-10-24 08:14 · entró a mirar y leyó notificaciones, sin novedades
 - 2026-10-24 12:14 · armó dobles de tenis del martes 27 en Campus Austral (para despejarse)
 - 2026-10-24 16:13 · no había a quién calificar; solo miró
+- 2026-10-24 20:13 · revisó el partido pendiente: no había a quién calificar; solo miró

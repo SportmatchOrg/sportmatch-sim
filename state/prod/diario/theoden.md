@@ -18,3 +18,4 @@
 - 2026-10-20 00:13 · calificó el fútbol; no encontró otro que le sirva
 - 2026-10-20 12:15 · entró a mirar, nada nuevo
 - 2026-10-22 16:14 · pidió unirse al fútbol BEGINNER del sábado (puntual, se organiza con tiempo)
+- 2026-10-24 20:13 · pidió unirse al fútbol del lunes 26 en River Courts (puntual, de noche)

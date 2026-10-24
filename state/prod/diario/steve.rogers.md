@@ -100,3 +100,4 @@
 - 2026-10-22 16:14 · aceptó a Héctor Barbossa en su fútbol ADVANCED del domingo
 - 2026-10-23 00:15 · canceló el fútbol del Del Viso que no se llenaba y se anotó al ADVANCED del domingo en Club Pilar
 - 2026-10-23 08:14 · entró, leyó notificaciones y solo miró
+- 2026-10-24 20:13 · aceptó a Hermione y canceló su fútbol porque no se llenó
