@@ -85,3 +85,4 @@
 - 2026-10-23 04:14 · leyó que Albus lo aceptó en su fútbol 5; solo miró
 - 2026-10-24 00:15 · calificó el partido jugado (5 y 4)
 - 2026-10-24 08:14 · entró a mirar y leyó notificaciones, sin novedades
+- 2026-10-24 12:14 · armó dobles de tenis del martes 27 en Campus Austral (para despejarse)

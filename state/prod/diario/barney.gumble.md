@@ -23,3 +23,4 @@
 - 2026-10-22 00:16 · aceptó a George en su fútbol ADVANCED del domingo
 - 2026-10-23 04:14 · aceptó a Steve en su partido
 - 2026-10-24 04:14 · aceptó a Phoebe en su fútbol ADVANCED y pidió unirse al fútbol ADVANCED del lunes 26 en Club Pilar
+- 2026-10-24 12:15 · calificó dos partidos y armó pádel ADVANCED del domingo 25 a las 8:30 en Pádel Point Pilar
