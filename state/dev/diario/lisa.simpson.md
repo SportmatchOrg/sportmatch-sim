@@ -3,3 +3,4 @@
 - 2026-10-19 04:11 · entró, no había notificaciones nuevas; hoy solo miró
 - 2026-10-20 12:12 · pidió lugar en el tenis del sábado a la mañana en River Courts
 - 2026-10-24 00:12 · miró la app, sin novedades
+- 2026-10-24 12:13 · calificó el partido (4); nada más

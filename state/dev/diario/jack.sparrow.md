@@ -10,3 +10,4 @@
 - 2026-10-21 20:11 · aceptó a Obi-Wan en su running del domingo
 - 2026-10-23 20:12 · aceptó a Faramir en su running del domingo
 - 2026-10-24 04:11 · miró la app, sin novedades
+- 2026-10-24 12:12 · calificó el pádel (5) y armó un pádel para el dom 25/10 08:30 en Pádel Point Pilar

@@ -1311,3 +1311,34 @@
 2026-10-24T11:12:01.571Z ginny.weasley leer-notificaciones 3
 2026-10-24T11:12:08.473Z ginny.weasley unirse cmvjoj4kg00uq01lh244ajeaf
 2026-10-24T11:12:14.578Z leia.organa unirse cmvjoj2qv00un01lh9iwwn7pw
+2026-10-24T15:10:32.647Z sorteo cmvdq7d8g013i01nzkcung1df faltaron=[] calificaran=[harry.potter,lois.lane,george.weasley,walle]
+2026-10-24T15:10:33.315Z sorteo cmvdq7jc3013t01nzdqdxo7ql faltaron=[] calificaran=[walle,lucius.malfoy,saul.goodman]
+2026-10-24T15:10:33.978Z sorteo cmvdyrtgy016y01nz06u1nfbz faltaron=[] calificaran=[jack.sparrow]
+2026-10-24T15:10:34.657Z sorteo cmvex2bnd01h501nzhxdlo5g6 faltaron=[frodo.bolson] calificaran=[neo,nala,marge.simpson,phoebe.buffay,luke.skywalker,boromir]
+2026-10-24T15:10:37.780Z sorteo cmvfvcm97005l01p6ty3wik38 faltaron=[] calificaran=[burro,lisa.simpson]
+2026-10-24T15:10:39.517Z sorteo cmvj7evvm00oy01lh98zb8q5y faltaron=[] calificaran=[aragorn,anakin.skywalker,eowyn]
+2026-10-24T15:10:41.288Z sorteo cmvjfyzkr00rx01lh6evcff3c faltaron=[] calificaran=[faramir,nala]
+2026-10-24T15:11:07.583Z eowyn leer-notificaciones 2
+2026-10-24T15:11:11.060Z elrond leer-notificaciones 1
+2026-10-24T15:11:22.533Z eowyn calificar cmvj7evvm00oy01lh98zb8q5y ratings=2 noShows=0
+2026-10-24T15:11:26.078Z faramir calificar cmvjfyzkr00rx01lh6evcff3c ratings=1 noShows=0
+2026-10-24T15:11:33.938Z elrond aceptar cmvjoj2qv00un01lh9iwwn7pw leia.organa
+2026-10-24T15:11:41.095Z boromir leer-notificaciones 2
+2026-10-24T15:11:44.492Z tony.stark leer-notificaciones 1
+2026-10-24T15:11:49.192Z jack.sparrow leer-notificaciones 2
+2026-10-24T15:11:59.906Z boromir calificar cmvex2bnd01h501nzhxdlo5g6 ratings=2 noShows=1
+2026-10-24T15:12:02.515Z tony.stark aceptar cmvjoj4kg00uq01lh244ajeaf ginny.weasley
+2026-10-24T15:12:05.015Z jack.sparrow calificar cmvdyrtgy016y01nz06u1nfbz ratings=1 noShows=0
+2026-10-24T15:12:07.284Z jack.sparrow crear cmvmjex0c00gk01saoink01on PADEL 2026-10-25T11:30:00.000Z
+2026-10-24T15:12:11.768Z harry.potter leer-notificaciones 2
+2026-10-24T15:12:14.511Z lois.lane leer-notificaciones 1
+2026-10-24T15:12:16.984Z neo leer-notificaciones 1
+2026-10-24T15:12:34.298Z harry.potter calificar cmvdq7d8g013i01nzkcung1df ratings=3 noShows=0
+2026-10-24T15:12:36.550Z lois.lane calificar cmvdq7d8g013i01nzkcung1df ratings=3 noShows=0
+2026-10-24T15:12:38.736Z lois.lane crear cmvmjflbm00h601saa7ul5l20 FUTBOL 2026-10-27T23:00:00.000Z
+2026-10-24T15:12:45.689Z neo calificar cmvex2bnd01h501nzhxdlo5g6 ratings=3 noShows=1
+2026-10-24T15:12:54.052Z lucius.malfoy leer-notificaciones 1
+2026-10-24T15:13:13.604Z walle calificar cmvdq7d8g013i01nzkcung1df ratings=3 noShows=0
+2026-10-24T15:13:15.850Z walle calificar cmvdq7jc3013t01nzdqdxo7ql ratings=3 noShows=0
+2026-10-24T15:13:18.174Z lisa.simpson calificar cmvfvcm97005l01p6ty3wik38 ratings=1 noShows=0
+2026-10-24T15:13:20.490Z lucius.malfoy calificar cmvdq7jc3013t01nzdqdxo7ql ratings=3 noShows=0

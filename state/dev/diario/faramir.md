@@ -34,3 +34,4 @@
 - 2026-10-23 16:11 · aceptó a Éowyn y se anotó al running del domingo 9 am en Parque Pilar
 - 2026-10-24 04:11 · miró la app, sin novedades
 - 2026-10-24 08:11 · aceptó a Nala en su partido
+- 2026-10-24 12:11 · calificó el running (5 a Nala)

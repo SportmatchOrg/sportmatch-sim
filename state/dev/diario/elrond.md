@@ -78,3 +78,5 @@
 - 2026-10-23 08:12 · aceptó a Scott y armó un dobles de tenis el lun 26/10 20:00 en River Courts (para despejarse)
 - 2026-10-23 12:12 · aceptó a Chewbacca en su partido; nada más
 - 2026-10-24 00:11 · calificó el fútbol (5)
+- 2026-10-24 12:11 · aceptó a Leia Organa en su partido
+- 2026-10-24 12:11 · aceptó a Leia Organa en su partido (corrige la línea anterior, que no se aplicó hasta ahora)
