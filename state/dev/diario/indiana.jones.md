@@ -6,3 +6,4 @@
 - 2026-10-22 08:12 · calificó el último partido y armó un pádel para el sábado 8 am en Pádel Point
 - 2026-10-23 08:12 · aceptó a James y a Apu en su pádel del sábado temprano
 - 2026-10-23 16:12 · entró y miró, ya tiene su pádel del sábado armado
+- 2026-10-24 08:11 · calificó el pádel (5 y 4) y armó otro pádel INTERMEDIATE el martes 27 a las 8 en Pádel Point Pilar

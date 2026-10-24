@@ -3437,9 +3437,17 @@
     ],
     "pendientes": [],
     "bajasSorteadas": false,
-    "asistencia": null,
-    "calificaran": [],
-    "calificaron": [],
+    "asistencia": {
+      "tony.stark": true,
+      "yoda": true,
+      "ginny.weasley": true
+    },
+    "calificaran": [
+      "tony.stark"
+    ],
+    "calificaron": [
+      "tony.stark"
+    ],
     "cancelado": false,
     "organizador": "tony.stark",
     "fecha": "2026-10-24T11:00:00.000Z",
@@ -3502,7 +3510,7 @@
       "phoebe.buffay"
     ],
     "pendientes": [],
-    "bajasSorteadas": false,
+    "bajasSorteadas": true,
     "asistencia": null,
     "calificaran": [],
     "calificaron": [],
@@ -3538,11 +3546,10 @@
   },
   "cmvdyrtgy016y01nz06u1nfbz": {
     "jugadores": [
-      "james.bond",
-      "yoda"
+      "james.bond"
     ],
     "pendientes": [],
-    "bajasSorteadas": false,
+    "bajasSorteadas": true,
     "asistencia": null,
     "calificaran": [],
     "calificaron": [],
@@ -3778,8 +3785,8 @@
       "anakin.skywalker": true
     },
     "calificaran": [
-      "indiana.jones",
-      "anakin.skywalker"
+      "anakin.skywalker",
+      "indiana.jones"
     ],
     "calificaron": [
       "anakin.skywalker",
@@ -3799,7 +3806,7 @@
       "lisa.simpson"
     ],
     "pendientes": [],
-    "bajasSorteadas": false,
+    "bajasSorteadas": true,
     "asistencia": null,
     "calificaran": [],
     "calificaron": [],
@@ -4055,7 +4062,7 @@
       "eowyn"
     ],
     "pendientes": [],
-    "bajasSorteadas": false,
+    "bajasSorteadas": true,
     "asistencia": null,
     "calificaran": [],
     "calificaron": [],
@@ -4075,9 +4082,21 @@
     ],
     "pendientes": [],
     "bajasSorteadas": false,
-    "asistencia": null,
-    "calificaran": [],
-    "calificaron": [],
+    "asistencia": {
+      "indiana.jones": true,
+      "james.bond": true,
+      "apu.nahasapeemapetilon": true
+    },
+    "calificaran": [
+      "indiana.jones",
+      "james.bond",
+      "apu.nahasapeemapetilon"
+    ],
+    "calificaron": [
+      "apu.nahasapeemapetilon",
+      "james.bond",
+      "indiana.jones"
+    ],
     "cancelado": false,
     "organizador": "indiana.jones",
     "fecha": "2026-10-24T11:00:00.000Z",
@@ -4096,11 +4115,10 @@
       "phoebe.buffay",
       "diana.prince",
       "lois.lane",
-      "padme.amidala"
-    ],
-    "pendientes": [
+      "padme.amidala",
       "theoden"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -4116,12 +4134,10 @@
   },
   "cmvjfyzkr00rx01lh6evcff3c": {
     "jugadores": [
-      "eowyn"
-    ],
-    "pendientes": [
       "nala"
     ],
-    "bajasSorteadas": false,
+    "pendientes": [],
+    "bajasSorteadas": true,
     "asistencia": null,
     "calificaran": [],
     "calificaron": [],
@@ -4142,7 +4158,9 @@
       "scott.lang",
       "chewbacca"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "leia.organa"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -4162,7 +4180,9 @@
     "jugadores": [
       "saruman"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "ginny.weasley"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -4174,7 +4194,7 @@
     "cupo": 3,
     "creado": "2026-10-22T15:12:03.197Z",
     "pendientesHumanos": 0,
-    "anotados": 0
+    "anotados": 1
   },
   "cmvk5nlae00zn01lh143e037j": {
     "jugadores": [
@@ -4215,11 +4235,10 @@
   "cmvke9s20005s01o9tzw24nss": {
     "jugadores": [
       "saul.goodman",
-      "phoebe.buffay"
-    ],
-    "pendientes": [
+      "phoebe.buffay",
       "groot"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -4270,7 +4289,7 @@
     "cupo": 7,
     "creado": "2026-10-23T07:12:35.179Z",
     "pendientesHumanos": 0,
-    "anotados": 3
+    "anotados": 4
   },
   "cmvkve41k00dj01o9lysl6295": {
     "jugadores": [],
@@ -4308,7 +4327,9 @@
   },
   "cmvlck8x400l601o9b73x56r4": {
     "jugadores": [],
-    "pendientes": [],
+    "pendientes": [
+      "james.bond"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -4369,5 +4390,19 @@
     "creado": "2026-10-24T03:12:32.945Z",
     "pendientesHumanos": 0,
     "anotados": 0
+  },
+  "cmvmau2bm00dg01sal575wtsu": {
+    "jugadores": [],
+    "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "indiana.jones",
+    "fecha": "2026-10-27T11:00:00.000Z",
+    "deporte": "PADEL",
+    "cupo": 3,
+    "creado": "2026-10-24T11:11:57.391Z"
   }
 }

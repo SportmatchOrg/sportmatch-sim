@@ -29,3 +29,4 @@
 - 2026-10-23 04:12 · aceptó a Boromir en su básquet del domingo en Campus Austral
 - 2026-10-23 08:12 · aceptó a Saul en su básquet del domingo; nada más por hoy
 - 2026-10-24 00:12 · aceptó a Phoebe en su básquet del domingo; nada más
+- 2026-10-24 08:11 · aceptó a Groot en su básquet

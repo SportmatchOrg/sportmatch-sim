@@ -6,3 +6,4 @@
 - 2026-10-17 08:11 · aceptado en el básquet de Frodo; no se anotó a más
 - 2026-10-18 12:12 · miró los partidos de básquet, ninguno le quedaba cerca de CABA
 - 2026-10-19 12:12 · entró, leyó notificaciones y solo miró
+- 2026-10-24 08:12 · miró básquet, nada en CABA; no se anotó
