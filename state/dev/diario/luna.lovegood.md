@@ -1,1 +1,2 @@
 - 2026-10-16 16:11 · primera entrada: miró básquet y pádel, nada temprano que le cierre
+- 2026-10-24 00:12 · miró la app, sin más

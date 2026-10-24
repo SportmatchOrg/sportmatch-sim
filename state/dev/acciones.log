@@ -1260,3 +1260,24 @@
 2026-10-23T23:13:59.047Z ned.flanders aceptar cmvi0j5kb006401lh2rwxggk2 phoebe.buffay
 2026-10-23T23:14:00.718Z ned.flanders cancelar cmvi0j5kb006401lh2rwxggk2
 2026-10-23T23:14:11.991Z padme.amidala unirse cmvjfyt4q00rm01lhaz74wqdy
+2026-10-24T03:10:37.715Z sorteo cmvex1uzg01gr01nzvjd4e9xi faltaron=[] calificaran=[elrond]
+2026-10-24T03:10:44.165Z sorteo cmvhasmfd00ne01p6iy5klfzs faltaron=[ginny.weasley] calificaran=[mace.windu]
+2026-10-24T03:11:15.186Z elrond leer-notificaciones 1
+2026-10-24T03:11:18.571Z mace.windu leer-notificaciones 1
+2026-10-24T03:11:23.607Z elrond calificar cmvex1uzg01gr01nzvjd4e9xi ratings=1 noShows=0
+2026-10-24T03:11:25.940Z mace.windu calificar cmvhasmfd00ne01p6iy5klfzs ratings=1 noShows=1
+2026-10-24T03:11:33.533Z steve.rogers leer-notificaciones 1
+2026-10-24T03:11:36.925Z sam.gamyi leer-notificaciones 1
+2026-10-24T03:11:40.280Z neo leer-notificaciones 2
+2026-10-24T03:11:43.686Z dory leer-notificaciones 1
+2026-10-24T03:11:50.659Z steve.rogers aceptar cmvk5nlae00zn01lh143e037j george.weasley
+2026-10-24T03:11:52.873Z sam.gamyi aceptar cmvlcjsdl00kw01o9olkascub bellatrix.lestrange
+2026-10-24T03:11:55.525Z neo aceptar cmvke9s20005s01o9tzw24nss phoebe.buffay
+2026-10-24T03:11:57.736Z dory aceptar cmvjfyt4q00rm01lhaz74wqdy padme.amidala
+2026-10-24T03:12:03.932Z sam.gamyi crear cmvltox1v007b01saevgxyp5z PADEL 2026-10-28T23:00:00.000Z
+2026-10-24T03:12:06.181Z dory crear cmvltoyv7007e01sacw2wpwz6 FUTBOL 2026-10-28T00:00:00.000Z
+2026-10-24T03:12:28.002Z saruman unirse cmvjoj4kg00uq01lh244ajeaf
+2026-10-24T03:12:30.576Z timon unirse cmvkmudo800bb01o9hvgtzrg6
+2026-10-24T03:12:32.947Z ned.flanders crear cmvltpjif007u01sa50r4xwlg BASQUET 2026-10-30T00:00:00.000Z
+2026-10-24T03:12:39.321Z lisa.simpson leer-notificaciones 2
+2026-10-24T03:12:41.765Z peter.parker leer-notificaciones 2
