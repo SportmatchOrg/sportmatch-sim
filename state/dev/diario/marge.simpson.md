@@ -1,2 +1,3 @@
 - 2026-10-17 16:11 · miró la app
 - 2026-10-19 12:12 · pidió unirse al básquet de Neo del sábado (conocer gente nueva)
+- 2026-10-24 16:11 · calificó el básquet (5, 4 y 4); sin ganas de más por hoy

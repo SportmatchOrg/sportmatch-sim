@@ -1,3 +1,4 @@
 - 2026-10-22 12:12 · pidió unirse al básquet del jueves en Del Viso (primera vez en la app)
 - 2026-10-22 20:12 · calificó el básquet (5, 5 y 4)
 - 2026-10-23 16:12 · armó un básquet BEGINNER el lunes 26 a las 20 en Del Viso y pidió unirse al básquet del miércoles de Phoebe
+- 2026-10-24 16:12 · aceptó a James Bond en su básquet del lunes en Del Viso

@@ -6,3 +6,4 @@
 - 2026-10-21 00:12 · pidió unirse al básquet BEGINNER del sábado en Del Viso (principiante entusiasta)
 - 2026-10-23 08:12 · miró partidos, nada que le cierre por ahora
 - 2026-10-24 04:11 · pidió unirse a un running BEGINNER de Faramir en Parque Pilar (se equivocó de deporte, no es de los suyos)
+- 2026-10-24 16:11 · calificó dos partidos (generosa) y pidió unirse al básquet del domingo de Neo en Campus Austral

@@ -16,3 +16,4 @@
 - 2026-10-15 16:12 · miró la app, sin novedades
 - 2026-10-16 12:11 · entró, sigue suspendido hasta el 18/10; no pudo anotarse a nada
 - 2026-10-16 20:12 · miró la app, sin novedades
+- 2026-10-24 16:12 · miró running y tenis; nada antes de las 9, no se anotó a nada
