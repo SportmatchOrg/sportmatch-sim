@@ -7,3 +7,4 @@
 - 2026-10-21 07:36 · se anotó al básquet del jueves en Campus Austral; sigue sin calificar el anterior
 - 2026-10-21 08:15 · calificó el básquet y se anotó al básquet del viernes en Campus Austral
 - 2026-10-21 12:14 · entró a mirar; ya estaba anotado en el básquet de Neo
+- 2026-10-24 00:15 · pidió unirse al básquet de Del Viso (no calificó)

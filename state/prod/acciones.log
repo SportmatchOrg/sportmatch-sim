@@ -1185,3 +1185,26 @@
 2026-10-23T23:16:17.772Z nelson.muntz aceptar cmvkefqt106tm01mhi2d3py50 james.bond
 2026-10-23T23:16:23.361Z indiana.jones crear cmvll9u5b003c01ryc74ummdj TENIS 2026-10-27T10:30:00.000Z
 2026-10-23T23:16:33.963Z davy.jones leer-notificaciones 1
+2026-10-24T03:13:21.950Z sorteo cmvgl53w004xv01mhabuw1j47 faltaron=[frodo.bolson] calificaran=[neo,groot,nelson.muntz]
+2026-10-24T03:13:22.609Z sorteo cmvhavgyn057f01mhyw4lea6j faltaron=[] calificaran=[elrond,marty.mcfly,obiwan.kenobi]
+2026-10-24T03:13:23.335Z sorteo cmvhjh4uu05ej01mh2l1emva6 faltaron=[] calificaran=[lois.lane,george.weasley,clark.kent,phoebe.buffay]
+2026-10-24T03:13:23.996Z sorteo cmvhz8mwh05j101mh5bmxc9lb faltaron=[] calificaran=[dory,bellatrix.lestrange]
+2026-10-24T03:14:09.020Z elrond calificar cmvhavgyn057f01mhyw4lea6j ratings=2 noShows=0
+2026-10-24T03:14:11.258Z bellatrix.lestrange calificar cmvhz8mwh05j101mh5bmxc9lb ratings=1 noShows=0
+2026-10-24T03:14:13.517Z lois.lane calificar cmvhjh4uu05ej01mh2l1emva6 ratings=3 noShows=0
+2026-10-24T03:14:15.792Z neo calificar cmvgl53w004xv01mhabuw1j47 ratings=2 noShows=1
+2026-10-24T03:14:33.618Z obiwan.kenobi calificar cmvhavgyn057f01mhyw4lea6j ratings=2 noShows=0
+2026-10-24T03:14:35.787Z marty.mcfly calificar cmvhavgyn057f01mhyw4lea6j ratings=2 noShows=0
+2026-10-24T03:14:38.232Z george.weasley calificar cmvhjh4uu05ej01mh2l1emva6 ratings=3 noShows=0
+2026-10-24T03:14:40.674Z phoebe.buffay calificar cmvhjh4uu05ej01mh2l1emva6 ratings=3 noShows=0
+2026-10-24T03:14:44.074Z dory calificar cmvhz8mwh05j101mh5bmxc9lb ratings=1 noShows=0
+2026-10-24T03:14:49.041Z clark.kent calificar cmvhjh4uu05ej01mh2l1emva6 ratings=3 noShows=0
+2026-10-24T03:14:51.330Z nelson.muntz calificar cmvgl53w004xv01mhabuw1j47 ratings=3 noShows=1
+2026-10-24T03:15:00.715Z albus.dumbledore cancelar cmvjg2e5l06cn01mhalzzk9te
+2026-10-24T03:15:15.913Z obiwan.kenobi unirse cmvkvhmyn06z501mhbizkvlcp
+2026-10-24T03:15:19.312Z marty.mcfly unirse cmvkmwejf06vy01mhci2e7fnl
+2026-10-24T03:15:21.511Z george.weasley unirse cmvk5s60k06n001mhrbz8wu7m
+2026-10-24T03:15:24.941Z groot unirse cmvkefqt106tm01mhi2d3py50
+2026-10-24T03:15:27.157Z phoebe.buffay unirse cmvdyvkt503ve01mhtosliaet
+2026-10-24T03:15:33.369Z neo crear cmvltteqs008701ryc08kb1km BASQUET 2026-10-27T23:00:00.000Z
+2026-10-24T03:15:35.586Z albus.dumbledore crear cmvlttggl008a01rym2rlglyj TENIS 2026-10-28T23:30:00.000Z

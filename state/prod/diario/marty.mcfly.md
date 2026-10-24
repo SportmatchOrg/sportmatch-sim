@@ -8,3 +8,4 @@
 - 2026-10-22 08:14 · aceptó a Nelson en su básquet y pidió unirse al fútbol del viernes en Del Viso (se une a todo)
 - 2026-10-22 16:14 · pidió unirse al básquet del viernes en Campus Austral (para despejarse)
 - 2026-10-22 20:14 · calificó el básquet; solo miró
+- 2026-10-24 00:15 · calificó y pidió unirse al fútbol del lunes en Club Pilar
