@@ -6,3 +6,4 @@
 - 2026-10-21 08:15 · miró partidos; nada temprano que le sirva, no se anotó
 - 2026-10-23 04:14 · entró a mirar; nada temprano que le sirva
 - 2026-10-23 16:14 · pidió unirse al básquet del sábado a las 8 en Del Viso (madruga, se une a todo)
+- 2026-10-24 08:14 · calificó el básquet (4 y 5); nada más

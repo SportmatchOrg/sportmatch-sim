@@ -7,3 +7,4 @@
 - 2026-10-23 20:16 · aceptó a James Bond en su básquet del sábado; ya estaba anotado a los demás
 - 2026-10-24 00:15 · calificó el básquet (hubo un no-show)
 - 2026-10-24 04:14 · aceptó a Groot en su básquet del sábado y se anotó al básquet del martes 27 en Campus Austral (se anota a todo)
+- 2026-10-24 08:14 · calificó el básquet (5 y 4); no había básquets nuevos para anotarse

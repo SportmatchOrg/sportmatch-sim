@@ -1,1 +1,2 @@
 - 2026-10-17 04:14 · primera vez en la app: pidió unirse al básquet del martes en Club Palermo (quiere conocer gente)
+- 2026-10-24 08:14 · pidió unirse al fútbol del lunes de Peter Parker en River Courts (conocer gente)

@@ -44,3 +44,4 @@
 - 2026-10-23 20:16 · aceptó a Indiana pero el pádel ya estaba lleno; nada más
 - 2026-10-24 00:15 · quiso aceptar una solicitud pero el partido ya estaba lleno
 - 2026-10-24 04:13 · leyó notificaciones; Indiana ya quedó adentro y no había nada más para revisar
+- 2026-10-24 08:14 · quiso aceptar a Indiana pero el pádel ya estaba lleno; no pudo hacer nada más

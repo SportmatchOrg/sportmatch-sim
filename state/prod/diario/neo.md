@@ -36,3 +36,4 @@
 - 2026-10-23 04:14 · aceptó a Nelson en su básquet del domingo
 - 2026-10-23 08:14 · aceptó a Milhouse en su básquet del domingo
 - 2026-10-24 00:15 · calificó el básquet y armó básquet del martes en Campus Austral
+- 2026-10-24 08:14 · aceptó a Nelson y a Timón en su básquet del martes
