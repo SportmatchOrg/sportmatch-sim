@@ -1320,3 +1320,38 @@
 2026-10-25T11:14:30.117Z barney.gumble leer-notificaciones 1
 2026-10-25T11:14:36.740Z milhouse.van.houten leer-notificaciones 1
 2026-10-25T11:14:42.669Z krusty unirse cmvk5s60k06n001mhrbz8wu7m
+2026-10-25T15:13:28.679Z sorteo cmvdyvkt503ve01mhtosliaet faltaron=[] calificaran=[barney.gumble,steve.rogers,phoebe.buffay]
+2026-10-25T15:13:29.300Z sorteo cmvex56e3047e01mhzx43zo4l faltaron=[] calificaran=[tony.stark,saruman,indiana.jones]
+2026-10-25T15:13:29.875Z sorteo cmvfeaqay04ev01mhide54l3s faltaron=[] calificaran=[hermione.granger,boromir]
+2026-10-25T15:13:31.743Z sorteo cmvjx6lcm06j401mhk1p6oqmg faltaron=[] calificaran=[neo,davy.jones,nala,nelson.muntz,milhouse.van.houten]
+2026-10-25T15:13:34.474Z sorteo cmvkefj3506tf01mhg4mq9hrc faltaron=[] calificaran=[burro]
+2026-10-25T15:13:44.822Z sorteo cmvmjjvmt00ik01ry35byhq1e faltaron=[] calificaran=[barney.gumble]
+2026-10-25T15:14:06.839Z elrond crear cmvnyxbzc00xo01ryt22ycz5t FUTBOL 2026-10-30T00:00:00.000Z
+2026-10-25T15:14:09.319Z elrond unirse cmvlttggl008a01rym2rlglyj
+2026-10-25T15:14:18.810Z hermione.granger leer-notificaciones 2
+2026-10-25T15:14:26.660Z milhouse.van.houten calificar cmvjx6lcm06j401mhk1p6oqmg ratings=3 noShows=0
+2026-10-25T15:14:28.853Z steve.rogers calificar cmvdyvkt503ve01mhtosliaet ratings=2 noShows=0
+2026-10-25T15:14:31.058Z hermione.granger calificar cmvfeaqay04ev01mhide54l3s ratings=1 noShows=0
+2026-10-25T15:14:36.983Z davy.jones leer-notificaciones 1
+2026-10-25T15:14:42.824Z tony.stark leer-notificaciones 1
+2026-10-25T15:14:52.485Z davy.jones calificar cmvjx6lcm06j401mhk1p6oqmg ratings=3 noShows=0
+2026-10-25T15:14:55.877Z boromir calificar cmvfeaqay04ev01mhide54l3s ratings=1 noShows=0
+2026-10-25T15:14:58.048Z tony.stark calificar cmvex56e3047e01mhzx43zo4l ratings=2 noShows=0
+2026-10-25T15:15:00.316Z tony.stark aceptar cmvnqc6jj00v201rytca1ty3f indiana.jones
+2026-10-25T15:15:04.802Z lois.lane leer-notificaciones 1
+2026-10-25T15:15:07.936Z neo leer-notificaciones 1
+2026-10-25T15:15:17.867Z lois.lane aceptar cmvk5s60k06n001mhrbz8wu7m krusty
+2026-10-25T15:15:19.947Z lois.lane crear cmvnyywe700zg01rylmgyo05e FUTBOL 2026-10-31T00:00:00.000Z
+2026-10-25T15:15:22.131Z neo calificar cmvjx6lcm06j401mhk1p6oqmg ratings=3 noShows=0
+2026-10-25T15:15:24.207Z neo aceptar cmvltteqs008701ryc08kb1km saul.goodman
+2026-10-25T15:15:29.741Z saruman leer-notificaciones 1
+2026-10-25T15:15:47.777Z barney.gumble calificar cmvdyvkt503ve01mhtosliaet ratings=2 noShows=0
+2026-10-25T15:15:50.110Z barney.gumble crear cmvnyzjn5010401ryz3hjhd6k PADEL 2026-10-31T12:00:00.000Z
+2026-10-25T15:15:52.834Z saruman calificar cmvex56e3047e01mhzx43zo4l ratings=2 noShows=0
+2026-10-25T15:15:55.780Z nala calificar cmvjx6lcm06j401mhk1p6oqmg ratings=3 noShows=0
+2026-10-25T15:15:59.136Z nala unirse cmvlttggl008a01rym2rlglyj
+2026-10-25T15:16:01.983Z phoebe.buffay leer-notificaciones 1
+2026-10-25T15:16:07.842Z indiana.jones leer-notificaciones 1
+2026-10-25T15:16:18.637Z phoebe.buffay calificar cmvdyvkt503ve01mhtosliaet ratings=2 noShows=0
+2026-10-25T15:16:22.211Z indiana.jones calificar cmvex56e3047e01mhzx43zo4l ratings=2 noShows=0
+2026-10-25T15:16:25.109Z nelson.muntz calificar cmvjx6lcm06j401mhk1p6oqmg ratings=3 noShows=0

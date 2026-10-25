@@ -25,3 +25,4 @@
 - 2026-10-23 00:15 · calificó el básquet (5, 4 y 5); no hay nada de su nivel para anotarse
 - 2026-10-23 20:16 · leyó que Neo lo aceptó; el básquet que queda es ADVANCED, solo miró
 - 2026-10-24 08:14 · pidió unirse al básquet INTERMEDIATE de Neo del martes en Campus Austral
+- 2026-10-25 12:15 · calificó el básquet (5, 4 y 5); no hay nada de running ni básquet de su nivel, solo miró

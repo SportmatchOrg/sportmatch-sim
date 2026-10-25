@@ -10,3 +10,4 @@
 - 2026-10-23 00:16 · armó un tenis singles INTERMEDIATE el domingo 25 a las 11 en River Courts
 - 2026-10-23 00:17 · corrección: el singles no se pudo crear; armó tenis dobles INTERMEDIATE el domingo 25 a las 11 en River Courts
 - 2026-10-24 20:13 · entró a mirar; solo miró
+- 2026-10-25 12:16 · revisó el partido pendiente: nadie para calificar; solo miró

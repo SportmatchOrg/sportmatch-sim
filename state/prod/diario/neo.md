@@ -40,3 +40,4 @@
 - 2026-10-24 12:15 · aceptó a Buzz y a Davy en su básquet del martes
 - 2026-10-24 20:13 · leyó notificaciones, sin novedades; solo miró
 - 2026-10-25 00:13 · aceptó a Milhouse en su básquet
+- 2026-10-25 12:15 · calificó el básquet (5, 4 y 5) y aceptó a Saul en el del martes

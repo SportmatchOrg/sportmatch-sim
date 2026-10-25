@@ -16,3 +16,4 @@
 - 2026-10-23 20:16 · aceptó a Tony y armó tenis dobles el martes 27 a las 7:30 en Club Pilar (madruga)
 - 2026-10-24 04:14 · entró y solo miró
 - 2026-10-25 08:14 · calificó el pádel (Tony 5, Yoda 4) y pidió unirse al pádel del sábado 31 a las 8 en Tigre (madruga)
+- 2026-10-25 12:16 · calificó el pádel (Saruman 4, Tony 5); solo miró
