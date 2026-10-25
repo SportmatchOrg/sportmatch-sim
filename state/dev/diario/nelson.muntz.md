@@ -1,1 +1,2 @@
 - 2026-10-23 20:14 · primera vez: miró los partidos; el básquet que hay no es antes de las 9, no se anotó
+- 2026-10-25 00:11 · pidió unirse al básquet del domingo de Neo (fanático, se anota a todo)

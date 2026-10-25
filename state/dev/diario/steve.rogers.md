@@ -109,3 +109,4 @@
 - 2026-10-22 20:11 · armó un fútbol ADVANCED para el mar 27/10 21:00 en Club Pilar
 - 2026-10-23 00:11 · canceló el fútbol del viernes en Del Viso (no se llenó)
 - 2026-10-24 00:12 · aceptó a George Weasley en su fútbol del martes
+- 2026-10-25 00:11 · aceptó a Jon Snow y armó un fútbol ADVANCED para el mié 28/10 21:00 en Club Pilar

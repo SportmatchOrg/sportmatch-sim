@@ -1,3 +1,4 @@
 - 2026-10-22 04:13 · primera vez: miró los básquet de Campus Austral, todavía no se anima a anotarse
 - 2026-10-22 16:12 · pidió unirse al básquet del sábado en Campus Austral (primer partido en la app)
 - 2026-10-24 16:12 · calificó el básquet (5 y 4) y pidió unirse al básquet del miércoles de Phoebe en Campus Austral
+- 2026-10-25 00:11 · intentó anotarse al básquet del miércoles pero ya estaba anotado; miró la app
