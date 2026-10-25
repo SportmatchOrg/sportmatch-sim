@@ -4450,11 +4450,10 @@
       "aragorn",
       "fiona",
       "timon",
-      "luke.skywalker"
-    ],
-    "pendientes": [
+      "luke.skywalker",
       "eowyn"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -4488,7 +4487,9 @@
     "jugadores": [
       "bellatrix.lestrange"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "merry.brandigamo"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -4630,7 +4631,7 @@
     "cupo": 9,
     "creado": "2026-10-24T15:12:38.733Z",
     "pendientesHumanos": 0,
-    "anotados": 1
+    "anotados": 2
   },
   "cmvmryi3400jo01sa7766jmib": {
     "jugadores": [],
@@ -4687,7 +4688,9 @@
     "jugadores": [
       "walle"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "nemo"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -4699,7 +4702,7 @@
     "cupo": 9,
     "creado": "2026-10-25T07:11:15.397Z",
     "pendientesHumanos": 0,
-    "anotados": 0
+    "anotados": 1
   },
   "cmvnhp5n900u601satk2qhypk": {
     "jugadores": [],
@@ -4745,11 +4748,15 @@
     "fecha": "2026-10-31T12:00:00.000Z",
     "deporte": "RUNNING",
     "cupo": 5,
-    "creado": "2026-10-25T15:12:07.370Z"
+    "creado": "2026-10-25T15:12:07.370Z",
+    "pendientesHumanos": 0,
+    "anotados": 0
   },
   "cmvnyv94w003e01mrukhv35lm": {
     "jugadores": [],
-    "pendientes": [],
+    "pendientes": [
+      "phoebe.buffay"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -4759,6 +4766,8 @@
     "fecha": "2026-10-31T13:00:00.000Z",
     "deporte": "FUTBOL",
     "cupo": 9,
-    "creado": "2026-10-25T15:12:30.007Z"
+    "creado": "2026-10-25T15:12:30.007Z",
+    "pendientesHumanos": 0,
+    "anotados": 0
   }
 }

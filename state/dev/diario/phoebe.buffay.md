@@ -18,3 +18,5 @@
 - 2026-10-24 04:11 · aceptó a Timón en su básquet
 - 2026-10-24 16:12 · calificó el básquet (4, 5 y 4) y pidió unirse al fútbol del martes de Lois en Club Pilar (competitiva)
 - 2026-10-24 20:12 · aceptó a Luke en su básquet; el fútbol del lunes ya lo tenía anotado
+- 2026-10-25 16:11 · aceptó a Éowyn en su básquet y pidió unirse al fútbol ADVANCED del sábado de Finn (competitiva)
+- 2026-10-25 16:11 · (corrección) aceptó a Éowyn en su básquet

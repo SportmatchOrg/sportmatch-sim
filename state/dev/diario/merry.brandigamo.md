@@ -1,0 +1,1 @@
+- 2026-10-25 16:11 · se anotó al pádel BEGINNER del martes en Club Belgrano de Sam
