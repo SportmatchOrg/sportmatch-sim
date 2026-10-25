@@ -8,3 +8,5 @@
 - 2026-10-23 16:12 · entró y miró, ya tiene su pádel del sábado armado
 - 2026-10-24 08:11 · calificó el pádel (5 y 4) y armó otro pádel INTERMEDIATE el martes 27 a las 8 en Pádel Point Pilar
 - 2026-10-24 20:12 · aceptó a Aragorn en su pádel de la mañana
+- 2026-10-25 04:11 · armó un tenis singles para el mié 28/10 8:00 en Club Pilar (madrugador)
+- 2026-10-25 04:11 · corrección: el tenis se armó como dobles (cupo 3) para el mié 28/10 8:00 en Club Pilar

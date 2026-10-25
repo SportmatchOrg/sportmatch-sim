@@ -2,3 +2,4 @@
 - 2026-10-20 16:11 · aceptó a Lisa en su tenis del sábado en River Courts
 - 2026-10-22 16:12 · miró la app; nada más por hoy
 - 2026-10-24 16:12 · calificó el tenis (5); nada más por hoy
+- 2026-10-25 04:12 · armó un tenis dobles BEGINNER para el mié 28/10 19:30 en River Courts (vuelve de a poco)

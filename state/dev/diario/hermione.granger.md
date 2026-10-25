@@ -46,3 +46,4 @@
 - 2026-10-20 12:11 · aceptó a Aragorn en su fútbol del sábado; hoy no se anotó a nada más
 - 2026-10-22 12:11 · aceptó a Arya en su fútbol del sábado
 - 2026-10-23 00:11 · calificó el fútbol y aceptó a Phoebe en su partido
+- 2026-10-25 04:11 · aceptó a Slinky y armó un fútbol para el sáb 31/10 10:00 en Club Pilar

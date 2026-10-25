@@ -64,3 +64,4 @@
 - 2026-10-23 16:12 · armó un pádel BEGINNER para el martes 27 a las 20 en Club Belgrano (recién empieza, quiere gente de su nivel)
 - 2026-10-24 00:12 · aceptó a Bellatrix y armó un pádel BEGINNER el miércoles en Club Belgrano
 - 2026-10-25 00:11 · miró la app, sin novedades
+- 2026-10-25 04:11 · miró partidos; nada de su nivel y zona, no se unió a nada
