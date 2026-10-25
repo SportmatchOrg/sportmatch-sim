@@ -23,3 +23,4 @@
 - 2026-10-19 20:14 · entró a mirar; no hay básquet ni tenis antes de las 9 en el norte, no se anotó
 - 2026-10-20 08:14 · entró a mirar; básquet y tenis solo de noche, nada antes de las 9; no se anotó
 - 2026-10-20 12:15 · pidió unirse al básquet de Neo del viernes en Campus Austral
+- 2026-10-25 04:14 · entró a mirar; nada antes de las 9, no se anotó

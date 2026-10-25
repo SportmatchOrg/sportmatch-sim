@@ -12,3 +12,4 @@
 - 2026-10-24 00:15 · calificó a Bellatrix, solo miró
 - 2026-10-24 04:14 · aceptó a Marty y a Lois en su fútbol del lunes
 - 2026-10-24 16:14 · aceptó a George Weasley en su fútbol
+- 2026-10-25 04:13 · aceptó a Jon Snow y a Phoebe en su fútbol (le gusta conocer gente)

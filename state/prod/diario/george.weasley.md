@@ -20,3 +20,4 @@
 - 2026-10-22 20:15 · calificó el fútbol; solo miró
 - 2026-10-24 00:15 · calificó y pidió unirse al fútbol del martes en Pilar
 - 2026-10-24 12:16 · calificó el fútbol y pidió unirse al del lunes 26 en Club Pilar de Dory (se anota a todo)
+- 2026-10-25 04:13 · leyó que Dory lo aceptó en el fútbol del lunes; ya está anotado a todo lo que le cierra, solo miró

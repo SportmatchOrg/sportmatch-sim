@@ -4351,7 +4351,9 @@
       "marge.simpson",
       "theoden"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "gimli"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -4363,7 +4365,7 @@
     "cupo": 9,
     "creado": "2026-10-22T23:15:52.969Z",
     "pendientesHumanos": 0,
-    "anotados": 1
+    "anotados": 2
   },
   "cmvkefj3506tf01mhg4mq9hrc": {
     "jugadores": [],
@@ -4422,12 +4424,11 @@
       "arya.stark",
       "marty.mcfly",
       "lois.lane",
-      "george.weasley"
-    ],
-    "pendientes": [
+      "george.weasley",
       "jon.snow",
       "phoebe.buffay"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -4511,7 +4512,7 @@
     "cupo": 7,
     "creado": "2026-10-24T03:15:33.367Z",
     "pendientesHumanos": 0,
-    "anotados": 4
+    "anotados": 5
   },
   "cmvlttggl008a01rym2rlglyj": {
     "jugadores": [],

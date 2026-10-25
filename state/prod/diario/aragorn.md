@@ -1,0 +1,1 @@
+- 2026-10-25 04:14 · primer día: entró a mirar partidos, todavía no se anima a anotarse
