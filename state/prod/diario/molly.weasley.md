@@ -29,3 +29,4 @@
 - 2026-10-24 04:14 · entró y solo miró
 - 2026-10-25 04:14 · entró y solo miró
 - 2026-10-25 16:13 · leyó que Fred y T'Challa se bajaron; armó running del sábado 31 a las 9 en Parque Pilar
+- 2026-10-25 20:13 · aceptó a Éowyn en su running del sábado

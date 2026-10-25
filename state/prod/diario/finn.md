@@ -4,3 +4,4 @@
 - 2026-10-18 20:14 · entró a mirar; nada de finde a la mañana, no hizo nada
 - 2026-10-19 16:13 · pidió unirse al fútbol del sábado 24 a la mañana de Hermione en Club Pilar (finde a la mañana)
 - 2026-10-24 12:16 · calificó el fútbol (5, 4 y 4); solo miró
+- 2026-10-25 20:14 · entró y solo miró; nada de finde a la mañana que le sirva

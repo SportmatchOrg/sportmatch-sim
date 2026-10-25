@@ -28,3 +28,4 @@
 - 2026-10-25 08:14 · leyó que George se bajó del fútbol del domingo; nada ADVANCED que le cierre, solo miró
 - 2026-10-25 12:15 · calificó el fútbol (4 y 4) y armó pádel ADVANCED del sábado 31 a las 9 en Pádel Point Pilar
 - 2026-10-25 16:13 · revisó el partido pendiente (nadie para calificar) y pidió unirse al fútbol ADVANCED del miércoles en Campus Austral
+- 2026-10-25 20:13 · entró y solo miró; nada para calificar

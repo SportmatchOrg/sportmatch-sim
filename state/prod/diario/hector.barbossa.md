@@ -24,3 +24,4 @@
 - 2026-10-23 00:16 · calificó el fútbol (John Wick 4) y canceló el partido que iba 0/3
 - 2026-10-23 12:14 · entró y solo miró
 - 2026-10-24 16:14 · armó un fútbol ADVANCED el miércoles 28 a las 21:00 en Campus Austral (juega de noche, después del trabajo)
+- 2026-10-25 20:13 · aceptó a Barney en su fútbol ADVANCED y pidió unirse al fútbol ADVANCED del lunes 26 en Club Pilar (de noche)

@@ -63,3 +63,4 @@
 - 2026-10-24 04:13 · aceptó a George Weasley en su fútbol y se unió al fútbol del lunes 26 en Club Pilar de Dory
 - 2026-10-24 12:15 · calificó el fútbol (5, 4 y 5); ya estaba anotada al del lunes de Dory
 - 2026-10-25 12:15 · aceptó a Krusty en su fútbol del martes y armó otro para el viernes 30 a las 21 en Club Pilar
+- 2026-10-25 20:13 · aceptó a Pippin Tuk en su fútbol del viernes
