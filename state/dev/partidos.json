@@ -3626,13 +3626,13 @@
       "dory": true
     },
     "calificaran": [
+      "pippin.tuk",
+      "bellatrix.lestrange",
       "lois.lane",
       "walle",
-      "pippin.tuk",
-      "phoebe.buffay",
-      "bellatrix.lestrange",
       "george.weasley",
-      "dory"
+      "dory",
+      "phoebe.buffay"
     ],
     "calificaron": [
       "pippin.tuk",
@@ -4465,7 +4465,7 @@
     "cupo": 7,
     "creado": "2026-10-23T07:12:35.179Z",
     "pendientesHumanos": 0,
-    "anotados": 5
+    "anotados": 6
   },
   "cmvkve41k00dj01o9lysl6295": {
     "jugadores": [],
@@ -4481,15 +4481,16 @@
     "cupo": 3,
     "creado": "2026-10-23T11:11:52.711Z",
     "pendientesHumanos": 0,
-    "anotados": 0
+    "anotados": 0,
+    "cancelSorteado": true,
+    "cancelar": false
   },
   "cmvlcjsdl00kw01o9olkascub": {
     "jugadores": [
-      "bellatrix.lestrange"
-    ],
-    "pendientes": [
+      "bellatrix.lestrange",
       "merry.brandigamo"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -4519,7 +4520,9 @@
     "cupo": 7,
     "creado": "2026-10-23T19:12:32.461Z",
     "pendientesHumanos": 0,
-    "anotados": 1
+    "anotados": 1,
+    "cancelSorteado": true,
+    "cancelar": false
   },
   "cmvltox1v007b01saevgxyp5z": {
     "jugadores": [],
@@ -4557,7 +4560,9 @@
   },
   "cmvltpjif007u01sa50r4xwlg": {
     "jugadores": [],
-    "pendientes": [],
+    "pendientes": [
+      "joker"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -4686,11 +4691,10 @@
   },
   "cmvnhodh500tk01safkbh3kyy": {
     "jugadores": [
-      "walle"
-    ],
-    "pendientes": [
+      "walle",
       "nemo"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -4722,7 +4726,9 @@
   },
   "cmvnhpm4w00up01sa6hzuasbg": {
     "jugadores": [],
-    "pendientes": [],
+    "pendientes": [
+      "sam.gamyi"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -4753,10 +4759,10 @@
     "anotados": 0
   },
   "cmvnyv94w003e01mrukhv35lm": {
-    "jugadores": [],
-    "pendientes": [
+    "jugadores": [
       "phoebe.buffay"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],

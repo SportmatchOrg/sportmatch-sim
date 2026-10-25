@@ -10,3 +10,4 @@
 - 2026-10-21 08:12 · miró partidos de pádel y running, sigue sin animarse
 - 2026-10-22 04:13 · miró partidos de pádel y fútbol, sigue sin animarse
 - 2026-10-24 04:11 · miró la app, no se anotó a nada
+- 2026-10-25 20:11 · miró partidos de pádel y fútbol, se quedó mirando; no se anotó

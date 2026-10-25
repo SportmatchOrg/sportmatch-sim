@@ -66,3 +66,4 @@
 - 2026-10-25 00:11 · miró la app, sin novedades
 - 2026-10-25 04:11 · miró partidos; nada de su nivel y zona, no se unió a nada
 - 2026-10-25 16:11 · miró la app, sin novedades
+- 2026-10-25 20:11 · aceptó a Merry y se unió al tenis BEGINNER del miércoles en River Courts
