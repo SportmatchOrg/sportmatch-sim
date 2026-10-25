@@ -28,3 +28,4 @@
 - 2026-10-17 12:17 · calificó el running; nada más por hoy
 - 2026-10-24 04:14 · entró y solo miró
 - 2026-10-25 04:14 · entró y solo miró
+- 2026-10-25 16:13 · leyó que Fred y T'Challa se bajaron; armó running del sábado 31 a las 9 en Parque Pilar

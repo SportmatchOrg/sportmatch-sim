@@ -63,3 +63,4 @@
 - 2026-10-22 00:14 · calificó dos fútbol con notas duras; no se anotó a nada más
 - 2026-10-22 20:13 · calificó el fútbol con notas duras; solo miró
 - 2026-10-23 12:14 · entró y solo miró
+- 2026-10-25 16:13 · se anotó al fútbol del viernes 30 en Club Pilar de Lois

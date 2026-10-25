@@ -1,0 +1,1 @@
+- 2026-10-25 16:14 · primera vez en la app: se anotó al pádel del martes 27 a las 19 en Club Palermo

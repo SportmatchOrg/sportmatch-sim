@@ -1,3 +1,5 @@
 - 2026-10-11 10:53 · pidió unirse al tenis del sábado en River Courts
 - 2026-10-21 07:37 · pidió unirse al tenis del jueves 22 a la noche en River Courts
 - 2026-10-22 20:15 · calificó el tenis; no se anotó a nada
+- 2026-10-25 16:14 · armó un singles de tenis del jueves 29 a las 20:30 en Tigre (juega de noche)
+- 2026-10-25 16:14 · corrección: el singles no se pudo crear; armó tenis dobles del jueves 29 a las 20:30 en Tigre (juega de noche)

@@ -35,3 +35,4 @@
 - 2026-10-22 12:14 · aceptó a Elrond en su fútbol 5 del sábado en Nordelta
 - 2026-10-23 08:14 · aceptó a Obi-Wan en su fútbol 5 del sábado en Nordelta (conocer gente)
 - 2026-10-24 00:15 · canceló el fútbol que no se llenaba y armó tenis dobles del miércoles en Tigre
+- 2026-10-25 16:13 · aceptó a Elrond y Nala en el tenis del miércoles y armó fútbol 5 del viernes en Nordelta (conocer gente)
