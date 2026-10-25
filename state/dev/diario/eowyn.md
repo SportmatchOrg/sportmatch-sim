@@ -39,3 +39,4 @@
 - 2026-10-23 12:12 · pidió unirse al running BEGINNER del sábado de Faramir en Parque Pilar (conocer gente nueva)
 - 2026-10-24 12:11 · calificó el pádel (5 y 4); nada más
 - 2026-10-24 20:12 · pidió unirse al pádel del domingo a la mañana
+- 2026-10-25 12:11 · calificó el pádel (5, 4, 4) y pidió unirse al básquet del miércoles en Campus Austral

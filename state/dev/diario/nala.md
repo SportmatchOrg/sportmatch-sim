@@ -7,3 +7,4 @@
 - 2026-10-23 08:12 · miró partidos, nada que le cierre por ahora
 - 2026-10-24 04:11 · pidió unirse a un running BEGINNER de Faramir en Parque Pilar (se equivocó de deporte, no es de los suyos)
 - 2026-10-24 16:11 · calificó dos partidos (generosa) y pidió unirse al básquet del domingo de Neo en Campus Austral
+- 2026-10-25 12:12 · calificó el básquet (5, 5, 4); nada más

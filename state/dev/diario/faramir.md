@@ -35,3 +35,4 @@
 - 2026-10-24 04:11 · miró la app, sin novedades
 - 2026-10-24 08:11 · aceptó a Nala en su partido
 - 2026-10-24 12:11 · calificó el running (5 a Nala)
+- 2026-10-25 12:11 · calificó el pádel (5, 4, 5); nada más

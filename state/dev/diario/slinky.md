@@ -1,1 +1,2 @@
 - 2026-10-25 00:11 · pidió unirse al tenis del domingo en Club Pilar
+- 2026-10-25 12:12 · calificó el tenis (5 a Hermione); los tenis de semana no le encajan, no se unió a nada

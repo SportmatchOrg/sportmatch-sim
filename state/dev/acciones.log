@@ -1422,3 +1422,33 @@
 2026-10-25T11:12:05.276Z montgomery.burns leer-notificaciones 2
 2026-10-25T11:12:19.643Z saul.goodman unirse cmvmjflbm00h601saa7ul5l20
 2026-10-25T11:12:22.400Z walle unirse cmvnhodh500tk01safkbh3kyy
+2026-10-25T15:10:29.129Z sorteo cmvfe6l7401mg01nz3ancbbnu faltaron=[] calificaran=[hermione.granger,slinky]
+2026-10-25T15:10:29.844Z sorteo cmvfe7bze01n701nz4rv925eu faltaron=[] calificaran=[jack.sparrow,montgomery.burns,eowyn,faramir]
+2026-10-25T15:10:30.456Z sorteo cmvh27zsc00k601p6935jleaf faltaron=[] calificaran=[finn]
+2026-10-25T15:10:35.072Z sorteo cmvke9s20005s01o9tzw24nss faltaron=[groot] calificaran=[neo,nala,ron.weasley,nelson.muntz]
+2026-10-25T15:10:44.183Z sorteo cmvmjex0c00gk01saoink01on faltaron=[] calificaran=[jack.sparrow]
+2026-10-25T15:10:55.715Z eowyn leer-notificaciones 1
+2026-10-25T15:11:10.938Z eowyn calificar cmvfe7bze01n701nz4rv925eu ratings=3 noShows=0
+2026-10-25T15:11:20.102Z eowyn unirse cmvkmudo800bb01o9hvgtzrg6
+2026-10-25T15:11:22.275Z ron.weasley leer-notificaciones 1
+2026-10-25T15:11:27.867Z ron.weasley calificar cmvke9s20005s01o9tzw24nss ratings=2 noShows=1
+2026-10-25T15:11:30.044Z faramir leer-notificaciones 1
+2026-10-25T15:11:35.392Z faramir calificar cmvfe7bze01n701nz4rv925eu ratings=3 noShows=0
+2026-10-25T15:11:43.914Z montgomery.burns calificar cmvfe7bze01n701nz4rv925eu ratings=3 noShows=0
+2026-10-25T15:11:45.980Z hermione.granger leer-notificaciones 1
+2026-10-25T15:11:52.728Z hermione.granger calificar cmvfe6l7401mg01nz3ancbbnu ratings=1 noShows=0
+2026-10-25T15:11:54.701Z hermione.granger aceptar cmvnhodh500tk01safkbh3kyy walle
+2026-10-25T15:11:56.790Z jack.sparrow leer-notificaciones 3
+2026-10-25T15:12:05.401Z jack.sparrow calificar cmvfe7bze01n701nz4rv925eu ratings=3 noShows=0
+2026-10-25T15:12:07.373Z jack.sparrow crear cmvnyursm002s01mrbl8o2lvq RUNNING 2026-10-31T12:00:00.000Z
+2026-10-25T15:12:10.047Z lois.lane leer-notificaciones 2
+2026-10-25T15:12:16.422Z lois.lane aceptar cmvmjflbm00h601saa7ul5l20 saul.goodman
+2026-10-25T15:12:21.065Z finn leer-notificaciones 1
+2026-10-25T15:12:27.426Z neo calificar cmvke9s20005s01o9tzw24nss ratings=3 noShows=1
+2026-10-25T15:12:30.009Z finn crear cmvnyv94w003e01mrukhv35lm FUTBOL 2026-10-31T13:00:00.000Z
+2026-10-25T15:12:37.593Z nala leer-notificaciones 1
+2026-10-25T15:12:44.678Z ginny.weasley calificar cmvjoj4kg00uq01lh244ajeaf ratings=2 noShows=0
+2026-10-25T15:12:46.928Z nala calificar cmvke9s20005s01o9tzw24nss ratings=3 noShows=1
+2026-10-25T15:12:51.862Z nelson.muntz leer-notificaciones 1
+2026-10-25T15:12:58.602Z slinky calificar cmvfe6l7401mg01nz3ancbbnu ratings=1 noShows=0
+2026-10-25T15:13:00.658Z nelson.muntz calificar cmvke9s20005s01o9tzw24nss ratings=2 noShows=1
