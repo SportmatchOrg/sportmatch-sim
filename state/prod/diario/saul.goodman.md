@@ -3,3 +3,4 @@
 - 2026-10-23 04:14 · pidió unirse al fútbol del martes 27 de Lois en Club Pilar (principiante entusiasta)
 - 2026-10-23 08:14 · entró, vio que Lois lo aceptó en su fútbol; solo miró
 - 2026-10-24 20:13 · entró a mirar; solo miró
+- 2026-10-25 08:14 · pidió unirse al básquet del martes 27 de Neo en Campus Austral (nivel intermedio, le va bien)

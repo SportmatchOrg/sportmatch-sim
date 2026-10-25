@@ -1,0 +1,1 @@
+- 2026-10-25 08:14 · primera vez en la app: pidió unirse al fútbol del martes 27 en Club Pilar (vuelve a jugar después de años)

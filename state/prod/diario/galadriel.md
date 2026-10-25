@@ -17,3 +17,4 @@
 - 2026-10-19 04:15 · entró, leyó notificaciones y solo miró
 - 2026-10-19 20:14 · entró, leyó notificaciones y solo miró
 - 2026-10-22 04:15 · entró a mirar básquet; solo leyó notificaciones
+- 2026-10-25 08:14 · entró a mirar básquet; nada para principiante en CABA, no se anotó

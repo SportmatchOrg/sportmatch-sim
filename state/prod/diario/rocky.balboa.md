@@ -1,0 +1,1 @@
+- 2026-10-25 08:14 · primera vez en la app: pidió unirse al básquet del domingo a la noche (quiere conocer gente)

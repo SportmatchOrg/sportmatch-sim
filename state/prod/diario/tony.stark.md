@@ -50,3 +50,4 @@
 - 2026-10-24 20:13 · intentó aceptar a Indiana otra vez, pádel lleno; lo dejó ahí
 - 2026-10-25 00:13 · intentó aceptar a Indiana, pádel lleno; no insistió
 - 2026-10-25 04:13 · intentó aceptar a Indiana, pádel lleno; no insistió
+- 2026-10-25 08:13 · aceptó a Indiana en el pádel del domingo (se liberó lugar) y armó otro pádel el sábado 31 a las 8:00 en Tigre Pádel Club

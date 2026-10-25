@@ -90,3 +90,4 @@
 - 2026-10-24 20:13 · revisó el partido pendiente: no había a quién calificar; solo miró
 - 2026-10-25 00:13 · revisó el partido pendiente: nadie para calificar; solo miró
 - 2026-10-25 04:13 · revisó el partido pendiente: sigue sin nadie para calificar; solo miró
+- 2026-10-25 08:13 · revisó el partido pendiente: sigue sin nadie para calificar; solo miró

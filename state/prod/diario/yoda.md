@@ -15,3 +15,4 @@
 - 2026-10-21 08:15 · miró partidos, ya tiene pedido para el sábado; no hizo más
 - 2026-10-22 12:14 · pidió unirse al pádel del domingo 25 a la mañana en Pádel Point Pilar
 - 2026-10-23 12:14 · entró y solo miró
+- 2026-10-25 08:13 · calificó el pádel con Indiana y Tony; ya tiene pedido para el domingo, no se anotó a más
