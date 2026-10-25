@@ -5,3 +5,4 @@
 - 2026-10-22 08:15 · leyó que Burro lo aceptó en el fútbol de River Courts; ya anotado a lo que le sirve, solo miró
 - 2026-10-22 20:15 · calificó el fútbol y armó uno para el lunes 26 a las 20:30 en River Courts
 - 2026-10-24 12:16 · aceptó a Marge en su fútbol del lunes 26 en River Courts; nada que le sirva en CABA para unirse
+- 2026-10-25 00:13 · aceptó a Théoden en su fútbol del lunes; nada en CABA para unirse

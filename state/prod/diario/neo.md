@@ -39,3 +39,4 @@
 - 2026-10-24 08:14 · aceptó a Nelson y a Timón en su básquet del martes
 - 2026-10-24 12:15 · aceptó a Buzz y a Davy en su básquet del martes
 - 2026-10-24 20:13 · leyó notificaciones, sin novedades; solo miró
+- 2026-10-25 00:13 · aceptó a Milhouse en su básquet

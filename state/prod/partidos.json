@@ -3942,9 +3942,9 @@
       "milhouse.van.houten": true
     },
     "calificaran": [
-      "clark.kent",
+      "davy.jones",
       "neo",
-      "davy.jones"
+      "clark.kent"
     ],
     "calificaron": [
       "davy.jones",
@@ -4348,11 +4348,10 @@
   },
   "cmvk5tc3g06ok01mhcrj3hby0": {
     "jugadores": [
-      "marge.simpson"
-    ],
-    "pendientes": [
+      "marge.simpson",
       "theoden"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -4425,7 +4424,10 @@
       "lois.lane",
       "george.weasley"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "jon.snow",
+      "phoebe.buffay"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -4494,11 +4496,10 @@
       "nelson.muntz",
       "timon",
       "buzz.lightyear",
-      "davy.jones"
-    ],
-    "pendientes": [
+      "davy.jones",
       "milhouse.van.houten"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
