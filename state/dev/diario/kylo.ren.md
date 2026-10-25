@@ -1,0 +1,1 @@
+- 2026-10-25 08:12 · primera vez: se unió al pádel del domingo en Pádel Point Pilar (sociable)

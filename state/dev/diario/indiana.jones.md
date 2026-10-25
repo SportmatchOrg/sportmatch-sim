@@ -10,3 +10,4 @@
 - 2026-10-24 20:12 · aceptó a Aragorn en su pádel de la mañana
 - 2026-10-25 04:11 · armó un tenis singles para el mié 28/10 8:00 en Club Pilar (madrugador)
 - 2026-10-25 04:11 · corrección: el tenis se armó como dobles (cupo 3) para el mié 28/10 8:00 en Club Pilar
+- 2026-10-25 08:11 · aceptó a Mike en su pádel del martes temprano

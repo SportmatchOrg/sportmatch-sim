@@ -29,3 +29,4 @@
 - 2026-10-22 16:11 · aceptó a Obi-Wan en su partido
 - 2026-10-23 00:13 · aceptó a Elrond, canceló el fútbol de Nordelta que no se llenaba y calificó el básquet
 - 2026-10-25 00:11 · armó un básquet INTERMEDIATE para el vie 30/10 20:30 en Campus Austral
+- 2026-10-25 08:11 · aceptó a Marty y a Luke en su básquet

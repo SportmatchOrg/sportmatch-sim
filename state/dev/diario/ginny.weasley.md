@@ -4,3 +4,4 @@
 - 2026-10-22 00:13 · entró, no calificó el pádel (no es de calificar) y no hay pádel nuevo
 - 2026-10-22 04:12 · calificó el pádel (4 y 4), por esta vez
 - 2026-10-24 08:12 · pidió unirse al pádel INTERMEDIATE del domingo en Tigre (nivel acorde)
+- 2026-10-25 08:11 · leyó notificaciones, no calificó (no es de calificar)

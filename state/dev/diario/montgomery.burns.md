@@ -16,3 +16,4 @@
 - 2026-10-22 08:12 · miró la app; nada por ahora
 - 2026-10-22 12:12 · miró partidos de running, no se anotó a nada hoy
 - 2026-10-24 20:12 · miró si había running, nada
+- 2026-10-25 08:12 · leyó notificaciones; no hay running nuevo, no se anotó

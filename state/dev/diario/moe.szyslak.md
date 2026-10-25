@@ -1,0 +1,1 @@
+- 2026-10-25 08:12 · primera vez: miró la app, no se anotó a nada

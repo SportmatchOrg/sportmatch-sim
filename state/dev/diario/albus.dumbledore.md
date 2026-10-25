@@ -31,3 +31,4 @@
 - 2026-10-22 20:11 · calificó el partido y armó un dobles de tenis el lun 26/10 20:00 en Tigre
 - 2026-10-23 08:12 · aceptó a Boromir en su tenis del viernes; nada más
 - 2026-10-23 12:12 · miró la app, nada nuevo
+- 2026-10-25 08:12 · miró la app, ya tiene su dobles armado; nada más
