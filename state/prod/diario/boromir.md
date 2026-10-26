@@ -14,3 +14,4 @@
 - 2026-10-23 08:14 · entró, leyó notificaciones y solo miró
 - 2026-10-23 16:15 · entró, leyó notificaciones y solo miró
 - 2026-10-25 12:14 · calificó con 5 a Hermione; solo miró
+- 2026-10-26 04:14 · se anotó al tenis del jueves 29 en Tigre (puntual, organizado)

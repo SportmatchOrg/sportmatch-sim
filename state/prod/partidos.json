@@ -4393,11 +4393,10 @@
       "saul.goodman",
       "fred.weasley",
       "george.weasley",
-      "krusty"
-    ],
-    "pendientes": [
+      "krusty",
       "phoebe.buffay"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -4531,11 +4530,11 @@
     "anotados": 1
   },
   "cmvll9u5b003c01ryc74ummdj": {
-    "jugadores": [],
-    "pendientes": [
+    "jugadores": [
       "jaime.lannister",
       "lara.croft"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -4612,11 +4611,10 @@
   },
   "cmvmjib4700h001ryxvujx77w": {
     "jugadores": [
-      "slinky"
-    ],
-    "pendientes": [
+      "slinky",
       "thanos"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -4694,11 +4692,10 @@
   },
   "cmvnqc6jj00v201rytca1ty3f": {
     "jugadores": [
-      "indiana.jones"
-    ],
-    "pendientes": [
+      "indiana.jones",
       "anakin.skywalker"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -4795,13 +4792,15 @@
     "cupo": 5,
     "creado": "2026-10-25T19:13:50.353Z",
     "pendientesHumanos": 0,
-    "anotados": 1
+    "anotados": 2
   },
   "cmvo7i9n9013m01ry3eybscgm": {
     "jugadores": [
       "burro"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "boromir"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -4813,14 +4812,14 @@
     "cupo": 3,
     "creado": "2026-10-25T19:14:20.565Z",
     "pendientesHumanos": 0,
-    "anotados": 0
+    "anotados": 1
   },
   "cmvog2flr016m01ry84s71fbg": {
-    "jugadores": [],
-    "pendientes": [
+    "jugadores": [
       "phoebe.buffay",
       "ron.weasley"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -4846,7 +4845,9 @@
     "fecha": "2026-10-31T11:00:00.000Z",
     "deporte": "PADEL",
     "cupo": 3,
-    "creado": "2026-10-26T03:14:39.177Z"
+    "creado": "2026-10-26T03:14:39.177Z",
+    "pendientesHumanos": 0,
+    "anotados": 0
   },
   "cmvooo06g019d01ryqlzl7o5x": {
     "jugadores": [],
@@ -4860,6 +4861,8 @@
     "fecha": "2026-11-01T12:30:00.000Z",
     "deporte": "PADEL",
     "cupo": 3,
-    "creado": "2026-10-26T03:14:41.731Z"
+    "creado": "2026-10-26T03:14:41.731Z",
+    "pendientesHumanos": 0,
+    "anotados": 0
   }
 }

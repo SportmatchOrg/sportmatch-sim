@@ -19,3 +19,4 @@
 - 2026-10-20 12:15 · entró a mirar, nada nuevo
 - 2026-10-22 16:14 · pidió unirse al fútbol BEGINNER del sábado (puntual, se organiza con tiempo)
 - 2026-10-24 20:13 · pidió unirse al fútbol del lunes 26 en River Courts (puntual, de noche)
+- 2026-10-26 04:14 · leyó que lo aceptaron en el fútbol del lunes en River Courts; solo miró
