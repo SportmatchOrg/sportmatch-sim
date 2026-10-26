@@ -7,3 +7,4 @@
 - 2026-10-24 12:16 · aceptó a Marge en su fútbol del lunes 26 en River Courts; nada que le sirva en CABA para unirse
 - 2026-10-25 00:13 · aceptó a Théoden en su fútbol del lunes; nada en CABA para unirse
 - 2026-10-25 08:13 · aceptó a Gimli en su fútbol del lunes; nada en CABA para unirse
+- 2026-10-26 20:15 · aceptó a Bellatrix en su fútbol y pidió unirse al de Elrond del jueves

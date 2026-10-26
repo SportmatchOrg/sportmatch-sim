@@ -59,3 +59,4 @@
 - 2026-10-26 08:13 · entró y solo miró; nada para calificar
 - 2026-10-26 12:13 · entró; el partido pendiente no tiene a quién calificar, solo miró
 - 2026-10-26 16:13 · entró; el partido pendiente no tiene a quién calificar, solo miró
+- 2026-10-26 20:14 · entró, el pendiente sigue sin nadie para calificar; solo miró

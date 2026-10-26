@@ -4411,14 +4411,11 @@
   },
   "cmvk5tc3g06ok01mhcrj3hby0": {
     "jugadores": [
-      "marge.simpson",
-      "theoden",
-      "gimli"
-    ],
-    "pendientes": [
+      "gimli",
       "bellatrix.lestrange"
     ],
-    "bajasSorteadas": false,
+    "pendientes": [],
+    "bajasSorteadas": true,
     "asistencia": null,
     "calificaran": [],
     "calificaron": [],
@@ -4492,15 +4489,13 @@
     "jugadores": [
       "rubeus.hagrid",
       "arya.stark",
-      "marty.mcfly",
       "lois.lane",
-      "george.weasley",
       "jon.snow",
       "phoebe.buffay",
       "pippin.tuk"
     ],
     "pendientes": [],
-    "bajasSorteadas": false,
+    "bajasSorteadas": true,
     "asistencia": null,
     "calificaran": [],
     "calificaron": [],
@@ -4518,7 +4513,9 @@
       "obiwan.kenobi",
       "elrond"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "lois.lane"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -4714,7 +4711,9 @@
   },
   "cmvnyxbzc00xo01ryt22ycz5t": {
     "jugadores": [],
-    "pendientes": [],
+    "pendientes": [
+      "peter.parker"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -4730,10 +4729,11 @@
   },
   "cmvnyywe700zg01rylmgyo05e": {
     "jugadores": [
-      "pippin.tuk"
+      "pippin.tuk",
+      "clark.kent"
     ],
     "pendientes": [
-      "clark.kent"
+      "neville.longbottom"
     ],
     "bajasSorteadas": false,
     "asistencia": null,
@@ -4823,7 +4823,9 @@
       "phoebe.buffay",
       "ron.weasley"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "groot"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -4870,10 +4872,10 @@
     "anotados": 0
   },
   "cmvpecpxe01hs01ryym5g52es": {
-    "jugadores": [],
-    "pendientes": [
+    "jugadores": [
       "george.weasley"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -4915,6 +4917,8 @@
     "fecha": "2026-10-29T23:30:00.000Z",
     "deporte": "FUTBOL",
     "cupo": 9,
-    "creado": "2026-10-26T19:14:06.171Z"
+    "creado": "2026-10-26T19:14:06.171Z",
+    "pendientesHumanos": 0,
+    "anotados": 0
   }
 }
