@@ -40,3 +40,4 @@
 - 2026-10-17 08:12 · leyó notificaciones; entró y no hizo nada más
 - 2026-10-21 12:12 · quiso unirse al fútbol de Lois pero está suspendido hasta el 24/10; leyó notificaciones
 - 2026-10-23 12:12 · quiso anotarse al fútbol del lunes en Club Pilar pero sigue suspendido hasta el 24/10
+- 2026-10-26 20:13 · miró la app y leyó notificaciones, sin novedades

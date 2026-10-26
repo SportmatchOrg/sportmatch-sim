@@ -4,3 +4,4 @@
 - 2026-10-24 16:12 · aceptó a James Bond en su básquet del lunes en Del Viso
 - 2026-10-25 00:11 · miró la app; no encontró partido de su nivel para anotarse
 - 2026-10-26 08:12 · miró la app, sin novedades
+- 2026-10-26 20:13 · calificó a James Bond (5) y armó un básquet BEGINNER para el mié 28/10 20:00 en Del Viso

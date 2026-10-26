@@ -19,3 +19,4 @@
 - 2026-10-26 04:12 · miró la app y leyó notificaciones; nada para calificar
 - 2026-10-26 08:12 · aceptó a Davy en su running del sábado; no encontró nada de pádel o running para unirse
 - 2026-10-26 12:11 · miró la app; no había a quién calificar
+- 2026-10-26 20:11 · miró la app; el partido por calificar no tenía a nadie, no hizo nada más

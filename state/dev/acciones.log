@@ -1533,3 +1533,28 @@
 2026-10-26T19:12:24.486Z peter.parker crear cmvpmvmr0002s01o5bu12ds5n FUTBOL 2026-10-27T23:30:00.000Z
 2026-10-26T19:12:27.246Z peter.parker unirse cmvookkxd004r01l38t00jizs
 2026-10-26T19:12:29.510Z neo unirse cmvltpjif007u01sa50r4xwlg
+2026-10-26T23:10:39.111Z diana.prince baja-tarde cmvjfyt4q00rm01lhaz74wqdy
+2026-10-26T23:10:40.071Z padme.amidala baja-tarde cmvjfyt4q00rm01lhaz74wqdy
+2026-10-26T23:10:42.405Z sorteo cmvk5nu4b00zw01lhis8bb9nc faltaron=[] calificaran=[]
+2026-10-26T23:10:44.755Z sorteo cmvkve41k00dj01o9lysl6295 faltaron=[] calificaran=[elrond,burro]
+2026-10-26T23:10:47.099Z sorteo cmvlck8x400l601o9b73x56r4 faltaron=[] calificaran=[fiona,james.bond]
+2026-10-26T23:11:28.879Z elrond calificar cmvkve41k00dj01o9lysl6295 ratings=1 noShows=0
+2026-10-26T23:11:37.385Z george.weasley leer-notificaciones 3
+2026-10-26T23:12:05.359Z george.weasley aceptar cmvmryi3400jo01sa7766jmib mike.wazowski
+2026-10-26T23:12:12.933Z george.weasley unirse cmvnhodh500tk01safkbh3kyy
+2026-10-26T23:12:15.546Z james.bond leer-notificaciones 2
+2026-10-26T23:12:24.014Z james.bond calificar cmvlck8x400l601o9b73x56r4 ratings=1 noShows=0
+2026-10-26T23:12:26.194Z james.bond unirse cmvoojtfn004001l31qi2bmlu
+2026-10-26T23:12:28.525Z finn leer-notificaciones 1
+2026-10-26T23:12:36.472Z finn aceptar cmvook0ep004501l3afbbk8ww legolas
+2026-10-26T23:12:44.812Z burro calificar cmvkve41k00dj01o9lysl6295 ratings=1 noShows=0
+2026-10-26T23:12:47.047Z burro crear cmvpvgr9x003801o0nacshlo9 FUTBOL 2026-10-30T23:00:00.000Z
+2026-10-26T23:12:51.095Z ned.flanders leer-notificaciones 5
+2026-10-26T23:12:58.964Z ned.flanders aceptar cmvltpjif007u01sa50r4xwlg luke.skywalker
+2026-10-26T23:13:01.085Z ned.flanders aceptar cmvltpjif007u01sa50r4xwlg neo
+2026-10-26T23:13:03.312Z ned.flanders aceptar cmvookkxd004r01l38t00jizs burro
+2026-10-26T23:13:06.124Z fiona leer-notificaciones 1
+2026-10-26T23:13:13.612Z fiona calificar cmvlck8x400l601o9b73x56r4 ratings=1 noShows=0
+2026-10-26T23:13:15.698Z fiona crear cmvpvhde6003x01o01f65ivy9 BASQUET 2026-10-28T23:00:00.000Z
+2026-10-26T23:13:30.785Z jaime.lannister unirse cmvnyursm002s01mrbl8o2lvq
+2026-10-26T23:13:33.051Z mike.wazowski leer-notificaciones 3

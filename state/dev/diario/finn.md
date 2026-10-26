@@ -24,3 +24,4 @@
 - 2026-10-26 08:12 · miró partidos, nadie para calificar; no se anotó a nada
 - 2026-10-26 12:11 · miró la app; no había a quién calificar
 - 2026-10-26 16:11 · miró la app; nadie para calificar, nada más por hoy
+- 2026-10-26 20:12 · aceptó a Legolas en su fútbol ADVANCED del domingo; nadie para calificar

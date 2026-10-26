@@ -5,3 +5,4 @@
 - 2026-10-25 04:12 · armó un tenis dobles BEGINNER para el mié 28/10 19:30 en River Courts (vuelve de a poco)
 - 2026-10-26 00:11 · aceptó a Sam en su tenis y se unió al tenis de hoy en River Courts (de a poco vuelve)
 - 2026-10-26 16:11 · aceptó a Nala en su tenis y se unió al fútbol del jueves en River Courts
+- 2026-10-26 20:12 · calificó a Elrond (5) y armó un fútbol para el vie 30/10 20:00 en River Courts (vuelve de a poco)
