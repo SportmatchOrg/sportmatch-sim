@@ -4396,7 +4396,9 @@
       "krusty",
       "phoebe.buffay"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "mike.wazowski"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -4408,7 +4410,7 @@
     "cupo": 9,
     "creado": "2026-10-22T23:14:58.448Z",
     "pendientesHumanos": 0,
-    "anotados": 6
+    "anotados": 7
   },
   "cmvk5tc3g06ok01mhcrj3hby0": {
     "jugadores": [
@@ -4467,9 +4469,9 @@
       "groot": true
     },
     "calificaran": [
-      "nelson.muntz",
       "james.bond",
-      "groot"
+      "groot",
+      "nelson.muntz"
     ],
     "calificaron": [
       "james.bond",
@@ -4497,7 +4499,9 @@
       "jon.snow",
       "phoebe.buffay"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "pippin.tuk"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -4515,7 +4519,9 @@
     "jugadores": [
       "obiwan.kenobi"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "elrond"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -4546,7 +4552,7 @@
     "cupo": 3,
     "creado": "2026-10-23T23:16:23.359Z",
     "pendientesHumanos": 0,
-    "anotados": 0
+    "anotados": 2
   },
   "cmvltteqs008701ryc08kb1km": {
     "jugadores": [
@@ -4626,7 +4632,7 @@
     "cupo": 3,
     "creado": "2026-10-24T15:14:45.480Z",
     "pendientesHumanos": 0,
-    "anotados": 1
+    "anotados": 2
   },
   "cmvmjjvmt00ik01ry35byhq1e": {
     "jugadores": [],
@@ -4707,7 +4713,7 @@
     "cupo": 3,
     "creado": "2026-10-25T11:13:43.126Z",
     "pendientesHumanos": 0,
-    "anotados": 1
+    "anotados": 2
   },
   "cmvnyxbzc00xo01ryt22ycz5t": {
     "jugadores": [],
@@ -4796,11 +4802,10 @@
   },
   "cmvo7i9n9013m01ry3eybscgm": {
     "jugadores": [
-      "burro"
-    ],
-    "pendientes": [
+      "burro",
       "boromir"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -4831,7 +4836,7 @@
     "cupo": 5,
     "creado": "2026-10-25T23:13:58.300Z",
     "pendientesHumanos": 0,
-    "anotados": 0
+    "anotados": 2
   },
   "cmvoony95019a01ry9xx4z9on": {
     "jugadores": [],
