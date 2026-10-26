@@ -14,3 +14,4 @@
 - 2026-10-24 16:14 · aceptó a George Weasley en su fútbol
 - 2026-10-25 04:13 · aceptó a Jon Snow y a Phoebe en su fútbol (le gusta conocer gente)
 - 2026-10-26 12:13 · aceptó a Pippin Tuk y armó un fútbol INTERMEDIATE el viernes 30 a las 21 en Polideportivo Del Viso
+- 2026-10-26 16:14 · entró a leer novedades; solo miró

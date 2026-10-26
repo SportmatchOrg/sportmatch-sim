@@ -10,3 +10,4 @@
 - 2026-10-24 00:15 · pidió unirse al básquet de Del Viso (no calificó)
 - 2026-10-24 04:14 · calificó el básquet (5 y 4); nada más
 - 2026-10-24 08:14 · calificó el básquet (4 y 5) sin comentarios
+- 2026-10-26 16:14 · leyó que lo aceptaron en el básquet; no se anotó a más

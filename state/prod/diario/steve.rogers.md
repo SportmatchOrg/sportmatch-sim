@@ -102,3 +102,4 @@
 - 2026-10-23 08:14 · entró, leyó notificaciones y solo miró
 - 2026-10-24 20:13 · aceptó a Hermione y canceló su fútbol porque no se llenó
 - 2026-10-25 12:14 · calificó el fútbol (4 y 5); después solo miró
+- 2026-10-26 16:14 · armó un fútbol ADVANCED el jueves 29 a las 20:30 en Club Pilar

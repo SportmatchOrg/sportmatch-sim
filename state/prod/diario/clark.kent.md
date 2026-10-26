@@ -14,3 +14,4 @@
 - 2026-10-22 00:16 · calificó dos fútbol y pidió unirse al fútbol del viernes 23 de Lois en Del Viso (tardes libres)
 - 2026-10-23 00:16 · calificó el básquet (5, 4 y 5); solo miró lo demás
 - 2026-10-24 00:15 · calificó el fútbol y miró partidos
+- 2026-10-26 16:14 · pidió unirse al fútbol del viernes 30 en Club Pilar de Lois (tarde libre)
