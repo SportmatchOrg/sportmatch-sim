@@ -10,3 +10,4 @@
 - 2026-10-21 04:12 · miró pádel; nada nuevo en CABA que le sirva, sigue esperando el del miércoles
 - 2026-10-21 20:12 · calificó el pádel (4 y 5); no encontró nada nuevo en CABA
 - 2026-10-22 20:12 · miró pádel; nada en CABA, no se anotó
+- 2026-10-26 00:12 · se unió al pádel BEGINNER del miércoles en Club Belgrano (le queda cómodo)

@@ -3,3 +3,4 @@
 - 2026-10-07 21:50 · calificó el futbol del mié 07/10 21:00
 - 2026-10-14 08:12 · entró temprano, miró y no hizo nada
 - 2026-10-15 08:12 · miró partidos, nada temprano que le sirva
+- 2026-10-26 00:12 · miró partidos de fútbol, nada antes de las 9; no se anotó

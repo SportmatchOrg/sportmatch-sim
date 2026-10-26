@@ -1,3 +1,4 @@
 - 2026-10-20 00:11 · primera vuelta: miró partidos de fútbol, sin anotarse
 - 2026-10-21 08:11 · se unió al fútbol del jueves en Club Pilar (competitivo, le queda cerca)
 - 2026-10-22 08:12 · miró la app; nada por ahora
+- 2026-10-26 00:12 · se unió al fútbol ADVANCED del sábado en Club Pilar (competitivo, quiere ganar)

@@ -19,3 +19,4 @@
 - 2026-10-25 12:12 · armó un fútbol ADVANCED para el sáb 31/10 10:00 en Club Pilar
 - 2026-10-25 16:11 · miró la app, nadie para calificar; sin novedades
 - 2026-10-25 20:11 · aceptó a Phoebe en su fútbol; no había a quién calificar
+- 2026-10-26 00:11 · armó un fútbol ADVANCED para el dom 1/11 10:00 en Del Viso; no había a quién calificar

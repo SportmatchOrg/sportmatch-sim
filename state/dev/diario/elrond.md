@@ -82,3 +82,4 @@
 - 2026-10-24 12:11 · aceptó a Leia Organa en su partido (corrige la línea anterior, que no se aplicó hasta ahora)
 - 2026-10-24 20:11 · calificó el fútbol (5 y 4); no encontró nada en su zona para unirse
 - 2026-10-25 16:11 · miró la app y leyó notificaciones, sin novedades
+- 2026-10-26 00:12 · leyó notificaciones (un pedido de Burro y un recordatorio); no hizo nada más
