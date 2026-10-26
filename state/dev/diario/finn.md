@@ -21,3 +21,4 @@
 - 2026-10-25 20:11 · aceptó a Phoebe en su fútbol; no había a quién calificar
 - 2026-10-26 00:11 · armó un fútbol ADVANCED para el dom 1/11 10:00 en Del Viso; no había a quién calificar
 - 2026-10-26 04:12 · aceptó a Neville en su fútbol ADVANCED; nada para calificar
+- 2026-10-26 08:12 · miró partidos, nadie para calificar; no se anotó a nada

@@ -6,3 +6,4 @@
 - 2026-10-21 20:12 · pidió unirse al pádel del viernes de Mace en Tigre Pádel Club (le gusta conocer gente)
 - 2026-10-22 08:12 · calificó el pádel y se anotó al pádel principiante del sábado en Pádel Point (le gusta conocer gente)
 - 2026-10-24 16:11 · calificó el pádel (5 y 4); leyó que lo aceptaron, nada más por hoy
+- 2026-10-26 08:12 · miró la app; no hay pádel en su zona, nada por hoy

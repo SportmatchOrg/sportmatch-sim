@@ -5,3 +5,4 @@
 - 2026-10-21 04:12 · miró la app y leyó notificaciones; hoy no se anotó a nada
 - 2026-10-23 08:12 · entró a mirar, no hizo nada
 - 2026-10-26 04:12 · miró la app y leyó notificaciones, sin novedades
+- 2026-10-26 08:12 · miró partidos, nada que le cierre en CABA

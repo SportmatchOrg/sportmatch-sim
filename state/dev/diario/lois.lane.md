@@ -54,3 +54,4 @@
 - 2026-10-24 12:12 · calificó el fútbol (5, 4 y 4) y armó un fútbol para el mar 27/10 20:00 en Club Pilar
 - 2026-10-24 20:12 · aceptó a Phoebe en su fútbol del martes
 - 2026-10-25 12:12 · aceptó a Saul en su fútbol del martes
+- 2026-10-26 08:12 · aceptó a Neville en su fútbol del martes

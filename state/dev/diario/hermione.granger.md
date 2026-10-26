@@ -49,3 +49,4 @@
 - 2026-10-25 04:11 · aceptó a Slinky y armó un fútbol para el sáb 31/10 10:00 en Club Pilar
 - 2026-10-25 12:11 · calificó el tenis (4 a Slinky) y aceptó a Wall-E en su fútbol del sábado
 - 2026-10-25 20:11 · aceptó a Nemo en su partido; hoy no hizo más
+- 2026-10-26 08:12 · aceptó a Phoebe en su fútbol y armó un tenis dobles para el dom 1/11 9:00 en Club Pilar

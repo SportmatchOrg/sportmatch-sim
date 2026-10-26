@@ -19,3 +19,4 @@
 - 2026-10-23 00:13 · calificó dos partidos y pidió unirse al fútbol del lunes de Dory en Club Pilar (le gusta conocer gente)
 - 2026-10-23 20:13 · calificó el fútbol (4, 5 y 4) y pidió unirse al fútbol del martes de Steve en Club Pilar
 - 2026-10-24 16:11 · calificó el fútbol (5, 4 y 4) y armó un fútbol para el martes en Club Pilar
+- 2026-10-26 08:12 · pidió unirse al fútbol del jueves de Elrond en Nordelta
