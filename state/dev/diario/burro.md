@@ -4,3 +4,4 @@
 - 2026-10-24 16:12 · calificó el tenis (5); nada más por hoy
 - 2026-10-25 04:12 · armó un tenis dobles BEGINNER para el mié 28/10 19:30 en River Courts (vuelve de a poco)
 - 2026-10-26 00:11 · aceptó a Sam en su tenis y se unió al tenis de hoy en River Courts (de a poco vuelve)
+- 2026-10-26 16:11 · aceptó a Nala en su tenis y se unió al fútbol del jueves en River Courts

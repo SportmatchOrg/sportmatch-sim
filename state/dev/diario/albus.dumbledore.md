@@ -32,3 +32,4 @@
 - 2026-10-23 08:12 · aceptó a Boromir en su tenis del viernes; nada más
 - 2026-10-23 12:12 · miró la app, nada nuevo
 - 2026-10-25 08:12 · miró la app, ya tiene su dobles armado; nada más
+- 2026-10-26 16:12 · armó un fútbol para el jue 29/10 20:30 en Nordelta (para conocer gente)

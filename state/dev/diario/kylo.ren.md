@@ -1,1 +1,2 @@
 - 2026-10-25 08:12 · primera vez: se unió al pádel del domingo en Pádel Point Pilar (sociable)
+- 2026-10-26 16:12 · miró la app y leyó notificaciones; nada por hoy

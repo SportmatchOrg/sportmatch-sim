@@ -1,2 +1,3 @@
 - 2026-10-21 08:12 · pidió unirse al fútbol BEGINNER del jueves en River Courts (primera vez, entusiasmado)
 - 2026-10-22 08:12 · miró la app, todavía se está ubicando
+- 2026-10-26 16:12 · pidió unirse al fútbol del domingo en Del Viso (entusiasmado, sin fijarse mucho en el nivel)

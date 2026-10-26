@@ -4,3 +4,4 @@
 - 2026-10-24 16:12 · pidió unirse al fútbol del martes de Dory en Club Pilar (para despejarse)
 - 2026-10-25 04:11 · se anotó al pádel del martes a la mañana en Pádel Point Pilar (para despejarse)
 - 2026-10-25 20:11 · entró a mirar la app, nada por hacer
+- 2026-10-26 16:12 · pidió unirse al fútbol del martes de George en Club Pilar (para despejarse)

@@ -31,3 +31,4 @@
 - 2026-10-25 00:11 · armó un básquet INTERMEDIATE para el vie 30/10 20:30 en Campus Austral
 - 2026-10-25 08:11 · aceptó a Marty y a Luke en su básquet
 - 2026-10-26 08:12 · aceptó a Timón en su básquet y armó un fútbol para el mié 28/10 21:00 en Nordelta
+- 2026-10-26 16:11 · aceptó a Groot en su básquet
