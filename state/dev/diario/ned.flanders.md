@@ -7,3 +7,4 @@
 - 2026-10-24 04:11 · miró la app, sin novedades
 - 2026-10-25 20:11 · miró la app, sin novedades
 - 2026-10-26 00:12 · aceptó a Joker en su básquet y armó un fútbol para el jue 29/10 20:30 en River Courts
+- 2026-10-26 04:12 · aceptó a Gimli en su fútbol; no encontró nada en caba para unirse

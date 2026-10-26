@@ -4468,10 +4468,10 @@
     "anotados": 6
   },
   "cmvkve41k00dj01o9lysl6295": {
-    "jugadores": [],
-    "pendientes": [
+    "jugadores": [
       "burro"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -4527,11 +4527,11 @@
     "cancelar": false
   },
   "cmvltox1v007b01saevgxyp5z": {
-    "jugadores": [],
-    "pendientes": [
+    "jugadores": [
       "bruce.wayne",
       "dobby"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -4579,7 +4579,7 @@
     "cupo": 5,
     "creado": "2026-10-24T03:12:32.945Z",
     "pendientesHumanos": 0,
-    "anotados": 0
+    "anotados": 1
   },
   "cmvmau2bm00dg01sal575wtsu": {
     "jugadores": [
@@ -4629,7 +4629,9 @@
       "phoebe.buffay",
       "saul.goodman"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "neville.longbottom"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -4680,7 +4682,9 @@
       "marty.mcfly",
       "luke.skywalker"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "timon"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -4699,7 +4703,9 @@
       "walle",
       "nemo"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "phoebe.buffay"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -4745,11 +4751,13 @@
     "cupo": 3,
     "creado": "2026-10-25T07:12:13.275Z",
     "pendientesHumanos": 0,
-    "anotados": 0
+    "anotados": 1
   },
   "cmvnyursm002s01mrbl8o2lvq": {
     "jugadores": [],
-    "pendientes": [],
+    "pendientes": [
+      "davy.jones"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -4765,11 +4773,10 @@
   },
   "cmvnyv94w003e01mrukhv35lm": {
     "jugadores": [
-      "phoebe.buffay"
-    ],
-    "pendientes": [
+      "phoebe.buffay",
       "neville.longbottom"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -4795,7 +4802,9 @@
     "fecha": "2026-11-01T12:00:00.000Z",
     "deporte": "PADEL",
     "cupo": 3,
-    "creado": "2026-10-26T03:11:26.315Z"
+    "creado": "2026-10-26T03:11:26.315Z",
+    "pendientesHumanos": 0,
+    "anotados": 0
   },
   "cmvook0ep004501l3afbbk8ww": {
     "jugadores": [],
@@ -4809,13 +4818,15 @@
     "fecha": "2026-11-01T13:00:00.000Z",
     "deporte": "FUTBOL",
     "cupo": 9,
-    "creado": "2026-10-26T03:11:35.351Z"
+    "creado": "2026-10-26T03:11:35.351Z",
+    "pendientesHumanos": 0,
+    "anotados": 0
   },
   "cmvookkxd004r01l38t00jizs": {
-    "jugadores": [],
-    "pendientes": [
+    "jugadores": [
       "gimli"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -4825,6 +4836,22 @@
     "fecha": "2026-10-29T23:30:00.000Z",
     "deporte": "FUTBOL",
     "cupo": 9,
-    "creado": "2026-10-26T03:12:02.003Z"
+    "creado": "2026-10-26T03:12:02.003Z",
+    "pendientesHumanos": 0,
+    "anotados": 0
+  },
+  "cmvox4509007001l35t2ma7dr": {
+    "jugadores": [],
+    "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "elrond",
+    "fecha": "2026-10-29T23:30:00.000Z",
+    "deporte": "FUTBOL",
+    "cupo": 9,
+    "creado": "2026-10-26T07:11:11.353Z"
   }
 }

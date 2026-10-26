@@ -16,3 +16,4 @@
 - 2026-10-17 12:13 · calificó el básquet (entusiasta, todo 4–5); nada más
 - 2026-10-18 12:12 · calificó el running, todos bien
 - 2026-10-19 00:12 · miró la app y leyó notificaciones, sin novedades
+- 2026-10-26 04:12 · pidió unirse al running del sábado en Parque Pilar

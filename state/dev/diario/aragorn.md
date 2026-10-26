@@ -4,3 +4,4 @@
 - 2026-10-23 12:12 · pidió unirse al básquet del miércoles de Phoebe en Campus Austral (entusiasmado)
 - 2026-10-24 16:12 · calificó el pádel (5 y 4) y pidió unirse al pádel del martes a la mañana en Pádel Point Pilar
 - 2026-10-24 16:12 · corrección: recién ahí calificó el pádel (5 y 4)
+- 2026-10-26 04:12 · miró la app y leyó notificaciones, sin hacer nada

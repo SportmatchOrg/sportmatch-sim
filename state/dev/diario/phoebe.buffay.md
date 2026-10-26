@@ -20,3 +20,4 @@
 - 2026-10-24 20:12 · aceptó a Luke en su básquet; el fútbol del lunes ya lo tenía anotado
 - 2026-10-25 16:11 · aceptó a Éowyn en su básquet y pidió unirse al fútbol ADVANCED del sábado de Finn (competitiva)
 - 2026-10-25 16:11 · (corrección) aceptó a Éowyn en su básquet
+- 2026-10-26 04:12 · pidió unirse al fútbol del sábado en Club Pilar
