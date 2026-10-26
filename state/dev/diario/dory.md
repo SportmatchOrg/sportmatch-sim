@@ -14,3 +14,4 @@
 - 2026-10-24 20:12 · aceptó a Mike en su fútbol del martes
 - 2026-10-25 04:11 · miró la app y leyó notificaciones; nada más por hoy
 - 2026-10-26 08:12 · miró la app y leyó notificaciones; nada por hacer
+- 2026-10-26 12:11 · aceptó a Neville en su fútbol

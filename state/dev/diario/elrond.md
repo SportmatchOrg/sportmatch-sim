@@ -84,3 +84,4 @@
 - 2026-10-25 16:11 · miró la app y leyó notificaciones, sin novedades
 - 2026-10-26 00:12 · leyó notificaciones (un pedido de Burro y un recordatorio); no hizo nada más
 - 2026-10-26 04:12 · aceptó a Burro en su tenis y armó un fútbol 5 el jue 29/10 20:30 en Nordelta (para despejarse)
+- 2026-10-26 12:11 · aceptó a George Weasley en su partido
