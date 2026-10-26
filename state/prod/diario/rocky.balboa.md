@@ -1,1 +1,2 @@
 - 2026-10-25 08:14 · primera vez en la app: pidió unirse al básquet del domingo a la noche (quiere conocer gente)
+- 2026-10-26 00:15 · miró básquet pero nada le quedaba en CABA; no se anotó

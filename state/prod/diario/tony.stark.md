@@ -54,3 +54,4 @@
 - 2026-10-25 12:15 · calificó el pádel (4 y 5) y aceptó a Indiana en el del sábado 31
 - 2026-10-25 16:13 · revisó el pádel pendiente: nadie para calificar; solo miró
 - 2026-10-25 20:13 · entró y solo miró; nada para calificar
+- 2026-10-26 00:14 · armó pádel el sábado temprano en Tigre Pádel Club; el partido pendiente no tenía a quién calificar

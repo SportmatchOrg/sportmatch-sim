@@ -2,3 +2,4 @@
 - 2026-10-18 08:14 · vio que Chewbacca lo aceptó en el pádel del miércoles; solo miró
 - 2026-10-19 16:12 · pidió unirse al pádel del jueves 22 a la mañana en Pádel Point Pilar (le queda cerca)
 - 2026-10-21 08:15 · miró partidos; el pádel de Pilar es todo ADVANCED, no se anotó
+- 2026-10-26 00:15 · se anotó al pádel del sábado en Tigre Pádel Club (conoce gente nueva)

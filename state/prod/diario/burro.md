@@ -13,3 +13,4 @@
 - 2026-10-25 12:16 · revisó el partido pendiente: nadie para calificar; solo miró
 - 2026-10-25 16:13 · revisó el partido pendiente: nadie para calificar; solo miró
 - 2026-10-25 20:13 · se anotó al tenis del jueves 29 en Tigre (vuelve de a poco)
+- 2026-10-26 00:15 · revisó el partido pendiente: nadie para calificar; solo miró

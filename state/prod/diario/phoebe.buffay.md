@@ -3,3 +3,4 @@
 - 2026-10-24 00:15 · calificó y pidió unirse al fútbol del domingo en Club Pilar
 - 2026-10-25 00:13 · pidió unirse al fútbol del lunes de Dory en Club Pilar (se anota a todo)
 - 2026-10-25 12:16 · calificó el fútbol (5 y 4); ya está anotada al del lunes de Dory
+- 2026-10-26 00:14 · se unió al fútbol del martes en Club Pilar y al básquet del jueves en Del Viso (competitiva, va por todo)
