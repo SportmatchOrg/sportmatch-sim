@@ -3612,8 +3612,8 @@
       "arya.stark": true
     },
     "calificaran": [
-      "faramir",
-      "eowyn"
+      "eowyn",
+      "faramir"
     ],
     "calificaron": [
       "eowyn",
@@ -3652,10 +3652,10 @@
     },
     "calificaran": [
       "hermione.granger",
+      "lois.lane",
       "barney.gumble",
       "george.weasley",
-      "finn",
-      "lois.lane"
+      "finn"
     ],
     "calificaron": [
       "hermione.granger",
@@ -4189,9 +4189,7 @@
     "asistencia": {
       "elrond": true
     },
-    "calificaran": [
-      "elrond"
-    ],
+    "calificaran": [],
     "calificaron": [],
     "cancelado": false,
     "organizador": "elrond",
@@ -4394,11 +4392,10 @@
       "fred.weasley",
       "george.weasley",
       "krusty",
-      "phoebe.buffay"
-    ],
-    "pendientes": [
+      "phoebe.buffay",
       "mike.wazowski"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -4497,11 +4494,10 @@
       "lois.lane",
       "george.weasley",
       "jon.snow",
-      "phoebe.buffay"
-    ],
-    "pendientes": [
+      "phoebe.buffay",
       "pippin.tuk"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -4517,11 +4513,10 @@
   },
   "cmvkvhmyn06z501mhbizkvlcp": {
     "jugadores": [
-      "obiwan.kenobi"
-    ],
-    "pendientes": [
+      "obiwan.kenobi",
       "elrond"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -4817,7 +4812,7 @@
     "cupo": 3,
     "creado": "2026-10-25T19:14:20.565Z",
     "pendientesHumanos": 0,
-    "anotados": 1
+    "anotados": 2
   },
   "cmvog2flr016m01ry84s71fbg": {
     "jugadores": [
@@ -4869,5 +4864,33 @@
     "creado": "2026-10-26T03:14:41.731Z",
     "pendientesHumanos": 0,
     "anotados": 0
+  },
+  "cmvpecpxe01hs01ryym5g52es": {
+    "jugadores": [],
+    "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "dory",
+    "fecha": "2026-10-31T00:00:00.000Z",
+    "deporte": "FUTBOL",
+    "cupo": 9,
+    "creado": "2026-10-26T15:13:45.171Z"
+  },
+  "cmvped4rm01hz01ry0ud2strb": {
+    "jugadores": [],
+    "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "galadriel",
+    "fecha": "2026-10-28T23:00:00.000Z",
+    "deporte": "BASQUET",
+    "cupo": 5,
+    "creado": "2026-10-26T15:14:04.417Z"
   }
 }

@@ -1,0 +1,1 @@
+- 2026-10-26 12:14 · entró y solo miró; nada a la altura de su nivel

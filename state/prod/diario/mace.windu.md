@@ -69,3 +69,4 @@
 - 2026-10-24 04:13 · armó un pádel para el jueves 29 a las 20 en Tigre Pádel Club y aceptó a Obi-Wan Kenobi
 - 2026-10-24 16:14 · aceptó a Éowyn y a Saruman en su partido
 - 2026-10-24 16:14 · (corrige: recién ahí) aceptó a Éowyn y a Saruman en su partido
+- 2026-10-26 12:13 · aceptó a Elrond en su partido
