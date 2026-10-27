@@ -2,3 +2,4 @@
 - 2026-10-13 00:13 · entró a mirar fútbol; nada le cerró de zona y nivel, no se anotó
 - 2026-10-14 16:14 · entró a mirar, nada le cerró; no se anotó
 - 2026-10-17 04:14 · miró fútbol en CABA; nada a su altura, no se anotó
+- 2026-10-27 04:14 · miró fútbol en CABA; nada que le cierre, no se anotó

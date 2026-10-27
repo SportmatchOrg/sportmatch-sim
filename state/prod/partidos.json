@@ -4760,17 +4760,16 @@
     "cupo": 9,
     "creado": "2026-10-25T15:14:06.837Z",
     "pendientesHumanos": 0,
-    "anotados": 0
+    "anotados": 1
   },
   "cmvnyywe700zg01rylmgyo05e": {
     "jugadores": [
       "pippin.tuk",
       "clark.kent",
-      "neville.longbottom"
-    ],
-    "pendientes": [
+      "neville.longbottom",
       "phoebe.buffay"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -4782,7 +4781,7 @@
     "cupo": 9,
     "creado": "2026-10-25T15:15:19.945Z",
     "pendientesHumanos": 0,
-    "anotados": 2
+    "anotados": 3
   },
   "cmvnyzjn5010401ryz3hjhd6k": {
     "jugadores": [],
@@ -4802,7 +4801,9 @@
   },
   "cmvo7hg3l012w01ryvuai04d0": {
     "jugadores": [],
-    "pendientes": [],
+    "pendientes": [
+      "bellatrix.lestrange"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -4872,7 +4873,7 @@
     "cupo": 5,
     "creado": "2026-10-25T23:13:58.300Z",
     "pendientesHumanos": 0,
-    "anotados": 2
+    "anotados": 3
   },
   "cmvoony95019a01ry9xx4z9on": {
     "jugadores": [],
@@ -4942,7 +4943,9 @@
   },
   "cmvpmxt5r01jr01rygbzv1iqk": {
     "jugadores": [],
-    "pendientes": [],
+    "pendientes": [
+      "phoebe.buffay"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -4958,7 +4961,11 @@
   },
   "cmvq44moo01rc01ryjdtjwoks": {
     "jugadores": [],
-    "pendientes": [],
+    "pendientes": [
+      "lois.lane",
+      "george.weasley",
+      "clark.kent"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -4968,6 +4975,36 @@
     "fecha": "2026-10-31T23:00:00.000Z",
     "deporte": "FUTBOL",
     "cupo": 9,
-    "creado": "2026-10-27T03:15:17.732Z"
+    "creado": "2026-10-27T03:15:17.732Z",
+    "pendientesHumanos": 0,
+    "anotados": 0
+  },
+  "cmvqcnwk501ue01ryxjzpzlmn": {
+    "jugadores": [],
+    "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "hector.barbossa",
+    "fecha": "2026-10-30T23:00:00.000Z",
+    "deporte": "RUNNING",
+    "cupo": 5,
+    "creado": "2026-10-27T07:14:13.952Z"
+  },
+  "cmvqcoatm01uu01rykqf58uga": {
+    "jugadores": [],
+    "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "bellatrix.lestrange",
+    "fecha": "2026-10-31T21:00:00.000Z",
+    "deporte": "FUTBOL",
+    "cupo": 9,
+    "creado": "2026-10-27T07:14:32.422Z"
   }
 }

@@ -25,3 +25,4 @@
 - 2026-10-23 12:14 · entró y solo miró
 - 2026-10-24 16:14 · armó un fútbol ADVANCED el miércoles 28 a las 21:00 en Campus Austral (juega de noche, después del trabajo)
 - 2026-10-25 20:13 · aceptó a Barney en su fútbol ADVANCED y pidió unirse al fútbol ADVANCED del lunes 26 en Club Pilar (de noche)
+- 2026-10-27 04:14 · armó un running ADVANCED el viernes 30 a las 20:00 en Parque Pilar (después del trabajo)

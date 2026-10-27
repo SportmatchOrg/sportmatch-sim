@@ -89,3 +89,4 @@
 - 2026-10-24 00:15 · calificó a Dory y pidió unirse al pádel del martes en Palermo
 - 2026-10-26 16:14 · pidió unirse al fútbol del lunes en River Courts de Peter Parker
 - 2026-10-27 00:14 · calificó el fútbol (5 y 4); solo miró
+- 2026-10-27 04:14 · armó un fútbol el sábado 31 a las 18 en River Courts y pidió unirse al de Albus del viernes en Nordelta

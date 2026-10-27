@@ -25,3 +25,4 @@
 - 2026-10-20 12:15 · pidió unirse al básquet de Neo del viernes en Campus Austral
 - 2026-10-25 04:14 · entró a mirar; nada antes de las 9, no se anotó
 - 2026-10-26 00:15 · se anotó al básquet del jueves a la mañana en Del Viso
+- 2026-10-27 04:14 · miró; ya tiene el básquet del jueves a la mañana, no se anotó a más
