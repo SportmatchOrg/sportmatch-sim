@@ -21,3 +21,4 @@
 - 2026-10-25 16:11 · aceptó a Éowyn en su básquet y pidió unirse al fútbol ADVANCED del sábado de Finn (competitiva)
 - 2026-10-25 16:11 · (corrección) aceptó a Éowyn en su básquet
 - 2026-10-26 04:12 · pidió unirse al fútbol del sábado en Club Pilar
+- 2026-10-27 00:12 · calificó el fútbol (4, 5 y 4) y se anotó al básquet del viernes en Campus Austral

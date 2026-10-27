@@ -25,3 +25,4 @@
 - 2026-10-26 12:11 · miró la app; no había a quién calificar
 - 2026-10-26 16:11 · miró la app; nadie para calificar, nada más por hoy
 - 2026-10-26 20:12 · aceptó a Legolas en su fútbol ADVANCED del domingo; nadie para calificar
+- 2026-10-27 00:12 · miró la app, nada para calificar ni aceptar

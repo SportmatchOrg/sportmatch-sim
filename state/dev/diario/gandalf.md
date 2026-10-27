@@ -1,0 +1,1 @@
+- 2026-10-27 00:13 · volvió a entrar, miró la app y leyó notificaciones
