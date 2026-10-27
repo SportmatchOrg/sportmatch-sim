@@ -1,1 +1,2 @@
 - 2026-10-22 08:15 · primera vez: recorrió la app y los fútbol de CABA, sin armar nada todavía
+- 2026-10-27 12:14 · armó un básquet para el jueves 29 a las 20 en Club Belgrano

@@ -71,3 +71,4 @@
 - 2026-10-24 16:14 · (corrige: recién ahí) aceptó a Éowyn y a Saruman en su partido
 - 2026-10-26 12:13 · aceptó a Elrond en su partido
 - 2026-10-27 00:14 · aceptó a Lois Lane y canceló su fútbol porque no se llenaba
+- 2026-10-27 12:14 · armó un fútbol 5 para el viernes 30 a las 20 en Nordelta (a conocer gente)

@@ -61,3 +61,4 @@
 - 2026-10-26 16:13 · entró; el partido pendiente no tiene a quién calificar, solo miró
 - 2026-10-26 20:14 · entró, el pendiente sigue sin nadie para calificar; solo miró
 - 2026-10-27 00:14 · entró; el pendiente no tenía a quién calificar, solo miró
+- 2026-10-27 12:14 · aceptó a Cedric Diggory en su pádel del sábado temprano

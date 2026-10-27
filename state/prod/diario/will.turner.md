@@ -2,3 +2,4 @@
 - 2026-10-07 06:34 · pidió unirse al futbol de Padmé Amidala del lun 12/10 20:00 en Club Pilar · Cancha 2
 - 2026-10-07 21:50 · calificó el futbol del mié 07/10 21:00
 - 2026-10-12 20:14 · calificó el fútbol; no vio nada temprano para anotarse
+- 2026-10-27 12:14 · entró y miró; no vio fútbol temprano para anotarse

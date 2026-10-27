@@ -3715,8 +3715,8 @@
       "phoebe.buffay": true
     },
     "calificaran": [
-      "barney.gumble",
       "steve.rogers",
+      "barney.gumble",
       "phoebe.buffay"
     ],
     "calificaron": [
@@ -4362,11 +4362,11 @@
       "milhouse.van.houten": true
     },
     "calificaran": [
-      "neo",
+      "milhouse.van.houten",
       "davy.jones",
+      "neo",
       "nala",
-      "nelson.muntz",
-      "milhouse.van.houten"
+      "nelson.muntz"
     ],
     "calificaron": [
       "milhouse.van.houten",
@@ -4447,9 +4447,7 @@
     "asistencia": {
       "burro": true
     },
-    "calificaran": [
-      "burro"
-    ],
+    "calificaran": [],
     "calificaron": [],
     "cancelado": false,
     "organizador": "burro",
@@ -4754,10 +4752,11 @@
   },
   "cmvnyxbzc00xo01ryt22ycz5t": {
     "jugadores": [
-      "peter.parker"
+      "peter.parker",
+      "dory"
     ],
     "pendientes": [
-      "dory"
+      "lois.lane"
     ],
     "bajasSorteadas": false,
     "asistencia": null,
@@ -4777,11 +4776,10 @@
       "pippin.tuk",
       "clark.kent",
       "neville.longbottom",
-      "phoebe.buffay"
-    ],
-    "pendientes": [
+      "phoebe.buffay",
       "fred.weasley"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -4827,7 +4825,7 @@
     "cupo": 9,
     "creado": "2026-10-25T19:13:42.235Z",
     "pendientesHumanos": 0,
-    "anotados": 0
+    "anotados": 1
   },
   "cmvo7hmcm013101ry01nmbw2r": {
     "jugadores": [
@@ -4871,11 +4869,10 @@
     "jugadores": [
       "phoebe.buffay",
       "ron.weasley",
-      "groot"
-    ],
-    "pendientes": [
+      "groot",
       "bart.simpson"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -4890,10 +4887,10 @@
     "anotados": 3
   },
   "cmvoony95019a01ry9xx4z9on": {
-    "jugadores": [],
-    "pendientes": [
+    "jugadores": [
       "cedric.diggory"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -4908,9 +4905,11 @@
     "anotados": 0
   },
   "cmvooo06g019d01ryqlzl7o5x": {
-    "jugadores": [],
-    "pendientes": [
+    "jugadores": [
       "cedric.diggory"
+    ],
+    "pendientes": [
+      "anakin.skywalker"
     ],
     "bajasSorteadas": false,
     "asistencia": null,
@@ -4944,10 +4943,10 @@
     "anotados": 1
   },
   "cmvped4rm01hz01ry0ud2strb": {
-    "jugadores": [],
-    "pendientes": [
+    "jugadores": [
       "marty.mcfly"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -4965,7 +4964,9 @@
     "jugadores": [
       "phoebe.buffay"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "john.wick"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -4977,7 +4978,7 @@
     "cupo": 9,
     "creado": "2026-10-26T19:14:06.171Z",
     "pendientesHumanos": 0,
-    "anotados": 0
+    "anotados": 1
   },
   "cmvq44moo01rc01ryjdtjwoks": {
     "jugadores": [
@@ -4997,7 +4998,7 @@
     "cupo": 9,
     "creado": "2026-10-27T03:15:17.732Z",
     "pendientesHumanos": 0,
-    "anotados": 0
+    "anotados": 3
   },
   "cmvqcnwk501ue01ryxjzpzlmn": {
     "jugadores": [],
@@ -5030,5 +5031,33 @@
     "creado": "2026-10-27T07:14:32.422Z",
     "pendientesHumanos": 0,
     "anotados": 0
+  },
+  "cmvqttk3e021l01rykx0mgsak": {
+    "jugadores": [],
+    "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "mace.windu",
+    "fecha": "2026-10-30T23:00:00.000Z",
+    "deporte": "FUTBOL",
+    "cupo": 9,
+    "creado": "2026-10-27T15:14:31.176Z"
+  },
+  "cmvqttno6021s01rytmwetyii": {
+    "jugadores": [],
+    "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "ned.flanders",
+    "fecha": "2026-10-29T23:00:00.000Z",
+    "deporte": "BASQUET",
+    "cupo": 5,
+    "creado": "2026-10-27T15:14:35.818Z"
   }
 }
