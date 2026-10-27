@@ -37,3 +37,4 @@
 - 2026-10-26 20:15 · entró y leyó novedades; nada para calificar, solo miró
 - 2026-10-27 00:15 · entró; nadie para calificar, solo miró
 - 2026-10-27 12:14 · aceptó a Cedric Diggory en su pádel ADVANCED del domingo
+- 2026-10-27 16:14 · aceptó a Anakin en su pádel y pidió unirse al pádel del sábado a la mañana en Tigre

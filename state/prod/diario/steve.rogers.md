@@ -105,3 +105,4 @@
 - 2026-10-26 16:14 · armó un fútbol ADVANCED el jueves 29 a las 20:30 en Club Pilar
 - 2026-10-27 08:14 · aceptó a Phoebe en su fútbol; ya tiene uno armado, no organizó otro
 - 2026-10-27 12:14 · entró y miró; ya tiene su fútbol armado, no organizó otro
+- 2026-10-27 16:14 · aceptó a John Wick en su fútbol ADVANCED; ya tiene uno armado, no organizó otro

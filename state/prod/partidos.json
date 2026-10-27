@@ -4753,11 +4753,10 @@
   "cmvnyxbzc00xo01ryt22ycz5t": {
     "jugadores": [
       "peter.parker",
-      "dory"
-    ],
-    "pendientes": [
+      "dory",
       "lois.lane"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -4769,7 +4768,7 @@
     "cupo": 9,
     "creado": "2026-10-25T15:14:06.837Z",
     "pendientesHumanos": 0,
-    "anotados": 1
+    "anotados": 2
   },
   "cmvnyywe700zg01rylmgyo05e": {
     "jugadores": [
@@ -4791,7 +4790,7 @@
     "cupo": 9,
     "creado": "2026-10-25T15:15:19.945Z",
     "pendientesHumanos": 0,
-    "anotados": 4
+    "anotados": 5
   },
   "cmvnyzjn5010401ryz3hjhd6k": {
     "jugadores": [],
@@ -4832,7 +4831,9 @@
       "eowyn",
       "fred.weasley"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "davy.jones"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -4884,13 +4885,15 @@
     "cupo": 5,
     "creado": "2026-10-25T23:13:58.300Z",
     "pendientesHumanos": 0,
-    "anotados": 3
+    "anotados": 4
   },
   "cmvoony95019a01ry9xx4z9on": {
     "jugadores": [
       "cedric.diggory"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "barney.gumble"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -4902,15 +4905,14 @@
     "cupo": 3,
     "creado": "2026-10-26T03:14:39.177Z",
     "pendientesHumanos": 0,
-    "anotados": 0
+    "anotados": 1
   },
   "cmvooo06g019d01ryqlzl7o5x": {
     "jugadores": [
-      "cedric.diggory"
-    ],
-    "pendientes": [
+      "cedric.diggory",
       "anakin.skywalker"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -4922,7 +4924,7 @@
     "cupo": 3,
     "creado": "2026-10-26T03:14:41.731Z",
     "pendientesHumanos": 0,
-    "anotados": 0
+    "anotados": 1
   },
   "cmvpecpxe01hs01ryym5g52es": {
     "jugadores": [
@@ -4958,15 +4960,14 @@
     "cupo": 5,
     "creado": "2026-10-26T15:14:04.417Z",
     "pendientesHumanos": 0,
-    "anotados": 0
+    "anotados": 1
   },
   "cmvpmxt5r01jr01rygbzv1iqk": {
     "jugadores": [
-      "phoebe.buffay"
-    ],
-    "pendientes": [
+      "phoebe.buffay",
       "john.wick"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -4986,7 +4987,10 @@
       "george.weasley",
       "clark.kent"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "phoebe.buffay",
+      "gandalf"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -5018,7 +5022,9 @@
   },
   "cmvqcoatm01uu01rykqf58uga": {
     "jugadores": [],
-    "pendientes": [],
+    "pendientes": [
+      "bruce.banner"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -5044,11 +5050,16 @@
     "fecha": "2026-10-30T23:00:00.000Z",
     "deporte": "FUTBOL",
     "cupo": 9,
-    "creado": "2026-10-27T15:14:31.176Z"
+    "creado": "2026-10-27T15:14:31.176Z",
+    "pendientesHumanos": 0,
+    "anotados": 0
   },
   "cmvqttno6021s01rytmwetyii": {
     "jugadores": [],
-    "pendientes": [],
+    "pendientes": [
+      "eowyn",
+      "galadriel"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -5058,6 +5069,22 @@
     "fecha": "2026-10-29T23:00:00.000Z",
     "deporte": "BASQUET",
     "cupo": 5,
-    "creado": "2026-10-27T15:14:35.818Z"
+    "creado": "2026-10-27T15:14:35.818Z",
+    "pendientesHumanos": 0,
+    "anotados": 0
+  },
+  "cmvr2ea5h024f01ry8kpwwtux": {
+    "jugadores": [],
+    "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "fiona",
+    "fecha": "2026-10-30T23:00:00.000Z",
+    "deporte": "BASQUET",
+    "cupo": 5,
+    "creado": "2026-10-27T19:14:35.004Z"
   }
 }

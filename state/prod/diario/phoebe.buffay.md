@@ -6,3 +6,4 @@
 - 2026-10-26 00:14 · se unió al fútbol del martes en Club Pilar y al básquet del jueves en Del Viso (competitiva, va por todo)
 - 2026-10-27 00:15 · calificó el fútbol (5, 4 y 4) y pidió unirse al fútbol del viernes de Lois (va por todo)
 - 2026-10-27 04:14 · pidió unirse al fútbol ADVANCED del jueves 29 de Steve en Club Pilar (quiere ganar)
+- 2026-10-27 16:14 · pidió unirse al fútbol del sábado 31 en Club Pilar (va por todo)

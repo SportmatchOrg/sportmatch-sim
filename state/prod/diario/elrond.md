@@ -101,3 +101,4 @@
 - 2026-10-26 08:13 · se anotó al fútbol del martes en Nordelta de Mace; no había nadie para calificar
 - 2026-10-27 00:14 · aceptó a Peter Parker en su partido; no se anotó a nada más
 - 2026-10-27 12:14 · aceptó a Dory en su fútbol del jueves
+- 2026-10-27 16:14 · aceptó a Lois Lane en su fútbol del jueves
