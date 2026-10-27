@@ -19,3 +19,4 @@
 - 2026-10-25 12:16 · calificó el pádel (Saruman 4, Tony 5); solo miró
 - 2026-10-25 20:14 · entró y solo miró
 - 2026-10-26 04:14 · aceptó a Jaime y a Lara en su partido
+- 2026-10-27 08:15 · calificó el tenis (Lara 5, Jaime 4); después solo miró

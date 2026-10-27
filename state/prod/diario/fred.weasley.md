@@ -37,3 +37,4 @@
 - 2026-10-23 08:14 · pidió unirse al fútbol del martes 27 de Lois en Club Pilar (se suma a todo)
 - 2026-10-24 16:14 · entró y solo miró
 - 2026-10-25 20:14 · pidió unirse al running del sábado 31 de Molly en Parque Pilar (se suma a todo)
+- 2026-10-27 08:15 · pidió unirse al fútbol del viernes 30 de Lois en Club Pilar (se suma a todo)

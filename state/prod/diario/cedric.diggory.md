@@ -1,0 +1,1 @@
+- 2026-10-27 08:16 · se anotó al pádel del sábado en Tigre y al del domingo en Pádel Point (primera vez, quiere jugar)
