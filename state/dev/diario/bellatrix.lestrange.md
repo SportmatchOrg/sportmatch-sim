@@ -96,3 +96,4 @@
 - 2026-10-23 20:12 · calificó el fútbol y pidió unirse al pádel del martes de Sam en Club Belgrano (se anota a todo)
 - 2026-10-24 20:12 · calificó el fútbol (5, 4 y 5); nada en CABA para anotarse
 - 2026-10-27 00:13 · miró la app y leyó notificaciones; nada en CABA para anotarse
+- 2026-10-27 20:11 · calificó el fútbol (5) y armó un pádel del jueves en Club Belgrano (se anota a todo)

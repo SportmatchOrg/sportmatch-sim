@@ -52,3 +52,4 @@
 - 2026-10-26 08:12 · aceptó a Phoebe en su fútbol y armó un tenis dobles para el dom 1/11 9:00 en Club Pilar
 - 2026-10-27 00:11 · aceptó a George en su fútbol del sábado; no se anotó a nada
 - 2026-10-27 16:11 · aceptó a Harry Potter en su fútbol del sábado
+- 2026-10-27 20:11 · aceptó a Lois en su fútbol del sábado

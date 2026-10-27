@@ -1649,3 +1649,27 @@
 2026-10-27T19:12:25.416Z bart.simpson unirse cmvpvhde6003x01o01f65ivy9
 2026-10-27T19:12:27.930Z bart.simpson crear cmvr2bk2r00n801o0y488x608 FUTBOL 2026-10-31T00:00:00.000Z
 2026-10-27T19:12:30.813Z peter.parker unirse cmvpvgr9x003801o0nacshlo9
+2026-10-27T23:10:39.230Z jon.snow baja-tarde cmvk5nlae00zn01lh143e037j
+2026-10-27T23:10:40.961Z sorteo cmvlcjsdl00kw01o9olkascub faltaron=[merry.brandigamo] calificaran=[sam.gamyi,bellatrix.lestrange]
+2026-10-27T23:10:43.624Z sorteo cmvmjflbm00h601saa7ul5l20 faltaron=[pippin.tuk] calificaran=[lois.lane,phoebe.buffay,neville.longbottom]
+2026-10-27T23:11:21.772Z bellatrix.lestrange calificar cmvlcjsdl00kw01o9olkascub ratings=1 noShows=1
+2026-10-27T23:11:26.939Z bellatrix.lestrange crear cmvrauw5q00px01o0v1vviktt PADEL 2026-10-29T23:00:00.000Z
+2026-10-27T23:11:28.953Z hermione.granger leer-notificaciones 1
+2026-10-27T23:11:34.435Z sam.gamyi leer-notificaciones 3
+2026-10-27T23:11:43.964Z hermione.granger aceptar cmvnhodh500tk01safkbh3kyy lois.lane
+2026-10-27T23:11:49.918Z sam.gamyi calificar cmvlcjsdl00kw01o9olkascub ratings=1 noShows=1
+2026-10-27T23:11:51.726Z lois.lane leer-notificaciones 1
+2026-10-27T23:11:58.864Z lois.lane calificar cmvmjflbm00h601saa7ul5l20 ratings=2 noShows=1
+2026-10-27T23:12:00.761Z phoebe.buffay leer-notificaciones 2
+2026-10-27T23:12:07.257Z phoebe.buffay unirse cmvq40mej007i01o0n63melct
+2026-10-27T23:12:11.740Z phoebe.buffay calificar cmvmjflbm00h601saa7ul5l20 ratings=2 noShows=1
+2026-10-27T23:12:13.920Z burro leer-notificaciones 2
+2026-10-27T23:12:19.066Z burro aceptar cmvpvgr9x003801o0nacshlo9 peter.parker
+2026-10-27T23:12:21.175Z neville.longbottom leer-notificaciones 6
+2026-10-27T23:12:26.595Z neville.longbottom calificar cmvmjflbm00h601saa7ul5l20 ratings=2 noShows=1
+2026-10-27T23:12:28.509Z fiona leer-notificaciones 3
+2026-10-27T23:12:32.848Z fiona aceptar cmvpvhde6003x01o01f65ivy9 bart.simpson
+2026-10-27T23:12:34.838Z eowyn leer-notificaciones 2
+2026-10-27T23:12:38.910Z eowyn unirse cmvr2b4jy00mx01o01snr6q15
+2026-10-27T23:12:45.298Z luke.skywalker leer-notificaciones 3
+2026-10-27T23:12:50.713Z mace.windu crear cmvraworw00s001o07wi8ep7x PADEL 2026-10-30T23:00:00.000Z

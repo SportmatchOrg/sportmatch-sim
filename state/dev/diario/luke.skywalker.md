@@ -4,3 +4,4 @@
 - 2026-10-25 00:11 · intentó anotarse al básquet del miércoles pero ya estaba anotado; miró la app
 - 2026-10-25 04:12 · pidió unirse al básquet del viernes de Frodo en Campus Austral
 - 2026-10-26 16:12 · pidió unirse al básquet del jueves de Ned en Club Belgrano
+- 2026-10-27 20:12 · leyó notificaciones: lo aceptaron en dos básquet; hoy no hizo más
