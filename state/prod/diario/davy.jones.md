@@ -28,3 +28,4 @@
 - 2026-10-25 12:15 · calificó el básquet (5, 4 y 5); no hay nada de running ni básquet de su nivel, solo miró
 - 2026-10-27 04:14 · entró; no hay básquet ni running de su nivel, solo miró
 - 2026-10-27 16:14 · pidió unirse al running del sábado en Parque Pilar de Molly
+- 2026-10-27 20:15 · calificó el básquet (5, 4 y 4) y pidió unirse al básquet principiante del viernes en Campus Austral

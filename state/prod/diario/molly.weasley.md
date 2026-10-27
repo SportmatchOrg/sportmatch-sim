@@ -31,3 +31,4 @@
 - 2026-10-25 16:13 · leyó que Fred y T'Challa se bajaron; armó running del sábado 31 a las 9 en Parque Pilar
 - 2026-10-25 20:13 · aceptó a Éowyn en su running del sábado
 - 2026-10-26 00:14 · aceptó a Fred en su running
+- 2026-10-27 20:14 · aceptó a Davy Jones en su running y armó otro running el domingo 1/11 a las 9:30 en Parque Pilar

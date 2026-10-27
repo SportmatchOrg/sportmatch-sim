@@ -1,2 +1,3 @@
 - 2026-10-24 08:14 · pidió unirse al básquet del martes de Neo en Campus Austral (relajado)
 - 2026-10-25 04:13 · entró a mirar básquet; ya tenía una solicitud pendiente y no se anotó a nada más
+- 2026-10-27 20:16 · calificó el básquet duro (3, 2 y 3); solo miró

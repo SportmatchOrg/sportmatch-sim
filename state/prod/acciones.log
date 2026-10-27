@@ -1547,3 +1547,36 @@
 2026-10-27T19:14:46.128Z phoebe.buffay unirse cmvq44moo01rc01ryjdtjwoks
 2026-10-27T19:14:48.392Z davy.jones unirse cmvo7hmcm013101ry01nmbw2r
 2026-10-27T19:14:50.636Z gandalf unirse cmvq44moo01rc01ryjdtjwoks
+2026-10-27T23:13:18.334Z sorteo cmvltteqs008701ryc08kb1km faltaron=[] calificaran=[neo,nelson.muntz,timon,buzz.lightyear,davy.jones,milhouse.van.houten,saul.goodman]
+2026-10-27T23:13:21.297Z sorteo cmvmjib4700h001ryxvujx77w faltaron=[slinky] calificaran=[elrond]
+2026-10-27T23:13:57.757Z elrond calificar cmvmjib4700h001ryxvujx77w ratings=1 noShows=1
+2026-10-27T23:14:04.914Z elrond unirse cmvo7hg3l012w01ryvuai04d0
+2026-10-27T23:14:08.869Z bellatrix.lestrange leer-notificaciones 2
+2026-10-27T23:14:16.558Z bellatrix.lestrange aceptar cmvqcoatm01uu01rykqf58uga bruce.banner
+2026-10-27T23:14:18.772Z bellatrix.lestrange unirse cmvpecpxe01hs01ryym5g52es
+2026-10-27T23:14:35.638Z milhouse.van.houten calificar cmvltteqs008701ryc08kb1km ratings=3 noShows=0
+2026-10-27T23:14:37.537Z milhouse.van.houten unirse cmvr2ea5h024f01ry8kpwwtux
+2026-10-27T23:14:39.537Z molly.weasley leer-notificaciones 1
+2026-10-27T23:14:54.116Z molly.weasley aceptar cmvo7hmcm013101ry01nmbw2r davy.jones
+2026-10-27T23:14:55.919Z molly.weasley crear cmvrazdf4027v01ryuwh15uol RUNNING 2026-11-01T12:30:00.000Z
+2026-10-27T23:14:58.178Z davy.jones leer-notificaciones 1
+2026-10-27T23:15:05.153Z davy.jones calificar cmvltteqs008701ryc08kb1km ratings=3 noShows=0
+2026-10-27T23:15:07.276Z davy.jones unirse cmvr2ea5h024f01ry8kpwwtux
+2026-10-27T23:15:09.352Z tony.stark leer-notificaciones 1
+2026-10-27T23:15:13.722Z tony.stark aceptar cmvoony95019a01ry9xx4z9on barney.gumble
+2026-10-27T23:15:24.781Z neo calificar cmvltteqs008701ryc08kb1km ratings=3 noShows=0
+2026-10-27T23:15:26.777Z neo crear cmvrb017x028p01rym57c07el BASQUET 2026-10-30T23:30:00.000Z
+2026-10-27T23:15:28.630Z dory leer-notificaciones 4
+2026-10-27T23:15:33.453Z dory aceptar cmvq44moo01rc01ryjdtjwoks phoebe.buffay
+2026-10-27T23:15:35.408Z dory aceptar cmvq44moo01rc01ryjdtjwoks gandalf
+2026-10-27T23:15:42.549Z timon calificar cmvltteqs008701ryc08kb1km ratings=3 noShows=0
+2026-10-27T23:15:44.648Z timon unirse cmvr2ea5h024f01ry8kpwwtux
+2026-10-27T23:15:46.577Z ned.flanders leer-notificaciones 2
+2026-10-27T23:15:51.268Z ned.flanders aceptar cmvqttno6021s01rytmwetyii eowyn
+2026-10-27T23:15:53.242Z ned.flanders aceptar cmvqttno6021s01rytmwetyii galadriel
+2026-10-27T23:15:55.258Z saul.goodman leer-notificaciones 1
+2026-10-27T23:16:11.335Z saul.goodman calificar cmvltteqs008701ryc08kb1km ratings=3 noShows=0
+2026-10-27T23:16:13.352Z saul.goodman unirse cmvrb017x028p01rym57c07el
+2026-10-27T23:16:17.345Z buzz.lightyear leer-notificaciones 1
+2026-10-27T23:16:22.577Z nelson.muntz calificar cmvltteqs008701ryc08kb1km ratings=3 noShows=0
+2026-10-27T23:16:24.532Z buzz.lightyear calificar cmvltteqs008701ryc08kb1km ratings=3 noShows=0
