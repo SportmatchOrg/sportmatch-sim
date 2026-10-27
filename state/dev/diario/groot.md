@@ -1,3 +1,4 @@
 - 2026-10-17 16:11 · miró la app, sin novedades
 - 2026-10-24 04:11 · pidió unirse al básquet del domingo de Neo en Campus Austral
 - 2026-10-26 12:11 · se anotó al básquet del viernes en Campus Austral (tardes libres)
+- 2026-10-27 04:12 · pidió unirse al básquet del miércoles de Neo en Campus Austral (entusiasmado)

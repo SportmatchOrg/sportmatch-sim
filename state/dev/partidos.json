@@ -4734,10 +4734,11 @@
       "marty.mcfly",
       "luke.skywalker",
       "timon",
-      "groot"
+      "groot",
+      "phoebe.buffay"
     ],
     "pendientes": [
-      "phoebe.buffay"
+      "neo"
     ],
     "bajasSorteadas": false,
     "asistencia": null,
@@ -4771,7 +4772,7 @@
     "cupo": 9,
     "creado": "2026-10-25T07:11:15.397Z",
     "pendientesHumanos": 0,
-    "anotados": 3
+    "anotados": 4
   },
   "cmvnhp5n900u601satk2qhypk": {
     "jugadores": [],
@@ -4826,7 +4827,7 @@
     "cupo": 5,
     "creado": "2026-10-25T15:12:07.370Z",
     "pendientesHumanos": 0,
-    "anotados": 2
+    "anotados": 3
   },
   "cmvnyv94w003e01mrukhv35lm": {
     "jugadores": [
@@ -4863,7 +4864,7 @@
     "cupo": 3,
     "creado": "2026-10-26T03:11:26.315Z",
     "pendientesHumanos": 0,
-    "anotados": 0
+    "anotados": 1
   },
   "cmvook0ep004501l3afbbk8ww": {
     "jugadores": [
@@ -4901,7 +4902,7 @@
     "cupo": 9,
     "creado": "2026-10-26T03:12:02.003Z",
     "pendientesHumanos": 0,
-    "anotados": 2
+    "anotados": 3
   },
   "cmvox4509007001l35t2ma7dr": {
     "jugadores": [
@@ -4939,7 +4940,9 @@
   },
   "cmvp5pylh00b601l3iky01mix": {
     "jugadores": [],
-    "pendientes": [],
+    "pendientes": [
+      "albus.dumbledore"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -4970,9 +4973,11 @@
     "anotados": 0
   },
   "cmvpmvkz3002p01o5mudy9ql9": {
-    "jugadores": [],
-    "pendientes": [
+    "jugadores": [
       "clark.kent"
+    ],
+    "pendientes": [
+      "groot"
     ],
     "bajasSorteadas": false,
     "asistencia": null,
@@ -5006,10 +5011,10 @@
     "cancelar": false
   },
   "cmvpvgr9x003801o0nacshlo9": {
-    "jugadores": [],
-    "pendientes": [
+    "jugadores": [
       "george.weasley"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -5051,6 +5056,22 @@
     "fecha": "2026-10-30T00:00:00.000Z",
     "deporte": "FUTBOL",
     "cupo": 9,
-    "creado": "2026-10-27T03:12:10.802Z"
+    "creado": "2026-10-27T03:12:10.802Z",
+    "pendientesHumanos": 0,
+    "anotados": 0
+  },
+  "cmvqclogb00bs01o0pywdw9l4": {
+    "jugadores": [],
+    "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "albus.dumbledore",
+    "fecha": "2026-10-30T23:00:00.000Z",
+    "deporte": "TENIS",
+    "cupo": 3,
+    "creado": "2026-10-27T07:12:30.116Z"
   }
 }

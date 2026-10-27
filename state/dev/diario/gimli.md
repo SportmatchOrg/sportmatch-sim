@@ -47,3 +47,4 @@
 - 2026-10-20 08:12 · miró partidos, no hay fútbol en CABA que le encaje; no se anotó
 - 2026-10-22 04:13 · entró a mirar; sigue sin haber fútbol en CABA
 - 2026-10-26 00:12 · se unió al fútbol del jueves de Ned en River Courts (por fin algo en CABA)
+- 2026-10-27 04:12 · miró la app; ya tiene su fútbol del jueves confirmado, nada más
