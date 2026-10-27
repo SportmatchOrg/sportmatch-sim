@@ -1,0 +1,1 @@
+- 2026-10-27 12:12 · primera vez: miró la app para despejarse; no hizo nada

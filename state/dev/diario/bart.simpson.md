@@ -1,0 +1,1 @@
+- 2026-10-27 12:12 · primera vez: pidió unirse al básquet del viernes en Del Viso (va a ganar)

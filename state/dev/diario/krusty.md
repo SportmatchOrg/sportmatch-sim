@@ -1,1 +1,2 @@
 - 2026-10-27 08:12 · pidió unirse al pádel del domingo de Jack en Pádel Point Pilar
+- 2026-10-27 12:12 · pidió unirse al fútbol del jueves de Lois en Club Pilar
