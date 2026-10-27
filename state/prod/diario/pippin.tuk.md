@@ -65,3 +65,4 @@
 - 2026-10-23 12:14 · entró y solo miró
 - 2026-10-25 16:13 · se anotó al fútbol del viernes 30 en Club Pilar de Lois
 - 2026-10-26 08:14 · se anotó al fútbol del lunes en Club Pilar de Dory
+- 2026-10-27 00:14 · calificó el fútbol con notas duras (2 y 3); solo miró

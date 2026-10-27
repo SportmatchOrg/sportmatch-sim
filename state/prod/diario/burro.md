@@ -19,3 +19,4 @@
 - 2026-10-26 12:13 · revisó el partido pendiente: nadie para calificar; solo miró
 - 2026-10-26 16:13 · revisó la lista; nada de fútbol o tenis que le quede cómodo en CABA, solo miró
 - 2026-10-26 20:15 · entró; nada para calificar y nada que le quede cómodo, solo miró
+- 2026-10-27 00:15 · entró; nada para calificar ni nada cómodo en CABA, solo miró

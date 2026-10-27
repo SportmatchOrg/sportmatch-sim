@@ -67,3 +67,4 @@
 - 2026-10-26 04:14 · aceptó a Phoebe en su fútbol
 - 2026-10-26 12:13 · aceptó a Mike Wazowski en su fútbol
 - 2026-10-26 20:15 · aceptó a Clark en su fútbol del viernes y pidió unirse al de Mace Windu del martes
+- 2026-10-27 00:15 · calificó el fútbol (5, 4 y 4) y aceptó a Neville en su partido del viernes

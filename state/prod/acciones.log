@@ -1453,3 +1453,30 @@
 2026-10-26T23:15:37.908Z timon leer-notificaciones 1
 2026-10-26T23:15:50.373Z groot unirse cmvog2flr016m01ry84s71fbg
 2026-10-26T23:15:52.432Z neville.longbottom unirse cmvnyywe700zg01rylmgyo05e
+2026-10-27T03:13:29.266Z sorteo cmvk5tc3g06ok01mhcrj3hby0 faltaron=[] calificaran=[peter.parker,bellatrix.lestrange]
+2026-10-27T03:13:29.819Z sorteo cmvkmwejf06vy01mhci2e7fnl faltaron=[arya.stark] calificaran=[dory,lois.lane,jon.snow,phoebe.buffay,pippin.tuk]
+2026-10-27T03:14:04.312Z pippin.tuk leer-notificaciones 1
+2026-10-27T03:14:07.219Z elrond leer-notificaciones 2
+2026-10-27T03:14:14.897Z pippin.tuk calificar cmvkmwejf06vy01mhci2e7fnl ratings=2 noShows=1
+2026-10-27T03:14:16.885Z elrond aceptar cmvnyxbzc00xo01ryt22ycz5t peter.parker
+2026-10-27T03:14:18.873Z bellatrix.lestrange leer-notificaciones 1
+2026-10-27T03:14:21.734Z mace.windu leer-notificaciones 1
+2026-10-27T03:14:29.114Z bellatrix.lestrange calificar cmvk5tc3g06ok01mhcrj3hby0 ratings=2 noShows=0
+2026-10-27T03:14:32.724Z mace.windu aceptar cmvkvhmyn06z501mhbizkvlcp lois.lane
+2026-10-27T03:14:33.983Z mace.windu cancelar cmvkvhmyn06z501mhbizkvlcp
+2026-10-27T03:14:36.016Z jon.snow leer-notificaciones 1
+2026-10-27T03:14:45.267Z jon.snow calificar cmvkmwejf06vy01mhci2e7fnl ratings=2 noShows=1
+2026-10-27T03:14:47.249Z tony.stark calificar cmvms2fdw00lj01rymxrj5y74 ratings=0 noShows=0
+2026-10-27T03:14:50.174Z lois.lane leer-notificaciones 3
+2026-10-27T03:14:59.210Z lois.lane calificar cmvkmwejf06vy01mhci2e7fnl ratings=3 noShows=1
+2026-10-27T03:15:01.805Z lois.lane aceptar cmvnyywe700zg01rylmgyo05e neville.longbottom
+2026-10-27T03:15:04.263Z barney.gumble calificar cmvmjjvmt00ik01ry35byhq1e ratings=0 noShows=0
+2026-10-27T03:15:15.876Z dory calificar cmvkmwejf06vy01mhci2e7fnl ratings=3 noShows=1
+2026-10-27T03:15:17.734Z dory crear cmvq44moo01rc01ryjdtjwoks FUTBOL 2026-10-31T23:00:00.000Z
+2026-10-27T03:15:19.821Z phoebe.buffay leer-notificaciones 2
+2026-10-27T03:15:22.631Z peter.parker leer-notificaciones 1
+2026-10-27T03:15:30.391Z phoebe.buffay calificar cmvkmwejf06vy01mhci2e7fnl ratings=3 noShows=1
+2026-10-27T03:15:32.521Z phoebe.buffay unirse cmvnyywe700zg01rylmgyo05e
+2026-10-27T03:15:34.395Z peter.parker calificar cmvk5tc3g06ok01mhcrj3hby0 ratings=2 noShows=0
+2026-10-27T03:15:38.248Z nelson.muntz leer-notificaciones 1
+2026-10-27T03:15:44.346Z nelson.muntz aceptar cmvog2flr016m01ry84s71fbg groot

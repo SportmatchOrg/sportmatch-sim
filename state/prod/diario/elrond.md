@@ -99,3 +99,4 @@
 - 2026-10-26 04:13 · aceptó a Thanos en su partido; el pendiente sigue sin nadie para calificar
 - 2026-10-26 04:13 · (corrección) recién ahora aceptó a Thanos en su partido; el pendiente sigue sin nadie para calificar
 - 2026-10-26 08:13 · se anotó al fútbol del martes en Nordelta de Mace; no había nadie para calificar
+- 2026-10-27 00:14 · aceptó a Peter Parker en su partido; no se anotó a nada más

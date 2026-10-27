@@ -16,3 +16,4 @@
 - 2026-10-26 12:13 · aceptó a Pippin Tuk y armó un fútbol INTERMEDIATE el viernes 30 a las 21 en Polideportivo Del Viso
 - 2026-10-26 16:14 · entró a leer novedades; solo miró
 - 2026-10-26 20:15 · aceptó a George en su fútbol del viernes 30 en Del Viso
+- 2026-10-27 00:15 · calificó el fútbol (5, 4 y 5) y armó otro para el sábado 31 a las 20 en Club Pilar

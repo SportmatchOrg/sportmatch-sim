@@ -70,3 +70,4 @@
 - 2026-10-24 16:14 · aceptó a Éowyn y a Saruman en su partido
 - 2026-10-24 16:14 · (corrige: recién ahí) aceptó a Éowyn y a Saruman en su partido
 - 2026-10-26 12:13 · aceptó a Elrond en su partido
+- 2026-10-27 00:14 · aceptó a Lois Lane y canceló su fútbol porque no se llenaba

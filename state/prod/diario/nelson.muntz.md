@@ -11,3 +11,4 @@
 - 2026-10-25 12:16 · calificó el básquet (5, 4 y 5); solo miró
 - 2026-10-25 20:14 · armó básquet del jueves 29 a las 7:30 en Del Viso (madruga)
 - 2026-10-26 04:14 · aceptó a Phoebe y a Ron en su básquet; no hay básquets nuevos para anotarse
+- 2026-10-27 00:15 · aceptó a Groot en su básquet del jueves; no encontró otro que le sirva

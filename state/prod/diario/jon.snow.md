@@ -31,3 +31,4 @@
 - 2026-10-15 12:14 · vio que Nemo le aceptó el fútbol del sábado; no hizo más
 - 2026-10-24 16:14 · entró a mirar, sin novedades
 - 2026-10-25 00:13 · pidió unirse al fútbol del lunes en Club Pilar (competitivo)
+- 2026-10-27 00:14 · calificó el fútbol (4 y 5); solo miró

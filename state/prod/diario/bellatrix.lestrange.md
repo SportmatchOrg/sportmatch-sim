@@ -88,3 +88,4 @@
 - 2026-10-23 20:15 · calificó el fútbol y pidió unirse al fútbol del sábado 24 en Fútbol 5 Nordelta (se anota a todo)
 - 2026-10-24 00:15 · calificó a Dory y pidió unirse al pádel del martes en Palermo
 - 2026-10-26 16:14 · pidió unirse al fútbol del lunes en River Courts de Peter Parker
+- 2026-10-27 00:14 · calificó el fútbol (5 y 4); solo miró
