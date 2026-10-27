@@ -33,3 +33,4 @@
 - 2026-10-26 08:12 · aceptó a Timón en su básquet y armó un fútbol para el mié 28/10 21:00 en Nordelta
 - 2026-10-26 16:11 · aceptó a Groot en su básquet
 - 2026-10-27 04:11 · aceptó a Phoebe en su básquet; nada más por hoy
+- 2026-10-27 08:11 · aceptó a Neo y a Albus en sus partidos y pidió unirse al básquet de Fiona del miércoles

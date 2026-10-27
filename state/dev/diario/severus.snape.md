@@ -1,0 +1,1 @@
+- 2026-10-27 08:12 · primera vez en la app: miró partidos de tenis y running, no se anotó

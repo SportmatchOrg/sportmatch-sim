@@ -12,3 +12,4 @@
 - 2026-10-22 04:13 · miró básquet, nada en CABA para su nivel
 - 2026-10-22 20:12 · miró básquet, nada en CABA; no se anotó
 - 2026-10-25 20:11 · miró la app, sin novedades
+- 2026-10-27 08:12 · miró la app; nada de básquet en CABA

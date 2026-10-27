@@ -22,3 +22,4 @@
 - 2026-10-26 20:11 · miró la app; el partido por calificar no tenía a nadie, no hizo nada más
 - 2026-10-27 00:11 · aceptó a Jaime y a James en sus partidos; nada para calificar
 - 2026-10-27 04:11 · miró la app y leyó notificaciones; el partido por calificar no tenía a nadie
+- 2026-10-27 08:11 · miró la app; el partido por calificar seguía sin nadie

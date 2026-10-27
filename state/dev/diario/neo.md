@@ -36,3 +36,4 @@
 - 2026-10-25 12:12 · calificó el básquet (5, 4, 5); nada más
 - 2026-10-26 16:12 · armó un básquet para el mié 28/10 20:00 en Campus Austral y pidió unirse al básquet del jueves en Club Belgrano
 - 2026-10-27 04:11 · aceptó a Clark en su básquet y pidió unirse al básquet de Frodo del viernes
+- 2026-10-27 08:11 · aceptó a Groot y armó un básquet para el vie 30/10 20:30 en Del Viso

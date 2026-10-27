@@ -22,3 +22,4 @@
 - 2026-10-26 08:12 · pidió unirse al fútbol del jueves de Elrond en Nordelta
 - 2026-10-26 20:12 · aceptó a Mike Wazowski en su fútbol y se anotó al fútbol del sábado de Hermione en Club Pilar (le gusta conocer gente)
 - 2026-10-27 00:12 · calificó el fútbol (5, 4 y 4) y se anotó al fútbol del viernes en River Courts (le gusta conocer gente)
+- 2026-10-27 08:12 · pidió unirse al fútbol del jueves de Lois en Club Pilar

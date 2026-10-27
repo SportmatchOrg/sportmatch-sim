@@ -5,3 +5,4 @@
 - 2026-10-24 16:12 · calificó el pádel (5 y 4) y pidió unirse al pádel del martes a la mañana en Pádel Point Pilar
 - 2026-10-24 16:12 · corrección: recién ahí calificó el pádel (5 y 4)
 - 2026-10-26 04:12 · miró la app y leyó notificaciones, sin hacer nada
+- 2026-10-27 08:12 · calificó el pádel (5 y 5); nada más
