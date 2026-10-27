@@ -1,1 +1,2 @@
 - 2026-10-27 12:12 · primera vez: pidió unirse al básquet del viernes en Del Viso (va a ganar)
+- 2026-10-27 16:12 · pidió unirse al básquet del miércoles de Fiona y armó un fútbol para el vie 30/10 21:00 en Club Pilar (va a ganar)

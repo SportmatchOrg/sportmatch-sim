@@ -34,3 +34,4 @@
 - 2026-10-25 08:12 · miró la app, ya tiene su dobles armado; nada más
 - 2026-10-26 16:12 · armó un fútbol para el jue 29/10 20:30 en Nordelta (para conocer gente)
 - 2026-10-27 04:12 · armó un dobles de tenis para el vie 30/10 20:00 en Tigre y pidió unirse al fútbol de Frodo del miércoles en Nordelta
+- 2026-10-27 16:12 · aceptó a Stephen Strange en su tenis; no hizo más

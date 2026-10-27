@@ -6,3 +6,4 @@
 - 2026-10-24 16:12 · corrección: recién ahí calificó el pádel (5 y 4)
 - 2026-10-26 04:12 · miró la app y leyó notificaciones, sin hacer nada
 - 2026-10-27 08:12 · calificó el pádel (5 y 5); nada más
+- 2026-10-27 16:12 · miró partidos; hoy no se anotó a nada

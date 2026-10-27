@@ -57,3 +57,4 @@
 - 2026-10-26 08:12 · aceptó a Neville en su fútbol del martes
 - 2026-10-27 00:12 · calificó el fútbol (5, 4 y 4) y armó un fútbol para el jueves 29 a las 21 en Club Pilar
 - 2026-10-27 12:11 · aceptó a Pippin y a George en sus fútbol de Club Pilar
+- 2026-10-27 16:11 · pidió unirse al fútbol del sábado de Hermione en Club Pilar; aceptó a Krusty

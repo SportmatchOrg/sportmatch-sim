@@ -4,3 +4,4 @@
 - 2026-10-22 12:12 · miró partidos de pádel, no se animó a anotarse
 - 2026-10-26 12:11 · miró partidos de pádel de noche, sin anotarse
 - 2026-10-27 04:12 · miró la app y leyó notificaciones; pádel de noche, no se animó
+- 2026-10-27 16:12 · miró partidos de pádel, nada de noche que le cierre

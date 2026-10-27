@@ -6,3 +6,4 @@
 - 2026-10-26 08:12 · miró la app, sin novedades
 - 2026-10-26 20:13 · calificó a James Bond (5) y armó un básquet BEGINNER para el mié 28/10 20:00 en Del Viso
 - 2026-10-27 12:11 · aceptó a Frodo en su básquet del miércoles en Del Viso
+- 2026-10-27 16:12 · aceptó a Kylo Ren en su básquet y armó otro básquet BEGINNER para el sáb 31/10 10:00 en Del Viso

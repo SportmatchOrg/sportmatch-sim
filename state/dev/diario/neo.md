@@ -37,3 +37,4 @@
 - 2026-10-26 16:12 · armó un básquet para el mié 28/10 20:00 en Campus Austral y pidió unirse al básquet del jueves en Club Belgrano
 - 2026-10-27 04:11 · aceptó a Clark en su básquet y pidió unirse al básquet de Frodo del viernes
 - 2026-10-27 08:11 · aceptó a Groot y armó un básquet para el vie 30/10 20:30 en Del Viso
+- 2026-10-27 16:12 · aceptó a Timón y a Bart en sus básquet; nada más

@@ -5,3 +5,4 @@
 - 2026-10-24 00:12 · leyó notificaciones, solo miró
 - 2026-10-25 16:11 · miró fútbol, nada en CABA que le cierre
 - 2026-10-26 16:12 · armó un fútbol para el mar 27/10 20:30 en River Courts y pidió unirse al del jueves de Ned
+- 2026-10-27 16:12 · pidió unirse al fútbol del viernes de Burro en River Courts

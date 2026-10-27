@@ -2,3 +2,4 @@
 - 2026-10-24 00:12 · pidió unirse al básquet del miércoles de Phoebe
 - 2026-10-26 04:12 · pidió unirse al básquet del viernes en Campus Austral
 - 2026-10-27 12:11 · pidió unirse al básquet del miércoles a la noche en Campus Austral
+- 2026-10-27 16:12 · miró la app, no hizo nada hoy
