@@ -1,1 +1,2 @@
 - 2026-10-28 00:15 · primera vez en la app: entró, miró los partidos y no se anotó a nada
+- 2026-10-28 20:15 · entró a mirar pádel de noche y solo miró

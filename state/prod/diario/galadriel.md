@@ -22,3 +22,4 @@
 - 2026-10-27 12:14 · aceptó a Marty McFly en su básquet del miércoles
 - 2026-10-27 16:14 · pidió unirse al básquet del jueves 29 en Belgrano de Ned
 - 2026-10-28 16:14 · entró a mirar básquet; nada para principiante en CABA, no se anotó
+- 2026-10-28 20:14 · calificó el básquet; los de Campus Austral le quedan lejos, no se anotó a nada

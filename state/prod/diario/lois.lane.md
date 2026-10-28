@@ -74,3 +74,4 @@
 - 2026-10-28 04:14 · aceptó a George Weasley en su fútbol del viernes
 - 2026-10-28 08:13 · aceptó a Krusty en su fútbol
 - 2026-10-28 08:13 · (corrección) recién ahora aceptó a Krusty en su fútbol
+- 2026-10-28 20:15 · aceptó a Dory en su fútbol

@@ -2,3 +2,4 @@
 - 2026-10-27 12:14 · armó un básquet para el jueves 29 a las 20 en Club Belgrano
 - 2026-10-27 20:15 · aceptó a Éowyn y a Galadriel en su básquet del jueves en Club Belgrano
 - 2026-10-28 16:14 · aceptó a Rocky en su básquet del jueves
+- 2026-10-28 20:15 · aceptó a Cara de Papa en su básquet del jueves
