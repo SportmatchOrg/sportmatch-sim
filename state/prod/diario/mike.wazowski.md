@@ -3,3 +3,4 @@
 - 2026-10-20 08:14 · pidió unirse al fútbol del miércoles 21 en Club Pilar (relajado, para despejarse)
 - 2026-10-26 08:13 · se anotó al fútbol del martes en Club Pilar (relajado)
 - 2026-10-27 04:14 · leyó que Lois lo aceptó; solo miró
+- 2026-10-28 16:15 · pidió unirse al fútbol del viernes en Del Viso (relajado)

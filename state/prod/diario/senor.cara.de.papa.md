@@ -1,0 +1,1 @@
+- 2026-10-28 16:15 · primera vez: pidió unirse al básquet del jueves en Club Belgrano

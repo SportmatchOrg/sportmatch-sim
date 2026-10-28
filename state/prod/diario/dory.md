@@ -21,3 +21,4 @@
 - 2026-10-27 20:15 · aceptó a Phoebe y a Gandalf en su fútbol del sábado en Club Pilar
 - 2026-10-28 00:14 · aceptó a Bellatrix en su fútbol
 - 2026-10-28 12:15 · aceptó a Gandalf en su fútbol del Del Viso
+- 2026-10-28 16:14 · aceptó a Neville en su fútbol del sábado y se anotó al fútbol del viernes en Club Pilar

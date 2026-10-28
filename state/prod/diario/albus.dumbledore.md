@@ -38,3 +38,4 @@
 - 2026-10-25 16:13 · aceptó a Elrond y Nala en el tenis del miércoles y armó fútbol 5 del viernes en Nordelta (conocer gente)
 - 2026-10-27 08:14 · aceptó a Bellatrix en su fútbol 5 de Nordelta (conocer gente)
 - 2026-10-28 00:14 · aceptó a Elrond en su partido
+- 2026-10-28 16:14 · aceptó a Mace Windu en su fútbol 5 de Nordelta
