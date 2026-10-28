@@ -13,3 +13,4 @@
 - 2026-10-25 08:11 · aceptó a Mike en su pádel del martes temprano
 - 2026-10-27 08:12 · calificó el pádel (4 y 5) y armó un pádel para el vie 30/10 8:00 en Club Pilar
 - 2026-10-27 16:12 · aceptó a Jack Sparrow en su pádel del viernes temprano
+- 2026-10-28 12:11 · aceptó a Kylo en su pádel del viernes temprano

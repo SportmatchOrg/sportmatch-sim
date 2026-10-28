@@ -9,3 +9,4 @@
 - 2026-10-28 00:11 · leyó que Burro lo aceptó; no había a quién calificar, solo miró
 - 2026-10-28 04:11 · pidió unirse al fútbol del jueves de Albus en Nordelta; nada que calificar
 - 2026-10-28 08:12 · pidió unirse al fútbol del jueves de Lois en Club Pilar; nada que calificar
+- 2026-10-28 12:11 · leyó que Lois y Albus lo aceptaron; nada nuevo en CABA, no se anotó a más

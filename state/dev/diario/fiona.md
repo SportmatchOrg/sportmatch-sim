@@ -9,3 +9,4 @@
 - 2026-10-27 16:12 · aceptó a Kylo Ren en su básquet y armó otro básquet BEGINNER para el sáb 31/10 10:00 en Del Viso
 - 2026-10-27 20:12 · aceptó a Bart en su básquet del miércoles
 - 2026-10-28 00:11 · aceptó a Éowyn en su básquet
+- 2026-10-28 12:11 · aceptó a Nala en su básquet
