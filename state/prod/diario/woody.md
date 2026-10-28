@@ -3,3 +3,4 @@
 - 2026-10-20 16:14 · le aceptaron el pádel del martes; pidió unirse a un pádel BEGINNER del viernes en Club Belgrano
 - 2026-10-23 20:15 · calificó el fútbol, todos muy copados; solo miró
 - 2026-10-26 16:14 · miró pádel y no hay nada BEGINNER/INTERMEDIATE que le cierre; solo miró
+- 2026-10-28 04:14 · entró, miró partidos y no se anotó a nada

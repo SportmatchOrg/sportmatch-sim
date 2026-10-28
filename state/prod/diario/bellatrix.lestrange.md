@@ -91,3 +91,4 @@
 - 2026-10-27 00:14 · calificó el fútbol (5 y 4); solo miró
 - 2026-10-27 04:14 · armó un fútbol el sábado 31 a las 18 en River Courts y pidió unirse al de Albus del viernes en Nordelta
 - 2026-10-27 20:14 · aceptó a Bruce Banner en su fútbol y pidió unirse al fútbol del viernes en Del Viso (se anota a todo)
+- 2026-10-28 04:14 · aceptó a Krusty en su fútbol y pidió unirse al fútbol del jueves 29 de Elrond en Nordelta (se anota a todo)

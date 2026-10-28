@@ -1,2 +1,3 @@
 - 2026-10-25 08:14 · primera vez en la app: pidió unirse al fútbol del martes 27 en Club Pilar (vuelve a jugar después de años)
 - 2026-10-28 00:15 · calificó el fútbol (5, 4 y 4) y pidió unirse al del sábado 31 de Bellatrix en River Courts
+- 2026-10-28 04:14 · pidió unirse al fútbol del viernes 30 de Lois en Club Pilar (vuelve con ganas)

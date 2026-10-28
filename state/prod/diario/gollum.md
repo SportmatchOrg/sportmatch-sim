@@ -1,2 +1,3 @@
 - 2026-10-26 20:15 · primera vuelta: no hay tenis próximo, solo miró
 - 2026-10-27 08:15 · entró, no hay tenis para anotarse; solo miró
+- 2026-10-28 04:14 · entró, no hay tenis para anotarse; solo miró
