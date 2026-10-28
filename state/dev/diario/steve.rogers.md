@@ -112,3 +112,4 @@
 - 2026-10-25 00:11 · aceptó a Jon Snow y armó un fútbol ADVANCED para el mié 28/10 21:00 en Club Pilar
 - 2026-10-25 16:11 · miró la app, nada nuevo por hoy
 - 2026-10-28 00:11 · miró la app; en su fútbol solo faltó George, no había a quién calificar
+- 2026-10-28 04:11 · no había a quién calificar; armó otro fútbol INTERMEDIATE para el sáb 31/10 18:00 en Club Pilar

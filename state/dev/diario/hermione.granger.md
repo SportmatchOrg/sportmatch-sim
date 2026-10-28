@@ -53,3 +53,4 @@
 - 2026-10-27 00:11 · aceptó a George en su fútbol del sábado; no se anotó a nada
 - 2026-10-27 16:11 · aceptó a Harry Potter en su fútbol del sábado
 - 2026-10-27 20:11 · aceptó a Lois en su fútbol del sábado
+- 2026-10-28 04:11 · aceptó a Bart en su fútbol del sábado

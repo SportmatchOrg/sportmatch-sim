@@ -4803,11 +4803,10 @@
       "phoebe.buffay",
       "george.weasley",
       "harry.potter",
-      "lois.lane"
-    ],
-    "pendientes": [
+      "lois.lane",
       "bart.simpson"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -4823,7 +4822,9 @@
   },
   "cmvnhp5n900u601satk2qhypk": {
     "jugadores": [],
-    "pendientes": [],
+    "pendientes": [
+      "gollum"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -4958,7 +4959,9 @@
     "jugadores": [
       "george.weasley"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "lois.lane"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -5010,7 +5013,9 @@
   },
   "cmvpmvj6v002m01o5afr9roe7": {
     "jugadores": [],
-    "pendientes": [],
+    "pendientes": [
+      "peter.parker"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -5109,10 +5114,11 @@
     "jugadores": [
       "george.weasley",
       "krusty",
-      "phoebe.buffay"
+      "phoebe.buffay",
+      "padme.amidala"
     ],
     "pendientes": [
-      "padme.amidala"
+      "clark.kent"
     ],
     "bajasSorteadas": false,
     "asistencia": null,
@@ -5125,7 +5131,7 @@
     "cupo": 9,
     "creado": "2026-10-27T03:12:10.802Z",
     "pendientesHumanos": 0,
-    "anotados": 2
+    "anotados": 3
   },
   "cmvqclogb00bs01o0pywdw9l4": {
     "jugadores": [
@@ -5149,7 +5155,9 @@
     "jugadores": [
       "bart.simpson"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "timon"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -5197,13 +5205,13 @@
     "cupo": 5,
     "creado": "2026-10-27T19:12:07.870Z",
     "pendientesHumanos": 0,
-    "anotados": 0
+    "anotados": 1
   },
   "cmvr2bk2r00n801o0y488x608": {
-    "jugadores": [],
-    "pendientes": [
+    "jugadores": [
       "george.weasley"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -5234,10 +5242,10 @@
     "anotados": 0
   },
   "cmvraworw00s001o07wi8ep7x": {
-    "jugadores": [],
-    "pendientes": [
+    "jugadores": [
       "cedric.diggory"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -5250,5 +5258,19 @@
     "creado": "2026-10-27T23:12:50.711Z",
     "pendientesHumanos": 0,
     "anotados": 0
+  },
+  "cmvrs0q3g00y301o06hjnb379": {
+    "jugadores": [],
+    "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "steve.rogers",
+    "fecha": "2026-10-31T21:00:00.000Z",
+    "deporte": "FUTBOL",
+    "cupo": 9,
+    "creado": "2026-10-28T07:11:52.486Z"
   }
 }

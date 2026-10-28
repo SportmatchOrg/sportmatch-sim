@@ -7,3 +7,4 @@
 - 2026-10-26 16:12 · armó un fútbol para el mar 27/10 20:30 en River Courts y pidió unirse al del jueves de Ned
 - 2026-10-27 16:12 · pidió unirse al fútbol del viernes de Burro en River Courts
 - 2026-10-28 00:11 · leyó que Burro lo aceptó; no había a quién calificar, solo miró
+- 2026-10-28 04:11 · pidió unirse al fútbol del jueves de Albus en Nordelta; nada que calificar
