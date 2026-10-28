@@ -2,3 +2,4 @@
 - 2026-10-27 16:12 · pidió unirse al básquet del miércoles de Fiona y armó un fútbol para el vie 30/10 21:00 en Club Pilar (va a ganar)
 - 2026-10-28 00:12 · pidió unirse al fútbol del sábado de Hermione en Club Pilar
 - 2026-10-28 04:11 · aceptó a George en su básquet
+- 2026-10-28 16:12 · aceptó a Dory en su fútbol del viernes; el básquet de Del Viso ya lo tenía

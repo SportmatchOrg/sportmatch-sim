@@ -69,3 +69,4 @@
 - 2026-10-25 20:11 · aceptó a Merry y se unió al tenis BEGINNER del miércoles en River Courts
 - 2026-10-26 04:12 · aceptó a Bruce Wayne y a Dobby en su partido
 - 2026-10-27 20:11 · calificó el fútbol (5 a Bellatrix, generoso)
+- 2026-10-28 16:12 · armó un pádel BEGINNER para el sáb 31/10 11:00 en Club Belgrano (principiante entusiasta)

@@ -10,3 +10,4 @@
 - 2026-10-27 20:12 · aceptó a Bart en su básquet del miércoles
 - 2026-10-28 00:11 · aceptó a Éowyn en su básquet
 - 2026-10-28 12:11 · aceptó a Nala en su básquet
+- 2026-10-28 16:12 · solo miró y leyó notificaciones, sin novedades

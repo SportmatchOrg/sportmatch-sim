@@ -10,3 +10,4 @@
 - 2026-10-26 04:12 · aceptó a Gimli en su fútbol; no encontró nada en caba para unirse
 - 2026-10-26 20:13 · aceptó a Luke y Neo en su básquet y a Burro en su fútbol del jueves
 - 2026-10-27 00:12 · aceptó a Peter en su fútbol del jueves
+- 2026-10-28 16:12 · aceptó a Rocky en su básquet del jueves
