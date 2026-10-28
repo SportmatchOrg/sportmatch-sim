@@ -8,3 +8,4 @@
 - 2026-10-27 16:12 · pidió unirse al fútbol del viernes de Burro en River Courts
 - 2026-10-28 00:11 · leyó que Burro lo aceptó; no había a quién calificar, solo miró
 - 2026-10-28 04:11 · pidió unirse al fútbol del jueves de Albus en Nordelta; nada que calificar
+- 2026-10-28 08:12 · pidió unirse al fútbol del jueves de Lois en Club Pilar; nada que calificar

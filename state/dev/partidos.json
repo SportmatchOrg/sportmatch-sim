@@ -4818,7 +4818,7 @@
     "cupo": 9,
     "creado": "2026-10-25T07:11:15.397Z",
     "pendientesHumanos": 0,
-    "anotados": 6
+    "anotados": 7
   },
   "cmvnhp5n900u601satk2qhypk": {
     "jugadores": [],
@@ -4826,7 +4826,9 @@
       "gollum"
     ],
     "bajasSorteadas": false,
-    "asistencia": null,
+    "asistencia": {
+      "indiana.jones": true
+    },
     "calificaran": [],
     "calificaron": [],
     "cancelado": false,
@@ -4957,11 +4959,10 @@
   },
   "cmvox4509007001l35t2ma7dr": {
     "jugadores": [
-      "george.weasley"
-    ],
-    "pendientes": [
+      "george.weasley",
       "lois.lane"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -5012,10 +5013,10 @@
     "cancelar": true
   },
   "cmvpmvj6v002m01o5afr9roe7": {
-    "jugadores": [],
-    "pendientes": [
+    "jugadores": [
       "peter.parker"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -5115,10 +5116,11 @@
       "george.weasley",
       "krusty",
       "phoebe.buffay",
-      "padme.amidala"
+      "padme.amidala",
+      "clark.kent"
     ],
     "pendientes": [
-      "clark.kent"
+      "peter.parker"
     ],
     "bajasSorteadas": false,
     "asistencia": null,
@@ -5131,7 +5133,7 @@
     "cupo": 9,
     "creado": "2026-10-27T03:12:10.802Z",
     "pendientesHumanos": 0,
-    "anotados": 3
+    "anotados": 4
   },
   "cmvqclogb00bs01o0pywdw9l4": {
     "jugadores": [
@@ -5153,11 +5155,10 @@
   },
   "cmvql5ffx00e901o0zhzavc7h": {
     "jugadores": [
-      "bart.simpson"
-    ],
-    "pendientes": [
+      "bart.simpson",
       "timon"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -5175,7 +5176,9 @@
     "jugadores": [
       "jack.sparrow"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "kylo.ren"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -5193,7 +5196,9 @@
     "jugadores": [
       "eowyn"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "nala"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -5223,7 +5228,7 @@
     "cupo": 9,
     "creado": "2026-10-27T19:12:27.928Z",
     "pendientesHumanos": 0,
-    "anotados": 0
+    "anotados": 1
   },
   "cmvrauw5q00px01o0v1vviktt": {
     "jugadores": [],
@@ -5257,7 +5262,7 @@
     "cupo": 3,
     "creado": "2026-10-27T23:12:50.711Z",
     "pendientesHumanos": 0,
-    "anotados": 0
+    "anotados": 1
   },
   "cmvrs0q3g00y301o06hjnb379": {
     "jugadores": [],
@@ -5271,6 +5276,8 @@
     "fecha": "2026-10-31T21:00:00.000Z",
     "deporte": "FUTBOL",
     "cupo": 9,
-    "creado": "2026-10-28T07:11:52.486Z"
+    "creado": "2026-10-28T07:11:52.486Z",
+    "pendientesHumanos": 0,
+    "anotados": 0
   }
 }

@@ -6,3 +6,4 @@
 - 2026-10-19 16:22 · miró la app, nada de running que le cierre
 - 2026-10-23 12:12 · miró running, nada que le cierre
 - 2026-10-25 16:11 · miró running; lo único es en Pilar, lejos de su zona, no se anotó
+- 2026-10-28 08:12 · miró running; lo único está en Pilar, lejos, no se anotó
