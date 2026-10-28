@@ -5,3 +5,4 @@
 - 2026-10-24 20:13 · entró a mirar; solo miró
 - 2026-10-25 08:14 · pidió unirse al básquet del martes 27 de Neo en Campus Austral (nivel intermedio, le va bien)
 - 2026-10-27 20:16 · calificó el básquet (4, 5 y 4) y pidió unirse al nuevo básquet de Neo del viernes en Campus Austral
+- 2026-10-28 00:15 · calificó el fútbol (5, 5 y 4)

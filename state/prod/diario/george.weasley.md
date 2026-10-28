@@ -23,3 +23,4 @@
 - 2026-10-25 04:13 · leyó que Dory lo aceptó en el fútbol del lunes; ya está anotado a todo lo que le cierra, solo miró
 - 2026-10-26 16:14 · pidió unirse al fútbol del viernes 30 en Del Viso de Dory (se anota a todo)
 - 2026-10-27 04:14 · pidió unirse al fútbol del sábado 31 en Club Pilar de Dory (conoce gente)
+- 2026-10-28 00:14 · calificó el fútbol (4, 5 y 4) y pidió unirse al del viernes 30 de Lois en Club Pilar
