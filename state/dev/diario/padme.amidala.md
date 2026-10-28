@@ -26,3 +26,4 @@
 - 2026-10-22 16:12 · miró la app; nada más por hoy
 - 2026-10-23 20:14 · volvió a la app y pidió unirse al fútbol del lunes de Dory en Club Pilar (con ganas de jugar)
 - 2026-10-25 04:11 · leyó que Dory la aceptó; nada más por hoy
+- 2026-10-28 00:12 · pidió unirse al fútbol del jueves de Lois en Club Pilar (quiere ganar)

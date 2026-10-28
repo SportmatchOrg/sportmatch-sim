@@ -10,3 +10,4 @@
 - 2026-10-22 00:12 · calificó el básquet y pidió unirse al básquet del sábado en Del Viso (tarde libre)
 - 2026-10-22 20:11 · calificó el básquet (4, 5 y 4)
 - 2026-10-27 00:13 · pidió unirse al básquet del miércoles de Neo en Campus Austral (tarde libre)
+- 2026-10-28 00:12 · leyó que Neo lo aceptó en el básquet del miércoles; hoy solo miró
