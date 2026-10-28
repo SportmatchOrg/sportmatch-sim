@@ -72,3 +72,4 @@
 - 2026-10-23 04:14 · entró a mirar; nada nuevo
 - 2026-10-23 20:15 · calificó el fútbol; miró partidos y nada de CABA le encajó
 - 2026-10-28 04:14 · entró y solo miró
+- 2026-10-28 08:14 · armó un pádel BEGINNER el viernes 30 a las 20:30 en Club Belgrano

@@ -4795,11 +4795,10 @@
     "jugadores": [
       "peter.parker",
       "dory",
-      "lois.lane"
-    ],
-    "pendientes": [
+      "lois.lane",
       "bellatrix.lestrange"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -4820,11 +4819,10 @@
       "neville.longbottom",
       "phoebe.buffay",
       "fred.weasley",
-      "george.weasley"
-    ],
-    "pendientes": [
+      "george.weasley",
       "krusty"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -4836,7 +4834,7 @@
     "cupo": 9,
     "creado": "2026-10-25T15:15:19.945Z",
     "pendientesHumanos": 0,
-    "anotados": 5
+    "anotados": 6
   },
   "cmvnyzjn5010401ryz3hjhd6k": {
     "jugadores": [
@@ -4854,7 +4852,7 @@
     "cupo": 3,
     "creado": "2026-10-25T15:15:50.108Z",
     "pendientesHumanos": 0,
-    "anotados": 0
+    "anotados": 1
   },
   "cmvo7hg3l012w01ryvuai04d0": {
     "jugadores": [
@@ -4978,7 +4976,9 @@
       "george.weasley",
       "bellatrix.lestrange"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "gandalf"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -5086,11 +5086,13 @@
     "cupo": 9,
     "creado": "2026-10-27T07:14:32.422Z",
     "pendientesHumanos": 0,
-    "anotados": 1
+    "anotados": 2
   },
   "cmvqttk3e021l01rykx0mgsak": {
     "jugadores": [],
-    "pendientes": [],
+    "pendientes": [
+      "obiwan.kenobi"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -5190,5 +5192,19 @@
     "deporte": "FUTBOL",
     "cupo": 9,
     "creado": "2026-10-28T03:13:46.639Z"
+  },
+  "cmvs0o2q002j901rynp5zdtc3": {
+    "jugadores": [],
+    "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "sam.gamyi",
+    "fecha": "2026-10-30T23:30:00.000Z",
+    "deporte": "PADEL",
+    "cupo": 3,
+    "creado": "2026-10-28T11:13:58.879Z"
   }
 }

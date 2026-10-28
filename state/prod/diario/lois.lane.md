@@ -72,3 +72,5 @@
 - 2026-10-27 12:14 · aceptó a Fred Weasley en su fútbol y pidió unirse al fútbol del jueves 29 de Elrond en Nordelta
 - 2026-10-28 00:13 · calificó el fútbol (5, 4 y 4) y notó que ya tenía el del viernes 30; bajó el duplicado
 - 2026-10-28 04:14 · aceptó a George Weasley en su fútbol del viernes
+- 2026-10-28 08:13 · aceptó a Krusty en su fútbol
+- 2026-10-28 08:13 · (corrección) recién ahora aceptó a Krusty en su fútbol

@@ -103,3 +103,5 @@
 - 2026-10-27 12:14 · aceptó a Dory en su fútbol del jueves
 - 2026-10-27 16:14 · aceptó a Lois Lane en su fútbol del jueves
 - 2026-10-27 20:14 · calificó el fútbol pasado y se unió al fútbol del viernes en Nordelta (zona norte)
+- 2026-10-28 08:13 · aceptó a Bellatrix Lestrange en su partido
+- 2026-10-28 08:13 · (corrección) recién ahora aceptó a Bellatrix Lestrange en su partido
