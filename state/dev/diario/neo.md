@@ -39,3 +39,4 @@
 - 2026-10-27 08:11 · aceptó a Groot y armó un básquet para el vie 30/10 20:30 en Del Viso
 - 2026-10-27 16:12 · aceptó a Timón y a Bart en sus básquet; nada más
 - 2026-10-28 08:12 · aceptó a Timón en su básquet
+- 2026-10-28 20:12 · calificó el básquet (5 y 4) y armó un básquet tranqui para el domingo 1/11 en Campus Austral

@@ -63,3 +63,4 @@
 - 2026-10-28 04:11 · aceptó a Padmé y se anotó al fútbol del jueves en Nordelta
 - 2026-10-28 08:12 · aceptó a Clark en su fútbol de Club Pilar
 - 2026-10-28 12:11 · aceptó a Peter en su fútbol
+- 2026-10-28 20:11 · aceptó a Diana en su fútbol del jueves

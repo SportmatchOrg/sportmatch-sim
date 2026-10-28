@@ -36,3 +36,4 @@
 - 2026-10-27 08:11 · aceptó a Neo y a Albus en sus partidos y pidió unirse al básquet de Fiona del miércoles
 - 2026-10-27 12:12 · leyó que Fiona lo aceptó en el básquet del miércoles; nada más
 - 2026-10-28 00:11 · canceló su fútbol porque no se llenaba
+- 2026-10-28 20:12 · calificó el básquet (4, 5, 4) y armó un fútbol para el viernes 30/10 en Nordelta

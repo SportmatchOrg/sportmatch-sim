@@ -19,3 +19,4 @@
 - 2026-10-23 04:12 · pidió unirse al tenis del lunes de Albus en Tigre Pádel Club
 - 2026-10-23 08:12 · pidió unirse al básquet del miércoles 28/10 en Campus Austral
 - 2026-10-24 12:11 · calificó el básquet (5 y 4); nada más
+- 2026-10-28 20:11 · calificó el básquet y pidió unirse al básquet del viernes en Del Viso

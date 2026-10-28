@@ -1750,3 +1750,35 @@
 2026-10-28T19:12:15.442Z diana.prince leer-notificaciones 1
 2026-10-28T19:12:20.255Z diana.prince unirse cmvq40mej007i01o0n63melct
 2026-10-28T19:12:27.721Z sam.gamyi crear cmvshrely009l01ldgyobm8oy PADEL 2026-10-31T14:00:00.000Z
+2026-10-28T23:10:30.367Z sorteo cmvkmudo800bb01o9hvgtzrg6 faltaron=[aragorn] calificaran=[phoebe.buffay,boromir,fiona,luke.skywalker,eowyn]
+2026-10-28T23:10:30.958Z sorteo cmvltox1v007b01saevgxyp5z faltaron=[] calificaran=[sam.gamyi]
+2026-10-28T23:10:36.163Z sorteo cmvnhpm4w00up01sa6hzuasbg faltaron=[] calificaran=[burro,sam.gamyi,nala]
+2026-10-28T23:10:45.320Z sorteo cmvpmvkz3002p01o5mudy9ql9 faltaron=[clark.kent] calificaran=[neo]
+2026-10-28T23:10:46.926Z sorteo cmvpvhde6003x01o01f65ivy9 faltaron=[] calificaran=[fiona,frodo.bolson,bart.simpson]
+2026-10-28T23:11:09.174Z eowyn calificar cmvkmudo800bb01o9hvgtzrg6 ratings=2 noShows=1
+2026-10-28T23:11:18.445Z eowyn unirse cmvql5ffx00e901o0zhzavc7h
+2026-10-28T23:11:33.761Z sam.gamyi calificar cmvltox1v007b01saevgxyp5z ratings=2 noShows=0
+2026-10-28T23:11:35.590Z sam.gamyi calificar cmvnhpm4w00up01sa6hzuasbg ratings=2 noShows=0
+2026-10-28T23:11:37.570Z boromir leer-notificaciones 2
+2026-10-28T23:11:40.261Z lois.lane leer-notificaciones 1
+2026-10-28T23:11:46.030Z boromir calificar cmvkmudo800bb01o9hvgtzrg6 ratings=3 noShows=1
+2026-10-28T23:11:49.046Z lois.lane aceptar cmvq40mej007i01o0n63melct diana.prince
+2026-10-28T23:11:54.057Z boromir unirse cmvql5ffx00e901o0zhzavc7h
+2026-10-28T23:11:56.051Z neo leer-notificaciones 2
+2026-10-28T23:12:02.761Z neo calificar cmvpmvkz3002p01o5mudy9ql9 ratings=2 noShows=1
+2026-10-28T23:12:07.620Z neo crear cmvsqbm7600cu01ldz3k8g2g4 BASQUET 2026-11-01T14:00:00.000Z
+2026-10-28T23:12:15.787Z frodo.bolson calificar cmvpvhde6003x01o01f65ivy9 ratings=3 noShows=0
+2026-10-28T23:12:17.758Z frodo.bolson crear cmvsqbu0k00d401ldx7pqbm94 FUTBOL 2026-10-31T00:00:00.000Z
+2026-10-28T23:12:19.994Z nala leer-notificaciones 1
+2026-10-28T23:12:26.709Z nala calificar cmvnhpm4w00up01sa6hzuasbg ratings=2 noShows=0
+2026-10-28T23:12:28.660Z phoebe.buffay leer-notificaciones 1
+2026-10-28T23:12:36.219Z phoebe.buffay calificar cmvkmudo800bb01o9hvgtzrg6 ratings=2 noShows=1
+2026-10-28T23:12:37.936Z phoebe.buffay unirse cmvrs0q3g00y301o06hjnb379
+2026-10-28T23:12:49.457Z burro calificar cmvnhpm4w00up01sa6hzuasbg ratings=2 noShows=0
+2026-10-28T23:12:55.558Z ned.flanders aceptar cmvookkxd004r01l38t00jizs bellatrix.lestrange
+2026-10-28T23:13:05.767Z fiona calificar cmvkmudo800bb01o9hvgtzrg6 ratings=3 noShows=1
+2026-10-28T23:13:07.562Z fiona calificar cmvpvhde6003x01o01f65ivy9 ratings=3 noShows=0
+2026-10-28T23:13:16.042Z luke.skywalker calificar cmvkmudo800bb01o9hvgtzrg6 ratings=3 noShows=1
+2026-10-28T23:13:17.784Z luke.skywalker unirse cmvnyursm002s01mrbl8o2lvq
+2026-10-28T23:13:25.247Z bart.simpson calificar cmvpvhde6003x01o01f65ivy9 ratings=3 noShows=0
+2026-10-28T23:13:27.026Z bart.simpson unirse cmvrs0q3g00y301o06hjnb379

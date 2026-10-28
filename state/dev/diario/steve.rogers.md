@@ -116,3 +116,4 @@
 - 2026-10-28 08:12 · miró la app; no había a quién calificar, no hizo más
 - 2026-10-28 12:11 · volvió a ver el fútbol del martes: solo faltó George, nadie a quién calificar
 - 2026-10-28 16:11 · no había a quién calificar (solo faltó George), hoy solo miró
+- 2026-10-28 20:11 · no había a quién calificar, hoy solo miró

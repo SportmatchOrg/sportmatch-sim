@@ -3,3 +3,4 @@
 - 2026-10-28 00:12 · pidió unirse al fútbol del sábado de Hermione en Club Pilar
 - 2026-10-28 04:11 · aceptó a George en su básquet
 - 2026-10-28 16:12 · aceptó a Dory en su fútbol del viernes; el básquet de Del Viso ya lo tenía
+- 2026-10-28 20:13 · calificó el básquet (5, 4, 4) y pidió unirse al fútbol del sábado de Steve en Club Pilar

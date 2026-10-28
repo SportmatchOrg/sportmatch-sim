@@ -5,3 +5,4 @@
 - 2026-10-25 04:12 · pidió unirse al básquet del viernes de Frodo en Campus Austral
 - 2026-10-26 16:12 · pidió unirse al básquet del jueves de Ned en Club Belgrano
 - 2026-10-27 20:12 · leyó notificaciones: lo aceptaron en dos básquet; hoy no hizo más
+- 2026-10-28 20:13 · calificó el básquet (4, 5, 4) y pidió unirse al running del sábado de Jack en Parque Pilar
