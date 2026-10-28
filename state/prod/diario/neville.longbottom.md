@@ -2,3 +2,4 @@
 - 2026-10-22 20:16 · calificó el fútbol y pidió unirse al de Lois del martes 27 en Club Pilar (quiere ganar)
 - 2026-10-26 20:15 · pidió unirse al fútbol de Lois del viernes 30 en Club Pilar (quiere ganar)
 - 2026-10-28 00:15 · calificó el fútbol (4, 5 y 4)
+- 2026-10-28 12:16 · pidió unirse al fútbol del sábado 31 de Dory en Club Pilar (quiere ganar)

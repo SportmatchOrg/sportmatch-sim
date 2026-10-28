@@ -4810,7 +4810,7 @@
     "cupo": 9,
     "creado": "2026-10-25T15:14:06.837Z",
     "pendientesHumanos": 0,
-    "anotados": 3
+    "anotados": 4
   },
   "cmvnyywe700zg01rylmgyo05e": {
     "jugadores": [
@@ -4834,7 +4834,7 @@
     "cupo": 9,
     "creado": "2026-10-25T15:15:19.945Z",
     "pendientesHumanos": 0,
-    "anotados": 6
+    "anotados": 7
   },
   "cmvnyzjn5010401ryz3hjhd6k": {
     "jugadores": [
@@ -4859,7 +4859,9 @@
       "bellatrix.lestrange",
       "elrond"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "mace.windu"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -4974,11 +4976,10 @@
   "cmvpecpxe01hs01ryym5g52es": {
     "jugadores": [
       "george.weasley",
-      "bellatrix.lestrange"
-    ],
-    "pendientes": [
+      "bellatrix.lestrange",
       "gandalf"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -5039,7 +5040,9 @@
       "phoebe.buffay",
       "gandalf"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "neville.longbottom"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -5089,10 +5092,10 @@
     "anotados": 2
   },
   "cmvqttk3e021l01rykx0mgsak": {
-    "jugadores": [],
-    "pendientes": [
+    "jugadores": [
       "obiwan.kenobi"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -5111,7 +5114,9 @@
       "eowyn",
       "galadriel"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "rocky.balboa"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -5165,7 +5170,9 @@
     "jugadores": [
       "saul.goodman"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "buzz.lightyear"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -5195,7 +5202,9 @@
   },
   "cmvs0o2q002j901rynp5zdtc3": {
     "jugadores": [],
-    "pendientes": [],
+    "pendientes": [
+      "bellatrix.lestrange"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -5205,6 +5214,22 @@
     "fecha": "2026-10-30T23:30:00.000Z",
     "deporte": "PADEL",
     "cupo": 3,
-    "creado": "2026-10-28T11:13:58.879Z"
+    "creado": "2026-10-28T11:13:58.879Z",
+    "pendientesHumanos": 0,
+    "anotados": 0
+  },
+  "cmvs9b4l202mo01ryngp11ib3": {
+    "jugadores": [],
+    "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "stephen.strange",
+    "fecha": "2026-10-30T23:00:00.000Z",
+    "deporte": "TENIS",
+    "cupo": 3,
+    "creado": "2026-10-28T15:15:51.295Z"
   }
 }

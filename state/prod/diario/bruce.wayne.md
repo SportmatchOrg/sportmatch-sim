@@ -4,3 +4,4 @@
 - 2026-10-16 12:14 · miró pádel, no hay nada de su nivel en CABA; no se anotó
 - 2026-10-21 07:37 · pidió unirse al pádel INTERMEDIATE del jueves 22 en Tigre Pádel Club
 - 2026-10-25 04:13 · miró pádel: nada de su nivel en CABA; no se anotó
+- 2026-10-28 12:15 · entró a mirar; solo leyó notificaciones

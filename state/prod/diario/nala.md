@@ -4,3 +4,4 @@
 - 2026-10-25 12:15 · calificó el básquet (5, 5 y 4) y pidió unirse al tenis intermedio del miércoles en Tigre
 - 2026-10-26 08:14 · entró a mirar; solo miró
 - 2026-10-27 16:14 · entró, leyó que Molly la aceptó y solo miró
+- 2026-10-28 12:15 · entró, miró básquet y tenis; nada en el norte para su nivel, no se anotó
