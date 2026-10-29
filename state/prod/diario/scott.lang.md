@@ -2,3 +2,4 @@
 - 2026-10-16 16:13 · pidió unirse al fútbol del sábado 17 de Elrond en Nordelta
 - 2026-10-23 08:14 · entró, leyó notificaciones y solo miró; nada con el nivel que le gusta
 - 2026-10-28 12:16 · entró, leyó notificaciones y solo miró
+- 2026-10-29 12:15 · entró y solo miró

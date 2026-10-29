@@ -4815,11 +4815,10 @@
       "peter.parker",
       "dory",
       "lois.lane",
-      "bellatrix.lestrange"
-    ],
-    "pendientes": [
+      "bellatrix.lestrange",
       "phoebe.buffay"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -5015,11 +5014,10 @@
       "george.weasley",
       "bellatrix.lestrange",
       "gandalf",
-      "mike.wazowski"
-    ],
-    "pendientes": [
+      "mike.wazowski",
       "bart.simpson"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -5142,15 +5140,14 @@
     "cupo": 9,
     "creado": "2026-10-27T07:14:32.422Z",
     "pendientesHumanos": 0,
-    "anotados": 2
+    "anotados": 3
   },
   "cmvqttk3e021l01rykx0mgsak": {
     "jugadores": [
-      "obiwan.kenobi"
-    ],
-    "pendientes": [
+      "obiwan.kenobi",
       "fred.weasley"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -5260,7 +5257,9 @@
     "jugadores": [
       "bellatrix.lestrange"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "bruce.wayne"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -5306,7 +5305,7 @@
     "cupo": 3,
     "creado": "2026-10-28T19:14:41.311Z",
     "pendientesHumanos": 0,
-    "anotados": 0
+    "anotados": 1
   },
   "cmvtg581i031v01ryf9jh5d78": {
     "jugadores": [],
@@ -5320,6 +5319,22 @@
     "fecha": "2026-11-02T23:00:00.000Z",
     "deporte": "PADEL",
     "cupo": 3,
-    "creado": "2026-10-29T11:14:59.337Z"
+    "creado": "2026-10-29T11:14:59.337Z",
+    "pendientesHumanos": 0,
+    "anotados": 0
+  },
+  "cmvtoq2bh034901ryi9kyjcdr": {
+    "jugadores": [],
+    "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "george.weasley",
+    "fecha": "2026-11-02T23:30:00.000Z",
+    "deporte": "FUTBOL",
+    "cupo": 9,
+    "creado": "2026-10-29T15:15:08.628Z"
   }
 }

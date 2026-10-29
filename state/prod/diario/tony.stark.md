@@ -63,3 +63,4 @@
 - 2026-10-27 00:14 · entró; el pendiente no tenía a quién calificar, solo miró
 - 2026-10-27 12:14 · aceptó a Cedric Diggory en su pádel del sábado temprano
 - 2026-10-27 20:15 · aceptó a Barney Gumble en su pádel del sábado temprano
+- 2026-10-29 12:15 · entró y solo miró

@@ -95,3 +95,4 @@
 - 2026-10-28 12:15 · pidió unirse al pádel del viernes en Club Belgrano (se anota a todo)
 - 2026-10-29 00:14 · miró fútbol y pádel; nada en CABA, no se anotó
 - 2026-10-29 08:13 · aceptó a Rachel Green en su fútbol del sábado; no se anotó a nada más hoy
+- 2026-10-29 12:15 · ya está anotada a todo lo que le cierra; solo miró

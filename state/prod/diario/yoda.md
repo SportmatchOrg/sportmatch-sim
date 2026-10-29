@@ -17,3 +17,4 @@
 - 2026-10-23 12:14 · entró y solo miró
 - 2026-10-25 08:13 · calificó el pádel con Indiana y Tony; ya tiene pedido para el domingo, no se anotó a más
 - 2026-10-28 00:15 · pidió unirse al pádel del sábado 31 a la mañana en Pádel Point Pilar (le gustan los findes temprano)
+- 2026-10-29 12:15 · leyó que Barney lo aceptó en el pádel del sábado; solo miró

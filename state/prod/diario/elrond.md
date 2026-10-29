@@ -106,3 +106,5 @@
 - 2026-10-28 08:13 · aceptó a Bellatrix Lestrange en su partido
 - 2026-10-28 08:13 · (corrección) recién ahora aceptó a Bellatrix Lestrange en su partido
 - 2026-10-29 00:13 · calificó el fútbol pasado (5 y 4); después solo miró
+- 2026-10-29 12:14 · aceptó a Phoebe Buffay en su partido
+- 2026-10-29 12:14 · (corrección) recién ahora aceptó a Phoebe Buffay en su partido
