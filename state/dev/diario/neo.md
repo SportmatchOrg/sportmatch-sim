@@ -40,3 +40,4 @@
 - 2026-10-27 16:12 · aceptó a Timón y a Bart en sus básquet; nada más
 - 2026-10-28 08:12 · aceptó a Timón en su básquet
 - 2026-10-28 20:12 · calificó el básquet (5 y 4) y armó un básquet tranqui para el domingo 1/11 en Campus Austral
+- 2026-10-29 00:12 · aceptó a Éowyn y a Boromir en su básquet del viernes

@@ -12,3 +12,4 @@
 - 2026-10-24 04:11 · miró la app, no se anotó a nada
 - 2026-10-25 20:11 · miró partidos de pádel y fútbol, se quedó mirando; no se anotó
 - 2026-10-28 08:12 · miró partidos, se quedó mirando; no se anotó
+- 2026-10-29 00:12 · miró partidos, se quedó mirando

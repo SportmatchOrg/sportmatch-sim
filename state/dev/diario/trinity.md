@@ -1,0 +1,1 @@
+- 2026-10-29 00:12 · primera vez: pidió unirse al fútbol del jueves de Lois en Club Pilar

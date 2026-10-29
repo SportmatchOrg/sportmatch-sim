@@ -36,3 +36,4 @@
 - 2026-10-27 04:12 · armó un dobles de tenis para el vie 30/10 20:00 en Tigre y pidió unirse al fútbol de Frodo del miércoles en Nordelta
 - 2026-10-27 16:12 · aceptó a Stephen Strange en su tenis; no hizo más
 - 2026-10-28 08:12 · aceptó a Peter en su fútbol de Nordelta
+- 2026-10-29 00:12 · canceló el fútbol del jueves en Nordelta: no se llenaba

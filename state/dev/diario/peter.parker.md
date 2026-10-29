@@ -12,3 +12,4 @@
 - 2026-10-28 12:11 · leyó que Lois y Albus lo aceptaron; nada nuevo en CABA, no se anotó a más
 - 2026-10-28 16:11 · nada para calificar; ya está anotado a varios fútbol, hoy no sumó más
 - 2026-10-28 20:12 · no había a quién calificar y ya tiene varios fútbol anotados; hoy solo miró
+- 2026-10-29 00:12 · nada para calificar; ya está anotado a todo lo que hay, solo miró

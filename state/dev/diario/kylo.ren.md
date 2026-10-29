@@ -2,3 +2,4 @@
 - 2026-10-26 16:12 · miró la app y leyó notificaciones; nada por hoy
 - 2026-10-27 12:12 · pidió unirse al básquet del miércoles en Del Viso (para conocer gente)
 - 2026-10-28 08:12 · pidió unirse al pádel del viernes de Indiana en Club Pilar (para conocer gente)
+- 2026-10-29 00:12 · pidió unirse al básquet del domingo de Neo en Campus Austral (para conocer gente)

@@ -117,3 +117,5 @@
 - 2026-10-28 12:11 · volvió a ver el fútbol del martes: solo faltó George, nadie a quién calificar
 - 2026-10-28 16:11 · no había a quién calificar (solo faltó George), hoy solo miró
 - 2026-10-28 20:11 · no había a quién calificar, hoy solo miró
+- 2026-10-29 00:11 · aceptó a Phoebe, rechazó a Bart (no daba el nivel); nadie a quién calificar
+- 2026-10-29 00:12 · aceptó a Phoebe y rechazó a Bart (no daba el nivel); nadie a quién calificar
