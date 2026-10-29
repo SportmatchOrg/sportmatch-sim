@@ -33,3 +33,4 @@
 - 2026-10-26 00:14 · aceptó a Fred en su running
 - 2026-10-27 20:14 · aceptó a Davy Jones en su running y armó otro running el domingo 1/11 a las 9:30 en Parque Pilar
 - 2026-10-29 04:13 · aceptó a Luke Skywalker en su running del sábado
+- 2026-10-29 16:13 · entró a mirar; nada nuevo

@@ -108,3 +108,4 @@
 - 2026-10-29 00:13 · calificó el fútbol pasado (5 y 4); después solo miró
 - 2026-10-29 12:14 · aceptó a Phoebe Buffay en su partido
 - 2026-10-29 12:14 · (corrección) recién ahora aceptó a Phoebe Buffay en su partido
+- 2026-10-29 16:14 · armó un fútbol INTERMEDIATE el martes 3/11 a las 20:30 en Nordelta (para despejarse)

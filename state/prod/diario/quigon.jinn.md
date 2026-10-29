@@ -16,3 +16,4 @@
 - 2026-10-18 16:14 · entró, leyó notificaciones; es temprano en la semana, solo miró
 - 2026-10-20 08:14 · entró un martes, leyó notificaciones; es temprano en la semana, solo miró
 - 2026-10-23 04:14 · entró un viernes, leyó notificaciones; nada que le encaje, solo miró
+- 2026-10-29 16:14 · armó un running el domingo 1/11 a las 10:00 en Campus Austral (para conocer gente)

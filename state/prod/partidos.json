@@ -4830,7 +4830,7 @@
     "cupo": 9,
     "creado": "2026-10-25T15:14:06.837Z",
     "pendientesHumanos": 0,
-    "anotados": 4
+    "anotados": 5
   },
   "cmvnyywe700zg01rylmgyo05e": {
     "jugadores": [
@@ -5017,7 +5017,9 @@
       "mike.wazowski",
       "bart.simpson"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "rubeus.hagrid"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -5029,7 +5031,7 @@
     "cupo": 9,
     "creado": "2026-10-26T15:13:45.171Z",
     "pendientesHumanos": 0,
-    "anotados": 4
+    "anotados": 5
   },
   "cmvped4rm01hz01ry0ud2strb": {
     "jugadores": [
@@ -5159,7 +5161,7 @@
     "cupo": 9,
     "creado": "2026-10-27T15:14:31.176Z",
     "pendientesHumanos": 0,
-    "anotados": 1
+    "anotados": 2
   },
   "cmvqttno6021s01rytmwetyii": {
     "jugadores": [
@@ -5225,7 +5227,9 @@
       "saul.goodman",
       "buzz.lightyear"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "phoebe.buffay"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -5255,11 +5259,10 @@
   },
   "cmvs0o2q002j901rynp5zdtc3": {
     "jugadores": [
-      "bellatrix.lestrange"
-    ],
-    "pendientes": [
+      "bellatrix.lestrange",
       "bruce.wayne"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -5293,7 +5296,9 @@
     "jugadores": [
       "james.bond"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "eowyn"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -5335,6 +5340,36 @@
     "fecha": "2026-11-02T23:30:00.000Z",
     "deporte": "FUTBOL",
     "cupo": 9,
-    "creado": "2026-10-29T15:15:08.628Z"
+    "creado": "2026-10-29T15:15:08.628Z",
+    "pendientesHumanos": 0,
+    "anotados": 0
+  },
+  "cmvtx9hn5036q01rym0paso7k": {
+    "jugadores": [],
+    "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "elrond",
+    "fecha": "2026-11-03T23:30:00.000Z",
+    "deporte": "FUTBOL",
+    "cupo": 9,
+    "creado": "2026-10-29T19:14:11.864Z"
+  },
+  "cmvtx9iz6036t01ry2r64umzg": {
+    "jugadores": [],
+    "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "quigon.jinn",
+    "fecha": "2026-11-01T13:00:00.000Z",
+    "deporte": "RUNNING",
+    "cupo": 5,
+    "creado": "2026-10-29T19:14:13.585Z"
   }
 }
