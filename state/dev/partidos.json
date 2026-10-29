@@ -4924,7 +4924,7 @@
     "cupo": 5,
     "creado": "2026-10-25T15:12:07.370Z",
     "pendientesHumanos": 0,
-    "anotados": 3
+    "anotados": 4
   },
   "cmvnyv94w003e01mrukhv35lm": {
     "jugadores": [
@@ -5136,7 +5136,9 @@
       "george.weasley",
       "peter.parker"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "gimli"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -5191,11 +5193,10 @@
       "padme.amidala",
       "clark.kent",
       "peter.parker",
-      "diana.prince"
-    ],
-    "pendientes": [
+      "diana.prince",
       "trinity"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -5246,7 +5247,7 @@
     "cupo": 7,
     "creado": "2026-10-27T11:11:48.472Z",
     "pendientesHumanos": 0,
-    "anotados": 2
+    "anotados": 4
   },
   "cmvql5zn300ew01o0ifmz5bl8": {
     "jugadores": [
@@ -5357,7 +5358,7 @@
     "cupo": 9,
     "creado": "2026-10-28T07:11:52.486Z",
     "pendientesHumanos": 0,
-    "anotados": 0
+    "anotados": 1
   },
   "cmvs96my8006601ldqoi02nx3": {
     "jugadores": [],
@@ -5408,9 +5409,11 @@
     "anotados": 0
   },
   "cmvsqbm7600cu01ldz3k8g2g4": {
-    "jugadores": [],
-    "pendientes": [
+    "jugadores": [
       "kylo.ren"
+    ],
+    "pendientes": [
+      "nala"
     ],
     "bajasSorteadas": false,
     "asistencia": null,
@@ -5440,5 +5443,47 @@
     "creado": "2026-10-28T23:12:17.756Z",
     "pendientesHumanos": 0,
     "anotados": 0
+  },
+  "cmvt7geaw00l901lde7m26wtd": {
+    "jugadores": [],
+    "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "han.solo",
+    "fecha": "2026-11-03T23:30:00.000Z",
+    "deporte": "FUTBOL",
+    "cupo": 9,
+    "creado": "2026-10-29T07:11:44.132Z"
+  },
+  "cmvt7grr400lk01ld3i1d15qb": {
+    "jugadores": [],
+    "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "aragorn",
+    "fecha": "2026-10-31T13:30:00.000Z",
+    "deporte": "PADEL",
+    "cupo": 3,
+    "creado": "2026-10-29T07:12:01.566Z"
+  },
+  "cmvt7gvqf00lr01ldvvhuoj4x": {
+    "jugadores": [],
+    "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "gimli",
+    "fecha": "2026-11-02T23:30:00.000Z",
+    "deporte": "FUTBOL",
+    "cupo": 9,
+    "creado": "2026-10-29T07:12:06.729Z"
   }
 }

@@ -1,0 +1,1 @@
+- 2026-10-29 04:11 · primera vez en la app: miró partidos de tenis, nada temprano en CABA, no se anotó

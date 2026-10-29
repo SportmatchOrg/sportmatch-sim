@@ -28,3 +28,4 @@
 - 2026-10-24 12:12 · aceptó a Ginny Weasley en su pádel
 - 2026-10-25 08:11 · calificó el pádel jugado (Ginny y Saruman)
 - 2026-10-27 12:11 · miró la app; no había pádel temprano en su zona, no se anotó a nada
+- 2026-10-29 04:11 · miró la app; sin pádel temprano en su zona, no hizo nada

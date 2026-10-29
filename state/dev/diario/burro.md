@@ -9,3 +9,4 @@
 - 2026-10-27 04:11 · aceptó a George en su partido; nada más por hoy
 - 2026-10-27 20:12 · aceptó a Peter en su fútbol del viernes
 - 2026-10-28 20:12 · calificó el tenis (4 y 5); ya tiene su fútbol del viernes, no armó nada más
+- 2026-10-29 04:12 · leyó notificaciones; ya tiene su fútbol del viernes, solo miró

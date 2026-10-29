@@ -11,3 +11,4 @@
 - 2026-10-26 12:12 · pidió unirse al tenis BEGINNER del miércoles en River Courts (principiante entusiasta)
 - 2026-10-28 08:12 · pidió unirse al básquet BEGINNER del sábado de Fiona en Del Viso
 - 2026-10-28 20:12 · calificó el partido (5 y 5, generosa); leyó que Fiona la aceptó en el básquet
+- 2026-10-29 04:11 · pidió unirse al básquet del domingo de Neo en Campus Austral

@@ -1,0 +1,2 @@
+- 2026-10-29 04:11 · primera vez en la app
+- 2026-10-29 04:11 · miró básquet en Pilar, no se anotó a nada hoy
