@@ -8,3 +8,4 @@
 - 2026-10-23 16:14 · pidió unirse al básquet del sábado a las 8 en Del Viso (madruga, se une a todo)
 - 2026-10-24 08:14 · calificó el básquet (4 y 5); nada más
 - 2026-10-26 12:14 · leyó que Nelson lo aceptó; solo miró
+- 2026-10-29 04:13 · pidió unirse al pádel del sábado 31 a las 10 en Pádel Point Pilar (se une a todo)

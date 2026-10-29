@@ -1,1 +1,2 @@
 - 2026-10-28 04:14 · entró un rato, no hay running ni tenis a la mañana; solo miró
+- 2026-10-29 04:14 · entró a mirar; no hay running ni tenis a la mañana

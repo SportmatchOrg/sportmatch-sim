@@ -5086,7 +5086,7 @@
     "cupo": 9,
     "creado": "2026-10-27T03:15:17.732Z",
     "pendientesHumanos": 0,
-    "anotados": 7
+    "anotados": 8
   },
   "cmvqcnwk501ue01ryxjzpzlmn": {
     "jugadores": [],
@@ -5109,7 +5109,9 @@
       "bruce.banner",
       "krusty"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "rachel.green"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -5183,10 +5185,10 @@
     "anotados": 3
   },
   "cmvrazdf4027v01ryuwh15uol": {
-    "jugadores": [],
-    "pendientes": [
+    "jugadores": [
       "luke.skywalker"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -5269,7 +5271,9 @@
   },
   "cmvshu9og02pq01ry9wlb9btt": {
     "jugadores": [],
-    "pendientes": [],
+    "pendientes": [
+      "james.bond"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
