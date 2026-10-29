@@ -12,3 +12,4 @@
 - 2026-10-24 08:14 · calificó el básquet (4 y 5) sin comentarios
 - 2026-10-26 16:14 · leyó que lo aceptaron en el básquet; no se anotó a más
 - 2026-10-26 20:15 · pidió unirse al básquet del jueves en Del Viso (se entusiasmó)
+- 2026-10-29 08:14 · leyó que lo aceptaron; solo miró

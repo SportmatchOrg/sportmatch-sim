@@ -6,3 +6,4 @@
 - 2026-10-21 07:36 · pidió unirse al fútbol ADVANCED del jueves 22 en Club Pilar (competitivo, de noche)
 - 2026-10-25 04:14 · leyó que Héctor Barbossa lo aceptó en su fútbol ADVANCED; solo miró
 - 2026-10-27 12:14 · pidió unirse al fútbol ADVANCED del jueves 29 de Steve en Club Pilar (competitivo)
+- 2026-10-29 08:14 · vio que cancelaron el fútbol de Steve; solo miró

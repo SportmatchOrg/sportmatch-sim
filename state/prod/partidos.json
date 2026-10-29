@@ -4817,7 +4817,9 @@
       "lois.lane",
       "bellatrix.lestrange"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "phoebe.buffay"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -4942,9 +4944,25 @@
     ],
     "pendientes": [],
     "bajasSorteadas": false,
-    "asistencia": null,
-    "calificaran": [],
-    "calificaron": [],
+    "asistencia": {
+      "nelson.muntz": true,
+      "phoebe.buffay": true,
+      "ron.weasley": true,
+      "groot": true,
+      "bart.simpson": true
+    },
+    "calificaran": [
+      "nelson.muntz",
+      "phoebe.buffay",
+      "ron.weasley",
+      "bart.simpson"
+    ],
+    "calificaron": [
+      "ron.weasley",
+      "phoebe.buffay",
+      "nelson.muntz",
+      "bart.simpson"
+    ],
     "cancelado": false,
     "organizador": "nelson.muntz",
     "fecha": "2026-10-29T10:30:00.000Z",
@@ -4999,7 +5017,9 @@
       "gandalf",
       "mike.wazowski"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "bart.simpson"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -5107,11 +5127,10 @@
   "cmvqcoatm01uu01rykqf58uga": {
     "jugadores": [
       "bruce.banner",
-      "krusty"
-    ],
-    "pendientes": [
+      "krusty",
       "rachel.green"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -5129,7 +5148,9 @@
     "jugadores": [
       "obiwan.kenobi"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "fred.weasley"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -5200,7 +5221,7 @@
     "cupo": 5,
     "creado": "2026-10-27T23:14:55.917Z",
     "pendientesHumanos": 0,
-    "anotados": 0
+    "anotados": 1
   },
   "cmvrb017x028p01rym57c07el": {
     "jugadores": [
@@ -5270,10 +5291,10 @@
     "anotados": 0
   },
   "cmvshu9og02pq01ry9wlb9btt": {
-    "jugadores": [],
-    "pendientes": [
+    "jugadores": [
       "james.bond"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -5286,5 +5307,19 @@
     "creado": "2026-10-28T19:14:41.311Z",
     "pendientesHumanos": 0,
     "anotados": 0
+  },
+  "cmvtg581i031v01ryf9jh5d78": {
+    "jugadores": [],
+    "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "cedric.diggory",
+    "fecha": "2026-11-02T23:00:00.000Z",
+    "deporte": "PADEL",
+    "cupo": 3,
+    "creado": "2026-10-29T11:14:59.337Z"
   }
 }

@@ -1,2 +1,3 @@
 - 2026-10-27 08:16 · se anotó al pádel del sábado en Tigre y al del domingo en Pádel Point (primera vez, quiere jugar)
 - 2026-10-28 20:15 · leyó que Barney y Tony lo aceptaron; no hay pádel nuevo a su nivel en el norte, no se anotó a más
+- 2026-10-29 08:14 · armó un pádel INTERMEDIATE el lunes 2/11 a las 20 en Tigre Pádel Club
