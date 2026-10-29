@@ -6,3 +6,4 @@
 - 2026-10-22 04:12 · miró la app; no hay pádel nuevo
 - 2026-10-24 00:12 · pidió unirse al pádel del domingo de Tony en Tigre
 - 2026-10-25 08:11 · calificó el pádel de Tony, generoso
+- 2026-10-29 08:12 · pidió unirse al pádel INTERMEDIATE del viernes de Mace en Tigre

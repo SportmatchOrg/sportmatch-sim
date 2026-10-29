@@ -1,1 +1,2 @@
 - 2026-10-23 20:14 · primera vez: miró la app y leyó notificaciones, no hizo nada más
+- 2026-10-29 08:12 · leyó notificaciones y miró la app; hoy no se anotó a nada

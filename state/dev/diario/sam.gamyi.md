@@ -71,3 +71,4 @@
 - 2026-10-27 20:11 · calificó el fútbol (5 a Bellatrix, generoso)
 - 2026-10-28 16:12 · armó un pádel BEGINNER para el sáb 31/10 11:00 en Club Belgrano (principiante entusiasta)
 - 2026-10-28 20:11 · calificó dos partidos (5, 5, 4 y 5, generoso)
+- 2026-10-29 08:12 · pidió unirse al fútbol del viernes de Burro en River Courts (entusiasta)

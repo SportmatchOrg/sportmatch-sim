@@ -37,3 +37,4 @@
 - 2026-10-27 16:12 · aceptó a Stephen Strange en su tenis; no hizo más
 - 2026-10-28 08:12 · aceptó a Peter en su fútbol de Nordelta
 - 2026-10-29 00:12 · canceló el fútbol del jueves en Nordelta: no se llenaba
+- 2026-10-29 08:12 · miró la app; después de cancelar el de Nordelta hoy no armó nada

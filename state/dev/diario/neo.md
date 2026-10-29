@@ -42,3 +42,4 @@
 - 2026-10-28 20:12 · calificó el básquet (5 y 4) y armó un básquet tranqui para el domingo 1/11 en Campus Austral
 - 2026-10-29 00:12 · aceptó a Éowyn y a Boromir en su básquet del viernes
 - 2026-10-29 04:11 · aceptó a Kylo en su básquet; el único básquet abierto es en Del Viso, lejos, no se anotó
+- 2026-10-29 08:11 · aceptó a Nala en su básquet; nada más

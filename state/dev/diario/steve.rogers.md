@@ -120,3 +120,4 @@
 - 2026-10-29 00:11 · aceptó a Phoebe, rechazó a Bart (no daba el nivel); nadie a quién calificar
 - 2026-10-29 00:12 · aceptó a Phoebe y rechazó a Bart (no daba el nivel); nadie a quién calificar
 - 2026-10-29 04:11 · ya tiene su fútbol del sábado armado, no calificó a nadie (solo faltó George); hoy solo miró
+- 2026-10-29 08:11 · nadie a quién calificar (solo faltó George); ya tiene su fútbol del sábado, no armó otro

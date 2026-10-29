@@ -33,3 +33,4 @@
 - 2026-10-18 00:11 · pidió unirse al fútbol ADVANCED del lunes en Club Pilar (competitivo)
 - 2026-10-18 08:11 · pidió unirse al fútbol ADVANCED del domingo 10:00 en Club Pilar (a ganar)
 - 2026-10-24 20:12 · pidió unirse al fútbol advanced del martes de Steve (competitivo)
+- 2026-10-29 08:12 · pidió unirse al fútbol ADVANCED del sábado 10:00 de Finn en Club Pilar (a ganar)
