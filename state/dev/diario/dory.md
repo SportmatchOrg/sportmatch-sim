@@ -17,3 +17,4 @@
 - 2026-10-26 12:11 · aceptó a Neville en su fútbol
 - 2026-10-27 00:12 · canceló su fútbol del martes (no se llenó) y calificó el otro fútbol (5, 4 y 5)
 - 2026-10-28 12:12 · armó un fútbol para el lun 2/11 20:00 en Club Pilar y pidió unirse al de Bart del viernes
+- 2026-10-29 16:12 · leyó notificaciones; ya tiene su fútbol del lunes armado, no armó otro

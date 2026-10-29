@@ -13,3 +13,4 @@
 - 2026-10-18 16:12 · miró la app, nada para hoy
 - 2026-10-23 16:12 · leyó notificaciones, hoy solo miró
 - 2026-10-25 04:11 · se unió al básquet del viernes en Campus Austral (se anota a todo)
+- 2026-10-29 16:12 · pidió unirse al básquet del sábado de Fiona en Del Viso (se anota a todo)

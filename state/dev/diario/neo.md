@@ -43,3 +43,4 @@
 - 2026-10-29 00:12 · aceptó a Éowyn y a Boromir en su básquet del viernes
 - 2026-10-29 04:11 · aceptó a Kylo en su básquet; el único básquet abierto es en Del Viso, lejos, no se anotó
 - 2026-10-29 08:11 · aceptó a Nala en su básquet; nada más
+- 2026-10-29 16:11 · aceptó a Kylo y a Phoebe en su básquet; el único otro básquet está lejos, no se anotó
