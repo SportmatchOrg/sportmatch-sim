@@ -1,1 +1,2 @@
 - 2026-10-29 04:13 · primera vez en la app: entró y solo miró
+- 2026-10-29 20:15 · pidió unirse al fútbol del viernes en Del Viso (cerca, nivel intermedio)

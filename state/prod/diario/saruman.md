@@ -7,3 +7,4 @@
 - 2026-10-23 12:14 · pidió unirse al pádel intermedio del sábado a la mañana en Tigre (quiere jugar)
 - 2026-10-24 12:16 · calificó a Tony (5) y pidió unirse al pádel del jueves 29 en Tigre
 - 2026-10-25 12:15 · calificó el pádel (5 y 5); ya tiene pedidos pendientes, no se anotó a más
+- 2026-10-29 20:14 · calificó el pádel (5 y 5) y pidió unirse al pádel del sábado 31 a la mañana en Tigre

@@ -74,3 +74,4 @@
 - 2026-10-27 12:14 · armó un fútbol 5 para el viernes 30 a las 20 en Nordelta (a conocer gente)
 - 2026-10-28 12:15 · aceptó a Obi-Wan Kenobi y pidió unirse al fútbol del viernes en Nordelta
 - 2026-10-29 12:14 · aceptó a Fred Weasley en su partido
+- 2026-10-29 20:14 · calificó el pádel y armó otro para el sábado 31 a las 10 en Tigre Pádel Club

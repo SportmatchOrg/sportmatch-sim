@@ -40,3 +40,4 @@
 - 2026-10-28 00:14 · aceptó a Elrond en su partido
 - 2026-10-28 16:14 · aceptó a Mace Windu en su fútbol 5 de Nordelta
 - 2026-10-29 00:14 · calificó el fútbol (Nala 5, Elrond 4); después solo miró
+- 2026-10-29 20:14 · aceptó a Tomás Valle en su partido y pidió unirse al fútbol 5 del martes en Nordelta

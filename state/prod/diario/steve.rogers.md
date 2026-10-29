@@ -108,3 +108,4 @@
 - 2026-10-27 16:14 · aceptó a John Wick en su fútbol ADVANCED; ya tiene uno armado, no organizó otro
 - 2026-10-28 20:15 · entró y miró; ya tiene su fútbol armado
 - 2026-10-29 00:13 · canceló su fútbol porque no se llenaba (2/9)
+- 2026-10-29 20:15 · armó un fútbol ADVANCED el martes 3 a las 20:30 en Club Pilar (exige nivel)

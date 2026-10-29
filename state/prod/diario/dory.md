@@ -25,3 +25,4 @@
 - 2026-10-28 20:15 · aceptó a Mike y a Rey en sus fútbol (le gusta conocer gente nueva)
 - 2026-10-29 00:14 · aceptó a Chewbacca en su fútbol (le gusta conocer gente)
 - 2026-10-29 12:14 · aceptó a Bart Simpson en su fútbol (le gusta conocer gente)
+- 2026-10-29 20:15 · aceptó a Rubeus en su fútbol y se anotó al del lunes 2 en Club Pilar
