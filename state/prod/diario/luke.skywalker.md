@@ -1,1 +1,2 @@
 - 2026-10-24 20:13 · entró a mirar básquet y running; solo miró
+- 2026-10-29 00:14 · pidió unirse al running del domingo en Parque Pilar

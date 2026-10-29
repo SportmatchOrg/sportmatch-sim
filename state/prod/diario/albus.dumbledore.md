@@ -39,3 +39,4 @@
 - 2026-10-27 08:14 · aceptó a Bellatrix en su fútbol 5 de Nordelta (conocer gente)
 - 2026-10-28 00:14 · aceptó a Elrond en su partido
 - 2026-10-28 16:14 · aceptó a Mace Windu en su fútbol 5 de Nordelta
+- 2026-10-29 00:14 · calificó el fútbol (Nala 5, Elrond 4); después solo miró

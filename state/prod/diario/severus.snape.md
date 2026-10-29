@@ -1,0 +1,1 @@
+- 2026-10-29 00:14 · primera vez en la app: entró, miró y no hizo nada

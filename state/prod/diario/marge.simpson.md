@@ -2,3 +2,4 @@
 - 2026-10-24 08:14 · pidió unirse al fútbol del lunes de Peter Parker en River Courts (conocer gente)
 - 2026-10-25 00:13 · leyó notificaciones; nada en CABA que le sirva, solo miró
 - 2026-10-26 08:14 · entró y solo miró; ya tiene pedido pendiente en el fútbol de Peter
+- 2026-10-29 00:14 · leyó notificaciones y solo miró

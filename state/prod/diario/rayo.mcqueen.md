@@ -9,3 +9,4 @@
 - 2026-10-24 08:14 · entró a mirar partidos, sin anotarse
 - 2026-10-24 16:14 · miró partidos de fútbol y pádel, no se anotó a nada
 - 2026-10-28 04:14 · miró partidos de fútbol y pádel, no se anotó
+- 2026-10-29 00:14 · entró y solo miró

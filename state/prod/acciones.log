@@ -1667,3 +1667,14 @@
 2026-10-28T23:15:11.733Z rocky.balboa leer-notificaciones 1
 2026-10-28T23:15:17.708Z cedric.diggory leer-notificaciones 2
 2026-10-28T23:15:26.572Z chewbacca unirse cmvq44moo01rc01ryjdtjwoks
+2026-10-29T03:12:47.847Z sorteo cmvlttggl008a01rym2rlglyj faltaron=[] calificaran=[albus.dumbledore,elrond]
+2026-10-29T03:12:49.908Z sorteo cmvms310b00m401ry8cx2dj53 faltaron=[] calificaran=[hector.barbossa,barney.gumble]
+2026-10-29T03:13:39.662Z elrond calificar cmvlttggl008a01rym2rlglyj ratings=2 noShows=0
+2026-10-29T03:13:41.080Z steve.rogers cancelar cmvpmxt5r01jr01rygbzv1iqk
+2026-10-29T03:13:43.076Z hector.barbossa calificar cmvms310b00m401ry8cx2dj53 ratings=1 noShows=0
+2026-10-29T03:13:54.447Z dory leer-notificaciones 2
+2026-10-29T03:13:59.096Z albus.dumbledore calificar cmvlttggl008a01rym2rlglyj ratings=2 noShows=0
+2026-10-29T03:14:00.917Z barney.gumble calificar cmvms310b00m401ry8cx2dj53 ratings=1 noShows=0
+2026-10-29T03:14:07.889Z dory aceptar cmvq44moo01rc01ryjdtjwoks chewbacca
+2026-10-29T03:14:17.230Z bellatrix.lestrange leer-notificaciones 1
+2026-10-29T03:14:29.661Z luke.skywalker unirse cmvrazdf4027v01ryuwh15uol

@@ -93,3 +93,4 @@
 - 2026-10-27 20:14 · aceptó a Bruce Banner en su fútbol y pidió unirse al fútbol del viernes en Del Viso (se anota a todo)
 - 2026-10-28 04:14 · aceptó a Krusty en su fútbol y pidió unirse al fútbol del jueves 29 de Elrond en Nordelta (se anota a todo)
 - 2026-10-28 12:15 · pidió unirse al pádel del viernes en Club Belgrano (se anota a todo)
+- 2026-10-29 00:14 · miró fútbol y pádel; nada en CABA, no se anotó

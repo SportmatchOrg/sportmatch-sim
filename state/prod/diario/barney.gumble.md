@@ -40,3 +40,4 @@
 - 2026-10-27 16:14 · aceptó a Anakin en su pádel y pidió unirse al pádel del sábado a la mañana en Tigre
 - 2026-10-28 04:14 · aceptó a Yoda en su pádel ADVANCED del sábado
 - 2026-10-28 08:14 · entró y leyó novedades; sin solicitudes ni nada que armar hoy
+- 2026-10-29 00:14 · calificó a Héctor con un 3 (llegó justo); no hizo más
