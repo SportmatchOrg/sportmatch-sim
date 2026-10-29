@@ -1,0 +1,1 @@
+- 2026-10-29 20:12 · primera vez en la app: armó un running INTERMEDIATE el sáb 31/10 a las 9:00 en Parque Pilar

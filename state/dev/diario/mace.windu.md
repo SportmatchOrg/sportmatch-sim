@@ -70,3 +70,4 @@
 - 2026-10-27 20:12 · armó un pádel INTERMEDIATE para el vie 30/10 20:00 en Tigre (le gusta conocer gente)
 - 2026-10-28 04:11 · aceptó a Cedric Diggory en su pádel (le gusta conocer gente)
 - 2026-10-29 12:11 · aceptó a Saruman y armó un pádel INTERMEDIATE para el lun 2/11 20:30 en Tigre Pádel Club
+- 2026-10-29 20:11 · aceptó a Ignacio en su pádel del lunes en Tigre (le gusta conocer gente)

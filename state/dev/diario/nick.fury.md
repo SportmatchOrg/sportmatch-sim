@@ -1,0 +1,1 @@
+- 2026-10-29 20:12 · primera vez en la app: pidió unirse al básquet de Ned en Club Belgrano (se anota a todo)

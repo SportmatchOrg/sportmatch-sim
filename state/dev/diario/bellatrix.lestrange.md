@@ -98,3 +98,4 @@
 - 2026-10-27 00:13 · miró la app y leyó notificaciones; nada en CABA para anotarse
 - 2026-10-27 20:11 · calificó el fútbol (5) y armó un pádel del jueves en Club Belgrano (se anota a todo)
 - 2026-10-28 16:11 · aceptó a Walter White y pidió unirse al fútbol del jueves de Ned en River Courts (se anota a todo)
+- 2026-10-29 20:11 · calificó el partido (4) y pidió unirse al pádel del sábado de Sam en Club Belgrano (se anota a todo)

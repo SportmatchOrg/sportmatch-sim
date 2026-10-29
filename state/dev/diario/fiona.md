@@ -12,3 +12,4 @@
 - 2026-10-28 12:11 · aceptó a Nala en su básquet
 - 2026-10-28 16:12 · solo miró y leyó notificaciones, sin novedades
 - 2026-10-28 20:13 · calificó dos básquet (mayormente 5, generosa); no se anotó a nada más, ya tiene el suyo del sábado
+- 2026-10-29 20:12 · aceptó a Marty en su básquet del sábado en Del Viso

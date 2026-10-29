@@ -17,3 +17,4 @@
 - 2026-10-29 08:11 · nada para calificar; pidió unirse al fútbol del lunes de Gimli en River Courts
 - 2026-10-29 12:12 · Gimli lo aceptó; pidió unirse al fútbol del martes 3/11 de Han Solo en Nordelta (el único día libre que le quedaba)
 - 2026-10-29 16:11 · pidió unirse al fútbol del viernes de Bart en Club Pilar; nada para calificar
+- 2026-10-29 20:12 · Bart y Han lo aceptaron; pidió unirse al fútbol del miércoles 4/11 de Gandalf en Club Pilar

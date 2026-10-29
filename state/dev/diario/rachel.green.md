@@ -11,3 +11,4 @@
 - 2026-10-23 00:12 · calificó el fútbol, duro como siempre; no hay nada nuevo en CABA para anotarse
 - 2026-10-28 16:12 · solo miró, nada nuevo en CABA
 - 2026-10-29 00:12 · solo miró, nada nuevo en CABA
+- 2026-10-29 20:12 · solo miró y leyó notificaciones, nada nuevo en CABA

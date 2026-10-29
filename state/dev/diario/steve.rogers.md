@@ -123,3 +123,4 @@
 - 2026-10-29 08:11 · nadie a quién calificar (solo faltó George); ya tiene su fútbol del sábado, no armó otro
 - 2026-10-29 12:11 · entró, nadie a quién calificar (solo faltó George); ya tiene su fútbol del sábado y no se anotó a otro
 - 2026-10-29 16:11 · nadie a quién calificar (solo faltó George); ya tiene su fútbol armado, hoy solo miró
+- 2026-10-29 20:11 · aceptó a Fred en su fútbol del sábado; nadie a quién calificar (solo faltó George)
