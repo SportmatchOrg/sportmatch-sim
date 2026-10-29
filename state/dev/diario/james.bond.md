@@ -2,3 +2,4 @@
 - 2026-10-23 04:12 · pidió unirse al pádel del sábado a la mañana de Indiana en Pádel Point Pilar (madruga)
 - 2026-10-24 08:11 · calificó el pádel (4 y 5) y pidió unirse al básquet del lunes en Del Viso (se une a todo)
 - 2026-10-26 20:12 · calificó a Fiona (5) y pidió unirse al pádel del domingo a las 9 de Jack en Pádel Point Pilar (madruga)
+- 2026-10-29 12:13 · Jack lo aceptó en el pádel del domingo a las 9; no hay nada más temprano que le encaje, no se anotó a otro

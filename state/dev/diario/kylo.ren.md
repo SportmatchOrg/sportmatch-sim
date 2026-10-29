@@ -3,3 +3,4 @@
 - 2026-10-27 12:12 · pidió unirse al básquet del miércoles en Del Viso (para conocer gente)
 - 2026-10-28 08:12 · pidió unirse al pádel del viernes de Indiana en Club Pilar (para conocer gente)
 - 2026-10-29 00:12 · pidió unirse al básquet del domingo de Neo en Campus Austral (para conocer gente)
+- 2026-10-29 12:12 · Neo lo aceptó en el básquet del domingo; se anotó al básquet del viernes de Neo en Del Viso (se une a todo)

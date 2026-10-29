@@ -1,2 +1,3 @@
 - 2026-10-27 00:13 · volvió a entrar, miró la app y leyó notificaciones
 - 2026-10-28 04:12 · entró, miró la app y no hizo nada
+- 2026-10-29 12:12 · armó un fútbol INTERMEDIATE para el mié 4/11 20:00 en Club Pilar (con amigos, suma gente que falta)

@@ -24,3 +24,4 @@
 - 2026-10-27 00:12 · calificó el fútbol (4, 5 y 4) y se anotó al básquet del viernes en Campus Austral
 - 2026-10-27 20:12 · calificó el fútbol (4 y 5) y pidió unirse al fútbol del jueves de Lois en Club Pilar (competitiva)
 - 2026-10-28 20:12 · calificó el básquet (5 y 4) y pidió unirse al fútbol del sábado de Steve en Club Pilar (competitiva)
+- 2026-10-29 12:12 · Steve la aceptó; pidió unirse al básquet del domingo de Neo en Campus Austral (ya jugó con él)

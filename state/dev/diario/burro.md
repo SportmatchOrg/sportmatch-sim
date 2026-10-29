@@ -11,3 +11,4 @@
 - 2026-10-28 20:12 · calificó el tenis (4 y 5); ya tiene su fútbol del viernes, no armó nada más
 - 2026-10-29 04:12 · leyó notificaciones; ya tiene su fútbol del viernes, solo miró
 - 2026-10-29 08:11 · aceptó a Gimli en su fútbol del viernes; nada más
+- 2026-10-29 12:12 · aceptó a Sam Gamyi en su fútbol del viernes
