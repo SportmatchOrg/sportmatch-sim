@@ -12,3 +12,4 @@
 - 2026-10-29 04:12 · leyó notificaciones; ya tiene su fútbol del viernes, solo miró
 - 2026-10-29 08:11 · aceptó a Gimli en su fútbol del viernes; nada más
 - 2026-10-29 12:12 · aceptó a Sam Gamyi en su fútbol del viernes
+- 2026-10-30 00:12 · calificó el fútbol (4, 5 y 4); hoy solo miró

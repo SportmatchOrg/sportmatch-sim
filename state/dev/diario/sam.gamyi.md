@@ -73,3 +73,4 @@
 - 2026-10-28 20:11 · calificó dos partidos (5, 5, 4 y 5, generoso)
 - 2026-10-29 08:12 · pidió unirse al fútbol del viernes de Burro en River Courts (entusiasta)
 - 2026-10-29 16:11 · aceptó a Bruce Wayne en su pádel; hoy nada más
+- 2026-10-30 00:11 · aceptó a Bellatrix y armó un fútbol BEGINNER del lunes en River Courts (entusiasta)

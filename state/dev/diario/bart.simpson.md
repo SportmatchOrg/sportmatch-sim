@@ -5,3 +5,4 @@
 - 2026-10-28 16:12 · aceptó a Dory en su fútbol del viernes; el básquet de Del Viso ya lo tenía
 - 2026-10-28 20:13 · calificó el básquet (5, 4, 4) y pidió unirse al fútbol del sábado de Steve en Club Pilar
 - 2026-10-29 20:12 · aceptó a Peter en su fútbol del viernes en Club Pilar
+- 2026-10-30 00:13 · aceptó a Ignacio en su fútbol del viernes y pidió unirse al fútbol del lunes de Dory en Club Pilar

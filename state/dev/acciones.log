@@ -1878,3 +1878,43 @@
 2026-10-29T23:12:30.474Z peter.parker unirse cmvtomquy00rz01ldgiczzv4n
 2026-10-29T23:12:39.341Z bucky.barnes crear cmvu5s5cg006901qin9pwsdnf RUNNING 2026-10-31T12:00:00.000Z
 2026-10-29T23:12:48.358Z nick.fury unirse cmvltpjif007u01sa50r4xwlg
+2026-10-30T03:10:26.290Z sorteo cmvltpjif007u01sa50r4xwlg faltaron=[joker] calificaran=[ned.flanders,luke.skywalker,rocky.balboa]
+2026-10-30T03:10:34.308Z sorteo cmvookkxd004r01l38t00jizs faltaron=[] calificaran=[ned.flanders,burro,peter.parker,bellatrix.lestrange]
+2026-10-30T03:10:34.972Z sorteo cmvox4509007001l35t2ma7dr faltaron=[] calificaran=[george.weasley,lois.lane]
+2026-10-30T03:10:37.763Z sorteo cmvq40mej007i01o0n63melct faltaron=[] calificaran=[lois.lane,george.weasley,krusty,phoebe.buffay,peter.parker]
+2026-10-30T03:11:25.007Z bellatrix.lestrange calificar cmvookkxd004r01l38t00jizs ratings=3 noShows=0
+2026-10-30T03:11:26.934Z sam.gamyi leer-notificaciones 2
+2026-10-30T03:11:35.402Z sam.gamyi aceptar cmvshrely009l01ldgyobm8oy bellatrix.lestrange
+2026-10-30T03:11:37.493Z sam.gamyi crear cmvuebgr100au01qibfn2m4q6 FUTBOL 2026-11-02T23:30:00.000Z
+2026-10-30T03:11:39.346Z lois.lane leer-notificaciones 2
+2026-10-30T03:11:47.016Z lois.lane calificar cmvox4509007001l35t2ma7dr ratings=2 noShows=0
+2026-10-30T03:11:48.821Z lois.lane calificar cmvq40mej007i01o0n63melct ratings=3 noShows=0
+2026-10-30T03:11:50.519Z lois.lane crear cmvuebqt800ba01qi0e3dsy4n FUTBOL 2026-11-03T23:30:00.000Z
+2026-10-30T03:11:54.760Z george.weasley leer-notificaciones 5
+2026-10-30T03:12:02.548Z george.weasley calificar cmvox4509007001l35t2ma7dr ratings=2 noShows=0
+2026-10-30T03:12:04.684Z george.weasley calificar cmvq40mej007i01o0n63melct ratings=3 noShows=0
+2026-10-30T03:12:06.983Z george.weasley unirse cmvrs0q3g00y301o06hjnb379
+2026-10-30T03:12:09.093Z phoebe.buffay leer-notificaciones 2
+2026-10-30T03:12:15.306Z phoebe.buffay calificar cmvq40mej007i01o0n63melct ratings=3 noShows=0
+2026-10-30T03:12:18.682Z phoebe.buffay unirse cmvql5ffx00e901o0zhzavc7h
+2026-10-30T03:12:20.981Z peter.parker leer-notificaciones 1
+2026-10-30T03:12:28.626Z peter.parker calificar cmvookkxd004r01l38t00jizs ratings=3 noShows=0
+2026-10-30T03:12:30.613Z peter.parker calificar cmvq40mej007i01o0n63melct ratings=3 noShows=0
+2026-10-30T03:12:32.620Z burro leer-notificaciones 1
+2026-10-30T03:12:37.837Z burro calificar cmvookkxd004r01l38t00jizs ratings=3 noShows=0
+2026-10-30T03:12:39.718Z ned.flanders leer-notificaciones 5
+2026-10-30T03:12:47.184Z ned.flanders calificar cmvltpjif007u01sa50r4xwlg ratings=2 noShows=1
+2026-10-30T03:12:49.125Z ned.flanders calificar cmvookkxd004r01l38t00jizs ratings=3 noShows=0
+2026-10-30T03:12:51.111Z luke.skywalker leer-notificaciones 3
+2026-10-30T03:12:56.809Z luke.skywalker calificar cmvltpjif007u01sa50r4xwlg ratings=2 noShows=1
+2026-10-30T03:12:58.782Z luke.skywalker unirse cmvsqbm7600cu01ldz3k8g2g4
+2026-10-30T03:13:00.689Z bart.simpson leer-notificaciones 3
+2026-10-30T03:13:07.169Z bart.simpson aceptar cmvr2bk2r00n801o0y488x608 cmv865y5700m101qgwel16mg0
+2026-10-30T03:13:09.107Z bart.simpson unirse cmvs96olf006901ld6l6ae66t
+2026-10-30T03:13:11.027Z krusty leer-notificaciones 1
+2026-10-30T03:13:17.474Z krusty calificar cmvq40mej007i01o0n63melct ratings=3 noShows=0
+2026-10-30T03:13:19.485Z krusty unirse cmvt7grr400lk01ld3i1d15qb
+2026-10-30T03:13:21.632Z rocky.balboa leer-notificaciones 1
+2026-10-30T03:13:27.360Z rocky.balboa calificar cmvltpjif007u01sa50r4xwlg ratings=2 noShows=1
+2026-10-30T03:13:29.344Z gandalf leer-notificaciones 1
+2026-10-30T03:13:33.525Z gandalf aceptar cmvtomquy00rz01ldgiczzv4n peter.parker

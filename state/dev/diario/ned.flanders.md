@@ -12,3 +12,4 @@
 - 2026-10-27 00:12 · aceptó a Peter en su fútbol del jueves
 - 2026-10-28 16:12 · aceptó a Rocky en su básquet del jueves
 - 2026-10-28 20:12 · aceptó a Bellatrix en su fútbol del jueves
+- 2026-10-30 00:12 · calificó dos partidos (4 y 5, 5, 4 y 5); joker no vino

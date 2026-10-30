@@ -6,3 +6,4 @@
 - 2026-10-26 16:12 · pidió unirse al básquet del jueves de Ned en Club Belgrano
 - 2026-10-27 20:12 · leyó notificaciones: lo aceptaron en dos básquet; hoy no hizo más
 - 2026-10-28 20:13 · calificó el básquet (4, 5, 4) y pidió unirse al running del sábado de Jack en Parque Pilar
+- 2026-10-30 00:12 · calificó el básquet (5 y 4; Joker no vino) y pidió unirse al básquet del domingo de Neo en Campus Austral
