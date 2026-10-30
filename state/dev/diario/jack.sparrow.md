@@ -25,3 +25,4 @@
 - 2026-10-27 08:11 · miró la app; el partido por calificar seguía sin nadie
 - 2026-10-27 12:11 · aceptó a Krusty en su running y pidió unirse al pádel del viernes en Club Pilar
 - 2026-10-29 00:12 · aceptó a Luke en su partido; hoy no se anotó a nada más
+- 2026-10-30 08:11 · calificó el partido: Indiana 5, Kylo 4

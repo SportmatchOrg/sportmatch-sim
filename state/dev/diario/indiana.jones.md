@@ -14,3 +14,4 @@
 - 2026-10-27 08:12 · calificó el pádel (4 y 5) y armó un pádel para el vie 30/10 8:00 en Club Pilar
 - 2026-10-27 16:12 · aceptó a Jack Sparrow en su pádel del viernes temprano
 - 2026-10-28 12:11 · aceptó a Kylo en su pádel del viernes temprano
+- 2026-10-30 08:12 · calificó el partido (5 y 4) y armó un pádel para el martes 3/11 a las 8 en Pádel Point Pilar

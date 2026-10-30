@@ -1,1 +1,2 @@
 - 2026-10-28 08:12 · miró running y tenis, nada en CABA que le cierre
+- 2026-10-30 08:12 · miró running y tenis; nada en su zona que le cierre
