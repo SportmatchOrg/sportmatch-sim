@@ -1827,3 +1827,25 @@
 2026-10-30T19:15:08.027Z bart.simpson leer-notificaciones 1
 2026-10-30T19:15:14.230Z bart.simpson unirse cmvtoq2bh034901ryi9kyjcdr
 2026-10-30T19:15:27.001Z sirius.black unirse cmvtoq2bh034901ryi9kyjcdr
+2026-10-30T23:14:09.216Z sorteo cmvqcnwk501ue01ryxjzpzlmn faltaron=[] calificaran=[hector.barbossa]
+2026-10-30T23:14:11.202Z sorteo cmvqttk3e021l01rykx0mgsak faltaron=[] calificaran=[mace.windu,obiwan.kenobi]
+2026-10-30T23:14:11.878Z sorteo cmvr2ea5h024f01ry8kpwwtux faltaron=[] calificaran=[fiona,milhouse.van.houten,davy.jones]
+2026-10-30T23:14:16.101Z sorteo cmvs9b4l202mo01ryngp11ib3 faltaron=[] calificaran=[stephen.strange]
+2026-10-30T23:14:40.855Z mace.windu calificar cmvqttk3e021l01rykx0mgsak ratings=2 noShows=0
+2026-10-30T23:14:43.190Z obiwan.kenobi leer-notificaciones 1
+2026-10-30T23:14:51.335Z obiwan.kenobi calificar cmvqttk3e021l01rykx0mgsak ratings=2 noShows=0
+2026-10-30T23:14:53.561Z milhouse.van.houten leer-notificaciones 1
+2026-10-30T23:14:58.576Z milhouse.van.houten calificar cmvr2ea5h024f01ry8kpwwtux ratings=3 noShows=0
+2026-10-30T23:15:00.832Z davy.jones leer-notificaciones 1
+2026-10-30T23:15:06.403Z davy.jones calificar cmvr2ea5h024f01ry8kpwwtux ratings=3 noShows=0
+2026-10-30T23:15:08.537Z hector.barbossa leer-notificaciones 1
+2026-10-30T23:15:18.886Z hector.barbossa calificar cmvqcnwk501ue01ryxjzpzlmn ratings=0 noShows=0
+2026-10-30T23:15:22.501Z barney.gumble leer-notificaciones 1
+2026-10-30T23:15:27.419Z barney.gumble aceptar cmvnyzjn5010401ryz3hjhd6k cedric.diggory
+2026-10-30T23:15:29.567Z george.weasley leer-notificaciones 2
+2026-10-30T23:15:34.452Z george.weasley aceptar cmvtoq2bh034901ryi9kyjcdr bart.simpson
+2026-10-30T23:15:36.548Z george.weasley aceptar cmvtoq2bh034901ryi9kyjcdr sirius.black
+2026-10-30T23:15:42.036Z george.weasley unirse cmvqcoatm01uu01rykqf58uga
+2026-10-30T23:15:52.401Z fiona calificar cmvr2ea5h024f01ry8kpwwtux ratings=3 noShows=0
+2026-10-30T23:15:54.591Z fiona crear cmvvlc6nv010501o4ink4y388 BASQUET 2026-11-03T23:00:00.000Z
+2026-10-30T23:16:04.228Z stephen.strange calificar cmvs9b4l202mo01ryngp11ib3 ratings=0 noShows=0

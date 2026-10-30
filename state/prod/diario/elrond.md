@@ -114,3 +114,4 @@
 - 2026-10-30 12:14 · leyó notificaciones; ya tiene su fútbol del martes armado, no organizó otro
 - 2026-10-30 16:14 · aceptó a George Weasley y Bellatrix Lestrange en su fútbol
 - 2026-10-30 16:14 · (corrección) recién ahora aceptó a George Weasley y Bellatrix Lestrange en su fútbol
+- 2026-10-30 20:16 · entró y solo miró
