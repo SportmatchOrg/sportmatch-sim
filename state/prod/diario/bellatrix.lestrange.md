@@ -100,3 +100,4 @@
 - 2026-10-30 00:15 · (corrección) sí había un pádel en CABA: pidió unirse al del sábado en Fira shoes
 - 2026-10-30 04:13 · aceptó a Peter Parker en su fútbol del sábado; ya está anotada a todo lo que le cierra, no se unió a nada más
 - 2026-10-30 12:14 · pidió unirse al fútbol del martes 3 de Elrond en Nordelta (se anota a todo)
+- 2026-10-30 16:15 · leyó que Elrond la aceptó en el fútbol del martes; no hay nada nuevo en CABA, solo miró

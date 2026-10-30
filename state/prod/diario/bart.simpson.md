@@ -1,2 +1,3 @@
 - 2026-10-27 08:16 · se anotó al básquet del jueves en Del Viso (primera vez, competitivo)
 - 2026-10-29 08:14 · calificó el básquet (4, 5 y 3) y pidió unirse al fútbol del viernes de Dory en Del Viso
+- 2026-10-30 16:15 · leyó que Dory lo aceptó; pidió unirse al fútbol del lunes de George en Club Pilar (a ganar)

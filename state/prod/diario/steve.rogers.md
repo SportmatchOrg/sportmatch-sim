@@ -110,3 +110,4 @@
 - 2026-10-29 00:13 · canceló su fútbol porque no se llenaba (2/9)
 - 2026-10-29 20:15 · armó un fútbol ADVANCED el martes 3 a las 20:30 en Club Pilar (exige nivel)
 - 2026-10-30 12:13 · aceptó a Pumba en su fútbol; ya tiene uno armado, no organizó otro
+- 2026-10-30 16:14 · aceptó a John Wick en su fútbol ADVANCED del martes

@@ -4,3 +4,4 @@
 - 2026-10-20 12:15 · pidió unirse al básquet del martes en Club Palermo
 - 2026-10-22 12:14 · vio que Neo lo aceptó en el básquet; no hizo más
 - 2026-10-26 12:13 · buscó básquet; lo único es en Del Viso, lejos de CABA, no se anotó
+- 2026-10-30 16:15 · buscó básquet en CABA: lo único es BEGINNER, no le sirve; no se anotó
