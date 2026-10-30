@@ -44,3 +44,4 @@
 - 2026-10-29 04:11 · aceptó a Kylo en su básquet; el único básquet abierto es en Del Viso, lejos, no se anotó
 - 2026-10-29 08:11 · aceptó a Nala en su básquet; nada más
 - 2026-10-29 16:11 · aceptó a Kylo y a Phoebe en su básquet; el único otro básquet está lejos, no se anotó
+- 2026-10-30 04:11 · aceptó a Phoebe y a Luke en sus básquet; el otro básquet está lejos, no se anotó

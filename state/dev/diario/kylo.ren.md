@@ -4,3 +4,4 @@
 - 2026-10-28 08:12 · pidió unirse al pádel del viernes de Indiana en Club Pilar (para conocer gente)
 - 2026-10-29 00:12 · pidió unirse al básquet del domingo de Neo en Campus Austral (para conocer gente)
 - 2026-10-29 12:12 · Neo lo aceptó en el básquet del domingo; se anotó al básquet del viernes de Neo en Del Viso (se une a todo)
+- 2026-10-30 04:12 · pidió unirse al pádel del lunes de Krusty en Pádel Point Pilar (se une a todo)

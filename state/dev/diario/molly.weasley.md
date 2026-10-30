@@ -17,3 +17,4 @@
 - 2026-10-17 16:11 · aceptó a Qui-Gon Jinn en su running; ya tiene partidos armados, no armó otro
 - 2026-10-18 04:11 · aceptó a Éowyn en su running del domingo
 - 2026-10-18 12:12 · calificó el running, exigente con el nivel
+- 2026-10-30 04:12 · armó un running para el dom 1/11 09:00 en Campus Austral

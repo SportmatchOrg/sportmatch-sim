@@ -19,3 +19,4 @@
 - 2026-10-28 12:12 · armó un fútbol para el lun 2/11 20:00 en Club Pilar y pidió unirse al de Bart del viernes
 - 2026-10-29 16:12 · leyó notificaciones; ya tiene su fútbol del lunes armado, no armó otro
 - 2026-10-29 20:12 · aceptó a Krusty en su fútbol del lunes en Club Pilar
+- 2026-10-30 04:11 · aceptó a Bart en su fútbol del lunes; nada más

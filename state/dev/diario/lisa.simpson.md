@@ -6,3 +6,4 @@
 - 2026-10-24 12:13 · calificó el partido (4); nada más
 - 2026-10-26 08:12 · miró la app, sin novedades
 - 2026-10-26 12:12 · miró la app de noche, sin novedades
+- 2026-10-30 04:12 · pidió unirse al tenis del viernes 20:00 en Tigre (juega de noche)
