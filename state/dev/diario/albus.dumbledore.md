@@ -39,3 +39,4 @@
 - 2026-10-29 00:12 · canceló el fútbol del jueves en Nordelta: no se llenaba
 - 2026-10-29 08:12 · miró la app; después de cancelar el de Nordelta hoy no armó nada
 - 2026-10-30 08:11 · aceptó a Lisa en su tenis; armó un fútbol para el lunes 2/11 en Nordelta
+- 2026-10-30 16:12 · miró la app y leyó notificaciones; nada más por hoy

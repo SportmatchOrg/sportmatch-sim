@@ -4981,11 +4981,10 @@
   },
   "cmvook0ep004501l3afbbk8ww": {
     "jugadores": [
-      "legolas"
-    ],
-    "pendientes": [
+      "legolas",
       "padme.amidala"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -5067,7 +5066,9 @@
   },
   "cmvp5pwqk00b301l36yk483p0": {
     "jugadores": [],
-    "pendientes": [],
+    "pendientes": [
+      "gandalf"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -5359,7 +5360,7 @@
     "cupo": 5,
     "creado": "2026-10-27T19:12:07.870Z",
     "pendientesHumanos": 0,
-    "anotados": 3
+    "anotados": 4
   },
   "cmvr2bk2r00n801o0y488x608": {
     "jugadores": [
@@ -5471,7 +5472,9 @@
       "krusty",
       "bart.simpson"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "lois.lane"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -5615,7 +5618,9 @@
     "anotados": 0
   },
   "cmvtoldub00qx01ld3zu80e06": {
-    "jugadores": [],
+    "jugadores": [
+      "cedric.diggory"
+    ],
     "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
@@ -5633,11 +5638,10 @@
   "cmvtomquy00rz01ldgiczzv4n": {
     "jugadores": [
       "peter.parker",
-      "steve.rogers"
-    ],
-    "pendientes": [
+      "steve.rogers",
       "clark.kent"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -5704,10 +5708,10 @@
     "anotados": 0
   },
   "cmvuebqt800ba01qi0e3dsy4n": {
-    "jugadores": [],
-    "pendientes": [
+    "jugadores": [
       "diana.prince"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -5741,7 +5745,9 @@
     "jugadores": [
       "krusty"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "chewbacca"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -5753,7 +5759,7 @@
     "cupo": 3,
     "creado": "2026-10-30T07:12:17.324Z",
     "pendientesHumanos": 0,
-    "anotados": 0
+    "anotados": 1
   },
   "cmvuvh3m200ky01qixdhf6vic": {
     "jugadores": [],
@@ -5773,7 +5779,9 @@
   },
   "cmvuvhbr300l801qina0fwqc0": {
     "jugadores": [],
-    "pendientes": [],
+    "pendientes": [
+      "james.bond"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -5804,10 +5812,10 @@
     "anotados": 0
   },
   "cmvv41iop00px01qiby8mzrtb": {
-    "jugadores": [],
-    "pendientes": [
+    "jugadores": [
       "groot"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -5817,6 +5825,8 @@
     "fecha": "2026-11-03T22:30:00.000Z",
     "deporte": "BASQUET",
     "cupo": 7,
-    "creado": "2026-10-30T15:11:43.449Z"
+    "creado": "2026-10-30T15:11:43.449Z",
+    "pendientesHumanos": 0,
+    "anotados": 0
   }
 }

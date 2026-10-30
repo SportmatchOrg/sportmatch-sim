@@ -1,1 +1,2 @@
 - 2026-10-28 00:12 · primera vez en la app: pidió unirse al pádel del viernes de Mace en Tigre (competitivo)
+- 2026-10-30 16:12 · pidió unirse al pádel del lunes de Mace en Tigre (competitivo)

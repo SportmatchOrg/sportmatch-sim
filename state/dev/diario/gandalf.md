@@ -3,3 +3,4 @@
 - 2026-10-29 12:12 · armó un fútbol INTERMEDIATE para el mié 4/11 20:00 en Club Pilar (con amigos, suma gente que falta)
 - 2026-10-30 00:13 · aceptó a Peter en su fútbol del miércoles; hoy nada más
 - 2026-10-30 08:12 · aceptó a Steve en su fútbol; nada más
+- 2026-10-30 16:12 · aceptó a Clark en su fútbol y pidió unirse al tenis del domingo de Hermione

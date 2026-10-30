@@ -16,3 +16,4 @@
 - 2026-10-22 16:12 · leyó que Lois lo aceptó; nada más por hoy
 - 2026-10-23 08:12 · se anotó al fútbol del sábado en Nordelta (se anota a todo)
 - 2026-10-26 12:11 · leyó que Elrond lo aceptó y el recordatorio; nada más
+- 2026-10-30 16:12 · pidió unirse al pádel del domingo de Clint en Pádel Point Pilar (conoce gente nueva)
