@@ -5,3 +5,4 @@
 - 2026-10-25 16:14 · corrección: el singles no se pudo crear; armó tenis dobles del jueves 29 a las 20:30 en Tigre (juega de noche)
 - 2026-10-26 00:14 · aceptó a Burro y se unió al tenis del martes de noche en Campus Austral
 - 2026-10-26 08:13 · aceptó a Boromir en su tenis del jueves
+- 2026-10-30 04:14 · calificó el tenis (4 a Burro) y se anotó al tenis del lunes de noche en River Courts

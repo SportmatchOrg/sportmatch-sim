@@ -1,3 +1,4 @@
 - 2026-10-28 16:15 · primera vez: pidió unirse al básquet del jueves en Club Belgrano
 - 2026-10-29 20:15 · leyó notificaciones; del básquet ni se acordó de calificar
 - 2026-10-30 00:16 · entró, vio que tenía que calificar el básquet pero lo dejó para después; solo miró
+- 2026-10-30 04:14 · por fin calificó el partido pasado (5, 4 y 5) y pidió unirse al pádel del sábado en Fira shoes (CABA)

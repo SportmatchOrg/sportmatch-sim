@@ -44,3 +44,4 @@
 - 2026-10-25 04:13 · pidió unirse al fútbol del lunes 26 en River Courts (le gusta conocer gente)
 - 2026-10-26 04:14 · leyó que lo aceptaron en el fútbol del lunes; solo miró
 - 2026-10-29 16:14 · miró fútbol; nada en CABA, no se anotó
+- 2026-10-30 04:14 · entró a mirar; nada de fútbol en CABA, no se anotó

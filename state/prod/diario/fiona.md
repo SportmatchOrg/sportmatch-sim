@@ -1,2 +1,3 @@
 - 2026-10-27 16:14 · armó un básquet BEGINNER el viernes 30 a las 20 en Campus Austral (principiante entusiasta)
 - 2026-10-28 00:14 · aceptó a Milhouse, Davy y Timón en su básquet
+- 2026-10-30 04:15 · entró a mirar; su básquet del viernes ya casi está lleno, nada más

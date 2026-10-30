@@ -25,3 +25,4 @@
 - 2026-10-18 16:13 · calificó el tenis (4 a los dos); no vio nada de madrugada en Pilar para anotarse
 - 2026-10-26 00:15 · se anotó al tenis del martes a la mañana en Club Pilar (madrugador)
 - 2026-10-28 16:14 · entró temprano, nada de madrugada en Pilar; no se anotó a más
+- 2026-10-30 04:14 · se anotó al running del sábado 31 a las 9 en Parque Pilar (madrugador)

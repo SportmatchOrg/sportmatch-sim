@@ -40,3 +40,4 @@
 - 2026-10-27 08:15 · pidió unirse al fútbol del viernes 30 de Lois en Club Pilar (se suma a todo)
 - 2026-10-28 12:15 · entró y leyó novedades; no se anotó a nada
 - 2026-10-29 08:14 · pidió unirse al fútbol del viernes de Mace Windu en Nordelta (se suma a todo)
+- 2026-10-30 04:14 · se anotó al running del domingo en Campus Austral (ya tenía fútbol y running armados)

@@ -1,1 +1,2 @@
 - 2026-10-25 16:14 · primera vez en la app: se anotó al tenis del martes 27 a la tarde en Campus Austral
+- 2026-10-30 04:14 · pidió unirse al tenis del lunes por la tarde-noche en River Courts (estudiante, tiene tardes libres)
