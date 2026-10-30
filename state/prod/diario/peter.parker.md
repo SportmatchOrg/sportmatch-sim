@@ -9,3 +9,4 @@
 - 2026-10-25 08:13 · aceptó a Gimli en su fútbol del lunes; nada en CABA para unirse
 - 2026-10-26 20:15 · aceptó a Bellatrix en su fútbol y pidió unirse al de Elrond del jueves
 - 2026-10-27 00:15 · calificó el fútbol (5 y 4); nada en CABA para unirse, solo miró
+- 2026-10-30 00:15 · calificó el fútbol pasado (5, 4 y 5) y pidió unirse al fútbol de Bellatrix del sábado en River Courts

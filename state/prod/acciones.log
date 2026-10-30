@@ -1744,3 +1744,25 @@
 2026-10-29T23:15:31.752Z rey aceptar cmvshu9og02pq01ry9wlb9btt eowyn
 2026-10-29T23:15:40.889Z steve.rogers crear cmvu5w1e1007301o4psabf4ic FUTBOL 2026-11-03T23:30:00.000Z
 2026-10-29T23:15:43.040Z pumba unirse cmvpecpxe01hs01ryym5g52es
+2026-10-30T03:14:01.462Z sorteo cmvnyxbzc00xo01ryt22ycz5t faltaron=[] calificaran=[elrond,peter.parker,dory,lois.lane,bellatrix.lestrange]
+2026-10-30T03:14:06.932Z sorteo cmvo7i9n9013m01ry3eybscgm faltaron=[boromir] calificaran=[thanos,burro]
+2026-10-30T03:14:37.697Z elrond leer-notificaciones 2
+2026-10-30T03:14:48.292Z elrond calificar cmvnyxbzc00xo01ryt22ycz5t ratings=3 noShows=0
+2026-10-30T03:14:53.694Z mace.windu leer-notificaciones 1
+2026-10-30T03:15:02.101Z elrond aceptar cmvtx9hn5036q01rym0paso7k albus.dumbledore
+2026-10-30T03:15:03.969Z mace.windu aceptar cmvu5u7sd005101o4k3ceg5hj saruman
+2026-10-30T03:15:06.003Z bellatrix.lestrange calificar cmvnyxbzc00xo01ryt22ycz5t ratings=3 noShows=0
+2026-10-30T03:15:14.227Z bellatrix.lestrange unirse cmvu4wzkg000r01o4x9jcm6ye
+2026-10-30T03:15:18.055Z george.weasley leer-notificaciones 1
+2026-10-30T03:15:24.230Z lois.lane calificar cmvnyxbzc00xo01ryt22ycz5t ratings=3 noShows=0
+2026-10-30T03:15:26.292Z lois.lane unirse cmvtoq2bh034901ryi9kyjcdr
+2026-10-30T03:15:28.250Z george.weasley aceptar cmvtoq2bh034901ryi9kyjcdr dory
+2026-10-30T03:15:30.155Z dory leer-notificaciones 2
+2026-10-30T03:15:36.327Z dory aceptar cmvpecpxe01hs01ryym5g52es pumba
+2026-10-30T03:15:38.115Z dory calificar cmvnyxbzc00xo01ryt22ycz5t ratings=3 noShows=0
+2026-10-30T03:15:45.960Z peter.parker calificar cmvnyxbzc00xo01ryt22ycz5t ratings=3 noShows=0
+2026-10-30T03:15:47.793Z peter.parker unirse cmvqcoatm01uu01rykqf58uga
+2026-10-30T03:15:54.988Z burro calificar cmvo7i9n9013m01ry3eybscgm ratings=1 noShows=1
+2026-10-30T03:16:00.287Z burro crear cmvueh3i800it01o450ai9880 TENIS 2026-11-02T22:30:00.000Z
+2026-10-30T03:16:08.182Z eowyn leer-notificaciones 2
+2026-10-30T03:16:13.203Z eowyn unirse cmvrazdf4027v01ryuwh15uol

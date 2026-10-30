@@ -26,3 +26,4 @@
 - 2026-10-29 00:14 · aceptó a Chewbacca en su fútbol (le gusta conocer gente)
 - 2026-10-29 12:14 · aceptó a Bart Simpson en su fútbol (le gusta conocer gente)
 - 2026-10-29 20:15 · aceptó a Rubeus en su fútbol y se anotó al del lunes 2 en Club Pilar
+- 2026-10-30 00:15 · aceptó a Pumba y calificó el fútbol pasado (5, 4 y 5); después solo miró

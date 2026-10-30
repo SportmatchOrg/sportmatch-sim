@@ -75,3 +75,4 @@
 - 2026-10-28 08:13 · aceptó a Krusty en su fútbol
 - 2026-10-28 08:13 · (corrección) recién ahora aceptó a Krusty en su fútbol
 - 2026-10-28 20:15 · aceptó a Dory en su fútbol
+- 2026-10-30 00:15 · calificó el fútbol pasado (5, 4 y 4) y pidió unirse al fútbol del lunes 2 de George en Club Pilar

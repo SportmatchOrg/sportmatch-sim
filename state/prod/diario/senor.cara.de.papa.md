@@ -1,2 +1,3 @@
 - 2026-10-28 16:15 · primera vez: pidió unirse al básquet del jueves en Club Belgrano
 - 2026-10-29 20:15 · leyó notificaciones; del básquet ni se acordó de calificar
+- 2026-10-30 00:16 · entró, vio que tenía que calificar el básquet pero lo dejó para después; solo miró

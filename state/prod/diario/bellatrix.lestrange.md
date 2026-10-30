@@ -96,3 +96,5 @@
 - 2026-10-29 00:14 · miró fútbol y pádel; nada en CABA, no se anotó
 - 2026-10-29 08:13 · aceptó a Rachel Green en su fútbol del sábado; no se anotó a nada más hoy
 - 2026-10-29 12:15 · ya está anotada a todo lo que le cierra; solo miró
+- 2026-10-30 00:15 · calificó el fútbol pasado (5, 4 y 5); no encontró nada nuevo en CABA y no se anotó
+- 2026-10-30 00:15 · (corrección) sí había un pádel en CABA: pidió unirse al del sábado en Fira shoes

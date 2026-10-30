@@ -23,3 +23,4 @@
 - 2026-10-27 04:13 · entró; nada para calificar, solo miró
 - 2026-10-27 08:14 · entró; sigue sin nadie para calificar, solo miró
 - 2026-10-28 16:14 · entró; nada para calificar ni nada cómodo en CABA, solo miró
+- 2026-10-30 00:16 · calificó el tenis pasado y armó un tenis BEGINNER (dobles) el lunes 2/11 a las 19:30 en River Courts

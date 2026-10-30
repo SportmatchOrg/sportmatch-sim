@@ -40,3 +40,4 @@
 - 2026-10-25 16:14 · leyó que Mace la aceptó; se anotó al running del sábado 31 en Parque Pilar (conocer gente)
 - 2026-10-27 16:14 · pidió unirse al básquet del jueves 29 en Club Belgrano (conocer gente)
 - 2026-10-29 16:14 · pidió unirse al pádel del sábado en Pádel Point Pilar (conocer gente)
+- 2026-10-30 00:16 · leyó que Rey la aceptó; pidió unirse al running del domingo 1/11 en Parque Pilar (se anota a todo)

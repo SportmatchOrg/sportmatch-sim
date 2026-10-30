@@ -26,3 +26,4 @@
 - 2026-10-28 00:14 · calificó el fútbol (4, 5 y 4) y pidió unirse al del viernes 30 de Lois en Club Pilar
 - 2026-10-29 12:15 · armó un fútbol para el lunes 2 a las 20:30 en Club Pilar (le gusta conocer gente); ya estaba anotado a todo lo demás
 - 2026-10-29 16:14 · entró y solo miró; ya está anotado a todo lo de fútbol
+- 2026-10-30 00:15 · aceptó a Dory en su fútbol del lunes; ya está anotado a todo lo demás
