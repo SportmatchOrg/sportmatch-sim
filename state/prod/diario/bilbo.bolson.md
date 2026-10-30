@@ -12,3 +12,4 @@
 - 2026-10-26 08:14 · entró a mirar partidos; solo miró
 - 2026-10-27 04:14 · miró partidos de fútbol; sigue sin decidirse
 - 2026-10-28 08:14 · entró a mirar fútbol, sin apuro; no se anotó
+- 2026-10-30 12:14 · entró a mirar partidos, no se anotó a nada

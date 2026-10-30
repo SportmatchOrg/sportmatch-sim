@@ -26,3 +26,4 @@
 - 2026-10-10 12:31 · calificó el futbol del sáb 10/10 10:30 (reportó que faltó Nemo)
 - 2026-10-10 20:14 · calificó el fútbol; no vio nada temprano a la mañana para anotarse
 - 2026-10-15 16:14 · entró a mirar y leyó notificaciones; no hizo nada (ya casi no usa la app)
+- 2026-10-30 12:14 · entró temprano, miró y no hizo nada

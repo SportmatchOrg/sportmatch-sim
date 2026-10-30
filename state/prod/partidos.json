@@ -4941,7 +4941,7 @@
     "cupo": 5,
     "creado": "2026-10-25T19:13:50.353Z",
     "pendientesHumanos": 0,
-    "anotados": 3
+    "anotados": 4
   },
   "cmvo7i9n9013m01ry3eybscgm": {
     "jugadores": [
@@ -5374,7 +5374,9 @@
   },
   "cmvtg581i031v01ryf9jh5d78": {
     "jugadores": [],
-    "pendientes": [],
+    "pendientes": [
+      "saruman"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -5392,12 +5394,11 @@
     "jugadores": [
       "dory",
       "lois.lane",
-      "chewbacca"
-    ],
-    "pendientes": [
+      "chewbacca",
       "krusty",
       "trinity"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -5409,13 +5410,16 @@
     "cupo": 9,
     "creado": "2026-10-29T15:15:08.628Z",
     "pendientesHumanos": 0,
-    "anotados": 2
+    "anotados": 3
   },
   "cmvtx9hn5036q01rym0paso7k": {
     "jugadores": [
       "albus.dumbledore"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "george.weasley",
+      "bellatrix.lestrange"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -5445,15 +5449,14 @@
     "cupo": 5,
     "creado": "2026-10-29T19:14:13.585Z",
     "pendientesHumanos": 0,
-    "anotados": 0
+    "anotados": 1
   },
   "cmvu5u7sd005101o4k3ceg5hj": {
     "jugadores": [
-      "saruman"
-    ],
-    "pendientes": [
+      "saruman",
       "quigon.jinn"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -5468,9 +5471,11 @@
     "anotados": 1
   },
   "cmvu5w1e1007301o4psabf4ic": {
-    "jugadores": [],
-    "pendientes": [
+    "jugadores": [
       "pumba"
+    ],
+    "pendientes": [
+      "john.wick"
     ],
     "bajasSorteadas": false,
     "asistencia": null,
@@ -5519,7 +5524,7 @@
     "cupo": 3,
     "creado": "2026-10-30T03:16:00.285Z",
     "pendientesHumanos": 0,
-    "anotados": 0
+    "anotados": 2
   },
   "cmvuvlj1i00q101o42wyxoisk": {
     "jugadores": [],
@@ -5533,6 +5538,8 @@
     "fecha": "2026-11-02T23:00:00.000Z",
     "deporte": "BASQUET",
     "cupo": 5,
-    "creado": "2026-10-30T11:15:20.532Z"
+    "creado": "2026-10-30T11:15:20.532Z",
+    "pendientesHumanos": 0,
+    "anotados": 0
   }
 }

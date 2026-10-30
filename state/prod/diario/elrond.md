@@ -111,3 +111,4 @@
 - 2026-10-29 16:14 · armó un fútbol INTERMEDIATE el martes 3/11 a las 20:30 en Nordelta (para despejarse)
 - 2026-10-30 00:14 · aceptó a Albus Dumbledore y calificó el fútbol pasado; después solo miró
 - 2026-10-30 00:15 · (corrección) recién ahora aceptó a Albus Dumbledore en su fútbol del martes
+- 2026-10-30 12:14 · leyó notificaciones; ya tiene su fútbol del martes armado, no organizó otro

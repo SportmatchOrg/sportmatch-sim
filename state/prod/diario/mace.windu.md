@@ -76,3 +76,4 @@
 - 2026-10-29 12:14 · aceptó a Fred Weasley en su partido
 - 2026-10-29 20:14 · calificó el pádel y armó otro para el sábado 31 a las 10 en Tigre Pádel Club
 - 2026-10-30 00:15 · aceptó a Saruman en su pádel del sábado; después solo miró
+- 2026-10-30 12:13 · aceptó a Qui-Gon Jinn en su partido
