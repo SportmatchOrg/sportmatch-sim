@@ -20,3 +20,4 @@
 - 2026-10-29 16:12 · leyó notificaciones; ya tiene su fútbol del lunes armado, no armó otro
 - 2026-10-29 20:12 · aceptó a Krusty en su fútbol del lunes en Club Pilar
 - 2026-10-30 04:11 · aceptó a Bart en su fútbol del lunes; nada más
+- 2026-10-30 20:12 · aceptó a Lois y a George en su fútbol del lunes en Club Pilar

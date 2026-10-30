@@ -13,3 +13,4 @@
 - 2026-10-29 08:11 · aceptó a Gimli en su fútbol del viernes; nada más
 - 2026-10-29 12:12 · aceptó a Sam Gamyi en su fútbol del viernes
 - 2026-10-30 00:12 · calificó el fútbol (4, 5 y 4); hoy solo miró
+- 2026-10-30 20:12 · calificó el fútbol (5, 4 y 4) y pidió unirse al fútbol BEGINNER del lunes de Sam en River Courts (vuelve de a poco)

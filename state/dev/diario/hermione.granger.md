@@ -55,3 +55,4 @@
 - 2026-10-27 20:11 · aceptó a Lois en su fútbol del sábado
 - 2026-10-28 04:11 · aceptó a Bart en su fútbol del sábado
 - 2026-10-28 16:12 · aceptó a Padmé en su fútbol del sábado
+- 2026-10-30 20:11 · aceptó a Gandalf en su tenis dobles del domingo

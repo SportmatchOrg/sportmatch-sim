@@ -15,3 +15,4 @@
 - 2026-10-27 16:12 · aceptó a Jack Sparrow en su pádel del viernes temprano
 - 2026-10-28 12:11 · aceptó a Kylo en su pádel del viernes temprano
 - 2026-10-30 08:12 · calificó el partido (5 y 4) y armó un pádel para el martes 3/11 a las 8 en Pádel Point Pilar
+- 2026-10-30 20:13 · aceptó a James Bond en su pádel del martes temprano
