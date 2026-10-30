@@ -28,3 +28,4 @@
 - 2026-10-25 04:11 · leyó que Dory la aceptó; nada más por hoy
 - 2026-10-28 00:12 · pidió unirse al fútbol del jueves de Lois en Club Pilar (quiere ganar)
 - 2026-10-28 12:12 · leyó que Lois la aceptó; pidió unirse al fútbol del sábado de Hermione (quiere ganar)
+- 2026-10-30 12:12 · leyó que Hermione la aceptó; pidió unirse al fútbol ADVANCED del domingo de Finn (quiere ganar)

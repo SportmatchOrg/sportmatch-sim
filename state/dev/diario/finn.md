@@ -30,3 +30,4 @@
 - 2026-10-27 08:12 · miró la app; nadie para calificar
 - 2026-10-29 12:11 · aceptó a Jon Snow en su fútbol ADVANCED del sábado
 - 2026-10-29 20:12 · solo miró y leyó notificaciones, nada nuevo
+- 2026-10-30 12:12 · rechazó a Steve Rogers en su fútbol ADVANCED del sábado (no daba el nivel)

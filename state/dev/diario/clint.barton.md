@@ -1,1 +1,2 @@
 - 2026-10-30 04:12 · armó su primer pádel BEGINNER para el dom 1/11 10:00 en Pádel Point Pilar
+- 2026-10-30 12:12 · aceptó a Krusty en su pádel del domingo

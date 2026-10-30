@@ -1,0 +1,1 @@
+- 2026-10-30 12:12 · primera vez en la app: solo miró

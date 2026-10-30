@@ -12,3 +12,4 @@
 - 2026-10-27 00:13 · pidió unirse al básquet del miércoles de Neo en Campus Austral (tarde libre)
 - 2026-10-28 00:12 · leyó que Neo lo aceptó en el básquet del miércoles; hoy solo miró
 - 2026-10-28 04:12 · pidió unirse al fútbol del jueves de Lois en Club Pilar (tarde libre)
+- 2026-10-30 12:12 · pidió unirse al fútbol del miércoles 4/11 de Gandalf en Club Pilar (tarde libre)

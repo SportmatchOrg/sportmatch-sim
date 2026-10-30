@@ -20,3 +20,4 @@
 - 2026-10-29 20:12 · Bart y Han lo aceptaron; pidió unirse al fútbol del miércoles 4/11 de Gandalf en Club Pilar
 - 2026-10-30 00:12 · calificó dos fútbols (5, 4, 5 y 4, 5, 5); ya está anotado a todo, hoy no sumó más
 - 2026-10-30 04:12 · pidió unirse al fútbol del sábado 18:00 de Steve en Club Pilar (se anota a todo)
+- 2026-10-30 12:12 · leyó que Steve lo aceptó; ya está anotado a todo lo que le encaja, solo miró

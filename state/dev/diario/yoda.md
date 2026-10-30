@@ -13,3 +13,4 @@
 - 2026-10-19 08:12 · pidió unirse al pádel del sábado a la mañana en Pádel Point Pilar
 - 2026-10-29 00:12 · miró la app, nada de pádel que le cerrara
 - 2026-10-30 04:11 · pidió unirse al pádel del sábado 10:30 en Pádel Point Pilar (fin de semana a la mañana)
+- 2026-10-30 12:12 · solo miró la app, nada de pádel que le encaje

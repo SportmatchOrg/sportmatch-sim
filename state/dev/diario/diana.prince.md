@@ -3,3 +3,4 @@
 - 2026-10-23 16:12 · pidió unirse al fútbol del lunes de noche de Dory en Club Pilar
 - 2026-10-24 08:12 · leyó que la aceptó Dory; hoy solo miró
 - 2026-10-28 16:12 · pidió unirse al fútbol del jueves de noche de Lois en Club Pilar (le gusta jugar de noche)
+- 2026-10-30 12:12 · pidió unirse al fútbol del martes 3/11 de noche de Lois en Club Pilar

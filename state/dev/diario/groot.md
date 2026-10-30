@@ -2,3 +2,4 @@
 - 2026-10-24 04:11 · pidió unirse al básquet del domingo de Neo en Campus Austral
 - 2026-10-26 12:11 · se anotó al básquet del viernes en Campus Austral (tardes libres)
 - 2026-10-27 04:12 · pidió unirse al básquet del miércoles de Neo en Campus Austral (entusiasmado)
+- 2026-10-30 12:12 · pidió unirse al básquet BEGINNER del martes 3/11 de Fiona en Del Viso
