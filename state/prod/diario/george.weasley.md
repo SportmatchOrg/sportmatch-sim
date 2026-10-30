@@ -28,3 +28,4 @@
 - 2026-10-29 16:14 · entró y solo miró; ya está anotado a todo lo de fútbol
 - 2026-10-30 00:15 · aceptó a Dory en su fútbol del lunes; ya está anotado a todo lo demás
 - 2026-10-30 04:14 · aceptó a Lois en su fútbol del lunes; ya está anotado a todo lo demás
+- 2026-10-30 08:14 · aceptó a Chewbacca en su fútbol del lunes y se anotó al de Del Viso del viernes

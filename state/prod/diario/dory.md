@@ -27,3 +27,4 @@
 - 2026-10-29 12:14 · aceptó a Bart Simpson en su fútbol (le gusta conocer gente)
 - 2026-10-29 20:15 · aceptó a Rubeus en su fútbol y se anotó al del lunes 2 en Club Pilar
 - 2026-10-30 00:15 · aceptó a Pumba y calificó el fútbol pasado (5, 4 y 5); después solo miró
+- 2026-10-30 08:15 · entró, leyó notificaciones y solo miró

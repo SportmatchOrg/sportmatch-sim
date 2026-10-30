@@ -25,3 +25,4 @@
 - 2026-10-28 20:14 · calificó el básquet; los de Campus Austral le quedan lejos, no se anotó a nada
 - 2026-10-29 04:14 · entró a mirar básquet; lo de Campus Austral le queda lejos, no se anotó
 - 2026-10-29 20:14 · calificó el básquet del jueves; lo de Campus Austral le sigue quedando lejos
+- 2026-10-30 08:15 · armó un básquet BEGINNER el lunes 2/11 a las 20:00 en Club Belgrano

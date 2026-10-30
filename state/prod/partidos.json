@@ -4926,11 +4926,10 @@
     "jugadores": [
       "eowyn",
       "fred.weasley",
-      "davy.jones"
-    ],
-    "pendientes": [
+      "davy.jones",
       "jaime.lannister"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -5184,7 +5183,7 @@
     "cupo": 9,
     "creado": "2026-10-27T07:14:32.422Z",
     "pendientesHumanos": 0,
-    "anotados": 3
+    "anotados": 4
   },
   "cmvqttk3e021l01rykx0mgsak": {
     "jugadores": [
@@ -5281,7 +5280,7 @@
     "cupo": 5,
     "creado": "2026-10-27T23:14:55.917Z",
     "pendientesHumanos": 0,
-    "anotados": 1
+    "anotados": 2
   },
   "cmvrb017x028p01rym57c07el": {
     "jugadores": [
@@ -5392,10 +5391,12 @@
   "cmvtoq2bh034901ryi9kyjcdr": {
     "jugadores": [
       "dory",
-      "lois.lane"
+      "lois.lane",
+      "chewbacca"
     ],
     "pendientes": [
-      "chewbacca"
+      "krusty",
+      "trinity"
     ],
     "bajasSorteadas": false,
     "asistencia": null,
@@ -5408,7 +5409,7 @@
     "cupo": 9,
     "creado": "2026-10-29T15:15:08.628Z",
     "pendientesHumanos": 0,
-    "anotados": 1
+    "anotados": 2
   },
   "cmvtx9hn5036q01rym0paso7k": {
     "jugadores": [
@@ -5429,10 +5430,10 @@
     "anotados": 1
   },
   "cmvtx9iz6036t01ry2r64umzg": {
-    "jugadores": [],
-    "pendientes": [
+    "jugadores": [
       "fred.weasley"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -5450,7 +5451,9 @@
     "jugadores": [
       "saruman"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "quigon.jinn"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -5466,7 +5469,9 @@
   },
   "cmvu5w1e1007301o4psabf4ic": {
     "jugadores": [],
-    "pendientes": [],
+    "pendientes": [
+      "pumba"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -5498,11 +5503,11 @@
     "anotados": 0
   },
   "cmvueh3i800it01o450ai9880": {
-    "jugadores": [],
-    "pendientes": [
+    "jugadores": [
       "thanos",
       "slinky"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -5515,5 +5520,19 @@
     "creado": "2026-10-30T03:16:00.285Z",
     "pendientesHumanos": 0,
     "anotados": 0
+  },
+  "cmvuvlj1i00q101o42wyxoisk": {
+    "jugadores": [],
+    "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "galadriel",
+    "fecha": "2026-11-02T23:00:00.000Z",
+    "deporte": "BASQUET",
+    "cupo": 5,
+    "creado": "2026-10-30T11:15:20.532Z"
   }
 }

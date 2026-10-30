@@ -1,0 +1,1 @@
+- 2026-10-30 08:15 · entró, leyó notificaciones y solo miró

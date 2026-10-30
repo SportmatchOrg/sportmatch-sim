@@ -1,1 +1,2 @@
 - 2026-10-30 04:14 · primeros pasos en la app: entró a mirar partidos de fútbol, no se anotó
+- 2026-10-30 08:15 · se anotó al fútbol del lunes en Club Pilar
