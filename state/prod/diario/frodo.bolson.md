@@ -19,3 +19,4 @@
 - 2026-10-22 00:16 · aceptó a Milhouse en su básquet del jueves y calificó el fútbol; sigue esperando que se llene
 - 2026-10-30 16:14 · armó un básquet INTERMEDIATE el lunes 2/11 a las 20:30 en Campus Austral (a ganar)
 - 2026-10-31 04:13 · aceptó a Neo, Phoebe y Bart en su básquet del lunes; sigue esperando que se llene
+- 2026-10-31 12:15 · aceptó a Gato con Botas en su básquet del lunes; no armó otro, espera que se llene el que tiene

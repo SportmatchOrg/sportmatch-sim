@@ -18,3 +18,4 @@
 - 2026-10-23 04:14 · entró un viernes, leyó notificaciones; nada que le encaje, solo miró
 - 2026-10-29 16:14 · armó un running el domingo 1/11 a las 10:00 en Campus Austral (para conocer gente)
 - 2026-10-30 08:14 · aceptó a Fred y se anotó al pádel del sábado en Tigre Pádel Club
+- 2026-10-31 12:14 · canceló su running del domingo (no se llenó) y pidió unirse al pádel del martes en Tigre

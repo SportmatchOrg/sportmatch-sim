@@ -44,3 +44,4 @@
 - 2026-10-30 20:15 · aceptó a Cedric Diggory en su partido
 - 2026-10-31 04:14 · entró y leyó novedades; nada que armar hoy
 - 2026-10-31 08:14 · calificó el pádel (4 y 5)
+- 2026-10-31 12:15 · calificó a Cedric con un 5; Yoda no vino

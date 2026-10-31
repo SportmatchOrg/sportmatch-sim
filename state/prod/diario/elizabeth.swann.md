@@ -1,0 +1,1 @@
+- 2026-10-31 12:16 · primera vez en la app, miró los básquet y no se anotó a nada todavía
