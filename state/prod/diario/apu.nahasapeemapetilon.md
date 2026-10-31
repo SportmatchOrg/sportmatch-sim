@@ -6,3 +6,4 @@
 - 2026-10-21 08:15 · miró pádel; nada BEGINNER/INTERMEDIATE en Pilar, no se anotó
 - 2026-10-21 16:14 · miró pádel de nuevo; nada de su nivel en Pilar, no se anotó
 - 2026-10-28 04:14 · entró y solo miró
+- 2026-10-31 16:15 · pidió unirse al pádel BEGINNER del lunes en Club Belgrano (nivel de novato)

@@ -10,3 +10,4 @@
 - 2026-10-26 08:14 · entró a mirar; no se anotó a nada
 - 2026-10-28 08:14 · entró a mirar; no se anotó a nada
 - 2026-10-28 16:14 · entró a mirar; no se anotó a nada
+- 2026-10-31 16:15 · entró a mirar partidos, no se anotó a nada (curioso)

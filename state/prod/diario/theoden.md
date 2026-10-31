@@ -20,3 +20,4 @@
 - 2026-10-22 16:14 · pidió unirse al fútbol BEGINNER del sábado (puntual, se organiza con tiempo)
 - 2026-10-24 20:13 · pidió unirse al fútbol del lunes 26 en River Courts (puntual, de noche)
 - 2026-10-26 04:14 · leyó que lo aceptaron en el fútbol del lunes en River Courts; solo miró
+- 2026-10-31 16:15 · pidió unirse al fútbol del martes en Nordelta (puntual, de noche)

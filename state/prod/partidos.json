@@ -5278,7 +5278,7 @@
       "george.weasley"
     ],
     "pendientes": [],
-    "bajasSorteadas": false,
+    "bajasSorteadas": true,
     "asistencia": null,
     "calificaran": [],
     "calificaron": [],
@@ -5584,7 +5584,9 @@
       "hermione.granger",
       "lois.lane"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "theoden"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -5596,7 +5598,7 @@
     "cupo": 9,
     "creado": "2026-10-29T19:14:11.864Z",
     "pendientesHumanos": 0,
-    "anotados": 4
+    "anotados": 6
   },
   "cmvtx9iz6036t01ry2r64umzg": {
     "jugadores": [
@@ -5673,7 +5675,7 @@
       "bellatrix.lestrange",
       "senor.cara.de.papa"
     ],
-    "bajasSorteadas": false,
+    "bajasSorteadas": true,
     "asistencia": null,
     "calificaran": [],
     "calificaron": [],
@@ -5738,14 +5740,16 @@
     "cupo": 7,
     "creado": "2026-10-30T19:14:54.011Z",
     "pendientesHumanos": 0,
-    "anotados": 3
+    "anotados": 4
   },
   "cmvvcqa9i00w701o4ysmo9jjm": {
     "jugadores": [
       "rubeus.hagrid",
       "bellatrix.lestrange"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "nemo"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -5818,7 +5822,9 @@
     "jugadores": [
       "bruce.wayne"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "apu.nahasapeemapetilon"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -5852,7 +5858,9 @@
   },
   "cmvvtxb5v017v01o4mg9ak71q": {
     "jugadores": [],
-    "pendientes": [],
+    "pendientes": [
+      "phoebe.buffay"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -5901,6 +5909,6 @@
     "cupo": 3,
     "creado": "2026-10-31T11:14:19.801Z",
     "pendientesHumanos": 0,
-    "anotados": 0
+    "anotados": 2
   }
 }

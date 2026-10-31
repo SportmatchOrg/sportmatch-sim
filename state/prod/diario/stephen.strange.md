@@ -2,3 +2,4 @@
 - 2026-10-28 12:15 · armó un tenis singles ADVANCED el viernes 30 a las 20 en Tigre Pádel Club (nada a su nivel)
 - 2026-10-28 12:15 · (corrige) el tenis ADVANCED del viernes 30 a las 20 en Tigre quedó como dobles, no singles
 - 2026-10-30 20:16 · entró, no había a quién calificar; solo miró
+- 2026-10-31 16:15 · miró tenis; no había nada en el norte, no se anotó
