@@ -38,3 +38,4 @@
 - 2026-10-28 00:11 · canceló su fútbol porque no se llenaba
 - 2026-10-28 20:12 · calificó el básquet (4, 5, 4) y armó un fútbol para el viernes 30/10 en Nordelta
 - 2026-10-29 08:12 · ya tiene su fútbol del viernes en Nordelta; hoy solo miró
+- 2026-10-31 00:12 · armó un fútbol para el mar 3/11 21:00 en Nordelta (competitivo)
