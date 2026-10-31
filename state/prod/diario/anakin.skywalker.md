@@ -4,3 +4,4 @@
 - 2026-10-21 08:15 · miró partidos; el pádel de Pilar es todo ADVANCED, no se anotó
 - 2026-10-26 00:15 · se anotó al pádel del sábado en Tigre Pádel Club (conoce gente nueva)
 - 2026-10-27 12:14 · pidió unirse al pádel del domingo 1/11 de Barney en Pádel Point Pilar
+- 2026-10-31 04:14 · pidió unirse al pádel del martes de Mace en Tigre (conoce gente nueva)

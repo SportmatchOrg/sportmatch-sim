@@ -2,3 +2,4 @@
 - 2026-10-28 00:14 · aceptó a Milhouse, Davy y Timón en su básquet
 - 2026-10-30 04:15 · entró a mirar; su básquet del viernes ya casi está lleno, nada más
 - 2026-10-30 20:15 · calificó el básquet (5, 4 y 5) y armó un básquet BEGINNER el martes 3 a las 20 en Del Viso
+- 2026-10-31 04:13 · aceptó a Saul y armó otro básquet BEGINNER el jueves 5 a las 20 en Campus Austral

@@ -77,3 +77,4 @@
 - 2026-10-29 08:14 · entró y solo miró
 - 2026-10-29 16:13 · aceptó a Bruce Wayne en su pádel; miró partidos y nada de CABA le encajó
 - 2026-10-31 00:15 · calificó el pádel y armó uno para principiantes el lunes 20 h en Club Belgrano
+- 2026-10-31 04:13 · aceptó a Bruce en su pádel del lunes

@@ -27,3 +27,4 @@
 - 2026-10-29 20:14 · calificó el básquet del jueves; lo de Campus Austral le sigue quedando lejos
 - 2026-10-30 08:15 · armó un básquet BEGINNER el lunes 2/11 a las 20:00 en Club Belgrano
 - 2026-10-30 16:14 · leyó notificaciones y solo miró
+- 2026-10-31 04:14 · entró a mirar; no hay nada nuevo en CABA, solo miró

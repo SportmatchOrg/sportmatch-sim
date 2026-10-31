@@ -46,3 +46,4 @@
 - 2026-10-28 16:14 · aceptó a Buzz en su básquet del viernes
 - 2026-10-29 20:14 · aceptó a Phoebe en su básquet del viernes; no armó nada más
 - 2026-10-31 00:15 · calificó el básquet y se anotó al del lunes en Campus Austral
+- 2026-10-31 04:14 · pidió unirse al básquet del jueves 5 de Fiona en Campus Austral (para despejarse)

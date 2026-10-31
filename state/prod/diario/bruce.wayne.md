@@ -7,3 +7,4 @@
 - 2026-10-28 12:15 · entró a mirar; solo leyó notificaciones
 - 2026-10-29 12:15 · pidió unirse al pádel BEGINNER del viernes en Club Belgrano (vuelve de a poco)
 - 2026-10-31 00:16 · calificó el pádel y se anotó al pádel para principiantes del lunes en Club Belgrano
+- 2026-10-31 04:14 · ya está anotado al pádel del lunes en Belgrano; no hizo más
