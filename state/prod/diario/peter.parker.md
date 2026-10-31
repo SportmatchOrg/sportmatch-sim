@@ -10,3 +10,4 @@
 - 2026-10-26 20:15 · aceptó a Bellatrix en su fútbol y pidió unirse al de Elrond del jueves
 - 2026-10-27 00:15 · calificó el fútbol (5 y 4); nada en CABA para unirse, solo miró
 - 2026-10-30 00:15 · calificó el fútbol pasado (5, 4 y 5) y pidió unirse al fútbol de Bellatrix del sábado en River Courts
+- 2026-10-31 20:15 · calificó el fútbol (5, 4 y 4); no hay cancha de fútbol en CABA para armar y nada para unirse

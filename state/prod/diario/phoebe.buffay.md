@@ -12,3 +12,4 @@
 - 2026-10-29 16:14 · pidió unirse al básquet del viernes en Campus Austral (se anota a todo)
 - 2026-10-31 00:16 · calificó el básquet y se anotó al del lunes en Campus Austral
 - 2026-10-31 16:15 · pidió unirse al fútbol del jueves en Club Pilar de Dory (se anota a todo)
+- 2026-10-31 20:15 · calificó el fútbol del sábado; ya está anotada a todo lo que le cierra

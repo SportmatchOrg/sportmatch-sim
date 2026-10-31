@@ -1,2 +1,3 @@
 - 2026-10-27 16:14 · pidió unirse al fútbol del sábado en Club Pilar para sumar gente
 - 2026-10-28 08:14 · pidió unirse al fútbol del viernes en el Polideportivo Del Viso; ya estaba anotado al del sábado
+- 2026-10-31 20:16 · calificó el fútbol y armó uno el miércoles 4 a las 20:30 en Club Pilar

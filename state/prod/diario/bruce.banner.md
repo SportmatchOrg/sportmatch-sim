@@ -1,3 +1,4 @@
 - 2026-10-23 12:14 · miró fútbol; nada en CABA, no se anotó
 - 2026-10-27 16:14 · pidió unirse al fútbol del sábado en River Courts (juega para despejarse)
 - 2026-10-29 16:13 · vio que lo aceptaron en el fútbol del sábado; solo miró
+- 2026-10-31 20:16 · calificó el fútbol (3, 3 y 2); nada de CABA para anotarse

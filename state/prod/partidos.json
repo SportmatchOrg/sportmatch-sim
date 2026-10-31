@@ -5233,9 +5233,32 @@
     ],
     "pendientes": [],
     "bajasSorteadas": false,
-    "asistencia": null,
-    "calificaran": [],
-    "calificaron": [],
+    "asistencia": {
+      "dory": true,
+      "lois.lane": true,
+      "george.weasley": true,
+      "clark.kent": true,
+      "phoebe.buffay": true,
+      "gandalf": true,
+      "neville.longbottom": true,
+      "rey": true,
+      "chewbacca": false
+    },
+    "calificaran": [
+      "dory",
+      "lois.lane",
+      "george.weasley",
+      "phoebe.buffay",
+      "gandalf",
+      "rey"
+    ],
+    "calificaron": [
+      "lois.lane",
+      "george.weasley",
+      "phoebe.buffay",
+      "gandalf",
+      "rey"
+    ],
     "cancelado": false,
     "organizador": "dory",
     "fecha": "2026-10-31T23:00:00.000Z",
@@ -5279,9 +5302,30 @@
     ],
     "pendientes": [],
     "bajasSorteadas": true,
-    "asistencia": null,
-    "calificaran": [],
-    "calificaron": [],
+    "asistencia": {
+      "bellatrix.lestrange": true,
+      "bruce.banner": true,
+      "krusty": true,
+      "rachel.green": true,
+      "peter.parker": true,
+      "george.weasley": true
+    },
+    "calificaran": [
+      "bellatrix.lestrange",
+      "bruce.banner",
+      "krusty",
+      "rachel.green",
+      "peter.parker",
+      "george.weasley"
+    ],
+    "calificaron": [
+      "bellatrix.lestrange",
+      "rachel.green",
+      "george.weasley",
+      "peter.parker",
+      "bruce.banner",
+      "krusty"
+    ],
     "cancelado": false,
     "organizador": "bellatrix.lestrange",
     "fecha": "2026-10-31T21:00:00.000Z",
@@ -5339,8 +5383,8 @@
       "senor.cara.de.papa": true
     },
     "calificaran": [
-      "ned.flanders",
       "galadriel",
+      "ned.flanders",
       "rocky.balboa",
       "senor.cara.de.papa"
     ],
@@ -5582,11 +5626,10 @@
       "george.weasley",
       "bellatrix.lestrange",
       "hermione.granger",
-      "lois.lane"
-    ],
-    "pendientes": [
+      "lois.lane",
       "theoden"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -5669,23 +5712,6 @@
     "pendientesHumanos": 0,
     "anotados": 3
   },
-  "cmvu4wzkg000r01o4x9jcm6ye": {
-    "jugadores": [],
-    "pendientes": [
-      "bellatrix.lestrange",
-      "senor.cara.de.papa"
-    ],
-    "bajasSorteadas": true,
-    "asistencia": null,
-    "calificaran": [],
-    "calificaron": [],
-    "cancelado": false,
-    "organizador": "humano:cmv877slj023d01ljf5ob2mit",
-    "fecha": "2026-10-31T19:40:00.000Z",
-    "deporte": "PADEL",
-    "cupo": 10,
-    "anotados": 0
-  },
   "cmvueh3i800it01o450ai9880": {
     "jugadores": [
       "thanos",
@@ -5745,11 +5771,10 @@
   "cmvvcqa9i00w701o4ysmo9jjm": {
     "jugadores": [
       "rubeus.hagrid",
-      "bellatrix.lestrange"
-    ],
-    "pendientes": [
+      "bellatrix.lestrange",
       "nemo"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -5820,11 +5845,10 @@
   },
   "cmvvtwbw4016201o4wx9gajvb": {
     "jugadores": [
-      "bruce.wayne"
-    ],
-    "pendientes": [
+      "bruce.wayne",
       "apu.nahasapeemapetilon"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -5842,7 +5866,9 @@
     "jugadores": [
       "george.weasley"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "krusty"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -5857,9 +5883,12 @@
     "anotados": 1
   },
   "cmvvtxb5v017v01o4mg9ak71q": {
-    "jugadores": [],
-    "pendientes": [
+    "jugadores": [
       "phoebe.buffay"
+    ],
+    "pendientes": [
+      "george.weasley",
+      "rey"
     ],
     "bajasSorteadas": false,
     "asistencia": null,
@@ -5910,5 +5939,33 @@
     "creado": "2026-10-31T11:14:19.801Z",
     "pendientesHumanos": 0,
     "anotados": 2
+  },
+  "cmvx0qwin01r701o4uic51exu": {
+    "jugadores": [],
+    "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "hermione.granger",
+    "fecha": "2026-11-07T13:00:00.000Z",
+    "deporte": "TENIS",
+    "cupo": 3,
+    "creado": "2026-10-31T23:15:01.798Z"
+  },
+  "cmvx0srlo01ti01o4yc8851aq": {
+    "jugadores": [],
+    "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "gandalf",
+    "fecha": "2026-11-04T23:30:00.000Z",
+    "deporte": "FUTBOL",
+    "cupo": 9,
+    "creado": "2026-10-31T23:16:28.787Z"
   }
 }

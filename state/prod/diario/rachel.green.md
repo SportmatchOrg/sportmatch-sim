@@ -4,3 +4,4 @@
 - 2026-10-17 04:14 · miró fútbol en CABA; nada a su altura, no se anotó
 - 2026-10-27 04:14 · miró fútbol en CABA; nada que le cierre, no se anotó
 - 2026-10-29 04:13 · pidió unirse al fútbol del sábado 31 en River Courts (juega en CABA)
+- 2026-10-31 20:15 · calificó el fútbol (3, 2 y 3); nada de CABA le encajó para anotarse

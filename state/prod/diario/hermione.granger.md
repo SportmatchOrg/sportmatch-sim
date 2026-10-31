@@ -46,3 +46,5 @@
 - 2026-10-30 16:14 · armó un fútbol INTERMEDIATE el domingo 1/11 a las 10 en River Courts
 - 2026-10-31 00:15 · aceptó a los dos que pidieron para el domingo; solo miró
 - 2026-10-31 08:13 · aceptó a Bellatrix en su fútbol del domingo y se unió al fútbol del martes en Nordelta (competitiva)
+- 2026-10-31 20:14 · aceptó a Nemo y armó un tenis singles el sábado 7 a las 10 en Club Pilar
+- 2026-10-31 20:15 · (corrección) el tenis falló al primer intento; lo armó como dobles el sábado 7 a las 10 en Club Pilar
