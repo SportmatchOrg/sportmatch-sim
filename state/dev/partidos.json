@@ -5564,7 +5564,7 @@
     "cupo": 9,
     "creado": "2026-10-28T15:12:24.014Z",
     "pendientesHumanos": 0,
-    "anotados": 4
+    "anotados": 5
   },
   "cmvshrely009l01ldgyobm8oy": {
     "jugadores": [
@@ -5592,7 +5592,9 @@
       "phoebe.buffay",
       "luke.skywalker"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "frodo.bolson"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -5790,15 +5792,14 @@
     "cupo": 9,
     "creado": "2026-10-30T03:11:37.491Z",
     "pendientesHumanos": 0,
-    "anotados": 0
+    "anotados": 2
   },
   "cmvuebqt800ba01qi0e3dsy4n": {
     "jugadores": [
-      "diana.prince"
-    ],
-    "pendientes": [
+      "diana.prince",
       "phoebe.buffay"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -5863,7 +5864,7 @@
     "cupo": 9,
     "creado": "2026-10-30T11:11:53.894Z",
     "pendientesHumanos": 0,
-    "anotados": 0
+    "anotados": 1
   },
   "cmvuvhbr300l801qina0fwqc0": {
     "jugadores": [
@@ -5899,7 +5900,7 @@
     "cupo": 3,
     "creado": "2026-10-30T11:13:03.884Z",
     "pendientesHumanos": 0,
-    "anotados": 0
+    "anotados": 1
   },
   "cmvv41iop00px01qiby8mzrtb": {
     "jugadores": [
@@ -5947,7 +5948,9 @@
     "fecha": "2026-11-04T00:00:00.000Z",
     "deporte": "FUTBOL",
     "cupo": 9,
-    "creado": "2026-10-31T03:12:02.590Z"
+    "creado": "2026-10-31T03:12:02.590Z",
+    "pendientesHumanos": 0,
+    "anotados": 0
   },
   "cmvvtsto2015401qi24lbo4zk": {
     "jugadores": [],
@@ -5961,6 +5964,22 @@
     "fecha": "2026-11-06T00:30:00.000Z",
     "deporte": "FUTBOL",
     "cupo": 9,
-    "creado": "2026-10-31T03:12:47.814Z"
+    "creado": "2026-10-31T03:12:47.814Z",
+    "pendientesHumanos": 0,
+    "anotados": 0
+  },
+  "cmvw2bmy6017201qipibqprdl": {
+    "jugadores": [],
+    "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "lois.lane",
+    "fecha": "2026-11-04T23:30:00.000Z",
+    "deporte": "FUTBOL",
+    "cupo": 9,
+    "creado": "2026-10-31T07:11:22.486Z"
   }
 }
