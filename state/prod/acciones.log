@@ -1849,3 +1849,57 @@
 2026-10-30T23:15:52.401Z fiona calificar cmvr2ea5h024f01ry8kpwwtux ratings=3 noShows=0
 2026-10-30T23:15:54.591Z fiona crear cmvvlc6nv010501o4ink4y388 BASQUET 2026-11-03T23:00:00.000Z
 2026-10-30T23:16:04.228Z stephen.strange calificar cmvs9b4l202mo01ryngp11ib3 ratings=0 noShows=0
+2026-10-31T03:13:13.538Z sorteo cmvnyywe700zg01rylmgyo05e faltaron=[] calificaran=[lois.lane,pippin.tuk,clark.kent,george.weasley,krusty,dory]
+2026-10-31T03:13:15.301Z sorteo cmvo7hg3l012w01ryvuai04d0 faltaron=[] calificaran=[albus.dumbledore,bellatrix.lestrange,elrond,mace.windu]
+2026-10-31T03:13:19.171Z sorteo cmvpecpxe01hs01ryym5g52es faltaron=[] calificaran=[dory,george.weasley,bellatrix.lestrange,bart.simpson,rubeus.hagrid]
+2026-10-31T03:13:23.078Z sorteo cmvrb017x028p01rym57c07el faltaron=[] calificaran=[neo,saul.goodman,buzz.lightyear,phoebe.buffay]
+2026-10-31T03:13:23.694Z sorteo cmvs0o2q002j901rynp5zdtc3 faltaron=[] calificaran=[sam.gamyi,bellatrix.lestrange,bruce.wayne]
+2026-10-31T03:13:57.918Z pippin.tuk calificar cmvnyywe700zg01rylmgyo05e ratings=3 noShows=0
+2026-10-31T03:13:59.733Z pippin.tuk unirse cmvtoq2bh034901ryi9kyjcdr
+2026-10-31T03:14:06.487Z rubeus.hagrid leer-notificaciones 1
+2026-10-31T03:14:09.148Z elrond leer-notificaciones 1
+2026-10-31T03:14:21.935Z rubeus.hagrid calificar cmvpecpxe01hs01ryym5g52es ratings=3 noShows=0
+2026-10-31T03:14:23.875Z rubeus.hagrid unirse cmvvcqa9i00w701o4ysmo9jjm
+2026-10-31T03:14:25.804Z elrond aceptar cmvtx9hn5036q01rym0paso7k cmvvtjadw010g01o4sqw0log7
+2026-10-31T03:14:27.597Z elrond calificar cmvo7hg3l012w01ryvuai04d0 ratings=3 noShows=0
+2026-10-31T03:14:29.421Z elrond crear cmvvtv02l014g01o4i765709x FUTBOL 2026-11-02T23:00:00.000Z
+2026-10-31T03:14:37.287Z bellatrix.lestrange leer-notificaciones 1
+2026-10-31T03:14:43.937Z hermione.granger leer-notificaciones 2
+2026-10-31T03:14:53.664Z bellatrix.lestrange aceptar cmvqcoatm01uu01rykqf58uga george.weasley
+2026-10-31T03:14:55.503Z bellatrix.lestrange calificar cmvo7hg3l012w01ryvuai04d0 ratings=3 noShows=0
+2026-10-31T03:14:57.250Z bellatrix.lestrange calificar cmvpecpxe01hs01ryym5g52es ratings=3 noShows=0
+2026-10-31T03:14:59.085Z mace.windu calificar cmvo7hg3l012w01ryvuai04d0 ratings=3 noShows=0
+2026-10-31T03:15:00.869Z mace.windu crear cmvvtvoc7015c01o4awuz9u46 PADEL 2026-11-03T23:30:00.000Z
+2026-10-31T03:15:02.991Z hermione.granger aceptar cmvvcqa9i00w701o4ysmo9jjm cmvvtjadw010g01o4sqw0log7
+2026-10-31T03:15:04.895Z hermione.granger aceptar cmvvcqa9i00w701o4ysmo9jjm rubeus.hagrid
+2026-10-31T03:15:11.454Z lois.lane leer-notificaciones 1
+2026-10-31T03:15:14.067Z albus.dumbledore leer-notificaciones 1
+2026-10-31T03:15:29.009Z sam.gamyi calificar cmvs0o2q002j901rynp5zdtc3 ratings=2 noShows=0
+2026-10-31T03:15:31.429Z sam.gamyi crear cmvvtwbw4016201o4wx9gajvb PADEL 2026-11-02T23:00:00.000Z
+2026-10-31T03:15:33.360Z lois.lane calificar cmvnyywe700zg01rylmgyo05e ratings=3 noShows=0
+2026-10-31T03:15:35.218Z lois.lane crear cmvvtwetu016a01o46qkj5wow FUTBOL 2026-11-04T23:30:00.000Z
+2026-10-31T03:15:37.093Z albus.dumbledore calificar cmvo7hg3l012w01ryvuai04d0 ratings=3 noShows=0
+2026-10-31T03:15:39.031Z neo calificar cmvrb017x028p01rym57c07el ratings=3 noShows=0
+2026-10-31T03:15:41.033Z neo unirse cmvvcq8tq00w401o4868if4o1
+2026-10-31T03:15:45.813Z clark.kent leer-notificaciones 1
+2026-10-31T03:15:49.008Z bruce.wayne leer-notificaciones 1
+2026-10-31T03:16:04.951Z clark.kent calificar cmvnyywe700zg01rylmgyo05e ratings=3 noShows=0
+2026-10-31T03:16:06.805Z bruce.wayne calificar cmvs0o2q002j901rynp5zdtc3 ratings=2 noShows=0
+2026-10-31T03:16:08.756Z bruce.wayne unirse cmvvtwbw4016201o4wx9gajvb
+2026-10-31T03:16:11.611Z george.weasley calificar cmvpecpxe01hs01ryym5g52es ratings=3 noShows=0
+2026-10-31T03:16:13.491Z dory calificar cmvnyywe700zg01rylmgyo05e ratings=3 noShows=0
+2026-10-31T03:16:15.295Z dory calificar cmvpecpxe01hs01ryym5g52es ratings=3 noShows=0
+2026-10-31T03:16:17.197Z dory crear cmvvtxb5v017v01o4mg9ak71q FUTBOL 2026-11-06T00:00:00.000Z
+2026-10-31T03:16:27.105Z george.weasley calificar cmvnyywe700zg01rylmgyo05e ratings=3 noShows=0
+2026-10-31T03:16:28.976Z phoebe.buffay leer-notificaciones 1
+2026-10-31T03:16:37.050Z cedric.diggory leer-notificaciones 2
+2026-10-31T03:16:51.099Z phoebe.buffay calificar cmvrb017x028p01rym57c07el ratings=3 noShows=0
+2026-10-31T03:16:53.084Z phoebe.buffay unirse cmvvcq8tq00w401o4868if4o1
+2026-10-31T03:16:54.984Z saul.goodman calificar cmvrb017x028p01rym57c07el ratings=3 noShows=0
+2026-10-31T03:16:56.834Z saul.goodman unirse cmvvlc6nv010501o4ink4y388
+2026-10-31T03:16:58.774Z buzz.lightyear calificar cmvrb017x028p01rym57c07el ratings=3 noShows=0
+2026-10-31T03:17:00.680Z bart.simpson calificar cmvpecpxe01hs01ryym5g52es ratings=3 noShows=0
+2026-10-31T03:17:02.600Z bart.simpson unirse cmvvcq8tq00w401o4868if4o1
+2026-10-31T03:17:04.607Z krusty calificar cmvnyywe700zg01rylmgyo05e ratings=3 noShows=0
+2026-10-31T03:17:08.429Z cedric.diggory aceptar cmvtg581i031v01ryf9jh5d78 cmvvtjadw010g01o4sqw0log7
+2026-10-31T03:17:10.266Z cedric.diggory unirse cmvvtvoc7015c01o4awuz9u46

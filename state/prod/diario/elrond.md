@@ -115,3 +115,4 @@
 - 2026-10-30 16:14 · aceptó a George Weasley y Bellatrix Lestrange en su fútbol
 - 2026-10-30 16:14 · (corrección) recién ahora aceptó a George Weasley y Bellatrix Lestrange en su fútbol
 - 2026-10-30 20:16 · entró y solo miró
+- 2026-10-31 00:14 · aceptó a Victoria, calificó el fútbol y armó uno el lunes 20 h en Nordelta

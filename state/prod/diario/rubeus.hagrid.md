@@ -21,3 +21,4 @@
 - 2026-10-23 04:14 · entró, esperando respuesta por el fútbol del jueves; solo miró
 - 2026-10-23 12:14 · pidió unirse al fútbol del lunes en Club Pilar (tardes libres)
 - 2026-10-29 16:14 · pidió unirse al fútbol del viernes en Polideportivo Del Viso (tardes libres)
+- 2026-10-31 00:14 · calificó el fútbol y se anotó al del domingo a la mañana en River Courts

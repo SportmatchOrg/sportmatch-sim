@@ -10,3 +10,4 @@
 - 2026-10-28 00:14 · calificó el fútbol (4, 4 y 3), solo miró lo demás
 - 2026-10-29 08:13 · calificó el básquet (4, 5 y 4) y pidió unirse al fútbol de Elrond del jueves en Nordelta (el de Steve se canceló)
 - 2026-10-29 16:14 · pidió unirse al básquet del viernes en Campus Austral (se anota a todo)
+- 2026-10-31 00:16 · calificó el básquet y se anotó al del lunes en Campus Austral

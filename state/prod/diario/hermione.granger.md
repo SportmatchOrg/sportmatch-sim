@@ -44,3 +44,4 @@
 - 2026-10-24 16:14 · se unió al fútbol ADVANCED del domingo en Club Pilar (competitiva, juega para ganar)
 - 2026-10-25 12:14 · calificó el tenis (4); entre semana no organizó nada
 - 2026-10-30 16:14 · armó un fútbol INTERMEDIATE el domingo 1/11 a las 10 en River Courts
+- 2026-10-31 00:15 · aceptó a los dos que pidieron para el domingo; solo miró

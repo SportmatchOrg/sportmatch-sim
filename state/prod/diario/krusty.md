@@ -2,3 +2,4 @@
 - 2026-10-28 00:15 · calificó el fútbol (5, 4 y 4) y pidió unirse al del sábado 31 de Bellatrix en River Courts
 - 2026-10-28 04:14 · pidió unirse al fútbol del viernes 30 de Lois en Club Pilar (vuelve con ganas)
 - 2026-10-30 08:14 · se anotó al fútbol del lunes en Club Pilar (cerca de casa)
+- 2026-10-31 00:17 · calificó el fútbol y se anotó al del sábado en River Courts

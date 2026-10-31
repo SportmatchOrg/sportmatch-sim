@@ -32,3 +32,4 @@
 - 2026-10-30 12:14 · aceptó a Krusty y a Trinity en su fútbol del lunes y pidió unirse al de Nordelta del martes
 - 2026-10-30 16:14 · leyó que Elrond lo aceptó en su fútbol; solo miró
 - 2026-10-30 20:15 · aceptó a Bart y a Sirius en su fútbol y pidió unirse al del sábado en River Courts
+- 2026-10-31 00:16 · calificó dos fútbol; solo miró
