@@ -65,3 +65,4 @@
 - 2026-10-27 20:15 · aceptó a Barney Gumble en su pádel del sábado temprano
 - 2026-10-29 12:15 · entró y solo miró
 - 2026-10-30 20:16 · entró y solo miró; nada para el finde
+- 2026-10-31 08:13 · calificó el pádel (5 y 4)

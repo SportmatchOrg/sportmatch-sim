@@ -1,0 +1,1 @@
+- 2026-10-31 08:14 · primera vez en la app: pidió unirse al básquet del lunes de noche en Campus Austral (juega después del trabajo)

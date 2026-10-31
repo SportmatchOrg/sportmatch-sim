@@ -3,3 +3,4 @@
 - 2026-10-29 08:14 · armó un pádel INTERMEDIATE el lunes 2/11 a las 20 en Tigre Pádel Club
 - 2026-10-30 16:14 · aceptó a Saruman en su pádel; se anotó al pádel ADVANCED del sábado en Pádel Point Pilar (quiere ganar)
 - 2026-10-31 00:17 · aceptó a Victoria y se anotó al pádel del martes en Tigre Pádel Club
+- 2026-10-31 08:14 · calificó el pádel (5 y 4) y pidió unirse al pádel del martes 8 h en Tigre
