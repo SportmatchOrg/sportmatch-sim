@@ -40,3 +40,4 @@
 - 2026-10-29 08:12 · ya tiene su fútbol del viernes en Nordelta; hoy solo miró
 - 2026-10-31 00:12 · armó un fútbol para el mar 3/11 21:00 en Nordelta (competitivo)
 - 2026-10-31 04:11 · se anotó al básquet del domingo en Campus Austral (competitivo)
+- 2026-10-31 08:11 · no había a quién calificar en su partido; leyó notificaciones

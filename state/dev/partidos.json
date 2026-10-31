@@ -4859,11 +4859,10 @@
       "george.weasley",
       "harry.potter",
       "lois.lane",
-      "bart.simpson",
-      "padme.amidala"
+      "bart.simpson"
     ],
     "pendientes": [],
-    "bajasSorteadas": false,
+    "bajasSorteadas": true,
     "asistencia": null,
     "calificaran": [],
     "calificaron": [],
@@ -4937,7 +4936,7 @@
       "luke.skywalker"
     ],
     "pendientes": [],
-    "bajasSorteadas": false,
+    "bajasSorteadas": true,
     "asistencia": null,
     "calificaran": [],
     "calificaron": [],
@@ -4957,7 +4956,7 @@
       "jon.snow"
     ],
     "pendientes": [],
-    "bajasSorteadas": false,
+    "bajasSorteadas": true,
     "asistencia": null,
     "calificaran": [],
     "calificaron": [],
@@ -5397,11 +5396,10 @@
     "jugadores": [
       "eowyn",
       "nala",
-      "marty.mcfly",
-      "kylo.ren"
+      "marty.mcfly"
     ],
     "pendientes": [],
-    "bajasSorteadas": false,
+    "bajasSorteadas": true,
     "asistencia": null,
     "calificaran": [],
     "calificaron": [],
@@ -5508,7 +5506,9 @@
       "george.weasley",
       "peter.parker"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "agente.smith"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -5590,11 +5590,10 @@
       "kylo.ren",
       "nala",
       "phoebe.buffay",
-      "luke.skywalker"
-    ],
-    "pendientes": [
+      "luke.skywalker",
       "frodo.bolson"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -5760,7 +5759,7 @@
   "cmvu5s5cg006901qin9pwsdnf": {
     "jugadores": [],
     "pendientes": [],
-    "bajasSorteadas": false,
+    "bajasSorteadas": true,
     "asistencia": null,
     "calificaran": [],
     "calificaron": [],
@@ -5797,7 +5796,8 @@
   "cmvuebqt800ba01qi0e3dsy4n": {
     "jugadores": [
       "diana.prince",
-      "phoebe.buffay"
+      "phoebe.buffay",
+      "george.weasley"
     ],
     "pendientes": [],
     "bajasSorteadas": false,
@@ -5811,7 +5811,7 @@
     "cupo": 9,
     "creado": "2026-10-30T03:11:50.517Z",
     "pendientesHumanos": 0,
-    "anotados": 1
+    "anotados": 2
   },
   "cmvumwubl00hw01qi4tfp5ips": {
     "jugadores": [],
@@ -5969,7 +5969,9 @@
     "anotados": 0
   },
   "cmvw2bmy6017201qipibqprdl": {
-    "jugadores": [],
+    "jugadores": [
+      "krusty"
+    ],
     "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
@@ -5980,6 +5982,8 @@
     "fecha": "2026-11-04T23:30:00.000Z",
     "deporte": "FUTBOL",
     "cupo": 9,
-    "creado": "2026-10-31T07:11:22.486Z"
+    "creado": "2026-10-31T07:11:22.486Z",
+    "pendientesHumanos": 0,
+    "anotados": 0
   }
 }

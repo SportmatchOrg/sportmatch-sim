@@ -1,2 +1,3 @@
 - 2026-10-27 12:12 · primera vez: pidió unirse al tenis del viernes en Tigre
 - 2026-10-30 20:13 · calificó el tenis (3 y 4); no encontró tenis de su nivel en el norte, no se anotó a nada
+- 2026-10-31 08:12 · leyó notificaciones; sigue sin tenis de su nivel, no se anotó

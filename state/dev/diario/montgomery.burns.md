@@ -18,3 +18,4 @@
 - 2026-10-24 20:12 · miró si había running, nada
 - 2026-10-25 08:12 · leyó notificaciones; no hay running nuevo, no se anotó
 - 2026-10-25 12:11 · calificó el pádel (4, 5, 4); no hay running para unirse
+- 2026-10-31 08:11 · leyó notificaciones; el running de hoy a la mañana ya pasó casi, no se anotó
