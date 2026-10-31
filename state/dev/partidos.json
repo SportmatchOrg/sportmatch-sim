@@ -4881,7 +4881,9 @@
     ],
     "calificaron": [
       "hermione.granger",
-      "george.weasley"
+      "george.weasley",
+      "phoebe.buffay",
+      "bart.simpson"
     ],
     "cancelado": false,
     "organizador": "hermione.granger",
@@ -4966,7 +4968,8 @@
       "luke.skywalker"
     ],
     "calificaron": [
-      "jack.sparrow"
+      "jack.sparrow",
+      "luke.skywalker"
     ],
     "cancelado": false,
     "organizador": "jack.sparrow",
@@ -4996,7 +4999,8 @@
       "phoebe.buffay"
     ],
     "calificaron": [
-      "finn"
+      "finn",
+      "phoebe.buffay"
     ],
     "cancelado": false,
     "organizador": "finn",
@@ -5453,7 +5457,8 @@
     ],
     "calificaron": [
       "eowyn",
-      "nala"
+      "nala",
+      "fiona"
     ],
     "cancelado": false,
     "organizador": "fiona",
@@ -5560,7 +5565,7 @@
       "agente.smith"
     ],
     "pendientes": [],
-    "bajasSorteadas": false,
+    "bajasSorteadas": true,
     "asistencia": null,
     "calificaran": [],
     "calificaron": [],
@@ -5571,7 +5576,7 @@
     "cupo": 9,
     "creado": "2026-10-28T07:11:52.486Z",
     "pendientesHumanos": 0,
-    "anotados": 4
+    "anotados": 5
   },
   "cmvs96my8006601ldqoi02nx3": {
     "jugadores": [],
@@ -5728,7 +5733,9 @@
       "yoda"
     ],
     "calificaron": [
-      "yoda"
+      "yoda",
+      "aragorn",
+      "krusty"
     ],
     "cancelado": false,
     "organizador": "aragorn",
@@ -5759,7 +5766,9 @@
   },
   "cmvtg1ytp00ot01ld94hpvm62": {
     "jugadores": [],
-    "pendientes": [],
+    "pendientes": [
+      "luke.skywalker"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -5967,11 +5976,10 @@
   },
   "cmvuvilm600mi01qihz64t3hy": {
     "jugadores": [
-      "cedric.diggory"
-    ],
-    "pendientes": [
+      "cedric.diggory",
       "yoda"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -5987,12 +5995,12 @@
   },
   "cmvv41iop00px01qiby8mzrtb": {
     "jugadores": [
-      "groot"
-    ],
-    "pendientes": [
+      "groot",
       "eowyn",
-      "nala"
+      "nala",
+      "phoebe.buffay"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -6007,11 +6015,11 @@
     "anotados": 1
   },
   "cmvvl7ltx00y301qiqs57xtc9": {
-    "jugadores": [],
-    "pendientes": [
+    "jugadores": [
       "bellatrix.lestrange",
       "sam.gamyi"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -6042,7 +6050,9 @@
     "anotados": 0
   },
   "cmvvtsto2015401qi24lbo4zk": {
-    "jugadores": [],
+    "jugadores": [
+      "george.weasley"
+    ],
     "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
@@ -6076,9 +6086,11 @@
     "anotados": 1
   },
   "cmvwjiakr003501nqeoga3rp4": {
-    "jugadores": [],
-    "pendientes": [
+    "jugadores": [
       "george.weasley"
+    ],
+    "pendientes": [
+      "aragorn"
     ],
     "bajasSorteadas": false,
     "asistencia": null,
@@ -6089,11 +6101,17 @@
     "fecha": "2026-11-01T14:00:00.000Z",
     "deporte": "FUTBOL",
     "cupo": 9,
-    "creado": "2026-10-31T15:12:26.604Z"
+    "creado": "2026-10-31T15:12:26.604Z",
+    "pendientesHumanos": 0,
+    "anotados": 0,
+    "cancelSorteado": true,
+    "cancelar": false
   },
   "cmvwjihi3003o01nqe4yi8ef3": {
     "jugadores": [],
-    "pendientes": [],
+    "pendientes": [
+      "krusty"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -6103,6 +6121,24 @@
     "fecha": "2026-11-01T13:00:00.000Z",
     "deporte": "PADEL",
     "cupo": 3,
-    "creado": "2026-10-31T15:12:35.518Z"
+    "creado": "2026-10-31T15:12:35.518Z",
+    "pendientesHumanos": 0,
+    "anotados": 0,
+    "cancelSorteado": true,
+    "cancelar": false
+  },
+  "cmvws52jb00ot01nq1scwk8iv": {
+    "jugadores": [],
+    "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "bucky.barnes",
+    "fecha": "2026-11-01T13:00:00.000Z",
+    "deporte": "FUTBOL",
+    "cupo": 9,
+    "creado": "2026-10-31T19:14:06.114Z"
   }
 }

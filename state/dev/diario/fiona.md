@@ -16,3 +16,4 @@
 - 2026-10-30 12:12 · aceptó a Kylo Ren y armó un básquet BEGINNER el mar 3/11 19:30 en Del Viso
 - 2026-10-30 16:12 · aceptó a Groot en su básquet; nada más
 - 2026-10-31 08:11 · aceptó a Kylo antes de que se bajara; hoy solo miró
+- 2026-10-31 16:13 · aceptó a Éowyn, Nala y Phoebe en su básquet del martes y calificó el anterior; no armó otro

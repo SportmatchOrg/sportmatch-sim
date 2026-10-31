@@ -32,3 +32,4 @@
 - 2026-10-30 08:13 · armó un pádel para el domingo 1/11 a las 8 en Tigre
 - 2026-10-30 16:12 · miró la app; nada más por hoy
 - 2026-10-31 00:11 · aceptó a Cedric en su pádel del domingo
+- 2026-10-31 16:11 · aceptó a Yoda en su pádel del domingo; ya tiene uno armado, no armó otro

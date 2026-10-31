@@ -10,3 +10,4 @@
 - 2026-10-29 04:12 · armó un pádel BEGINNER para el sáb 31/10 10:30 en Pádel Point Pilar
 - 2026-10-30 04:11 · aceptó a Krusty en su pádel; nada más
 - 2026-10-30 08:12 · aceptó a Yoda en su pádel; nada más
+- 2026-10-31 16:12 · calificó a Yoda y Krusty y pidió unirse al fútbol del domingo de Hermione en Club Pilar

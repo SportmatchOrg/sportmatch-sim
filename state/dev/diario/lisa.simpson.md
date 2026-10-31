@@ -8,3 +8,4 @@
 - 2026-10-26 12:12 · miró la app de noche, sin novedades
 - 2026-10-30 04:12 · pidió unirse al tenis del viernes 20:00 en Tigre (juega de noche)
 - 2026-10-30 20:12 · calificó el tenis (4 y 3) y armó un pádel INTERMEDIATE para el lun 2/11 21:00 en Club Belgrano (juega de noche)
+- 2026-10-31 16:11 · aceptó a Bellatrix y a Sam en su pádel del lunes
