@@ -41,3 +41,4 @@
 - 2026-10-31 00:12 · armó un fútbol para el mar 3/11 21:00 en Nordelta (competitivo)
 - 2026-10-31 04:11 · se anotó al básquet del domingo en Campus Austral (competitivo)
 - 2026-10-31 08:11 · no había a quién calificar en su partido; leyó notificaciones
+- 2026-10-31 12:12 · leyó notificaciones; nadie a quién calificar, hoy solo miró

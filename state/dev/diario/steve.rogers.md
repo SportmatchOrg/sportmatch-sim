@@ -126,3 +126,5 @@
 - 2026-10-29 20:11 · aceptó a Fred en su fútbol del sábado; nadie a quién calificar (solo faltó George)
 - 2026-10-30 04:11 · aceptó a George en su fútbol; se anotó al fútbol del miércoles en Club Pilar
 - 2026-10-30 08:11 · aceptó a Peter en su fútbol; se anotó al fútbol ADVANCED del sábado en Club Pilar
+- 2026-10-31 12:11 · aceptó a Agente Smith en su fútbol del sábado; hoy no armó otro
+- 2026-10-31 12:11 · corrección: recién ahí aceptó a Agente Smith en su fútbol del sábado

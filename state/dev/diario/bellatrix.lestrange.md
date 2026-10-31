@@ -100,3 +100,4 @@
 - 2026-10-28 16:11 · aceptó a Walter White y pidió unirse al fútbol del jueves de Ned en River Courts (se anota a todo)
 - 2026-10-29 20:11 · calificó el partido (4) y pidió unirse al pádel del sábado de Sam en Club Belgrano (se anota a todo)
 - 2026-10-30 00:11 · calificó el fútbol (5, 4 y 5); nada en CABA para anotarse
+- 2026-10-31 12:11 · calificó el pádel (5 y 4) y pidió unirse al pádel del lunes de Lisa en Club Belgrano (se anota a todo)
