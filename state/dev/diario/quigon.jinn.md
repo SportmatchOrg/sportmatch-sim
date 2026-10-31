@@ -18,3 +18,4 @@
 - 2026-10-17 12:12 · calificó el pádel y pidió unirse al running de Molly del domingo en Campus Austral
 - 2026-10-23 08:12 · entró y solo miró
 - 2026-10-29 08:12 · armó un running INTERMEDIATE para el dom 1/11 9:00 en Campus Austral (trote para conocer gente)
+- 2026-10-31 20:11 · aceptó a Luke en su running y se anotó a un pádel en Norte Pádel (le gusta conocer gente)

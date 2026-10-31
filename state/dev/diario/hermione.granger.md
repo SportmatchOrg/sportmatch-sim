@@ -58,3 +58,4 @@
 - 2026-10-30 20:11 · aceptó a Gandalf en su tenis dobles del domingo
 - 2026-10-31 12:12 · calificó el fútbol (4, 5, 4) y armó un fútbol del domingo 11:00 en Club Pilar (finde a la mañana)
 - 2026-10-31 16:11 · aceptó a George en su fútbol del domingo
+- 2026-10-31 20:12 · aceptó a Aragorn en su fútbol del domingo

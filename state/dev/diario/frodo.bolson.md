@@ -43,3 +43,4 @@
 - 2026-10-31 08:11 · no había a quién calificar en su partido; leyó notificaciones
 - 2026-10-31 12:12 · leyó notificaciones; nadie a quién calificar, hoy solo miró
 - 2026-10-31 16:11 · ya tiene básquet y fútbol armados; hoy solo miró, nadie a quién calificar
+- 2026-10-31 20:12 · miró la app, nadie a quién calificar

@@ -9,3 +9,4 @@
 - 2026-10-24 08:12 · miró básquet, nada en CABA; no se anotó
 - 2026-10-25 20:11 · pidió unirse al básquet del jueves en Club Belgrano (de noche, en CABA)
 - 2026-10-26 04:12 · miró partidos; ya estaba anotado al básquet del jueves en Belgrano
+- 2026-10-31 20:13 · miró partidos de básquet, hoy no se anotó a nada

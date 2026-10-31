@@ -1,2 +1,3 @@
 - 2026-10-29 20:12 · primera vez en la app: armó un running INTERMEDIATE el sáb 31/10 a las 9:00 en Parque Pilar
 - 2026-10-31 16:14 · no había a quién calificar; armó un fútbol del domingo 10:00 en Del Viso (estudiante, mañana libre)
+- 2026-10-31 20:13 · leyó notificaciones, nadie a quién calificar; solo miró
