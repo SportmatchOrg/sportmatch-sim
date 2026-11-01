@@ -6,3 +6,4 @@
 - 2026-10-31 08:12 · pidió unirse al fútbol del miércoles de Lois en Club Pilar
 - 2026-10-31 16:13 · calificó el pádel (4 y 5) y pidió unirse al pádel del domingo de Jack en Pádel Point Pilar
 - 2026-11-01 04:13 · leyó notificaciones; solo miró
+- 2026-11-01 08:11 · aceptó a Rey en su pádel del lunes

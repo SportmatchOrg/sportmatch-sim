@@ -8,3 +8,4 @@
 - 2026-10-30 00:13 · aceptó a Ignacio en su fútbol del viernes y pidió unirse al fútbol del lunes de Dory en Club Pilar
 - 2026-10-31 00:12 · calificó dos partidos (4, 5 y 5, 4, 5) y armó un fútbol para el jue 5/11 21:30 en Club Pilar (competitivo)
 - 2026-10-31 16:13 · calificó el fútbol (5, 4, 5) y aceptó a George en su fútbol del jueves
+- 2026-11-01 08:11 · aceptó a Wanda en su fútbol del jueves

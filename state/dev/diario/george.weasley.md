@@ -35,3 +35,4 @@
 - 2026-10-31 20:12 · calificó el fútbol y armó un fútbol para el martes 21:00 en Del Viso (se anota a todo)
 - 2026-11-01 00:11 · se unió al fútbol del miércoles de Lois en Club Pilar (se anota a todo)
 - 2026-11-01 04:11 · se unió al fútbol del miércoles de Gandalf en Club Pilar (conoce gente nueva)
+- 2026-11-01 08:11 · no había a quién calificar; se anotó al fútbol del domingo en Del Viso de Bucky (conoce gente nueva)

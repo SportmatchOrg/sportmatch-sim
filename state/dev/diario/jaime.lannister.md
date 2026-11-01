@@ -19,3 +19,5 @@
 - 2026-10-24 16:12 · miró running y tenis; nada antes de las 9, no se anotó a nada
 - 2026-10-26 20:13 · pidió unirse al running del sáb 31/10 9 am de Jack en Parque Pilar (es de los más temprano que encontró)
 - 2026-11-01 00:12 · leyó que Jack lo aceptó; pidió unirse al running del sáb 7/11 9:00 de Bucky en Parque Pilar (el más temprano que hay)
+- 2026-11-01 08:12 · armó un tenis singles para el mar 3/11 a las 8:00 en Club Pilar (madruga)
+- 2026-11-01 08:12 · corrección: el singles no salió; armó un tenis dobles el mar 3/11 8:00 en Club Pilar
