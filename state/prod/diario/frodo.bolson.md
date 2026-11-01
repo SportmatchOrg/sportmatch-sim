@@ -20,3 +20,4 @@
 - 2026-10-30 16:14 · armó un básquet INTERMEDIATE el lunes 2/11 a las 20:30 en Campus Austral (a ganar)
 - 2026-10-31 04:13 · aceptó a Neo, Phoebe y Bart en su básquet del lunes; sigue esperando que se llene
 - 2026-10-31 12:15 · aceptó a Gato con Botas en su básquet del lunes; no armó otro, espera que se llene el que tiene
+- 2026-11-01 04:14 · aceptó a Kylo Ren en su básquet del lunes; sigue esperando que se llene

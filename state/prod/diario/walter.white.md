@@ -1,2 +1,3 @@
 - 2026-10-12 04:14 · pidió unirse al pádel del martes en Club Belgrano (juega de noche después del trabajo)
 - 2026-10-14 20:15 · entró a mirar, no vio nada de fútbol o pádel en CABA que le sirva
+- 2026-11-01 04:15 · entró a mirar; nada de fútbol o pádel en CABA que le sirva

@@ -5753,11 +5753,10 @@
       "neo",
       "phoebe.buffay",
       "bart.simpson",
-      "gato.con.botas"
-    ],
-    "pendientes": [
+      "gato.con.botas",
       "kylo.ren"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -5797,7 +5796,9 @@
     "jugadores": [
       "saul.goodman"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "davy.jones"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -5882,7 +5883,7 @@
     "cupo": 9,
     "creado": "2026-10-31T03:15:35.216Z",
     "pendientesHumanos": 0,
-    "anotados": 1
+    "anotados": 2
   },
   "cmvvtxb5v017v01o4mg9ak71q": {
     "jugadores": [
@@ -5890,7 +5891,9 @@
       "george.weasley",
       "rey"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "gandalf"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -5902,13 +5905,15 @@
     "cupo": 9,
     "creado": "2026-10-31T03:16:17.195Z",
     "pendientesHumanos": 0,
-    "anotados": 1
+    "anotados": 3
   },
   "cmvw2eqz901cv01o4sijvdczb": {
     "jugadores": [
       "neo"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "kylo.ren"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -5958,10 +5963,10 @@
     "anotados": 0
   },
   "cmvx0srlo01ti01o4yc8851aq": {
-    "jugadores": [],
-    "pendientes": [
+    "jugadores": [
       "lois.lane"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],

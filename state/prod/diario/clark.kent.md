@@ -17,3 +17,4 @@
 - 2026-10-26 16:14 · pidió unirse al fútbol del viernes 30 en Club Pilar de Lois (tarde libre)
 - 2026-10-27 04:14 · pidió unirse al fútbol del sábado 31 en Club Pilar de Dory (tardes libres)
 - 2026-10-31 00:16 · calificó el fútbol; solo miró
+- 2026-11-01 04:14 · entró y solo miró los partidos
