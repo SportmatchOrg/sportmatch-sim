@@ -1,0 +1,1 @@
+- 2026-11-01 16:13 · pidió unirse al básquet del martes 20:30 de Neo en Campus Austral (juega de noche)

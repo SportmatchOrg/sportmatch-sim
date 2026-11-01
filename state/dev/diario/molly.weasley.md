@@ -19,3 +19,4 @@
 - 2026-10-18 12:12 · calificó el running, exigente con el nivel
 - 2026-10-30 04:12 · armó un running para el dom 1/11 09:00 en Campus Austral
 - 2026-11-01 12:11 · leyó el recordatorio de su running; el partido por calificar no tenía a nadie, solo miró
+- 2026-11-01 16:11 · miró la app; el partido por calificar no tenía a nadie

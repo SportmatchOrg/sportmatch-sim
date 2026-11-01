@@ -5871,11 +5871,10 @@
       "peter.parker",
       "steve.rogers",
       "clark.kent",
-      "george.weasley"
-    ],
-    "pendientes": [
+      "george.weasley",
       "phoebe.buffay"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -6352,7 +6351,9 @@
   },
   "cmvxhrgmq00zi01nqo1bwo36o": {
     "jugadores": [],
-    "pendientes": [],
+    "pendientes": [
+      "boromir"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -6399,10 +6400,12 @@
     "anotados": 0
   },
   "cmvxywuk6004f01mvfd82xs11": {
-    "jugadores": [],
-    "pendientes": [
+    "jugadores": [
       "george.weasley",
       "gandalf"
+    ],
+    "pendientes": [
+      "forrest.gump"
     ],
     "bajasSorteadas": false,
     "asistencia": null,
@@ -6413,11 +6416,15 @@
     "fecha": "2026-11-07T13:00:00.000Z",
     "deporte": "FUTBOL",
     "cupo": 9,
-    "creado": "2026-11-01T15:11:26.062Z"
+    "creado": "2026-11-01T15:11:26.062Z",
+    "pendientesHumanos": 0,
+    "anotados": 0
   },
   "cmvxyxu43005601mv0wgr8ym3": {
     "jugadores": [],
-    "pendientes": [],
+    "pendientes": [
+      "gato.con.botas"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -6427,11 +6434,15 @@
     "fecha": "2026-11-03T23:30:00.000Z",
     "deporte": "BASQUET",
     "cupo": 7,
-    "creado": "2026-11-01T15:12:12.133Z"
+    "creado": "2026-11-01T15:12:12.133Z",
+    "pendientesHumanos": 0,
+    "anotados": 0
   },
   "cmvxyz6j5006501mv2mtcuao6": {
     "jugadores": [],
-    "pendientes": [],
+    "pendientes": [
+      "george.weasley"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -6441,6 +6452,8 @@
     "fecha": "2026-11-07T12:00:00.000Z",
     "deporte": "FUTBOL",
     "cupo": 9,
-    "creado": "2026-11-01T15:13:14.861Z"
+    "creado": "2026-11-01T15:13:14.861Z",
+    "pendientesHumanos": 0,
+    "anotados": 0
   }
 }

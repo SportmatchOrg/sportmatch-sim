@@ -48,3 +48,4 @@
 - 2026-11-01 04:11 · armó un básquet para el miércoles 4/11 en Campus Austral
 - 2026-11-01 08:11 · nada para calificar hoy; leyó notificaciones y solo miró
 - 2026-11-01 12:12 · calificó el básquet (Neo 4, Phoebe 5, Kylo 3); nada más por hoy
+- 2026-11-01 16:11 · nadie a quién calificar; solo miró

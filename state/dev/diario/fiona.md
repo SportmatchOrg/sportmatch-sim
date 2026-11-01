@@ -18,3 +18,4 @@
 - 2026-10-31 08:11 · aceptó a Kylo antes de que se bajara; hoy solo miró
 - 2026-10-31 16:13 · aceptó a Éowyn, Nala y Phoebe en su básquet del martes y calificó el anterior; no armó otro
 - 2026-11-01 04:11 · aceptó a Davy en su básquet; ya tiene el del martes, no armó otro
+- 2026-11-01 16:12 · leyó notificaciones; ya tiene su básquet del martes, solo miró
