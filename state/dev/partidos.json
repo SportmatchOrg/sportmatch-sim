@@ -5825,7 +5825,9 @@
       "steve.rogers",
       "clark.kent"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "george.weasley"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -5843,7 +5845,9 @@
     "jugadores": [
       "kylo.ren"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "rey"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -6015,11 +6019,10 @@
       "groot",
       "eowyn",
       "nala",
-      "phoebe.buffay"
-    ],
-    "pendientes": [
+      "phoebe.buffay",
       "davy.jones"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -6072,7 +6075,9 @@
     "jugadores": [
       "george.weasley"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "wanda.maximoff"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -6088,11 +6093,10 @@
   },
   "cmvw2bmy6017201qipibqprdl": {
     "jugadores": [
-      "krusty"
-    ],
-    "pendientes": [
+      "krusty",
       "george.weasley"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -6214,10 +6218,10 @@
     "anotados": 1
   },
   "cmvx978io00wm01nq9f296n19": {
-    "jugadores": [],
-    "pendientes": [
+    "jugadores": [
       "jaime.lannister"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -6227,12 +6231,15 @@
     "fecha": "2026-11-07T12:00:00.000Z",
     "deporte": "RUNNING",
     "cupo": 5,
-    "creado": "2026-11-01T03:11:40.642Z"
+    "creado": "2026-11-01T03:11:40.642Z",
+    "pendientesHumanos": 0,
+    "anotados": 0
   },
   "c765cdhsg5txuksah9mcrmjl0": {
     "jugadores": [],
     "pendientes": [
-      "gimli"
+      "gimli",
+      "bellatrix.lestrange"
     ],
     "bajasSorteadas": false,
     "asistencia": null,
@@ -6242,6 +6249,21 @@
     "organizador": "humano:cz4jvyouvtz98r1wnhlfxsxgg",
     "fecha": "2026-11-04T21:30:00.000Z",
     "deporte": "FUTBOL",
-    "cupo": 9
+    "cupo": 9,
+    "anotados": 6
+  },
+  "cmvxhrgmq00zi01nqo1bwo36o": {
+    "jugadores": [],
+    "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "frodo.bolson",
+    "fecha": "2026-11-05T00:00:00.000Z",
+    "deporte": "BASQUET",
+    "cupo": 7,
+    "creado": "2026-11-01T07:11:21.235Z"
   }
 }

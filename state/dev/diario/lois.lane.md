@@ -69,3 +69,4 @@
 - 2026-10-30 16:12 · aceptó a Diana en su fútbol y pidió unirse al fútbol del lunes en Club Pilar
 - 2026-10-31 04:11 · aceptó a Phoebe y armó un fútbol del miércoles en Club Pilar (después del laburo)
 - 2026-10-31 08:12 · aceptó a Krusty y a George en sus fútbol de Club Pilar
+- 2026-11-01 04:11 · aceptó a George en su fútbol

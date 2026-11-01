@@ -34,3 +34,4 @@
 - 2026-10-31 16:11 · leyó que Hermione lo aceptó; pidió unirse al fútbol del jueves de Bart en Club Pilar
 - 2026-10-31 20:12 · calificó el fútbol y armó un fútbol para el martes 21:00 en Del Viso (se anota a todo)
 - 2026-11-01 00:11 · se unió al fútbol del miércoles de Lois en Club Pilar (se anota a todo)
+- 2026-11-01 04:11 · se unió al fútbol del miércoles de Gandalf en Club Pilar (conoce gente nueva)

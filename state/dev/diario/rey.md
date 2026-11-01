@@ -1,0 +1,1 @@
+- 2026-11-01 04:12 · primera vez: se anotó al pádel BEGINNER del lunes de Krusty en Pádel Point Pilar

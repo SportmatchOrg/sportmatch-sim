@@ -87,3 +87,4 @@
 - 2026-10-26 12:11 · aceptó a George Weasley en su partido
 - 2026-10-26 20:11 · calificó el partido con Burro (5)
 - 2026-10-28 08:12 · aceptó a Lois en su fútbol de Nordelta
+- 2026-11-01 04:12 · leyó notificaciones (recordatorio de partido); solo miró

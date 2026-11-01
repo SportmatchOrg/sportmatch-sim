@@ -17,3 +17,4 @@
 - 2026-10-30 16:12 · aceptó a Groot en su básquet; nada más
 - 2026-10-31 08:11 · aceptó a Kylo antes de que se bajara; hoy solo miró
 - 2026-10-31 16:13 · aceptó a Éowyn, Nala y Phoebe en su básquet del martes y calificó el anterior; no armó otro
+- 2026-11-01 04:11 · aceptó a Davy en su básquet; ya tiene el del martes, no armó otro

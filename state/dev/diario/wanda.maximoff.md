@@ -1,0 +1,1 @@
+- 2026-11-01 04:13 · primera vez: pidió unirse al fútbol del jueves 21:30 de Bart en Club Pilar (juega de noche)
