@@ -62,3 +62,4 @@
 - 2026-11-01 00:11 · sin novedades; ya tiene tenis y fútbol del domingo armados, solo miró
 - 2026-11-01 12:11 · calificó fútbol y tenis (4–5) y armó un fútbol del sábado 7/11 10:00 en Club Pilar
 - 2026-11-01 16:11 · aceptó a George y a Gandalf en su fútbol del sábado
+- 2026-11-01 20:11 · aceptó a Forrest en su fútbol; no se unió a nada (entre semana casi no entra)

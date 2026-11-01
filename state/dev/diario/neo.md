@@ -49,3 +49,4 @@
 - 2026-10-31 08:11 · aceptó a Frodo en su básquet; ya tiene uno armado, no organizó otro
 - 2026-11-01 00:11 · leyó el recordatorio de partido; ya tiene su básquet, solo miró
 - 2026-11-01 12:12 · calificó el básquet (Phoebe 5, Kylo 4) y armó otro básquet el martes 3/11 20:30 en Campus Austral
+- 2026-11-01 20:11 · aceptó a Gato con Botas en su básquet del martes

@@ -6,3 +6,4 @@
 - 2026-11-01 08:12 · nada para calificar; aceptó a George en su fútbol del domingo en Del Viso
 - 2026-11-01 12:14 · calificó el fútbol (George 5); el otro partido no tenía a nadie, solo miró
 - 2026-11-01 16:12 · miró la app; nadie a quién calificar
+- 2026-11-01 20:11 · miró la app; nadie a quién calificar

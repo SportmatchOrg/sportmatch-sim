@@ -38,3 +38,4 @@
 - 2026-11-01 08:11 · no había a quién calificar; se anotó al fútbol del domingo en Del Viso de Bucky (conoce gente nueva)
 - 2026-11-01 12:12 · calificó el fútbol (Bucky 5) y se unió al fútbol del sábado 7/11 de Hermione en Club Pilar
 - 2026-11-01 16:12 · se anotó al fútbol del sábado 9:00 de Finn en Del Viso (conoce gente nueva)
+- 2026-11-01 20:11 · ya está anotado a todos los fútbol de Pilar; hoy solo miró

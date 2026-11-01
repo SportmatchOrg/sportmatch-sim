@@ -5272,10 +5272,10 @@
       "sam.gamyi": true
     },
     "calificaran": [
-      "burro",
+      "sam.gamyi",
       "george.weasley",
       "peter.parker",
-      "sam.gamyi"
+      "burro"
     ],
     "calificaron": [
       "sam.gamyi",
@@ -5381,8 +5381,8 @@
       "lisa.simpson": true
     },
     "calificaran": [
-      "stephen.strange",
-      "lisa.simpson"
+      "lisa.simpson",
+      "stephen.strange"
     ],
     "calificaron": [
       "lisa.simpson",
@@ -5886,7 +5886,7 @@
     "cupo": 9,
     "creado": "2026-10-29T15:12:33.810Z",
     "pendientesHumanos": 0,
-    "anotados": 4
+    "anotados": 5
   },
   "cmvtx74ao00vu01ldkxnprxiw": {
     "jugadores": [
@@ -6298,22 +6298,6 @@
     "pendientesHumanos": 0,
     "anotados": 0
   },
-  "cmzwn9iy264wjdevzr6fnhqeg": {
-    "jugadores": [],
-    "pendientes": [
-      "carol.danvers"
-    ],
-    "bajasSorteadas": false,
-    "asistencia": null,
-    "calificaran": [],
-    "calificaron": [],
-    "cancelado": false,
-    "organizador": "humano:cd02m1uknwo8baxejds021ehj",
-    "fecha": "2026-11-01T21:30:00.000Z",
-    "deporte": "TENIS",
-    "cupo": 3,
-    "anotados": 1
-  },
   "cmvx978io00wm01nq9f296n19": {
     "jugadores": [
       "jaime.lannister"
@@ -6350,10 +6334,10 @@
     "anotados": 6
   },
   "cmvxhrgmq00zi01nqo1bwo36o": {
-    "jugadores": [],
-    "pendientes": [
+    "jugadores": [
       "boromir"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -6402,11 +6386,10 @@
   "cmvxywuk6004f01mvfd82xs11": {
     "jugadores": [
       "george.weasley",
-      "gandalf"
-    ],
-    "pendientes": [
+      "gandalf",
       "forrest.gump"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -6418,13 +6401,13 @@
     "cupo": 9,
     "creado": "2026-11-01T15:11:26.062Z",
     "pendientesHumanos": 0,
-    "anotados": 0
+    "anotados": 2
   },
   "cmvxyxu43005601mv0wgr8ym3": {
-    "jugadores": [],
-    "pendientes": [
+    "jugadores": [
       "gato.con.botas"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -6439,10 +6422,10 @@
     "anotados": 0
   },
   "cmvxyz6j5006501mv2mtcuao6": {
-    "jugadores": [],
-    "pendientes": [
+    "jugadores": [
       "george.weasley"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -6455,5 +6438,20 @@
     "creado": "2026-11-01T15:13:14.861Z",
     "pendientesHumanos": 0,
     "anotados": 0
+  },
+  "ckfrwkz1u9llkj3nj8xajam9o": {
+    "jugadores": [],
+    "pendientes": [
+      "scott.lang"
+    ],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "humano:cfecr7q1izqhc163hlbtyqy9y",
+    "fecha": "2026-11-07T18:30:00.000Z",
+    "deporte": "TENIS",
+    "cupo": 3
   }
 }
