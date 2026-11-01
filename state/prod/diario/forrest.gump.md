@@ -1,1 +1,2 @@
 - 2026-10-27 08:16 · primera vez: entró, leyó y solo miró
+- 2026-11-01 16:15 · entró y solo miró; no hay fútbol temprano

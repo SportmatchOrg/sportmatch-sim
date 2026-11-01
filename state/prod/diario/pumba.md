@@ -1,3 +1,4 @@
 - 2026-10-29 04:13 · primera vez en la app: entró y solo miró
 - 2026-10-29 20:15 · pidió unirse al fútbol del viernes en Del Viso (cerca, nivel intermedio)
 - 2026-10-30 08:15 · se anotó al fútbol del martes 3/11 en Club Pilar (nivel exigente)
+- 2026-11-01 16:15 · leyó que Steve y Dory lo aceptaron; solo miró

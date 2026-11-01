@@ -6,3 +6,4 @@
 - 2026-10-31 08:14 · aceptó a Neo en su básquet del jueves; después solo miró
 - 2026-11-01 08:13 · aceptó a Davy y a Kylo en sus básquet
 - 2026-11-01 12:16 · aceptó a Groot en su básquet del martes
+- 2026-11-01 16:15 · aceptó a Luke Skywalker en su básquet

@@ -1,1 +1,2 @@
 - 2026-10-30 08:15 · entró, leyó notificaciones y solo miró
+- 2026-11-01 16:15 · entró y solo miró; sin novedades

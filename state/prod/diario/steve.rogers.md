@@ -112,3 +112,4 @@
 - 2026-10-30 12:13 · aceptó a Pumba en su fútbol; ya tiene uno armado, no organizó otro
 - 2026-10-30 16:14 · aceptó a John Wick en su fútbol ADVANCED del martes
 - 2026-10-31 08:13 · aceptó a Padmé en su fútbol; ya tiene uno armado, no organizó otro
+- 2026-11-01 16:15 · aceptó a Héctor Barbossa en su fútbol ADVANCED del martes

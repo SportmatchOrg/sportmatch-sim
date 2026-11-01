@@ -69,3 +69,4 @@
 - 2026-11-01 00:14 · entró y solo miró; nada para el finde
 - 2026-11-01 04:15 · entró y solo miró; no hay pádel de finde en su zona
 - 2026-11-01 08:14 · armó un pádel INTERMEDIATE el sábado 7 a las 8 en Tigre Pádel Club
+- 2026-11-01 16:15 · aceptó a Barney Gumble en su pádel del sábado temprano
