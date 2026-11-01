@@ -28,3 +28,4 @@
 - 2026-10-22 20:14 · calificó el fútbol, todo muy bien; solo miró
 - 2026-10-28 20:15 · pidió unirse al fútbol del sábado 31 en Club Pilar de Dory (se anota a todo)
 - 2026-10-30 04:14 · se anotó al fútbol del lunes 2 en Club Pilar de George (se une a todo)
+- 2026-11-01 12:16 · leyó que George lo aceptó en el fútbol del lunes; solo miró

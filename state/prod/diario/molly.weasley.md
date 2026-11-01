@@ -38,3 +38,4 @@
 - 2026-10-30 08:14 · aceptó a Jaime en su running del sábado en Parque Pilar
 - 2026-10-31 12:15 · calificó el running (4, 3 y 4); es de las que miran el nivel
 - 2026-10-31 16:15 · entró; ya tiene su carrera del domingo en Parque Pilar, no armó otra
+- 2026-11-01 12:15 · calificó a Luke con un 3; no armó nada hoy

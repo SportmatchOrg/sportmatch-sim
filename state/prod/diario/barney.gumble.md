@@ -45,3 +45,4 @@
 - 2026-10-31 04:14 · entró y leyó novedades; nada que armar hoy
 - 2026-10-31 08:14 · calificó el pádel (4 y 5)
 - 2026-10-31 12:15 · calificó a Cedric con un 5; Yoda no vino
+- 2026-11-01 12:16 · calificó a Cedric (4) y Anakin (3), armó un pádel ADVANCED el sábado 7 a las 10 en Pádel Point y pidió unirse al pádel del sábado en Tigre

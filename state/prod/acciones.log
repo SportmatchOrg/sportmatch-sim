@@ -2044,3 +2044,25 @@
 2026-11-01T11:14:10.480Z groot unirse cmvvlc6nv010501o4ink4y388
 2026-11-01T11:14:15.800Z tony.stark crear cmvxqfufy021e01o4zmewvmtl PADEL 2026-11-07T11:00:00.000Z
 2026-11-01T11:14:20.738Z natasha.romanoff leer-notificaciones 2
+2026-11-01T15:14:52.895Z sorteo cmvooo06g019d01ryqlzl7o5x faltaron=[] calificaran=[barney.gumble,cedric.diggory]
+2026-11-01T15:14:53.549Z sorteo cmvrazdf4027v01ryuwh15uol faltaron=[] calificaran=[molly.weasley,luke.skywalker]
+2026-11-01T15:15:03.574Z sorteo cmvvcqa9i00w701o4ysmo9jjm faltaron=[] calificaran=[hermione.granger,bellatrix.lestrange]
+2026-11-01T15:15:25.554Z hermione.granger leer-notificaciones 2
+2026-11-01T15:15:34.093Z bellatrix.lestrange calificar cmvvcqa9i00w701o4ysmo9jjm ratings=3 noShows=0
+2026-11-01T15:15:36.132Z hermione.granger calificar cmvvcqa9i00w701o4ysmo9jjm ratings=3 noShows=0
+2026-11-01T15:15:38.034Z hermione.granger crear cmvxz290d023f01o40gu3n35g FUTBOL 2026-11-07T12:30:00.000Z
+2026-11-01T15:15:44.198Z molly.weasley leer-notificaciones 1
+2026-11-01T15:15:52.257Z molly.weasley calificar cmvrazdf4027v01ryuwh15uol ratings=1 noShows=0
+2026-11-01T15:15:54.199Z barney.gumble calificar cmvooo06g019d01ryqlzl7o5x ratings=2 noShows=0
+2026-11-01T15:15:59.325Z barney.gumble crear cmvxz2pfl023v01o4o3lm6pcn PADEL 2026-11-07T13:00:00.000Z
+2026-11-01T15:16:01.278Z barney.gumble unirse cmvxqfufy021e01o4zmewvmtl
+2026-11-01T15:16:05.488Z fiona leer-notificaciones 1
+2026-11-01T15:16:10.239Z fiona aceptar cmvvlc6nv010501o4ink4y388 groot
+2026-11-01T15:16:12.317Z luke.skywalker leer-notificaciones 1
+2026-11-01T15:16:18.537Z luke.skywalker calificar cmvrazdf4027v01ryuwh15uol ratings=1 noShows=0
+2026-11-01T15:16:20.687Z luke.skywalker unirse cmvw2eqz901cv01o4sijvdczb
+2026-11-01T15:16:26.681Z cedric.diggory calificar cmvooo06g019d01ryqlzl7o5x ratings=2 noShows=0
+2026-11-01T15:16:28.763Z slinky leer-notificaciones 1
+2026-11-01T15:16:31.921Z chewbacca leer-notificaciones 2
+2026-11-01T15:16:40.512Z hector.barbossa crear cmvxz3l7v024w01o4ozogo04z FUTBOL 2026-11-06T00:00:00.000Z
+2026-11-01T15:16:43.058Z hector.barbossa unirse cmvu5w1e1007301o4psabf4ic
