@@ -9,3 +9,4 @@
 - 2026-10-26 12:14 · leyó que Mace y Albus lo aceptaron; un partido se canceló, solo miró
 - 2026-10-28 08:14 · pidió unirse al fútbol INTERMEDIATE del viernes en Nordelta de Mace Windu
 - 2026-10-30 20:14 · calificó el fútbol, todo bien
+- 2026-11-01 20:13 · se unió al fútbol del lunes en Fútbol 5 Nordelta (nivel intermedio, va con amigos)

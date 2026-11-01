@@ -3,3 +3,4 @@
 - 2026-10-27 20:16 · calificó el básquet duro (3, 2 y 3); solo miró
 - 2026-10-28 12:15 · pidió unirse al básquet del viernes 30 de Neo en Campus Austral (para despejarse)
 - 2026-10-31 00:16 · calificó el básquet con notas duras; solo miró
+- 2026-11-01 20:14 · vio que Neo lo aceptó en el básquet; solo miró

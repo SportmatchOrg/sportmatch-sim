@@ -2,3 +2,4 @@
 - 2026-10-24 04:14 · se anotó al básquet del martes 27 en Campus Austral (entusiasmado)
 - 2026-10-26 20:15 · leyó que lo aceptaron en el básquet; solo miró
 - 2026-10-27 20:15 · calificó el básquet (4, 5 y 4) y pidió unirse al básquet del viernes en Campus Austral
+- 2026-11-01 20:13 · armó un básquet el miércoles 4 a las 20:30 en Campus Austral

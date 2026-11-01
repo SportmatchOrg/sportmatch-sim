@@ -12,3 +12,4 @@
 - 2026-10-27 08:15 · pidió unirse al básquet del miércoles en Club Belgrano (para despejarse)
 - 2026-10-28 20:14 · calificó el básquet y solo miró
 - 2026-11-01 12:16 · entró a mirar, sin novedades; solo miró
+- 2026-11-01 20:14 · entró, leyó notificaciones y solo miró
