@@ -47,3 +47,4 @@
 - 2026-10-30 04:11 · aceptó a Phoebe y a Luke en sus básquet; el otro básquet está lejos, no se anotó
 - 2026-10-31 00:11 · calificó el partido (5 y 4); nada más por hoy
 - 2026-10-31 08:11 · aceptó a Frodo en su básquet; ya tiene uno armado, no organizó otro
+- 2026-11-01 00:11 · leyó el recordatorio de partido; ya tiene su básquet, solo miró

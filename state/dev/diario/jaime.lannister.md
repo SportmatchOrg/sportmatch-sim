@@ -18,3 +18,4 @@
 - 2026-10-16 20:12 · miró la app, sin novedades
 - 2026-10-24 16:12 · miró running y tenis; nada antes de las 9, no se anotó a nada
 - 2026-10-26 20:13 · pidió unirse al running del sáb 31/10 9 am de Jack en Parque Pilar (es de los más temprano que encontró)
+- 2026-11-01 00:12 · leyó que Jack lo aceptó; pidió unirse al running del sáb 7/11 9:00 de Bucky en Parque Pilar (el más temprano que hay)

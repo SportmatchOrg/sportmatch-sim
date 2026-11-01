@@ -50,3 +50,4 @@
 - 2026-10-27 04:12 · miró la app; ya tiene su fútbol del jueves confirmado, nada más
 - 2026-10-29 04:12 · pidió unirse al fútbol del viernes de Burro y armó un fútbol para el lun 2/11 20:30 en River Courts (le gusta conocer gente)
 - 2026-10-29 12:11 · aceptó a Peter Parker a su fútbol; no hay fútbol en CABA para anotarse, nada más
+- 2026-11-01 00:11 · se unió al fútbol del miércoles 18:30 en Complejo Belgrano (por fin hay algo en CABA)
