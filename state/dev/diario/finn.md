@@ -33,3 +33,4 @@
 - 2026-10-30 12:12 · rechazó a Steve Rogers en su fútbol ADVANCED del sábado (no daba el nivel)
 - 2026-10-30 16:12 · aceptó a Padmé en su fútbol ADVANCED del domingo; nada más
 - 2026-10-31 12:13 · calificó el fútbol (4, 3 y 4); hoy solo miró
+- 2026-11-01 12:13 · calificó el fútbol (Legolas 4) y armó un fútbol ADVANCED del sábado 7/11 09:00 en Del Viso

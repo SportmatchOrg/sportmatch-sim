@@ -36,3 +36,4 @@
 - 2026-11-01 00:11 · se unió al fútbol del miércoles de Lois en Club Pilar (se anota a todo)
 - 2026-11-01 04:11 · se unió al fútbol del miércoles de Gandalf en Club Pilar (conoce gente nueva)
 - 2026-11-01 08:11 · no había a quién calificar; se anotó al fútbol del domingo en Del Viso de Bucky (conoce gente nueva)
+- 2026-11-01 12:12 · calificó el fútbol (Bucky 5) y se unió al fútbol del sábado 7/11 de Hermione en Club Pilar

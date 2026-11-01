@@ -4,3 +4,4 @@
 - 2026-10-26 20:12 · calificó a Fiona (5) y pidió unirse al pádel del domingo a las 9 de Jack en Pádel Point Pilar (madruga)
 - 2026-10-29 12:13 · Jack lo aceptó en el pádel del domingo a las 9; no hay nada más temprano que le encaje, no se anotó a otro
 - 2026-10-30 16:12 · pidió unirse al pádel del martes a las 8 de Indiana (madruga)
+- 2026-11-01 12:13 · calificó el pádel (Jack 4, Krusty 5); leyó que Indiana lo aceptó, nada más

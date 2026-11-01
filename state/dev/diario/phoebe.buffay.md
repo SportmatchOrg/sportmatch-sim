@@ -29,3 +29,4 @@
 - 2026-10-31 00:12 · calificó el básquet (4, 5 y 4; hubo 3 no-shows) y pidió unirse al fútbol del martes de Lois en Club Pilar (competitiva)
 - 2026-10-31 16:12 · calificó dos partidos y pidió unirse al básquet del martes de Fiona en Del Viso
 - 2026-10-31 20:12 · calificó el fútbol del sábado
+- 2026-11-01 12:13 · calificó el básquet (Kylo 4, Luke 5) y pidió unirse al fútbol del miércoles de Gandalf en Club Pilar (competitiva)

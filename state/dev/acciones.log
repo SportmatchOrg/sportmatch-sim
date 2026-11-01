@@ -2202,3 +2202,41 @@
 2026-11-01T11:12:11.024Z bucky.barnes aceptar cmvws52jb00ot01nq1scwk8iv george.weasley
 2026-11-01T11:12:20.360Z elrond crear cmvxqdd74014a01nq3lc6nppe FUTBOL 2026-11-04T23:30:00.000Z
 2026-11-01T11:12:32.432Z jaime.lannister crear cmvxqdmor014h01nqi3lepgzf TENIS 2026-11-03T11:00:00.000Z
+2026-11-01T15:10:34.418Z sorteo cmvoojtfn004001l31qi2bmlu faltaron=[] calificaran=[jack.sparrow,james.bond,krusty]
+2026-11-01T15:10:35.072Z sorteo cmvook0ep004501l3afbbk8ww faltaron=[padme.amidala] calificaran=[finn]
+2026-11-01T15:10:35.767Z sorteo cmvp5pwqk00b301l36yk483p0 faltaron=[] calificaran=[hermione.granger,gandalf]
+2026-11-01T15:10:37.987Z sorteo cmvsqbm7600cu01ldz3k8g2g4 faltaron=[nala] calificaran=[neo,phoebe.buffay,frodo.bolson]
+2026-11-01T15:10:41.063Z sorteo cmvtg1ytp00ot01ld94hpvm62 faltaron=[] calificaran=[]
+2026-11-01T15:10:48.520Z sorteo cmvumwubl00hw01qi4tfp5ips faltaron=[] calificaran=[molly.weasley]
+2026-11-01T15:10:49.106Z sorteo cmvumwyk100i001qitodmw2rj faltaron=[] calificaran=[clint.barton,krusty]
+2026-11-01T15:10:57.975Z sorteo cmvwjiakr003501nqeoga3rp4 faltaron=[] calificaran=[hermione.granger]
+2026-11-01T15:10:58.482Z sorteo cmvwjihi3003o01nqe4yi8ef3 faltaron=[] calificaran=[jack.sparrow,krusty]
+2026-11-01T15:10:59.081Z sorteo cmvws52jb00ot01nq1scwk8iv faltaron=[] calificaran=[bucky.barnes,george.weasley]
+2026-11-01T15:11:22.199Z hermione.granger calificar cmvp5pwqk00b301l36yk483p0 ratings=1 noShows=0
+2026-11-01T15:11:24.109Z hermione.granger calificar cmvwjiakr003501nqeoga3rp4 ratings=2 noShows=0
+2026-11-01T15:11:26.064Z hermione.granger crear cmvxywuk6004f01mvfd82xs11 FUTBOL 2026-11-07T13:00:00.000Z
+2026-11-01T15:11:32.663Z molly.weasley leer-notificaciones 1
+2026-11-01T15:11:42.392Z jack.sparrow calificar cmvoojtfn004001l31qi2bmlu ratings=2 noShows=0
+2026-11-01T15:11:44.344Z jack.sparrow calificar cmvwjihi3003o01nqe4yi8ef3 ratings=1 noShows=0
+2026-11-01T15:12:09.521Z neo calificar cmvsqbm7600cu01ldz3k8g2g4 ratings=2 noShows=1
+2026-11-01T15:12:12.135Z neo crear cmvxyxu43005601mv0wgr8ym3 BASQUET 2026-11-03T23:30:00.000Z
+2026-11-01T15:12:14.425Z frodo.bolson calificar cmvsqbm7600cu01ldz3k8g2g4 ratings=3 noShows=1
+2026-11-01T15:12:16.789Z george.weasley leer-notificaciones 2
+2026-11-01T15:12:52.217Z george.weasley calificar cmvws52jb00ot01nq1scwk8iv ratings=1 noShows=0
+2026-11-01T15:12:54.296Z george.weasley unirse cmvxywuk6004f01mvfd82xs11
+2026-11-01T15:12:56.461Z james.bond leer-notificaciones 2
+2026-11-01T15:13:02.643Z james.bond calificar cmvoojtfn004001l31qi2bmlu ratings=2 noShows=0
+2026-11-01T15:13:12.932Z finn calificar cmvook0ep004501l3afbbk8ww ratings=1 noShows=1
+2026-11-01T15:13:14.864Z finn crear cmvxyz6j5006501mv2mtcuao6 FUTBOL 2026-11-07T12:00:00.000Z
+2026-11-01T15:13:17.042Z phoebe.buffay leer-notificaciones 1
+2026-11-01T15:13:23.186Z phoebe.buffay calificar cmvsqbm7600cu01ldz3k8g2g4 ratings=2 noShows=1
+2026-11-01T15:13:36.703Z phoebe.buffay unirse cmvtomquy00rz01ldgiczzv4n
+2026-11-01T15:13:48.390Z krusty calificar cmvoojtfn004001l31qi2bmlu ratings=2 noShows=0
+2026-11-01T15:13:50.337Z krusty calificar cmvumwyk100i001qitodmw2rj ratings=2 noShows=0
+2026-11-01T15:13:52.256Z krusty calificar cmvwjihi3003o01nqe4yi8ef3 ratings=1 noShows=0
+2026-11-01T15:13:54.280Z gandalf leer-notificaciones 1
+2026-11-01T15:14:02.659Z gandalf calificar cmvp5pwqk00b301l36yk483p0 ratings=1 noShows=0
+2026-11-01T15:14:04.998Z gandalf unirse cmvxywuk6004f01mvfd82xs11
+2026-11-01T15:14:06.967Z clint.barton leer-notificaciones 1
+2026-11-01T15:14:14.640Z clint.barton calificar cmvumwyk100i001qitodmw2rj ratings=2 noShows=0
+2026-11-01T15:14:22.887Z bucky.barnes calificar cmvws52jb00ot01nq1scwk8iv ratings=1 noShows=0
