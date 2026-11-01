@@ -1,0 +1,1 @@
+- 2026-11-01 00:15 · se unió al básquet del lunes en Campus Austral (se une a todo)

@@ -79,3 +79,4 @@
 - 2026-10-31 00:15 · calificó el fútbol y armó uno el miércoles 20:30 en Club Pilar
 - 2026-10-31 08:14 · aceptó a George en su fútbol y pidió unirse al fútbol del martes en Nordelta
 - 2026-10-31 20:15 · calificó el fútbol; solo miró
+- 2026-11-01 00:14 · aceptó a Krusty y pidió unirse al fútbol del miércoles en Club Pilar
