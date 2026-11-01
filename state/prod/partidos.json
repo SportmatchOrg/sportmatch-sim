@@ -5112,7 +5112,7 @@
       "anakin.skywalker"
     ],
     "pendientes": [],
-    "bajasSorteadas": false,
+    "bajasSorteadas": true,
     "asistencia": null,
     "calificaran": [],
     "calificaron": [],
@@ -5439,11 +5439,10 @@
   },
   "cmvrazdf4027v01ryuwh15uol": {
     "jugadores": [
-      "luke.skywalker",
-      "eowyn"
+      "luke.skywalker"
     ],
     "pendientes": [],
-    "bajasSorteadas": false,
+    "bajasSorteadas": true,
     "asistencia": null,
     "calificaran": [],
     "calificaron": [],
@@ -5768,16 +5767,17 @@
     "cupo": 7,
     "creado": "2026-10-30T19:14:54.011Z",
     "pendientesHumanos": 0,
-    "anotados": 4
+    "anotados": 5
   },
   "cmvvcqa9i00w701o4ysmo9jjm": {
     "jugadores": [
-      "rubeus.hagrid",
       "bellatrix.lestrange",
       "nemo"
     ],
-    "pendientes": [],
-    "bajasSorteadas": false,
+    "pendientes": [
+      "moe.szyslak"
+    ],
+    "bajasSorteadas": true,
     "asistencia": null,
     "calificaran": [],
     "calificaron": [],
@@ -5794,10 +5794,11 @@
   },
   "cmvvlc6nv010501o4ink4y388": {
     "jugadores": [
-      "saul.goodman"
+      "saul.goodman",
+      "davy.jones"
     ],
     "pendientes": [
-      "davy.jones"
+      "groot"
     ],
     "bajasSorteadas": false,
     "asistencia": null,
@@ -5889,11 +5890,10 @@
     "jugadores": [
       "phoebe.buffay",
       "george.weasley",
-      "rey"
-    ],
-    "pendientes": [
+      "rey",
       "gandalf"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -5909,11 +5909,10 @@
   },
   "cmvw2eqz901cv01o4sijvdczb": {
     "jugadores": [
-      "neo"
-    ],
-    "pendientes": [
+      "neo",
       "kylo.ren"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -5978,6 +5977,20 @@
     "cupo": 9,
     "creado": "2026-10-31T23:16:28.787Z",
     "pendientesHumanos": 0,
-    "anotados": 0
+    "anotados": 1
+  },
+  "cmvxqfufy021e01o4zmewvmtl": {
+    "jugadores": [],
+    "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "tony.stark",
+    "fecha": "2026-11-07T11:00:00.000Z",
+    "deporte": "PADEL",
+    "cupo": 3,
+    "creado": "2026-11-01T11:14:15.798Z"
   }
 }

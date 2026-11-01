@@ -4,3 +4,4 @@
 - 2026-10-30 20:15 · calificó el básquet (5, 4 y 5) y armó un básquet BEGINNER el martes 3 a las 20 en Del Viso
 - 2026-10-31 04:13 · aceptó a Saul y armó otro básquet BEGINNER el jueves 5 a las 20 en Campus Austral
 - 2026-10-31 08:14 · aceptó a Neo en su básquet del jueves; después solo miró
+- 2026-11-01 08:13 · aceptó a Davy y a Kylo en sus básquet

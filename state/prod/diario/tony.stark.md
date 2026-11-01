@@ -68,3 +68,4 @@
 - 2026-10-31 08:13 · calificó el pádel (5 y 4)
 - 2026-11-01 00:14 · entró y solo miró; nada para el finde
 - 2026-11-01 04:15 · entró y solo miró; no hay pádel de finde en su zona
+- 2026-11-01 08:14 · armó un pádel INTERMEDIATE el sábado 7 a las 8 en Tigre Pádel Club
