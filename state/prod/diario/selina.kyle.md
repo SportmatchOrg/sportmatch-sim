@@ -1,2 +1,3 @@
 - 2026-10-30 16:15 · primera vez en la app: entró a curiosear, solo miró
 - 2026-11-02 04:15 · pidió unirse al fútbol del lunes en Fútbol 5 Nordelta (le queda cerca)
+- 2026-11-02 12:15 · armó un fútbol INTERMEDIATE el miércoles 4 a las 17 h en Fútbol 5 Nordelta (tiene las tardes libres)

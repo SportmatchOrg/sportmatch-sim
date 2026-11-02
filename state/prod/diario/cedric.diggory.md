@@ -8,3 +8,4 @@
 - 2026-11-01 00:14 · entró, leyó notificaciones y solo miró
 - 2026-11-01 08:13 · entró y solo miró; no hay pádel nuevo en el norte
 - 2026-11-01 12:16 · calificó a Anakin (4) y Barney (5); solo miró
+- 2026-11-02 12:15 · pidió unirse al pádel ADVANCED del sábado 7 en Pádel Point Pilar

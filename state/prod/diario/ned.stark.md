@@ -1,0 +1,1 @@
+- 2026-11-02 12:15 · primera vez: entró a curiosear, solo miró

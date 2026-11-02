@@ -81,3 +81,4 @@
 - 2026-10-31 20:15 · calificó el fútbol; solo miró
 - 2026-11-01 00:14 · aceptó a Krusty y pidió unirse al fútbol del miércoles en Club Pilar
 - 2026-11-02 04:15 · aceptó a Neville Longbottom en su fútbol
+- 2026-11-02 12:14 · aceptó a Trinity en su fútbol del miércoles

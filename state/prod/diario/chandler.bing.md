@@ -1,2 +1,3 @@
 - 2026-10-28 04:14 · entró un rato, no hay running ni tenis a la mañana; solo miró
 - 2026-10-29 04:14 · entró a mirar; no hay running ni tenis a la mañana
+- 2026-11-02 12:15 · entró a mirar; el tenis está en Pilar y a la mañana no hay nada en CABA, no se anotó

@@ -37,3 +37,4 @@
 - 2026-11-02 00:15 · armó fútbol INTERMEDIATE el miércoles 4 a las 21 h en Club Pilar
 - 2026-11-02 04:15 · aceptó a Pippin en su fútbol
 - 2026-11-02 08:15 · aceptó a Krusty en su fútbol
+- 2026-11-02 12:14 · aceptó a Rocket en su fútbol del miércoles

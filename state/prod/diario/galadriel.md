@@ -29,3 +29,4 @@
 - 2026-10-30 16:14 · leyó notificaciones y solo miró
 - 2026-10-31 04:14 · entró a mirar; no hay nada nuevo en CABA, solo miró
 - 2026-10-31 08:14 · entró a mirar; ya tiene su básquet del lunes armado, no se anotó a nada
+- 2026-11-02 12:14 · aceptó a Rocky Balboa en su básquet; los otros partidos le quedan lejos, no se anotó
