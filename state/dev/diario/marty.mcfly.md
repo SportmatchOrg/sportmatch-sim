@@ -15,3 +15,4 @@
 - 2026-10-25 04:11 · se unió al básquet del viernes en Campus Austral (se anota a todo)
 - 2026-10-29 16:12 · pidió unirse al básquet del sábado de Fiona en Del Viso (se anota a todo)
 - 2026-10-31 00:11 · calificó el partido (4 y 5) y pidió unirse al fútbol del lunes en Club Pilar (se anota a todo)
+- 2026-11-02 08:13 · armó un básquet del jueves 5/11 20:00 en Polideportivo Del Viso y se anotó al fútbol del miércoles en Club Pilar

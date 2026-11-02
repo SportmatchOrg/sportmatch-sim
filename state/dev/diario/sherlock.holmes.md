@@ -1,0 +1,1 @@
+- 2026-11-02 08:12 · se anotó a un pádel principiante del 16/11 en Central Pádel (retoma el deporte de a poco)

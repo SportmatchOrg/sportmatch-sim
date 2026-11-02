@@ -63,3 +63,4 @@
 - 2026-11-01 12:11 · calificó fútbol y tenis (4–5) y armó un fútbol del sábado 7/11 10:00 en Club Pilar
 - 2026-11-01 16:11 · aceptó a George y a Gandalf en su fútbol del sábado
 - 2026-11-01 20:11 · aceptó a Forrest en su fútbol; no se unió a nada (entre semana casi no entra)
+- 2026-11-02 08:11 · aceptó a Harry y a Phoebe en su fútbol
