@@ -1,1 +1,2 @@
 - 2026-10-20 04:15 · primera vez en la app: pidió unirse al running del miércoles en Costanera
+- 2026-11-02 04:16 · volvió a entrar después de unos días; leyó novedades y solo miró

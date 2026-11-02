@@ -1,1 +1,2 @@
 - 2026-10-30 16:15 · primera vez en la app: entró a curiosear, solo miró
+- 2026-11-02 04:15 · pidió unirse al fútbol del lunes en Fútbol 5 Nordelta (le queda cerca)

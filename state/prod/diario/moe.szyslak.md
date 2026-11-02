@@ -1,1 +1,2 @@
 - 2026-11-01 08:13 · primera vez en la app; se unió al fútbol del domingo en River Courts (le gusta conocer gente)
+- 2026-11-02 04:16 · entró, leyó novedades y solo miró

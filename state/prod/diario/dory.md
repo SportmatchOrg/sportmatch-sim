@@ -35,3 +35,4 @@
 - 2026-11-01 08:13 · aceptó a Gandalf en su fútbol
 - 2026-11-01 20:13 · aceptó a Neville en su fútbol; solo miró
 - 2026-11-02 00:15 · armó fútbol INTERMEDIATE el miércoles 4 a las 21 h en Club Pilar
+- 2026-11-02 04:15 · aceptó a Pippin en su fútbol

@@ -1,0 +1,1 @@
+- 2026-11-02 04:15 · primera vez en la app: pidió unirse al pádel BEGINNER del jueves en Club Belgrano

@@ -9,3 +9,4 @@
 - 2026-10-31 00:16 · calificó el pádel y se anotó al pádel para principiantes del lunes en Club Belgrano
 - 2026-10-31 04:14 · ya está anotado al pádel del lunes en Belgrano; no hizo más
 - 2026-11-01 16:15 · entró, no había pádel principiante en CABA; sigue anotado al del lunes en Belgrano
+- 2026-11-02 04:16 · pidió unirse al pádel BEGINNER del jueves en Club Belgrano

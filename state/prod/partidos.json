@@ -5848,7 +5848,9 @@
     "jugadores": [
       "obiwan.kenobi"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "selina.kyle"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -5905,11 +5907,10 @@
   "cmvvtwetu016a01o46qkj5wow": {
     "jugadores": [
       "george.weasley",
-      "krusty"
-    ],
-    "pendientes": [
+      "krusty",
       "neville.longbottom"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -5929,10 +5930,11 @@
       "george.weasley",
       "rey",
       "gandalf",
-      "neville.longbottom"
+      "neville.longbottom",
+      "pippin.tuk"
     ],
     "pendientes": [
-      "pippin.tuk"
+      "krusty"
     ],
     "bajasSorteadas": false,
     "asistencia": null,
@@ -6037,7 +6039,7 @@
     "cupo": 3,
     "creado": "2026-11-01T11:14:15.798Z",
     "pendientesHumanos": 0,
-    "anotados": 1
+    "anotados": 2
   },
   "cmvxz290d023f01o40gu3n35g": {
     "jugadores": [],
@@ -6057,9 +6059,7 @@
   },
   "cmvxz2pfl023v01o4o3lm6pcn": {
     "jugadores": [],
-    "pendientes": [
-      "anakin.skywalker"
-    ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -6133,11 +6133,17 @@
     "fecha": "2026-11-06T11:00:00.000Z",
     "deporte": "TENIS",
     "cupo": 3,
-    "creado": "2026-11-02T03:15:03.017Z"
+    "creado": "2026-11-02T03:15:03.017Z",
+    "pendientesHumanos": 0,
+    "anotados": 0
   },
   "cmvyoryss002e01ohj1qnskui": {
     "jugadores": [],
-    "pendientes": [],
+    "pendientes": [
+      "arwen",
+      "woody",
+      "bruce.wayne"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -6147,7 +6153,9 @@
     "fecha": "2026-11-05T23:30:00.000Z",
     "deporte": "PADEL",
     "cupo": 3,
-    "creado": "2026-11-02T03:15:28.269Z"
+    "creado": "2026-11-02T03:15:28.269Z",
+    "pendientesHumanos": 0,
+    "anotados": 0
   },
   "cmvyos0ds002h01ohn42v1r61": {
     "jugadores": [],
@@ -6161,6 +6169,22 @@
     "fecha": "2026-11-05T00:00:00.000Z",
     "deporte": "FUTBOL",
     "cupo": 9,
-    "creado": "2026-11-02T03:15:30.331Z"
+    "creado": "2026-11-02T03:15:30.331Z",
+    "pendientesHumanos": 0,
+    "anotados": 0
+  },
+  "cmvyxe4vf005x01ohw93pnald": {
+    "jugadores": [],
+    "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "jessie",
+    "fecha": "2026-11-04T23:30:00.000Z",
+    "deporte": "TENIS",
+    "cupo": 3,
+    "creado": "2026-11-02T07:16:39.491Z"
   }
 }

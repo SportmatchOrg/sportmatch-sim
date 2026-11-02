@@ -2,3 +2,4 @@
 - 2026-10-26 16:14 · entró a mirar; solo miró
 - 2026-10-27 08:16 · entró y solo miró
 - 2026-11-02 00:15 · entró a mirar un rato y no se anotó a nada
+- 2026-11-02 04:16 · entró, no tenía novedades y solo miró
