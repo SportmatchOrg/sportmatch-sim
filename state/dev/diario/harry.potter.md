@@ -7,3 +7,4 @@
 - 2026-10-24 12:12 · calificó el fútbol (4, 5 y 4); nada más
 - 2026-10-27 12:11 · pidió unirse al fútbol del sábado a la mañana en Club Pilar
 - 2026-10-31 04:11 · leyó que Hermione lo aceptó en el tenis; hoy solo miró
+- 2026-11-02 04:13 · pidió unirse al fútbol del sáb 7/11 10:00 en Club Pilar (finde a la mañana)

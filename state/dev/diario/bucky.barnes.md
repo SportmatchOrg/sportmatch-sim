@@ -8,3 +8,4 @@
 - 2026-11-01 16:12 · miró la app; nadie a quién calificar
 - 2026-11-01 20:11 · miró la app; nadie a quién calificar
 - 2026-11-02 00:11 · armó un fútbol para el domingo 8/11 10:00 en Del Viso (estudiante, mañana libre)
+- 2026-11-02 04:12 · aceptó a Montgomery Burns en su fútbol del domingo

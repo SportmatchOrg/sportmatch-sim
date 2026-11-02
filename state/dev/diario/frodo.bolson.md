@@ -50,3 +50,4 @@
 - 2026-11-01 12:12 · calificó el básquet (Neo 4, Phoebe 5, Kylo 3); nada más por hoy
 - 2026-11-01 16:11 · nadie a quién calificar; solo miró
 - 2026-11-01 20:11 · aceptó a Boromir en su partido; nadie a quién calificar
+- 2026-11-02 04:12 · aceptó a Rocky Balboa en su partido

@@ -21,3 +21,4 @@
 - 2026-10-24 12:11 · calificó el básquet (5 y 4); nada más
 - 2026-10-28 20:11 · calificó el básquet y pidió unirse al básquet del viernes en Del Viso
 - 2026-11-01 16:13 · pidió unirse al básquet del miércoles 21:00 de Frodo en Campus Austral
+- 2026-11-02 04:13 · leyó que Frodo lo aceptó; se anotó al básquet del vie 6/11 en Club Norte
