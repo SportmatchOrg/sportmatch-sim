@@ -4892,12 +4892,12 @@
       "dory": true
     },
     "calificaran": [
-      "lois.lane",
       "pippin.tuk",
+      "lois.lane",
       "clark.kent",
+      "dory",
       "george.weasley",
-      "krusty",
-      "dory"
+      "krusty"
     ],
     "calificaron": [
       "pippin.tuk",
@@ -4960,10 +4960,10 @@
       "mace.windu": true
     },
     "calificaran": [
-      "albus.dumbledore",
-      "bellatrix.lestrange",
       "elrond",
-      "mace.windu"
+      "bellatrix.lestrange",
+      "mace.windu",
+      "albus.dumbledore"
     ],
     "calificaron": [
       "elrond",
@@ -5158,11 +5158,11 @@
       "pumba": true
     },
     "calificaran": [
-      "dory",
-      "george.weasley",
+      "rubeus.hagrid",
       "bellatrix.lestrange",
-      "bart.simpson",
-      "rubeus.hagrid"
+      "george.weasley",
+      "dory",
+      "bart.simpson"
     ],
     "calificaron": [
       "rubeus.hagrid",
@@ -5490,9 +5490,9 @@
     },
     "calificaran": [
       "neo",
+      "phoebe.buffay",
       "saul.goodman",
-      "buzz.lightyear",
-      "phoebe.buffay"
+      "buzz.lightyear"
     ],
     "calificaron": [
       "neo",
@@ -5537,8 +5537,8 @@
     },
     "calificaran": [
       "sam.gamyi",
-      "bellatrix.lestrange",
-      "bruce.wayne"
+      "bruce.wayne",
+      "bellatrix.lestrange"
     ],
     "calificaron": [
       "sam.gamyi",
@@ -5860,7 +5860,7 @@
     "cupo": 9,
     "creado": "2026-10-31T03:14:29.419Z",
     "pendientesHumanos": 0,
-    "anotados": 0,
+    "anotados": 1,
     "cancelSorteado": true,
     "cancelar": false
   },
@@ -5907,7 +5907,9 @@
       "george.weasley",
       "krusty"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "neville.longbottom"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -5929,7 +5931,9 @@
       "gandalf",
       "neville.longbottom"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "pippin.tuk"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -5941,7 +5945,7 @@
     "cupo": 9,
     "creado": "2026-10-31T03:16:17.195Z",
     "pendientesHumanos": 0,
-    "anotados": 4
+    "anotados": 5
   },
   "cmvw2eqz901cv01o4sijvdczb": {
     "jugadores": [
@@ -6018,11 +6022,10 @@
   },
   "cmvxqfufy021e01o4zmewvmtl": {
     "jugadores": [
-      "barney.gumble"
-    ],
-    "pendientes": [
+      "barney.gumble",
       "quigon.jinn"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -6054,7 +6057,9 @@
   },
   "cmvxz2pfl023v01o4o3lm6pcn": {
     "jugadores": [],
-    "pendientes": [],
+    "pendientes": [
+      "anakin.skywalker"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -6112,6 +6117,50 @@
     "fecha": "2026-11-04T23:30:00.000Z",
     "deporte": "BASQUET",
     "cupo": 7,
-    "creado": "2026-11-01T23:13:48.467Z"
+    "creado": "2026-11-01T23:13:48.467Z",
+    "pendientesHumanos": 0,
+    "anotados": 0
+  },
+  "cmvyorfb4002001ohfolbhy83": {
+    "jugadores": [],
+    "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "lara.croft",
+    "fecha": "2026-11-06T11:00:00.000Z",
+    "deporte": "TENIS",
+    "cupo": 3,
+    "creado": "2026-11-02T03:15:03.017Z"
+  },
+  "cmvyoryss002e01ohj1qnskui": {
+    "jugadores": [],
+    "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "sam.gamyi",
+    "fecha": "2026-11-05T23:30:00.000Z",
+    "deporte": "PADEL",
+    "cupo": 3,
+    "creado": "2026-11-02T03:15:28.269Z"
+  },
+  "cmvyos0ds002h01ohn42v1r61": {
+    "jugadores": [],
+    "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "dory",
+    "fecha": "2026-11-05T00:00:00.000Z",
+    "deporte": "FUTBOL",
+    "cupo": 9,
+    "creado": "2026-11-02T03:15:30.331Z"
   }
 }

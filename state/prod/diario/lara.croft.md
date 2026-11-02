@@ -1,1 +1,2 @@
 - 2026-10-26 00:15 · se anotó al tenis del martes temprano en Club Pilar
+- 2026-11-02 00:15 · armó tenis dobles INTERMEDIATE el viernes 6 a las 8 en Club Pilar (madruga)

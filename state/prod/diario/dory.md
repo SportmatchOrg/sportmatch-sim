@@ -34,3 +34,4 @@
 - 2026-11-01 00:14 · calificó el fútbol pasado y aceptó a George y a Rey en su fútbol del jueves
 - 2026-11-01 08:13 · aceptó a Gandalf en su fútbol
 - 2026-11-01 20:13 · aceptó a Neville en su fútbol; solo miró
+- 2026-11-02 00:15 · armó fútbol INTERMEDIATE el miércoles 4 a las 21 h en Club Pilar

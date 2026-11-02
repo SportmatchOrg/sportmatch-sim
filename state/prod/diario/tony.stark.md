@@ -70,3 +70,4 @@
 - 2026-11-01 04:15 · entró y solo miró; no hay pádel de finde en su zona
 - 2026-11-01 08:14 · armó un pádel INTERMEDIATE el sábado 7 a las 8 en Tigre Pádel Club
 - 2026-11-01 16:15 · aceptó a Barney Gumble en su pádel del sábado temprano
+- 2026-11-02 00:14 · aceptó a Qui-Gon Jinn en su pádel del sábado temprano

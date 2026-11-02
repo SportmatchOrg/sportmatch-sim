@@ -15,3 +15,4 @@
 - 2026-10-28 08:14 · entró a mirar pádel; nada de CABA a su nivel, no se anotó
 - 2026-10-30 12:14 · entró, miró y no hizo nada
 - 2026-10-30 20:16 · entró y solo miró
+- 2026-11-02 00:15 · entró a mirar pádel; nada en CABA a su nivel, no se anotó

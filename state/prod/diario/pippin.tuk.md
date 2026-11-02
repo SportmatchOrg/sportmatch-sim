@@ -67,3 +67,4 @@
 - 2026-10-26 08:14 · se anotó al fútbol del lunes en Club Pilar de Dory
 - 2026-10-27 00:14 · calificó el fútbol con notas duras (2 y 3); solo miró
 - 2026-10-31 00:13 · calificó el fútbol con notas duras (2 y 3) y se anotó al del lunes en Club Pilar
+- 2026-11-02 00:15 · pidió unirse al fútbol del jueves 5 de Dory en Club Pilar (vuelve de a poco)
