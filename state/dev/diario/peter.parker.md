@@ -23,3 +23,4 @@
 - 2026-10-30 12:12 · leyó que Steve lo aceptó; ya está anotado a todo lo que le encaja, solo miró
 - 2026-10-30 20:12 · calificó el fútbol (4, 5 y 4) y pidió unirse al fútbol del lunes de Sam en River Courts (se anota a todo)
 - 2026-10-31 20:12 · calificó el fútbol del sábado
+- 2026-11-02 12:13 · miró fútbol, nada en CABA que le cierre; no se anotó

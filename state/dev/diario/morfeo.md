@@ -1,0 +1,1 @@
+- 2026-11-02 12:13 · entró a mirar, no hizo nada

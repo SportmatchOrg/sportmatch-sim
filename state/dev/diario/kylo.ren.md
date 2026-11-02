@@ -7,3 +7,4 @@
 - 2026-10-30 04:12 · pidió unirse al pádel del lunes de Krusty en Pádel Point Pilar (se une a todo)
 - 2026-10-30 08:12 · calificó el pádel (5 y 4) y pidió unirse al básquet del sábado en Del Viso
 - 2026-10-31 04:11 · leyó que lo aceptaron en el básquet y el pádel; hoy solo miró
+- 2026-11-02 12:13 · miró la app, sin novedades

@@ -1,1 +1,2 @@
 - 2026-11-02 00:13 · pidió unirse al tenis INTERMEDIATE del martes 3/11 8:00 en Club Pilar
+- 2026-11-02 12:12 · miró básquet y tenis, nada a su nivel; no se anotó
