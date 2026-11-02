@@ -81,3 +81,5 @@
 - 2026-10-31 20:14 · aceptó a Apu en su pádel; solo miró
 - 2026-11-01 08:14 · entró, leyó notificaciones y solo miró
 - 2026-11-02 00:15 · armó un pádel BEGINNER el jueves 5 a las 20:30 en Club Belgrano
+- 2026-11-02 08:14 · aceptó a Arwen, Woody y Bruce en su pádel
+- 2026-11-02 08:15 · (corrección) solo aceptó a Arwen y Woody; Bruce quedó sin lugar, el pádel se llenó

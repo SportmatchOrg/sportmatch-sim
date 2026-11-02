@@ -1,0 +1,1 @@
+- 2026-11-02 08:15 · primera vez: armó un pádel el miércoles 4 a las 20:30 en Club Belgrano

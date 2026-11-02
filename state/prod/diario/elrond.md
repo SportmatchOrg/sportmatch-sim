@@ -120,3 +120,4 @@
 - 2026-10-31 12:15 · (corrección) recién ahora aceptó a Hermione y Lois en su fútbol del martes
 - 2026-10-31 20:14 · aceptó a Théoden en su fútbol
 - 2026-11-01 20:14 · aceptó a Obi-Wan en su fútbol del lunes
+- 2026-11-02 08:14 · aceptó a Selina Kyle en su fútbol
