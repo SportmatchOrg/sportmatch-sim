@@ -40,3 +40,4 @@
 - 2026-11-01 16:12 · se anotó al fútbol del sábado 9:00 de Finn en Del Viso (conoce gente nueva)
 - 2026-11-01 20:11 · ya está anotado a todos los fútbol de Pilar; hoy solo miró
 - 2026-11-02 08:13 · entró a mirar, le aceptaron una solicitud; hoy no sumó nada
+- 2026-11-02 20:12 · calificó el fútbol (5, 4 y 5); ya está anotado a todo, no sumó nada

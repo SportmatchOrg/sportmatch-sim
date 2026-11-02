@@ -2,3 +2,4 @@
 - 2026-10-30 16:12 · pidió unirse al pádel del lunes de Mace en Tigre (competitivo)
 - 2026-10-30 20:13 · calificó el pádel (4 y 5) y pidió unirse al pádel del domingo de Tony en Tigre (competitivo)
 - 2026-11-01 08:12 · calificó el pádel jugado (Tony y Yoda)
+- 2026-11-02 20:13 · leyó el recordatorio de su pádel; solo miró

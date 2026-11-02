@@ -72,3 +72,4 @@
 - 2026-11-01 04:11 · aceptó a George en su fútbol
 - 2026-11-02 12:11 · aceptó a Marty en su fútbol
 - 2026-11-02 16:11 · aceptó a Fred en su fútbol
+- 2026-11-02 20:11 · calificó el partido (5, 4 y 5)

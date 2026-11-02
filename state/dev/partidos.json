@@ -5604,9 +5604,9 @@
       "agente.smith": true
     },
     "calificaran": [
-      "phoebe.buffay",
       "fred.weasley",
       "george.weasley",
+      "phoebe.buffay",
       "peter.parker"
     ],
     "calificaron": [
@@ -5654,9 +5654,30 @@
     ],
     "pendientes": [],
     "bajasSorteadas": false,
-    "asistencia": null,
-    "calificaran": [],
-    "calificaron": [],
+    "asistencia": {
+      "dory": true,
+      "krusty": true,
+      "bart.simpson": true,
+      "lois.lane": true,
+      "george.weasley": true,
+      "marty.mcfly": true
+    },
+    "calificaran": [
+      "dory",
+      "krusty",
+      "bart.simpson",
+      "lois.lane",
+      "george.weasley",
+      "marty.mcfly"
+    ],
+    "calificaron": [
+      "lois.lane",
+      "marty.mcfly",
+      "george.weasley",
+      "dory",
+      "bart.simpson",
+      "krusty"
+    ],
     "cancelado": false,
     "organizador": "dory",
     "fecha": "2026-11-02T23:00:00.000Z",
@@ -5851,7 +5872,7 @@
       "cedric.diggory"
     ],
     "pendientes": [],
-    "bajasSorteadas": false,
+    "bajasSorteadas": true,
     "asistencia": null,
     "calificaran": [],
     "calificaron": [],
@@ -5870,11 +5891,10 @@
       "steve.rogers",
       "clark.kent",
       "george.weasley",
-      "phoebe.buffay"
-    ],
-    "pendientes": [
+      "phoebe.buffay",
       "padme.amidala"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -5895,9 +5915,19 @@
     ],
     "pendientes": [],
     "bajasSorteadas": false,
-    "asistencia": null,
-    "calificaran": [],
-    "calificaron": [],
+    "asistencia": {
+      "krusty": true,
+      "kylo.ren": true,
+      "rey": false
+    },
+    "calificaran": [
+      "krusty",
+      "kylo.ren"
+    ],
+    "calificaron": [
+      "kylo.ren",
+      "krusty"
+    ],
     "cancelado": false,
     "organizador": "krusty",
     "fecha": "2026-11-02T23:00:00.000Z",
@@ -5937,7 +5967,7 @@
       "burro"
     ],
     "pendientes": [],
-    "bajasSorteadas": false,
+    "bajasSorteadas": true,
     "asistencia": null,
     "calificaran": [],
     "calificaron": [],
@@ -5971,7 +6001,7 @@
     "cupo": 9,
     "creado": "2026-10-30T03:11:50.517Z",
     "pendientesHumanos": 0,
-    "anotados": 3
+    "anotados": 4
   },
   "cmvumwubl00hw01qi4tfp5ips": {
     "jugadores": [],
@@ -6050,7 +6080,9 @@
     "jugadores": [
       "james.bond"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "kylo.ren"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -6122,7 +6154,7 @@
       "sam.gamyi"
     ],
     "pendientes": [],
-    "bajasSorteadas": false,
+    "bajasSorteadas": true,
     "asistencia": null,
     "calificaran": [],
     "calificaron": [],
@@ -6366,10 +6398,10 @@
     "anotados": 2
   },
   "cmvxqdd74014a01nq3lc6nppe": {
-    "jugadores": [],
-    "pendientes": [
+    "jugadores": [
       "leia.organa"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -6441,7 +6473,7 @@
     "cupo": 7,
     "creado": "2026-11-01T15:12:12.133Z",
     "pendientesHumanos": 0,
-    "anotados": 2
+    "anotados": 3
   },
   "cmvxyz6j5006501mv2mtcuao6": {
     "jugadores": [
@@ -6460,7 +6492,7 @@
     "cupo": 9,
     "creado": "2026-11-01T15:13:14.861Z",
     "pendientesHumanos": 0,
-    "anotados": 1
+    "anotados": 2
   },
   "ckfrwkz1u9llkj3nj8xajam9o": {
     "jugadores": [],
@@ -6591,10 +6623,10 @@
     "anotados": 1
   },
   "cmvz5udn200b901plqqdznvsd": {
-    "jugadores": [],
-    "pendientes": [
+    "jugadores": [
       "gato.con.botas"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -6636,6 +6668,22 @@
     "fecha": "2026-11-05T00:00:00.000Z",
     "deporte": "PADEL",
     "cupo": 3,
-    "creado": "2026-11-02T19:13:12.650Z"
+    "creado": "2026-11-02T19:13:12.650Z",
+    "pendientesHumanos": 0,
+    "anotados": 0
+  },
+  "cmvzvj1ky00pb01pl41dw2sfa": {
+    "jugadores": [],
+    "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "dory",
+    "fecha": "2026-11-06T00:00:00.000Z",
+    "deporte": "FUTBOL",
+    "cupo": 9,
+    "creado": "2026-11-02T23:12:15.580Z"
   }
 }

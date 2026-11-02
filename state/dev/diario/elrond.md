@@ -89,3 +89,4 @@
 - 2026-10-28 08:12 · aceptó a Lois en su fútbol de Nordelta
 - 2026-11-01 04:12 · leyó notificaciones (recordatorio de partido); solo miró
 - 2026-11-01 08:12 · armó un fútbol 5 para el mié 4/11 20:30 en Nordelta (para despejarse)
+- 2026-11-02 20:11 · aceptó a Leia Organa en su partido; solo miró el resto

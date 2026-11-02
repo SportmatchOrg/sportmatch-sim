@@ -2340,3 +2340,25 @@
 2026-11-02T19:13:12.653Z shrek crear cmvzmzmm100iu01plmxwlp8td PADEL 2026-11-05T00:00:00.000Z
 2026-11-02T19:13:25.406Z leia.organa unirse cmvxqdd74014a01nq3lc6nppe
 2026-11-02T19:13:27.407Z fred.weasley leer-notificaciones 1
+2026-11-02T23:10:33.031Z sorteo cmvs96olf006901ld6l6ae66t faltaron=[] calificaran=[dory,krusty,bart.simpson,lois.lane,george.weasley,marty.mcfly]
+2026-11-02T23:10:37.366Z sorteo cmvtx74ao00vu01ldkxnprxiw faltaron=[rey] calificaran=[krusty,kylo.ren]
+2026-11-02T23:11:14.215Z elrond leer-notificaciones 1
+2026-11-02T23:11:32.340Z elrond aceptar cmvxqdd74014a01nq3lc6nppe leia.organa
+2026-11-02T23:11:37.160Z marty.mcfly leer-notificaciones 2
+2026-11-02T23:11:45.024Z lois.lane calificar cmvs96olf006901ld6l6ae66t ratings=3 noShows=0
+2026-11-02T23:11:47.020Z marty.mcfly calificar cmvs96olf006901ld6l6ae66t ratings=3 noShows=0
+2026-11-02T23:11:48.969Z marty.mcfly aceptar cmvz5udn200b901plqqdznvsd gato.con.botas
+2026-11-02T23:11:56.739Z dory leer-notificaciones 1
+2026-11-02T23:11:59.748Z bart.simpson leer-notificaciones 1
+2026-11-02T23:12:10.929Z george.weasley calificar cmvs96olf006901ld6l6ae66t ratings=3 noShows=0
+2026-11-02T23:12:13.420Z dory calificar cmvs96olf006901ld6l6ae66t ratings=3 noShows=0
+2026-11-02T23:12:15.581Z dory crear cmvzvj1ky00pb01pl41dw2sfa FUTBOL 2026-11-06T00:00:00.000Z
+2026-11-02T23:12:18.045Z bart.simpson calificar cmvs96olf006901ld6l6ae66t ratings=3 noShows=0
+2026-11-02T23:12:20.541Z kylo.ren calificar cmvtx74ao00vu01ldkxnprxiw ratings=1 noShows=1
+2026-11-02T23:12:39.460Z kylo.ren unirse cmvuvhbr300l801qina0fwqc0
+2026-11-02T23:12:41.331Z krusty leer-notificaciones 2
+2026-11-02T23:12:47.042Z krusty calificar cmvs96olf006901ld6l6ae66t ratings=3 noShows=0
+2026-11-02T23:12:48.980Z krusty calificar cmvtx74ao00vu01ldkxnprxiw ratings=1 noShows=1
+2026-11-02T23:12:50.871Z gandalf leer-notificaciones 1
+2026-11-02T23:12:57.388Z gandalf aceptar cmvtomquy00rz01ldgiczzv4n padme.amidala
+2026-11-02T23:13:00.484Z cedric.diggory leer-notificaciones 1

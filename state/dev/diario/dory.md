@@ -22,3 +22,4 @@
 - 2026-10-30 04:11 · aceptó a Bart en su fútbol del lunes; nada más
 - 2026-10-30 20:12 · aceptó a Lois y a George en su fútbol del lunes en Club Pilar
 - 2026-10-31 00:12 · aceptó a Marty en su fútbol del lunes y calificó el partido (4, 5 y 5)
+- 2026-11-02 20:12 · calificó el fútbol (5, 4 y 4) y armó un fútbol para el jue 5/11 21:00 en Club Pilar

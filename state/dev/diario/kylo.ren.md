@@ -8,3 +8,4 @@
 - 2026-10-30 08:12 · calificó el pádel (5 y 4) y pidió unirse al básquet del sábado en Del Viso
 - 2026-10-31 04:11 · leyó que lo aceptaron en el básquet y el pádel; hoy solo miró
 - 2026-11-02 12:13 · miró la app, sin novedades
+- 2026-11-02 20:12 · calificó el pádel y pidió unirse al pádel del martes en Pádel Point Pilar (se anota a todo)
