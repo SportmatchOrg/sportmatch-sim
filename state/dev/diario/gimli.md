@@ -52,3 +52,4 @@
 - 2026-10-29 12:11 · aceptó a Peter Parker a su fútbol; no hay fútbol en CABA para anotarse, nada más
 - 2026-11-01 00:11 · se unió al fútbol del miércoles 18:30 en Complejo Belgrano (por fin hay algo en CABA)
 - 2026-11-01 04:13 · leyó notificaciones; solo miró
+- 2026-11-02 00:11 · canceló su fútbol del lunes en River Courts porque no se llenó; no encontró nada en CABA para anotarse

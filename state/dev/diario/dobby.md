@@ -20,3 +20,4 @@
 - 2026-10-24 04:11 · miró la app, no se anotó a nada
 - 2026-10-26 00:12 · pidió unirse al pádel BEGINNER del miércoles en Belgrano
 - 2026-11-01 20:12 · leyó que lo aceptaron en el pádel y el recordatorio; solo miró
+- 2026-11-02 00:13 · entró a mirar; nada nuevo

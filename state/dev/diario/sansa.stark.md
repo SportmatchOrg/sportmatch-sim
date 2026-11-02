@@ -1,0 +1,1 @@
+- 2026-11-02 00:13 · pidió unirse al tenis INTERMEDIATE del martes 3/11 8:00 en Club Pilar

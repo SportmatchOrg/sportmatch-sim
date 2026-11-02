@@ -21,3 +21,4 @@
 - 2026-11-01 12:11 · leyó el recordatorio de su running; el partido por calificar no tenía a nadie, solo miró
 - 2026-11-01 16:11 · miró la app; el partido por calificar no tenía a nadie
 - 2026-11-01 20:11 · miró la app; el partido por calificar sigue sin nadie a quien calificar
+- 2026-11-02 00:11 · cerró el partido pendiente, no había a quién calificar

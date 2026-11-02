@@ -7,3 +7,4 @@
 - 2026-11-01 12:14 · calificó el fútbol (George 5); el otro partido no tenía a nadie, solo miró
 - 2026-11-01 16:12 · miró la app; nadie a quién calificar
 - 2026-11-01 20:11 · miró la app; nadie a quién calificar
+- 2026-11-02 00:11 · armó un fútbol para el domingo 8/11 10:00 en Del Viso (estudiante, mañana libre)

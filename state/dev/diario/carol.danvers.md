@@ -1,1 +1,2 @@
 - 2026-10-31 20:13 · primera vez: pidió unirse al tenis del domingo a la noche en Club de Tenis Mitre (competitiva)
+- 2026-11-02 00:13 · miró la app; sin novedades
