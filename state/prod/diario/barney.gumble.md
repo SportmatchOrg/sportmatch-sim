@@ -47,3 +47,4 @@
 - 2026-10-31 12:15 · calificó a Cedric con un 5; Yoda no vino
 - 2026-11-01 12:16 · calificó a Cedric (4) y Anakin (3), armó un pádel ADVANCED el sábado 7 a las 10 en Pádel Point y pidió unirse al pádel del sábado en Tigre
 - 2026-11-02 04:15 · rechazó a Anakin en su pádel ADVANCED (ya lo había calificado con 3)
+- 2026-11-02 16:15 · aceptó a Cedric en su pádel

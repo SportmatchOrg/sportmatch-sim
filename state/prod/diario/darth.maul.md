@@ -1,0 +1,1 @@
+- 2026-11-02 16:15 · primera vez en la app: miró el fútbol del norte, todavía no se anotó

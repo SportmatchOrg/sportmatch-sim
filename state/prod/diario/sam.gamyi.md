@@ -84,3 +84,4 @@
 - 2026-11-02 08:14 · aceptó a Arwen, Woody y Bruce en su pádel
 - 2026-11-02 08:15 · (corrección) solo aceptó a Arwen y Woody; Bruce quedó sin lugar, el pádel se llenó
 - 2026-11-02 12:14 · intentó aceptar a Bruce pero el pádel ya estaba lleno; solo miró
+- 2026-11-02 16:15 · intentó aceptar a Bruce pero el pádel ya estaba lleno; solo miró

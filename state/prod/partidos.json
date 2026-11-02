@@ -5731,7 +5731,7 @@
     "cupo": 9,
     "creado": "2026-10-29T23:15:40.887Z",
     "pendientesHumanos": 0,
-    "anotados": 4
+    "anotados": 5
   },
   "cmvueh3i800it01o450ai9880": {
     "jugadores": [
@@ -5768,7 +5768,7 @@
     "cupo": 5,
     "creado": "2026-10-30T11:15:20.532Z",
     "pendientesHumanos": 0,
-    "anotados": 0,
+    "anotados": 1,
     "cancelSorteado": true,
     "cancelar": false
   },
@@ -5846,7 +5846,7 @@
     "cupo": 5,
     "creado": "2026-10-30T23:15:54.589Z",
     "pendientesHumanos": 0,
-    "anotados": 3
+    "anotados": 4
   },
   "cmvvtv02l014g01o4i765709x": {
     "jugadores": [
@@ -5926,7 +5926,7 @@
     "cupo": 9,
     "creado": "2026-10-31T03:15:35.216Z",
     "pendientesHumanos": 0,
-    "anotados": 3
+    "anotados": 4
   },
   "cmvvtxb5v017v01o4mg9ak71q": {
     "jugadores": [
@@ -6061,10 +6061,10 @@
     "anotados": 0
   },
   "cmvxz2pfl023v01o4o3lm6pcn": {
-    "jugadores": [],
-    "pendientes": [
+    "jugadores": [
       "cedric.diggory"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -6112,7 +6112,9 @@
   },
   "cmvyg56oc029001o443lflyev": {
     "jugadores": [],
-    "pendientes": [],
+    "pendientes": [
+      "buzz.lightyear"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -6142,7 +6144,7 @@
     "cupo": 3,
     "creado": "2026-11-02T03:15:03.017Z",
     "pendientesHumanos": 0,
-    "anotados": 0
+    "anotados": 1
   },
   "cmvyoryss002e01ohj1qnskui": {
     "jugadores": [
@@ -6181,7 +6183,7 @@
     "cupo": 9,
     "creado": "2026-11-02T03:15:30.331Z",
     "pendientesHumanos": 0,
-    "anotados": 0
+    "anotados": 1
   },
   "cmvyxe4vf005x01ohw93pnald": {
     "jugadores": [],
@@ -6200,10 +6202,10 @@
     "anotados": 0
   },
   "cmvz5x0uo008g01oh1wfr9xjz": {
-    "jugadores": [],
-    "pendientes": [
+    "jugadores": [
       "steve.rogers"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -6219,7 +6221,9 @@
   },
   "cmvz5xvi8009d01oh06tx90sj": {
     "jugadores": [],
-    "pendientes": [],
+    "pendientes": [
+      "bruce.wayne"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -6245,6 +6249,8 @@
     "fecha": "2026-11-04T20:00:00.000Z",
     "deporte": "FUTBOL",
     "cupo": 9,
-    "creado": "2026-11-02T15:15:50.711Z"
+    "creado": "2026-11-02T15:15:50.711Z",
+    "pendientesHumanos": 0,
+    "anotados": 0
   }
 }

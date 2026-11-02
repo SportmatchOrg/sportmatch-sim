@@ -1,1 +1,2 @@
 - 2026-10-25 16:14 · primera vez en la app: se anotó al pádel del martes 27 a las 19 en Club Palermo
+- 2026-11-02 16:15 · entró a mirar pádel en CABA; no se anotó a nada
