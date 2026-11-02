@@ -35,3 +35,4 @@
 - 2026-10-31 12:13 · calificó el fútbol (4, 3 y 4); hoy solo miró
 - 2026-11-01 12:13 · calificó el fútbol (Legolas 4) y armó un fútbol ADVANCED del sábado 7/11 09:00 en Del Viso
 - 2026-11-01 20:11 · aceptó a George en su fútbol ADVANCED; no se unió a nada
+- 2026-11-02 16:12 · aceptó a Bart en su fútbol ADVANCED; no vio nada en Pilar que le sirviera

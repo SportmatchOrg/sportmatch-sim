@@ -14,3 +14,4 @@
 - 2026-10-25 20:11 · miró la app, sin novedades
 - 2026-10-27 08:12 · miró la app; nada de básquet en CABA
 - 2026-10-31 04:11 · miró la app; no hay básquet en CABA, no se anotó
+- 2026-11-02 16:13 · miró la app; sigue sin haber básquet para principiantes en CABA

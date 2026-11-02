@@ -5872,7 +5872,9 @@
       "george.weasley",
       "phoebe.buffay"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "padme.amidala"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -5954,11 +5956,10 @@
     "jugadores": [
       "diana.prince",
       "phoebe.buffay",
-      "george.weasley"
-    ],
-    "pendientes": [
+      "george.weasley",
       "fred.weasley"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -6113,7 +6114,7 @@
     "cupo": 7,
     "creado": "2026-10-30T15:11:43.449Z",
     "pendientesHumanos": 0,
-    "anotados": 5
+    "anotados": 6
   },
   "cmvvl7ltx00y301qiqs57xtc9": {
     "jugadores": [
@@ -6168,7 +6169,7 @@
     "cupo": 9,
     "creado": "2026-10-31T03:12:47.814Z",
     "pendientesHumanos": 0,
-    "anotados": 2
+    "anotados": 3
   },
   "cmvw2bmy6017201qipibqprdl": {
     "jugadores": [
@@ -6188,7 +6189,7 @@
     "cupo": 9,
     "creado": "2026-10-31T07:11:22.486Z",
     "pendientesHumanos": 0,
-    "anotados": 2
+    "anotados": 3
   },
   "cmvwjiakr003501nqeoga3rp4": {
     "jugadores": [
@@ -6366,7 +6367,9 @@
   },
   "cmvxqdd74014a01nq3lc6nppe": {
     "jugadores": [],
-    "pendientes": [],
+    "pendientes": [
+      "leia.organa"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -6423,11 +6426,10 @@
   "cmvxyxu43005601mv0wgr8ym3": {
     "jugadores": [
       "gato.con.botas",
-      "davy.jones"
-    ],
-    "pendientes": [
+      "davy.jones",
       "timon"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -6443,11 +6445,10 @@
   },
   "cmvxyz6j5006501mv2mtcuao6": {
     "jugadores": [
-      "george.weasley"
-    ],
-    "pendientes": [
+      "george.weasley",
       "bart.simpson"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -6591,7 +6592,9 @@
   },
   "cmvz5udn200b901plqqdznvsd": {
     "jugadores": [],
-    "pendientes": [],
+    "pendientes": [
+      "gato.con.botas"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -6617,6 +6620,22 @@
     "fecha": "2026-11-05T23:00:00.000Z",
     "deporte": "BASQUET",
     "cupo": 7,
-    "creado": "2026-11-02T15:12:01.078Z"
+    "creado": "2026-11-02T15:12:01.078Z",
+    "pendientesHumanos": 0,
+    "anotados": 0
+  },
+  "cmvzmzmm100iu01plmxwlp8td": {
+    "jugadores": [],
+    "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "shrek",
+    "fecha": "2026-11-05T00:00:00.000Z",
+    "deporte": "PADEL",
+    "cupo": 3,
+    "creado": "2026-11-02T19:13:12.650Z"
   }
 }

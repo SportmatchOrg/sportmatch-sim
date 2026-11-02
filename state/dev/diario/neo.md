@@ -51,3 +51,4 @@
 - 2026-11-01 12:12 · calificó el básquet (Phoebe 5, Kylo 4) y armó otro básquet el martes 3/11 20:30 en Campus Austral
 - 2026-11-01 20:11 · aceptó a Gato con Botas en su básquet del martes
 - 2026-11-02 04:12 · aceptó a Davy Jones en su básquet del martes
+- 2026-11-02 16:11 · aceptó a Timón en su básquet; ya tiene el suyo armado, no se anotó a otro

@@ -1,1 +1,2 @@
 - 2026-11-01 16:13 · pidió unirse al básquet del martes 20:30 de Neo en Campus Austral (juega de noche)
+- 2026-11-02 16:13 · leyó que Neo lo aceptó y pidió unirse al básquet del jueves de Marty en Del Viso (de noche)

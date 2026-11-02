@@ -45,3 +45,4 @@
 - 2026-10-29 16:12 · pidió unirse al fútbol del sábado de Steve en Club Pilar (se anota con los amigos)
 - 2026-10-31 20:11 · calificó el fútbol y leyó notificaciones
 - 2026-11-02 12:12 · pidió unirse al fútbol del martes de Lois en Club Pilar
+- 2026-11-02 16:13 · leyó que Lois lo aceptó en el fútbol del martes; solo miró

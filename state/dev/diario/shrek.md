@@ -1,0 +1,1 @@
+- 2026-11-02 16:13 · armó un pádel del miércoles 21:00 en Pádel Point Pilar (juega de noche)

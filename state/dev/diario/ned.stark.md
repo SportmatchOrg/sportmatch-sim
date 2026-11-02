@@ -1,0 +1,1 @@
+- 2026-11-02 16:13 · primera vez en la app: miró carreras y pádel, no se anotó
