@@ -1,3 +1,4 @@
 - 2026-10-26 00:15 · se anotó al tenis del martes temprano en Club Pilar
 - 2026-11-02 00:15 · armó tenis dobles INTERMEDIATE el viernes 6 a las 8 en Club Pilar (madruga)
 - 2026-11-02 12:15 · aceptó a Ron Weasley en su tenis; los otros horarios no le sirven (madruga), no se anotó
+- 2026-11-02 20:15 · entró, leyó notificaciones y solo miró

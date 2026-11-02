@@ -10,3 +10,4 @@
 - 2026-10-29 12:15 · entró y solo miró; nada que le sirva
 - 2026-11-02 08:15 · se unió al fútbol ADVANCED del martes en Club Pilar y armó uno ADVANCED el sábado 7 a las 10 h en Club Pilar
 - 2026-11-02 16:15 · aceptó a Steve Rogers en su fútbol ADVANCED del sábado
+- 2026-11-02 20:15 · entró, leyó notificaciones y solo miró

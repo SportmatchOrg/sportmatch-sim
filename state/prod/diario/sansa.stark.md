@@ -1,0 +1,1 @@
+- 2026-11-02 20:15 · primera vez: entró y solo miró

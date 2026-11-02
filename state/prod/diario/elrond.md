@@ -121,3 +121,4 @@
 - 2026-10-31 20:14 · aceptó a Théoden en su fútbol
 - 2026-11-01 20:14 · aceptó a Obi-Wan en su fútbol del lunes
 - 2026-11-02 08:14 · aceptó a Selina Kyle en su fútbol
+- 2026-11-02 20:14 · calificó el fútbol (Selina y Obi-Wan)

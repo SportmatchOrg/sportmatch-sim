@@ -1,1 +1,2 @@
 - 2026-11-02 08:15 · primera vez: armó un pádel el miércoles 4 a las 20:30 en Club Belgrano
+- 2026-11-02 20:15 · aceptó a Bruce en su pádel; no encontró fútbol cómodo en CABA

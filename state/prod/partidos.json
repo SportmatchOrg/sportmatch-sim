@@ -5255,12 +5255,12 @@
       "chewbacca": false
     },
     "calificaran": [
-      "dory",
       "lois.lane",
       "george.weasley",
       "phoebe.buffay",
       "gandalf",
-      "rey"
+      "rey",
+      "dory"
     ],
     "calificaron": [
       "lois.lane",
@@ -5323,11 +5323,11 @@
     },
     "calificaran": [
       "bellatrix.lestrange",
-      "bruce.banner",
-      "krusty",
       "rachel.green",
+      "george.weasley",
       "peter.parker",
-      "george.weasley"
+      "bruce.banner",
+      "krusty"
     ],
     "calificaron": [
       "bellatrix.lestrange",
@@ -5602,7 +5602,10 @@
     ],
     "pendientes": [],
     "bajasSorteadas": false,
-    "asistencia": null,
+    "asistencia": {
+      "cedric.diggory": true,
+      "saruman": true
+    },
     "calificaran": [],
     "calificaron": [],
     "cancelado": false,
@@ -5618,15 +5621,13 @@
     "jugadores": [
       "dory",
       "lois.lane",
-      "chewbacca",
       "krusty",
       "trinity",
       "bart.simpson",
-      "sirius.black",
-      "pippin.tuk"
+      "sirius.black"
     ],
     "pendientes": [],
-    "bajasSorteadas": false,
+    "bajasSorteadas": true,
     "asistencia": null,
     "calificaran": [],
     "calificaron": [],
@@ -5648,7 +5649,9 @@
       "lois.lane",
       "theoden"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "selina.kyle"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -5740,9 +5743,17 @@
     ],
     "pendientes": [],
     "bajasSorteadas": false,
-    "asistencia": null,
-    "calificaran": [],
-    "calificaron": [],
+    "asistencia": {
+      "burro": true,
+      "thanos": false,
+      "slinky": true
+    },
+    "calificaran": [
+      "burro"
+    ],
+    "calificaron": [
+      "burro"
+    ],
     "cancelado": false,
     "organizador": "burro",
     "fecha": "2026-11-02T22:30:00.000Z",
@@ -5758,7 +5769,10 @@
     ],
     "pendientes": [],
     "bajasSorteadas": false,
-    "asistencia": null,
+    "asistencia": {
+      "galadriel": true,
+      "rocky.balboa": true
+    },
     "calificaran": [],
     "calificaron": [],
     "cancelado": false,
@@ -5777,11 +5791,10 @@
       "neo",
       "phoebe.buffay",
       "bart.simpson",
-      "gato.con.botas",
       "kylo.ren"
     ],
     "pendientes": [],
-    "bajasSorteadas": false,
+    "bajasSorteadas": true,
     "asistencia": null,
     "calificaran": [],
     "calificaron": [],
@@ -5855,9 +5868,19 @@
     ],
     "pendientes": [],
     "bajasSorteadas": false,
-    "asistencia": null,
-    "calificaran": [],
-    "calificaron": [],
+    "asistencia": {
+      "elrond": true,
+      "obiwan.kenobi": true,
+      "selina.kyle": true
+    },
+    "calificaran": [
+      "elrond",
+      "obiwan.kenobi"
+    ],
+    "calificaron": [
+      "elrond",
+      "obiwan.kenobi"
+    ],
     "cancelado": false,
     "organizador": "elrond",
     "fecha": "2026-11-02T23:00:00.000Z",
@@ -5895,9 +5918,17 @@
     ],
     "pendientes": [],
     "bajasSorteadas": false,
-    "asistencia": null,
-    "calificaran": [],
-    "calificaron": [],
+    "asistencia": {
+      "sam.gamyi": true,
+      "bruce.wayne": true,
+      "apu.nahasapeemapetilon": true
+    },
+    "calificaran": [
+      "sam.gamyi"
+    ],
+    "calificaron": [
+      "sam.gamyi"
+    ],
     "cancelado": false,
     "organizador": "sam.gamyi",
     "fecha": "2026-11-02T23:00:00.000Z",
@@ -5958,7 +5989,9 @@
       "kylo.ren",
       "luke.skywalker"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "timon"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -6076,7 +6109,7 @@
     "cupo": 3,
     "creado": "2026-11-01T15:15:59.323Z",
     "pendientesHumanos": 0,
-    "anotados": 0
+    "anotados": 1
   },
   "cmvxz3l7v024w01o4ozogo04z": {
     "jugadores": [],
@@ -6096,7 +6129,9 @@
   },
   "cmvy7lvbd027601o48ohi3l6s": {
     "jugadores": [],
-    "pendientes": [],
+    "pendientes": [
+      "simba"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -6111,10 +6146,10 @@
     "anotados": 0
   },
   "cmvyg56oc029001o443lflyev": {
-    "jugadores": [],
-    "pendientes": [
+    "jugadores": [
       "buzz.lightyear"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -6217,12 +6252,14 @@
     "cupo": 9,
     "creado": "2026-11-02T11:15:17.657Z",
     "pendientesHumanos": 0,
-    "anotados": 0
+    "anotados": 1
   },
   "cmvz5xvi8009d01oh06tx90sj": {
-    "jugadores": [],
-    "pendientes": [
+    "jugadores": [
       "bruce.wayne"
+    ],
+    "pendientes": [
+      "arwen"
     ],
     "bajasSorteadas": false,
     "asistencia": null,
@@ -6252,5 +6289,19 @@
     "creado": "2026-11-02T15:15:50.711Z",
     "pendientesHumanos": 0,
     "anotados": 0
+  },
+  "cmvzvmdkd00j101oh3ranvas3": {
+    "jugadores": [],
+    "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "burro",
+    "fecha": "2026-11-05T22:30:00.000Z",
+    "deporte": "TENIS",
+    "cupo": 3,
+    "creado": "2026-11-02T23:14:50.965Z"
   }
 }

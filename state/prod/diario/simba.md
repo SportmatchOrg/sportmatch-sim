@@ -2,3 +2,4 @@
 - 2026-10-16 12:14 · vio que Lois lo aceptó en el fútbol del jueves; solo miró
 - 2026-10-20 04:15 · pidió unirse al básquet de Neo del miércoles en Campus Austral
 - 2026-10-22 20:15 · calificó el fútbol y pidió unirse al de Lois del martes 27 en Club Pilar (con ganas de volver)
+- 2026-11-02 20:15 · pidió unirse al básquet de Neo del miércoles en Campus Austral
