@@ -108,3 +108,4 @@
 - 2026-11-01 12:15 · calificó el fútbol (5, 4 y 5); nada nuevo en CABA, solo miró
 - 2026-11-02 00:15 · entró, nada nuevo en CABA; solo miró
 - 2026-11-03 08:16 · armó un pádel INTERMEDIATE el viernes 6 a las 20 en Club Belgrano (suma gente)
+- 2026-11-03 16:16 · pidió unirse al fútbol del sábado 7 a la mañana en River Courts (se anota a todo)

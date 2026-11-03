@@ -1,1 +1,2 @@
 - 2026-11-02 08:15 · primera vez: pidió unirse al fútbol del miércoles 21 h en Club Pilar
+- 2026-11-03 16:16 · pidió unirse al fútbol del viernes 21 h en Club Pilar (suma otro además del del miércoles)

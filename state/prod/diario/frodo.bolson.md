@@ -22,3 +22,4 @@
 - 2026-10-31 12:15 · aceptó a Gato con Botas en su básquet del lunes; no armó otro, espera que se llene el que tiene
 - 2026-11-01 04:14 · aceptó a Kylo Ren en su básquet del lunes; sigue esperando que se llene
 - 2026-11-03 00:15 · calificó el básquet y armó otro el viernes 21 h en Campus Austral
+- 2026-11-03 16:16 · entró, leyó notificaciones y solo miró; sigue esperando que se llene su básquet del viernes
