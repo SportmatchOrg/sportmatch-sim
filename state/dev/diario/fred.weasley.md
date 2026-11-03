@@ -46,3 +46,4 @@
 - 2026-10-31 20:11 · calificó el fútbol y leyó notificaciones
 - 2026-11-02 12:12 · pidió unirse al fútbol del martes de Lois en Club Pilar
 - 2026-11-02 16:13 · leyó que Lois lo aceptó en el fútbol del martes; solo miró
+- 2026-11-03 20:13 · pidió unirse al fútbol del domingo 8/11 en Del Viso (suma gente con amigos)

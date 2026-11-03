@@ -47,3 +47,5 @@
 - 2026-10-30 04:12 · leyó notificaciones; hoy solo miró
 - 2026-10-31 12:11 · calificó el básquet y se anotó al básquet BEGINNER del martes en Del Viso (se une a todo)
 - 2026-11-01 04:13 · leyó notificaciones (la aceptaron, aviso de suspensión y no-show); solo miró
+- 2026-11-03 20:11 · calificó el partido y se anotó al running del sábado en Parque Pilar (le gusta conocer gente)
+- 2026-11-03 20:11 · no pudo anotarse al running: está suspendida hasta el 7/11

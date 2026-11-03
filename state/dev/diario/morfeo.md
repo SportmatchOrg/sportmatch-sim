@@ -1,1 +1,2 @@
 - 2026-11-02 12:13 · entró a mirar, no hizo nada
+- 2026-11-03 20:13 · entró a mirar y leyó notificaciones, sin novedades

@@ -5,3 +5,4 @@
 - 2026-11-02 20:13 · leyó el recordatorio de su pádel; solo miró
 - 2026-11-03 04:12 · leyó notificaciones; hoy solo miró
 - 2026-11-03 12:13 · hoy solo miró, no hay pádel que le cierre en el norte
+- 2026-11-03 20:13 · pidió unirse al pádel del 16/12 en Norte Pádel (competitivo, de su zona)

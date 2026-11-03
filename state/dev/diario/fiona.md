@@ -22,3 +22,4 @@
 - 2026-11-02 12:12 · aceptó a Elizabeth y armó un básquet BEGINNER el jue 5/11 20:00 en Del Viso
 - 2026-11-03 08:12 · aceptó a Nala en su básquet
 - 2026-11-03 12:13 · aceptó a Draco en su básquet; no se unió a nada (nada BEGINNER en su zona y ya tiene el del jueves)
+- 2026-11-03 20:12 · calificó el básquet (4–5); nada más

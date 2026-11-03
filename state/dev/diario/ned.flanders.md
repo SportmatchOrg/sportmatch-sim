@@ -16,3 +16,4 @@
 - 2026-11-03 08:13 · se anotó al fútbol del miércoles en Complejo Belgrano (puntual, a las 18:30)
 - 2026-11-03 12:13 · armó un básquet INTERMEDIATE del viernes 6/11 20:00 en Club Belgrano
 - 2026-11-03 16:13 · leyó notificaciones (Galadriel pidió unirse a su básquet del viernes); nada más por ahora
+- 2026-11-03 20:12 · aceptó a Galadriel en su básquet del viernes

@@ -9,3 +9,4 @@
 - 2026-10-25 00:11 · miró la app, sin novedades
 - 2026-10-26 00:12 · leyó notificaciones (lo aceptó Elrond) y no encontró nada nuevo en su zona; no se anotó
 - 2026-11-01 20:12 · pidió unirse al tenis del sábado 7/11 en Club de Tenis Norte (zona norte)
+- 2026-11-03 20:13 · leyó notificaciones; ya tiene el tenis pendiente y nada más le cerró en el nivel
