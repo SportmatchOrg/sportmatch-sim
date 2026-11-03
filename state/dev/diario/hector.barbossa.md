@@ -27,3 +27,4 @@
 - 2026-10-22 04:11 · aceptó a Sauron en su partido
 - 2026-10-23 00:12 · calificó a Sauron tras el partido de la noche
 - 2026-10-25 20:11 · miró la app, sin novedades
+- 2026-11-03 16:14 · leyó notificaciones; nada nuevo, solo miró

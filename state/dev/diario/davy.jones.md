@@ -19,3 +19,4 @@
 - 2026-10-26 04:12 · pidió unirse al running del sábado en Parque Pilar
 - 2026-11-01 00:12 · pidió unirse al básquet BEGINNER del martes en Polideportivo Del Viso (principiante entusiasta)
 - 2026-11-02 00:12 · se anotó al básquet INTERMEDIATE del martes 3/11 en Campus Austral (principiante entusiasta)
+- 2026-11-03 16:12 · leyó notificaciones (lo aceptó Neo en el básquet del martes); nada más

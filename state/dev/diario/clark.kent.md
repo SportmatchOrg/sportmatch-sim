@@ -14,3 +14,4 @@
 - 2026-10-28 04:12 · pidió unirse al fútbol del jueves de Lois en Club Pilar (tarde libre)
 - 2026-10-30 12:12 · pidió unirse al fútbol del miércoles 4/11 de Gandalf en Club Pilar (tarde libre)
 - 2026-11-03 12:13 · pidió unirse al fútbol del jueves 5/11 de Dory en Club Pilar (tarde libre)
+- 2026-11-03 16:14 · leyó que lo aceptaron Dory y Gandalf en sus fútbol; ya tiene dos partidos, no sumó otro

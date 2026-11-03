@@ -6024,7 +6024,7 @@
     "cupo": 9,
     "creado": "2026-10-30T03:11:50.517Z",
     "pendientesHumanos": 0,
-    "anotados": 4
+    "anotados": 5
   },
   "cmvumwubl00hw01qi4tfp5ips": {
     "jugadores": [],
@@ -6513,7 +6513,7 @@
     "cupo": 9,
     "creado": "2026-11-01T15:11:26.062Z",
     "pendientesHumanos": 0,
-    "anotados": 6
+    "anotados": 7
   },
   "cmvxyxu43005601mv0wgr8ym3": {
     "jugadores": [
@@ -6720,7 +6720,7 @@
     "cupo": 7,
     "creado": "2026-11-02T15:12:01.078Z",
     "pendientesHumanos": 0,
-    "anotados": 1
+    "anotados": 2
   },
   "cmvzmzmm100iu01plmxwlp8td": {
     "jugadores": [],
@@ -6739,10 +6739,10 @@
     "anotados": 0
   },
   "cmvzvj1ky00pb01pl41dw2sfa": {
-    "jugadores": [],
-    "pendientes": [
+    "jugadores": [
       "clark.kent"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -6870,7 +6870,9 @@
   },
   "cmw0tu7x1023o01pliotwjobw": {
     "jugadores": [],
-    "pendientes": [],
+    "pendientes": [
+      "galadriel"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -6880,11 +6882,15 @@
     "fecha": "2026-11-06T23:00:00.000Z",
     "deporte": "BASQUET",
     "cupo": 5,
-    "creado": "2026-11-03T15:12:43.838Z"
+    "creado": "2026-11-03T15:12:43.838Z",
+    "pendientesHumanos": 0,
+    "anotados": 0
   },
   "cmw0tuavd023t01plykzy5x0l": {
     "jugadores": [],
-    "pendientes": [],
+    "pendientes": [
+      "groot"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -6894,7 +6900,9 @@
     "fecha": "2026-11-07T10:30:00.000Z",
     "deporte": "BASQUET",
     "cupo": 7,
-    "creado": "2026-11-03T15:12:47.658Z"
+    "creado": "2026-11-03T15:12:47.658Z",
+    "pendientesHumanos": 0,
+    "anotados": 0
   },
   "cmw0tuce0023w01plsi7obxb0": {
     "jugadores": [],
@@ -6908,7 +6916,9 @@
     "fecha": "2026-11-06T23:30:00.000Z",
     "deporte": "FUTBOL",
     "cupo": 9,
-    "creado": "2026-11-03T15:12:49.620Z"
+    "creado": "2026-11-03T15:12:49.620Z",
+    "pendientesHumanos": 0,
+    "anotados": 0
   },
   "cmw0tugsc024301pljuqwqtw7": {
     "jugadores": [],
@@ -6922,6 +6932,24 @@
     "fecha": "2026-11-05T22:30:00.000Z",
     "deporte": "TENIS",
     "cupo": 3,
-    "creado": "2026-11-03T15:12:55.319Z"
+    "creado": "2026-11-03T15:12:55.319Z",
+    "pendientesHumanos": 0,
+    "anotados": 0
+  },
+  "cmw12fz9l028201plei0lb8yj": {
+    "jugadores": [],
+    "pendientes": [
+      "moe.szyslak"
+    ],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "burro",
+    "fecha": "2026-11-06T22:30:00.000Z",
+    "deporte": "TENIS",
+    "cupo": 3,
+    "creado": "2026-11-03T19:13:35.972Z"
   }
 }
