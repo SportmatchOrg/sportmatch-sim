@@ -3,3 +3,4 @@
 - 2026-10-29 16:13 · vio que lo aceptaron en el fútbol del sábado; solo miró
 - 2026-10-31 20:16 · calificó el fútbol (3, 3 y 2); nada de CABA para anotarse
 - 2026-11-01 20:14 · entró y solo miró; nada en CABA
+- 2026-11-03 04:15 · armó un fútbol INTERMEDIATE el sábado 7 a las 11:30 en River Courts (tranqui, para despejarse)

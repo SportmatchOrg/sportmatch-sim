@@ -39,3 +39,4 @@
 - 2026-11-02 08:15 · aceptó a Krusty en su fútbol
 - 2026-11-02 12:14 · aceptó a Rocket en su fútbol del miércoles
 - 2026-11-03 00:15 · calificó el fútbol y aceptó a Sirius en su fútbol del miércoles
+- 2026-11-03 04:15 · aceptó a Krusty en su fútbol; solo miró

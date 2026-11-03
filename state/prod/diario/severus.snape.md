@@ -1,1 +1,2 @@
 - 2026-10-29 00:14 · primera vez en la app: entró, miró y no hizo nada
+- 2026-11-03 04:15 · miró partidos de tenis pero ninguno le cerró; no se anotó
