@@ -65,3 +65,4 @@
 - 2026-11-01 20:11 · aceptó a Forrest en su fútbol; no se unió a nada (entre semana casi no entra)
 - 2026-11-02 08:11 · aceptó a Harry y a Phoebe en su fútbol
 - 2026-11-03 08:11 · aceptó a Pippin en su fútbol y armó un tenis dobles del domingo 8/11 10:00 en Club Pilar
+- 2026-11-03 12:13 · aceptó a Rocket en su fútbol del sábado; entre semana solo miró

@@ -4,3 +4,4 @@
 - 2026-11-01 08:12 · calificó el pádel jugado (Tony y Yoda)
 - 2026-11-02 20:13 · leyó el recordatorio de su pádel; solo miró
 - 2026-11-03 04:12 · leyó notificaciones; hoy solo miró
+- 2026-11-03 12:13 · hoy solo miró, no hay pádel que le cierre en el norte

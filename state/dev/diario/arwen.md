@@ -1,1 +1,2 @@
 - 2026-11-02 08:12 · primera vez en la app: se anotó al tenis del domingo 15/11 en Club de Tenis Juventud
+- 2026-11-03 12:13 · solo miró; ya tiene su tenis del 15/11

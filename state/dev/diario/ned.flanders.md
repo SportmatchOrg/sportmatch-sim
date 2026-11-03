@@ -14,3 +14,4 @@
 - 2026-10-28 20:12 · aceptó a Bellatrix en su fútbol del jueves
 - 2026-10-30 00:12 · calificó dos partidos (4 y 5, 5, 4 y 5); joker no vino
 - 2026-11-03 08:13 · se anotó al fútbol del miércoles en Complejo Belgrano (puntual, a las 18:30)
+- 2026-11-03 12:13 · armó un básquet INTERMEDIATE del viernes 6/11 20:00 en Club Belgrano

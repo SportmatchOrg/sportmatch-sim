@@ -5738,8 +5738,8 @@
     },
     "calificaran": [
       "neo",
-      "phoebe.buffay",
-      "frodo.bolson"
+      "frodo.bolson",
+      "phoebe.buffay"
     ],
     "calificaron": [
       "neo",
@@ -5916,7 +5916,7 @@
     "cupo": 9,
     "creado": "2026-10-29T15:12:33.810Z",
     "pendientesHumanos": 0,
-    "anotados": 6
+    "anotados": 7
   },
   "cmvtx74ao00vu01ldkxnprxiw": {
     "jugadores": [
@@ -6009,11 +6009,10 @@
       "diana.prince",
       "phoebe.buffay",
       "george.weasley",
-      "fred.weasley"
-    ],
-    "pendientes": [
+      "fred.weasley",
       "gandalf"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -6064,8 +6063,8 @@
       "chewbacca": true
     },
     "calificaran": [
-      "clint.barton",
-      "krusty"
+      "krusty",
+      "clint.barton"
     ],
     "calificaron": [
       "krusty",
@@ -6339,8 +6338,8 @@
       "george.weasley": true
     },
     "calificaran": [
-      "bucky.barnes",
-      "george.weasley"
+      "george.weasley",
+      "bucky.barnes"
     ],
     "calificaron": [
       "george.weasley",
@@ -6499,11 +6498,10 @@
       "forrest.gump",
       "harry.potter",
       "phoebe.buffay",
-      "pippin.tuk"
-    ],
-    "pendientes": [
+      "pippin.tuk",
       "rocket"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -6515,7 +6513,7 @@
     "cupo": 9,
     "creado": "2026-11-01T15:11:26.062Z",
     "pendientesHumanos": 0,
-    "anotados": 5
+    "anotados": 6
   },
   "cmvxyxu43005601mv0wgr8ym3": {
     "jugadores": [
@@ -6588,7 +6586,7 @@
     "cupo": 9,
     "creado": "2026-11-02T03:11:46.285Z",
     "pendientesHumanos": 0,
-    "anotados": 0
+    "anotados": 1
   },
   "cmvyong3o004001pl0lm6l8kq": {
     "jugadores": [],
@@ -6707,11 +6705,10 @@
   },
   "cmvzedg9200ec01plsb470okl": {
     "jugadores": [
-      "nala"
-    ],
-    "pendientes": [
+      "nala",
       "draco.malfoy"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -6723,7 +6720,7 @@
     "cupo": 7,
     "creado": "2026-11-02T15:12:01.078Z",
     "pendientesHumanos": 0,
-    "anotados": 0
+    "anotados": 1
   },
   "cmvzmzmm100iu01plmxwlp8td": {
     "jugadores": [],
@@ -6743,7 +6740,9 @@
   },
   "cmvzvj1ky00pb01pl41dw2sfa": {
     "jugadores": [],
-    "pendientes": [],
+    "pendientes": [
+      "clark.kent"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -6865,6 +6864,64 @@
     "fecha": "2026-11-08T13:00:00.000Z",
     "deporte": "TENIS",
     "cupo": 3,
-    "creado": "2026-11-03T11:11:39.214Z"
+    "creado": "2026-11-03T11:11:39.214Z",
+    "pendientesHumanos": 0,
+    "anotados": 0
+  },
+  "cmw0tu7x1023o01pliotwjobw": {
+    "jugadores": [],
+    "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "ned.flanders",
+    "fecha": "2026-11-06T23:00:00.000Z",
+    "deporte": "BASQUET",
+    "cupo": 5,
+    "creado": "2026-11-03T15:12:43.838Z"
+  },
+  "cmw0tuavd023t01plykzy5x0l": {
+    "jugadores": [],
+    "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "nelson.muntz",
+    "fecha": "2026-11-07T10:30:00.000Z",
+    "deporte": "BASQUET",
+    "cupo": 7,
+    "creado": "2026-11-03T15:12:47.658Z"
+  },
+  "cmw0tuce0023w01plsi7obxb0": {
+    "jugadores": [],
+    "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "dory",
+    "fecha": "2026-11-06T23:30:00.000Z",
+    "deporte": "FUTBOL",
+    "cupo": 9,
+    "creado": "2026-11-03T15:12:49.620Z"
+  },
+  "cmw0tugsc024301pljuqwqtw7": {
+    "jugadores": [],
+    "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "carol.danvers",
+    "fecha": "2026-11-05T22:30:00.000Z",
+    "deporte": "TENIS",
+    "cupo": 3,
+    "creado": "2026-11-03T15:12:55.319Z"
   }
 }

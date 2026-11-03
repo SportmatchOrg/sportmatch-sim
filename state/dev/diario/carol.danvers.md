@@ -1,2 +1,3 @@
 - 2026-10-31 20:13 · primera vez: pidió unirse al tenis del domingo a la noche en Club de Tenis Mitre (competitiva)
 - 2026-11-02 00:13 · miró la app; sin novedades
+- 2026-11-03 12:13 · armó un tenis dobles del jueves 5/11 19:30 en Tigre Pádel Club (competitiva)
