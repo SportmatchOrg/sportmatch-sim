@@ -1,0 +1,1 @@
+- 2026-11-03 08:13 · se anotó al básquet BEGINNER del jueves en Del Viso (principiante entusiasta)

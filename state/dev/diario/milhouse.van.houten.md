@@ -8,3 +8,4 @@
 - 2026-10-17 12:12 · calificó el básquet (generoso); ya tiene el del sábado, nada más
 - 2026-10-19 08:12 · miró el básquet, ninguno lo convenció
 - 2026-10-28 12:12 · miró la app, nada que lo convenza
+- 2026-11-03 08:13 · miró básquet; nada cerca de su zona, no se anotó

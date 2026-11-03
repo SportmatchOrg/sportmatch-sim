@@ -20,3 +20,4 @@
 - 2026-11-01 04:11 · aceptó a Davy en su básquet; ya tiene el del martes, no armó otro
 - 2026-11-01 16:12 · leyó notificaciones; ya tiene su básquet del martes, solo miró
 - 2026-11-02 12:12 · aceptó a Elizabeth y armó un básquet BEGINNER el jue 5/11 20:00 en Del Viso
+- 2026-11-03 08:12 · aceptó a Nala en su básquet
