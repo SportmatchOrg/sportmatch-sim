@@ -50,3 +50,4 @@
 - 2026-10-31 20:15 · (corrección) el tenis falló al primer intento; lo armó como dobles el sábado 7 a las 10 en Club Pilar
 - 2026-11-01 12:15 · calificó el fútbol del domingo y armó un fútbol INTERMEDIATE el sábado 7 a las 9:30 en River Courts
 - 2026-11-03 08:15 · aceptó a Nick Fury y se unió al fútbol del viernes en Club Pilar (competitiva)
+- 2026-11-03 12:14 · aceptó a George Weasley en su fútbol; solo miró

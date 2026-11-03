@@ -13,3 +13,4 @@
 - 2026-10-28 20:14 · calificó el básquet y solo miró
 - 2026-11-01 12:16 · entró a mirar, sin novedades; solo miró
 - 2026-11-01 20:14 · entró, leyó notificaciones y solo miró
+- 2026-11-03 12:15 · entró y solo miró

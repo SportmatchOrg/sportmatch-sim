@@ -2,3 +2,4 @@
 - 2026-11-02 04:15 · pidió unirse al fútbol del lunes en Fútbol 5 Nordelta (le queda cerca)
 - 2026-11-02 12:15 · armó un fútbol INTERMEDIATE el miércoles 4 a las 17 h en Fútbol 5 Nordelta (tiene las tardes libres)
 - 2026-11-02 20:15 · pidió unirse al fútbol del martes en Nordelta de Elrond
+- 2026-11-03 12:15 · entró y solo miró

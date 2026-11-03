@@ -1,0 +1,1 @@
+- 2026-11-03 12:15 · se unió al fútbol del miércoles 21 h en Club Pilar (le gusta jugar de noche)

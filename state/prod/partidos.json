@@ -5859,8 +5859,8 @@
       "nemo": true
     },
     "calificaran": [
-      "hermione.granger",
-      "bellatrix.lestrange"
+      "bellatrix.lestrange",
+      "hermione.granger"
     ],
     "calificaron": [
       "bellatrix.lestrange",
@@ -6124,11 +6124,10 @@
   },
   "cmvxz290d023f01o40gu3n35g": {
     "jugadores": [
-      "nick.fury"
-    ],
-    "pendientes": [
+      "nick.fury",
       "george.weasley"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -6140,7 +6139,7 @@
     "cupo": 9,
     "creado": "2026-11-01T15:15:38.032Z",
     "pendientesHumanos": 0,
-    "anotados": 0
+    "anotados": 1
   },
   "cmvxz2pfl023v01o4o3lm6pcn": {
     "jugadores": [
@@ -6179,10 +6178,11 @@
   "cmvy7lvbd027601o48ohi3l6s": {
     "jugadores": [
       "simba",
-      "phoebe.buffay"
+      "phoebe.buffay",
+      "darth.maul"
     ],
     "pendientes": [
-      "darth.maul"
+      "gato.con.botas"
     ],
     "bajasSorteadas": false,
     "asistencia": null,
@@ -6262,7 +6262,9 @@
       "krusty",
       "arthur.curry"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "shrek"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -6274,7 +6276,7 @@
     "cupo": 9,
     "creado": "2026-11-02T03:15:30.331Z",
     "pendientesHumanos": 0,
-    "anotados": 3
+    "anotados": 4
   },
   "cmvyxe4vf005x01ohw93pnald": {
     "jugadores": [],
@@ -6394,11 +6396,11 @@
     "anotados": 0
   },
   "cmw0cs35o00sy01ohv61aiszp": {
-    "jugadores": [],
-    "pendientes": [
+    "jugadores": [
       "hermione.granger",
       "neville.longbottom"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -6429,10 +6431,10 @@
     "anotados": 0
   },
   "cmw0lcy1h00vi01ohqfm8x0vj": {
-    "jugadores": [],
-    "pendientes": [
+    "jugadores": [
       "bruce.wayne"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -6442,7 +6444,9 @@
     "fecha": "2026-11-07T14:00:00.000Z",
     "deporte": "PADEL",
     "cupo": 3,
-    "creado": "2026-11-03T11:15:20.916Z"
+    "creado": "2026-11-03T11:15:20.916Z",
+    "pendientesHumanos": 0,
+    "anotados": 0
   },
   "cmw0ldzkj00ws01ohsa5m9xy0": {
     "jugadores": [],
@@ -6456,6 +6460,8 @@
     "fecha": "2026-11-06T23:00:00.000Z",
     "deporte": "PADEL",
     "cupo": 3,
-    "creado": "2026-11-03T11:16:09.554Z"
+    "creado": "2026-11-03T11:16:09.554Z",
+    "pendientesHumanos": 0,
+    "anotados": 0
   }
 }
