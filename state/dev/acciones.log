@@ -2362,3 +2362,28 @@
 2026-11-02T23:12:50.871Z gandalf leer-notificaciones 1
 2026-11-02T23:12:57.388Z gandalf aceptar cmvtomquy00rz01ldgiczzv4n padme.amidala
 2026-11-02T23:13:00.484Z cedric.diggory leer-notificaciones 1
+2026-11-03T03:10:37.955Z sorteo cmvtoldub00qx01ld3zu80e06 faltaron=[] calificaran=[mace.windu]
+2026-11-03T03:10:39.647Z sorteo cmvuebgr100au01qibfn2m4q6 faltaron=[] calificaran=[sam.gamyi,peter.parker,burro]
+2026-11-03T03:10:43.448Z sorteo cmvvl7ltx00y301qiqs57xtc9 faltaron=[] calificaran=[lisa.simpson,bellatrix.lestrange,sam.gamyi]
+2026-11-03T03:11:14.425Z bellatrix.lestrange leer-notificaciones 1
+2026-11-03T03:11:20.575Z bellatrix.lestrange calificar cmvvl7ltx00y301qiqs57xtc9 ratings=2 noShows=0
+2026-11-03T03:11:22.403Z bellatrix.lestrange crear cmw042jre01l801pllsax7bji PADEL 2026-11-05T23:30:00.000Z
+2026-11-03T03:11:24.336Z mace.windu leer-notificaciones 4
+2026-11-03T03:11:29.405Z mace.windu calificar cmvtoldub00qx01ld3zu80e06 ratings=2 noShows=0
+2026-11-03T03:11:31.365Z sam.gamyi leer-notificaciones 3
+2026-11-03T03:11:38.011Z sam.gamyi calificar cmvuebgr100au01qibfn2m4q6 ratings=2 noShows=0
+2026-11-03T03:11:39.826Z sam.gamyi calificar cmvvl7ltx00y301qiqs57xtc9 ratings=2 noShows=0
+2026-11-03T03:11:41.889Z frodo.bolson leer-notificaciones 1
+2026-11-03T03:11:45.087Z frodo.bolson cancelar cmvvtruql013g01qim9cv741g
+2026-11-03T03:11:51.051Z lisa.simpson calificar cmvvl7ltx00y301qiqs57xtc9 ratings=2 noShows=0
+2026-11-03T03:11:53.019Z peter.parker leer-notificaciones 1
+2026-11-03T03:12:07.848Z peter.parker calificar cmvuebgr100au01qibfn2m4q6 ratings=2 noShows=0
+2026-11-03T03:12:27.676Z peter.parker unirse chxukgwomc2kwr8vyb1m2dyj6
+2026-11-03T03:12:29.820Z burro leer-notificaciones 1
+2026-11-03T03:12:45.442Z burro calificar cmvuebgr100au01qibfn2m4q6 ratings=2 noShows=0
+2026-11-03T03:12:47.319Z indiana.jones leer-notificaciones 2
+2026-11-03T03:12:51.338Z indiana.jones aceptar cmvuvhbr300l801qina0fwqc0 kylo.ren
+2026-11-03T03:12:55.712Z indiana.jones crear cmw044jr801oj01pljjsr9k5a PADEL 2026-11-06T11:00:00.000Z
+2026-11-03T03:13:00.132Z timon leer-notificaciones 2
+2026-11-03T03:13:11.083Z timon unirse cmvz5udn200b901plqqdznvsd
+2026-11-03T03:13:24.424Z darth.maul unirse cmvxqdd74014a01nq3lc6nppe

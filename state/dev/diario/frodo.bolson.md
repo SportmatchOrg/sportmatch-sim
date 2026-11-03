@@ -51,3 +51,4 @@
 - 2026-11-01 16:11 · nadie a quién calificar; solo miró
 - 2026-11-01 20:11 · aceptó a Boromir en su partido; nadie a quién calificar
 - 2026-11-02 04:12 · aceptó a Rocky Balboa en su partido
+- 2026-11-03 00:11 · canceló el partido que iba 0/9 (no se llenó)

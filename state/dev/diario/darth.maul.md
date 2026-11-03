@@ -1,1 +1,2 @@
 - 2026-11-02 16:13 · primera vez en la app: miró partidos, no se anotó
+- 2026-11-03 00:13 · pidió unirse al fútbol 5 del miércoles 4/11 en Nordelta (para despejarse)

@@ -73,3 +73,4 @@
 - 2026-10-29 20:11 · aceptó a Ignacio en su pádel del lunes en Tigre (le gusta conocer gente)
 - 2026-10-30 16:12 · aceptó a Cedric en su pádel del lunes en Tigre
 - 2026-10-30 20:11 · calificó el pádel y pidió unirse al fútbol 5 del lunes en Nordelta (le gusta conocer gente)
+- 2026-11-03 00:11 · calificó el pádel (5 y 4); después solo miró

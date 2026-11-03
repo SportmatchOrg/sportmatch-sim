@@ -24,3 +24,4 @@
 - 2026-10-30 20:12 · calificó el fútbol (4, 5 y 4) y pidió unirse al fútbol del lunes de Sam en River Courts (se anota a todo)
 - 2026-10-31 20:12 · calificó el fútbol del sábado
 - 2026-11-02 12:13 · miró fútbol, nada en CABA que le cierre; no se anotó
+- 2026-11-03 00:12 · calificó el fútbol (5 y 4) y pidió unirse al fútbol 5 del domingo 15/11 en Complejo Belgrano (se anota a todo)

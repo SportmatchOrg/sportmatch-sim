@@ -5,3 +5,4 @@
 - 2026-10-27 16:12 · miró la app, no hizo nada hoy
 - 2026-10-28 04:12 · pidió unirse al básquet del viernes de Neo en Del Viso
 - 2026-11-02 12:12 · pidió unirse al básquet del martes de Neo en Campus Austral
+- 2026-11-03 00:13 · pidió unirse al básquet del jueves 5/11 en Polideportivo Del Viso (se anota con entusiasmo)
