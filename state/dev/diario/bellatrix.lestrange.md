@@ -103,3 +103,4 @@
 - 2026-10-31 12:11 · calificó el pádel (5 y 4) y pidió unirse al pádel del lunes de Lisa en Club Belgrano (se anota a todo)
 - 2026-11-01 04:13 · pidió unirse al fútbol del miércoles en Complejo Belgrano (se anota a todo)
 - 2026-11-03 00:11 · calificó el pádel (5 y 4) y armó un pádel del jueves en Club Belgrano (se anota a todo)
+- 2026-11-03 04:12 · pidió unirse al pádel del miércoles 20:30 en Unión Pádel (se anota a todo)

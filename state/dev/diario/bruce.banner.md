@@ -1,2 +1,3 @@
 - 2026-10-27 12:12 · primera vez: miró la app para despejarse; no hizo nada
 - 2026-10-29 00:12 · miró la app, nada en CABA para anotarse
+- 2026-11-03 04:13 · pidió unirse al fútbol del miércoles 18:30 en Complejo Belgrano (relajado)

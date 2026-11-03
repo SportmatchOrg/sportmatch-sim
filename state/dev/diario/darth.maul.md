@@ -1,2 +1,3 @@
 - 2026-11-02 16:13 · primera vez en la app: miró partidos, no se anotó
 - 2026-11-03 00:13 · pidió unirse al fútbol 5 del miércoles 4/11 en Nordelta (para despejarse)
+- 2026-11-03 04:12 · leyó que Elrond lo aceptó; no hizo más, ya le bajó el ritmo

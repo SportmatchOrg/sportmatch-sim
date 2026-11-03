@@ -2,3 +2,4 @@
 - 2026-10-28 16:12 · leyó que Ned lo aceptó en el básquet del jueves; hoy no hizo más
 - 2026-10-30 00:13 · calificó el básquet (5 y 4; Joker no vino); hoy no se anotó a nada más
 - 2026-11-02 00:13 · pidió unirse al básquet del miércoles 4/11 en Campus Austral
+- 2026-11-03 04:13 · pidió unirse al básquet del sábado 14/11 en Polideportivo CABA (le gusta conocer gente)

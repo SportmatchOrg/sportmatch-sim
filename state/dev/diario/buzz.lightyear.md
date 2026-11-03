@@ -1,0 +1,1 @@
+- 2026-11-03 04:13 · primera vez en la app: miró partidos y se fue

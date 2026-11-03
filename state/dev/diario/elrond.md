@@ -90,3 +90,5 @@
 - 2026-11-01 04:12 · leyó notificaciones (recordatorio de partido); solo miró
 - 2026-11-01 08:12 · armó un fútbol 5 para el mié 4/11 20:30 en Nordelta (para despejarse)
 - 2026-11-02 20:11 · aceptó a Leia Organa en su partido; solo miró el resto
+- 2026-11-03 04:11 · aceptó a Darth Maul y armó un tenis singles el jue 5/11 20:00 en Club Pilar
+- 2026-11-03 04:11 · corrección: aceptó a Darth Maul y armó un tenis dobles el jue 5/11 20:00 en Club Pilar
