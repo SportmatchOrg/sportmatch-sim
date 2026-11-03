@@ -51,3 +51,6 @@
 - 2026-11-01 12:15 · calificó el fútbol del domingo y armó un fútbol INTERMEDIATE el sábado 7 a las 9:30 en River Courts
 - 2026-11-03 08:15 · aceptó a Nick Fury y se unió al fútbol del viernes en Club Pilar (competitiva)
 - 2026-11-03 12:14 · aceptó a George Weasley en su fútbol; solo miró
+- 2026-11-03 20:14 · aceptó a Bellatrix en su fútbol; solo miró
+- 2026-11-03 20:14 · aceptó a Bellatrix en su fútbol; solo miró
+- 2026-11-03 20:14 · (corrección) recién ahí aceptó a Bellatrix en su fútbol del sábado; las dos líneas anteriores se anotaron antes de que saliera

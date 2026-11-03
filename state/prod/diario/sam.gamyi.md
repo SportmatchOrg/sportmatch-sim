@@ -91,3 +91,4 @@
 - 2026-11-03 08:15 · armó un pádel BEGINNER el sábado 7 a las 11 en Club Belgrano; la solicitud de Bruce sigue sin lugar
 - 2026-11-03 12:14 · aceptó a Bruce Wayne en su pádel del sábado; solo miró
 - 2026-11-03 16:15 · intentó aceptar a Bruce Wayne pero el pádel ya estaba lleno; solo miró
+- 2026-11-03 20:15 · intentó aceptar a Bruce Wayne pero el pádel ya estaba lleno y se unió al pádel del viernes en Club Belgrano

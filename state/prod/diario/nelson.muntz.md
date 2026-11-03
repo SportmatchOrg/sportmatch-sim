@@ -20,3 +20,4 @@
 - 2026-11-01 16:15 · entró y solo miró; los básquets siguen siendo de noche
 - 2026-11-01 20:14 · entró y solo miró; los básquets son de noche
 - 2026-11-03 12:15 · entró temprano a mirar básquet; nada que le cierre antes de las 9
+- 2026-11-03 20:15 · entró temprano y solo miró; el único básquet de la mañana es el de las 10 y es ADVANCED

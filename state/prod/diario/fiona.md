@@ -10,3 +10,4 @@
 - 2026-11-02 00:15 · entró, leyó notificaciones y solo miró; sus básquet van llenándose
 - 2026-11-02 12:15 · aceptó a Jesse Pinkman en su básquet del martes
 - 2026-11-03 00:15 · aceptó a Timón en su básquet del jueves
+- 2026-11-03 20:15 · calificó el básquet (4, 5 y 5); no se anotó a nada más

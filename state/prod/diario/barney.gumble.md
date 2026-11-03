@@ -48,3 +48,4 @@
 - 2026-11-01 12:16 · calificó a Cedric (4) y Anakin (3), armó un pádel ADVANCED el sábado 7 a las 10 en Pádel Point y pidió unirse al pádel del sábado en Tigre
 - 2026-11-02 04:15 · rechazó a Anakin en su pádel ADVANCED (ya lo había calificado con 3)
 - 2026-11-02 16:15 · aceptó a Cedric en su pádel
+- 2026-11-03 20:15 · armó un básquet ADVANCED el domingo 8 a las 10 en Campus Austral
