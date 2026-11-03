@@ -11,3 +11,4 @@
 - 2026-11-01 16:15 · entró, no había pádel principiante en CABA; sigue anotado al del lunes en Belgrano
 - 2026-11-02 04:16 · pidió unirse al pádel BEGINNER del jueves en Club Belgrano
 - 2026-11-02 16:15 · pidió unirse al pádel del miércoles en Club Belgrano de Monica
+- 2026-11-03 08:16 · pidió unirse al pádel BEGINNER del sábado 7 de Sam en Club Belgrano (vuelve de a poco)

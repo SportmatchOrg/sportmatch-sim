@@ -1,1 +1,2 @@
 - 2026-11-02 08:15 · primera vez: pidió unirse al básquet del martes en el Polideportivo Del Viso (se suma con entusiasmo)
+- 2026-11-03 08:15 · entró a mirar básquet y no se anotó a nada

@@ -5,3 +5,4 @@
 - 2026-10-28 12:16 · pidió unirse al fútbol del sábado 31 de Dory en Club Pilar (quiere ganar)
 - 2026-11-01 16:15 · pidió unirse al fútbol INTERMEDIATE del jueves 5 de Dory en Club Pilar (quiere ganar)
 - 2026-11-02 00:15 · pidió unirse al fútbol del miércoles 4 de Lois en Club Pilar (quiere ganar)
+- 2026-11-03 08:15 · pidió unirse al fútbol del viernes 6 de Lois en Club Pilar (quiere ganar)

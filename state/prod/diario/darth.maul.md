@@ -1,2 +1,3 @@
 - 2026-11-02 16:15 · primera vez en la app: miró el fútbol del norte, todavía no se anotó
 - 2026-11-03 04:15 · miró el fútbol del norte, todavía no se anotó
+- 2026-11-03 08:15 · se unió al básquet del miércoles en Campus Austral (para despejarse)
