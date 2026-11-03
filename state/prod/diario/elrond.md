@@ -122,3 +122,4 @@
 - 2026-11-01 20:14 · aceptó a Obi-Wan en su fútbol del lunes
 - 2026-11-02 08:14 · aceptó a Selina Kyle en su fútbol
 - 2026-11-02 20:14 · calificó el fútbol (Selina y Obi-Wan)
+- 2026-11-03 00:14 · aceptó a Selina en su fútbol y armó uno el jueves 20:30 en Nordelta

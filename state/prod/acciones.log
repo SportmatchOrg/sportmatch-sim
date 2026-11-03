@@ -2177,3 +2177,38 @@
 2026-11-02T23:15:14.697Z arwen unirse cmvz5xvi8009d01oh06tx90sj
 2026-11-02T23:15:19.386Z simba leer-notificaciones 1
 2026-11-02T23:15:24.304Z simba unirse cmvy7lvbd027601o48ohi3l6s
+2026-11-03T03:13:47.563Z sorteo cmvtoq2bh034901ryi9kyjcdr faltaron=[] calificaran=[george.weasley,dory,lois.lane,krusty,bart.simpson,sirius.black]
+2026-11-03T03:13:50.776Z sorteo cmvvcq8tq00w401o4868if4o1 faltaron=[] calificaran=[frodo.bolson,neo,phoebe.buffay,kylo.ren]
+2026-11-03T03:14:22.017Z elrond leer-notificaciones 1
+2026-11-03T03:14:28.247Z elrond crear cmw046j5n00mb01ohuo7l49am FUTBOL 2026-11-05T23:30:00.000Z
+2026-11-03T03:14:35.543Z elrond aceptar cmvtx9hn5036q01rym0paso7k selina.kyle
+2026-11-03T03:14:43.717Z sirius.black leer-notificaciones 1
+2026-11-03T03:14:51.554Z sirius.black calificar cmvtoq2bh034901ryi9kyjcdr ratings=3 noShows=0
+2026-11-03T03:14:54.240Z sirius.black unirse cmvyos0ds002h01ohn42v1r61
+2026-11-03T03:15:02.882Z george.weasley leer-notificaciones 2
+2026-11-03T03:15:05.692Z dory leer-notificaciones 1
+2026-11-03T03:15:13.329Z lois.lane calificar cmvtoq2bh034901ryi9kyjcdr ratings=3 noShows=0
+2026-11-03T03:15:15.258Z george.weasley calificar cmvtoq2bh034901ryi9kyjcdr ratings=3 noShows=0
+2026-11-03T03:15:17.231Z dory calificar cmvtoq2bh034901ryi9kyjcdr ratings=3 noShows=0
+2026-11-03T03:15:22.218Z dory aceptar cmvyos0ds002h01ohn42v1r61 sirius.black
+2026-11-03T03:15:24.220Z neo leer-notificaciones 1
+2026-11-03T03:15:30.390Z neo calificar cmvvcq8tq00w401o4868if4o1 ratings=3 noShows=0
+2026-11-03T03:15:32.405Z neo aceptar cmvy7lvbd027601o48ohi3l6s simba
+2026-11-03T03:15:34.346Z frodo.bolson leer-notificaciones 1
+2026-11-03T03:15:40.360Z frodo.bolson calificar cmvvcq8tq00w401o4868if4o1 ratings=3 noShows=0
+2026-11-03T03:15:42.176Z frodo.bolson crear cmw04847b00oc01oh0guolvlf BASQUET 2026-11-07T00:00:00.000Z
+2026-11-03T03:15:50.703Z phoebe.buffay calificar cmvvcq8tq00w401o4868if4o1 ratings=3 noShows=0
+2026-11-03T03:15:52.498Z phoebe.buffay unirse cmvy7lvbd027601o48ohi3l6s
+2026-11-03T03:15:54.499Z fiona leer-notificaciones 1
+2026-11-03T03:15:59.521Z fiona aceptar cmvw2eqz901cv01o4sijvdczb timon
+2026-11-03T03:16:01.660Z kylo.ren leer-notificaciones 1
+2026-11-03T03:16:09.879Z kylo.ren calificar cmvvcq8tq00w401o4868if4o1 ratings=3 noShows=0
+2026-11-03T03:16:11.721Z kylo.ren unirse cmvyg56oc029001o443lflyev
+2026-11-03T03:16:13.857Z bart.simpson leer-notificaciones 2
+2026-11-03T03:16:19.887Z bart.simpson calificar cmvtoq2bh034901ryi9kyjcdr ratings=3 noShows=0
+2026-11-03T03:16:21.873Z bart.simpson unirse cmvvtwetu016a01o46qkj5wow
+2026-11-03T03:16:23.905Z krusty leer-notificaciones 1
+2026-11-03T03:16:29.625Z krusty calificar cmvtoq2bh034901ryi9kyjcdr ratings=3 noShows=0
+2026-11-03T03:16:31.442Z krusty unirse cmvyos0ds002h01ohn42v1r61
+2026-11-03T03:16:33.560Z monica.geller leer-notificaciones 1
+2026-11-03T03:16:38.126Z monica.geller aceptar cmvz5xvi8009d01oh06tx90sj arwen

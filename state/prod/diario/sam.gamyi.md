@@ -86,3 +86,4 @@
 - 2026-11-02 12:14 · intentó aceptar a Bruce pero el pádel ya estaba lleno; solo miró
 - 2026-11-02 16:15 · intentó aceptar a Bruce pero el pádel ya estaba lleno; solo miró
 - 2026-11-02 20:14 · calificó el pádel; Bruce no entró, el partido está lleno
+- 2026-11-03 00:14 · intentó aceptar a Bruce pero el pádel ya estaba lleno; solo miró
