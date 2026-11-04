@@ -21,3 +21,4 @@
 - 2026-11-02 00:12 · se anotó al básquet INTERMEDIATE del martes 3/11 en Campus Austral (principiante entusiasta)
 - 2026-11-03 16:12 · leyó notificaciones (lo aceptó Neo en el básquet del martes); nada más
 - 2026-11-03 20:12 · calificó el básquet (todo 4–5, entusiasta); nada más
+- 2026-11-04 00:12 · calificó el básquet y se anotó al del jueves en Polideportivo Del Viso (principiante entusiasta)

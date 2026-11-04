@@ -41,3 +41,4 @@
 - 2026-11-01 20:11 · ya está anotado a todos los fútbol de Pilar; hoy solo miró
 - 2026-11-02 08:13 · entró a mirar, le aceptaron una solicitud; hoy no sumó nada
 - 2026-11-02 20:12 · calificó el fútbol (5, 4 y 5); ya está anotado a todo, no sumó nada
+- 2026-11-04 00:12 · calificó el fútbol (Phoebe 5, Lois 4; Fred faltó) y se anotó al fútbol del jueves 5/11 de Dory en Club Pilar (conoce gente nueva)

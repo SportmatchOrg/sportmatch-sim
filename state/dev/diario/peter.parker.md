@@ -25,3 +25,4 @@
 - 2026-10-31 20:12 · calificó el fútbol del sábado
 - 2026-11-02 12:13 · miró fútbol, nada en CABA que le cierre; no se anotó
 - 2026-11-03 00:12 · calificó el fútbol (5 y 4) y pidió unirse al fútbol 5 del domingo 15/11 en Complejo Belgrano (se anota a todo)
+- 2026-11-04 00:13 · calificó el fútbol (Han 5) y pidió unirse al fútbol del viernes 13/11 en Club Atlético Belgrano (se anota a todo)

@@ -2462,3 +2462,35 @@
 2026-11-03T23:13:20.353Z fred.weasley leer-notificaciones 1
 2026-11-03T23:13:32.993Z cedric.diggory unirse ckd0jwocx71rf3hl47lethgvy
 2026-11-03T23:13:34.948Z fred.weasley unirse cmvyon7i6003t01plvrrvr86r
+2026-11-04T03:10:32.313Z sorteo cmvt7geaw00l901lde7m26wtd faltaron=[] calificaran=[peter.parker]
+2026-11-04T03:10:34.602Z sorteo cmvuebqt800ba01qi0e3dsy4n faltaron=[fred.weasley] calificaran=[phoebe.buffay,george.weasley,gandalf]
+2026-11-04T03:10:39.436Z sorteo cmvx0o0ms00tr01nqokftmm9u faltaron=[] calificaran=[george.weasley]
+2026-11-04T03:10:48.541Z sorteo cmvxyxu43005601mv0wgr8ym3 faltaron=[] calificaran=[neo,gato.con.botas,davy.jones,timon]
+2026-11-04T03:11:43.084Z davy.jones calificar cmvxyxu43005601mv0wgr8ym3 ratings=3 noShows=0
+2026-11-04T03:11:59.991Z davy.jones unirse cmvz5udn200b901plqqdznvsd
+2026-11-04T03:12:02.200Z neo leer-notificaciones 1
+2026-11-04T03:12:05.788Z timon leer-notificaciones 1
+2026-11-04T03:12:18.111Z neo calificar cmvxyxu43005601mv0wgr8ym3 ratings=3 noShows=0
+2026-11-04T03:12:20.900Z timon unirse cmw0tuavd023t01plykzy5x0l
+2026-11-04T03:12:23.193Z frodo.bolson leer-notificaciones 1
+2026-11-04T03:12:24.564Z frodo.bolson cancelar cmvxhrgmq00zi01nqo1bwo36o
+2026-11-04T03:12:30.335Z frodo.bolson crear cmw1jjutq02mt01pl7mxj7suq BASQUET 2026-11-07T00:00:00.000Z
+2026-11-04T03:12:32.570Z george.weasley leer-notificaciones 4
+2026-11-04T03:12:39.068Z george.weasley calificar cmvuebqt800ba01qi0e3dsy4n ratings=2 noShows=1
+2026-11-04T03:12:50.790Z george.weasley unirse cmvzvj1ky00pb01pl41dw2sfa
+2026-11-04T03:13:00.417Z phoebe.buffay calificar cmvuebqt800ba01qi0e3dsy4n ratings=2 noShows=1
+2026-11-04T03:13:02.381Z phoebe.buffay crear cmw1jkjk602ni01plito72v2l FUTBOL 2026-11-10T00:00:00.000Z
+2026-11-04T03:13:04.480Z phoebe.buffay unirse cmw0tuce0023w01plsi7obxb0
+2026-11-04T03:13:06.581Z peter.parker leer-notificaciones 1
+2026-11-04T03:13:11.400Z peter.parker calificar cmvt7geaw00l901lde7m26wtd ratings=1 noShows=0
+2026-11-04T03:13:23.254Z peter.parker unirse cfx3iwafuza6ubid9pkjaneuq
+2026-11-04T03:13:25.409Z bart.simpson leer-notificaciones 1
+2026-11-04T03:13:30.800Z bart.simpson aceptar cmvvtsto2015401qi24lbo4zk phoebe.buffay
+2026-11-04T03:13:33.014Z gandalf leer-notificaciones 2
+2026-11-04T03:13:39.288Z gandalf calificar cmvuebqt800ba01qi0e3dsy4n ratings=3 noShows=1
+2026-11-04T03:13:41.363Z gandalf unirse cmvzvj1ky00pb01pl41dw2sfa
+2026-11-04T03:13:43.440Z bucky.barnes leer-notificaciones 1
+2026-11-04T03:13:49.740Z bucky.barnes aceptar cmvyon7i6003t01plvrrvr86r fred.weasley
+2026-11-04T03:13:51.941Z gato.con.botas leer-notificaciones 2
+2026-11-04T03:13:58.794Z gato.con.botas calificar cmvxyxu43005601mv0wgr8ym3 ratings=3 noShows=0
+2026-11-04T03:14:19.726Z arwen unirse cxjhmfp28g98fruuib3e2lkqw

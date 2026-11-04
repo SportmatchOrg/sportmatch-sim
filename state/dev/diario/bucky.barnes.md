@@ -10,3 +10,4 @@
 - 2026-11-02 00:11 · armó un fútbol para el domingo 8/11 10:00 en Del Viso (estudiante, mañana libre)
 - 2026-11-02 04:12 · aceptó a Montgomery Burns en su fútbol del domingo
 - 2026-11-03 08:12 · aceptó a Marty en su fútbol del domingo
+- 2026-11-04 00:13 · aceptó a Fred en su fútbol del domingo; el resto de los partidos le quedan en horarios que no le cierran, solo miró

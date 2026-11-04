@@ -32,3 +32,4 @@
 - 2026-11-01 12:13 · calificó el básquet (Kylo 4, Luke 5) y pidió unirse al fútbol del miércoles de Gandalf en Club Pilar (competitiva)
 - 2026-11-02 04:13 · leyó que Gandalf la aceptó; pidió unirse al fútbol del sáb 7/11 en Club Pilar
 - 2026-11-03 20:12 · calificó el básquet y pidió unirse al fútbol del jueves en Club Pilar (competitiva)
+- 2026-11-04 00:13 · calificó el fútbol (Lois 4, Gandalf 5; Fred faltó), armó fútbol el lunes 9/11 en Club Pilar y pidió unirse al del viernes de Dory

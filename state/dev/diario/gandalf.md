@@ -9,3 +9,4 @@
 - 2026-11-01 16:12 · aceptó a Phoebe en su fútbol del miércoles; no se anotó a nada más
 - 2026-11-02 20:12 · aceptó a Padmé Amidala en su fútbol del miércoles; no sumó nada más
 - 2026-11-03 08:12 · aceptó a Trinity en su fútbol y pidió unirse al fútbol del martes en Club Pilar
+- 2026-11-04 00:13 · calificó el fútbol (George 5, Phoebe 4, Lois 5) y pidió unirse al fútbol del jueves 5/11 de Dory en Club Pilar

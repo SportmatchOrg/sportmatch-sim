@@ -52,3 +52,4 @@
 - 2026-11-01 20:11 · aceptó a Boromir en su partido; nadie a quién calificar
 - 2026-11-02 04:12 · aceptó a Rocky Balboa en su partido
 - 2026-11-03 00:11 · canceló el partido que iba 0/9 (no se llenó)
+- 2026-11-04 00:12 · canceló el básquet que iba 2/7 (no se llenó) y armó otro el viernes 6/11 21:00 en Campus Austral
