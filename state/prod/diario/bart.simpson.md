@@ -3,3 +3,4 @@
 - 2026-10-30 16:15 · leyó que Dory lo aceptó; pidió unirse al fútbol del lunes de George en Club Pilar (a ganar)
 - 2026-10-31 00:17 · calificó el fútbol y se anotó al básquet del lunes en Campus Austral
 - 2026-11-03 00:16 · calificó el fútbol y pidió unirse al de Lois del miércoles en Club Pilar (a ganar)
+- 2026-11-04 08:16 · armó un básquet INTERMEDIATE el viernes 6 a las 21 en Campus Austral (a ganar)

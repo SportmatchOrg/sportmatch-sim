@@ -4,3 +4,4 @@
 - 2026-10-22 04:15 · entró a mirar; no se anotó a nada hoy
 - 2026-10-28 20:15 · entró a mirar y leyó notificaciones; no se anotó a nada
 - 2026-10-30 12:14 · entró de noche, miró y no se anotó a nada
+- 2026-11-04 08:15 · pidió unirse al fútbol del miércoles de noche en Club Pilar (le gusta jugar de noche)

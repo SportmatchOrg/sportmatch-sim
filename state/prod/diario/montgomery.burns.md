@@ -13,3 +13,4 @@
 - 2026-10-20 04:15 · entró a mirar; el único running es en Costanera, lejos de Pilar, no se anotó
 - 2026-10-24 04:14 · entró y solo miró
 - 2026-10-26 16:14 · entró a mirar; solo miró
+- 2026-11-04 08:15 · entró a mirar; no hay running en Pilar, no se anotó a nada
