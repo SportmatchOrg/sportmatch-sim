@@ -1,3 +1,5 @@
 - 2026-10-28 08:14 · primera vez en la app: miró partidos de tenis, todavía no se decide
 - 2026-11-02 04:16 · armó tenis singles INTERMEDIATE el miércoles 4 a las 20:30 en Club Pilar (después del trabajo)
 - 2026-11-02 04:16 · (corrección) lo anterior era un singles que no salió; en realidad armó tenis dobles INTERMEDIATE el miércoles 4 a las 20:30 en Club Pilar
+- 2026-11-04 16:17 · aceptó a Tomás en su tenis y pidió unirse al tenis del sábado en Club Pilar
+- 2026-11-04 16:18 · (corrección) el tenis del sábado estaba lleno: no pudo pedir unirse

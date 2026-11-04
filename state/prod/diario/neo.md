@@ -53,3 +53,5 @@
 - 2026-11-03 12:14 · aceptó a Darth Maul en su básquet; nada más
 - 2026-11-03 16:16 · aceptó a Gato con Botas en su básquet; nada más
 - 2026-11-03 20:16 · armó un básquet INTERMEDIATE el sábado 7 a las 20 en Campus Austral (para despejarse)
+- 2026-11-04 16:16 · aceptó a Tomás y a Nacho en sus básquet
+- 2026-11-04 16:16 · (corrección) también aceptó a Tomás en el básquet del sábado

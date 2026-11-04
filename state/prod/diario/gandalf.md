@@ -2,3 +2,4 @@
 - 2026-10-28 08:14 · pidió unirse al fútbol del viernes en el Polideportivo Del Viso; ya estaba anotado al del sábado
 - 2026-10-31 20:16 · calificó el fútbol y armó uno el miércoles 4 a las 20:30 en Club Pilar
 - 2026-11-01 04:14 · aceptó a Lois Lane en su fútbol del miércoles y se unió al fútbol del jueves en Club Pilar
+- 2026-11-04 16:17 · aceptó a Pippin y a Tomás en su fútbol

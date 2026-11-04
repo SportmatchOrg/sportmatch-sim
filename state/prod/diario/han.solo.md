@@ -1,3 +1,4 @@
 - 2026-10-29 04:13 · primera vez en la app: entró y solo miró
 - 2026-10-31 16:15 · entró y solo miró
 - 2026-11-03 16:16 · armó un fútbol INTERMEDIATE el jueves 5 a las 21 en Fútbol 5 Nordelta (después del laburo)
+- 2026-11-04 16:17 · aceptó a Tomás en su fútbol

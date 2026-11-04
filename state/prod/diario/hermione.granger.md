@@ -55,3 +55,4 @@
 - 2026-11-03 20:14 · aceptó a Bellatrix en su fútbol; solo miró
 - 2026-11-03 20:14 · (corrección) recién ahí aceptó a Bellatrix en su fútbol del sábado; las dos líneas anteriores se anotaron antes de que saliera
 - 2026-11-04 00:16 · calificó el fútbol (Lois, George y Théoden); solo miró
+- 2026-11-04 16:15 · aceptó a Tomás en sus dos partidos

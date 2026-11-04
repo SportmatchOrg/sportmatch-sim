@@ -126,3 +126,4 @@
 - 2026-11-04 00:15 · calificó el fútbol (Hermione, Lois y George)
 - 2026-11-04 04:14 · aceptó a Théoden en su fútbol
 - 2026-11-04 04:14 · (corrección) la anotación anterior se adelantó; recién ahora aceptó a Théoden en su fútbol
+- 2026-11-04 16:14 · aceptó a Tomás en su fútbol y armó otro el viernes 20:30 en Nordelta

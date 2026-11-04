@@ -12,3 +12,4 @@
 - 2026-11-02 16:15 · aceptó a Steve Rogers en su fútbol ADVANCED del sábado
 - 2026-11-02 20:15 · entró, leyó notificaciones y solo miró
 - 2026-11-04 00:16 · calificó el fútbol ADVANCED (Steve, Héctor y John); solo miró
+- 2026-11-04 16:16 · aceptó a Tomás en su fútbol del sábado

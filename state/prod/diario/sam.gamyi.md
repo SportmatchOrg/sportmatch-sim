@@ -95,3 +95,5 @@
 - 2026-11-04 00:16 · intentó aceptar a Bruce Wayne pero el pádel sigue lleno; miró partidos y nada de CABA le encajó
 - 2026-11-04 04:14 · aceptó a Bellatrix en su pádel del sábado; la solicitud de Bruce en el otro sigue sin lugar y nada de CABA le encajó
 - 2026-11-04 08:15 · intentó aceptar a Bruce Wayne pero el pádel sigue lleno; solo miró
+- 2026-11-04 16:15 · aceptó a Bruce Wayne en su partido
+- 2026-11-04 16:16 · (corrección) el partido estaba lleno: no pudo aceptar a Bruce Wayne

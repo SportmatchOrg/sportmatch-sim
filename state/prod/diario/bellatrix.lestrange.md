@@ -110,3 +110,5 @@
 - 2026-11-03 08:16 · armó un pádel INTERMEDIATE el viernes 6 a las 20 en Club Belgrano (suma gente)
 - 2026-11-03 16:16 · pidió unirse al fútbol del sábado 7 a la mañana en River Courts (se anota a todo)
 - 2026-11-04 00:15 · calificó el fútbol, aceptó a Sam y se anotó al pádel del sábado en Club Belgrano (se anota a todo)
+- 2026-11-04 16:15 · aceptó a Merry y a Tomás en su partido y pidió unirse al pádel del domingo en Club Belgrano (se anota a todo)
+- 2026-11-04 16:15 · (corrección) el partido estaba lleno: solo aceptó a Merry; Tomás quedó sin cupo

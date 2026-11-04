@@ -44,3 +44,5 @@
 - 2026-11-03 16:16 · aceptó a Shrek en su fútbol; nada más
 - 2026-11-04 04:15 · entró a mirar y leyó notificaciones; nada más
 - 2026-11-04 08:15 · aceptó a Fred Weasley en su fútbol y se unió al fútbol del viernes en Club Pilar
+- 2026-11-04 16:16 · aceptó a Tomás en sus dos fútbol
+- 2026-11-04 16:17 · (corrección) solo pudo aceptar a Tomás en el fútbol del miércoles; el otro partido estaba lleno

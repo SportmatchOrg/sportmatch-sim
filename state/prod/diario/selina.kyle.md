@@ -3,3 +3,4 @@
 - 2026-11-02 12:15 · armó un fútbol INTERMEDIATE el miércoles 4 a las 17 h en Fútbol 5 Nordelta (tiene las tardes libres)
 - 2026-11-02 20:15 · pidió unirse al fútbol del martes en Nordelta de Elrond
 - 2026-11-03 12:15 · entró y solo miró
+- 2026-11-04 16:17 · aceptó a Tomás en su fútbol
