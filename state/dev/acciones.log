@@ -2536,3 +2536,24 @@
 2026-11-04T19:13:07.567Z steve.rogers leer-notificaciones 1
 2026-11-04T19:13:28.334Z ginny.weasley unirse ci1d1d0t1gdtna0v2w3jpovbj
 2026-11-04T19:13:30.048Z steve.rogers unirse cmvw2bmy6017201qipibqprdl
+2026-11-04T23:10:51.399Z sorteo cmvtomquy00rz01ldgiczzv4n faltaron=[] calificaran=[peter.parker,steve.rogers,george.weasley,phoebe.buffay]
+2026-11-04T23:10:54.908Z marty.mcfly baja-tarde cmvw2bmy6017201qipibqprdl
+2026-11-04T23:12:09.978Z steve.rogers calificar cmvtomquy00rz01ldgiczzv4n ratings=3 noShows=0
+2026-11-04T23:12:12.457Z lois.lane leer-notificaciones 4
+2026-11-04T23:12:17.645Z lois.lane aceptar cmvw2bmy6017201qipibqprdl steve.rogers
+2026-11-04T23:12:24.512Z lois.lane crear cmw2qexv5039n01plxdq183de FUTBOL 2026-11-07T00:00:00.000Z
+2026-11-04T23:12:27.141Z george.weasley leer-notificaciones 1
+2026-11-04T23:12:33.999Z george.weasley calificar cmvtomquy00rz01ldgiczzv4n ratings=3 noShows=0
+2026-11-04T23:12:36.170Z george.weasley unirse cmw2qexv5039n01plxdq183de
+2026-11-04T23:12:40.198Z dory leer-notificaciones 1
+2026-11-04T23:12:46.681Z dory aceptar cmw0tuce0023w01plsi7obxb0 bart.simpson
+2026-11-04T23:12:48.812Z timon leer-notificaciones 1
+2026-11-04T23:13:01.715Z phoebe.buffay leer-notificaciones 1
+2026-11-04T23:13:07.914Z phoebe.buffay calificar cmvtomquy00rz01ldgiczzv4n ratings=3 noShows=0
+2026-11-04T23:13:10.016Z phoebe.buffay unirse cmvyon7i6003t01plvrrvr86r
+2026-11-04T23:13:19.090Z peter.parker calificar cmvtomquy00rz01ldgiczzv4n ratings=3 noShows=0
+2026-11-04T23:13:21.206Z fiona leer-notificaciones 2
+2026-11-04T23:13:25.821Z fiona aceptar cmvzedg9200ec01plsb470okl timon
+2026-11-04T23:13:27.900Z bucky.barnes leer-notificaciones 2
+2026-11-04T23:13:35.577Z bucky.barnes aceptar cmvyon7i6003t01plvrrvr86r george.weasley
+2026-11-04T23:13:37.560Z bucky.barnes aceptar cmvyon7i6003t01plvrrvr86r phoebe.buffay

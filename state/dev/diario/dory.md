@@ -27,3 +27,4 @@
 - 2026-11-03 16:11 · aceptó a Clark Kent en su fútbol; nada más
 - 2026-11-04 04:12 · aceptó a George y Gandalf en su fútbol del jueves, y a Phoebe y Marty en el del viernes
 - 2026-11-04 16:12 · aceptó a George en su fútbol del viernes
+- 2026-11-04 20:12 · aceptó a Bart en su fútbol; hoy solo miró

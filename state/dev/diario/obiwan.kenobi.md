@@ -17,3 +17,4 @@
 - 2026-10-22 16:12 · miró la app; nada más por hoy
 - 2026-10-25 04:11 · leyó notificaciones (se canceló el partido de Frodo); nada más por hoy
 - 2026-11-02 04:13 · pidió unirse al running del mié 11/11 en Parque Norte (intermedio, tranqui)
+- 2026-11-04 20:13 · leyó notificaciones, sin novedades; solo miró

@@ -74,3 +74,4 @@
 - 2026-11-02 16:11 · aceptó a Fred en su fútbol
 - 2026-11-02 20:11 · calificó el partido (5, 4 y 5)
 - 2026-11-03 12:13 · aceptó a Gandalf en su fútbol del martes
+- 2026-11-04 20:12 · aceptó a Steve en su fútbol y armó un fútbol del viernes a la noche en Club Pilar
