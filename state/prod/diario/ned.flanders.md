@@ -4,3 +4,4 @@
 - 2026-10-28 16:14 · aceptó a Rocky en su básquet del jueves
 - 2026-10-28 20:15 · aceptó a Cara de Papa en su básquet del jueves
 - 2026-10-29 20:15 · calificó el básquet del jueves (Cara de Papa 4, Galadriel 5); Éowyn no vino
+- 2026-11-04 20:16 · entró y leyó notificaciones; solo miró

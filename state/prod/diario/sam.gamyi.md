@@ -97,3 +97,4 @@
 - 2026-11-04 08:15 · intentó aceptar a Bruce Wayne pero el pádel sigue lleno; solo miró
 - 2026-11-04 16:15 · aceptó a Bruce Wayne en su partido
 - 2026-11-04 16:16 · (corrección) el partido estaba lleno: no pudo aceptar a Bruce Wayne
+- 2026-11-04 20:15 · intentó aceptar a Bruce de nuevo; sin cupo, y nada de CABA le encajó

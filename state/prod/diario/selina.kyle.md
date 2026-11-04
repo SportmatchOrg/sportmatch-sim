@@ -4,3 +4,4 @@
 - 2026-11-02 20:15 · pidió unirse al fútbol del martes en Nordelta de Elrond
 - 2026-11-03 12:15 · entró y solo miró
 - 2026-11-04 16:17 · aceptó a Tomás en su fútbol
+- 2026-11-04 20:16 · calificó su fútbol y pidió unirse al del viernes en Nordelta (le queda cerca)

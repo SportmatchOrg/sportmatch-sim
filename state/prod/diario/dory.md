@@ -46,3 +46,5 @@
 - 2026-11-04 08:15 · aceptó a Fred Weasley en su fútbol y se unió al fútbol del viernes en Club Pilar
 - 2026-11-04 16:16 · aceptó a Tomás en sus dos fútbol
 - 2026-11-04 16:17 · (corrección) solo pudo aceptar a Tomás en el fútbol del miércoles; el otro partido estaba lleno
+- 2026-11-04 20:15 · aceptó a Tomás y se anotó al fútbol del jueves en Nordelta (le gusta conocer gente)
+- 2026-11-04 20:16 · (corrección) el fútbol estaba lleno: no pudo aceptar a Tomás
