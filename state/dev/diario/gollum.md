@@ -1,1 +1,2 @@
 - 2026-10-28 04:12 · primera vez: pidió unirse al tenis de mañana a las 8 en Club Pilar (madruga)
+- 2026-11-04 16:13 · leyó la app; hoy solo miró

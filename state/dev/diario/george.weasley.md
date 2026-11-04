@@ -44,3 +44,4 @@
 - 2026-11-04 00:12 · calificó el fútbol (Phoebe 5, Lois 4; Fred faltó) y se anotó al fútbol del jueves 5/11 de Dory en Club Pilar (conoce gente nueva)
 - 2026-11-04 04:11 · se anotó al fútbol del lunes 9/11 de Phoebe en Club Pilar (conoce gente nueva)
 - 2026-11-04 08:11 · pidió unirse al fútbol del viernes 6/11 de Dory en Club Pilar (conoce gente nueva)
+- 2026-11-04 16:11 · calificó el fútbol del martes (no había a quién) y se anotó al fútbol del domingo 8/11 de Bucky en Del Viso (conoce gente nueva)

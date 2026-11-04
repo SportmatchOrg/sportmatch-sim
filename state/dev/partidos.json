@@ -6296,7 +6296,9 @@
       "george.weasley",
       "marty.mcfly"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "steve.rogers"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -6641,7 +6643,9 @@
       "marty.mcfly",
       "fred.weasley"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "george.weasley"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -6760,7 +6764,9 @@
       "nala",
       "draco.malfoy"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "timon"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -6946,11 +6952,10 @@
     "jugadores": [
       "groot",
       "timon",
-      "phoebe.buffay"
-    ],
-    "pendientes": [
+      "phoebe.buffay",
       "ron.weasley"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -6962,15 +6967,16 @@
     "cupo": 7,
     "creado": "2026-11-03T15:12:47.658Z",
     "pendientesHumanos": 0,
-    "anotados": 2
+    "anotados": 3
   },
   "cmw0tuce0023w01plsi7obxb0": {
     "jugadores": [
       "phoebe.buffay",
-      "marty.mcfly"
+      "marty.mcfly",
+      "george.weasley"
     ],
     "pendientes": [
-      "george.weasley"
+      "bart.simpson"
     ],
     "bajasSorteadas": false,
     "asistencia": null,
@@ -7036,7 +7042,7 @@
     "cupo": 7,
     "creado": "2026-11-04T03:12:30.332Z",
     "pendientesHumanos": 0,
-    "anotados": 0
+    "anotados": 2
   },
   "cmw1jkjk602ni01plito72v2l": {
     "jugadores": [
@@ -7107,7 +7113,8 @@
   "ci1d1d0t1gdtna0v2w3jpovbj": {
     "jugadores": [],
     "pendientes": [
-      "cedric.diggory"
+      "cedric.diggory",
+      "ginny.weasley"
     ],
     "bajasSorteadas": false,
     "asistencia": null,
@@ -7117,6 +7124,7 @@
     "organizador": "humano:cwzk71t1xcyyr5ca2mjlnl2vo",
     "fecha": "2026-12-17T22:00:00.000Z",
     "deporte": "PADEL",
-    "cupo": 3
+    "cupo": 3,
+    "anotados": 1
   }
 }

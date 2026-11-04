@@ -128,3 +128,4 @@
 - 2026-10-30 08:11 · aceptó a Peter en su fútbol; se anotó al fútbol ADVANCED del sábado en Club Pilar
 - 2026-10-31 12:11 · aceptó a Agente Smith en su fútbol del sábado; hoy no armó otro
 - 2026-10-31 12:11 · corrección: recién ahí aceptó a Agente Smith en su fútbol del sábado
+- 2026-11-04 16:13 · leyó el recordatorio y se anotó al fútbol del miércoles de Lois en Club Pilar

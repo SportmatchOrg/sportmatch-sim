@@ -9,3 +9,4 @@
 - 2026-11-04 00:12 · no calificó (rara vez lo hace); se anotó al básquet del sábado 7/11 en Del Viso
 - 2026-11-04 04:12 · no calificó (rara vez lo hace); armó un básquet del domingo 8/11 20:00 en Campus Austral y pidió unirse al del viernes de Frodo
 - 2026-11-04 08:11 · leyó notificaciones; no calificó (rara vez lo hace) y hoy solo miró
+- 2026-11-04 16:12 · no calificó (rara vez lo hace); pidió unirse al básquet del jueves 5/11 de Fiona en Del Viso
