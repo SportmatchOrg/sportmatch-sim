@@ -27,3 +27,4 @@
 - 2026-10-30 08:14 · aceptó a Thanos y a Slinky en su tenis del lunes en River Courts
 - 2026-10-30 12:14 · entró, leyó notificaciones y solo miró
 - 2026-11-02 20:14 · calificó el tenis y armó otro dobles BEGINNER el jueves 5 en River Courts
+- 2026-11-04 04:15 · armó un fútbol BEGINNER el sábado 7 a las 10 en River Courts

@@ -6,3 +6,4 @@
 - 2026-10-26 12:13 · buscó básquet; lo único es en Del Viso, lejos de CABA, no se anotó
 - 2026-10-30 16:15 · buscó básquet en CABA: lo único es BEGINNER, no le sirve; no se anotó
 - 2026-10-31 08:14 · buscó básquet; lo único en CABA no es de su nivel y lo demás queda lejos, no se anotó
+- 2026-11-04 04:15 · entró a mirar; sin novedades, no se anotó a nada

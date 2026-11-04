@@ -2,3 +2,4 @@
 - 2026-11-03 08:15 · entró a mirar básquet y no se anotó a nada
 - 2026-11-03 20:15 · se anotó al básquet del viernes en Del Viso; el partido del lunes no lo calificó
 - 2026-11-04 00:17 · leyó que Groot lo aceptó en el básquet del viernes; el partido pasado otra vez sin calificar
+- 2026-11-04 04:15 · por fin calificó el básquet del lunes

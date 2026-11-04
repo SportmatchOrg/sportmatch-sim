@@ -29,3 +29,4 @@
 - 2026-10-29 00:13 · calificó el partido (Barney 4); no organizó nada más
 - 2026-10-30 20:15 · entró, no había a quién calificar en el fútbol; solo miró
 - 2026-11-01 12:16 · armó un fútbol ADVANCED el jueves 5 a las 21 en Campus Austral y pidió unirse al fútbol ADVANCED del martes en Club Pilar (de noche)
+- 2026-11-04 04:14 · aceptó a Steve en su fútbol ADVANCED del jueves; nada más
