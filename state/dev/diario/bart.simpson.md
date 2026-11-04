@@ -12,3 +12,4 @@
 - 2026-11-02 12:12 · pidió unirse al fútbol ADVANCED del sábado en Del Viso y aceptó a Chewbacca
 - 2026-11-02 20:12 · calificó el fútbol (4, 5 y 4); ya está anotado a lo que le interesa
 - 2026-11-04 00:13 · aceptó a Phoebe en su fútbol del jueves; solo miró el resto
+- 2026-11-04 04:13 · se anotó al básquet del viernes de Frodo en Campus Austral (fanático, juega para ganar)
