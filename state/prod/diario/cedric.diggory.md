@@ -11,3 +11,4 @@
 - 2026-11-02 12:15 · pidió unirse al pádel ADVANCED del sábado 7 en Pádel Point Pilar
 - 2026-11-03 08:15 · calificó el pádel (5 y 4); no hay pádel que le encaje en el norte
 - 2026-11-03 16:16 · entró y miró; el pádel que hay es en Belgrano, lejos de su zona, no se anotó
+- 2026-11-04 00:17 · calificó el pádel (4 y 5) y pidió unirse al pádel de Mace del viernes 20:30 en Tigre (zona norte, competitivo)

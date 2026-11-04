@@ -16,3 +16,4 @@
 - 2026-11-01 08:14 · pidió unirse al básquet de Fiona del martes en Del Viso (tiene la tarde libre)
 - 2026-11-03 16:16 · armó un básquet BEGINNER el viernes 6 a las 17 en Del Viso (tiene la tarde libre)
 - 2026-11-03 20:16 · se anotó al básquet del miércoles de Timón en Campus Austral
+- 2026-11-04 00:17 · aceptó a Jesse en su básquet del viernes en Del Viso

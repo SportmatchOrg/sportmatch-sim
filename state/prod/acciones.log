@@ -2287,3 +2287,35 @@
 2026-11-03T23:16:09.061Z neo crear cmw1b3wir017701ohy6lx48pr BASQUET 2026-11-07T23:00:00.000Z
 2026-11-03T23:16:10.984Z jaime.lannister leer-notificaciones 1
 2026-11-03T23:16:16.612Z jaime.lannister unirse cmvyorfb4002001ohfolbhy83
+2026-11-04T03:14:45.100Z sorteo cmvtx9hn5036q01rym0paso7k faltaron=[] calificaran=[elrond,george.weasley,bellatrix.lestrange,hermione.granger,lois.lane,theoden]
+2026-11-04T03:14:45.741Z sorteo cmvu5w1e1007301o4psabf4ic faltaron=[] calificaran=[steve.rogers,finn]
+2026-11-04T03:14:46.377Z sorteo cmvvtvoc7015c01o4awuz9u46 faltaron=[] calificaran=[mace.windu,cedric.diggory]
+2026-11-04T03:15:27.624Z elrond calificar cmvtx9hn5036q01rym0paso7k ratings=3 noShows=0
+2026-11-04T03:15:29.599Z bellatrix.lestrange leer-notificaciones 2
+2026-11-04T03:15:37.439Z bellatrix.lestrange calificar cmvtx9hn5036q01rym0paso7k ratings=3 noShows=0
+2026-11-04T03:15:39.399Z bellatrix.lestrange aceptar cmw0ldzkj00ws01ohsa5m9xy0 sam.gamyi
+2026-11-04T03:15:45.935Z bellatrix.lestrange unirse cmw0lcy1h00vi01ohqfm8x0vj
+2026-11-04T03:15:53.344Z mace.windu calificar cmvvtvoc7015c01o4awuz9u46 ratings=2 noShows=0
+2026-11-04T03:15:55.177Z mace.windu crear cmw1jo8wc01a101oh256zkz8n PADEL 2026-11-06T23:30:00.000Z
+2026-11-04T03:15:57.223Z steve.rogers leer-notificaciones 2
+2026-11-04T03:16:03.654Z steve.rogers calificar cmvu5w1e1007301o4psabf4ic ratings=3 noShows=0
+2026-11-04T03:16:05.618Z steve.rogers unirse cmvxz3l7v024w01o4ozogo04z
+2026-11-04T03:16:11.686Z hermione.granger calificar cmvtx9hn5036q01rym0paso7k ratings=3 noShows=0
+2026-11-04T03:16:13.760Z sam.gamyi leer-notificaciones 2
+2026-11-04T03:16:27.941Z theoden calificar cmvtx9hn5036q01rym0paso7k ratings=3 noShows=0
+2026-11-04T03:16:29.882Z theoden unirse cmw046j5n00mb01ohuo7l49am
+2026-11-04T03:16:31.956Z lois.lane leer-notificaciones 1
+2026-11-04T03:16:38.023Z lois.lane calificar cmvtx9hn5036q01rym0paso7k ratings=3 noShows=0
+2026-11-04T03:16:39.948Z lois.lane aceptar cmw0cs35o00sy01ohv61aiszp saul.goodman
+2026-11-04T03:16:42.139Z george.weasley leer-notificaciones 1
+2026-11-04T03:16:47.784Z george.weasley calificar cmvtx9hn5036q01rym0paso7k ratings=3 noShows=0
+2026-11-04T03:16:49.815Z george.weasley unirse cmw0cs35o00sy01ohv61aiszp
+2026-11-04T03:16:57.314Z finn calificar cmvu5w1e1007301o4psabf4ic ratings=3 noShows=0
+2026-11-04T03:17:03.063Z groot aceptar cmw12jwup012n01ohi3j2l7eu jesse.pinkman
+2026-11-04T03:17:05.038Z timon leer-notificaciones 1
+2026-11-04T03:17:10.023Z timon aceptar cmvyg56oc029001o443lflyev groot
+2026-11-04T03:17:12.316Z jesse.pinkman leer-notificaciones 1
+2026-11-04T03:17:17.540Z lara.croft leer-notificaciones 1
+2026-11-04T03:17:23.261Z lara.croft aceptar cmvyorfb4002001ohfolbhy83 jaime.lannister
+2026-11-04T03:17:29.788Z cedric.diggory calificar cmvvtvoc7015c01o4awuz9u46 ratings=2 noShows=0
+2026-11-04T03:17:31.745Z cedric.diggory unirse cmw1jo8wc01a101oh256zkz8n

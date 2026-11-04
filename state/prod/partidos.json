@@ -5674,9 +5674,32 @@
     ],
     "pendientes": [],
     "bajasSorteadas": true,
-    "asistencia": null,
-    "calificaran": [],
-    "calificaron": [],
+    "asistencia": {
+      "elrond": true,
+      "albus.dumbledore": true,
+      "george.weasley": true,
+      "bellatrix.lestrange": true,
+      "hermione.granger": true,
+      "lois.lane": true,
+      "theoden": true,
+      "selina.kyle": true
+    },
+    "calificaran": [
+      "elrond",
+      "george.weasley",
+      "bellatrix.lestrange",
+      "hermione.granger",
+      "lois.lane",
+      "theoden"
+    ],
+    "calificaron": [
+      "elrond",
+      "bellatrix.lestrange",
+      "hermione.granger",
+      "theoden",
+      "lois.lane",
+      "george.weasley"
+    ],
     "cancelado": false,
     "organizador": "elrond",
     "fecha": "2026-11-03T23:30:00.000Z",
@@ -5743,9 +5766,20 @@
     ],
     "pendientes": [],
     "bajasSorteadas": true,
-    "asistencia": null,
-    "calificaran": [],
-    "calificaron": [],
+    "asistencia": {
+      "steve.rogers": true,
+      "john.wick": true,
+      "hector.barbossa": true,
+      "finn": true
+    },
+    "calificaran": [
+      "steve.rogers",
+      "finn"
+    ],
+    "calificaron": [
+      "steve.rogers",
+      "finn"
+    ],
     "cancelado": false,
     "organizador": "steve.rogers",
     "fecha": "2026-11-03T23:30:00.000Z",
@@ -5753,7 +5787,7 @@
     "cupo": 9,
     "creado": "2026-10-29T23:15:40.887Z",
     "pendientesHumanos": 0,
-    "anotados": 5
+    "anotados": 3
   },
   "cmvueh3i800it01o450ai9880": {
     "jugadores": [
@@ -5949,9 +5983,19 @@
     ],
     "pendientes": [],
     "bajasSorteadas": true,
-    "asistencia": null,
-    "calificaran": [],
-    "calificaron": [],
+    "asistencia": {
+      "mace.windu": true,
+      "cedric.diggory": true,
+      "anakin.skywalker": true
+    },
+    "calificaran": [
+      "mace.windu",
+      "cedric.diggory"
+    ],
+    "calificaron": [
+      "mace.windu",
+      "cedric.diggory"
+    ],
     "cancelado": false,
     "organizador": "mace.windu",
     "fecha": "2026-11-03T23:30:00.000Z",
@@ -6114,7 +6158,9 @@
     "cupo": 9,
     "creado": "2026-10-31T23:16:28.787Z",
     "pendientesHumanos": 0,
-    "anotados": 1
+    "anotados": 1,
+    "cancelSorteado": true,
+    "cancelar": false
   },
   "cmvxqfufy021e01o4zmewvmtl": {
     "jugadores": [
@@ -6153,7 +6199,7 @@
     "cupo": 9,
     "creado": "2026-11-01T15:15:38.032Z",
     "pendientesHumanos": 0,
-    "anotados": 2
+    "anotados": 3
   },
   "cmvxz2pfl023v01o4o3lm6pcn": {
     "jugadores": [
@@ -6175,7 +6221,9 @@
   },
   "cmvxz3l7v024w01o4ozogo04z": {
     "jugadores": [],
-    "pendientes": [],
+    "pendientes": [
+      "steve.rogers"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -6213,11 +6261,10 @@
   "cmvyg56oc029001o443lflyev": {
     "jugadores": [
       "buzz.lightyear",
-      "kylo.ren"
-    ],
-    "pendientes": [
+      "kylo.ren",
       "groot"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -6229,15 +6276,16 @@
     "cupo": 7,
     "creado": "2026-11-01T23:13:48.467Z",
     "pendientesHumanos": 0,
-    "anotados": 2
+    "anotados": 2,
+    "cancelSorteado": true,
+    "cancelar": false
   },
   "cmvyorfb4002001ohfolbhy83": {
     "jugadores": [
-      "ron.weasley"
-    ],
-    "pendientes": [
+      "ron.weasley",
       "jaime.lannister"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -6308,7 +6356,9 @@
     "cupo": 3,
     "creado": "2026-11-02T07:16:39.491Z",
     "pendientesHumanos": 0,
-    "anotados": 0
+    "anotados": 0,
+    "cancelSorteado": true,
+    "cancelar": false
   },
   "cmvz5x0uo008g01oh1wfr9xjz": {
     "jugadores": [
@@ -6383,7 +6433,9 @@
   },
   "cmw046j5n00mb01ohuo7l49am": {
     "jugadores": [],
-    "pendientes": [],
+    "pendientes": [
+      "theoden"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -6418,10 +6470,11 @@
       "hermione.granger",
       "neville.longbottom",
       "rocket",
-      "chewbacca"
+      "chewbacca",
+      "saul.goodman"
     ],
     "pendientes": [
-      "saul.goodman"
+      "george.weasley"
     ],
     "bajasSorteadas": false,
     "asistencia": null,
@@ -6434,7 +6487,7 @@
     "cupo": 9,
     "creado": "2026-11-03T07:15:10.853Z",
     "pendientesHumanos": 0,
-    "anotados": 2
+    "anotados": 4
   },
   "cmw0csmu900te01ohcybm6okl": {
     "jugadores": [],
@@ -6456,7 +6509,9 @@
     "jugadores": [
       "bruce.wayne"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "bellatrix.lestrange"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -6471,10 +6526,10 @@
     "anotados": 1
   },
   "cmw0ldzkj00ws01ohsa5m9xy0": {
-    "jugadores": [],
-    "pendientes": [
+    "jugadores": [
       "sam.gamyi"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -6489,10 +6544,10 @@
     "anotados": 0
   },
   "cmw12jwup012n01ohi3j2l7eu": {
-    "jugadores": [],
-    "pendientes": [
+    "jugadores": [
       "jesse.pinkman"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -6534,7 +6589,9 @@
     "fecha": "2026-11-08T13:00:00.000Z",
     "deporte": "BASQUET",
     "cupo": 7,
-    "creado": "2026-11-03T23:15:52.000Z"
+    "creado": "2026-11-03T23:15:52.000Z",
+    "pendientesHumanos": 0,
+    "anotados": 0
   },
   "cmw1b3wir017701ohy6lx48pr": {
     "jugadores": [],
@@ -6548,6 +6605,24 @@
     "fecha": "2026-11-07T23:00:00.000Z",
     "deporte": "BASQUET",
     "cupo": 7,
-    "creado": "2026-11-03T23:16:09.058Z"
+    "creado": "2026-11-03T23:16:09.058Z",
+    "pendientesHumanos": 0,
+    "anotados": 0
+  },
+  "cmw1jo8wc01a101oh256zkz8n": {
+    "jugadores": [],
+    "pendientes": [
+      "cedric.diggory"
+    ],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "mace.windu",
+    "fecha": "2026-11-06T23:30:00.000Z",
+    "deporte": "PADEL",
+    "cupo": 3,
+    "creado": "2026-11-04T03:15:55.175Z"
   }
 }

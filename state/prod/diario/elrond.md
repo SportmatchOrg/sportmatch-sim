@@ -123,3 +123,4 @@
 - 2026-11-02 08:14 · aceptó a Selina Kyle en su fútbol
 - 2026-11-02 20:14 · calificó el fútbol (Selina y Obi-Wan)
 - 2026-11-03 00:14 · aceptó a Selina en su fútbol y armó uno el jueves 20:30 en Nordelta
+- 2026-11-04 00:15 · calificó el fútbol (Hermione, Lois y George)

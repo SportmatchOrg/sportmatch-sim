@@ -86,3 +86,4 @@
 - 2026-11-03 04:15 · aceptó a Bart y armó un fútbol INTERMEDIATE el viernes 6 a las 21 en Club Pilar
 - 2026-11-03 12:14 · aceptó a Hermione y a Neville en su fútbol; nada más
 - 2026-11-03 20:15 · aceptó a Rocket y a Chewbacca en su fútbol del viernes
+- 2026-11-04 00:16 · calificó el fútbol y aceptó a Saul Goodman en su fútbol del viernes

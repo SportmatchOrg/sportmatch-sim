@@ -5,3 +5,4 @@
 - 2026-11-01 20:13 · armó un básquet el miércoles 4 a las 20:30 en Campus Austral
 - 2026-11-02 20:14 · aceptó a Buzz en su básquet y se anotó al básquet del jueves en Campus Austral
 - 2026-11-03 04:15 · aceptó a Kylo Ren en su básquet del miércoles
+- 2026-11-04 00:17 · aceptó a Groot en su básquet del miércoles en Campus Austral
