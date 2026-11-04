@@ -1,1 +1,2 @@
 - 2026-11-02 16:13 · armó un pádel del miércoles 21:00 en Pádel Point Pilar (juega de noche)
+- 2026-11-04 08:12 · leyó el recordatorio de su pádel; solo miró

@@ -22,3 +22,4 @@
 - 2026-11-02 00:12 · se unió al running del sábado 7/11 9:00 en Parque Pilar (fin de semana a la mañana)
 - 2026-11-02 08:13 · entró a mirar; le aceptaron en un partido, no se anotó a nada más
 - 2026-11-02 20:12 · miró partidos de running; ya está anotado al del sábado, no sumó nada
+- 2026-11-04 08:13 · miró running; ya tiene el del sábado, nada más que le cierre

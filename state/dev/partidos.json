@@ -6753,7 +6753,7 @@
     "cupo": 7,
     "creado": "2026-11-02T11:13:14.276Z",
     "pendientesHumanos": 0,
-    "anotados": 2
+    "anotados": 3
   },
   "cmvzedg9200ec01plsb470okl": {
     "jugadores": [
@@ -6810,7 +6810,7 @@
     "cupo": 9,
     "creado": "2026-11-02T23:12:15.580Z",
     "pendientesHumanos": 0,
-    "anotados": 1
+    "anotados": 3
   },
   "cmw042jre01l801pllsax7bji": {
     "jugadores": [],
@@ -6945,10 +6945,11 @@
   "cmw0tuavd023t01plykzy5x0l": {
     "jugadores": [
       "groot",
-      "timon"
+      "timon",
+      "phoebe.buffay"
     ],
     "pendientes": [
-      "phoebe.buffay"
+      "ron.weasley"
     ],
     "bajasSorteadas": false,
     "asistencia": null,
@@ -6961,14 +6962,16 @@
     "cupo": 7,
     "creado": "2026-11-03T15:12:47.658Z",
     "pendientesHumanos": 0,
-    "anotados": 1
+    "anotados": 2
   },
   "cmw0tuce0023w01plsi7obxb0": {
     "jugadores": [
       "phoebe.buffay",
       "marty.mcfly"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "george.weasley"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -6980,7 +6983,7 @@
     "cupo": 9,
     "creado": "2026-11-03T15:12:49.620Z",
     "pendientesHumanos": 0,
-    "anotados": 0
+    "anotados": 2
   },
   "cmw0tugsc024301pljuqwqtw7": {
     "jugadores": [],
@@ -7017,11 +7020,11 @@
     "anotados": 1
   },
   "cmw1jjutq02mt01pl7mxj7suq": {
-    "jugadores": [],
-    "pendientes": [
+    "jugadores": [
       "timon",
       "bart.simpson"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -7051,7 +7054,7 @@
     "cupo": 9,
     "creado": "2026-11-04T03:13:02.378Z",
     "pendientesHumanos": 0,
-    "anotados": 0
+    "anotados": 1
   },
   "cfx3iwafuza6ubid9pkjaneuq": {
     "jugadores": [],
@@ -7097,6 +7100,23 @@
     "fecha": "2026-11-08T23:00:00.000Z",
     "deporte": "BASQUET",
     "cupo": 7,
-    "creado": "2026-11-04T07:12:29.639Z"
+    "creado": "2026-11-04T07:12:29.639Z",
+    "pendientesHumanos": 0,
+    "anotados": 0
+  },
+  "ci1d1d0t1gdtna0v2w3jpovbj": {
+    "jugadores": [],
+    "pendientes": [
+      "cedric.diggory"
+    ],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "humano:cwzk71t1xcyyr5ca2mjlnl2vo",
+    "fecha": "2026-12-17T22:00:00.000Z",
+    "deporte": "PADEL",
+    "cupo": 3
   }
 }

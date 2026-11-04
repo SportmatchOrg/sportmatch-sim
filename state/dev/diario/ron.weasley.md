@@ -25,3 +25,4 @@
 - 2026-10-25 12:11 · calificó el básquet (5 y 4); nada antes de las 9 que le encaje
 - 2026-10-25 20:11 · miró básquet y tenis en el norte, nada temprano; no se anotó
 - 2026-10-28 08:12 · miró básquet y tenis, nada temprano; no se anotó
+- 2026-11-04 08:12 · pidió unirse al básquet del sábado 7/11 07:30 de Nelson en Del Viso (madruga)

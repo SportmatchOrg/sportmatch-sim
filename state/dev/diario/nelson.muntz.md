@@ -7,3 +7,4 @@
 - 2026-11-03 12:13 · armó un básquet del sábado 7/11 07:30 en Del Viso (antes de las 9)
 - 2026-11-03 20:12 · aceptó a Groot en su básquet del sábado temprano
 - 2026-11-04 04:12 · aceptó a Timón en su básquet del sábado temprano; no hay otro antes de las 9, no se anotó a nada
+- 2026-11-04 08:12 · aceptó a Phoebe en su básquet del sábado temprano; nada antes de las 9, no se anotó
