@@ -1,0 +1,1 @@
+- 2026-11-05 12:12 · entró a mirar, no se anotó a nada

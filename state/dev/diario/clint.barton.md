@@ -3,3 +3,4 @@
 - 2026-10-30 20:13 · aceptó a Chewbacca en su pádel del domingo
 - 2026-11-01 12:14 · calificó el pádel (Chewbacca 4, Krusty 5); leyó el recordatorio, solo miró
 - 2026-11-05 04:12 · armó un pádel BEGINNER del sábado 7/11 09:30 en Pádel Point Pilar
+- 2026-11-05 12:12 · aceptó a Arya en su pádel del sábado

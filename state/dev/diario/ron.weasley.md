@@ -26,3 +26,4 @@
 - 2026-10-25 20:11 · miró básquet y tenis en el norte, nada temprano; no se anotó
 - 2026-10-28 08:12 · miró básquet y tenis, nada temprano; no se anotó
 - 2026-11-04 08:12 · pidió unirse al básquet del sábado 7/11 07:30 de Nelson en Del Viso (madruga)
+- 2026-11-05 12:12 · leyó que aceptaron a Nelson; no encontró nada a la mañana, solo miró

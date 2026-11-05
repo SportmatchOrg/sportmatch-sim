@@ -6664,11 +6664,10 @@
       "marty.mcfly",
       "fred.weasley",
       "george.weasley",
-      "phoebe.buffay"
-    ],
-    "pendientes": [
+      "phoebe.buffay",
       "clark.kent"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -6951,7 +6950,7 @@
     "cupo": 3,
     "creado": "2026-11-03T11:11:39.214Z",
     "pendientesHumanos": 0,
-    "anotados": 0
+    "anotados": 1
   },
   "cmw0tu7x1023o01pliotwjobw": {
     "jugadores": [
@@ -7153,11 +7152,10 @@
   },
   "cmw2qexv5039n01plxdq183de": {
     "jugadores": [
-      "george.weasley"
-    ],
-    "pendientes": [
+      "george.weasley",
       "pippin.tuk"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -7172,10 +7170,10 @@
     "anotados": 1
   },
   "cmw2yyx52005b01rpo3yw8mt3": {
-    "jugadores": [],
-    "pendientes": [
+    "jugadores": [
       "george.weasley"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -7206,10 +7204,10 @@
     "anotados": 0
   },
   "cmw37juw6009d01rpnjdxh1ua": {
-    "jugadores": [],
-    "pendientes": [
+    "jugadores": [
       "arya.stark"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -7225,7 +7223,9 @@
   },
   "cmw3g4viy00cy01rpz2noad2d": {
     "jugadores": [],
-    "pendientes": [],
+    "pendientes": [
+      "george.weasley"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -7235,7 +7235,9 @@
     "fecha": "2026-11-10T00:00:00.000Z",
     "deporte": "FUTBOL",
     "cupo": 9,
-    "creado": "2026-11-05T11:12:24.987Z"
+    "creado": "2026-11-05T11:12:24.987Z",
+    "pendientesHumanos": 0,
+    "anotados": 0
   },
   "cdi8oiyb7nlycfbx08h2jevy7": {
     "jugadores": [],
@@ -7250,6 +7252,7 @@
     "organizador": "humano:cip72xs4v7toviyanb7art6qw",
     "fecha": "2026-11-21T02:00:00.000Z",
     "deporte": "BASQUET",
-    "cupo": 5
+    "cupo": 5,
+    "anotados": 2
   }
 }
