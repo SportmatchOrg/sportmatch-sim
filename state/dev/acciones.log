@@ -2615,3 +2615,26 @@
 2026-11-05T19:12:59.098Z krusty unirse cmw044jr801oj01pljjsr9k5a
 2026-11-05T19:13:06.711Z quigon.jinn crear cmw3xb21p00ln01rpaboxga1i PADEL 2026-11-07T13:00:00.000Z
 2026-11-05T19:13:13.686Z molly.weasley crear cmw3xb7fa00lr01rpohftjs2q RUNNING 2026-11-08T12:00:00.000Z
+2026-11-05T23:10:32.143Z chewbacca baja-tarde cmvvtsto2015401qi24lbo4zk
+2026-11-05T23:10:40.063Z sorteo cmvyong3o004001pl0lm6l8kq faltaron=[] calificaran=[albus.dumbledore]
+2026-11-05T23:10:45.375Z sorteo cmvz5udn200b901plqqdznvsd faltaron=[timon] calificaran=[marty.mcfly,gato.con.botas]
+2026-11-05T23:10:46.070Z sorteo cmvzedg9200ec01plsb470okl faltaron=[] calificaran=[fiona]
+2026-11-05T23:10:50.499Z sorteo cmw0cnym401v201pl0rgx5nua faltaron=[] calificaran=[elrond]
+2026-11-05T23:10:56.476Z sorteo cmw0tugsc024301pljuqwqtw7 faltaron=[] calificaran=[carol.danvers]
+2026-11-05T23:11:23.672Z albus.dumbledore leer-notificaciones 1
+2026-11-05T23:11:31.696Z marty.mcfly calificar cmvz5udn200b901plqqdznvsd ratings=2 noShows=1
+2026-11-05T23:11:52.637Z marty.mcfly unirse cmw2qexv5039n01plxdq183de
+2026-11-05T23:11:54.684Z george.weasley leer-notificaciones 1
+2026-11-05T23:12:13.134Z timon leer-notificaciones 1
+2026-11-05T23:12:36.769Z indiana.jones leer-notificaciones 2
+2026-11-05T23:12:41.221Z indiana.jones aceptar cmw044jr801oj01pljjsr9k5a krusty
+2026-11-05T23:12:43.082Z ned.flanders leer-notificaciones 1
+2026-11-05T23:12:46.294Z ned.flanders cancelar cmw0tu7x1023o01pliotwjobw
+2026-11-05T23:12:48.148Z nelson.muntz leer-notificaciones 1
+2026-11-05T23:12:52.407Z nelson.muntz aceptar cmw0tuavd023t01plykzy5x0l cmv77wvw6006a01qgtqtmr9qq
+2026-11-05T23:13:01.305Z fiona calificar cmvzedg9200ec01plsb470okl ratings=3 noShows=0
+2026-11-05T23:13:03.320Z clint.barton leer-notificaciones 1
+2026-11-05T23:13:08.419Z clint.barton aceptar cmw37juw6009d01rpnjdxh1ua sherlock.holmes
+2026-11-05T23:13:10.490Z gato.con.botas leer-notificaciones 1
+2026-11-05T23:13:15.498Z gato.con.botas calificar cmvz5udn200b901plqqdznvsd ratings=2 noShows=1
+2026-11-05T23:13:17.952Z carol.danvers leer-notificaciones 1

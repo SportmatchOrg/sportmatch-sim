@@ -24,3 +24,4 @@
 - 2026-11-03 12:13 · aceptó a Draco en su básquet; no se unió a nada (nada BEGINNER en su zona y ya tiene el del jueves)
 - 2026-11-03 20:12 · calificó el básquet (4–5); nada más
 - 2026-11-04 20:13 · aceptó a Timón en su básquet del jueves; nada más
+- 2026-11-05 20:13 · calificó el básquet (5, 5 y 4); hoy no se unió a nada
