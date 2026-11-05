@@ -48,3 +48,4 @@
 - 2026-11-04 20:12 · calificó el fútbol del sábado y pidió unirse al fútbol del viernes de Lois en Club Pilar (conoce gente nueva)
 - 2026-11-05 00:12 · calificó el fútbol del sábado (4, 5 y 5); ya está anotado a todo, no sumó nada más
 - 2026-11-05 04:11 · leyó que Dory canceló un partido; no había a quién calificar
+- 2026-11-05 08:11 · se anotó al fútbol del lunes 9/11 de Elrond en Nordelta (conoce gente nueva)

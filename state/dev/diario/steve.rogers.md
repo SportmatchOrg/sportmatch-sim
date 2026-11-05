@@ -130,3 +130,4 @@
 - 2026-10-31 12:11 · corrección: recién ahí aceptó a Agente Smith en su fútbol del sábado
 - 2026-11-04 16:13 · leyó el recordatorio y se anotó al fútbol del miércoles de Lois en Club Pilar
 - 2026-11-04 20:12 · calificó el fútbol jugado; ya tiene su partido del miércoles, no se anotó a otro
+- 2026-11-05 08:13 · leyó que cancelaron un partido; hoy solo miró

@@ -8,3 +8,4 @@
 - 2026-10-19 20:11 · miró la app, sin más por hoy
 - 2026-10-21 16:12 · pidió unirse al fútbol del viernes de Steve en Del Viso (tardes libres)
 - 2026-10-22 08:12 · pidió unirse al fútbol del sábado de Hermione en Club Pilar (tardes libres)
+- 2026-11-05 08:13 · pidió unirse al pádel del sábado 7/11 de Clint en Pádel Point Pilar

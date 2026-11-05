@@ -1,1 +1,2 @@
 - 2026-11-03 04:13 · primera vez en la app: miró partidos y se fue
+- 2026-11-05 08:13 · leyó notificaciones; hoy solo miró

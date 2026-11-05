@@ -11,3 +11,4 @@
 - 2026-10-26 04:12 · miró partidos; ya estaba anotado al básquet del jueves en Belgrano
 - 2026-10-31 20:13 · miró partidos de básquet, hoy no se anotó a nada
 - 2026-11-02 04:13 · pidió unirse al básquet del mar 3/11 en el Polideportivo Municipal CABA (competitivo)
+- 2026-11-05 08:13 · pidió unirse al básquet del vie 20/11 en Polideportivo Municipal CABA (competitivo)
