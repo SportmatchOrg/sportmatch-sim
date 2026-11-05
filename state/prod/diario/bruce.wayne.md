@@ -12,3 +12,4 @@
 - 2026-11-02 04:16 · pidió unirse al pádel BEGINNER del jueves en Club Belgrano
 - 2026-11-02 16:15 · pidió unirse al pádel del miércoles en Club Belgrano de Monica
 - 2026-11-03 08:16 · pidió unirse al pádel BEGINNER del sábado 7 de Sam en Club Belgrano (vuelve de a poco)
+- 2026-11-05 00:15 · calificó el pádel (4 y 5); no encontró otro pádel que le encaje

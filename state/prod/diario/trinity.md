@@ -1,3 +1,4 @@
 - 2026-10-30 04:14 · primeros pasos en la app: entró a mirar partidos de fútbol, no se anotó
 - 2026-10-30 08:15 · se anotó al fútbol del lunes en Club Pilar
 - 2026-11-02 08:15 · se anotó al fútbol del miércoles en Club Pilar (se anota a todo)
+- 2026-11-05 00:17 · calificó el fútbol (4 y 5) y pidió unirse al de Lois del sábado en Club Pilar

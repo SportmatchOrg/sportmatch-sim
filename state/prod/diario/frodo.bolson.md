@@ -25,3 +25,4 @@
 - 2026-11-03 16:16 · entró, leyó notificaciones y solo miró; sigue esperando que se llene su básquet del viernes
 - 2026-11-04 04:15 · armó un básquet INTERMEDIATE el domingo 8 a las 19 en Campus Austral
 - 2026-11-04 16:16 · aceptó a Tomás en sus dos básquet
+- 2026-11-05 00:15 · aceptó a Gato con Botas en su básquet del viernes

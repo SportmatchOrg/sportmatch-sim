@@ -98,3 +98,4 @@
 - 2026-11-04 16:15 · aceptó a Bruce Wayne en su partido
 - 2026-11-04 16:16 · (corrección) el partido estaba lleno: no pudo aceptar a Bruce Wayne
 - 2026-11-04 20:15 · intentó aceptar a Bruce de nuevo; sin cupo, y nada de CABA le encajó
+- 2026-11-05 00:15 · pidió unirse al fútbol BEGINNER del sábado en River Courts (principiante entusiasta); su partido sigue lleno

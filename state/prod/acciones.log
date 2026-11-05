@@ -2412,3 +2412,59 @@
 2026-11-04T23:16:19.602Z gato.con.botas calificar cmvy7lvbd027601o48ohi3l6s ratings=3 noShows=1
 2026-11-04T23:16:21.369Z gato.con.botas unirse cmw04847b00oc01oh0guolvlf
 2026-11-04T23:16:23.980Z john.wick leer-notificaciones 1
+2026-11-05T03:13:54.374Z sorteo cmvvtwetu016a01o46qkj5wow faltaron=[] calificaran=[lois.lane,george.weasley,krusty,neville.longbottom,trinity,bart.simpson]
+2026-11-05T03:13:59.065Z sorteo cmvx0srlo01ti01o4yc8851aq faltaron=[] calificaran=[gandalf,lois.lane,pippin.tuk]
+2026-11-05T03:14:04.600Z sorteo cmvyg56oc029001o443lflyev faltaron=[] calificaran=[buzz.lightyear,bart.simpson]
+2026-11-05T03:14:07.514Z sorteo cmvyos0ds002h01ohn42v1r61 faltaron=[fred.weasley] calificaran=[dory,rocket,sirius.black,krusty,arthur.curry,shrek]
+2026-11-05T03:14:08.151Z sorteo cmvyxe4vf005x01ohw93pnald faltaron=[] calificaran=[jessie]
+2026-11-05T03:14:09.957Z sorteo cmvz5xvi8009d01oh06tx90sj faltaron=[] calificaran=[bruce.wayne,arwen]
+2026-11-05T03:14:35.233Z pippin.tuk leer-notificaciones 1
+2026-11-05T03:14:39.685Z pippin.tuk calificar cmvx0srlo01ti01o4yc8851aq ratings=3 noShows=0
+2026-11-05T03:14:43.423Z elrond leer-notificaciones 2
+2026-11-05T03:14:48.800Z elrond aceptar cmw046j5n00mb01ohuo7l49am dory
+2026-11-05T03:14:50.681Z elrond aceptar cmw2hxfaw01wk01ohbmkvx91x selina.kyle
+2026-11-05T03:15:08.995Z sam.gamyi unirse cmw1s8gai01gi01ohxk19o7c3
+2026-11-05T03:15:12.863Z sirius.black leer-notificaciones 1
+2026-11-05T03:15:18.312Z sirius.black calificar cmvyos0ds002h01ohn42v1r61 ratings=3 noShows=1
+2026-11-05T03:15:20.316Z lois.lane leer-notificaciones 6
+2026-11-05T03:15:27.844Z lois.lane calificar cmvvtwetu016a01o46qkj5wow ratings=3 noShows=0
+2026-11-05T03:15:29.739Z lois.lane calificar cmvx0srlo01ti01o4yc8851aq ratings=3 noShows=0
+2026-11-05T03:15:31.651Z lois.lane crear cmw2z3le202a101oh6uf9eqfi FUTBOL 2026-11-07T23:00:00.000Z
+2026-11-05T03:15:35.889Z frodo.bolson leer-notificaciones 3
+2026-11-05T03:15:40.808Z frodo.bolson aceptar cmw04847b00oc01oh0guolvlf gato.con.botas
+2026-11-05T03:15:42.952Z bruce.wayne leer-notificaciones 1
+2026-11-05T03:15:50.007Z bruce.wayne calificar cmvz5xvi8009d01oh06tx90sj ratings=2 noShows=0
+2026-11-05T03:15:52.164Z george.weasley leer-notificaciones 1
+2026-11-05T03:15:58.550Z george.weasley calificar cmvvtwetu016a01o46qkj5wow ratings=3 noShows=0
+2026-11-05T03:16:00.432Z george.weasley unirse cmw2z3le202a101oh6uf9eqfi
+2026-11-05T03:16:06.192Z dory leer-notificaciones 1
+2026-11-05T03:16:14.344Z dory calificar cmvyos0ds002h01ohn42v1r61 ratings=3 noShows=1
+2026-11-05T03:16:16.264Z dory crear cmw2z4jtz02b901oh7k96imfp FUTBOL 2026-11-08T13:00:00.000Z
+2026-11-05T03:16:20.094Z neville.longbottom leer-notificaciones 1
+2026-11-05T03:16:25.326Z neville.longbottom calificar cmvvtwetu016a01o46qkj5wow ratings=3 noShows=0
+2026-11-05T03:16:27.542Z buzz.lightyear leer-notificaciones 1
+2026-11-05T03:16:32.935Z buzz.lightyear calificar cmvyg56oc029001o443lflyev ratings=3 noShows=0
+2026-11-05T03:16:34.865Z buzz.lightyear unirse cmw1b3wir017701ohy6lx48pr
+2026-11-05T03:16:38.320Z bart.simpson leer-notificaciones 3
+2026-11-05T03:16:44.848Z bart.simpson calificar cmvvtwetu016a01o46qkj5wow ratings=3 noShows=0
+2026-11-05T03:16:46.697Z bart.simpson calificar cmvyg56oc029001o443lflyev ratings=3 noShows=0
+2026-11-05T03:16:48.718Z bart.simpson unirse cmw1b3wir017701ohy6lx48pr
+2026-11-05T03:16:52.746Z krusty leer-notificaciones 1
+2026-11-05T03:16:59.669Z krusty calificar cmvvtwetu016a01o46qkj5wow ratings=3 noShows=0
+2026-11-05T03:17:01.562Z krusty calificar cmvyos0ds002h01ohn42v1r61 ratings=3 noShows=1
+2026-11-05T03:17:03.878Z krusty unirse cmw2z4jtz02b901oh7k96imfp
+2026-11-05T03:17:07.486Z gandalf leer-notificaciones 4
+2026-11-05T03:17:12.942Z gandalf calificar cmvx0srlo01ti01o4yc8851aq ratings=3 noShows=0
+2026-11-05T03:17:15.041Z jessie leer-notificaciones 1
+2026-11-05T03:17:20.532Z jessie calificar cmvyxe4vf005x01ohw93pnald ratings=1 noShows=0
+2026-11-05T03:17:26.734Z jessie crear cmw2z628902dd01ohxez60smr TENIS 2026-11-07T00:00:00.000Z
+2026-11-05T03:17:30.697Z trinity leer-notificaciones 1
+2026-11-05T03:17:39.014Z trinity calificar cmvvtwetu016a01o46qkj5wow ratings=3 noShows=0
+2026-11-05T03:17:41.202Z trinity unirse cmw2z3le202a101oh6uf9eqfi
+2026-11-05T03:17:43.327Z arthur.curry leer-notificaciones 1
+2026-11-05T03:17:46.297Z shrek leer-notificaciones 1
+2026-11-05T03:17:54.839Z arthur.curry calificar cmvyos0ds002h01ohn42v1r61 ratings=2 noShows=1
+2026-11-05T03:17:56.874Z shrek calificar cmvyos0ds002h01ohn42v1r61 ratings=2 noShows=1
+2026-11-05T03:17:58.920Z rocket calificar cmvyos0ds002h01ohn42v1r61 ratings=3 noShows=1
+2026-11-05T03:18:02.737Z arwen leer-notificaciones 1
+2026-11-05T03:18:07.355Z arwen calificar cmvz5xvi8009d01oh06tx90sj ratings=2 noShows=0

@@ -3,3 +3,6 @@
 - 2026-11-02 04:16 · (corrección) lo anterior era un singles que no salió; en realidad armó tenis dobles INTERMEDIATE el miércoles 4 a las 20:30 en Club Pilar
 - 2026-11-04 16:17 · aceptó a Tomás en su tenis y pidió unirse al tenis del sábado en Club Pilar
 - 2026-11-04 16:18 · (corrección) el tenis del sábado estaba lleno: no pudo pedir unirse
+- 2026-11-05 00:17 · calificó el tenis (5) y armó singles el viernes 21:00 en Club Pilar
+- 2026-11-05 00:17 · (corrección) el singles no se pudo crear (cupo mínimo 2); si salió el de dobles se ve arriba
+- 2026-11-05 00:17 · (corrección) armó dobles el viernes 21:00 en Club Pilar (cupo 3)

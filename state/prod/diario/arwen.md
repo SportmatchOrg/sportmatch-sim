@@ -1,2 +1,3 @@
 - 2026-11-02 04:15 · primera vez en la app: pidió unirse al pádel BEGINNER del jueves en Club Belgrano
 - 2026-11-02 20:15 · leyó que Sam la aceptó y pidió unirse al pádel del miércoles en Club Belgrano
+- 2026-11-05 00:18 · calificó el pádel (4 y 5); solo miró

@@ -71,3 +71,4 @@
 - 2026-11-02 12:15 · leyó que Dory aceptó su pedido para el fútbol del jueves; solo miró
 - 2026-11-02 16:15 · entró y solo miró; ya está anotado al fútbol del jueves en Pilar
 - 2026-11-04 08:15 · pidió unirse al fútbol del miércoles de Gandalf en Club Pilar
+- 2026-11-05 00:14 · calificó el fútbol con notas duras (2 y 3); solo miró

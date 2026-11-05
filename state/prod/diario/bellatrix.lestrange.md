@@ -114,3 +114,4 @@
 - 2026-11-04 16:15 · (corrección) el partido estaba lleno: solo aceptó a Merry; Tomás quedó sin cupo
 - 2026-11-04 20:15 · aceptó a Tomás en su partido; no vio nada nuevo en CABA para anotarse
 - 2026-11-04 20:15 · (corrección) el partido estaba lleno: no pudo aceptar a Tomás
+- 2026-11-05 00:14 · intentó aceptar a Tomás (humano) en su partido

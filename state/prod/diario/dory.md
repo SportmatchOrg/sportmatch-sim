@@ -48,3 +48,4 @@
 - 2026-11-04 16:17 · (corrección) solo pudo aceptar a Tomás en el fútbol del miércoles; el otro partido estaba lleno
 - 2026-11-04 20:15 · aceptó a Tomás y se anotó al fútbol del jueves en Nordelta (le gusta conocer gente)
 - 2026-11-04 20:16 · (corrección) el fútbol estaba lleno: no pudo aceptar a Tomás
+- 2026-11-05 00:16 · calificó el fútbol (4 y 5) y armó uno el domingo 10:00 en Club Pilar; su otro partido está lleno
