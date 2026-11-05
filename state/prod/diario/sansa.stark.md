@@ -1,1 +1,2 @@
 - 2026-11-02 20:15 · primera vez: entró y solo miró
+- 2026-11-05 20:16 · pidió unirse al básquet ADVANCED del domingo en Campus Austral (exigente con el nivel)

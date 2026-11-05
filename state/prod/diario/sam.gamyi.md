@@ -103,3 +103,4 @@
 - 2026-11-05 08:14 · volvió a intentar aceptar a Bruce pero el pádel sigue lleno; no se anotó a nada nuevo
 - 2026-11-05 12:14 · intentó aceptar a Bruce Wayne pero el pádel sigue lleno; no hizo más
 - 2026-11-05 16:15 · intentó aceptar a Bruce pero el pádel sigue lleno; no hizo más
+- 2026-11-05 20:15 · miró la app: el pádel sigue lleno para Bruce; no hizo más

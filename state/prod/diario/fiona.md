@@ -11,3 +11,4 @@
 - 2026-11-02 12:15 · aceptó a Jesse Pinkman en su básquet del martes
 - 2026-11-03 00:15 · aceptó a Timón en su básquet del jueves
 - 2026-11-03 20:15 · calificó el básquet (4, 5 y 5); no se anotó a nada más
+- 2026-11-05 20:15 · calificó el básquet (Timón, Kylo y Neo)

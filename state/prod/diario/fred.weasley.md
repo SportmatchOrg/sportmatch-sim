@@ -42,3 +42,4 @@
 - 2026-10-29 08:14 · pidió unirse al fútbol del viernes de Mace Windu en Nordelta (se suma a todo)
 - 2026-10-30 04:14 · se anotó al running del domingo en Campus Austral (ya tenía fútbol y running armados)
 - 2026-11-04 04:15 · pidió unirse al fútbol del miércoles de Dory en Club Pilar (se suma a todo)
+- 2026-11-05 20:16 · leyó notificaciones (lo aceptó Dory); solo miró

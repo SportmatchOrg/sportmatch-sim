@@ -32,3 +32,4 @@
 - 2026-11-04 20:16 · aceptó a Bruce Banner en su fútbol del sábado; nada de CABA para anotarse
 - 2026-11-05 04:15 · aceptó a Sam y a Bellatrix en su fútbol del sábado
 - 2026-11-05 08:15 · aceptó a Sam en su tenis del jueves; miró partidos y nada de CABA le encajó
+- 2026-11-05 20:15 · calificó el tenis (Sam y Tomás) y armó un dobles BEGINNER el lunes 9 a las 20 en River Courts

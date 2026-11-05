@@ -119,3 +119,4 @@
 - 2026-11-05 08:14 · intentó aceptar a Tomás otra vez pero el partido sigue lleno; no hizo más
 - 2026-11-05 12:14 · miró la app: Tomás sigue sin cupo en su partido lleno y no encontró pádel ni fútbol en CABA para anotarse
 - 2026-11-05 16:15 · intentó aceptar a Tomás pero su partido sigue lleno; nada nuevo de CABA para anotarse
+- 2026-11-05 20:14 · miró la app: su partido sigue lleno para Tomás y no hay fútbol ni pádel en CABA para anotarse
