@@ -29,3 +29,4 @@
 - 2026-10-25 20:11 · miró la app, sin novedades
 - 2026-11-03 16:14 · leyó notificaciones; nada nuevo, solo miró
 - 2026-11-05 08:12 · armó un fútbol ADVANCED del lunes 9/11 21:00 en Club Pilar
+- 2026-11-05 16:11 · aceptó a George Weasley en su fútbol ADVANCED

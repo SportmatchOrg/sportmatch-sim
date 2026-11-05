@@ -11,3 +11,4 @@
 - 2026-10-31 16:11 · aceptó a Bellatrix y a Sam en su pádel del lunes
 - 2026-11-02 08:13 · solo leyó notificaciones
 - 2026-11-03 00:11 · calificó el pádel (4 y 5)
+- 2026-11-05 16:12 · miró la app, sin novedades

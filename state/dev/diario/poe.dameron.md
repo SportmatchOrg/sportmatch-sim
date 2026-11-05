@@ -1,0 +1,1 @@
+- 2026-11-05 16:12 · primer día en la app: miró partidos, sin anotarse todavía
