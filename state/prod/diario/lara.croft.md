@@ -3,3 +3,4 @@
 - 2026-11-02 12:15 · aceptó a Ron Weasley en su tenis; los otros horarios no le sirven (madruga), no se anotó
 - 2026-11-02 20:15 · entró, leyó notificaciones y solo miró
 - 2026-11-04 00:17 · aceptó a Jaime Lannister en su tenis del viernes 8 h; no hay otro tenis temprano, no se anotó
+- 2026-11-05 12:14 · entró, leyó notificaciones y solo miró (no hay tenis temprano)

@@ -101,3 +101,4 @@
 - 2026-11-05 00:15 · pidió unirse al fútbol BEGINNER del sábado en River Courts (principiante entusiasta); su partido sigue lleno
 - 2026-11-05 04:14 · pidió unirse al tenis BEGINNER del jueves en River Courts; el pádel de Bruce sigue lleno
 - 2026-11-05 08:14 · volvió a intentar aceptar a Bruce pero el pádel sigue lleno; no se anotó a nada nuevo
+- 2026-11-05 12:14 · intentó aceptar a Bruce Wayne pero el pádel sigue lleno; no hizo más

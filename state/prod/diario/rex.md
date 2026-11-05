@@ -5,3 +5,4 @@
 - 2026-10-17 20:14 · pidió unirse al fútbol BEGINNER del miércoles en River Courts (recién empieza)
 - 2026-10-20 00:15 · calificó el básquet generoso; no se anotó a nada más
 - 2026-10-23 16:14 · pidió unirse al fútbol BEGINNER del sábado a la noche en Complejo Del Este (recién empieza)
+- 2026-11-05 12:15 · entró, leyó notificaciones y solo miró

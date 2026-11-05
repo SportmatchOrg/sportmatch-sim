@@ -6460,7 +6460,9 @@
       "steve.rogers",
       "barney.gumble"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "bart.simpson"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -6543,7 +6545,7 @@
     "cupo": 3,
     "creado": "2026-11-02T23:14:50.965Z",
     "pendientesHumanos": 0,
-    "anotados": 1
+    "anotados": 2
   },
   "cmw046j5n00mb01ohuo7l49am": {
     "jugadores": [
@@ -6792,7 +6794,9 @@
     "jugadores": [
       "marty.mcfly"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "jesse.pinkman"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -6804,7 +6808,7 @@
     "cupo": 9,
     "creado": "2026-11-04T11:16:05.294Z",
     "pendientesHumanos": 0,
-    "anotados": 2
+    "anotados": 3
   },
   "cmw20ubjf01jt01ohlh6wrqqr": {
     "jugadores": [
@@ -6880,12 +6884,11 @@
     "jugadores": [
       "george.weasley",
       "trinity",
-      "pumba"
-    ],
-    "pendientes": [
+      "pumba",
       "dory",
       "chewbacca"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -6897,15 +6900,16 @@
     "cupo": 9,
     "creado": "2026-11-05T03:15:31.648Z",
     "pendientesHumanos": 0,
-    "anotados": 2
+    "anotados": 3
   },
   "cmw2z4jtz02b901oh7k96imfp": {
     "jugadores": [
       "krusty",
-      "george.weasley"
+      "george.weasley",
+      "pippin.tuk"
     ],
     "pendientes": [
-      "pippin.tuk"
+      "lois.lane"
     ],
     "bajasSorteadas": false,
     "asistencia": null,
@@ -6918,7 +6922,7 @@
     "cupo": 9,
     "creado": "2026-11-05T03:16:16.257Z",
     "pendientesHumanos": 0,
-    "anotados": 1
+    "anotados": 2
   },
   "cmw2z628902dd01ohxez60smr": {
     "jugadores": [],
@@ -6948,6 +6952,22 @@
     "fecha": "2026-11-07T12:00:00.000Z",
     "deporte": "RUNNING",
     "cupo": 5,
-    "creado": "2026-11-05T11:16:03.836Z"
+    "creado": "2026-11-05T11:16:03.836Z",
+    "pendientesHumanos": 0,
+    "anotados": 0
+  },
+  "cmw3osq0h02pa01ohwx3lg0t3": {
+    "jugadores": [],
+    "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "george.weasley",
+    "fecha": "2026-11-09T23:30:00.000Z",
+    "deporte": "FUTBOL",
+    "cupo": 9,
+    "creado": "2026-11-05T15:14:54.397Z"
   }
 }
