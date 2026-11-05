@@ -52,3 +52,4 @@
 - 2026-11-05 04:15 · aceptó a Krusty en su fútbol del domingo; el otro partido sigue lleno
 - 2026-11-05 08:15 · aceptó a George en su fútbol del domingo y pidió unirse al fútbol del sábado de Lois en Club Pilar; el otro partido sigue lleno
 - 2026-11-05 12:14 · aceptó a Pippin en su fútbol del domingo; el otro partido sigue lleno para Tomás
+- 2026-11-05 16:15 · aceptó a Tomás y a Lois en sus fútbol (le gusta conocer gente)

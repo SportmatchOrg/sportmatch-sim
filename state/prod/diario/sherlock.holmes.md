@@ -1,1 +1,2 @@
 - 2026-10-31 16:15 · entró y solo miró
+- 2026-11-05 16:15 · pidió unirse al fútbol del jueves en Fútbol 5 Nordelta (vuelve de a poco, nivel intermedio)

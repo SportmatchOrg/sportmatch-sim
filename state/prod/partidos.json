@@ -6458,11 +6458,10 @@
   "cmvz5x0uo008g01oh1wfr9xjz": {
     "jugadores": [
       "steve.rogers",
-      "barney.gumble"
-    ],
-    "pendientes": [
+      "barney.gumble",
       "bart.simpson"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -6552,7 +6551,9 @@
       "theoden",
       "dory"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "sherlock.holmes"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -6572,7 +6573,9 @@
     "jugadores": [
       "gato.con.botas"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "bart.simpson"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -6792,11 +6795,10 @@
   },
   "cmw20tqxs01jg01ohfkivq506": {
     "jugadores": [
-      "marty.mcfly"
-    ],
-    "pendientes": [
+      "marty.mcfly",
       "jesse.pinkman"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -6900,16 +6902,17 @@
     "cupo": 9,
     "creado": "2026-11-05T03:15:31.648Z",
     "pendientesHumanos": 0,
-    "anotados": 3
+    "anotados": 5
   },
   "cmw2z4jtz02b901oh7k96imfp": {
     "jugadores": [
       "krusty",
       "george.weasley",
-      "pippin.tuk"
+      "pippin.tuk",
+      "lois.lane"
     ],
     "pendientes": [
-      "lois.lane"
+      "mike.wazowski"
     ],
     "bajasSorteadas": false,
     "asistencia": null,
@@ -6922,7 +6925,7 @@
     "cupo": 9,
     "creado": "2026-11-05T03:16:16.257Z",
     "pendientesHumanos": 0,
-    "anotados": 2
+    "anotados": 3
   },
   "cmw2z628902dd01ohxez60smr": {
     "jugadores": [],
@@ -6968,6 +6971,22 @@
     "fecha": "2026-11-09T23:30:00.000Z",
     "deporte": "FUTBOL",
     "cupo": 9,
-    "creado": "2026-11-05T15:14:54.397Z"
+    "creado": "2026-11-05T15:14:54.397Z",
+    "pendientesHumanos": 0,
+    "anotados": 0
+  },
+  "cmw3xdl1002sn01ohfoqkpfur": {
+    "jugadores": [],
+    "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "finn",
+    "fecha": "2026-11-08T13:00:00.000Z",
+    "deporte": "FUTBOL",
+    "cupo": 9,
+    "creado": "2026-11-05T19:15:04.629Z"
   }
 }

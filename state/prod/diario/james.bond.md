@@ -9,3 +9,4 @@
 - 2026-10-24 08:14 · calificó el básquet (4 y 5); nada más
 - 2026-10-26 12:14 · leyó que Nelson lo aceptó; solo miró
 - 2026-10-29 04:13 · pidió unirse al pádel del sábado 31 a las 10 en Pádel Point Pilar (se une a todo)
+- 2026-11-05 16:15 · leyó que Rey lo aceptó; solo miró, nada temprano nuevo

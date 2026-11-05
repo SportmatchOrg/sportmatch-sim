@@ -118,3 +118,4 @@
 - 2026-11-05 04:14 · pidió unirse al fútbol del sábado 10 en River Courts; Tomás sigue sin cupo en su partido lleno
 - 2026-11-05 08:14 · intentó aceptar a Tomás otra vez pero el partido sigue lleno; no hizo más
 - 2026-11-05 12:14 · miró la app: Tomás sigue sin cupo en su partido lleno y no encontró pádel ni fútbol en CABA para anotarse
+- 2026-11-05 16:15 · intentó aceptar a Tomás pero su partido sigue lleno; nada nuevo de CABA para anotarse
