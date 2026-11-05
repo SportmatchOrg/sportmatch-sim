@@ -21,3 +21,4 @@
 - 2026-10-26 00:12 · pidió unirse al pádel BEGINNER del miércoles en Belgrano
 - 2026-11-01 20:12 · leyó que lo aceptaron en el pádel y el recordatorio; solo miró
 - 2026-11-02 00:13 · entró a mirar; nada nuevo
+- 2026-11-05 00:13 · leyó notificaciones; nada nuevo, solo miró

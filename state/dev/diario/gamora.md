@@ -14,3 +14,4 @@
 - 2026-10-27 04:12 · miró la app y leyó notificaciones; no se anotó a nada
 - 2026-10-29 00:12 · miró la app, nada la convenció
 - 2026-11-02 20:13 · miró la app, nada la convenció
+- 2026-11-05 00:13 · miró partidos de tenis y básquet; nada la convenció

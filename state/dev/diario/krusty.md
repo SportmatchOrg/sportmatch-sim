@@ -9,3 +9,4 @@
 - 2026-11-01 08:11 · aceptó a Rey en su pádel del lunes
 - 2026-11-01 12:13 · calificó tres partidos (4–5); con eso ya no se anotó a nada más hoy
 - 2026-11-02 20:12 · calificó dos partidos (5, 4, 5 y 3); solo miró el resto
+- 2026-11-05 00:12 · calificó el fútbol del sábado (5, 4 y 4); hoy no sumó nada más

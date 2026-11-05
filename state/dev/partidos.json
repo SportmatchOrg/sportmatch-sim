@@ -6252,9 +6252,9 @@
       "sam.gamyi": true
     },
     "calificaran": [
-      "lisa.simpson",
       "bellatrix.lestrange",
-      "sam.gamyi"
+      "sam.gamyi",
+      "lisa.simpson"
     ],
     "calificaron": [
       "bellatrix.lestrange",
@@ -6317,9 +6317,22 @@
     ],
     "pendientes": [],
     "bajasSorteadas": true,
-    "asistencia": null,
-    "calificaran": [],
-    "calificaron": [],
+    "asistencia": {
+      "lois.lane": true,
+      "krusty": true,
+      "george.weasley": true,
+      "steve.rogers": true
+    },
+    "calificaran": [
+      "lois.lane",
+      "krusty",
+      "george.weasley"
+    ],
+    "calificaron": [
+      "lois.lane",
+      "george.weasley",
+      "krusty"
+    ],
     "cancelado": false,
     "organizador": "lois.lane",
     "fecha": "2026-11-04T23:30:00.000Z",
@@ -6504,9 +6517,19 @@
     ],
     "pendientes": [],
     "bajasSorteadas": true,
-    "asistencia": null,
-    "calificaran": [],
-    "calificaron": [],
+    "asistencia": {
+      "elrond": true,
+      "leia.organa": true,
+      "darth.maul": true
+    },
+    "calificaran": [
+      "elrond",
+      "darth.maul"
+    ],
+    "calificaron": [
+      "elrond",
+      "darth.maul"
+    ],
     "cancelado": false,
     "organizador": "elrond",
     "fecha": "2026-11-04T23:30:00.000Z",
@@ -6655,7 +6678,7 @@
     "cupo": 9,
     "creado": "2026-11-02T03:11:46.285Z",
     "pendientesHumanos": 0,
-    "anotados": 2
+    "anotados": 4
   },
   "cmvyong3o004001pl0lm6l8kq": {
     "jugadores": [],
@@ -6777,7 +6800,7 @@
     "cupo": 7,
     "creado": "2026-11-02T15:12:01.078Z",
     "pendientesHumanos": 0,
-    "anotados": 2,
+    "anotados": 3,
     "cancelSorteado": true,
     "cancelar": false
   },
@@ -6785,7 +6808,9 @@
     "jugadores": [],
     "pendientes": [],
     "bajasSorteadas": true,
-    "asistencia": null,
+    "asistencia": {
+      "shrek": true
+    },
     "calificaran": [],
     "calificaron": [],
     "cancelado": false,
@@ -6810,14 +6835,16 @@
     "asistencia": null,
     "calificaran": [],
     "calificaron": [],
-    "cancelado": false,
+    "cancelado": true,
     "organizador": "dory",
     "fecha": "2026-11-06T00:00:00.000Z",
     "deporte": "FUTBOL",
     "cupo": 9,
     "creado": "2026-11-02T23:12:15.580Z",
     "pendientesHumanos": 0,
-    "anotados": 3
+    "anotados": 3,
+    "cancelSorteado": true,
+    "cancelar": true
   },
   "cmw042jre01l801pllsax7bji": {
     "jugadores": [],
@@ -6833,7 +6860,9 @@
     "cupo": 3,
     "creado": "2026-11-03T03:11:22.401Z",
     "pendientesHumanos": 0,
-    "anotados": 0
+    "anotados": 0,
+    "cancelSorteado": true,
+    "cancelar": false
   },
   "chxukgwomc2kwr8vyb1m2dyj6": {
     "jugadores": [],
@@ -6884,22 +6913,6 @@
     "anotados": 0,
     "cancelSorteado": true,
     "cancelar": false
-  },
-  "cvai3b56trwjbfwey6nv5afjo": {
-    "jugadores": [],
-    "pendientes": [
-      "bellatrix.lestrange"
-    ],
-    "bajasSorteadas": true,
-    "asistencia": null,
-    "calificaran": [],
-    "calificaron": [],
-    "cancelado": false,
-    "organizador": "humano:cu08x383pkd9mtw667gxh7sj9",
-    "fecha": "2026-11-04T23:30:00.000Z",
-    "deporte": "PADEL",
-    "cupo": 3,
-    "anotados": 0
   },
   "cycao0yqf5xrch4nvd4eywavx": {
     "jugadores": [],
@@ -6991,7 +7004,7 @@
     "cupo": 9,
     "creado": "2026-11-03T15:12:49.620Z",
     "pendientesHumanos": 0,
-    "anotados": 3
+    "anotados": 4
   },
   "cmw0tugsc024301pljuqwqtw7": {
     "jugadores": [],
@@ -7132,10 +7145,10 @@
     "anotados": 1
   },
   "cmw2qexv5039n01plxdq183de": {
-    "jugadores": [],
-    "pendientes": [
+    "jugadores": [
       "george.weasley"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -7145,6 +7158,36 @@
     "fecha": "2026-11-07T00:00:00.000Z",
     "deporte": "FUTBOL",
     "cupo": 9,
-    "creado": "2026-11-04T23:12:24.509Z"
+    "creado": "2026-11-04T23:12:24.509Z",
+    "pendientesHumanos": 0,
+    "anotados": 0
+  },
+  "cmw2yyx52005b01rpo3yw8mt3": {
+    "jugadores": [],
+    "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "elrond",
+    "fecha": "2026-11-09T23:30:00.000Z",
+    "deporte": "FUTBOL",
+    "cupo": 9,
+    "creado": "2026-11-05T03:11:53.604Z"
+  },
+  "cmw2z0zbu006v01rpm1vta86u": {
+    "jugadores": [],
+    "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "monica.geller",
+    "fecha": "2026-11-07T14:00:00.000Z",
+    "deporte": "PADEL",
+    "cupo": 3,
+    "creado": "2026-11-05T03:13:29.716Z"
   }
 }

@@ -11,3 +11,4 @@
 - 2026-11-04 08:11 · leyó notificaciones; no calificó (rara vez lo hace) y hoy solo miró
 - 2026-11-04 16:12 · no calificó (rara vez lo hace); pidió unirse al básquet del jueves 5/11 de Fiona en Del Viso
 - 2026-11-04 20:12 · leyó el recordatorio; no calificó (rara vez lo hace) y ya tiene varios básquet pedidos, no sumó otro
+- 2026-11-05 00:12 · no calificó (rara vez lo hace); ya tiene varios básquet pedidos, hoy solo miró

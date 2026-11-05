@@ -1,1 +1,2 @@
 - 2026-11-03 04:13 · primera vez en la app: miró partidos, todavía no armó nada
+- 2026-11-05 00:13 · armó un pádel el sáb 7/11 11:00 en Club Belgrano (para despejarse)

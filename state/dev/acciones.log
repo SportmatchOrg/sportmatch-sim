@@ -2557,3 +2557,22 @@
 2026-11-04T23:13:27.900Z bucky.barnes leer-notificaciones 2
 2026-11-04T23:13:35.577Z bucky.barnes aceptar cmvyon7i6003t01plvrrvr86r george.weasley
 2026-11-04T23:13:37.560Z bucky.barnes aceptar cmvyon7i6003t01plvrrvr86r phoebe.buffay
+2026-11-05T03:10:37.819Z sorteo cmvw2bmy6017201qipibqprdl faltaron=[] calificaran=[lois.lane,krusty,george.weasley]
+2026-11-05T03:10:41.911Z sorteo cmvxqdd74014a01nq3lc6nppe faltaron=[] calificaran=[elrond,darth.maul]
+2026-11-05T03:10:55.766Z sorteo cmvzmzmm100iu01plmxwlp8td faltaron=[] calificaran=[]
+2026-11-05T03:11:23.435Z elrond leer-notificaciones 1
+2026-11-05T03:11:29.324Z elrond calificar cmvxqdd74014a01nq3lc6nppe ratings=2 noShows=0
+2026-11-05T03:11:53.607Z elrond crear cmw2yyx52005b01rpo3yw8mt3 FUTBOL 2026-11-09T23:30:00.000Z
+2026-11-05T03:11:55.859Z lois.lane leer-notificaciones 1
+2026-11-05T03:12:04.972Z lois.lane calificar cmvw2bmy6017201qipibqprdl ratings=3 noShows=0
+2026-11-05T03:12:07.268Z lois.lane aceptar cmw2qexv5039n01plxdq183de george.weasley
+2026-11-05T03:12:09.623Z george.weasley leer-notificaciones 4
+2026-11-05T03:12:19.114Z george.weasley calificar cmvw2bmy6017201qipibqprdl ratings=3 noShows=0
+2026-11-05T03:12:21.448Z dory leer-notificaciones 1
+2026-11-05T03:12:23.786Z dory cancelar cmvzvj1ky00pb01pl41dw2sfa
+2026-11-05T03:12:27.836Z timon leer-notificaciones 1
+2026-11-05T03:12:43.581Z krusty leer-notificaciones 1
+2026-11-05T03:12:49.156Z krusty calificar cmvw2bmy6017201qipibqprdl ratings=3 noShows=0
+2026-11-05T03:12:57.457Z darth.maul calificar cmvxqdd74014a01nq3lc6nppe ratings=2 noShows=0
+2026-11-05T03:13:10.694Z yoda leer-notificaciones 1
+2026-11-05T03:13:29.719Z monica.geller crear cmw2z0zbu006v01rpm1vta86u PADEL 2026-11-07T14:00:00.000Z
