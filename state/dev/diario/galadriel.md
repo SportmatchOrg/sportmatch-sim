@@ -16,3 +16,4 @@
 - 2026-10-31 04:11 · miró la app; no hay básquet en CABA, no se anotó
 - 2026-11-02 16:13 · miró la app; sigue sin haber básquet para principiantes en CABA
 - 2026-11-03 16:12 · pidió unirse al básquet del viernes en Club Belgrano de Ned
+- 2026-11-05 04:13 · leyó que Ned la aceptó en el básquet del viernes; hoy solo miró

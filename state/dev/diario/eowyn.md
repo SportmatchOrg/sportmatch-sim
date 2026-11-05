@@ -50,3 +50,4 @@
 - 2026-11-03 20:11 · calificó el partido y se anotó al running del sábado en Parque Pilar (le gusta conocer gente)
 - 2026-11-03 20:11 · no pudo anotarse al running: está suspendida hasta el 7/11
 - 2026-11-04 16:12 · leyó notificaciones; sigue suspendida, solo miró
+- 2026-11-05 04:12 · sigue suspendida hasta el 7/11, no pudo anotarse al básquet; solo miró
