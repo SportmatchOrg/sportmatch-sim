@@ -14,3 +14,4 @@
 - 2026-10-17 12:17 · calificó el pádel; solo miró
 - 2026-10-18 12:14 · calificó el running (Harry 5, Jaime 4); después solo miró
 - 2026-10-29 12:15 · entró y solo miró
+- 2026-11-05 08:16 · armó un running INTERMEDIATE el sábado 7 a las 9 en Parque Pilar (le gusta el finde a la mañana)

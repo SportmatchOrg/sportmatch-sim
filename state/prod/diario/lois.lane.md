@@ -91,3 +91,4 @@
 - 2026-11-04 16:15 · aceptó a Diana, Dory y Tomás en sus fútbol
 - 2026-11-05 00:15 · calificó dos fútbol (4 y 5) y armó uno el sábado 20:00 en Club Pilar
 - 2026-11-05 04:14 · aceptó a George y a Trinity en su fútbol del sábado
+- 2026-11-05 08:15 · aceptó a Pumba en su fútbol del sábado; nada más

@@ -1,1 +1,2 @@
 - 2026-11-03 04:15 · entró por primera vez, leyó notificaciones y solo miró
+- 2026-11-05 08:15 · entró a mirar y leyó notificaciones; no se anotó a nada

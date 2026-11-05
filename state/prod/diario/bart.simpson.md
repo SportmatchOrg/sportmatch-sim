@@ -6,3 +6,4 @@
 - 2026-11-04 08:16 · armó un básquet INTERMEDIATE el viernes 6 a las 21 en Campus Austral (a ganar)
 - 2026-11-04 16:17 · aceptó a Tomás y a Nacho en su básquet y se anotó al de Timón del miércoles
 - 2026-11-05 00:16 · calificó fútbol y básquet y pidió unirse al básquet del sábado en Campus Austral
+- 2026-11-05 08:15 · aceptó a Marty en su básquet del viernes en Campus Austral; nada más

@@ -116,3 +116,4 @@
 - 2026-11-04 20:15 · (corrección) el partido estaba lleno: no pudo aceptar a Tomás
 - 2026-11-05 00:14 · intentó aceptar a Tomás (humano) en su partido
 - 2026-11-05 04:14 · pidió unirse al fútbol del sábado 10 en River Courts; Tomás sigue sin cupo en su partido lleno
+- 2026-11-05 08:14 · intentó aceptar a Tomás otra vez pero el partido sigue lleno; no hizo más

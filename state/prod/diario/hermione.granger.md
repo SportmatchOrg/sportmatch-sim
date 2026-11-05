@@ -57,3 +57,4 @@
 - 2026-11-04 00:16 · calificó el fútbol (Lois, George y Théoden); solo miró
 - 2026-11-04 16:15 · aceptó a Tomás en sus dos partidos
 - 2026-11-05 04:15 · entró y solo miró
+- 2026-11-05 08:15 · entró, leyó notificaciones y solo miró

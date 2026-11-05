@@ -6528,10 +6528,10 @@
     "cancelar": false
   },
   "cmvzvmdkd00j101oh3ranvas3": {
-    "jugadores": [],
-    "pendientes": [
+    "jugadores": [
       "sam.gamyi"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -6732,7 +6732,7 @@
     "cupo": 7,
     "creado": "2026-11-03T23:16:09.058Z",
     "pendientesHumanos": 0,
-    "anotados": 3
+    "anotados": 5
   },
   "cmw1jo8wc01a101oh256zkz8n": {
     "jugadores": [
@@ -6786,13 +6786,13 @@
     "cupo": 9,
     "creado": "2026-11-04T07:15:34.787Z",
     "pendientesHumanos": 0,
-    "anotados": 2
+    "anotados": 4
   },
   "cmw20tqxs01jg01ohfkivq506": {
-    "jugadores": [],
-    "pendientes": [
+    "jugadores": [
       "marty.mcfly"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -6879,10 +6879,12 @@
   "cmw2z3le202a101oh6uf9eqfi": {
     "jugadores": [
       "george.weasley",
-      "trinity"
+      "trinity",
+      "pumba"
     ],
     "pendientes": [
-      "pumba"
+      "dory",
+      "chewbacca"
     ],
     "bajasSorteadas": false,
     "asistencia": null,
@@ -6895,14 +6897,15 @@
     "cupo": 9,
     "creado": "2026-11-05T03:15:31.648Z",
     "pendientesHumanos": 0,
-    "anotados": 0
+    "anotados": 2
   },
   "cmw2z4jtz02b901oh7k96imfp": {
     "jugadores": [
-      "krusty"
+      "krusty",
+      "george.weasley"
     ],
     "pendientes": [
-      "george.weasley"
+      "pippin.tuk"
     ],
     "bajasSorteadas": false,
     "asistencia": null,
@@ -6915,7 +6918,7 @@
     "cupo": 9,
     "creado": "2026-11-05T03:16:16.257Z",
     "pendientesHumanos": 0,
-    "anotados": 0
+    "anotados": 1
   },
   "cmw2z628902dd01ohxez60smr": {
     "jugadores": [],
@@ -6932,5 +6935,19 @@
     "creado": "2026-11-05T03:17:26.731Z",
     "pendientesHumanos": 0,
     "anotados": 0
+  },
+  "cmw3g9kgi02m701ohuc7o1g43": {
+    "jugadores": [],
+    "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "jack.sparrow",
+    "fecha": "2026-11-07T12:00:00.000Z",
+    "deporte": "RUNNING",
+    "cupo": 5,
+    "creado": "2026-11-05T11:16:03.836Z"
   }
 }
