@@ -106,3 +106,4 @@
 - 2026-11-03 04:12 · pidió unirse al pádel del miércoles 20:30 en Unión Pádel (se anota a todo)
 - 2026-11-03 16:13 · leyó notificaciones; ya tiene pedidos pendientes de fútbol y pádel, no sumó nada más
 - 2026-11-05 04:11 · pidió unirse al fútbol del domingo 15/11 de Micaela en Complejo Belgrano (se anota a todo)
+- 2026-11-06 00:11 · no había a quién calificar; solo miró

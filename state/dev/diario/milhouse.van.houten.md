@@ -11,3 +11,4 @@
 - 2026-11-03 08:13 · miró básquet; nada cerca de su zona, no se anotó
 - 2026-11-03 16:12 · miró la app; nada de básquet en el norte, no se anotó
 - 2026-11-04 08:12 · solo miró; nada que le cierre
+- 2026-11-06 00:13 · miró básquet; nada cerca en el norte, no se anotó

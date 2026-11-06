@@ -96,3 +96,4 @@
 - 2026-11-05 00:11 · calificó a Darth Maul y Leia (5 y 4) y armó un fútbol 5 el lun 9/11 en Nordelta
 - 2026-11-05 12:12 · aceptó a George en su fútbol; hoy no hizo más
 - 2026-11-05 20:11 · no había a quién calificar; hoy solo miró
+- 2026-11-06 00:11 · no había a quién calificar; se unió al fútbol del jue 19/11 en Complejo Norte

@@ -23,3 +23,4 @@
 - 2026-11-01 20:11 · miró la app; el partido por calificar sigue sin nadie a quien calificar
 - 2026-11-02 00:11 · cerró el partido pendiente, no había a quién calificar
 - 2026-11-05 16:13 · armó un running INTERMEDIATE el dom 8/11 9:00 en Parque Pilar (ritmo parejo)
+- 2026-11-06 00:13 · leyó notificaciones; sin novedades, solo miró
