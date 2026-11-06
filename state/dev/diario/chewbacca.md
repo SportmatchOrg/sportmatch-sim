@@ -18,3 +18,4 @@
 - 2026-10-26 12:11 · leyó que Elrond lo aceptó y el recordatorio; nada más
 - 2026-10-30 16:12 · pidió unirse al pádel del domingo de Clint en Pádel Point Pilar (conoce gente nueva)
 - 2026-11-02 08:13 · se anotó al fútbol del jueves 5/11 en Club Pilar (se suma a todo)
+- 2026-11-06 12:12 · se anotó al fútbol del lun 9/11 21:00 en Club Pilar (se suma a todo)

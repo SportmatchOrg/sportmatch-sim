@@ -99,3 +99,4 @@
 - 2026-11-06 00:11 · no había a quién calificar; se unió al fútbol del jue 19/11 en Complejo Norte
 - 2026-11-06 04:11 · no había a quién calificar; hoy solo miró
 - 2026-11-06 08:11 · aceptó a Han Solo en su partido; no había a quién calificar
+- 2026-11-06 12:11 · no había a quién calificar; se unió al fútbol del sáb 14/11 en Complejo Norte

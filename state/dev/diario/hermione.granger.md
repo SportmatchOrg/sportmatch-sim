@@ -68,3 +68,4 @@
 - 2026-11-03 12:13 · aceptó a Rocket en su fútbol del sábado; entre semana solo miró
 - 2026-11-05 08:11 · aceptó a Slinky en su fútbol; entre semana solo miró
 - 2026-11-05 12:12 · solo miró, sin novedades
+- 2026-11-06 12:12 · aceptó a Lois en su fútbol del sábado; entre semana solo miró

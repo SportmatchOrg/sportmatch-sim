@@ -21,3 +21,4 @@
 - 2026-11-03 08:12 · calificó el pádel (4 a Kylo; James faltó)
 - 2026-11-05 20:12 · aceptó a Krusty en su pádel del viernes temprano
 - 2026-11-06 08:12 · calificó a Krusty (5) del pádel; hoy solo miró
+- 2026-11-06 12:12 · armó un pádel el lun 9/11 8:00 en Pádel Point Pilar (madruga)

@@ -29,3 +29,4 @@
 - 2026-11-04 16:12 · aceptó a George en su fútbol del viernes
 - 2026-11-04 20:12 · aceptó a Bart en su fútbol; hoy solo miró
 - 2026-11-05 00:12 · canceló el fútbol del jueves porque no se llenó
+- 2026-11-06 12:12 · leyó el recordatorio; hoy solo miró
