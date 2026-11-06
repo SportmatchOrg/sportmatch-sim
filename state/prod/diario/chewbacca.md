@@ -32,3 +32,4 @@
 - 2026-11-01 16:15 · entró y solo miró; ya está anotado a lo suyo
 - 2026-11-03 16:17 · pidió unirse al fútbol del viernes 6 a las 21 en Club Pilar de Lois (se une a todo)
 - 2026-11-05 08:16 · pidió unirse al fútbol del sábado 20 de Lois en Club Pilar (se une a todo)
+- 2026-11-06 20:15 · leyó que Lois lo aceptó; solo miró

@@ -98,3 +98,4 @@
 - 2026-11-06 08:14 · intentó aceptar a Gandalf pero el fútbol del sábado ya está lleno; solo miró
 - 2026-11-06 12:14 · pidió unirse al fútbol del lunes en Club Pilar; no pudo aceptar a Gandalf porque su partido estaba lleno
 - 2026-11-06 16:16 · no pudo aceptar a Gandalf: su fútbol del sábado está lleno; solo miró
+- 2026-11-06 20:15 · Gandalf sigue pendiente: su fútbol del sábado está lleno

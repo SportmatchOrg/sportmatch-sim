@@ -8,3 +8,4 @@
 - 2026-10-19 00:14 · pidió unirse al pádel del sábado 24 de Faramir en Pádel Point Pilar
 - 2026-10-23 16:15 · pidió unirse al fútbol del lunes 26 de Dory en Club Pilar (tiene las tardes libres)
 - 2026-11-04 08:16 · leyó que Dory, Faramir y Pippin la aceptaron; solo miró
+- 2026-11-06 20:15 · pidió unirse al fútbol del martes 10 en Club Pilar de Dory (tardes libres)

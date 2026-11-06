@@ -116,3 +116,4 @@
 - 2026-11-02 12:14 · aceptó a Finn en su fútbol ADVANCED y pidió unirse al ADVANCED de Finn del sábado en Club Pilar
 - 2026-11-03 16:16 · entró y miró partidos; nada ADVANCED en Pilar que le sirviera, no se unió
 - 2026-11-04 00:16 · calificó el fútbol ADVANCED y se anotó al ADVANCED de Héctor del jueves en Campus Austral (exige nivel)
+- 2026-11-06 20:15 · entró y solo miró

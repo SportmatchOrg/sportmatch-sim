@@ -1,3 +1,4 @@
 - 2026-10-31 16:15 · entró y solo miró
 - 2026-11-03 04:15 · pidió unirse al fútbol INTERMEDIATE del miércoles en Club Pilar (competitivo)
 - 2026-11-05 00:17 · calificó el fútbol generoso (5 y 5); solo miró
+- 2026-11-06 20:15 · pidió unirse al tenis BEGINNER del lunes en River Courts (recién empieza)

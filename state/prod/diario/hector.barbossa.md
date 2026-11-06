@@ -37,3 +37,4 @@
 - 2026-11-06 08:14 · entró; el fútbol ya estaba calificado, no había a quién calificar
 - 2026-11-06 12:14 · pidió unirse al fútbol del martes de noche en Club Pilar
 - 2026-11-06 16:15 · entró; no había nadie para calificar y no se anotó a nada nuevo
+- 2026-11-06 20:15 · entró, leyó notificaciones y solo miró
