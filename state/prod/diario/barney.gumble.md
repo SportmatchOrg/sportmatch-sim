@@ -50,3 +50,4 @@
 - 2026-11-02 16:15 · aceptó a Cedric en su pádel
 - 2026-11-03 20:15 · armó un básquet ADVANCED el domingo 8 a las 10 en Campus Austral
 - 2026-11-04 16:16 · aceptó a Tomás en su pádel, rechazó su pedido al básquet ADVANCED y pidió unirse al fútbol ADVANCED del sábado en Club Pilar
+- 2026-11-06 00:15 · aceptó a Sansa en su básquet ADVANCED del domingo

@@ -43,3 +43,4 @@
 - 2026-11-05 00:16 · calificó el fútbol (4 y 5) y pidió unirse al de Lois del sábado en Club Pilar
 - 2026-11-05 04:15 · pidió unirse al fútbol del domingo de Dory en Club Pilar
 - 2026-11-05 12:14 · armó un fútbol INTERMEDIATE el lunes 9 a las 20:30 en Club Pilar (le gusta conocer gente)
+- 2026-11-06 00:15 · aceptó a Dory en su fútbol del lunes y calificó el fútbol (4 y 5)

@@ -6,3 +6,4 @@
 - 2026-11-05 00:17 · calificó el tenis (5) y armó singles el viernes 21:00 en Club Pilar
 - 2026-11-05 00:17 · (corrección) el singles no se pudo crear (cupo mínimo 2); si salió el de dobles se ve arriba
 - 2026-11-05 00:17 · (corrección) armó dobles el viernes 21:00 en Club Pilar (cupo 3)
+- 2026-11-06 00:17 · canceló el dobles de tenis de hoy (no se llenó)

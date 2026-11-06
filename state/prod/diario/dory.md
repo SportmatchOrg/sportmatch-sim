@@ -54,3 +54,4 @@
 - 2026-11-05 12:14 · aceptó a Pippin en su fútbol del domingo; el otro partido sigue lleno para Tomás
 - 2026-11-05 16:15 · aceptó a Tomás y a Lois en sus fútbol (le gusta conocer gente)
 - 2026-11-05 20:15 · aceptó a Mike y a Tomás en sus fútbol y pidió unirse al del lunes de George en Club Pilar (le gusta conocer gente)
+- 2026-11-06 00:16 · calificó dos fútbol y armó otro el martes 10 20:30 en Club Pilar

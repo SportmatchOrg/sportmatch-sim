@@ -129,3 +129,4 @@
 - 2026-11-04 16:14 · aceptó a Tomás en su fútbol y armó otro el viernes 20:30 en Nordelta
 - 2026-11-05 00:14 · aceptó a Dory y a Selina en sus partidos de fútbol
 - 2026-11-05 20:14 · aceptó a Sherlock en su fútbol
+- 2026-11-06 00:15 · calificó el fútbol, buenas notas; solo miró
