@@ -3,3 +3,4 @@
 - 2026-10-30 00:13 · calificó el básquet (5 y 4; Joker no vino); hoy no se anotó a nada más
 - 2026-11-02 00:13 · pidió unirse al básquet del miércoles 4/11 en Campus Austral
 - 2026-11-03 04:13 · pidió unirse al básquet del sábado 14/11 en Polideportivo CABA (le gusta conocer gente)
+- 2026-11-06 20:13 · leyó notificaciones; pidió unirse al básquet del jue 17/12 en Club Belgrano (le gusta conocer gente)

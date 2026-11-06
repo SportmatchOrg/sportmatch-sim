@@ -111,3 +111,4 @@
 - 2026-11-06 08:11 · no había a quién calificar; hoy solo miró
 - 2026-11-06 12:12 · no había a quién calificar; pidió unirse al pádel del vie 13/11 en Unión Pádel (se anota a todo)
 - 2026-11-06 16:12 · no había a quién calificar; pidió unirse al pádel del lun 30/11 en Unión Pádel (se anota a todo)
+- 2026-11-06 20:12 · no había a quién calificar; se anotó al fútbol del sáb 21/11 en Club Atlético Belgrano (se anota a todo)

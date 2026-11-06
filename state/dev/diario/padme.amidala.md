@@ -31,3 +31,4 @@
 - 2026-10-30 12:12 · leyó que Hermione la aceptó; pidió unirse al fútbol ADVANCED del domingo de Finn (quiere ganar)
 - 2026-11-02 16:12 · pidió unirse al fútbol del miércoles de Gandalf en Club Pilar (quiere ganar)
 - 2026-11-05 08:13 · leyó notificaciones (recordatorio y aceptación de Gandalf); hoy solo miró
+- 2026-11-06 20:13 · leyó notificaciones (la aceptó Bucky); pidió unirse al fútbol del lun 9/11 de Phoebe en Club Pilar (quiere ganar)

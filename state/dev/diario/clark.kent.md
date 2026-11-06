@@ -16,3 +16,4 @@
 - 2026-11-03 12:13 · pidió unirse al fútbol del jueves 5/11 de Dory en Club Pilar (tarde libre)
 - 2026-11-03 16:14 · leyó que lo aceptaron Dory y Gandalf en sus fútbol; ya tiene dos partidos, no sumó otro
 - 2026-11-05 08:13 · pidió unirse al fútbol del domingo 8/11 de Bucky en Del Viso (tarde libre)
+- 2026-11-06 20:13 · leyó notificaciones; hoy solo miró

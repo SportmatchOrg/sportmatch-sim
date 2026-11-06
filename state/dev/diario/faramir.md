@@ -37,3 +37,4 @@
 - 2026-10-24 12:11 · calificó el running (5 a Nala)
 - 2026-10-25 12:11 · calificó el pádel (5, 4, 5); nada más
 - 2026-10-31 08:12 · leyó notificaciones; nada nuevo, solo miró
+- 2026-11-06 20:13 · armó un running el dom 8/11 09:00 en Parque Pilar y pidió unirse al pádel del lun 9/11 en Pádel Point Pilar
