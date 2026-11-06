@@ -85,3 +85,4 @@
 - 2026-11-04 00:15 · calificó el pádel (5 y 4) y armó otro el viernes 6 a las 20:30 en Tigre Pádel Club
 - 2026-11-04 04:14 · aceptó a Cedric en su partido
 - 2026-11-04 16:15 · aceptó a Tomás en su pádel del viernes
+- 2026-11-06 16:16 · armó un pádel el lunes 9 a las 20:30 en Tigre Pádel Club

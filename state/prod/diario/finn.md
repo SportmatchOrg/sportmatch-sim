@@ -15,3 +15,4 @@
 - 2026-11-04 16:16 · aceptó a Tomás en su fútbol del sábado
 - 2026-11-04 20:15 · aceptó a Barney en su fútbol ADVANCED del sábado; nada más le sirvió
 - 2026-11-05 16:15 · aceptó a Bart en su fútbol ADVANCED y armó otro ADVANCED el domingo 8 a las 10 h en Club Pilar
+- 2026-11-06 16:16 · aceptó a Bart en su fútbol ADVANCED del domingo; nada más le sirvió

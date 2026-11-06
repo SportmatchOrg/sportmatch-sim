@@ -55,3 +55,5 @@
 - 2026-11-05 16:15 · aceptó a Tomás y a Lois en sus fútbol (le gusta conocer gente)
 - 2026-11-05 20:15 · aceptó a Mike y a Tomás en sus fútbol y pidió unirse al del lunes de George en Club Pilar (le gusta conocer gente)
 - 2026-11-06 00:16 · calificó dos fútbol y armó otro el martes 10 20:30 en Club Pilar
+- 2026-11-06 16:16 · aceptó a Fred, Héctor, Krusty y George en su fútbol del martes
+- 2026-11-06 16:16 · (corrección) no pudo aceptar a Fred: su solicitud ya no existía
