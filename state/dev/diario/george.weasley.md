@@ -53,3 +53,4 @@
 - 2026-11-05 16:11 · leyó que Héctor lo aceptó en el fútbol del lunes; ya está anotado a todo, no sumó nada más
 - 2026-11-05 20:12 · leyó que Héctor lo aceptó; nada que calificar y ya está anotado a todo, solo miró
 - 2026-11-06 00:12 · calificó el fútbol (5, 4 y 5); ya estaba anotado a todo
+- 2026-11-06 04:13 · pidió unirse al fútbol del dom 8/11 de Wanda en Club Pilar (conoce gente nueva)
