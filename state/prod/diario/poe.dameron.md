@@ -1,0 +1,1 @@
+- 2026-11-06 08:15 · primera vez: pidió unirse al running del sábado en Parque Pilar (para despejarse)

@@ -4,3 +4,4 @@
 - 2026-11-02 20:15 · entró, leyó notificaciones y solo miró
 - 2026-11-04 00:17 · aceptó a Jaime Lannister en su tenis del viernes 8 h; no hay otro tenis temprano, no se anotó
 - 2026-11-05 12:14 · entró, leyó notificaciones y solo miró (no hay tenis temprano)
+- 2026-11-06 08:15 · calificó el tenis (5 y 4); el único tenis nuevo es de noche, no se anotó

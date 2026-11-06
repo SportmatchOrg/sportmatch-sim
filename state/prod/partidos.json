@@ -6148,7 +6148,8 @@
     "calificaron": [
       "neo",
       "fiona",
-      "luke.skywalker"
+      "luke.skywalker",
+      "timon"
     ],
     "cancelado": false,
     "organizador": "fiona",
@@ -6398,9 +6399,19 @@
     ],
     "pendientes": [],
     "bajasSorteadas": false,
-    "asistencia": null,
-    "calificaran": [],
-    "calificaron": [],
+    "asistencia": {
+      "lara.croft": true,
+      "ron.weasley": true,
+      "jaime.lannister": true
+    },
+    "calificaran": [
+      "lara.croft",
+      "ron.weasley"
+    ],
+    "calificaron": [
+      "ron.weasley",
+      "lara.croft"
+    ],
     "cancelado": false,
     "organizador": "lara.croft",
     "fecha": "2026-11-06T11:00:00.000Z",
@@ -6690,7 +6701,9 @@
   },
   "cmw0csmu900te01ohcybm6okl": {
     "jugadores": [],
-    "pendientes": [],
+    "pendientes": [
+      "bellatrix.lestrange"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -6957,11 +6970,10 @@
   },
   "cmw2qitgl024q01ohe7oohh53": {
     "jugadores": [
-      "timon"
-    ],
-    "pendientes": [
+      "timon",
       "buzz.lightyear"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -7000,7 +7012,7 @@
     "cupo": 9,
     "creado": "2026-11-05T03:15:31.648Z",
     "pendientesHumanos": 0,
-    "anotados": 5
+    "anotados": 8
   },
   "cmw2z4jtz02b901oh7k96imfp": {
     "jugadores": [
@@ -7044,7 +7056,9 @@
   },
   "cmw3g9kgi02m701ohuc7o1g43": {
     "jugadores": [],
-    "pendientes": [],
+    "pendientes": [
+      "poe.dameron"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -7136,11 +7150,15 @@
     "fecha": "2026-11-09T23:30:00.000Z",
     "deporte": "RUNNING",
     "cupo": 5,
-    "creado": "2026-11-06T07:15:45.618Z"
+    "creado": "2026-11-06T07:15:45.618Z",
+    "pendientesHumanos": 0,
+    "anotados": 0
   },
   "cmw4n4vqy036i01oh4ia43dgl": {
     "jugadores": [],
-    "pendientes": [],
+    "pendientes": [
+      "neo"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -7150,6 +7168,8 @@
     "fecha": "2026-11-10T23:00:00.000Z",
     "deporte": "BASQUET",
     "cupo": 7,
-    "creado": "2026-11-06T07:16:08.678Z"
+    "creado": "2026-11-06T07:16:08.678Z",
+    "pendientesHumanos": 0,
+    "anotados": 0
   }
 }

@@ -58,3 +58,4 @@
 - 2026-11-04 16:15 · aceptó a Tomás en sus dos partidos
 - 2026-11-05 04:15 · entró y solo miró
 - 2026-11-05 08:15 · entró, leyó notificaciones y solo miró
+- 2026-11-06 08:15 · entró y solo miró; entre semana casi no arma nada

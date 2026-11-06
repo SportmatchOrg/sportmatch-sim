@@ -59,3 +59,4 @@
 - 2026-11-05 04:14 · aceptó a Buzz y a Bart en su básquet del sábado
 - 2026-11-05 20:15 · calificó el básquet (Luke, Fiona y Timón)
 - 2026-11-06 00:15 · aceptó a Timón en su básquet del lunes
+- 2026-11-06 08:15 · aceptó a Buzz en su básquet del lunes y pidió unirse al básquet del martes en Club Belgrano
