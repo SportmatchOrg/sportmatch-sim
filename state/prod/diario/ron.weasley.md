@@ -32,3 +32,4 @@
 - 2026-11-01 00:15 · miró partidos; nada de básquet ni tenis temprano, no se anotó
 - 2026-11-02 08:15 · pidió unirse al tenis del viernes 8 h en Club Pilar (madruga)
 - 2026-11-05 16:15 · leyó notificaciones; miró básquet y tenis, nada antes de las 9, no se anotó
+- 2026-11-06 04:15 · leyó notificaciones y solo miró; nada temprano de básquet ni tenis

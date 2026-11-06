@@ -10,3 +10,4 @@
 - 2026-11-04 20:15 · aceptó a Bart en su básquet de hoy; ya está anotado a otro, no buscó más
 - 2026-11-05 20:15 · se anotó al básquet del lunes de Neo en Campus Austral; no calificó todavía
 - 2026-11-06 00:16 · leyó que Neo lo aceptó en el básquet del lunes; no calificó, solo miró
+- 2026-11-06 04:15 · entró, no calificó (rara vez lo hace) y ya tiene básquet anotado; solo miró

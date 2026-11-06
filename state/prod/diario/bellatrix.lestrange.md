@@ -122,3 +122,4 @@
 - 2026-11-05 20:14 · miró la app: su partido sigue lleno para Tomás y no hay fútbol ni pádel en CABA para anotarse
 - 2026-11-06 00:15 · aceptó a Tomás en su partido; nada de CABA para anotarse
 - 2026-11-06 00:16 · corrección: no pudo aceptar a Tomás, el partido está lleno
+- 2026-11-06 04:15 · intentó aceptar a Tomás pero el partido sigue lleno; nada para anotarse en CABA
