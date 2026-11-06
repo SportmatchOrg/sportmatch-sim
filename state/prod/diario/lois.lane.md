@@ -96,3 +96,4 @@
 - 2026-11-05 16:15 · leyó notificaciones y solo miró
 - 2026-11-06 04:15 · aceptó a Pippin, Phoebe y Krusty en su fútbol del sábado; Gandalf queda pendiente porque se llenó
 - 2026-11-06 08:14 · intentó aceptar a Gandalf pero el fútbol del sábado ya está lleno; solo miró
+- 2026-11-06 12:14 · pidió unirse al fútbol del lunes en Club Pilar; no pudo aceptar a Gandalf porque su partido estaba lleno

@@ -1,1 +1,2 @@
 - 2026-11-03 04:15 · pidió unirse al fútbol del sábado a la mañana en River Courts
+- 2026-11-06 12:14 · pidió unirse al básquet del martes en Club Belgrano

@@ -15,3 +15,4 @@
 - 2026-11-01 20:14 · entró, leyó notificaciones y solo miró
 - 2026-11-03 12:15 · entró y solo miró
 - 2026-11-05 04:15 · pidió unirse al básquet del viernes en Campus Austral
+- 2026-11-06 12:15 · pidió unirse al básquet del viernes en el Polideportivo Del Viso

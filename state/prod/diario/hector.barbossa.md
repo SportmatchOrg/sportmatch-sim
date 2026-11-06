@@ -35,3 +35,4 @@
 - 2026-11-06 00:15 · calificó el fútbol (4 y 5); nada más
 - 2026-11-06 04:15 · armó un running ADVANCED el lunes 9 a las 20:30 en Parque Pilar (después del trabajo)
 - 2026-11-06 08:14 · entró; el fútbol ya estaba calificado, no había a quién calificar
+- 2026-11-06 12:14 · pidió unirse al fútbol del martes de noche en Club Pilar

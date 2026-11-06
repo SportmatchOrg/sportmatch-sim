@@ -9,3 +9,4 @@
 - 2026-11-05 08:15 · aceptó a Marty en su básquet del viernes en Campus Austral; nada más
 - 2026-11-05 12:15 · pidió unirse al fútbol ADVANCED del sábado 10:00 en Club Pilar (a ganar)
 - 2026-11-05 16:15 · aceptó a Jesse en su básquet y pidió unirse al básquet del viernes de Frodo (juega para ganar)
+- 2026-11-06 12:15 · pidió unirse al fútbol ADVANCED del domingo en Club Pilar

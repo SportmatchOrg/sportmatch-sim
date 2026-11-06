@@ -6,3 +6,4 @@
 - 2026-10-29 20:15 · calificó el básquet del jueves (Cara de Papa 4, Galadriel 5); Éowyn no vino
 - 2026-11-04 20:16 · entró y leyó notificaciones; solo miró
 - 2026-11-06 04:16 · armó un básquet INTERMEDIATE el martes 10 a las 20:00 en Club Belgrano
+- 2026-11-06 12:14 · aceptó a Neo en su básquet del martes; después solo miró

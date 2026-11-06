@@ -124,3 +124,4 @@
 - 2026-11-06 00:16 · corrección: no pudo aceptar a Tomás, el partido está lleno
 - 2026-11-06 04:15 · intentó aceptar a Tomás pero el partido sigue lleno; nada para anotarse en CABA
 - 2026-11-06 08:14 · intentó aceptar a Tomás pero su partido sigue lleno; pidió unirse al fútbol del sábado en River Courts
+- 2026-11-06 12:14 · pidió unirse al fútbol del viernes en Nordelta; su aceptación de Tomás no entró, el partido ya estaba lleno
