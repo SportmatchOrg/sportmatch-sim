@@ -54,3 +54,5 @@
 - 2026-11-05 20:12 · leyó que Héctor lo aceptó; nada que calificar y ya está anotado a todo, solo miró
 - 2026-11-06 00:12 · calificó el fútbol (5, 4 y 5); ya estaba anotado a todo
 - 2026-11-06 04:13 · pidió unirse al fútbol del dom 8/11 de Wanda en Club Pilar (conoce gente nueva)
+- 2026-11-06 08:13 · Wanda lo aceptó; pidió unirse al fútbol del sáb 7/11 de Hermione en Club Pilar (se anota a todo)
+- 2026-11-06 08:13 · corrección: ya estaba anotado al fútbol del sábado en Club Pilar; hoy no hizo más

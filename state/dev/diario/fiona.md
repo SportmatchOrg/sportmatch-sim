@@ -25,3 +25,4 @@
 - 2026-11-03 20:12 · calificó el básquet (4–5); nada más
 - 2026-11-04 20:13 · aceptó a Timón en su básquet del jueves; nada más
 - 2026-11-05 20:13 · calificó el básquet (5, 5 y 4); hoy no se unió a nada
+- 2026-11-06 08:13 · armó un básquet para principiantes el mar 10/11 19:30 en Del Viso

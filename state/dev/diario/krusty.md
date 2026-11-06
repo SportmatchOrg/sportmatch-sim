@@ -11,3 +11,4 @@
 - 2026-11-02 20:12 · calificó dos partidos (5, 4, 5 y 3); solo miró el resto
 - 2026-11-05 00:12 · calificó el fútbol del sábado (5, 4 y 4); hoy no sumó nada más
 - 2026-11-05 16:12 · pidió unirse al pádel del viernes 6/11 de Indiana en Pádel Point Pilar (se anota a todo)
+- 2026-11-06 08:12 · calificó a Indiana (4) del pádel; hoy solo miró

@@ -1,2 +1,3 @@
 - 2026-11-01 04:13 · primera vez: pidió unirse al fútbol del jueves 21:30 de Bart en Club Pilar (juega de noche)
 - 2026-11-06 00:13 · calificó el fútbol (5, 4 y 5) y armó un fútbol el dom 8/11 10:00 en Club Pilar
+- 2026-11-06 08:13 · aceptó a George en su fútbol del domingo; hoy no hizo más

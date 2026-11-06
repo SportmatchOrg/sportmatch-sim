@@ -17,3 +17,4 @@
 - 2026-11-05 12:12 · no calificó (rara vez lo hace); solo miró
 - 2026-11-05 16:12 · no calificó (rara vez lo hace); ya tiene varios básquet pedidos, hoy solo miró
 - 2026-11-05 20:12 · no calificó (rara vez lo hace); ya tiene varios básquet pedidos, hoy solo miró
+- 2026-11-06 08:12 · aceptó a Nala en su básquet; ya tiene varios pedidos, no sumó otro

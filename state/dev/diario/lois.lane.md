@@ -78,3 +78,4 @@
 - 2026-11-05 00:12 · calificó el partido (5, 4 y 5) y aceptó a George en su fútbol del viernes
 - 2026-11-05 12:12 · aceptó a Pippin en su fútbol de Club Pilar
 - 2026-11-06 00:12 · aceptó a Marty en su fútbol y pidió unirse al fútbol del lunes de Phoebe en Club Pilar
+- 2026-11-06 08:11 · aceptó a Phoebe en su fútbol y se unió al fútbol del sábado en Club Pilar
