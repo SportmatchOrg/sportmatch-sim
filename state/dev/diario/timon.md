@@ -19,3 +19,4 @@
 - 2026-11-05 20:12 · no calificó (rara vez lo hace); ya tiene varios básquet pedidos, hoy solo miró
 - 2026-11-06 08:12 · aceptó a Nala en su básquet; ya tiene varios pedidos, no sumó otro
 - 2026-11-06 12:12 · sin novedades; hoy solo miró
+- 2026-11-06 16:14 · pidió unirse al básquet del mar 10/11 en Del Viso (se anota con entusiasmo)

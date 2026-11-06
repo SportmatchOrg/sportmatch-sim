@@ -6599,7 +6599,7 @@
     "cupo": 9,
     "creado": "2026-11-01T15:11:26.062Z",
     "pendientesHumanos": 0,
-    "anotados": 7
+    "anotados": 8
   },
   "cmvxyxu43005601mv0wgr8ym3": {
     "jugadores": [
@@ -7133,11 +7133,10 @@
   "cmw1jkjk602ni01plito72v2l": {
     "jugadores": [
       "george.weasley",
-      "lois.lane"
-    ],
-    "pendientes": [
+      "lois.lane",
       "chewbacca"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -7403,7 +7402,9 @@
     "jugadores": [
       "george.weasley"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "doc.brown"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -7483,7 +7484,10 @@
   },
   "cmw4vltd901mz01rpb345tyt5": {
     "jugadores": [],
-    "pendientes": [],
+    "pendientes": [
+      "phoebe.buffay",
+      "timon"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -7510,7 +7514,8 @@
     "organizador": "humano:cgh4kg4wzz3qz9vgax6a3cm8z",
     "fecha": "2026-11-14T23:00:00.000Z",
     "deporte": "FUTBOL",
-    "cupo": 9
+    "cupo": 9,
+    "anotados": 3
   },
   "csidmfxjedd8vzraki0fsygpm": {
     "jugadores": [],
@@ -7525,7 +7530,8 @@
     "organizador": "humano:c3lp6198iw3ilzijy0ift4mjd",
     "fecha": "2026-11-14T01:30:00.000Z",
     "deporte": "PADEL",
-    "cupo": 3
+    "cupo": 3,
+    "anotados": 1
   },
   "cmw545kdx01rt01rpiwaq93uj": {
     "jugadores": [],
@@ -7539,6 +7545,53 @@
     "fecha": "2026-11-09T11:00:00.000Z",
     "deporte": "PADEL",
     "cupo": 3,
-    "creado": "2026-11-06T15:12:34.088Z"
+    "creado": "2026-11-06T15:12:34.088Z",
+    "pendientesHumanos": 0,
+    "anotados": 0
+  },
+  "cwm85im9i5lgozptzb9sbi349": {
+    "jugadores": [],
+    "pendientes": [
+      "bellatrix.lestrange"
+    ],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "humano:c2jl788tg53ghs1b2tzdtqfh7",
+    "fecha": "2026-11-30T21:30:00.000Z",
+    "deporte": "PADEL",
+    "cupo": 3
+  },
+  "cqphqm25ndb0ktbck29c5uhsi": {
+    "jugadores": [],
+    "pendientes": [
+      "arwen"
+    ],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "humano:ctsj5j2f87ph1xpwer1th838b",
+    "fecha": "2026-11-07T16:00:00.000Z",
+    "deporte": "TENIS",
+    "cupo": 3
+  },
+  "c2qkqkqz34zpc1bo46xar2hml": {
+    "jugadores": [],
+    "pendientes": [
+      "peter.parker"
+    ],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "humano:c9va0d8dgz94qvmeej2dh0ybj",
+    "fecha": "2026-11-14T19:00:00.000Z",
+    "deporte": "FUTBOL",
+    "cupo": 9
   }
 }

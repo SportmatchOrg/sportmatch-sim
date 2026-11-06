@@ -5,3 +5,4 @@
 - 2026-10-23 04:12 · pidió unirse al fútbol INTERMEDIATE del lunes de Dory en Club Pilar
 - 2026-10-27 00:12 · calificó el fútbol (5, 5 y 4); no hizo más
 - 2026-10-27 04:12 · miró la app; sin novedades de su solicitud, nada más
+- 2026-11-06 16:13 · miró la app; sin novedades, hoy no hizo nada

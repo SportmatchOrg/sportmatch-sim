@@ -34,3 +34,4 @@
 - 2026-10-31 00:11 · aceptó a Cedric en su pádel del domingo
 - 2026-10-31 16:11 · aceptó a Yoda en su pádel del domingo; ya tiene uno armado, no armó otro
 - 2026-11-01 08:11 · calificó el pádel jugado (Yoda y Cedric)
+- 2026-11-06 16:13 · miró la app; hoy no hizo nada

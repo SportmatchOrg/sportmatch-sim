@@ -37,3 +37,4 @@
 - 2026-11-04 20:13 · calificó el fútbol del sábado y pidió unirse al fútbol del domingo 8/11 de Bucky en Del Viso (competitiva)
 - 2026-11-06 00:12 · calificó el fútbol (4, 5 y 4); solo leyó notificaciones
 - 2026-11-06 04:12 · aceptó a Lois en su fútbol del lunes y pidió unirse al fútbol de hoy 21:00 de Lois en Club Pilar (competitiva)
+- 2026-11-06 16:12 · aceptó a Chewbacca en su fútbol y pidió unirse al básquet del mar 10/11 en Del Viso
