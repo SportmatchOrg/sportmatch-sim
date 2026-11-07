@@ -50,3 +50,4 @@
 - 2026-11-06 12:12 · no había a quién calificar; hoy solo miró
 - 2026-11-06 16:12 · no había a quién calificar; hoy solo miró
 - 2026-11-06 20:12 · no había a quién calificar; hoy solo miró
+- 2026-11-07 12:14 · armó un tenis dobles INTERMEDIATE el jue 12/11 20:00 en Campus Austral (le gusta conocer gente)

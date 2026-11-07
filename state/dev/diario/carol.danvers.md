@@ -8,3 +8,4 @@
 - 2026-11-06 12:12 · no había a quién calificar; hoy solo miró
 - 2026-11-06 16:13 · no había a quién calificar; hoy solo miró
 - 2026-11-06 20:12 · no había a quién calificar; hoy solo miró
+- 2026-11-07 12:17 · no había a quién calificar; entró sin ganas, solo miró

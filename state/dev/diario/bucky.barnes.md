@@ -13,3 +13,4 @@
 - 2026-11-04 00:13 · aceptó a Fred en su fútbol del domingo; el resto de los partidos le quedan en horarios que no le cierran, solo miró
 - 2026-11-04 20:13 · aceptó a George y a Phoebe en su fútbol del domingo
 - 2026-11-05 12:12 · aceptó a Clark en su fútbol del domingo
+- 2026-11-07 12:17 · calificó el running (4 y 5); ya tiene su fútbol del domingo, no armó otro

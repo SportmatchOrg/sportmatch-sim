@@ -1,2 +1,3 @@
 - 2026-11-02 08:12 · se anotó a un pádel principiante del 16/11 en Central Pádel (retoma el deporte de a poco)
 - 2026-11-05 16:12 · pidió unirse al pádel principiante del sábado 7/11 en Pádel Point Pilar (retoma de a poco)
+- 2026-11-07 12:17 · calificó el pádel (5 y 4); leyó que lo aceptaron, hoy solo miró

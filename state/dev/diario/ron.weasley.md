@@ -27,3 +27,4 @@
 - 2026-10-28 08:12 · miró básquet y tenis, nada temprano; no se anotó
 - 2026-11-04 08:12 · pidió unirse al básquet del sábado 7/11 07:30 de Nelson en Del Viso (madruga)
 - 2026-11-05 12:12 · leyó que aceptaron a Nelson; no encontró nada a la mañana, solo miró
+- 2026-11-07 12:12 · calificó el básquet (5, 4 y 5); nada antes de las 9 que le encaje, no se anotó

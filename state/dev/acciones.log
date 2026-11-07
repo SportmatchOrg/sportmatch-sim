@@ -2720,3 +2720,60 @@
 2026-11-06T23:13:32.649Z padme.amidala unirse cmw1jkjk602ni01plito72v2l
 2026-11-06T23:13:34.613Z faramir crear cmw5lc5c4025401rpwgafrofc RUNNING 2026-11-08T12:00:00.000Z
 2026-11-06T23:13:36.396Z faramir unirse cmw545kdx01rt01rpiwaq93uj
+2026-11-07T15:10:37.690Z sorteo cmvx978io00wm01nq9f296n19 faltaron=[] calificaran=[bucky.barnes,montgomery.burns]
+2026-11-07T15:10:38.992Z sorteo cmvxywuk6004f01mvfd82xs11 faltaron=[] calificaran=[hermione.granger,george.weasley,gandalf,phoebe.buffay,pippin.tuk,lois.lane]
+2026-11-07T15:10:49.815Z sorteo cmw0tuavd023t01plykzy5x0l faltaron=[timon] calificaran=[nelson.muntz,phoebe.buffay,ron.weasley]
+2026-11-07T15:10:50.404Z sorteo cmw0tuce0023w01plsi7obxb0 faltaron=[] calificaran=[dory,phoebe.buffay,george.weasley,bart.simpson]
+2026-11-07T15:10:50.984Z sorteo cmw1jjutq02mt01pl7mxj7suq faltaron=[] calificaran=[frodo.bolson,bart.simpson]
+2026-11-07T15:10:57.415Z sorteo cmw2qexv5039n01plxdq183de faltaron=[] calificaran=[lois.lane,george.weasley,pippin.tuk,phoebe.buffay]
+2026-11-07T15:10:59.002Z sorteo cmw2z0zbu006v01rpm1vta86u faltaron=[] calificaran=[monica.geller]
+2026-11-07T15:10:59.593Z sorteo cmw37juw6009d01rpnjdxh1ua faltaron=[] calificaran=[clint.barton,sherlock.holmes]
+2026-11-07T15:11:02.319Z sorteo cmw3xb21p00ln01rpaboxga1i faltaron=[] calificaran=[quigon.jinn]
+2026-11-07T15:11:27.205Z ron.weasley leer-notificaciones 1
+2026-11-07T15:12:05.402Z ron.weasley calificar cmw0tuavd023t01plykzy5x0l ratings=3 noShows=1
+2026-11-07T15:12:51.952Z quigon.jinn leer-notificaciones 1
+2026-11-07T15:13:16.101Z quigon.jinn unirse cmw3xb7fa00lr01rpohftjs2q
+2026-11-07T15:13:18.163Z pippin.tuk leer-notificaciones 3
+2026-11-07T15:13:25.526Z pippin.tuk calificar cmvxywuk6004f01mvfd82xs11 ratings=3 noShows=0
+2026-11-07T15:13:27.296Z pippin.tuk calificar cmw2qexv5039n01plxdq183de ratings=3 noShows=0
+2026-11-07T15:13:54.681Z montgomery.burns leer-notificaciones 1
+2026-11-07T15:13:57.441Z hermione.granger leer-notificaciones 1
+2026-11-07T15:14:08.259Z montgomery.burns calificar cmvx978io00wm01nq9f296n19 ratings=2 noShows=0
+2026-11-07T15:14:10.159Z montgomery.burns unirse cmw5lc5c4025401rpwgafrofc
+2026-11-07T15:14:12.030Z hermione.granger calificar cmvxywuk6004f01mvfd82xs11 ratings=3 noShows=0
+2026-11-07T15:14:13.875Z hermione.granger crear cmw6jnk2o008k01qhu9qdorfb FUTBOL 2026-11-08T12:00:00.000Z
+2026-11-07T15:14:24.501Z lois.lane leer-notificaciones 2
+2026-11-07T15:14:39.537Z lois.lane calificar cmvxywuk6004f01mvfd82xs11 ratings=3 noShows=0
+2026-11-07T15:14:41.354Z lois.lane calificar cmw2qexv5039n01plxdq183de ratings=3 noShows=0
+2026-11-07T15:14:43.272Z albus.dumbledore crear cmw6jo6rc009301qh9jyj6j78 TENIS 2026-11-12T23:00:00.000Z
+2026-11-07T15:14:51.888Z frodo.bolson leer-notificaciones 1
+2026-11-07T15:15:01.729Z george.weasley leer-notificaciones 5
+2026-11-07T15:15:12.258Z frodo.bolson calificar cmw1jjutq02mt01pl7mxj7suq ratings=2 noShows=0
+2026-11-07T15:15:14.175Z frodo.bolson unirse cmw1s4hfj02sg01plal1mgw17
+2026-11-07T15:15:16.106Z george.weasley calificar cmvxywuk6004f01mvfd82xs11 ratings=3 noShows=0
+2026-11-07T15:15:17.868Z george.weasley calificar cmw0tuce0023w01plsi7obxb0 ratings=3 noShows=0
+2026-11-07T15:15:19.583Z george.weasley calificar cmw2qexv5039n01plxdq183de ratings=3 noShows=0
+2026-11-07T15:15:25.471Z dory leer-notificaciones 1
+2026-11-07T15:15:28.305Z phoebe.buffay leer-notificaciones 3
+2026-11-07T15:15:30.962Z indiana.jones leer-notificaciones 1
+2026-11-07T15:15:41.181Z dory calificar cmw0tuce0023w01plsi7obxb0 ratings=3 noShows=0
+2026-11-07T15:15:43.164Z phoebe.buffay aceptar cmw1jkjk602ni01plito72v2l padme.amidala
+2026-11-07T15:15:46.894Z indiana.jones aceptar cmw545kdx01rt01rpiwaq93uj faramir
+2026-11-07T15:15:56.427Z phoebe.buffay calificar cmvxywuk6004f01mvfd82xs11 ratings=3 noShows=0
+2026-11-07T15:15:58.193Z phoebe.buffay calificar cmw0tuavd023t01plykzy5x0l ratings=2 noShows=1
+2026-11-07T15:16:06.988Z nelson.muntz leer-notificaciones 1
+2026-11-07T15:16:09.919Z bart.simpson leer-notificaciones 7
+2026-11-07T15:16:19.263Z nelson.muntz calificar cmw0tuavd023t01plykzy5x0l ratings=3 noShows=1
+2026-11-07T15:16:21.136Z bart.simpson calificar cmw0tuce0023w01plsi7obxb0 ratings=3 noShows=0
+2026-11-07T15:16:22.895Z bart.simpson calificar cmw1jjutq02mt01pl7mxj7suq ratings=2 noShows=0
+2026-11-07T15:16:24.873Z bart.simpson unirse cmw1s4hfj02sg01plal1mgw17
+2026-11-07T15:16:32.263Z gandalf leer-notificaciones 4
+2026-11-07T15:16:36.197Z sherlock.holmes leer-notificaciones 2
+2026-11-07T15:16:56.334Z gandalf calificar cmvxywuk6004f01mvfd82xs11 ratings=3 noShows=0
+2026-11-07T15:16:58.271Z gandalf unirse cmw4eg8ps01ep01rpt17sfh0y
+2026-11-07T15:17:00.087Z clint.barton calificar cmw37juw6009d01rpnjdxh1ua ratings=2 noShows=0
+2026-11-07T15:17:01.839Z clint.barton crear cmw6jr5or00cc01qh96ewj173 PADEL 2026-11-08T12:30:00.000Z
+2026-11-07T15:17:03.710Z sherlock.holmes calificar cmw37juw6009d01rpnjdxh1ua ratings=2 noShows=0
+2026-11-07T15:17:09.201Z bucky.barnes leer-notificaciones 2
+2026-11-07T15:17:13.398Z monica.geller leer-notificaciones 1
+2026-11-07T15:17:32.350Z bucky.barnes calificar cmvx978io00wm01nq9f296n19 ratings=2 noShows=0

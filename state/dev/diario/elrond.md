@@ -102,3 +102,4 @@
 - 2026-11-06 12:11 · no había a quién calificar; se unió al fútbol del sáb 14/11 en Complejo Norte
 - 2026-11-06 16:11 · no había a quién calificar; hoy solo miró
 - 2026-11-06 20:11 · no había a quién calificar; armó un fútbol 5 el mar 10/11 en Nordelta (a la noche, para despejarse)
+- 2026-11-07 12:13 · no había a quién calificar; ya tiene dos fútbol anotados, hoy solo miró

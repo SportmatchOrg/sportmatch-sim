@@ -69,3 +69,4 @@
 - 2026-11-05 08:11 · aceptó a Slinky en su fútbol; entre semana solo miró
 - 2026-11-05 12:12 · solo miró, sin novedades
 - 2026-11-06 12:12 · aceptó a Lois en su fútbol del sábado; entre semana solo miró
+- 2026-11-07 12:14 · calificó el fútbol (4, 3 y 5) y armó un fútbol INTERMEDIATE el dom 8/11 9:00 en Campus Austral (domingo a la mañana)

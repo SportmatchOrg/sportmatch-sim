@@ -55,3 +55,4 @@
 - 2026-11-04 00:12 · canceló el básquet que iba 2/7 (no se llenó) y armó otro el viernes 6/11 21:00 en Campus Austral
 - 2026-11-04 08:11 · aceptó a Timón y a Bart en su básquet del viernes
 - 2026-11-04 08:11 · (corrección: recién ahí se confirmó la aceptación de Timón y Bart)
+- 2026-11-07 12:15 · calificó el básquet (4 y 5) y pidió unirse al básquet del domingo 20:00 de Timón en Campus Austral

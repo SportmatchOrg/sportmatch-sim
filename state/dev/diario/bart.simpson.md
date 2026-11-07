@@ -14,3 +14,4 @@
 - 2026-11-04 00:13 · aceptó a Phoebe en su fútbol del jueves; solo miró el resto
 - 2026-11-04 04:13 · se anotó al básquet del viernes de Frodo en Campus Austral (fanático, juega para ganar)
 - 2026-11-04 16:13 · leyó que lo aceptó Frodo y pidió unirse al fútbol del viernes 6/11 de Dory en Club Pilar (competitivo)
+- 2026-11-07 12:16 · calificó fútbol y básquet y pidió unirse al básquet del domingo 20:00 de Timón (fanático)
