@@ -6689,22 +6689,6 @@
     "cancelSorteado": true,
     "cancelar": true
   },
-  "ckfrwkz1u9llkj3nj8xajam9o": {
-    "jugadores": [],
-    "pendientes": [
-      "scott.lang"
-    ],
-    "bajasSorteadas": false,
-    "asistencia": null,
-    "calificaran": [],
-    "calificaron": [],
-    "cancelado": false,
-    "organizador": "humano:cfecr7q1izqhc163hlbtyqy9y",
-    "fecha": "2026-11-07T18:30:00.000Z",
-    "deporte": "TENIS",
-    "cupo": 3,
-    "anotados": 1
-  },
   "cmvyon7i6003t01plvrrvr86r": {
     "jugadores": [
       "marty.mcfly",
@@ -7103,7 +7087,8 @@
     "calificaron": [
       "george.weasley",
       "dory",
-      "bart.simpson"
+      "bart.simpson",
+      "phoebe.buffay"
     ],
     "cancelado": false,
     "organizador": "dory",
@@ -7211,7 +7196,7 @@
     "cupo": 9,
     "creado": "2026-11-04T03:13:02.378Z",
     "pendientesHumanos": 0,
-    "anotados": 3
+    "anotados": 4
   },
   "cfx3iwafuza6ubid9pkjaneuq": {
     "jugadores": [],
@@ -7247,12 +7232,11 @@
   },
   "cmw1s4hfj02sg01plal1mgw17": {
     "jugadores": [
-      "nala"
-    ],
-    "pendientes": [
+      "nala",
       "frodo.bolson",
       "bart.simpson"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -7306,7 +7290,8 @@
     "calificaron": [
       "pippin.tuk",
       "lois.lane",
-      "george.weasley"
+      "george.weasley",
+      "phoebe.buffay"
     ],
     "cancelado": false,
     "organizador": "lois.lane",
@@ -7446,10 +7431,10 @@
     "cancelar": false
   },
   "cmw3xb7fa00lr01rpohftjs2q": {
-    "jugadores": [],
-    "pendientes": [
+    "jugadores": [
       "quigon.jinn"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -7483,7 +7468,8 @@
   },
   "cmw4efbe001dw01rp1vl8p6sl": {
     "jugadores": [
-      "carol.danvers"
+      "carol.danvers",
+      "elrond"
     ],
     "pendientes": [],
     "bajasSorteadas": false,
@@ -7502,11 +7488,10 @@
   "cmw4eg8ps01ep01rpt17sfh0y": {
     "jugadores": [
       "george.weasley",
-      "doc.brown"
-    ],
-    "pendientes": [
+      "doc.brown",
       "gandalf"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -7653,7 +7638,7 @@
     "cupo": 3,
     "creado": "2026-11-06T15:12:34.088Z",
     "pendientesHumanos": 0,
-    "anotados": 0
+    "anotados": 1
   },
   "cwm85im9i5lgozptzb9sbi349": {
     "jugadores": [],
@@ -7668,22 +7653,6 @@
     "organizador": "humano:c2jl788tg53ghs1b2tzdtqfh7",
     "fecha": "2026-11-30T21:30:00.000Z",
     "deporte": "PADEL",
-    "cupo": 3,
-    "anotados": 1
-  },
-  "cqphqm25ndb0ktbck29c5uhsi": {
-    "jugadores": [],
-    "pendientes": [
-      "arwen"
-    ],
-    "bajasSorteadas": true,
-    "asistencia": null,
-    "calificaran": [],
-    "calificaron": [],
-    "cancelado": false,
-    "organizador": "humano:ctsj5j2f87ph1xpwer1th838b",
-    "fecha": "2026-11-07T16:00:00.000Z",
-    "deporte": "TENIS",
     "cupo": 3,
     "anotados": 1
   },
@@ -7752,10 +7721,10 @@
     "anotados": 7
   },
   "cmw5lc5c4025401rpwgafrofc": {
-    "jugadores": [],
-    "pendientes": [
+    "jugadores": [
       "montgomery.burns"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -7785,11 +7754,15 @@
     "cupo": 9,
     "creado": "2026-11-07T15:14:13.873Z",
     "cancelSorteado": true,
-    "cancelar": false
+    "cancelar": false,
+    "pendientesHumanos": 0,
+    "anotados": 0
   },
   "cmw6jo6rc009301qh9jyj6j78": {
     "jugadores": [],
-    "pendientes": [],
+    "pendientes": [
+      "carol.danvers"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -7799,7 +7772,9 @@
     "fecha": "2026-11-12T23:00:00.000Z",
     "deporte": "TENIS",
     "cupo": 3,
-    "creado": "2026-11-07T15:14:43.270Z"
+    "creado": "2026-11-07T15:14:43.270Z",
+    "pendientesHumanos": 0,
+    "anotados": 0
   },
   "cmw6jr5or00cc01qh96ewj173": {
     "jugadores": [],
@@ -7815,6 +7790,8 @@
     "cupo": 3,
     "creado": "2026-11-07T15:17:01.836Z",
     "cancelSorteado": true,
-    "cancelar": false
+    "cancelar": false,
+    "pendientesHumanos": 0,
+    "anotados": 0
   }
 }

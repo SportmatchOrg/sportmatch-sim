@@ -2,3 +2,4 @@
 - 2026-11-06 00:13 · calificó el fútbol (5, 4 y 5) y armó un fútbol el dom 8/11 10:00 en Club Pilar
 - 2026-11-06 08:13 · aceptó a George en su fútbol del domingo; hoy no hizo más
 - 2026-11-06 20:12 · aceptó a Doc Brown en su fútbol del domingo
+- 2026-11-07 16:12 · aceptó a Gandalf en su fútbol del domingo

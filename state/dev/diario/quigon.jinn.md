@@ -21,3 +21,4 @@
 - 2026-10-31 20:11 · aceptó a Luke en su running y se anotó a un pádel en Norte Pádel (le gusta conocer gente)
 - 2026-11-05 16:13 · armó un pádel INTERMEDIATE el sáb 7/11 10:00 en Tigre Pádel Club (le gusta conocer gente)
 - 2026-11-07 12:13 · pidió unirse al running del domingo 9:00 de Molly en Parque Pilar (le gusta conocer gente)
+- 2026-11-07 16:11 · entró, no había nada para calificar y solo miró

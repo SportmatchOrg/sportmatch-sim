@@ -24,3 +24,4 @@
 - 2026-11-02 00:11 · cerró el partido pendiente, no había a quién calificar
 - 2026-11-05 16:13 · armó un running INTERMEDIATE el dom 8/11 9:00 en Parque Pilar (ritmo parejo)
 - 2026-11-06 00:13 · leyó notificaciones; sin novedades, solo miró
+- 2026-11-07 16:11 · aceptó a Qui-Gon en su running del domingo en Parque Pilar
