@@ -46,3 +46,4 @@
 - 2026-11-06 00:15 · aceptó a Dory en su fútbol del lunes y calificó el fútbol (4 y 5)
 - 2026-11-06 16:16 · aceptó a Lois en su fútbol del lunes y pidió unirse al de Dory del martes en Club Pilar
 - 2026-11-07 00:12 · calificó el fútbol y aceptó a Rocket en su fútbol del lunes
+- 2026-11-07 20:15 · calificó el fútbol (5, 4 y 5); ya estaba anotado al del martes en Club Pilar

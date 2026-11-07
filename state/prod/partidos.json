@@ -6140,8 +6140,8 @@
       "timon": true
     },
     "calificaran": [
-      "fiona",
       "neo",
+      "fiona",
       "luke.skywalker",
       "timon"
     ],
@@ -6940,9 +6940,25 @@
     ],
     "pendientes": [],
     "bajasSorteadas": false,
-    "asistencia": null,
-    "calificaran": [],
-    "calificaron": [],
+    "asistencia": {
+      "neo": true,
+      "timon": false,
+      "buzz.lightyear": true,
+      "bart.simpson": true,
+      "bruce.banner": true
+    },
+    "calificaran": [
+      "neo",
+      "buzz.lightyear",
+      "bart.simpson",
+      "bruce.banner"
+    ],
+    "calificaron": [
+      "neo",
+      "buzz.lightyear",
+      "bruce.banner",
+      "bart.simpson"
+    ],
     "cancelado": false,
     "organizador": "neo",
     "fecha": "2026-11-07T23:00:00.000Z",
@@ -7161,9 +7177,35 @@
       "gandalf"
     ],
     "bajasSorteadas": false,
-    "asistencia": null,
-    "calificaran": [],
-    "calificaron": [],
+    "asistencia": {
+      "lois.lane": true,
+      "george.weasley": true,
+      "trinity": true,
+      "pumba": true,
+      "dory": true,
+      "chewbacca": true,
+      "pippin.tuk": true,
+      "phoebe.buffay": true,
+      "krusty": true
+    },
+    "calificaran": [
+      "george.weasley",
+      "pumba",
+      "dory",
+      "chewbacca",
+      "pippin.tuk",
+      "phoebe.buffay",
+      "krusty"
+    ],
+    "calificaron": [
+      "pippin.tuk",
+      "chewbacca",
+      "george.weasley",
+      "dory",
+      "phoebe.buffay",
+      "krusty",
+      "pumba"
+    ],
     "cancelado": false,
     "organizador": "lois.lane",
     "fecha": "2026-11-07T23:00:00.000Z",
@@ -7306,7 +7348,9 @@
       "arya.stark",
       "lois.lane"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "pumba"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -7371,7 +7415,7 @@
     "cupo": 3,
     "creado": "2026-11-06T15:14:39.557Z",
     "pendientesHumanos": 0,
-    "anotados": 0,
+    "anotados": 1,
     "cancelSorteado": true,
     "cancelar": false
   },
@@ -7461,7 +7505,7 @@
     "cupo": 3,
     "creado": "2026-11-07T11:11:44.817Z",
     "pendientesHumanos": 0,
-    "anotados": 0,
+    "anotados": 1,
     "cancelSorteado": true,
     "cancelar": false
   },
@@ -7483,7 +7527,9 @@
   },
   "cmw6jujjy042k01ohfy8citc2": {
     "jugadores": [],
-    "pendientes": [],
+    "pendientes": [
+      "hector.barbossa"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -7514,9 +7560,12 @@
     "anotados": 0
   },
   "cmw6jvfdr043e01ohqyj0u9xb": {
-    "jugadores": [],
+    "jugadores": [
+      "bellatrix.lestrange",
+      "chewbacca"
+    ],
     "pendientes": [
-      "bellatrix.lestrange"
+      "krusty"
     ],
     "bajasSorteadas": false,
     "asistencia": null,
@@ -7543,7 +7592,11 @@
     "fecha": "2026-11-08T12:00:00.000Z",
     "deporte": "TENIS",
     "cupo": 3,
-    "creado": "2026-11-07T19:14:34.313Z"
+    "creado": "2026-11-07T19:14:34.313Z",
+    "pendientesHumanos": 0,
+    "anotados": 0,
+    "cancelSorteado": true,
+    "cancelar": false
   },
   "cmw6s8ocu047q01ohk0l2j6ew": {
     "jugadores": [],
@@ -7557,6 +7610,24 @@
     "fecha": "2026-11-08T10:30:00.000Z",
     "deporte": "RUNNING",
     "cupo": 5,
-    "creado": "2026-11-07T19:14:36.147Z"
+    "creado": "2026-11-07T19:14:36.147Z",
+    "pendientesHumanos": 0,
+    "anotados": 0,
+    "cancelSorteado": true,
+    "cancelar": false
+  },
+  "cmw70u46t04c701ohvpmy2bd6": {
+    "jugadores": [],
+    "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "phoebe.buffay",
+    "fecha": "2026-11-10T23:30:00.000Z",
+    "deporte": "BASQUET",
+    "cupo": 7,
+    "creado": "2026-11-07T23:15:13.324Z"
   }
 }

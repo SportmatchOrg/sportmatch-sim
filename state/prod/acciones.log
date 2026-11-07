@@ -2759,3 +2759,25 @@
 2026-11-07T19:14:18.603Z scott.lang leer-notificaciones 1
 2026-11-07T19:14:34.315Z hermione.granger crear cmw6s8mwk047n01ohlmptw6y4 TENIS 2026-11-08T12:00:00.000Z
 2026-11-07T19:14:36.149Z chandler.bing crear cmw6s8ocu047q01ohk0l2j6ew RUNNING 2026-11-08T10:30:00.000Z
+2026-11-07T23:13:04.535Z sorteo cmw1b3wir017701ohy6lx48pr faltaron=[timon] calificaran=[neo,buzz.lightyear,bart.simpson,bruce.banner]
+2026-11-07T23:13:09.894Z sorteo cmw2z3le202a101oh6uf9eqfi faltaron=[] calificaran=[george.weasley,pumba,dory,chewbacca,pippin.tuk,phoebe.buffay,krusty]
+2026-11-07T23:13:39.546Z chewbacca leer-notificaciones 1
+2026-11-07T23:13:45.644Z pippin.tuk calificar cmw2z3le202a101oh6uf9eqfi ratings=3 noShows=0
+2026-11-07T23:13:48.130Z chewbacca calificar cmw2z3le202a101oh6uf9eqfi ratings=3 noShows=0
+2026-11-07T23:13:54.645Z chewbacca unirse cmw6jvfdr043e01ohqyj0u9xb
+2026-11-07T23:13:56.382Z lois.lane leer-notificaciones 1
+2026-11-07T23:14:07.110Z hector.barbossa unirse cmw6jujjy042k01ohfy8citc2
+2026-11-07T23:14:20.802Z lois.lane aceptar cmw6jvfdr043e01ohqyj0u9xb bellatrix.lestrange
+2026-11-07T23:14:22.417Z lois.lane aceptar cmw6jvfdr043e01ohqyj0u9xb chewbacca
+2026-11-07T23:14:24.890Z george.weasley calificar cmw2z3le202a101oh6uf9eqfi ratings=3 noShows=0
+2026-11-07T23:14:26.425Z dory calificar cmw2z3le202a101oh6uf9eqfi ratings=3 noShows=0
+2026-11-07T23:14:35.876Z neo calificar cmw1b3wir017701ohy6lx48pr ratings=3 noShows=1
+2026-11-07T23:14:48.477Z buzz.lightyear calificar cmw1b3wir017701ohy6lx48pr ratings=3 noShows=1
+2026-11-07T23:14:50.065Z bruce.banner calificar cmw1b3wir017701ohy6lx48pr ratings=2 noShows=1
+2026-11-07T23:14:51.676Z bart.simpson calificar cmw1b3wir017701ohy6lx48pr ratings=2 noShows=1
+2026-11-07T23:14:53.245Z phoebe.buffay calificar cmw2z3le202a101oh6uf9eqfi ratings=3 noShows=0
+2026-11-07T23:14:55.652Z krusty calificar cmw2z3le202a101oh6uf9eqfi ratings=3 noShows=0
+2026-11-07T23:14:57.230Z pumba calificar cmw2z3le202a101oh6uf9eqfi ratings=3 noShows=0
+2026-11-07T23:15:04.687Z krusty unirse cmw6jvfdr043e01ohqyj0u9xb
+2026-11-07T23:15:06.243Z pumba unirse cmw4ek5iw031r01oh2z30ovac
+2026-11-07T23:15:13.327Z phoebe.buffay crear cmw70u46t04c701ohvpmy2bd6 BASQUET 2026-11-10T23:30:00.000Z

@@ -61,3 +61,4 @@
 - 2026-11-07 00:12 · calificó el fútbol y aceptó a Arya en su fútbol del martes
 - 2026-11-07 04:12 · aceptó a Chewbacca en su fútbol; intentó anotarse a un partido y ya estaba anotada
 - 2026-11-07 08:12 · aceptó a Rubeus y a Lois en sus fútbol y pidió unirse al de Bruce en River Courts (le gusta conocer gente)
+- 2026-11-07 20:15 · calificó el fútbol (4, 4 y 5); solo miró

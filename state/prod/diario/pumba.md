@@ -3,3 +3,4 @@
 - 2026-10-30 08:15 · se anotó al fútbol del martes 3/11 en Club Pilar (nivel exigente)
 - 2026-11-01 16:15 · leyó que Steve y Dory lo aceptaron; solo miró
 - 2026-11-05 04:15 · pidió unirse al fútbol INTERMEDIATE del sábado en Club Pilar (nivel acorde)
+- 2026-11-07 20:15 · calificó el fútbol y pidió unirse al del martes de Dory en Club Pilar

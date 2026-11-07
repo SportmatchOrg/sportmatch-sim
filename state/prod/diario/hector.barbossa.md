@@ -43,3 +43,4 @@
 - 2026-11-07 08:12 · entró, no había a quién calificar; solo miró
 - 2026-11-07 12:20 · entró, leyó notificaciones y solo miró; sin nadie para calificar
 - 2026-11-07 16:14 · entró, no había a quién calificar; solo miró
+- 2026-11-07 20:14 · se anotó al fútbol ADVANCED del jueves 21 h en Club Pilar (le queda bien después del trabajo)

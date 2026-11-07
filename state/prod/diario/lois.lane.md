@@ -104,3 +104,4 @@
 - 2026-11-07 08:12 · pidió unirse al fútbol del martes en Club Pilar de Dory; Gandalf sigue sin entrar porque el partido está lleno
 - 2026-11-07 12:20 · armó un fútbol el jueves 20:30 en Club Pilar; Gandalf sigue sin entrar, partido lleno
 - 2026-11-07 16:14 · Gandalf sigue pendiente: el partido está lleno; no pudo aceptarlo
+- 2026-11-07 20:14 · aceptó a Bellatrix y a Chewbacca en su fútbol del jueves en Club Pilar
