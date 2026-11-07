@@ -4,3 +4,4 @@
 - 2026-10-28 12:16 · entró, leyó notificaciones y solo miró
 - 2026-10-29 12:15 · entró y solo miró
 - 2026-11-05 12:15 · entró, leyó notificaciones y solo miró
+- 2026-11-07 08:12 · pidió unirse al fútbol del martes de Elrond en Nordelta

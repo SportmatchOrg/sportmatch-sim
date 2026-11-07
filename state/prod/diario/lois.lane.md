@@ -101,3 +101,4 @@
 - 2026-11-06 20:15 · Gandalf sigue pendiente: su fútbol del sábado está lleno
 - 2026-11-07 00:12 · calificó el fútbol; no pudo aceptar a Gandalf, el partido está lleno
 - 2026-11-07 04:12 · quiso aceptar a Gandalf pero el fútbol ya estaba lleno
+- 2026-11-07 08:12 · pidió unirse al fútbol del martes en Club Pilar de Dory; Gandalf sigue sin entrar porque el partido está lleno

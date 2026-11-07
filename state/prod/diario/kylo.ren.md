@@ -1,3 +1,4 @@
 - 2026-11-01 00:15 · se unió al básquet del lunes en Campus Austral (se une a todo)
 - 2026-11-01 04:15 · leyó que Frodo lo aceptó y pidió unirse al básquet del jueves 5 en Campus Austral (conoce gente)
 - 2026-11-03 00:16 · calificó el básquet y pidió unirse al de Timón del miércoles en Campus Austral (se une a todo)
+- 2026-11-07 08:12 · leyó que Timón lo aceptó y pidió unirse al básquet del domingo de Frodo en Campus Austral (se une a todo)

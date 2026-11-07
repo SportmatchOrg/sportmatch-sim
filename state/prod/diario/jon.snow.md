@@ -34,3 +34,4 @@
 - 2026-10-27 00:14 · calificó el fútbol (4 y 5); solo miró
 - 2026-10-29 16:13 · entró a mirar; esperando respuesta del fútbol del lunes
 - 2026-11-01 20:14 · entró y solo miró; sigue esperando respuesta
+- 2026-11-07 08:12 · pidió unirse al fútbol ADVANCED del domingo en Club Pilar (competitivo)
