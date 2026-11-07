@@ -127,3 +127,4 @@
 - 2026-11-06 12:14 · pidió unirse al fútbol del viernes en Nordelta; su aceptación de Tomás no entró, el partido ya estaba lleno
 - 2026-11-06 16:15 · no pudo aceptar a Tomás: su partido está lleno; no se anotó a nada nuevo
 - 2026-11-06 20:14 · calificó el partido: 5 a Sam y 4 a Merry
+- 2026-11-07 00:11 · calificó el partido y pidió unirse al pádel del domingo en Club Belgrano

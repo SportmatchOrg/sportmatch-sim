@@ -6054,10 +6054,10 @@
     "calificaran": [
       "lois.lane",
       "george.weasley",
-      "krusty",
       "neville.longbottom",
-      "trinity",
-      "bart.simpson"
+      "bart.simpson",
+      "krusty",
+      "trinity"
     ],
     "calificaron": [
       "lois.lane",
@@ -6218,9 +6218,9 @@
       "pippin.tuk": true
     },
     "calificaran": [
-      "gandalf",
+      "pippin.tuk",
       "lois.lane",
-      "pippin.tuk"
+      "gandalf"
     ],
     "calificaron": [
       "pippin.tuk",
@@ -6475,12 +6475,12 @@
       "fred.weasley": false
     },
     "calificaran": [
-      "dory",
-      "rocket",
       "sirius.black",
+      "dory",
       "krusty",
       "arthur.curry",
-      "shrek"
+      "shrek",
+      "rocket"
     ],
     "calificaron": [
       "sirius.black",
@@ -6663,9 +6663,17 @@
     ],
     "pendientes": [],
     "bajasSorteadas": true,
-    "asistencia": null,
-    "calificaran": [],
-    "calificaron": [],
+    "asistencia": {
+      "frodo.bolson": true,
+      "gato.con.botas": true,
+      "bart.simpson": true
+    },
+    "calificaran": [
+      "bart.simpson"
+    ],
+    "calificaron": [
+      "bart.simpson"
+    ],
     "cancelado": false,
     "organizador": "frodo.bolson",
     "fecha": "2026-11-07T00:00:00.000Z",
@@ -6687,9 +6695,32 @@
     ],
     "pendientes": [],
     "bajasSorteadas": true,
-    "asistencia": null,
-    "calificaran": [],
-    "calificaron": [],
+    "asistencia": {
+      "lois.lane": true,
+      "hermione.granger": true,
+      "neville.longbottom": true,
+      "rocket": true,
+      "chewbacca": true,
+      "saul.goodman": true,
+      "george.weasley": true,
+      "dory": true
+    },
+    "calificaran": [
+      "lois.lane",
+      "hermione.granger",
+      "chewbacca",
+      "saul.goodman",
+      "george.weasley",
+      "dory"
+    ],
+    "calificaron": [
+      "hermione.granger",
+      "chewbacca",
+      "lois.lane",
+      "george.weasley",
+      "dory",
+      "saul.goodman"
+    ],
     "cancelado": false,
     "organizador": "lois.lane",
     "fecha": "2026-11-07T00:00:00.000Z",
@@ -6859,9 +6890,16 @@
     ],
     "pendientes": [],
     "bajasSorteadas": true,
-    "asistencia": null,
-    "calificaran": [],
-    "calificaron": [],
+    "asistencia": {
+      "mace.windu": true,
+      "cedric.diggory": true
+    },
+    "calificaran": [
+      "cedric.diggory"
+    ],
+    "calificaron": [
+      "cedric.diggory"
+    ],
     "cancelado": false,
     "organizador": "mace.windu",
     "fecha": "2026-11-06T23:30:00.000Z",
@@ -6873,7 +6911,9 @@
   },
   "cmw1s7ztk01g501oh6nc288kj": {
     "jugadores": [],
-    "pendientes": [],
+    "pendientes": [
+      "bart.simpson"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -6893,7 +6933,9 @@
       "sam.gamyi",
       "bellatrix.lestrange"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "saul.goodman"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -6913,9 +6955,16 @@
     ],
     "pendientes": [],
     "bajasSorteadas": true,
-    "asistencia": null,
-    "calificaran": [],
-    "calificaron": [],
+    "asistencia": {
+      "bart.simpson": true,
+      "jesse.pinkman": true
+    },
+    "calificaran": [
+      "bart.simpson"
+    ],
+    "calificaron": [
+      "bart.simpson"
+    ],
     "cancelado": false,
     "organizador": "bart.simpson",
     "fecha": "2026-11-07T00:00:00.000Z",
@@ -6923,7 +6972,7 @@
     "cupo": 9,
     "creado": "2026-11-04T11:16:05.294Z",
     "pendientesHumanos": 0,
-    "anotados": 4
+    "anotados": 3
   },
   "cmw20ubjf01jt01ohlh6wrqqr": {
     "jugadores": [
@@ -6950,9 +6999,19 @@
     ],
     "pendientes": [],
     "bajasSorteadas": true,
-    "asistencia": null,
-    "calificaran": [],
-    "calificaron": [],
+    "asistencia": {
+      "elrond": true,
+      "selina.kyle": true,
+      "bellatrix.lestrange": true
+    },
+    "calificaran": [
+      "elrond",
+      "bellatrix.lestrange"
+    ],
+    "calificaron": [
+      "elrond",
+      "bellatrix.lestrange"
+    ],
     "cancelado": false,
     "organizador": "elrond",
     "fecha": "2026-11-06T23:30:00.000Z",
@@ -7041,7 +7100,9 @@
       "mike.wazowski",
       "fred.weasley"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "chewbacca"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -7053,7 +7114,7 @@
     "cupo": 9,
     "creado": "2026-11-05T03:16:16.257Z",
     "pendientesHumanos": 0,
-    "anotados": 5
+    "anotados": 6
   },
   "cmw2z628902dd01ohxez60smr": {
     "jugadores": [],
@@ -7096,11 +7157,10 @@
   "cmw3osq0h02pa01ohwx3lg0t3": {
     "jugadores": [
       "dory",
-      "lois.lane"
-    ],
-    "pendientes": [
+      "lois.lane",
       "rocket"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -7133,10 +7193,10 @@
     "anotados": 1
   },
   "cmw45z6g602x301ohlcssroh5": {
-    "jugadores": [],
-    "pendientes": [
+    "jugadores": [
       "arthur.curry"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -7154,11 +7214,10 @@
     "jugadores": [
       "hector.barbossa",
       "krusty",
-      "george.weasley"
-    ],
-    "pendientes": [
+      "george.weasley",
       "arya.stark"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -7241,7 +7300,9 @@
   },
   "cmw5cvvwq03ht01ohzb2m779u": {
     "jugadores": [],
-    "pendientes": [],
+    "pendientes": [
+      "cedric.diggory"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -7257,7 +7318,9 @@
   },
   "cmw5ldt3y03jy01oh0v4k5xrq": {
     "jugadores": [],
-    "pendientes": [],
+    "pendientes": [
+      "bellatrix.lestrange"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -7267,6 +7330,8 @@
     "fecha": "2026-11-08T23:00:00.000Z",
     "deporte": "PADEL",
     "cupo": 3,
-    "creado": "2026-11-06T23:14:52.054Z"
+    "creado": "2026-11-06T23:14:52.054Z",
+    "pendientesHumanos": 0,
+    "anotados": 0
   }
 }
