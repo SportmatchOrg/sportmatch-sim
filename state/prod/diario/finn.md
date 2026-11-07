@@ -17,3 +17,4 @@
 - 2026-11-05 16:15 · aceptó a Bart en su fútbol ADVANCED y armó otro ADVANCED el domingo 8 a las 10 h en Club Pilar
 - 2026-11-06 16:16 · aceptó a Bart en su fútbol ADVANCED del domingo; nada más le sirvió
 - 2026-11-07 04:12 · solo miró la app
+- 2026-11-07 12:21 · aceptó a Jon en su fútbol ADVANCED del domingo y calificó el partido (4-5); no armó otro

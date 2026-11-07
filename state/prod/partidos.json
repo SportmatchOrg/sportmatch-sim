@@ -6191,9 +6191,15 @@
     "jugadores": [],
     "pendientes": [],
     "bajasSorteadas": true,
-    "asistencia": null,
-    "calificaran": [],
-    "calificaron": [],
+    "asistencia": {
+      "hermione.granger": true
+    },
+    "calificaran": [
+      "hermione.granger"
+    ],
+    "calificaron": [
+      "hermione.granger"
+    ],
     "cancelado": false,
     "organizador": "hermione.granger",
     "fecha": "2026-11-07T13:00:00.000Z",
@@ -6275,9 +6281,16 @@
     ],
     "pendientes": [],
     "bajasSorteadas": true,
-    "asistencia": null,
-    "calificaran": [],
-    "calificaron": [],
+    "asistencia": {
+      "hermione.granger": true,
+      "bellatrix.lestrange": true
+    },
+    "calificaran": [
+      "bellatrix.lestrange"
+    ],
+    "calificaron": [
+      "bellatrix.lestrange"
+    ],
     "cancelado": false,
     "organizador": "hermione.granger",
     "fecha": "2026-11-07T12:30:00.000Z",
@@ -6285,7 +6298,7 @@
     "cupo": 9,
     "creado": "2026-11-01T15:15:38.032Z",
     "pendientesHumanos": 0,
-    "anotados": 6
+    "anotados": 4
   },
   "cmvxz2pfl023v01o4o3lm6pcn": {
     "jugadores": [
@@ -6293,9 +6306,18 @@
     ],
     "pendientes": [],
     "bajasSorteadas": true,
-    "asistencia": null,
-    "calificaran": [],
-    "calificaron": [],
+    "asistencia": {
+      "barney.gumble": true,
+      "cedric.diggory": true
+    },
+    "calificaran": [
+      "barney.gumble",
+      "cedric.diggory"
+    ],
+    "calificaron": [
+      "barney.gumble",
+      "cedric.diggory"
+    ],
     "cancelado": false,
     "organizador": "barney.gumble",
     "fecha": "2026-11-07T13:00:00.000Z",
@@ -6541,9 +6563,20 @@
     ],
     "pendientes": [],
     "bajasSorteadas": true,
-    "asistencia": null,
-    "calificaran": [],
-    "calificaron": [],
+    "asistencia": {
+      "finn": true,
+      "steve.rogers": true,
+      "barney.gumble": true,
+      "bart.simpson": true
+    },
+    "calificaran": [
+      "finn",
+      "steve.rogers"
+    ],
+    "calificaron": [
+      "steve.rogers",
+      "finn"
+    ],
     "cancelado": false,
     "organizador": "finn",
     "fecha": "2026-11-07T13:00:00.000Z",
@@ -6748,9 +6781,18 @@
       "dory"
     ],
     "bajasSorteadas": false,
-    "asistencia": null,
-    "calificaran": [],
-    "calificaron": [],
+    "asistencia": {
+      "bruce.banner": true,
+      "bellatrix.lestrange": true
+    },
+    "calificaran": [
+      "bruce.banner",
+      "bellatrix.lestrange"
+    ],
+    "calificaron": [
+      "bellatrix.lestrange",
+      "bruce.banner"
+    ],
     "cancelado": false,
     "organizador": "bruce.banner",
     "fecha": "2026-11-07T14:30:00.000Z",
@@ -6769,9 +6811,20 @@
     ],
     "pendientes": [],
     "bajasSorteadas": false,
-    "asistencia": null,
-    "calificaran": [],
-    "calificaron": [],
+    "asistencia": {
+      "sam.gamyi": true,
+      "bruce.wayne": true,
+      "bellatrix.lestrange": true
+    },
+    "calificaran": [
+      "sam.gamyi",
+      "bruce.wayne",
+      "bellatrix.lestrange"
+    ],
+    "calificaron": [
+      "sam.gamyi",
+      "bruce.wayne"
+    ],
     "cancelado": false,
     "organizador": "sam.gamyi",
     "fecha": "2026-11-07T14:00:00.000Z",
@@ -6873,7 +6926,9 @@
     "cupo": 7,
     "creado": "2026-11-03T23:15:52.000Z",
     "pendientesHumanos": 0,
-    "anotados": 1
+    "anotados": 1,
+    "cancelSorteado": true,
+    "cancelar": false
   },
   "cmw1b3wir017701ohy6lx48pr": {
     "jugadores": [
@@ -6923,11 +6978,10 @@
   },
   "cmw1s7ztk01g501oh6nc288kj": {
     "jugadores": [
-      "bart.simpson"
-    ],
-    "pendientes": [
+      "bart.simpson",
       "kylo.ren"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -6950,9 +7004,22 @@
     ],
     "pendientes": [],
     "bajasSorteadas": true,
-    "asistencia": null,
-    "calificaran": [],
-    "calificaron": [],
+    "asistencia": {
+      "burro": true,
+      "bruce.banner": true,
+      "sam.gamyi": true,
+      "bellatrix.lestrange": true,
+      "saul.goodman": true
+    },
+    "calificaran": [
+      "bruce.banner",
+      "sam.gamyi",
+      "bellatrix.lestrange"
+    ],
+    "calificaron": [
+      "sam.gamyi",
+      "bruce.banner"
+    ],
     "cancelado": false,
     "organizador": "burro",
     "fecha": "2026-11-07T13:00:00.000Z",
@@ -7127,7 +7194,7 @@
     "cupo": 9,
     "creado": "2026-11-05T03:16:16.257Z",
     "pendientesHumanos": 0,
-    "anotados": 7
+    "anotados": 8
   },
   "cmw2z628902dd01ohxez60smr": {
     "jugadores": [],
@@ -7153,7 +7220,10 @@
     ],
     "pendientes": [],
     "bajasSorteadas": true,
-    "asistencia": null,
+    "asistencia": {
+      "jack.sparrow": true,
+      "poe.dameron": true
+    },
     "calificaran": [],
     "calificaron": [],
     "cancelado": false,
@@ -7189,11 +7259,10 @@
   },
   "cmw3xdl1002sn01ohfoqkpfur": {
     "jugadores": [
-      "bart.simpson"
-    ],
-    "pendientes": [
+      "bart.simpson",
       "jon.snow"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -7205,7 +7274,9 @@
     "cupo": 9,
     "creado": "2026-11-05T19:15:04.629Z",
     "pendientesHumanos": 0,
-    "anotados": 1
+    "anotados": 1,
+    "cancelSorteado": true,
+    "cancelar": false
   },
   "cmw45z6g602x301ohlcssroh5": {
     "jugadores": [
@@ -7245,7 +7316,7 @@
     "cupo": 9,
     "creado": "2026-11-06T03:16:04.626Z",
     "pendientesHumanos": 0,
-    "anotados": 4
+    "anotados": 5
   },
   "cmw4n4dyl036b01oh7lv10f44": {
     "jugadores": [],
@@ -7284,7 +7355,9 @@
   },
   "cmw54898g03cx01ohsl5bmm04": {
     "jugadores": [],
-    "pendientes": [],
+    "pendientes": [
+      "cedric.diggory"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -7296,13 +7369,15 @@
     "cupo": 3,
     "creado": "2026-11-06T15:14:39.557Z",
     "pendientesHumanos": 0,
-    "anotados": 0
+    "anotados": 0,
+    "cancelSorteado": true,
+    "cancelar": false
   },
   "cmw5cu2oh03fs01ohp7ml09p2": {
-    "jugadores": [],
-    "pendientes": [
+    "jugadores": [
       "scott.lang"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -7370,7 +7445,9 @@
   },
   "cmw6azpwk03v301oh25ax7evr": {
     "jugadores": [],
-    "pendientes": [],
+    "pendientes": [
+      "bellatrix.lestrange"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -7380,6 +7457,66 @@
     "fecha": "2026-11-08T11:00:00.000Z",
     "deporte": "PADEL",
     "cupo": 3,
-    "creado": "2026-11-07T11:11:44.817Z"
+    "creado": "2026-11-07T11:11:44.817Z",
+    "pendientesHumanos": 0,
+    "anotados": 0,
+    "cancelSorteado": true,
+    "cancelar": false
+  },
+  "cmw6jtpuf041s01ohwoz1d103": {
+    "jugadores": [],
+    "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "elrond",
+    "fecha": "2026-11-12T00:00:00.000Z",
+    "deporte": "FUTBOL",
+    "cupo": 9,
+    "creado": "2026-11-07T15:19:01.301Z"
+  },
+  "cmw6jujjy042k01ohfy8citc2": {
+    "jugadores": [],
+    "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "steve.rogers",
+    "fecha": "2026-11-13T00:00:00.000Z",
+    "deporte": "FUTBOL",
+    "cupo": 9,
+    "creado": "2026-11-07T15:19:39.798Z"
+  },
+  "cmw6jv4fy043601ohmvmviaq6": {
+    "jugadores": [],
+    "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "sam.gamyi",
+    "fecha": "2026-11-11T23:00:00.000Z",
+    "deporte": "PADEL",
+    "cupo": 3,
+    "creado": "2026-11-07T15:20:06.863Z"
+  },
+  "cmw6jvfdr043e01ohqyj0u9xb": {
+    "jugadores": [],
+    "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "lois.lane",
+    "fecha": "2026-11-12T23:30:00.000Z",
+    "deporte": "FUTBOL",
+    "cupo": 9,
+    "creado": "2026-11-07T15:20:21.035Z"
   }
 }

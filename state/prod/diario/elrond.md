@@ -132,3 +132,4 @@
 - 2026-11-06 00:15 · calificó el fútbol, buenas notas; solo miró
 - 2026-11-06 16:15 · aceptó a Bellatrix en su fútbol y armó uno el martes 20:30 en Nordelta
 - 2026-11-07 00:11 · calificó el fútbol (Bellatrix y Selina); solo miró
+- 2026-11-07 12:19 · aceptó a Scott en su fútbol y armó otro el miércoles 21:00 en Nordelta

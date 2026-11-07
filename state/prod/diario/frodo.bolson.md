@@ -28,3 +28,4 @@
 - 2026-11-05 00:15 · aceptó a Gato con Botas en su básquet del viernes
 - 2026-11-05 20:15 · aceptó a Bart en su básquet del viernes
 - 2026-11-07 04:12 · aceptó a Bart en su básquet del domingo
+- 2026-11-07 12:20 · aceptó a Kylo en su básquet del domingo

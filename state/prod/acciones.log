@@ -2711,3 +2711,40 @@
 2026-11-07T11:12:53.675Z kylo.ren leer-notificaciones 1
 2026-11-07T11:12:57.789Z kylo.ren unirse cmw1s7ztk01g501oh6nc288kj
 2026-11-07T11:13:00.000Z yoda leer-notificaciones 1
+2026-11-07T15:18:19.129Z sorteo cmvx0qwin01r701o4uic51exu faltaron=[] calificaran=[hermione.granger]
+2026-11-07T15:18:19.943Z sorteo cmvxz290d023f01o40gu3n35g faltaron=[] calificaran=[bellatrix.lestrange]
+2026-11-07T15:18:20.554Z sorteo cmvxz2pfl023v01o4o3lm6pcn faltaron=[] calificaran=[barney.gumble,cedric.diggory]
+2026-11-07T15:18:21.159Z sorteo cmvz5x0uo008g01oh1wfr9xjz faltaron=[] calificaran=[finn,steve.rogers]
+2026-11-07T15:18:21.716Z sorteo cmw0csmu900te01ohcybm6okl faltaron=[] calificaran=[bruce.banner,bellatrix.lestrange]
+2026-11-07T15:18:22.288Z sorteo cmw0lcy1h00vi01ohqfm8x0vj faltaron=[] calificaran=[sam.gamyi,bruce.wayne,bellatrix.lestrange]
+2026-11-07T15:18:26.142Z sorteo cmw1s8gai01gi01ohxk19o7c3 faltaron=[] calificaran=[bruce.banner,sam.gamyi,bellatrix.lestrange]
+2026-11-07T15:18:30.948Z sorteo cmw3g9kgi02m701ohuc7o1g43 faltaron=[] calificaran=[]
+2026-11-07T15:18:49.342Z elrond leer-notificaciones 1
+2026-11-07T15:18:59.515Z elrond aceptar cmw5cu2oh03fs01ohp7ml09p2 scott.lang
+2026-11-07T15:19:01.304Z elrond crear cmw6jtpuf041s01ohwoz1d103 FUTBOL 2026-11-12T00:00:00.000Z
+2026-11-07T15:19:04.994Z bellatrix.lestrange leer-notificaciones 1
+2026-11-07T15:19:19.732Z bellatrix.lestrange calificar cmvxz290d023f01o40gu3n35g ratings=3 noShows=0
+2026-11-07T15:19:21.469Z bellatrix.lestrange calificar cmw0csmu900te01ohcybm6okl ratings=2 noShows=0
+2026-11-07T15:19:23.380Z bellatrix.lestrange unirse cmw6azpwk03v301oh25ax7evr
+2026-11-07T15:19:38.074Z steve.rogers calificar cmvz5x0uo008g01oh1wfr9xjz ratings=3 noShows=0
+2026-11-07T15:19:39.801Z steve.rogers crear cmw6jujjy042k01ohfy8citc2 FUTBOL 2026-11-13T00:00:00.000Z
+2026-11-07T15:19:45.490Z hermione.granger leer-notificaciones 2
+2026-11-07T15:19:51.308Z hermione.granger calificar cmvx0qwin01r701o4uic51exu ratings=2 noShows=0
+2026-11-07T15:20:03.228Z sam.gamyi calificar cmw0lcy1h00vi01ohqfm8x0vj ratings=2 noShows=0
+2026-11-07T15:20:05.056Z sam.gamyi calificar cmw1s8gai01gi01ohxk19o7c3 ratings=3 noShows=0
+2026-11-07T15:20:06.865Z sam.gamyi crear cmw6jv4fy043601ohmvmviaq6 PADEL 2026-11-11T23:00:00.000Z
+2026-11-07T15:20:13.421Z lois.lane leer-notificaciones 1
+2026-11-07T15:20:21.037Z lois.lane crear cmw6jvfdr043e01ohqyj0u9xb FUTBOL 2026-11-12T23:30:00.000Z
+2026-11-07T15:20:30.991Z frodo.bolson leer-notificaciones 2
+2026-11-07T15:20:37.321Z frodo.bolson aceptar cmw1s7ztk01g501oh6nc288kj kylo.ren
+2026-11-07T15:20:43.322Z bruce.wayne calificar cmw0lcy1h00vi01ohqfm8x0vj ratings=2 noShows=0
+2026-11-07T15:20:50.643Z barney.gumble calificar cmvxz2pfl023v01o4o3lm6pcn ratings=2 noShows=0
+2026-11-07T15:20:52.498Z finn leer-notificaciones 1
+2026-11-07T15:21:01.324Z finn aceptar cmw3xdl1002sn01ohfoqkpfur jon.snow
+2026-11-07T15:21:03.115Z finn calificar cmvz5x0uo008g01oh1wfr9xjz ratings=3 noShows=0
+2026-11-07T15:21:05.078Z bruce.banner leer-notificaciones 5
+2026-11-07T15:21:12.302Z bruce.banner calificar cmw0csmu900te01ohcybm6okl ratings=2 noShows=0
+2026-11-07T15:21:14.047Z bruce.banner calificar cmw1s8gai01gi01ohxk19o7c3 ratings=3 noShows=0
+2026-11-07T15:21:15.999Z cedric.diggory leer-notificaciones 1
+2026-11-07T15:21:23.470Z cedric.diggory calificar cmvxz2pfl023v01o4o3lm6pcn ratings=2 noShows=0
+2026-11-07T15:21:25.390Z cedric.diggory unirse cmw54898g03cx01ohsl5bmm04

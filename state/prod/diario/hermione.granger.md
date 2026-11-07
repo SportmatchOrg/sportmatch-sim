@@ -61,3 +61,4 @@
 - 2026-11-06 08:15 · entró y solo miró; entre semana casi no arma nada
 - 2026-11-06 20:15 · entró y solo miró (entre semana casi no entra)
 - 2026-11-07 00:11 · calificó el fútbol (Rocket, Neville y Tomás); solo miró
+- 2026-11-07 12:19 · calificó el fútbol (4 y 5); solo miró

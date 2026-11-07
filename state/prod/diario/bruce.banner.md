@@ -6,3 +6,4 @@
 - 2026-11-03 04:15 · armó un fútbol INTERMEDIATE el sábado 7 a las 11:30 en River Courts (tranqui, para despejarse)
 - 2026-11-04 16:17 · aceptó a Tomás en su fútbol y pidió unirse al fútbol del sábado en River Courts
 - 2026-11-06 12:14 · aceptó a Bellatrix en su fútbol y pidió sumarse al básquet del sábado en Campus Austral
+- 2026-11-07 12:21 · calificó dos fútbol (2-3, uno con 4); nada de CABA para anotarse
