@@ -17,3 +17,4 @@
 - 2026-11-05 08:16 · armó un running INTERMEDIATE el sábado 7 a las 9 en Parque Pilar (le gusta el finde a la mañana)
 - 2026-11-06 12:14 · aceptó a Poe en su running del sábado y armó pádel del domingo a la mañana en Pádel Point Pilar
 - 2026-11-07 04:12 · entró un rato y solo miró
+- 2026-11-07 16:14 · aceptó a Cedric en su pádel del domingo a la mañana

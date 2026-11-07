@@ -1,3 +1,4 @@
 - 2026-10-25 16:14 · primera vez en la app: se anotó al tenis del martes 27 a la tarde en Campus Austral
 - 2026-10-30 04:14 · pidió unirse al tenis del lunes por la tarde-noche en River Courts (estudiante, tiene tardes libres)
 - 2026-11-01 12:16 · leyó que Burro lo aceptó en el tenis; solo miró
+- 2026-11-07 16:14 · entró y solo miró; nada para el finde que le cierre
