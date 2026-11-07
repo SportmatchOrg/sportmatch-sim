@@ -80,3 +80,4 @@
 - 2026-11-06 00:12 · aceptó a Marty en su fútbol y pidió unirse al fútbol del lunes de Phoebe en Club Pilar
 - 2026-11-06 08:11 · aceptó a Phoebe en su fútbol y se unió al fútbol del sábado en Club Pilar
 - 2026-11-07 12:14 · calificó dos fútbol (mayormente 4 y 5); hoy no armó nada
+- 2026-11-07 20:12 · solo miró, no armó nada hoy

@@ -6718,9 +6718,7 @@
     "asistencia": {
       "albus.dumbledore": true
     },
-    "calificaran": [
-      "albus.dumbledore"
-    ],
+    "calificaran": [],
     "calificaron": [],
     "cancelado": false,
     "organizador": "albus.dumbledore",
@@ -6960,9 +6958,7 @@
     "asistencia": {
       "elrond": true
     },
-    "calificaran": [
-      "elrond"
-    ],
+    "calificaran": [],
     "calificaron": [],
     "cancelado": false,
     "organizador": "elrond",
@@ -6978,7 +6974,8 @@
   "cycao0yqf5xrch4nvd4eywavx": {
     "jugadores": [],
     "pendientes": [
-      "rocky.balboa"
+      "rocky.balboa",
+      "galadriel"
     ],
     "bajasSorteadas": false,
     "asistencia": null,
@@ -7106,9 +7103,7 @@
     "asistencia": {
       "carol.danvers": true
     },
-    "calificaran": [
-      "carol.danvers"
-    ],
+    "calificaran": [],
     "calificaron": [],
     "cancelado": false,
     "organizador": "carol.danvers",
@@ -7248,7 +7243,7 @@
     "cupo": 7,
     "creado": "2026-11-04T07:12:29.639Z",
     "pendientesHumanos": 0,
-    "anotados": 1
+    "anotados": 3
   },
   "ci1d1d0t1gdtna0v2w3jpovbj": {
     "jugadores": [],
@@ -7446,7 +7441,7 @@
     "cupo": 5,
     "creado": "2026-11-05T19:13:13.684Z",
     "pendientesHumanos": 0,
-    "anotados": 0,
+    "anotados": 1,
     "cancelSorteado": true,
     "cancelar": false
   },
@@ -7483,7 +7478,7 @@
     "cupo": 3,
     "creado": "2026-11-06T03:12:19.082Z",
     "pendientesHumanos": 0,
-    "anotados": 1
+    "anotados": 2
   },
   "cmw4eg8ps01ep01rpt17sfh0y": {
     "jugadores": [
@@ -7503,7 +7498,7 @@
     "cupo": 9,
     "creado": "2026-11-06T03:13:02.165Z",
     "pendientesHumanos": 0,
-    "anotados": 2,
+    "anotados": 3,
     "cancelSorteado": true,
     "cancelar": false
   },
@@ -7736,7 +7731,7 @@
     "cupo": 5,
     "creado": "2026-11-06T23:13:34.610Z",
     "pendientesHumanos": 0,
-    "anotados": 0,
+    "anotados": 1,
     "cancelSorteado": true,
     "cancelar": false
   },
@@ -7759,10 +7754,10 @@
     "anotados": 0
   },
   "cmw6jo6rc009301qh9jyj6j78": {
-    "jugadores": [],
-    "pendientes": [
+    "jugadores": [
       "carol.danvers"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -7778,7 +7773,9 @@
   },
   "cmw6jr5or00cc01qh96ewj173": {
     "jugadores": [],
-    "pendientes": [],
+    "pendientes": [
+      "rey"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],

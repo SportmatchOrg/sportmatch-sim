@@ -18,3 +18,4 @@
 - 2026-11-03 16:12 · pidió unirse al básquet del viernes en Club Belgrano de Ned
 - 2026-11-05 04:13 · leyó que Ned la aceptó en el básquet del viernes; hoy solo miró
 - 2026-11-05 16:12 · leyó notificaciones; hoy solo miró
+- 2026-11-07 20:12 · se enteró de que Ned canceló el básquet y pidió unirse a un básquet BEGINNER/INTERMEDIATE del sáb 14/11 en CABA

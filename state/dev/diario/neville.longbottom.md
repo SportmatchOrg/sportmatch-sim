@@ -5,3 +5,4 @@
 - 2026-10-26 04:12 · pidió unirse al fútbol del martes en Club Pilar
 - 2026-10-26 08:12 · pidió unirse al fútbol del martes de Dory en Club Pilar (competitivo)
 - 2026-10-27 20:12 · calificó el fútbol (5 y 4)
+- 2026-11-07 20:12 · leyó notificaciones y solo miró

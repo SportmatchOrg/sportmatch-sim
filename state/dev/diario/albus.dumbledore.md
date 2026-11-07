@@ -52,3 +52,4 @@
 - 2026-11-06 20:12 · no había a quién calificar; hoy solo miró
 - 2026-11-07 12:14 · armó un tenis dobles INTERMEDIATE el jue 12/11 20:00 en Campus Austral (le gusta conocer gente)
 - 2026-11-07 16:12 · aceptó a Elrond en su tenis del martes en Tigre; ya armó otro tenis, no se unió a nada
+- 2026-11-07 20:12 · aceptó a Carol en su tenis; no se unió a nada
