@@ -106,3 +106,4 @@
 - 2026-11-05 20:15 · miró la app: el pádel sigue lleno para Bruce; no hizo más
 - 2026-11-06 00:15 · calificó el pádel con buenas notas; solo miró
 - 2026-11-06 20:14 · calificó el pádel (5 y 5) y armó un pádel BEGINNER del domingo a la noche en Club Belgrano
+- 2026-11-07 04:12 · aceptó a Bellatrix en su pádel del domingo

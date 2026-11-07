@@ -10,3 +10,4 @@
 - 2026-10-29 20:14 · calificó el pádel (5 y 5) y pidió unirse al pádel del sábado 31 a la mañana en Tigre
 - 2026-10-30 12:14 · pidió unirse al pádel intermedio del lunes 2 en Tigre (ya lo aceptaron en el del sábado)
 - 2026-10-31 12:15 · calificó el pádel (5 y 5)
+- 2026-11-07 04:12 · solo miró la app

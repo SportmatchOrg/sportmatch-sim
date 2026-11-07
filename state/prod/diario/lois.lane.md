@@ -100,3 +100,4 @@
 - 2026-11-06 16:16 · no pudo aceptar a Gandalf: su fútbol del sábado está lleno; solo miró
 - 2026-11-06 20:15 · Gandalf sigue pendiente: su fútbol del sábado está lleno
 - 2026-11-07 00:12 · calificó el fútbol; no pudo aceptar a Gandalf, el partido está lleno
+- 2026-11-07 04:12 · quiso aceptar a Gandalf pero el fútbol ya estaba lleno

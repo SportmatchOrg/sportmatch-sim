@@ -6910,10 +6910,10 @@
     "anotados": 2
   },
   "cmw1s7ztk01g501oh6nc288kj": {
-    "jugadores": [],
-    "pendientes": [
+    "jugadores": [
       "bart.simpson"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -6931,11 +6931,10 @@
     "jugadores": [
       "bruce.banner",
       "sam.gamyi",
-      "bellatrix.lestrange"
-    ],
-    "pendientes": [
+      "bellatrix.lestrange",
       "saul.goodman"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -7098,10 +7097,11 @@
       "pippin.tuk",
       "lois.lane",
       "mike.wazowski",
-      "fred.weasley"
+      "fred.weasley",
+      "chewbacca"
     ],
     "pendientes": [
-      "chewbacca"
+      "rubeus.hagrid"
     ],
     "bajasSorteadas": false,
     "asistencia": null,
@@ -7172,7 +7172,7 @@
     "cupo": 9,
     "creado": "2026-11-05T15:14:54.397Z",
     "pendientesHumanos": 0,
-    "anotados": 2
+    "anotados": 3
   },
   "cmw3xdl1002sn01ohfoqkpfur": {
     "jugadores": [
@@ -7208,7 +7208,7 @@
     "cupo": 3,
     "creado": "2026-11-05T23:15:49.122Z",
     "pendientesHumanos": 0,
-    "anotados": 0
+    "anotados": 1
   },
   "cmw4ek5iw031r01oh2z30ovac": {
     "jugadores": [
@@ -7229,7 +7229,7 @@
     "cupo": 9,
     "creado": "2026-11-06T03:16:04.626Z",
     "pendientesHumanos": 0,
-    "anotados": 3
+    "anotados": 4
   },
   "cmw4n4dyl036b01oh7lv10f44": {
     "jugadores": [],
@@ -7299,10 +7299,10 @@
     "anotados": 0
   },
   "cmw5cvvwq03ht01ohzb2m779u": {
-    "jugadores": [],
-    "pendientes": [
+    "jugadores": [
       "cedric.diggory"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -7317,10 +7317,10 @@
     "anotados": 0
   },
   "cmw5ldt3y03jy01oh0v4k5xrq": {
-    "jugadores": [],
-    "pendientes": [
+    "jugadores": [
       "bellatrix.lestrange"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -7333,5 +7333,19 @@
     "creado": "2026-11-06T23:14:52.054Z",
     "pendientesHumanos": 0,
     "anotados": 0
+  },
+  "cmw62erqo03s101ohrw012aas": {
+    "jugadores": [],
+    "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "mace.windu",
+    "fecha": "2026-11-10T23:30:00.000Z",
+    "deporte": "FUTBOL",
+    "cupo": 9,
+    "creado": "2026-11-07T07:11:30.460Z"
   }
 }

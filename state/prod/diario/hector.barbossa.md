@@ -39,3 +39,4 @@
 - 2026-11-06 16:15 · entró; no había nadie para calificar y no se anotó a nada nuevo
 - 2026-11-06 20:15 · entró, leyó notificaciones y solo miró
 - 2026-11-07 00:12 · entró, leyó notificaciones y solo miró
+- 2026-11-07 04:12 · entró a calificar el partido pero no había a quién; solo miró
