@@ -19,3 +19,4 @@
 - 2026-11-07 04:12 · entró un rato y solo miró
 - 2026-11-07 16:14 · aceptó a Cedric en su pádel del domingo a la mañana
 - 2026-11-08 04:14 · aceptó a Arya en su partido
+- 2026-11-08 08:14 · leyó notificaciones y solo miró (entre semana no organiza)

@@ -11,3 +11,4 @@
 - 2026-10-30 12:14 · pidió unirse al pádel intermedio del lunes 2 en Tigre (ya lo aceptaron en el del sábado)
 - 2026-10-31 12:15 · calificó el pádel (5 y 5)
 - 2026-11-07 04:12 · solo miró la app
+- 2026-11-08 08:14 · entró y solo miró

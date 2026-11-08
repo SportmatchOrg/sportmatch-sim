@@ -108,3 +108,4 @@
 - 2026-11-06 20:14 · calificó el pádel (5 y 5) y armó un pádel BEGINNER del domingo a la noche en Club Belgrano
 - 2026-11-07 04:12 · aceptó a Bellatrix en su pádel del domingo
 - 2026-11-07 12:20 · calificó dos partidos (4-5) y armó un pádel BEGINNER el miércoles 20:00 en Club Belgrano
+- 2026-11-08 08:14 · aceptó a Lisa y a Bellatrix en su pádel del miércoles

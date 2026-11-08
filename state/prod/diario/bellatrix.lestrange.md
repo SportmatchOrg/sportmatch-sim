@@ -130,3 +130,4 @@
 - 2026-11-07 00:11 · calificó el partido y pidió unirse al pádel del domingo en Club Belgrano
 - 2026-11-07 12:19 · calificó dos partidos (4-5) y pidió unirse al pádel del domingo en Tigre
 - 2026-11-07 16:13 · calificó dos partidos (3-5) y pidió unirse al fútbol del jueves en Club Pilar
+- 2026-11-08 08:13 · calificó a Tony y Mace, pidió unirse al pádel de Sam en Club Belgrano y armó pádel el martes 21 h en Club Belgrano
