@@ -55,3 +55,4 @@
 - 2026-11-07 12:20 · calificó el pádel (4 y 5); solo miró
 - 2026-11-08 04:14 · entró, leyó notificaciones y solo miró
 - 2026-11-08 12:16 · pidió unirse al fútbol ADVANCED del jueves de Steve en Club Pilar; vio que Sansa se bajó de su básquet
+- 2026-11-08 16:14 · no había a quién calificar; Steve lo aceptó en su fútbol ADVANCED del jueves, no se anotó a nada más

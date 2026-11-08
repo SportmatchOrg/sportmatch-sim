@@ -7304,11 +7304,10 @@
     "jugadores": [
       "dory",
       "lois.lane",
-      "rocket"
-    ],
-    "pendientes": [
+      "rocket",
       "hermione.granger"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -7395,7 +7394,7 @@
     "cupo": 9,
     "creado": "2026-11-06T03:16:04.626Z",
     "pendientesHumanos": 0,
-    "anotados": 6
+    "anotados": 7
   },
   "cmw4n4dyl036b01oh7lv10f44": {
     "jugadores": [],
@@ -7418,7 +7417,9 @@
       "neo",
       "nick.fury"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "milhouse.van.houten"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -7522,7 +7523,9 @@
     "jugadores": [
       "fred.weasley"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "elrond"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -7569,11 +7572,10 @@
   },
   "cmw6jtpuf041s01ohwoz1d103": {
     "jugadores": [
-      "chewbacca"
-    ],
-    "pendientes": [
+      "chewbacca",
       "krusty"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -7589,11 +7591,10 @@
   },
   "cmw6jujjy042k01ohfy8citc2": {
     "jugadores": [
-      "hector.barbossa"
-    ],
-    "pendientes": [
+      "hector.barbossa",
       "barney.gumble"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -7630,10 +7631,11 @@
     "jugadores": [
       "bellatrix.lestrange",
       "chewbacca",
-      "krusty"
+      "krusty",
+      "pippin.tuk"
     ],
     "pendientes": [
-      "pippin.tuk"
+      "george.weasley"
     ],
     "bajasSorteadas": false,
     "asistencia": null,
@@ -7725,10 +7727,10 @@
     "anotados": 0
   },
   "cmw7qise804ki01ohz30fvvf3": {
-    "jugadores": [],
-    "pendientes": [
+    "jugadores": [
       "cedric.diggory"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -7743,10 +7745,10 @@
     "anotados": 0
   },
   "cmw7z6cmc04o701oh6l9o1su3": {
-    "jugadores": [],
-    "pendientes": [
+    "jugadores": [
       "bart.simpson"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -7756,7 +7758,9 @@
     "fecha": "2026-11-14T13:00:00.000Z",
     "deporte": "FUTBOL",
     "cupo": 9,
-    "creado": "2026-11-08T15:16:31.076Z"
+    "creado": "2026-11-08T15:16:31.076Z",
+    "pendientesHumanos": 0,
+    "anotados": 0
   },
   "cmw7z6usg04oz01ohxo61zq53": {
     "jugadores": [],
@@ -7770,7 +7774,9 @@
     "fecha": "2026-11-11T23:30:00.000Z",
     "deporte": "BASQUET",
     "cupo": 7,
-    "creado": "2026-11-08T15:16:54.634Z"
+    "creado": "2026-11-08T15:16:54.634Z",
+    "pendientesHumanos": 0,
+    "anotados": 0
   },
   "cmw7z74tr04pf01oh5i39rzhk": {
     "jugadores": [],
@@ -7784,7 +7790,9 @@
     "fecha": "2026-11-12T23:30:00.000Z",
     "deporte": "PADEL",
     "cupo": 3,
-    "creado": "2026-11-08T15:17:07.662Z"
+    "creado": "2026-11-08T15:17:07.662Z",
+    "pendientesHumanos": 0,
+    "anotados": 0
   },
   "cmw7z7gll04pt01oha5wu1osc": {
     "jugadores": [],
@@ -7798,6 +7806,36 @@
     "fecha": "2026-11-13T00:00:00.000Z",
     "deporte": "PADEL",
     "cupo": 3,
-    "creado": "2026-11-08T15:17:22.880Z"
+    "creado": "2026-11-08T15:17:22.880Z",
+    "pendientesHumanos": 0,
+    "anotados": 0
+  },
+  "cmw87nuyk04rq01oh3jp407pr": {
+    "jugadores": [],
+    "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "hermione.granger",
+    "fecha": "2026-11-14T12:00:00.000Z",
+    "deporte": "FUTBOL",
+    "cupo": 9,
+    "creado": "2026-11-08T19:14:04.926Z"
+  },
+  "cmw87ow8b04sz01oh96cceu57": {
+    "jugadores": [],
+    "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "minerva.mcgonagall",
+    "fecha": "2026-11-12T21:30:00.000Z",
+    "deporte": "PADEL",
+    "cupo": 3,
+    "creado": "2026-11-08T19:14:53.249Z"
   }
 }

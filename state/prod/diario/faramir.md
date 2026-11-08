@@ -41,3 +41,4 @@
 - 2026-10-24 04:14 · entró y solo miró
 - 2026-10-24 12:15 · calificó el pádel (5 y 4); después solo miró
 - 2026-10-31 16:15 · entró y solo miró
+- 2026-11-08 16:14 · entró, leyó notificaciones y solo miró

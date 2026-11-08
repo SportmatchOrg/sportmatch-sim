@@ -19,3 +19,4 @@
 - 2026-11-07 04:12 · solo miró la app
 - 2026-11-07 12:21 · aceptó a Jon en su fútbol ADVANCED del domingo y calificó el partido (4-5); no armó otro
 - 2026-11-08 12:16 · calificó el fútbol ADVANCED (5 y 4) y armó otro ADVANCED el sábado 14 a las 10 en Club Pilar
+- 2026-11-08 16:14 · aceptó a Bart en su fútbol ADVANCED del sábado

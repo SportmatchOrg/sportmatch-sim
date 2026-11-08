@@ -64,3 +64,4 @@
 - 2026-11-07 12:19 · calificó el fútbol (4 y 5); solo miró
 - 2026-11-07 16:14 · armó un tenis ADVANCED de dobles el domingo 8 a las 9 en Club Pilar (competitiva)
 - 2026-11-08 12:16 · no había a quién calificar; pidió unirse al fútbol del lunes de George en Club Pilar
+- 2026-11-08 16:14 · no había a quién calificar; armó un fútbol el sábado 14 a las 9 en Polideportivo Del Viso
