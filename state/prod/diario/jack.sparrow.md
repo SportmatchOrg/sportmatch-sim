@@ -18,3 +18,4 @@
 - 2026-11-06 12:14 · aceptó a Poe en su running del sábado y armó pádel del domingo a la mañana en Pádel Point Pilar
 - 2026-11-07 04:12 · entró un rato y solo miró
 - 2026-11-07 16:14 · aceptó a Cedric en su pádel del domingo a la mañana
+- 2026-11-08 04:14 · aceptó a Arya en su partido

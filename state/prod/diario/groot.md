@@ -20,3 +20,4 @@
 - 2026-11-04 16:16 · aceptó a Tomás en su básquet y se anotó al básquet del miércoles en Campus Austral
 - 2026-11-04 16:17 · (corrección) el básquet del miércoles estaba lleno: no se pudo anotar
 - 2026-11-06 16:16 · aceptó a Marty en su básquet del viernes
+- 2026-11-08 04:14 · entró y solo miró

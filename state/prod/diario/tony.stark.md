@@ -73,3 +73,4 @@
 - 2026-11-02 00:14 · aceptó a Qui-Gon Jinn en su pádel del sábado temprano
 - 2026-11-07 08:11 · calificó a Qui-Gon y Barney, y armó un pádel el domingo 8 a las 8 en Tigre (madruga)
 - 2026-11-07 16:14 · aceptó a Bellatrix en su pádel del domingo temprano
+- 2026-11-08 04:14 · aceptó a Mace en su pádel del domingo

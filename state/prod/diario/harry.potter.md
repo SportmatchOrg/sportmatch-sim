@@ -12,3 +12,4 @@
 - 2026-10-17 12:17 · entró, sin nadie para calificar; ya tiene su running del domingo, no se anotó a más
 - 2026-10-17 16:13 · entró, sin nadie para calificar; solo miró
 - 2026-10-21 07:37 · pidió unirse al fútbol del sábado 24 a la mañana en Club Pilar (prefiere los findes)
+- 2026-11-08 04:14 · entró un rato y solo miró

@@ -5,3 +5,4 @@
 - 2026-10-19 20:14 · (corrige) el pádel del martes en Belgrano ya estaba lleno; no se anotó a nada
 - 2026-10-22 12:14 · pidió unirse al pádel de hoy a la noche en Tigre (después del trabajo)
 - 2026-11-01 08:13 · miró los partidos; no había pádel ni tenis en CABA, no se anotó a nada
+- 2026-11-08 04:14 · pidió unirse al pádel del miércoles 11 a las 20 en Club Belgrano (después del trabajo)
