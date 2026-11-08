@@ -2829,3 +2829,36 @@
 2026-11-08T11:14:38.368Z rocket leer-notificaciones 1
 2026-11-08T11:14:40.601Z kylo.ren leer-notificaciones 1
 2026-11-08T11:14:45.739Z rocket unirse cmw4ek5iw031r01oh2z30ovac
+2026-11-08T15:15:09.199Z sorteo cmw1b3jda016v01ohjrqbdetn faltaron=[] calificaran=[barney.gumble]
+2026-11-08T15:15:11.134Z sorteo cmw20ubjf01jt01ohlh6wrqqr faltaron=[] calificaran=[]
+2026-11-08T15:15:12.888Z sorteo cmw2z4jtz02b901oh7k96imfp faltaron=[mike.wazowski,fred.weasley] calificaran=[dory,krusty,pippin.tuk,lois.lane]
+2026-11-08T15:15:14.442Z sorteo cmw3xdl1002sn01ohfoqkpfur faltaron=[] calificaran=[finn,bart.simpson,jon.snow]
+2026-11-08T15:15:19.418Z sorteo cmw54898g03cx01ohsl5bmm04 faltaron=[] calificaran=[jack.sparrow,cedric.diggory]
+2026-11-08T15:15:27.938Z sorteo cmw6s8mwk047n01ohlmptw6y4 faltaron=[] calificaran=[hermione.granger]
+2026-11-08T15:15:38.688Z pippin.tuk calificar cmw2z4jtz02b901oh7k96imfp ratings=2 noShows=2
+2026-11-08T15:15:43.495Z pippin.tuk unirse cmw6jvfdr043e01ohqyj0u9xb
+2026-11-08T15:15:45.294Z jon.snow leer-notificaciones 1
+2026-11-08T15:15:50.858Z jon.snow calificar cmw3xdl1002sn01ohfoqkpfur ratings=2 noShows=0
+2026-11-08T15:16:02.439Z hermione.granger unirse cmw3osq0h02pa01ohwx3lg0t3
+2026-11-08T15:16:08.631Z jack.sparrow calificar cmw54898g03cx01ohsl5bmm04 ratings=2 noShows=0
+2026-11-08T15:16:10.283Z lois.lane leer-notificaciones 2
+2026-11-08T15:16:16.100Z lois.lane calificar cmw2z4jtz02b901oh7k96imfp ratings=2 noShows=2
+2026-11-08T15:16:17.875Z barney.gumble leer-notificaciones 1
+2026-11-08T15:16:22.743Z barney.gumble unirse cmw6jujjy042k01ohfy8citc2
+2026-11-08T15:16:29.534Z finn calificar cmw3xdl1002sn01ohfoqkpfur ratings=2 noShows=0
+2026-11-08T15:16:31.079Z finn crear cmw7z6cmc04o701oh6l9o1su3 FUTBOL 2026-11-14T13:00:00.000Z
+2026-11-08T15:16:35.004Z dory leer-notificaciones 3
+2026-11-08T15:16:41.432Z dory aceptar cmw4ek5iw031r01oh2z30ovac rocket
+2026-11-08T15:16:43.015Z dory calificar cmw2z4jtz02b901oh7k96imfp ratings=2 noShows=2
+2026-11-08T15:16:44.783Z bart.simpson leer-notificaciones 1
+2026-11-08T15:16:51.334Z bart.simpson calificar cmw3xdl1002sn01ohfoqkpfur ratings=2 noShows=0
+2026-11-08T15:16:53.043Z bart.simpson unirse cmw7z6cmc04o701oh6l9o1su3
+2026-11-08T15:16:54.636Z bart.simpson crear cmw7z6usg04oz01ohxo61zq53 BASQUET 2026-11-11T23:30:00.000Z
+2026-11-08T15:16:58.130Z krusty leer-notificaciones 3
+2026-11-08T15:17:04.359Z krusty calificar cmw2z4jtz02b901oh7k96imfp ratings=2 noShows=2
+2026-11-08T15:17:06.037Z krusty unirse cmw6jtpuf041s01ohwoz1d103
+2026-11-08T15:17:07.664Z krusty crear cmw7z74tr04pf01oh5i39rzhk PADEL 2026-11-12T23:30:00.000Z
+2026-11-08T15:17:11.238Z cedric.diggory leer-notificaciones 1
+2026-11-08T15:17:19.230Z cedric.diggory calificar cmw54898g03cx01ohsl5bmm04 ratings=2 noShows=0
+2026-11-08T15:17:21.297Z cedric.diggory unirse cmw7qise804ki01ohz30fvvf3
+2026-11-08T15:17:22.883Z cedric.diggory crear cmw7z7gll04pt01oha5wu1osc PADEL 2026-11-13T00:00:00.000Z

@@ -54,3 +54,4 @@
 - 2026-11-07 08:12 · calificó el pádel a Tony y Qui-Gon (4 y 5)
 - 2026-11-07 12:20 · calificó el pádel (4 y 5); solo miró
 - 2026-11-08 04:14 · entró, leyó notificaciones y solo miró
+- 2026-11-08 12:16 · pidió unirse al fútbol ADVANCED del jueves de Steve en Club Pilar; vio que Sansa se bajó de su básquet

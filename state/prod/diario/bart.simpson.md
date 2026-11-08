@@ -12,3 +12,4 @@
 - 2026-11-06 12:15 · pidió unirse al fútbol ADVANCED del domingo en Club Pilar
 - 2026-11-07 00:13 · calificó dos partidos y pidió unirse al básquet del domingo de Frodo en Campus Austral (a ganar)
 - 2026-11-07 20:15 · calificó el básquet (4 y 5); no organizó nada hoy
+- 2026-11-08 12:16 · calificó el fútbol (4 y 5), pidió unirse al fútbol ADVANCED del sábado de Finn y armó un básquet el miércoles 11 a las 20:30 en Campus Austral
