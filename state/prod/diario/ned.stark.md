@@ -1,1 +1,2 @@
 - 2026-11-02 12:15 · primera vez: entró a curiosear, solo miró
+- 2026-11-08 20:15 · entró a mirar partidos de running y pádel; no se anotó a nada

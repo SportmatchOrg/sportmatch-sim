@@ -108,3 +108,4 @@
 - 2026-11-08 00:14 · aceptó a Krusty en su fútbol y pidió unirse al de Elrond del martes en Nordelta
 - 2026-11-08 12:16 · calificó el fútbol (4 y 5); vio la solicitud de Pippin y quedó para después
 - 2026-11-08 16:14 · aceptó a Pippin en su fútbol del jueves en Club Pilar
+- 2026-11-08 20:14 · aceptó a George en su fútbol del jueves en Club Pilar

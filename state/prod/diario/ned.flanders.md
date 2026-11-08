@@ -8,3 +8,4 @@
 - 2026-11-06 04:16 · armó un básquet INTERMEDIATE el martes 10 a las 20:00 en Club Belgrano
 - 2026-11-06 12:14 · aceptó a Neo en su básquet del martes; después solo miró
 - 2026-11-06 16:16 · aceptó a Nick Fury en su básquet del martes
+- 2026-11-08 20:15 · aceptó a Milhouse en su básquet del martes; no encontró nada en CABA para unirse

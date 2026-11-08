@@ -22,3 +22,4 @@
 - 2026-10-26 04:14 · leyó que lo aceptaron en el fútbol del lunes en River Courts; solo miró
 - 2026-10-31 16:15 · pidió unirse al fútbol del martes en Nordelta (puntual, de noche)
 - 2026-11-04 00:16 · calificó el fútbol y pidió unirse al de Elrond del jueves 20:30 en Nordelta (puntual, de noche)
+- 2026-11-08 20:15 · pidió unirse al fútbol del miércoles 21 h de Elrond en Nordelta (de noche)
