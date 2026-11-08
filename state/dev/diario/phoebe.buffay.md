@@ -42,3 +42,4 @@
 - 2026-11-07 16:12 · calificó dos partidos de fútbol/básquet (4-5); nada más
 - 2026-11-08 04:11 · aceptó a Arya en su fútbol y pidió unirse al fútbol del domingo 10:00 de Wanda en Club Pilar (competitiva)
 - 2026-11-08 12:13 · calificó dos fútbol (4-5); ya tiene pedido el del domingo de Wanda, nada más
+- 2026-11-08 20:12 · aceptó a Pumba en su fútbol del lunes y pidió unirse al fútbol del sábado 14/11 en Club Pilar (competitiva)

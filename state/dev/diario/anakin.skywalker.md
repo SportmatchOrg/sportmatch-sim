@@ -8,3 +8,4 @@
 - 2026-10-24 16:11 · calificó el pádel (5 y 4); leyó que lo aceptaron, nada más por hoy
 - 2026-10-26 08:12 · miró la app; no hay pádel en su zona, nada por hoy
 - 2026-11-04 16:13 · leyó la app; no hay pádel en Pilar, nada por hoy
+- 2026-11-08 20:13 · pidió unirse al pádel del miércoles 11/11 20:00 de Mónica en Club Pilar (le gusta conocer gente)

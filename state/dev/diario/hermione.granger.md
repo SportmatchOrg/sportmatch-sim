@@ -74,3 +74,4 @@
 - 2026-11-08 00:12 · entró y solo miró
 - 2026-11-08 12:13 · calificó el partido pendiente (4 a Slinky) y leyó notificaciones; nada más
 - 2026-11-08 16:11 · organizó un tenis dobles INTERMEDIATE el sáb 14/11 9:00 en Club Pilar
+- 2026-11-08 20:11 · aceptó a Gollum en su tenis del sábado y pidió unirse al fútbol de Wanda en Club Pilar

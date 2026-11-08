@@ -21,3 +21,4 @@
 - 2026-11-06 12:12 · sin novedades; hoy solo miró
 - 2026-11-06 16:14 · pidió unirse al básquet del mar 10/11 en Del Viso (se anota con entusiasmo)
 - 2026-11-07 16:12 · aceptó a Frodo y a Bart en su básquet; ya tiene pedidos, no se unió a nada más
+- 2026-11-08 20:12 · leyó el recordatorio, no calificó (rara vez lo hace) y no se anotó a nada nuevo
