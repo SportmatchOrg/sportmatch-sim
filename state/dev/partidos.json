@@ -7175,11 +7175,10 @@
       "george.weasley",
       "lois.lane",
       "chewbacca",
-      "padme.amidala"
-    ],
-    "pendientes": [
+      "padme.amidala",
       "arya.stark"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -7196,7 +7195,8 @@
   "cfx3iwafuza6ubid9pkjaneuq": {
     "jugadores": [],
     "pendientes": [
-      "peter.parker"
+      "peter.parker",
+      "monica.geller"
     ],
     "bajasSorteadas": false,
     "asistencia": null,
@@ -7486,7 +7486,9 @@
       "doc.brown",
       "gandalf"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "phoebe.buffay"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -7619,11 +7621,10 @@
   },
   "cmw545kdx01rt01rpiwaq93uj": {
     "jugadores": [
-      "faramir"
-    ],
-    "pendientes": [
+      "faramir",
       "clark.kent"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -7791,7 +7792,7 @@
     "cancelSorteado": true,
     "cancelar": false,
     "pendientesHumanos": 0,
-    "anotados": 0
+    "anotados": 1
   },
   "cmw79az4i00f401tjeu6b1gr5": {
     "jugadores": [],
@@ -7805,7 +7806,9 @@
     "fecha": "2026-11-14T12:30:00.000Z",
     "deporte": "PADEL",
     "cupo": 3,
-    "creado": "2026-11-08T03:12:17.042Z"
+    "creado": "2026-11-08T03:12:17.042Z",
+    "pendientesHumanos": 0,
+    "anotados": 0
   },
   "ci1zaxg59e5lrxpl57g9xv3bl": {
     "jugadores": [],
@@ -7820,7 +7823,8 @@
     "organizador": "humano:cm1866ixpmeu3ybj59ymnq6j1",
     "fecha": "2026-12-28T11:30:00.000Z",
     "deporte": "BASQUET",
-    "cupo": 9
+    "cupo": 9,
+    "anotados": 6
   },
   "c5uxshn50mwxezyjk8mjijm4i": {
     "jugadores": [],
@@ -7835,6 +7839,80 @@
     "organizador": "humano:cmrrdwban8u5lsjtsuxu6e6wk",
     "fecha": "2026-11-12T02:00:00.000Z",
     "deporte": "BASQUET",
-    "cupo": 5
+    "cupo": 5,
+    "anotados": 3
+  },
+  "cmw7huz6q00is01tjroxtvtcy": {
+    "jugadores": [],
+    "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "indiana.jones",
+    "fecha": "2026-11-10T11:00:00.000Z",
+    "deporte": "PADEL",
+    "cupo": 3,
+    "creado": "2026-11-08T07:11:47.002Z"
+  },
+  "czauvyu5h6jgdip3fgxq852uh": {
+    "jugadores": [],
+    "pendientes": [
+      "dobby"
+    ],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "humano:csr7citywh0eo655mc2tepdid",
+    "fecha": "2026-11-11T23:30:00.000Z",
+    "deporte": "PADEL",
+    "cupo": 3
+  },
+  "cfi14r416xwatksek1g94kxri": {
+    "jugadores": [],
+    "pendientes": [
+      "cedric.diggory"
+    ],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "humano:c72cqd4k3pqo8s3mk4w0mp3t4",
+    "fecha": "2026-12-15T23:00:00.000Z",
+    "deporte": "PADEL",
+    "cupo": 3
+  },
+  "cmw7hvwzi00jg01tjlx6lt9mz": {
+    "jugadores": [],
+    "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "cedric.diggory",
+    "fecha": "2026-11-12T23:00:00.000Z",
+    "deporte": "PADEL",
+    "cupo": 3,
+    "creado": "2026-11-08T07:12:30.809Z"
+  },
+  "c1jaiqnwjoc2s2krcqgob2352": {
+    "jugadores": [],
+    "pendientes": [
+      "sam.gamyi"
+    ],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "humano:c3jbuwgjj53vqazuo4hn2z1xq",
+    "fecha": "2026-11-08T19:00:00.000Z",
+    "deporte": "PADEL",
+    "cupo": 3
   }
 }

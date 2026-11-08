@@ -4,3 +4,4 @@
 - 2026-11-03 12:13 · entró un rato, solo miró; ya tiene su fútbol 5 pedido
 - 2026-11-04 08:13 · leyó el recordatorio; solo miró, ya le bajó el ritmo
 - 2026-11-05 00:12 · calificó el tenis (4 y 5); ya casi no entra
+- 2026-11-08 04:12 · entró un rato y solo miró; ya casi no usa la app

@@ -7,3 +7,4 @@
 - 2026-11-03 12:13 · hoy solo miró, no hay pádel que le cierre en el norte
 - 2026-11-03 20:13 · pidió unirse al pádel del 16/12 en Norte Pádel (competitivo, de su zona)
 - 2026-11-04 08:12 · pidió unirse al pádel del 17/12 en Norte Pádel (competitivo, de su zona)
+- 2026-11-08 04:12 · pidió unirse al pádel del 15/12 en Norte Pádel y armó un pádel el jue 12/11 20:00 en Tigre Pádel Club (competitivo)
