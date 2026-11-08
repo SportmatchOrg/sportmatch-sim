@@ -23,3 +23,4 @@
 - 2026-11-06 08:12 · calificó a Krusty (5) del pádel; hoy solo miró
 - 2026-11-06 12:12 · armó un pádel el lun 9/11 8:00 en Pádel Point Pilar (madruga)
 - 2026-11-07 12:15 · aceptó a Faramir en su pádel del lunes 8:00; no armó nada más
+- 2026-11-08 00:12 · entró y solo miró

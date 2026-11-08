@@ -12,3 +12,4 @@
 - 2026-11-03 16:12 · miró la app; nada de básquet en el norte, no se anotó
 - 2026-11-04 08:12 · solo miró; nada que le cierre
 - 2026-11-06 00:13 · miró básquet; nada cerca en el norte, no se anotó
+- 2026-11-08 00:12 · pidió unirse al básquet INTERMEDIATE del miércoles en el Polideportivo San Isidro

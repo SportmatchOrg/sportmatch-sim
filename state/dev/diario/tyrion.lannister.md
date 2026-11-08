@@ -2,3 +2,4 @@
 - 2026-10-17 20:12 · entró a mirar, sin novedades
 - 2026-10-20 16:12 · miró partidos, ya tiene el tenis pedido; hoy no se anotó a más
 - 2026-11-04 08:12 · entró a mirar, sin novedades
+- 2026-11-08 00:12 · entró, miró un rato y no se unió a nada

@@ -4,3 +4,4 @@
 - 2026-11-07 12:17 · no había a quién calificar; ya tiene dos partidos armados, hoy solo miró
 - 2026-11-07 16:12 · no había a quién calificar; ya tiene dos partidos armados, no organizó otro
 - 2026-11-07 20:12 · no había a quién calificar; ya tiene partidos armados, hoy solo miró
+- 2026-11-08 00:12 · no había a quién calificar; hoy solo miró

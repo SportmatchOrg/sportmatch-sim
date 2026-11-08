@@ -23,3 +23,4 @@
 - 2026-11-07 12:13 · pidió unirse al running del domingo 9:00 de Molly en Parque Pilar (le gusta conocer gente)
 - 2026-11-07 16:11 · entró, no había nada para calificar y solo miró
 - 2026-11-07 20:11 · entró, no había nada para calificar y no encontró nada en el norte; solo miró
+- 2026-11-08 00:12 · entró, no había nada para calificar y no encontró nada en el norte que le cierre; solo miró

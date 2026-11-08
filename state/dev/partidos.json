@@ -6304,8 +6304,8 @@
     },
     "calificaran": [
       "george.weasley",
-      "wanda.maximoff",
-      "phoebe.buffay"
+      "phoebe.buffay",
+      "wanda.maximoff"
     ],
     "calificaron": [
       "george.weasley",
@@ -6890,9 +6890,7 @@
     "asistencia": {
       "bellatrix.lestrange": true
     },
-    "calificaran": [
-      "bellatrix.lestrange"
-    ],
+    "calificaran": [],
     "calificaron": [],
     "cancelado": false,
     "organizador": "bellatrix.lestrange",
@@ -7179,7 +7177,9 @@
       "chewbacca",
       "padme.amidala"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "arya.stark"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -7621,7 +7621,9 @@
     "jugadores": [
       "faramir"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "clark.kent"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -7769,13 +7771,13 @@
     "cupo": 3,
     "creado": "2026-11-07T15:14:43.270Z",
     "pendientesHumanos": 0,
-    "anotados": 0
+    "anotados": 1
   },
   "cmw6jr5or00cc01qh96ewj173": {
-    "jugadores": [],
-    "pendientes": [
+    "jugadores": [
       "rey"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -7790,5 +7792,49 @@
     "cancelar": false,
     "pendientesHumanos": 0,
     "anotados": 0
+  },
+  "cmw79az4i00f401tjeu6b1gr5": {
+    "jugadores": [],
+    "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "clint.barton",
+    "fecha": "2026-11-14T12:30:00.000Z",
+    "deporte": "PADEL",
+    "cupo": 3,
+    "creado": "2026-11-08T03:12:17.042Z"
+  },
+  "ci1zaxg59e5lrxpl57g9xv3bl": {
+    "jugadores": [],
+    "pendientes": [
+      "galadriel"
+    ],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "humano:cm1866ixpmeu3ybj59ymnq6j1",
+    "fecha": "2026-12-28T11:30:00.000Z",
+    "deporte": "BASQUET",
+    "cupo": 9
+  },
+  "c5uxshn50mwxezyjk8mjijm4i": {
+    "jugadores": [],
+    "pendientes": [
+      "milhouse.van.houten"
+    ],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "humano:cmrrdwban8u5lsjtsuxu6e6wk",
+    "fecha": "2026-11-12T02:00:00.000Z",
+    "deporte": "BASQUET",
+    "cupo": 5
   }
 }
