@@ -9,3 +9,4 @@
 - 2026-10-27 20:12 · miró partidos; el pádel disponible queda en Pilar/CABA, nada en el norte, no se anotó
 - 2026-11-04 16:13 · pidió unirse al pádel INTERMEDIATE del 17/12 en Norte Pádel (nivel acorde)
 - 2026-11-05 04:12 · miró el pádel de Norte Pádel; ya tiene uno pedido, no sumó otro
+- 2026-11-08 08:12 · pidió unirse al pádel INTERMEDIATE del jueves 12/11 en Tigre Pádel Club (nivel que le va)

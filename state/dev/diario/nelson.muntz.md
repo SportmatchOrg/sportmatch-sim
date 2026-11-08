@@ -14,3 +14,4 @@
 - 2026-11-07 12:16 · calificó el básquet (5, 4 y 5); nada antes de las 9 que le encaje, no se anotó
 - 2026-11-07 20:12 · leyó notificaciones; nada antes de las 9 en Pilar, no se anotó
 - 2026-11-08 04:12 · leyó notificaciones; nada antes de las 9 en Pilar, no se anotó
+- 2026-11-08 08:12 · armó un básquet INTERMEDIATE el mié 11/11 7:30 en Polideportivo Del Viso (madruga)

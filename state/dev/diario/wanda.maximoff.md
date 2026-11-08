@@ -3,3 +3,4 @@
 - 2026-11-06 08:13 · aceptó a George en su fútbol del domingo; hoy no hizo más
 - 2026-11-06 20:12 · aceptó a Doc Brown en su fútbol del domingo
 - 2026-11-07 16:12 · aceptó a Gandalf en su fútbol del domingo
+- 2026-11-08 08:11 · aceptó a Phoebe en su fútbol del domingo y armó un fútbol el sáb 14/11 10:00 en Club Pilar

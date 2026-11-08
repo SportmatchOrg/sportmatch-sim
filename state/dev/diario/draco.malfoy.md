@@ -1,1 +1,2 @@
 - 2026-11-03 08:13 · se anotó al básquet BEGINNER del jueves en Del Viso (principiante entusiasta)
+- 2026-11-08 08:12 · pidió unirse al básquet BEGINNER del martes 10/11 en Del Viso (principiante entusiasta)

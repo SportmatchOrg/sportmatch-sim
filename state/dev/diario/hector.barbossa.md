@@ -32,3 +32,4 @@
 - 2026-11-05 16:11 · aceptó a George Weasley en su fútbol ADVANCED
 - 2026-11-06 00:13 · armó un tenis singles ADVANCED el mié 11/11 20:30 en Club Pilar
 - 2026-11-06 00:13 · corrección: el singles no salió; armó un tenis dobles ADVANCED el mié 11/11 20:30 en Club Pilar
+- 2026-11-08 08:12 · entró, leyó notificaciones y solo miró

@@ -31,3 +31,4 @@
 - 2026-11-05 00:12 · canceló el fútbol del jueves porque no se llenó
 - 2026-11-06 12:12 · leyó el recordatorio; hoy solo miró
 - 2026-11-07 12:15 · calificó el fútbol (5, 4 y 5); hoy no armó nada
+- 2026-11-08 08:12 · entró, leyó notificaciones y solo miró
