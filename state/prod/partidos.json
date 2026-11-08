@@ -6097,13 +6097,13 @@
       "krusty": true
     },
     "calificaran": [
+      "pippin.tuk",
+      "george.weasley",
       "dory",
       "phoebe.buffay",
-      "george.weasley",
-      "rey",
+      "krusty",
       "gandalf",
-      "pippin.tuk",
-      "krusty"
+      "rey"
     ],
     "calificaron": [
       "pippin.tuk",
@@ -6469,8 +6469,8 @@
     },
     "calificaran": [
       "sam.gamyi",
-      "arwen",
-      "woody"
+      "woody",
+      "arwen"
     ],
     "calificaron": [
       "sam.gamyi",
@@ -7128,9 +7128,7 @@
     "asistencia": {
       "hector.barbossa": true
     },
-    "calificaran": [
-      "hector.barbossa"
-    ],
+    "calificaran": [],
     "calificaron": [],
     "cancelado": false,
     "organizador": "hector.barbossa",
@@ -7346,11 +7344,10 @@
       "krusty",
       "george.weasley",
       "arya.stark",
-      "lois.lane"
-    ],
-    "pendientes": [
+      "lois.lane",
       "pumba"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -7403,7 +7400,9 @@
     "jugadores": [
       "cedric.diggory"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "arya.stark"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -7423,7 +7422,9 @@
     "jugadores": [
       "scott.lang"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "lois.lane"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -7475,7 +7476,9 @@
   },
   "cmw62erqo03s101ohrw012aas": {
     "jugadores": [],
-    "pendientes": [],
+    "pendientes": [
+      "fred.weasley"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -7493,7 +7496,9 @@
     "jugadores": [
       "bellatrix.lestrange"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "mace.windu"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -7511,7 +7516,9 @@
   },
   "cmw6jtpuf041s01ohwoz1d103": {
     "jugadores": [],
-    "pendientes": [],
+    "pendientes": [
+      "chewbacca"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -7526,10 +7533,10 @@
     "anotados": 0
   },
   "cmw6jujjy042k01ohfy8citc2": {
-    "jugadores": [],
-    "pendientes": [
+    "jugadores": [
       "hector.barbossa"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -7562,11 +7569,10 @@
   "cmw6jvfdr043e01ohqyj0u9xb": {
     "jugadores": [
       "bellatrix.lestrange",
-      "chewbacca"
-    ],
-    "pendientes": [
+      "chewbacca",
       "krusty"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -7578,7 +7584,7 @@
     "cupo": 9,
     "creado": "2026-11-07T15:20:21.035Z",
     "pendientesHumanos": 0,
-    "anotados": 0
+    "anotados": 2
   },
   "cmw6s8mwk047n01ohlmptw6y4": {
     "jugadores": [],
@@ -7628,6 +7634,8 @@
     "fecha": "2026-11-10T23:30:00.000Z",
     "deporte": "BASQUET",
     "cupo": 7,
-    "creado": "2026-11-07T23:15:13.324Z"
+    "creado": "2026-11-07T23:15:13.324Z",
+    "pendientesHumanos": 0,
+    "anotados": 0
   }
 }

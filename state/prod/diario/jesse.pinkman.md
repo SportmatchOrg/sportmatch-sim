@@ -4,3 +4,4 @@
 - 2026-11-04 00:17 · leyó que Groot lo aceptó en el básquet del viernes; el partido pasado otra vez sin calificar
 - 2026-11-04 04:15 · por fin calificó el básquet del lunes
 - 2026-11-05 12:15 · pidió unirse al básquet del viernes 21 h de Bart en Campus Austral (se suma con entusiasmo)
+- 2026-11-08 00:14 · leyó que Bart lo aceptó en el básquet; solo miró

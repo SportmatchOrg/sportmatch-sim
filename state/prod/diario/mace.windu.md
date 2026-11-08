@@ -87,3 +87,4 @@
 - 2026-11-04 16:15 · aceptó a Tomás en su pádel del viernes
 - 2026-11-06 16:16 · armó un pádel el lunes 9 a las 20:30 en Tigre Pádel Club
 - 2026-11-07 04:11 · aceptó a Cedric y armó un fútbol 5 el martes 10 a las 20:30 en Nordelta
+- 2026-11-08 00:14 · aceptó nada pendiente; pidió unirse al pádel del domingo de Tony Stark en Tigre (le gusta conocer gente)

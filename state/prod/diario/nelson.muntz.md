@@ -23,3 +23,4 @@
 - 2026-11-03 20:15 · entró temprano y solo miró; el único básquet de la mañana es el de las 10 y es ADVANCED
 - 2026-11-06 08:15 · entró a mirar básquet; nada antes de las 9 que le cierre, no se anotó
 - 2026-11-07 16:14 · entró temprano a mirar básquet; nada antes de las 9 en Pilar, no se anotó
+- 2026-11-08 00:14 · entró temprano a mirar básquet; nada antes de las 9, no se anotó

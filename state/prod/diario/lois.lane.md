@@ -105,3 +105,4 @@
 - 2026-11-07 12:20 · armó un fútbol el jueves 20:30 en Club Pilar; Gandalf sigue sin entrar, partido lleno
 - 2026-11-07 16:14 · Gandalf sigue pendiente: el partido está lleno; no pudo aceptarlo
 - 2026-11-07 20:14 · aceptó a Bellatrix y a Chewbacca en su fútbol del jueves en Club Pilar
+- 2026-11-08 00:14 · aceptó a Krusty en su fútbol y pidió unirse al de Elrond del martes en Nordelta

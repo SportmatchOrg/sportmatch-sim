@@ -62,3 +62,4 @@
 - 2026-11-07 04:12 · aceptó a Chewbacca en su fútbol; intentó anotarse a un partido y ya estaba anotada
 - 2026-11-07 08:12 · aceptó a Rubeus y a Lois en sus fútbol y pidió unirse al de Bruce en River Courts (le gusta conocer gente)
 - 2026-11-07 20:15 · calificó el fútbol (4, 4 y 5); solo miró
+- 2026-11-08 00:14 · aceptó a Pumba en su fútbol (le gusta conocer gente nueva)
