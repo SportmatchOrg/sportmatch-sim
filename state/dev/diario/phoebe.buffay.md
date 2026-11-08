@@ -41,3 +41,4 @@
 - 2026-11-07 12:15 · aceptó a Padmé en su fútbol del lunes y calificó dos partidos (4 y 5); el resto lo deja para otro día
 - 2026-11-07 16:12 · calificó dos partidos de fútbol/básquet (4-5); nada más
 - 2026-11-08 04:11 · aceptó a Arya en su fútbol y pidió unirse al fútbol del domingo 10:00 de Wanda en Club Pilar (competitiva)
+- 2026-11-08 12:13 · calificó dos fútbol (4-5); ya tiene pedido el del domingo de Wanda, nada más

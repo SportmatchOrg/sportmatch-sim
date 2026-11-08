@@ -7,3 +7,4 @@
 - 2026-11-05 20:13 · aceptó a Sherlock en su pádel del sábado
 - 2026-11-07 12:17 · calificó el pádel (5 y 4) y armó un pádel BEGINNER el dom 8/11 9:30 en Pádel Point Pilar (domingo a la mañana)
 - 2026-11-08 00:12 · aceptó a Rey en su pádel del sábado y armó otro pádel BEGINNER el sáb 14/11 9:30 en Pádel Point Pilar
+- 2026-11-08 12:14 · calificó el pádel (5 a Rey); ya tiene sus pádel armados, nada más

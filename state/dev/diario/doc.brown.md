@@ -32,3 +32,4 @@
 - 2026-10-14 16:11 · pidió unirse al fútbol del sábado de Finn en Club Pilar (madruga)
 - 2026-10-17 12:13 · calificó el fútbol; ya casi no entra
 - 2026-11-06 16:13 · pidió unirse al fútbol del dom 8/11 a las 10:00 en Club Pilar (lo más temprano que había)
+- 2026-11-08 12:13 · calificó el fútbol (4, 5, 4); sigue entrando poco

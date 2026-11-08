@@ -7,3 +7,4 @@
 - 2026-11-08 00:12 · no había a quién calificar; hoy solo miró
 - 2026-11-08 04:12 · se unió al fútbol del viernes 13/11 19:00 en Club Atlético Belgrano (para despejarse)
 - 2026-11-08 08:11 · entró, no había a quién calificar y solo miró
+- 2026-11-08 12:14 · armó un pádel INTERMEDIATE el mié 11/11 20:00 en Club Pilar

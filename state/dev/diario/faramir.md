@@ -39,3 +39,4 @@
 - 2026-10-31 08:12 · leyó notificaciones; nada nuevo, solo miró
 - 2026-11-06 20:13 · armó un running el dom 8/11 09:00 en Parque Pilar y pidió unirse al pádel del lun 9/11 en Pádel Point Pilar
 - 2026-11-07 16:11 · aceptó a Montgomery en su running del domingo; ya tenía uno armado, no organizó otro
+- 2026-11-08 12:12 · calificó el running (5 a Montgomery) y armó un running el sáb 14/11 9:30 en Parque Pilar (para despejarse)

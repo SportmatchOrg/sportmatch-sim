@@ -2830,3 +2830,46 @@
 2026-11-08T11:12:27.476Z ginny.weasley unirse cmw7hvwzi00jg01tjlx6lt9mz
 2026-11-08T11:12:33.014Z draco.malfoy leer-notificaciones 2
 2026-11-08T11:12:40.221Z draco.malfoy unirse cmw4vltd901mz01rpb345tyt5
+2026-11-08T15:10:38.744Z sorteo cmvyon7i6003t01plvrrvr86r faltaron=[] calificaran=[bucky.barnes,fred.weasley,george.weasley,phoebe.buffay]
+2026-11-08T15:10:46.330Z sorteo cmw0l86w601yv01plpu2gcgwm faltaron=[] calificaran=[hermione.granger,slinky]
+2026-11-08T15:10:57.898Z sorteo cmw3xb7fa00lr01rpohftjs2q faltaron=[] calificaran=[molly.weasley,quigon.jinn]
+2026-11-08T15:11:00.625Z sorteo cmw4eg8ps01ep01rpt17sfh0y faltaron=[] calificaran=[wanda.maximoff,george.weasley,doc.brown,phoebe.buffay]
+2026-11-08T15:11:14.769Z sorteo cmw5lc5c4025401rpwgafrofc faltaron=[] calificaran=[faramir,montgomery.burns]
+2026-11-08T15:11:15.302Z sorteo cmw6jnk2o008k01qhu9qdorfb faltaron=[] calificaran=[hermione.granger]
+2026-11-08T15:11:17.031Z sorteo cmw6jr5or00cc01qh96ewj173 faltaron=[] calificaran=[clint.barton,rey]
+2026-11-08T15:11:31.770Z fred.weasley leer-notificaciones 3
+2026-11-08T15:11:48.584Z fred.weasley calificar cmvyon7i6003t01plvrrvr86r ratings=3 noShows=0
+2026-11-08T15:11:53.620Z faramir leer-notificaciones 1
+2026-11-08T15:11:56.326Z montgomery.burns leer-notificaciones 1
+2026-11-08T15:12:23.832Z quigon.jinn calificar cmw3xb7fa00lr01rpohftjs2q ratings=1 noShows=0
+2026-11-08T15:12:26.020Z faramir calificar cmw5lc5c4025401rpwgafrofc ratings=1 noShows=0
+2026-11-08T15:12:28.323Z montgomery.burns calificar cmw5lc5c4025401rpwgafrofc ratings=1 noShows=0
+2026-11-08T15:12:38.662Z faramir crear cmw7z1d9e00sj01tjv2k524sh RUNNING 2026-11-14T12:30:00.000Z
+2026-11-08T15:12:57.552Z doc.brown leer-notificaciones 2
+2026-11-08T15:13:12.773Z hermione.granger calificar cmw0l86w601yv01plpu2gcgwm ratings=1 noShows=0
+2026-11-08T15:13:14.668Z doc.brown calificar cmw4eg8ps01ep01rpt17sfh0y ratings=3 noShows=0
+2026-11-08T15:13:16.582Z molly.weasley calificar cmw3xb7fa00lr01rpohftjs2q ratings=1 noShows=0
+2026-11-08T15:13:18.398Z molly.weasley crear cmw7z27xw00t801tjwf595iru RUNNING 2026-11-15T12:00:00.000Z
+2026-11-08T15:13:20.239Z george.weasley calificar cmvyon7i6003t01plvrrvr86r ratings=3 noShows=0
+2026-11-08T15:13:22.056Z george.weasley calificar cmw4eg8ps01ep01rpt17sfh0y ratings=3 noShows=0
+2026-11-08T15:13:30.133Z george.weasley unirse cmw7qff0e00mt01tjagjnz9ct
+2026-11-08T15:13:32.011Z phoebe.buffay leer-notificaciones 1
+2026-11-08T15:13:35.610Z indiana.jones leer-notificaciones 2
+2026-11-08T15:13:38.165Z slinky leer-notificaciones 1
+2026-11-08T15:13:47.159Z phoebe.buffay calificar cmvyon7i6003t01plvrrvr86r ratings=3 noShows=0
+2026-11-08T15:13:48.958Z phoebe.buffay calificar cmw4eg8ps01ep01rpt17sfh0y ratings=3 noShows=0
+2026-11-08T15:13:51.583Z indiana.jones aceptar cmw7huz6q00is01tjroxtvtcy apu.nahasapeemapetilon
+2026-11-08T15:13:53.609Z slinky calificar cmw0l86w601yv01plpu2gcgwm ratings=1 noShows=0
+2026-11-08T15:13:58.072Z fiona leer-notificaciones 1
+2026-11-08T15:14:02.638Z cedric.diggory leer-notificaciones 1
+2026-11-08T15:14:07.328Z rey leer-notificaciones 1
+2026-11-08T15:14:09.705Z wanda.maximoff leer-notificaciones 2
+2026-11-08T15:14:27.306Z fiona aceptar cmw4vltd901mz01rpb345tyt5 draco.malfoy
+2026-11-08T15:14:29.258Z clint.barton calificar cmw6jr5or00cc01qh96ewj173 ratings=1 noShows=0
+2026-11-08T15:14:31.204Z cedric.diggory aceptar cmw7hvwzi00jg01tjlx6lt9mz ginny.weasley
+2026-11-08T15:14:33.111Z bucky.barnes calificar cmvyon7i6003t01plvrrvr86r ratings=3 noShows=0
+2026-11-08T15:14:34.983Z rey calificar cmw6jr5or00cc01qh96ewj173 ratings=1 noShows=0
+2026-11-08T15:14:36.912Z wanda.maximoff calificar cmw4eg8ps01ep01rpt17sfh0y ratings=3 noShows=0
+2026-11-08T15:14:38.835Z wanda.maximoff aceptar cmw7qff0e00mt01tjagjnz9ct chewbacca
+2026-11-08T15:14:40.686Z wanda.maximoff aceptar cmw7qff0e00mt01tjagjnz9ct george.weasley
+2026-11-08T15:14:42.572Z monica.geller crear cmw7z40vt00vw01tji20wr3yj PADEL 2026-11-11T23:00:00.000Z

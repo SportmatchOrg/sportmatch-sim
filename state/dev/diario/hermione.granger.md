@@ -72,3 +72,4 @@
 - 2026-11-07 12:14 · calificó el fútbol (4, 3 y 5) y armó un fútbol INTERMEDIATE el dom 8/11 9:00 en Campus Austral (domingo a la mañana)
 - 2026-11-07 20:12 · solo miró y leyó notificaciones
 - 2026-11-08 00:12 · entró y solo miró
+- 2026-11-08 12:13 · calificó el partido pendiente (4 a Slinky) y leyó notificaciones; nada más
