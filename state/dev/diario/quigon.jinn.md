@@ -28,3 +28,4 @@
 - 2026-11-08 08:11 · entró, no había nada para calificar y solo miró
 - 2026-11-08 12:12 · entró, no tenía nada para calificar y solo leyó notificaciones
 - 2026-11-08 12:12 · calificó el running (Molly) y leyó notificaciones; lo anterior de que no había nada era un error
+- 2026-11-08 16:11 · pidió unirse al pádel del jueves 12/11 20:00 en Tigre Pádel Club (le gusta conocer gente)

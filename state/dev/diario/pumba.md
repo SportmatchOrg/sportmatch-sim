@@ -1,0 +1,1 @@
+- 2026-11-08 16:12 · primera vez: pidió unirse al fútbol del lunes 9/11 21:00 en Club Pilar (exigente con el nivel, INTERMEDIATE)

@@ -73,3 +73,4 @@
 - 2026-11-07 20:12 · solo miró y leyó notificaciones
 - 2026-11-08 00:12 · entró y solo miró
 - 2026-11-08 12:13 · calificó el partido pendiente (4 a Slinky) y leyó notificaciones; nada más
+- 2026-11-08 16:11 · organizó un tenis dobles INTERMEDIATE el sáb 14/11 9:00 en Club Pilar

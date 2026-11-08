@@ -19,3 +19,4 @@
 - 2026-11-03 16:13 · armó un tenis dobles BEGINNER del viernes 6/11 19:30 en River Courts (vuelve de a poco)
 - 2026-11-03 20:12 · aceptó a Moe en su tenis
 - 2026-11-06 20:12 · calificó a Moe (5); hoy no hizo más
+- 2026-11-08 16:12 · armó un tenis dobles INTERMEDIATE el mié 11/11 20:00 en River Courts (vuelve al deporte)

@@ -22,3 +22,4 @@
 - 2026-11-01 08:12 · armó un tenis singles para el mar 3/11 a las 8:00 en Club Pilar (madruga)
 - 2026-11-01 08:12 · corrección: el singles no salió; armó un tenis dobles el mar 3/11 8:00 en Club Pilar
 - 2026-11-02 04:12 · aceptó a Sansa en su tenis dobles; buscó running/tenis temprano en Pilar y no hay nada, no se anotó
+- 2026-11-08 16:12 · entró, leyó recordatorios y solo miró

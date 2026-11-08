@@ -20,3 +20,4 @@
 - 2026-11-04 04:13 · entró, leyó notificaciones y solo miró
 - 2026-11-05 04:13 · entró, leyó notificaciones y solo miró
 - 2026-11-05 20:12 · canceló el básquet del viernes en Club Belgrano (no se llenó)
+- 2026-11-08 16:12 · entró, leyó notificaciones y solo miró

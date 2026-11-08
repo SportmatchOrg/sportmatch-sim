@@ -1,3 +1,4 @@
 - 2026-10-29 00:12 · primera vez: pidió unirse al fútbol del jueves de Lois en Club Pilar
 - 2026-11-01 20:12 · leyó que Lois lo aceptó; solo miró
 - 2026-11-03 04:13 · pidió unirse al fútbol del miércoles 20:00 en Club Pilar (sociable)
+- 2026-11-08 16:12 · leyó notificaciones y solo miró
