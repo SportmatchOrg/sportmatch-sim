@@ -20,3 +20,4 @@
 - 2026-10-30 12:12 · leyó que Dory lo aceptó; no hay nada nuevo en CABA, solo miró
 - 2026-10-31 04:11 · miró fútbol en CABA, nada nuevo
 - 2026-11-02 08:13 · solo miró y leyó notificaciones
+- 2026-11-09 20:13 · pidió unirse al fútbol 5 del dom 15/11 15:30 en Complejo Belgrano (puntual, en su zona)

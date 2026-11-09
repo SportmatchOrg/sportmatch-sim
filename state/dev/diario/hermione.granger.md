@@ -80,3 +80,4 @@
 - 2026-11-09 08:11 · entró, no había a quién calificar y solo leyó notificaciones
 - 2026-11-09 12:11 · organizó un fútbol 5 INTERMEDIATE el dom 15/11 10:00 en Fútbol 5 Nordelta; no había a quién calificar
 - 2026-11-09 16:11 · entró, no había a quién calificar y no hizo nada más
+- 2026-11-09 20:11 · aceptó a Arya en su partido; no había a quién calificar

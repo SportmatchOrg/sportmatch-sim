@@ -6925,7 +6925,8 @@
     "pendientes": [
       "peter.parker",
       "bellatrix.lestrange",
-      "gimli"
+      "gimli",
+      "theoden"
     ],
     "bajasSorteadas": false,
     "asistencia": null,
@@ -7208,7 +7209,7 @@
       "hector.barbossa"
     ],
     "pendientes": [],
-    "bajasSorteadas": false,
+    "bajasSorteadas": true,
     "asistencia": null,
     "calificaran": [],
     "calificaron": [],
@@ -7328,7 +7329,7 @@
       "han.solo"
     ],
     "pendientes": [],
-    "bajasSorteadas": false,
+    "bajasSorteadas": true,
     "asistencia": null,
     "calificaran": [],
     "calificaron": [],
@@ -8023,11 +8024,10 @@
     "jugadores": [
       "bart.simpson",
       "james.bond",
-      "groot"
-    ],
-    "pendientes": [
+      "groot",
       "indiana.jones"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -8061,7 +8061,9 @@
     "jugadores": [
       "davy.jones"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "montgomery.burns"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -8209,7 +8211,9 @@
   },
   "cmw95w8ft01n801tjkkmc2g5l": {
     "jugadores": [],
-    "pendientes": [],
+    "pendientes": [
+      "lara.croft"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -8256,10 +8260,10 @@
     "anotados": 0
   },
   "cmw9efs1801rk01tjvf3dvm5y": {
-    "jugadores": [],
-    "pendientes": [
+    "jugadores": [
       "arya.stark"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -8275,7 +8279,9 @@
   },
   "cmw9egpk701sj01tjckik8ok1": {
     "jugadores": [],
-    "pendientes": [],
+    "pendientes": [
+      "george.weasley"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -8306,11 +8312,11 @@
     "anotados": 1
   },
   "cmw9n150u01wx01tj0dy473wm": {
-    "jugadores": [],
-    "pendientes": [
+    "jugadores": [
       "bart.simpson",
       "walle"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -8320,7 +8326,9 @@
     "fecha": "2026-11-12T23:30:00.000Z",
     "deporte": "BASQUET",
     "cupo": 7,
-    "creado": "2026-11-09T19:12:04.942Z"
+    "creado": "2026-11-09T19:12:04.942Z",
+    "pendientesHumanos": 0,
+    "anotados": 0
   },
   "cmw9n1los01x901tjlutgct3l": {
     "jugadores": [],
@@ -8334,6 +8342,23 @@
     "fecha": "2026-11-11T22:30:00.000Z",
     "deporte": "PADEL",
     "cupo": 3,
-    "creado": "2026-11-09T19:12:26.529Z"
+    "creado": "2026-11-09T19:12:26.529Z",
+    "pendientesHumanos": 0,
+    "anotados": 0
+  },
+  "c96xsu74v93nm1014si2z7mid": {
+    "jugadores": [],
+    "pendientes": [
+      "nala"
+    ],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "humano:cnycxbdwna79p3a0l2vm39z6a",
+    "fecha": "2026-11-26T23:30:00.000Z",
+    "deporte": "BASQUET",
+    "cupo": 9
   }
 }

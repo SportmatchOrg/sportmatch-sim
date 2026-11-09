@@ -1,3 +1,4 @@
 - 2026-10-23 20:14 · primera vez: miró la app y leyó notificaciones, no hizo nada más
 - 2026-10-29 08:12 · leyó notificaciones y miró la app; hoy no se anotó a nada
 - 2026-11-09 16:12 · organizó un básquet INTERMEDIATE el jue 12/11 20:30 en Del Viso (falta gente); no se unió a nada más
+- 2026-11-09 20:12 · aceptó a Bart y a Wall-E en su básquet del jueves

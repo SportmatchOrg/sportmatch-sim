@@ -5,3 +5,4 @@
 - 2026-10-23 16:12 · leyó que Neo lo aceptó en el básquet del domingo; solo miró
 - 2026-10-24 16:12 · calificó el básquet (4, 5 y 4); solo miró lo demás
 - 2026-10-25 08:12 · pidió unirse al fútbol INTERMEDIATE del martes en Club Pilar (principiante entusiasta)
+- 2026-11-09 20:13 · leyó notificaciones (lo aceptaron en el fútbol de Club Pilar); solo miró
