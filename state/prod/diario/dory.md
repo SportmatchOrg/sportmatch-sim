@@ -64,3 +64,4 @@
 - 2026-11-07 20:15 · calificó el fútbol (4, 4 y 5); solo miró
 - 2026-11-08 00:14 · aceptó a Pumba en su fútbol (le gusta conocer gente nueva)
 - 2026-11-08 12:16 · aceptó a Rocket en su fútbol del martes y calificó el fútbol (5 y 4)
+- 2026-11-09 04:15 · entró, leyó notificaciones y solo miró

@@ -7330,7 +7330,7 @@
     "cupo": 9,
     "creado": "2026-11-05T15:14:54.397Z",
     "pendientesHumanos": 0,
-    "anotados": 4
+    "anotados": 5
   },
   "cmw3xdl1002sn01ohfoqkpfur": {
     "jugadores": [
@@ -7393,7 +7393,9 @@
       "pumba",
       "rocket"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "trinity"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -7494,7 +7496,7 @@
     "cupo": 9,
     "creado": "2026-11-06T19:15:34.404Z",
     "pendientesHumanos": 0,
-    "anotados": 2
+    "anotados": 3
   },
   "cmw5cvvwq03ht01ohzb2m779u": {
     "jugadores": [
@@ -7609,7 +7611,7 @@
     "cupo": 9,
     "creado": "2026-11-07T15:19:01.301Z",
     "pendientesHumanos": 0,
-    "anotados": 2
+    "anotados": 3
   },
   "cmw6jujjy042k01ohfy8citc2": {
     "jugadores": [
@@ -7655,7 +7657,8 @@
       "chewbacca",
       "krusty",
       "pippin.tuk",
-      "george.weasley"
+      "george.weasley",
+      "clark.kent"
     ],
     "pendientes": [],
     "bajasSorteadas": false,
@@ -7717,7 +7720,9 @@
     "jugadores": [
       "kylo.ren"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "davy.jones"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -7732,7 +7737,10 @@
     "anotados": 1
   },
   "cmw7qid7m04jy01ohx1ks7nn3": {
-    "jugadores": [],
+    "jugadores": [
+      "sam.gamyi",
+      "bruce.wayne"
+    ],
     "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
@@ -7832,11 +7840,11 @@
     "anotados": 0
   },
   "cmw87nuyk04rq01oh3jp407pr": {
-    "jugadores": [],
-    "pendientes": [
+    "jugadores": [
       "george.weasley",
       "krusty"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -7866,13 +7874,13 @@
     "cupo": 3,
     "creado": "2026-11-08T19:14:53.249Z",
     "pendientesHumanos": 0,
-    "anotados": 0
+    "anotados": 1
   },
   "cmw8g9agj04v201ohphk8qw3q": {
-    "jugadores": [],
-    "pendientes": [
+    "jugadores": [
       "merry.brandigamo"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],

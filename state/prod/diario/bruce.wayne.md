@@ -15,3 +15,4 @@
 - 2026-11-05 00:15 · calificó el pádel (4 y 5); no encontró otro pádel que le encaje
 - 2026-11-07 12:20 · calificó el pádel (4 y 5); solo miró
 - 2026-11-08 08:14 · solo miró, no hay pádel nuevo en CABA
+- 2026-11-09 04:14 · pidió unirse al pádel del martes de Bellatrix en Club Belgrano
