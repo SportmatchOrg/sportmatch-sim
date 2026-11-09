@@ -60,3 +60,4 @@
 - 2026-11-03 04:12 · pidió unirse al fútbol del sábado 10:00 en Club Pilar (vuelve a hacer deporte)
 - 2026-11-05 08:13 · pidió unirse al fútbol del viernes 6/11 de Lois en Club Pilar (vuelve a hacer deporte)
 - 2026-11-07 12:13 · calificó duro dos partidos de fútbol (2 y 3); solo leyó notificaciones
+- 2026-11-09 08:12 · entró, leyó notificaciones y solo miró

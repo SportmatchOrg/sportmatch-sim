@@ -12,3 +12,4 @@
 - 2026-11-08 20:12 · entró, nada para calificar y solo miró
 - 2026-11-09 00:12 · aceptó a Anakin en su partido y canceló el fútbol que iba 0/9 (no se llenó)
 - 2026-11-09 04:12 · entró, no había a quién calificar y solo miró
+- 2026-11-09 08:12 · armó un pádel INTERMEDIATE el vie 13/11 20:00 en Club Belgrano (para despejarse)

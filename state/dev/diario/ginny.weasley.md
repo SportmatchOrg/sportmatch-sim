@@ -10,3 +10,4 @@
 - 2026-11-04 16:13 · pidió unirse al pádel INTERMEDIATE del 17/12 en Norte Pádel (nivel acorde)
 - 2026-11-05 04:12 · miró el pádel de Norte Pádel; ya tiene uno pedido, no sumó otro
 - 2026-11-08 08:12 · pidió unirse al pádel INTERMEDIATE del jueves 12/11 en Tigre Pádel Club (nivel que le va)
+- 2026-11-09 08:12 · aceptaron su pedido de pádel del jueves y armó un pádel INTERMEDIATE el sáb 14/11 19:00 en Tigre Pádel Club (exigente con el nivel)

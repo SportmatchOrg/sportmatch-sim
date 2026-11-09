@@ -18,3 +18,4 @@
 - 2026-11-05 08:13 · pidió unirse al fútbol del domingo 8/11 de Bucky en Del Viso (tarde libre)
 - 2026-11-06 20:13 · leyó notificaciones; hoy solo miró
 - 2026-11-08 00:12 · pidió unirse al pádel del lunes de Indiana en Pádel Point Pilar
+- 2026-11-09 08:12 · calificó el pádel (5 a Indiana) y pidió unirse al fútbol del sábado 14/11 de Wanda en Club Pilar (tarde libre)

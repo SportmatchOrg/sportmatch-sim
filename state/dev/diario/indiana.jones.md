@@ -27,3 +27,4 @@
 - 2026-11-08 04:11 · aceptó a Clark en su pádel del lunes y armó otro pádel el mar 10/11 8:00 en Pádel Point Pilar (madruga)
 - 2026-11-08 12:13 · aceptó a Apu en su partido; solo miró
 - 2026-11-09 04:12 · aceptó a Chewbacca en su partido; nada más
+- 2026-11-09 08:12 · calificó el pádel (5 a Clark) y armó un tenis dobles INTERMEDIATE el jue 12/11 8:00 en Club Pilar (madruga)

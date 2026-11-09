@@ -32,3 +32,4 @@
 - 2026-11-08 20:11 · entró, no tenía nada para calificar y ya tenía dos solicitudes de pádel pendientes; no se anotó a nada más
 - 2026-11-09 00:11 · entró, no había a quién calificar y ya tenía solicitudes de pádel pendientes; no se anotó a nada más
 - 2026-11-09 04:11 · entró, no había a quién calificar y solo leyó notificaciones
+- 2026-11-09 08:11 · entró un lunes, no había a quién calificar y ya tenía solicitudes de pádel pendientes; no se anotó a nada más
