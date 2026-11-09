@@ -6924,7 +6924,8 @@
     "jugadores": [],
     "pendientes": [
       "peter.parker",
-      "bellatrix.lestrange"
+      "bellatrix.lestrange",
+      "gimli"
     ],
     "bajasSorteadas": false,
     "asistencia": null,
@@ -7203,11 +7204,10 @@
       "chewbacca",
       "padme.amidala",
       "arya.stark",
-      "pumba"
-    ],
-    "pendientes": [
+      "pumba",
       "hector.barbossa"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -7936,11 +7936,10 @@
   },
   "cmw7huz6q00is01tjroxtvtcy": {
     "jugadores": [
-      "apu.nahasapeemapetilon"
-    ],
-    "pendientes": [
+      "apu.nahasapeemapetilon",
       "chewbacca"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -8024,15 +8023,14 @@
     "cupo": 9,
     "creado": "2026-11-08T11:11:37.665Z",
     "pendientesHumanos": 0,
-    "anotados": 2
+    "anotados": 4
   },
   "cmw7qg56x00nd01tjuwr2wjvv": {
     "jugadores": [
-      "bart.simpson"
-    ],
-    "pendientes": [
+      "bart.simpson",
       "james.bond"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -8044,7 +8042,7 @@
     "cupo": 7,
     "creado": "2026-11-08T11:12:11.502Z",
     "pendientesHumanos": 0,
-    "anotados": 0
+    "anotados": 1
   },
   "cmw7z1d9e00sj01tjv2k524sh": {
     "jugadores": [],
@@ -8096,7 +8094,7 @@
     "cupo": 3,
     "creado": "2026-11-08T15:14:42.568Z",
     "pendientesHumanos": 0,
-    "anotados": 0
+    "anotados": 1
   },
   "cmw87l2h000zd01tj2233wo2z": {
     "jugadores": [
@@ -8177,7 +8175,8 @@
     "organizador": "humano:cr6b9kqw28plxv3mmepw28hzp",
     "fecha": "2026-11-11T00:00:00.000Z",
     "deporte": "BASQUET",
-    "cupo": 9
+    "cupo": 9,
+    "anotados": 0
   },
   "cwndmek9ocveue7b2dbzkbji5": {
     "jugadores": [],
@@ -8192,6 +8191,21 @@
     "organizador": "humano:cqimbal3is5nwzcv2xh9t2qg1",
     "fecha": "2026-11-15T13:30:00.000Z",
     "deporte": "FUTBOL",
-    "cupo": 9
+    "cupo": 9,
+    "anotados": 1
+  },
+  "cmw8xccm801jf01tj5j6dswf4": {
+    "jugadores": [],
+    "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "minerva.mcgonagall",
+    "fecha": "2026-11-12T20:00:00.000Z",
+    "deporte": "FUTBOL",
+    "cupo": 9,
+    "creado": "2026-11-09T07:12:57.942Z"
   }
 }

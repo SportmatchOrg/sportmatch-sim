@@ -80,3 +80,4 @@
 - 2026-10-31 12:12 · calificó el pádel (5 y 4) y pidió unirse al pádel del lunes de Lisa en Club Belgrano
 - 2026-11-03 00:11 · calificó dos partidos (5, 5 y 5, 4; generoso)
 - 2026-11-08 04:12 · pidió unirse al pádel BEGINNER de hoy 16:00 en Belgrano Pádel (principiante entusiasta)
+- 2026-11-09 04:13 · entró y solo miró; sin novedades

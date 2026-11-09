@@ -24,3 +24,4 @@
 - 2026-11-08 20:12 · leyó el recordatorio, no calificó (rara vez lo hace) y no se anotó a nada nuevo
 - 2026-11-09 00:11 · pidió unirse al básquet del mié 11/11 7:30 en Del Viso (no calificó, rara vez lo hace)
 - 2026-11-09 00:12 · corrección: el pedido para el básquet de Del Viso no se concretó, la app lo tiene suspendido hasta el 14/11
+- 2026-11-09 04:11 · entró, leyó notificaciones y no calificó (rara vez lo hace); sigue suspendido para anotarse, solo miró

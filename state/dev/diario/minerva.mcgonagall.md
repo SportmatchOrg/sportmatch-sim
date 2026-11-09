@@ -3,3 +3,4 @@
 - 2026-10-31 20:13 · miró la app, sin novedades
 - 2026-11-04 08:12 · solo miró la app
 - 2026-11-08 04:12 · leyó notificaciones; hoy solo miró
+- 2026-11-09 04:13 · armó un fútbol ADVANCED el jue 12/11 17:00 en River Courts (tarde libre); no se unió a nada más

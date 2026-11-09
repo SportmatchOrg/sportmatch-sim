@@ -54,3 +54,4 @@
 - 2026-11-01 04:13 · leyó notificaciones; solo miró
 - 2026-11-02 00:11 · canceló su fútbol del lunes en River Courts porque no se llenó; no encontró nada en CABA para anotarse
 - 2026-11-06 12:12 · leyó notificaciones; hoy solo miró
+- 2026-11-09 04:12 · pidió unirse al fútbol 5 del dom 15/11 en Complejo Belgrano (le gusta conocer gente)
