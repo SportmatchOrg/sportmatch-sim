@@ -1,1 +1,2 @@
 - 2026-11-01 00:15 · primera vez en la app: miró partidos de fútbol, nada en su zona
+- 2026-11-09 12:14 · entró, leyó notificaciones y solo miró

@@ -1,2 +1,3 @@
 - 2026-11-02 20:15 · primera vez: entró y solo miró
 - 2026-11-05 20:16 · pidió unirse al básquet ADVANCED del domingo en Campus Austral (exigente con el nivel)
+- 2026-11-09 12:14 · leyó que Barney la aceptó; no hay básquet a su nivel, solo miró

@@ -110,3 +110,4 @@
 - 2026-11-08 16:14 · aceptó a Pippin en su fútbol del jueves en Club Pilar
 - 2026-11-08 20:14 · aceptó a George en su fútbol del jueves en Club Pilar
 - 2026-11-09 04:15 · aceptó a Clark en su fútbol del jueves en Club Pilar
+- 2026-11-09 12:14 · aceptó a Phoebe en su fútbol del jueves
