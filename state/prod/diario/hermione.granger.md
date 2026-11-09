@@ -71,3 +71,4 @@
 - 2026-11-09 08:14 · entró, no había a quién calificar; solo miró
 - 2026-11-09 12:13 · entró, no había a quién calificar; solo miró
 - 2026-11-09 16:13 · aceptó a Wall-E en su fútbol y armó un tenis ADVANCED de dobles el domingo 15 a las 9 en Club Pilar
+- 2026-11-09 20:14 · aceptó a Bart en su partido; nada para calificar

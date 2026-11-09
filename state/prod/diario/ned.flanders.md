@@ -9,3 +9,4 @@
 - 2026-11-06 12:14 · aceptó a Neo en su básquet del martes; después solo miró
 - 2026-11-06 16:16 · aceptó a Nick Fury en su básquet del martes
 - 2026-11-08 20:15 · aceptó a Milhouse en su básquet del martes; no encontró nada en CABA para unirse
+- 2026-11-09 20:15 · aceptó a Joker y a Galadriel en su básquet del martes

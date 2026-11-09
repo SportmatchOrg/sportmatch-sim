@@ -36,3 +36,4 @@
 - 2026-11-07 00:12 · aceptó a Arthur en su tenis del lunes; solo miró
 - 2026-11-07 04:12 · aceptó a Saul en su fútbol del sábado; miró partidos y nada le encajó
 - 2026-11-09 16:14 · aceptó a Sauron en su tenis y armó un dobles BEGINNER el jueves 12 a las 20 en River Courts
+- 2026-11-09 20:14 · calificó el tenis/fútbol (5 y 4); nada de CABA para anotarse

@@ -45,3 +45,4 @@
 - 2026-11-05 20:16 · leyó notificaciones (lo aceptó Dory); solo miró
 - 2026-11-06 12:15 · pidió unirse al fútbol del domingo en Club Pilar
 - 2026-11-08 00:14 · pidió unirse al fútbol del martes de Mace Windu en Nordelta (se suma a todo)
+- 2026-11-09 20:15 · entró y solo miró

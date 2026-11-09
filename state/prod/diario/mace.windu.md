@@ -90,3 +90,4 @@
 - 2026-11-08 00:14 · aceptó nada pendiente; pidió unirse al pádel del domingo de Tony Stark en Tigre (le gusta conocer gente)
 - 2026-11-08 04:14 · aceptó a Fred en su partido
 - 2026-11-08 20:14 · aceptó a Elrond en su fútbol 5 del martes
+- 2026-11-09 20:15 · entró y solo miró
