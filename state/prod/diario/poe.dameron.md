@@ -1,2 +1,3 @@
 - 2026-11-06 08:15 · primera vez: pidió unirse al running del sábado en Parque Pilar (para despejarse)
 - 2026-11-06 16:16 · leyó que Jack lo aceptó en el running; solo miró
+- 2026-11-09 08:14 · armó un running tranqui el miércoles 11 a las 19 en Parque Pilar (para despejarse)

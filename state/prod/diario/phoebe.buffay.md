@@ -18,3 +18,4 @@
 - 2026-11-06 00:16 · calificó el fútbol (4 y 5) y se anotó al fútbol del sábado a la noche en Club Pilar
 - 2026-11-07 20:15 · calificó el fútbol y armó un básquet el martes 20:30 en Polideportivo Del Viso (juega para ganar)
 - 2026-11-08 08:14 · aceptó a Kylo en su básquet del martes en Del Viso
+- 2026-11-09 08:14 · aceptó a Davy en su básquet y pidió unirse al fútbol del jueves de Lois en Club Pilar (va por todo)

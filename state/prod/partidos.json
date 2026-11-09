@@ -6257,9 +6257,9 @@
       "quigon.jinn": true
     },
     "calificaran": [
+      "quigon.jinn",
       "tony.stark",
-      "barney.gumble",
-      "quigon.jinn"
+      "barney.gumble"
     ],
     "calificaron": [
       "quigon.jinn",
@@ -7391,11 +7391,10 @@
       "arya.stark",
       "lois.lane",
       "pumba",
-      "rocket"
-    ],
-    "pendientes": [
+      "rocket",
       "trinity"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -7660,7 +7659,9 @@
       "george.weasley",
       "clark.kent"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "phoebe.buffay"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -7672,7 +7673,7 @@
     "cupo": 9,
     "creado": "2026-11-07T15:20:21.035Z",
     "pendientesHumanos": 0,
-    "anotados": 5
+    "anotados": 6
   },
   "cmw6s8mwk047n01ohlmptw6y4": {
     "jugadores": [],
@@ -7718,11 +7719,10 @@
   },
   "cmw70u46t04c701ohvpmy2bd6": {
     "jugadores": [
-      "kylo.ren"
-    ],
-    "pendientes": [
+      "kylo.ren",
       "davy.jones"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -7753,13 +7753,15 @@
     "cupo": 3,
     "creado": "2026-11-08T11:13:55.186Z",
     "pendientesHumanos": 0,
-    "anotados": 0
+    "anotados": 2
   },
   "cmw7qise804ki01ohz30fvvf3": {
     "jugadores": [
       "cedric.diggory"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "yoda"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -7856,7 +7858,7 @@
     "cupo": 9,
     "creado": "2026-11-08T19:14:04.926Z",
     "pendientesHumanos": 0,
-    "anotados": 0
+    "anotados": 2
   },
   "cmw87ow8b04sz01oh96cceu57": {
     "jugadores": [
@@ -7892,7 +7894,7 @@
     "cupo": 3,
     "creado": "2026-11-08T23:14:41.741Z",
     "pendientesHumanos": 0,
-    "anotados": 0
+    "anotados": 1
   },
   "cmw8g9ljm04ve01ohirgyl143": {
     "jugadores": [],
@@ -7909,5 +7911,33 @@
     "creado": "2026-11-08T23:14:56.106Z",
     "pendientesHumanos": 0,
     "anotados": 0
+  },
+  "cmw95zdd3055101oh2sn34crn": {
+    "jugadores": [],
+    "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "poe.dameron",
+    "fecha": "2026-11-11T22:00:00.000Z",
+    "deporte": "RUNNING",
+    "cupo": 5,
+    "creado": "2026-11-09T11:14:48.942Z"
+  },
+  "cmw95zm8i055801ohf02zi29y": {
+    "jugadores": [],
+    "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "peter.parker",
+    "fecha": "2026-11-12T23:30:00.000Z",
+    "deporte": "FUTBOL",
+    "cupo": 9,
+    "creado": "2026-11-09T11:15:00.453Z"
   }
 }
