@@ -11,3 +11,4 @@
 - 2026-10-29 04:13 · pidió unirse al pádel del sábado 31 a las 10 en Pádel Point Pilar (se une a todo)
 - 2026-11-05 16:15 · leyó que Rey lo aceptó; solo miró, nada temprano nuevo
 - 2026-11-06 04:16 · miró básquet y pádel; nada temprano que le sirva, no se anotó
+- 2026-11-09 00:15 · entró y solo miró; nada temprano que le sirva

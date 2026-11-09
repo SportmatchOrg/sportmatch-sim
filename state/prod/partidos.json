@@ -6749,12 +6749,12 @@
       "dory": true
     },
     "calificaran": [
-      "lois.lane",
       "hermione.granger",
       "chewbacca",
-      "saul.goodman",
+      "lois.lane",
       "george.weasley",
-      "dory"
+      "dory",
+      "saul.goodman"
     ],
     "calificaron": [
       "hermione.granger",
@@ -7315,11 +7315,10 @@
       "dory",
       "lois.lane",
       "rocket",
-      "hermione.granger"
-    ],
-    "pendientes": [
+      "hermione.granger",
       "bart.simpson"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -7422,7 +7421,9 @@
     "cupo": 5,
     "creado": "2026-11-06T07:15:45.618Z",
     "pendientesHumanos": 0,
-    "anotados": 0
+    "anotados": 0,
+    "cancelSorteado": true,
+    "cancelar": false
   },
   "cmw4n4vqy036i01oh4ia43dgl": {
     "jugadores": [
@@ -7442,7 +7443,7 @@
     "cupo": 7,
     "creado": "2026-11-06T07:16:08.678Z",
     "pendientesHumanos": 0,
-    "anotados": 2
+    "anotados": 3
   },
   "cmw54898g03cx01ohsl5bmm04": {
     "jugadores": [
@@ -7478,11 +7479,10 @@
   "cmw5cu2oh03fs01ohp7ml09p2": {
     "jugadores": [
       "scott.lang",
-      "lois.lane"
-    ],
-    "pendientes": [
+      "lois.lane",
       "obiwan.kenobi"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -7558,7 +7558,7 @@
     "cupo": 9,
     "creado": "2026-11-07T07:11:30.460Z",
     "pendientesHumanos": 0,
-    "anotados": 1
+    "anotados": 2
   },
   "cmw6azpwk03v301oh25ax7evr": {
     "jugadores": [
@@ -7594,11 +7594,10 @@
   "cmw6jtpuf041s01ohwoz1d103": {
     "jugadores": [
       "chewbacca",
-      "krusty"
-    ],
-    "pendientes": [
+      "krusty",
       "theoden"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -7670,7 +7669,7 @@
     "cupo": 9,
     "creado": "2026-11-07T15:20:21.035Z",
     "pendientesHumanos": 0,
-    "anotados": 4
+    "anotados": 5
   },
   "cmw6s8mwk047n01ohlmptw6y4": {
     "jugadores": [],
@@ -7834,7 +7833,10 @@
   },
   "cmw87nuyk04rq01oh3jp407pr": {
     "jugadores": [],
-    "pendientes": [],
+    "pendientes": [
+      "george.weasley",
+      "krusty"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -7849,10 +7851,10 @@
     "anotados": 0
   },
   "cmw87ow8b04sz01oh96cceu57": {
-    "jugadores": [],
-    "pendientes": [
+    "jugadores": [
       "bellatrix.lestrange"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -7868,7 +7870,9 @@
   },
   "cmw8g9agj04v201ohphk8qw3q": {
     "jugadores": [],
-    "pendientes": [],
+    "pendientes": [
+      "merry.brandigamo"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -7878,7 +7882,9 @@
     "fecha": "2026-11-13T23:30:00.000Z",
     "deporte": "PADEL",
     "cupo": 3,
-    "creado": "2026-11-08T23:14:41.741Z"
+    "creado": "2026-11-08T23:14:41.741Z",
+    "pendientesHumanos": 0,
+    "anotados": 0
   },
   "cmw8g9ljm04ve01ohirgyl143": {
     "jugadores": [],
@@ -7892,6 +7898,8 @@
     "fecha": "2026-11-15T13:00:00.000Z",
     "deporte": "PADEL",
     "cupo": 3,
-    "creado": "2026-11-08T23:14:56.106Z"
+    "creado": "2026-11-08T23:14:56.106Z",
+    "pendientesHumanos": 0,
+    "anotados": 0
   }
 }

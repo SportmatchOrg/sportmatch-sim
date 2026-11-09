@@ -2,3 +2,4 @@
 - 2026-11-02 16:15 · entró a mirar pádel en CABA; no se anotó a nada
 - 2026-11-04 08:16 · pidió unirse al pádel del viernes 6 a las 20 en Club Belgrano (puntual y organizado)
 - 2026-11-08 00:14 · leyó que Bellatrix la aceptó; solo miró
+- 2026-11-09 00:15 · pidió unirse al pádel BEGINNER del viernes 13 a las 20:30 en Club Belgrano

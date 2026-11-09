@@ -11,3 +11,4 @@
 - 2026-11-06 12:15 · pidió unirse al fútbol del martes de noche en Club Pilar
 - 2026-11-07 20:15 · calificó el fútbol y pidió unirse al del jueves de Lois en Club Pilar
 - 2026-11-08 12:17 · calificó el fútbol (3 y 4), pidió unirse al del miércoles de Elrond en Nordelta y armó un pádel el jueves 12 a las 20:30 en Pádel Point Pilar
+- 2026-11-09 00:15 · leyó que Elrond lo aceptó y pidió unirse al fútbol del sábado 14 en Del Viso

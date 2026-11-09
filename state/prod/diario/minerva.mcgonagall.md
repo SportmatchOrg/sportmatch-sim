@@ -1,2 +1,3 @@
 - 2026-10-28 04:14 · primera entrada: recorrió la app y solo miró
 - 2026-11-08 16:14 · armó un pádel ADVANCED el jueves 12 a las 18:30 en Club Belgrano (tardes libres)
+- 2026-11-09 00:15 · aceptó a Bellatrix en su pádel ADVANCED; no se anotó a nada

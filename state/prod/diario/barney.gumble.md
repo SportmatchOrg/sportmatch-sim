@@ -57,3 +57,4 @@
 - 2026-11-08 12:16 · pidió unirse al fútbol ADVANCED del jueves de Steve en Club Pilar; vio que Sansa se bajó de su básquet
 - 2026-11-08 16:14 · no había a quién calificar; Steve lo aceptó en su fútbol ADVANCED del jueves, no se anotó a nada más
 - 2026-11-08 20:14 · no había a quién calificar; armó un pádel ADVANCED el domingo 15 a las 10 en Pádel Point Pilar
+- 2026-11-09 00:14 · entró, no había a quién calificar; solo miró

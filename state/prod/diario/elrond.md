@@ -135,3 +135,4 @@
 - 2026-11-07 12:19 · aceptó a Scott en su fútbol y armó otro el miércoles 21:00 en Nordelta
 - 2026-11-08 04:13 · aceptó a Lois y a Chewbacca en sus partidos
 - 2026-11-08 16:13 · aceptó a Krusty en su fútbol y se anotó al fútbol del martes en Nordelta
+- 2026-11-09 00:14 · aceptó a Obi-Wan y a Théoden en sus partidos
