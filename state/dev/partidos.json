@@ -6493,8 +6493,8 @@
       "montgomery.burns": true
     },
     "calificaran": [
-      "bucky.barnes",
-      "montgomery.burns"
+      "montgomery.burns",
+      "bucky.barnes"
     ],
     "calificaron": [
       "montgomery.burns",
@@ -6611,12 +6611,12 @@
       "lois.lane": true
     },
     "calificaran": [
-      "hermione.granger",
-      "george.weasley",
-      "gandalf",
-      "phoebe.buffay",
       "pippin.tuk",
-      "lois.lane"
+      "hermione.granger",
+      "lois.lane",
+      "george.weasley",
+      "phoebe.buffay",
+      "gandalf"
     ],
     "calificaron": [
       "pippin.tuk",
@@ -7243,7 +7243,7 @@
     "pendientes": [
       "arwen"
     ],
-    "bajasSorteadas": false,
+    "bajasSorteadas": true,
     "asistencia": null,
     "calificaran": [],
     "calificaron": [],
@@ -7366,9 +7366,7 @@
     "asistencia": {
       "monica.geller": true
     },
-    "calificaran": [
-      "monica.geller"
-    ],
+    "calificaran": [],
     "calificaron": [],
     "cancelado": false,
     "organizador": "monica.geller",
@@ -7453,9 +7451,7 @@
     "asistencia": {
       "quigon.jinn": true
     },
-    "calificaran": [
-      "quigon.jinn"
-    ],
+    "calificaran": [],
     "calificaron": [],
     "cancelado": false,
     "organizador": "quigon.jinn",
@@ -7641,11 +7637,10 @@
     "jugadores": [
       "phoebe.buffay",
       "timon",
-      "draco.malfoy"
-    ],
-    "pendientes": [
+      "draco.malfoy",
       "bart.simpson"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -7899,10 +7894,10 @@
     "anotados": 1
   },
   "cmw79az4i00f401tjeu6b1gr5": {
-    "jugadores": [],
-    "pendientes": [
+    "jugadores": [
       "anakin.skywalker"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -8023,11 +8018,10 @@
       "chewbacca",
       "george.weasley",
       "hermione.granger",
-      "phoebe.buffay"
-    ],
-    "pendientes": [
+      "phoebe.buffay",
       "clark.kent"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -8044,11 +8038,10 @@
   "cmw7qg56x00nd01tjuwr2wjvv": {
     "jugadores": [
       "bart.simpson",
-      "james.bond"
-    ],
-    "pendientes": [
+      "james.bond",
       "groot"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -8240,7 +8233,9 @@
     "fecha": "2026-11-12T11:00:00.000Z",
     "deporte": "TENIS",
     "cupo": 3,
-    "creado": "2026-11-09T11:12:22.678Z"
+    "creado": "2026-11-09T11:12:22.678Z",
+    "pendientesHumanos": 0,
+    "anotados": 0
   },
   "cmw95wgaw01nd01tjwlma9eyh": {
     "jugadores": [],
@@ -8254,7 +8249,9 @@
     "fecha": "2026-11-13T23:00:00.000Z",
     "deporte": "PADEL",
     "cupo": 3,
-    "creado": "2026-11-09T11:12:32.794Z"
+    "creado": "2026-11-09T11:12:32.794Z",
+    "pendientesHumanos": 0,
+    "anotados": 0
   },
   "cmw95wqxf01nk01tjwhbyxaop": {
     "jugadores": [],
@@ -8268,6 +8265,51 @@
     "fecha": "2026-11-14T22:00:00.000Z",
     "deporte": "PADEL",
     "cupo": 3,
-    "creado": "2026-11-09T11:12:46.558Z"
+    "creado": "2026-11-09T11:12:46.558Z",
+    "pendientesHumanos": 0,
+    "anotados": 0
+  },
+  "cmw9efs1801rk01tjvf3dvm5y": {
+    "jugadores": [],
+    "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "hermione.granger",
+    "fecha": "2026-11-15T13:00:00.000Z",
+    "deporte": "FUTBOL",
+    "cupo": 9,
+    "creado": "2026-11-09T15:11:31.425Z"
+  },
+  "cmw9egpk701sj01tjckik8ok1": {
+    "jugadores": [],
+    "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "wanda.maximoff",
+    "fecha": "2026-11-15T14:00:00.000Z",
+    "deporte": "FUTBOL",
+    "cupo": 9,
+    "creado": "2026-11-09T15:12:14.857Z"
+  },
+  "cy93fl5e7qm5aspo82avkt1e8": {
+    "jugadores": [],
+    "pendientes": [
+      "bruce.wayne"
+    ],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "humano:coax5zalyjdszim4fi8ekrvup",
+    "fecha": "2026-12-11T02:30:00.000Z",
+    "deporte": "PADEL",
+    "cupo": 3
   }
 }

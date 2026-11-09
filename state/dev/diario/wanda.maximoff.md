@@ -6,3 +6,4 @@
 - 2026-11-08 08:11 · aceptó a Phoebe en su fútbol del domingo y armó un fútbol el sáb 14/11 10:00 en Club Pilar
 - 2026-11-08 12:14 · calificó el fútbol (4, 5, 4) y aceptó a Chewbacca y George en su fútbol del sábado
 - 2026-11-09 00:12 · aceptó a Hermione y a Phoebe en su fútbol del sábado en Club Pilar
+- 2026-11-09 12:12 · aceptó a Clark en su fútbol del sábado y armó otro fútbol el dom 15/11 11:00 en Del Viso

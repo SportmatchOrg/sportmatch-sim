@@ -28,3 +28,4 @@
 - 2026-11-06 08:13 · armó un básquet para principiantes el mar 10/11 19:30 en Del Viso
 - 2026-11-06 20:12 · aceptó a Phoebe y a Timón en su básquet
 - 2026-11-08 12:14 · aceptó a Draco en su básquet para principiantes; solo miró
+- 2026-11-09 12:12 · aceptó a Bart en su básquet para principiantes; solo miró
