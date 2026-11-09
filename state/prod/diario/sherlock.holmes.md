@@ -2,3 +2,4 @@
 - 2026-11-05 16:15 · pidió unirse al fútbol del jueves en Fútbol 5 Nordelta (vuelve de a poco, nivel intermedio)
 - 2026-11-06 00:16 · calificó el fútbol (4 y 5) y leyó que Elrond lo aceptó; solo miró
 - 2026-11-08 04:14 · entró y solo miró; nada nuevo
+- 2026-11-09 16:14 · entró, leyó notificaciones y solo miró

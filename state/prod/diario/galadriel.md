@@ -33,3 +33,4 @@
 - 2026-11-04 04:15 · entró a mirar básquet; todo queda lejos de CABA o no es de su nivel, no se anotó
 - 2026-11-08 04:14 · entró y solo miró
 - 2026-11-09 00:15 · entró y solo miró
+- 2026-11-09 16:14 · pidió unirse al básquet del martes 10 a las 20 en Club Belgrano

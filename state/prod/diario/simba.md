@@ -5,3 +5,4 @@
 - 2026-11-02 20:15 · pidió unirse al básquet de Neo del miércoles en Campus Austral
 - 2026-11-03 04:15 · leyó que Neo lo aceptó en el básquet del miércoles; solo miró
 - 2026-11-03 12:15 · entró y solo miró
+- 2026-11-09 16:14 · pidió unirse al básquet de Neo de hoy a las 20 en Campus Austral (estudiante, tardes libres)

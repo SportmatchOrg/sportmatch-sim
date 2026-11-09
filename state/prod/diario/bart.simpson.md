@@ -14,3 +14,4 @@
 - 2026-11-07 20:15 · calificó el básquet (4 y 5); no organizó nada hoy
 - 2026-11-08 12:16 · calificó el fútbol (4 y 5), pidió unirse al fútbol ADVANCED del sábado de Finn y armó un básquet el miércoles 11 a las 20:30 en Campus Austral
 - 2026-11-08 20:15 · calificó el fútbol (4 y 5) y pidió unirse al fútbol del lunes de George en Club Pilar
+- 2026-11-09 16:14 · pidió unirse al fútbol del sábado 14 en Polideportivo Del Viso (a ganar)
