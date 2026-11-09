@@ -10,3 +10,4 @@
 - 2026-10-22 08:12 · pidió unirse al fútbol del sábado de Hermione en Club Pilar (tardes libres)
 - 2026-11-05 08:13 · pidió unirse al pádel del sábado 7/11 de Clint en Pádel Point Pilar
 - 2026-11-08 00:12 · pidió unirse al fútbol del lunes de Phoebe en Club Pilar (tardes libres)
+- 2026-11-09 16:12 · pidió unirse al fútbol del domingo de Hermione en Nordelta (tardes libres)

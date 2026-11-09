@@ -1,1 +1,2 @@
 - 2026-10-30 12:12 · primera vez en la app: solo miró
+- 2026-11-09 16:12 · entró, leyó notificaciones y solo miró
