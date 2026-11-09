@@ -10,3 +10,4 @@
 - 2026-11-08 12:14 · armó un pádel INTERMEDIATE el mié 11/11 20:00 en Club Pilar
 - 2026-11-08 16:11 · entró, nada para calificar y solo miró
 - 2026-11-08 20:12 · entró, nada para calificar y solo miró
+- 2026-11-09 00:12 · aceptó a Anakin en su partido y canceló el fútbol que iba 0/9 (no se llenó)

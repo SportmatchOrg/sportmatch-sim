@@ -30,3 +30,4 @@
 - 2026-11-08 12:12 · calificó el running (Molly) y leyó notificaciones; lo anterior de que no había nada era un error
 - 2026-11-08 16:11 · pidió unirse al pádel del jueves 12/11 20:00 en Tigre Pádel Club (le gusta conocer gente)
 - 2026-11-08 20:11 · entró, no tenía nada para calificar y ya tenía dos solicitudes de pádel pendientes; no se anotó a nada más
+- 2026-11-09 00:11 · entró, no había a quién calificar y ya tenía solicitudes de pádel pendientes; no se anotó a nada más

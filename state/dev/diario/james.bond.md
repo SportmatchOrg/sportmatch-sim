@@ -7,3 +7,4 @@
 - 2026-11-01 12:13 · calificó el pádel (Jack 4, Krusty 5); leyó que Indiana lo aceptó, nada más
 - 2026-11-03 16:12 · leyó notificaciones; nada nuevo, no se anotó a nada
 - 2026-11-06 04:13 · leyó notificaciones; nada temprano que le encaje, hoy solo miró
+- 2026-11-09 00:12 · pidió unirse al básquet del mié 11/11 7:30 en Del Viso (madruga)

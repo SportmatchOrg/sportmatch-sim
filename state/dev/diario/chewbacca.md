@@ -20,3 +20,4 @@
 - 2026-11-02 08:13 · se anotó al fútbol del jueves 5/11 en Club Pilar (se suma a todo)
 - 2026-11-06 12:12 · se anotó al fútbol del lun 9/11 21:00 en Club Pilar (se suma a todo)
 - 2026-11-08 08:12 · se anotó al fútbol del sáb 14/11 en Club Pilar (se suma a todo)
+- 2026-11-09 00:13 · pidió unirse al pádel del mar 10/11 en Pádel Point Pilar (se suma a todo)
