@@ -3,3 +3,5 @@
 - 2026-11-09 16:12 · organizó un básquet INTERMEDIATE el jue 12/11 20:30 en Del Viso (falta gente); no se unió a nada más
 - 2026-11-09 20:12 · aceptó a Bart y a Wall-E en su básquet del jueves
 - 2026-11-10 04:12 · aceptó a Padmé en su básquet del jueves; no calificó (rara vez lo hace)
+- 2026-11-10 20:13 · pidió unirse al básquet del mié 11/11 en Del Viso (se anota con entusiasmo)
+- 2026-11-10 20:13 · (corrección) ahora sí pidió unirse al básquet del mié 11/11 en Del Viso

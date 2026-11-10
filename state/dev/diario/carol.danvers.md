@@ -10,3 +10,4 @@
 - 2026-11-06 20:12 · no había a quién calificar; hoy solo miró
 - 2026-11-07 12:17 · no había a quién calificar; entró sin ganas, solo miró
 - 2026-11-07 16:12 · pidió unirse al tenis del jue 12/11 en Campus Austral (competitiva)
+- 2026-11-10 20:12 · calificó el tenis y pidió unirse al del mié 11/11 en River Courts (competitiva)

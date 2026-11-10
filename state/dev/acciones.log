@@ -3057,3 +3057,30 @@
 2026-11-10T19:12:59.792Z lara.croft leer-notificaciones 1
 2026-11-10T19:13:06.747Z marty.mcfly unirse cmw7qff0e00mt01tjagjnz9ct
 2026-11-10T19:13:08.353Z rey unirse cmwalcb1j02qw01tjvoahwpwz
+2026-11-10T23:10:47.398Z sorteo cmw4efbe001dw01rp1vl8p6sl faltaron=[] calificaran=[albus.dumbledore,carol.danvers,elrond]
+2026-11-10T23:10:51.230Z sorteo cmw4vltd901mz01rpb345tyt5 faltaron=[timon] calificaran=[fiona,phoebe.buffay,bart.simpson]
+2026-11-10T23:11:52.696Z elrond calificar cmw4efbe001dw01rp1vl8p6sl ratings=2 noShows=0
+2026-11-10T23:11:54.297Z sam.gamyi leer-notificaciones 1
+2026-11-10T23:11:55.341Z sam.gamyi cancelar cmw9n1los01x901tjlutgct3l
+2026-11-10T23:11:56.751Z albus.dumbledore leer-notificaciones 1
+2026-11-10T23:12:05.356Z albus.dumbledore calificar cmw4efbe001dw01rp1vl8p6sl ratings=2 noShows=0
+2026-11-10T23:12:07.087Z albus.dumbledore crear cmwbb1ogr038h01tjyxqnfd94 FUTBOL 2026-11-13T23:30:00.000Z
+2026-11-10T23:12:08.956Z phoebe.buffay leer-notificaciones 1
+2026-11-10T23:12:16.587Z phoebe.buffay calificar cmw4vltd901mz01rpb345tyt5 ratings=3 noShows=1
+2026-11-10T23:12:19.321Z phoebe.buffay unirse cmw9egpk701sj01tjckik8ok1
+2026-11-10T23:12:21.181Z indiana.jones leer-notificaciones 1
+2026-11-10T23:12:26.160Z indiana.jones aceptar cmwalcb1j02qw01tjvoahwpwz rey
+2026-11-10T23:12:28.040Z fiona leer-notificaciones 1
+2026-11-10T23:12:34.291Z fiona calificar cmw4vltd901mz01rpb345tyt5 ratings=2 noShows=1
+2026-11-10T23:12:36.013Z fiona crear cmwbb2as5039d01tjamhv8dq5 BASQUET 2026-11-14T13:00:00.000Z
+2026-11-10T23:12:37.815Z bart.simpson leer-notificaciones 3
+2026-11-10T23:12:43.252Z bart.simpson calificar cmw4vltd901mz01rpb345tyt5 ratings=2 noShows=1
+2026-11-10T23:12:45.012Z bart.simpson unirse cmw7qff0e00mt01tjagjnz9ct
+2026-11-10T23:12:46.724Z carol.danvers leer-notificaciones 2
+2026-11-10T23:12:54.038Z carol.danvers calificar cmw4efbe001dw01rp1vl8p6sl ratings=2 noShows=0
+2026-11-10T23:12:56.396Z carol.danvers unirse cmw87m4la010801tjwrgj30pq
+2026-11-10T23:12:58.040Z wanda.maximoff leer-notificaciones 3
+2026-11-10T23:13:03.847Z wanda.maximoff aceptar cmw7qff0e00mt01tjagjnz9ct marty.mcfly
+2026-11-10T23:13:05.315Z wanda.maximoff aceptar cmw7qff0e00mt01tjagjnz9ct bart.simpson
+2026-11-10T23:13:23.151Z jesse.pinkman unirse cmw7qg56x00nd01tjuwr2wjvv
+2026-11-10T23:13:24.629Z luke.skywalker unirse cmw7qg56x00nd01tjuwr2wjvv

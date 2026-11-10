@@ -106,3 +106,4 @@
 - 2026-11-07 16:11 · se unió al tenis del martes 10/11 en Tigre Pádel Club (relajado, para despejarse)
 - 2026-11-10 00:11 · calificó a Han Solo y armó un fútbol 5 el vie 13/11 en Nordelta (a la noche, para despejarse)
 - 2026-11-10 16:12 · aceptó a Han Solo en su partido; hoy solo eso
+- 2026-11-10 20:11 · calificó el partido que jugó; ya tiene varios anotados, no se unió a nada más

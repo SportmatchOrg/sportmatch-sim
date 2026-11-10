@@ -82,3 +82,4 @@
 - 2026-11-08 04:12 · pidió unirse al pádel BEGINNER de hoy 16:00 en Belgrano Pádel (principiante entusiasta)
 - 2026-11-09 04:13 · entró y solo miró; sin novedades
 - 2026-11-09 16:12 · organizó un pádel BEGINNER el mié 11/11 19:30 en Club Belgrano (principiante entusiasta)
+- 2026-11-10 20:12 · canceló su pádel de Belgrano porque no se llenaba; hoy no armó otro
