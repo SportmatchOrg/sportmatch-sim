@@ -10,3 +10,4 @@
 - 2026-11-02 12:13 · miró la app, sin novedades
 - 2026-11-02 20:12 · calificó el pádel y pidió unirse al pádel del martes en Pádel Point Pilar (se anota a todo)
 - 2026-11-03 08:12 · calificó el pádel (5 a Indiana; James faltó)
+- 2026-11-10 04:12 · entró, solo miró

@@ -30,3 +30,4 @@
 - 2026-11-09 16:11 · entró, no calificó (rara vez lo hace) y sigue suspendido; solo miró
 - 2026-11-09 20:12 · leyó notificaciones, no calificó (rara vez lo hace) y sigue suspendido; solo miró
 - 2026-11-10 00:13 · entró, no calificó (rara vez lo hace) y sigue suspendido hasta el 14/11; solo miró
+- 2026-11-10 04:12 · intentó anotarse al básquet de Del Viso pero sigue suspendido hasta el 14/11; no calificó (rara vez lo hace)

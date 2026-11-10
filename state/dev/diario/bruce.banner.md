@@ -2,3 +2,4 @@
 - 2026-10-29 00:12 · miró la app, nada en CABA para anotarse
 - 2026-11-03 04:13 · pidió unirse al fútbol del miércoles 18:30 en Complejo Belgrano (relajado)
 - 2026-11-09 00:12 · entró, leyó notificaciones y solo miró
+- 2026-11-10 04:12 · entró, solo miró

@@ -53,3 +53,4 @@
 - 2026-11-02 04:12 · aceptó a Davy Jones en su básquet del martes
 - 2026-11-02 16:11 · aceptó a Timón en su básquet; ya tiene el suyo armado, no se anotó a otro
 - 2026-11-04 00:12 · calificó el básquet (Davy 5, Timón 4, Gato 5); nada más por hoy
+- 2026-11-10 04:12 · entró, solo miró

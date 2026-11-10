@@ -8,3 +8,4 @@
 - 2026-10-25 08:11 · calificó el pádel de Tony, generoso
 - 2026-10-29 08:12 · pidió unirse al pádel INTERMEDIATE del viernes de Mace en Tigre
 - 2026-11-02 00:13 · leyó notificaciones (lo aceptaron); solo miró
+- 2026-11-10 04:12 · pidió unirse al pádel INTERMEDIATE del vie 13/11 en Unión Pádel
