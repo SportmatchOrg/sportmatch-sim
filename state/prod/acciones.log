@@ -2988,3 +2988,30 @@
 2026-11-09T23:15:19.323Z krusty unirse cmw9eitz9057b01oh376ml7bk
 2026-11-09T23:15:22.165Z rex unirse cmw4n4vqy036i01oh4ia43dgl
 2026-11-09T23:15:24.191Z fred.weasley leer-notificaciones 3
+2026-11-10T03:14:23.870Z sorteo cmw3osq0h02pa01ohwx3lg0t3 faltaron=[lois.lane] calificaran=[george.weasley,dory,rocket,hermione.granger,bart.simpson]
+2026-11-10T03:14:26.145Z sorteo cmw4n4dyl036b01oh7lv10f44 faltaron=[] calificaran=[hector.barbossa]
+2026-11-10T03:14:28.890Z sorteo cmw5cvvwq03ht01ohzb2m779u faltaron=[] calificaran=[mace.windu,cedric.diggory]
+2026-11-10T03:14:58.037Z mace.windu calificar cmw5cvvwq03ht01ohzb2m779u ratings=1 noShows=0
+2026-11-10T03:15:04.879Z mace.windu crear cmwa4aa2105h401ohcn7vpepd PADEL 2026-11-12T23:00:00.000Z
+2026-11-10T03:15:06.695Z steve.rogers leer-notificaciones 1
+2026-11-10T03:15:13.621Z steve.rogers crear cmwa4aguu05hb01ohk5kuiktk FUTBOL 2026-11-15T00:00:00.000Z
+2026-11-10T03:15:22.767Z steve.rogers aceptar cmw6jujjy042k01ohfy8citc2 finn
+2026-11-10T03:15:27.275Z hermione.granger calificar cmw3osq0h02pa01ohwx3lg0t3 ratings=3 noShows=1
+2026-11-10T03:15:29.021Z tony.stark leer-notificaciones 1
+2026-11-10T03:15:33.242Z tony.stark aceptar cmw9eitz9057b01oh376ml7bk krusty
+2026-11-10T03:15:38.716Z barney.gumble leer-notificaciones 1
+2026-11-10T03:15:41.216Z george.weasley leer-notificaciones 1
+2026-11-10T03:15:46.144Z george.weasley calificar cmw3osq0h02pa01ohwx3lg0t3 ratings=2 noShows=1
+2026-11-10T03:15:52.719Z dory calificar cmw3osq0h02pa01ohwx3lg0t3 ratings=2 noShows=1
+2026-11-10T03:15:54.306Z dory crear cmwa4bc8n05il01ohnj3f1k5g FUTBOL 2026-11-13T23:30:00.000Z
+2026-11-10T03:15:56.099Z ned.flanders leer-notificaciones 1
+2026-11-10T03:16:02.327Z ned.flanders aceptar cmw4n4vqy036i01oh4ia43dgl rex
+2026-11-10T03:16:04.099Z ned.flanders crear cmwa4bjrz05iv01ohogla4n6z BASQUET 2026-11-13T23:00:00.000Z
+2026-11-10T03:16:06.028Z bart.simpson leer-notificaciones 1
+2026-11-10T03:16:12.945Z bart.simpson calificar cmw3osq0h02pa01ohwx3lg0t3 ratings=3 noShows=1
+2026-11-10T03:16:14.556Z bart.simpson unirse cmw6jvfdr043e01ohqyj0u9xb
+2026-11-10T03:16:16.822Z cedric.diggory leer-notificaciones 1
+2026-11-10T03:16:23.327Z cedric.diggory calificar cmw5cvvwq03ht01ohzb2m779u ratings=1 noShows=0
+2026-11-10T03:16:25.211Z rocket leer-notificaciones 1
+2026-11-10T03:16:29.950Z rocket calificar cmw3osq0h02pa01ohwx3lg0t3 ratings=2 noShows=1
+2026-11-10T03:16:31.796Z rocket unirse cmw95zm8i055801ohf02zi29y

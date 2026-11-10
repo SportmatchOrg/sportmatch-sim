@@ -91,3 +91,4 @@
 - 2026-11-08 04:14 · aceptó a Fred en su partido
 - 2026-11-08 20:14 · aceptó a Elrond en su fútbol 5 del martes
 - 2026-11-09 20:15 · entró y solo miró
+- 2026-11-10 00:15 · calificó a Cedric (5) y armó un pádel el jueves 12 a las 20:00 en Tigre Pádel Club

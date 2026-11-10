@@ -121,3 +121,4 @@
 - 2026-11-08 00:13 · aceptó a Héctor Barbossa en su fútbol ADVANCED; ya tiene uno armado, no organizó otro
 - 2026-11-08 16:13 · aceptó a Barney en su fútbol ADVANCED; ya tiene uno armado y el ADVANCED de Finn pendiente, no se anotó a nada más
 - 2026-11-09 04:15 · entró, leyó notificaciones; ya tiene su ADVANCED armado y nada más a su nivel, solo miró
+- 2026-11-10 00:15 · aceptó a Finn y armó otro fútbol ADVANCED el sábado 14 en Club Pilar

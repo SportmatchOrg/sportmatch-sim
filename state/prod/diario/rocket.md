@@ -4,3 +4,4 @@
 - 2026-11-05 00:17 · calificó el fútbol (4 y 5); solo miró
 - 2026-11-06 20:15 · pidió unirse al fútbol del lunes 9 en Club Pilar de George
 - 2026-11-08 08:14 · pidió unirse al fútbol del martes en Club Pilar (suma gente con amigos)
+- 2026-11-10 00:16 · calificó el fútbol y pidió unirse al de Peter del jueves en River Courts

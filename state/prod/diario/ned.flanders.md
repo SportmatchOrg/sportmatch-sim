@@ -10,3 +10,4 @@
 - 2026-11-06 16:16 · aceptó a Nick Fury en su básquet del martes
 - 2026-11-08 20:15 · aceptó a Milhouse en su básquet del martes; no encontró nada en CABA para unirse
 - 2026-11-09 20:15 · aceptó a Joker y a Galadriel en su básquet del martes
+- 2026-11-10 00:16 · aceptó a Rex y armó un básquet el viernes 13 a las 20:00 en Club Belgrano
