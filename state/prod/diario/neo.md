@@ -64,3 +64,4 @@
 - 2026-11-07 20:15 · calificó el básquet (4, 5 y 4); solo miró
 - 2026-11-09 20:14 · calificó el básquet (4 y 5); solo miró
 - 2026-11-10 08:15 · armó un básquet INTERMEDIATE el viernes 13 a las 20 en Campus Austral (para despejarse)
+- 2026-11-10 16:14 · aceptó a Wall-E en su básquet del viernes; después solo miró

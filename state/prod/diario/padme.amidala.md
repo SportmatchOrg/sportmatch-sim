@@ -29,3 +29,4 @@
 - 2026-10-25 20:14 · pidió unirse al fútbol ADVANCED del lunes 26 en Club Pilar (competitiva)
 - 2026-10-26 20:15 · leyó las novedades; solo miró
 - 2026-11-10 04:14 · pidió unirse al fútbol ADVANCED del sábado 14 a las 10 en Club Pilar (competitiva)
+- 2026-11-10 16:15 · pidió unirse al básquet de Phoebe en Del Viso (competitiva)

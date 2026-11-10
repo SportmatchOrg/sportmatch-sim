@@ -6,3 +6,4 @@
 - 2026-10-29 04:13 · pidió unirse al fútbol del sábado 31 en River Courts (juega en CABA)
 - 2026-10-31 20:15 · calificó el fútbol (3, 2 y 3); nada de CABA le encajó para anotarse
 - 2026-11-03 16:17 · entró y leyó notificaciones; nada de CABA a su altura, solo miró
+- 2026-11-10 16:15 · armó un fútbol INTERMEDIATE el sábado 14 a las 18 en River Courts (falta gente)

@@ -123,3 +123,4 @@
 - 2026-11-09 04:15 · entró, leyó notificaciones; ya tiene su ADVANCED armado y nada más a su nivel, solo miró
 - 2026-11-10 00:15 · aceptó a Finn y armó otro fútbol ADVANCED el sábado 14 en Club Pilar
 - 2026-11-10 08:14 · aceptó a Héctor en su fútbol ADVANCED del sábado; después solo miró
+- 2026-11-10 16:14 · aceptó a Bart en su fútbol ADVANCED del jueves; nada más

@@ -4,3 +4,4 @@
 - 2026-11-07 08:12 · leyó que Timón lo aceptó y pidió unirse al básquet del domingo de Frodo en Campus Austral (se une a todo)
 - 2026-11-08 04:14 · pidió unirse al básquet del martes en Del Viso (se une a todo)
 - 2026-11-08 08:14 · leyó que Phoebe lo aceptó en el básquet del martes; solo miró
+- 2026-11-10 16:15 · pidió unirse al pádel del jueves de Krusty en Pádel Point Pilar (se une a todo)
