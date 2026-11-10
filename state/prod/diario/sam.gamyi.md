@@ -111,3 +111,4 @@
 - 2026-11-08 08:14 · aceptó a Lisa y a Bellatrix en su pádel del miércoles
 - 2026-11-08 20:14 · calificó a Bellatrix y armó un pádel BEGINNER el viernes 13 a las 20:30 en Club Belgrano
 - 2026-11-09 04:14 · aceptó a Merry en su pádel y se unió al pádel del martes en Club Belgrano
+- 2026-11-10 04:14 · leyó que Bellatrix fue aceptada; solo miró

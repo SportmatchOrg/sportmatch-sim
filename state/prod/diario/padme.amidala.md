@@ -28,3 +28,4 @@
 - 2026-10-22 04:15 · volvió con ganas: se anotó al fútbol ADVANCED del viernes en Club Pilar
 - 2026-10-25 20:14 · pidió unirse al fútbol ADVANCED del lunes 26 en Club Pilar (competitiva)
 - 2026-10-26 20:15 · leyó las novedades; solo miró
+- 2026-11-10 04:14 · pidió unirse al fútbol ADVANCED del sábado 14 a las 10 en Club Pilar (competitiva)

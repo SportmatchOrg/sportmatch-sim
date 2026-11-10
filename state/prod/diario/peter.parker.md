@@ -15,3 +15,4 @@
 - 2026-11-01 08:14 · miró partidos; sigue sin haber fútbol en CABA
 - 2026-11-09 08:15 · armó un fútbol el jueves 12 a las 20:30 en River Courts (puntual y organizado)
 - 2026-11-09 16:14 · aceptó a Nick Fury en su fútbol del jueves; no hay otro fútbol en CABA para unirse
+- 2026-11-10 04:14 · aceptó a Rocket en su fútbol del jueves; sigue sin haber fútbol en CABA para unirse

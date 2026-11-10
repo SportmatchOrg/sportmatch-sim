@@ -111,3 +111,4 @@
 - 2026-11-08 20:14 · aceptó a George en su fútbol del jueves en Club Pilar
 - 2026-11-09 04:15 · aceptó a Clark en su fútbol del jueves en Club Pilar
 - 2026-11-09 12:14 · aceptó a Phoebe en su fútbol del jueves
+- 2026-11-10 04:14 · aceptó a Bart en su fútbol y armó uno nuevo el jueves 12 a las 20:30 en Fútbol 5 Nordelta
