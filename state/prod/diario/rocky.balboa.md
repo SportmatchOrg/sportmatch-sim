@@ -4,3 +4,4 @@
 - 2026-10-28 20:15 · leyó que Ned lo aceptó en el básquet del jueves; solo miró
 - 2026-10-29 20:15 · calificó el básquet del jueves; miró partidos pero nada en CABA, no se anotó
 - 2026-11-02 08:15 · pidió unirse al básquet de hoy 20 h en Club Belgrano (en CABA)
+- 2026-11-10 20:15 · entró a mirar, no hizo nada

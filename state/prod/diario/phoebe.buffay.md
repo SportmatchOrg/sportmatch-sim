@@ -20,3 +20,4 @@
 - 2026-11-08 08:14 · aceptó a Kylo en su básquet del martes en Del Viso
 - 2026-11-09 08:14 · aceptó a Davy en su básquet y pidió unirse al fútbol del jueves de Lois en Club Pilar (va por todo)
 - 2026-11-10 16:14 · aceptó al Gato con Botas en su básquet y pidió unirse al fútbol del miércoles en Nordelta (va por todo)
+- 2026-11-10 20:15 · aceptó a Padmé en su básquet y pidió unirse al fútbol de Dory en Del Viso

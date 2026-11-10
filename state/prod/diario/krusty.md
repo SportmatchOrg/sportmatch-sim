@@ -13,3 +13,4 @@
 - 2026-11-08 12:17 · calificó el fútbol (3 y 4), pidió unirse al del miércoles de Elrond en Nordelta y armó un pádel el jueves 12 a las 20:30 en Pádel Point Pilar
 - 2026-11-09 00:15 · leyó que Elrond lo aceptó y pidió unirse al fútbol del sábado 14 en Del Viso
 - 2026-11-09 20:15 · aceptó a Cara de Papa en su pádel y pidió unirse al pádel del domingo en Tigre Pádel Club (se anota a todo)
+- 2026-11-10 20:15 · aceptó a Kylo en su partido y pidió unirse al fútbol de Dory en Del Viso

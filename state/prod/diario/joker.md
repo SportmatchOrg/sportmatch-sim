@@ -8,3 +8,4 @@
 - 2026-10-31 08:14 · buscó básquet; lo único en CABA no es de su nivel y lo demás queda lejos, no se anotó
 - 2026-11-04 04:15 · entró a mirar; sin novedades, no se anotó a nada
 - 2026-11-09 16:14 · pidió unirse al básquet del martes 10 a las 20 en Club Belgrano
+- 2026-11-10 20:15 · calificó el básquet: buen nivel, un 3 para uno
