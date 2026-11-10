@@ -7972,9 +7972,21 @@
     ],
     "pendientes": [],
     "bajasSorteadas": false,
-    "asistencia": null,
-    "calificaran": [],
-    "calificaron": [],
+    "asistencia": {
+      "indiana.jones": true,
+      "apu.nahasapeemapetilon": true,
+      "chewbacca": true
+    },
+    "calificaran": [
+      "indiana.jones",
+      "apu.nahasapeemapetilon",
+      "chewbacca"
+    ],
+    "calificaron": [
+      "chewbacca",
+      "apu.nahasapeemapetilon",
+      "indiana.jones"
+    ],
     "cancelado": false,
     "organizador": "indiana.jones",
     "fecha": "2026-11-10T11:00:00.000Z",
@@ -8231,7 +8243,9 @@
   },
   "cmw8xccm801jf01tj5j6dswf4": {
     "jugadores": [],
-    "pendientes": [],
+    "pendientes": [
+      "hector.barbossa"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -8366,7 +8380,7 @@
     "cupo": 7,
     "creado": "2026-11-09T19:12:04.942Z",
     "pendientesHumanos": 0,
-    "anotados": 2
+    "anotados": 3
   },
   "cmw9n1los01x901tjlutgct3l": {
     "jugadores": [],
@@ -8432,11 +8446,13 @@
     "cupo": 9,
     "creado": "2026-11-10T03:13:05.037Z",
     "pendientesHumanos": 0,
-    "anotados": 0
+    "anotados": 1
   },
   "cmwa48oav02hv01tjxl24q8q5": {
     "jugadores": [],
-    "pendientes": [],
+    "pendientes": [
+      "chewbacca"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -8449,5 +8465,35 @@
     "creado": "2026-11-10T03:13:49.969Z",
     "pendientesHumanos": 0,
     "anotados": 0
+  },
+  "cmwalcb1j02qw01tjvoahwpwz": {
+    "jugadores": [],
+    "pendientes": [
+      "krusty"
+    ],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "indiana.jones",
+    "fecha": "2026-11-13T11:00:00.000Z",
+    "deporte": "PADEL",
+    "cupo": 3,
+    "creado": "2026-11-10T11:12:32.912Z"
+  },
+  "cmwald43y02ri01tjko9ogxuv": {
+    "jugadores": [],
+    "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "steve.rogers",
+    "fecha": "2026-11-12T23:30:00.000Z",
+    "deporte": "FUTBOL",
+    "cupo": 9,
+    "creado": "2026-11-10T11:13:10.560Z"
   }
 }

@@ -7,3 +7,4 @@
 - 2026-10-27 04:12 · miró la app; ya tiene su pádel del sábado pedido, no se anotó a otro
 - 2026-11-03 00:13 · leyó notificaciones, sin novedades; solo miró
 - 2026-11-08 08:12 · pidió unirse al pádel del martes 10/11 en Pádel Point Pilar (nivel intermedio, cerca de casa)
+- 2026-11-10 08:12 · calificó el pádel (5 y 5); ya tiene el pádel del martes pedido, ninguno cerca le cerró

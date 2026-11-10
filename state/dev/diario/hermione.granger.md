@@ -83,3 +83,4 @@
 - 2026-11-09 20:11 · aceptó a Arya en su partido; no había a quién calificar
 - 2026-11-10 00:12 · entró, no había a quién calificar; ya tiene tenis y fútbol anotados, hoy solo miró
 - 2026-11-10 04:12 · entró, no había a quién calificar; ya tiene tenis y fútbol anotados, solo miró
+- 2026-11-10 08:12 · entró, no tenía a quién calificar; ya tiene tenis y fútbol anotados, solo miró

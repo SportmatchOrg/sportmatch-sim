@@ -30,3 +30,4 @@
 - 2026-11-09 08:12 · calificó el pádel (5 a Clark) y armó un tenis dobles INTERMEDIATE el jue 12/11 8:00 en Club Pilar (madruga)
 - 2026-11-09 16:12 · pidió unirse al básquet del mié 11/11 7:30 en Del Viso (madruga)
 - 2026-11-10 00:13 · aceptó a Lara Croft en su tenis del jue 12/11; Nelson lo aceptó al básquet
+- 2026-11-10 08:12 · calificó el partido (4 y 5) y armó un pádel INTERMEDIATE el vie 13/11 8:00 en Pádel Point Pilar (madruga)

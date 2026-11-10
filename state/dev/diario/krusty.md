@@ -13,3 +13,4 @@
 - 2026-11-05 16:12 · pidió unirse al pádel del viernes 6/11 de Indiana en Pádel Point Pilar (se anota a todo)
 - 2026-11-06 08:12 · calificó a Indiana (4) del pádel; hoy solo miró
 - 2026-11-07 20:12 · solo miró
+- 2026-11-10 08:13 · pidió unirse al pádel del vie 13/11 de Indiana en Pádel Point Pilar (se anota a todo)
