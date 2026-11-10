@@ -2,3 +2,4 @@
 - 2026-11-03 12:15 · pidió unirse al básquet del miércoles de noche en Campus Austral (juega después del trabajo)
 - 2026-11-04 08:16 · leyó que lo aceptaron en el básquet de Campus Austral; solo miró
 - 2026-11-04 20:16 · calificó el básquet y pidió unirse al del viernes de noche en Campus Austral
+- 2026-11-10 12:15 · pidió unirse al básquet del martes de Phoebe en Del Viso (juega de noche)

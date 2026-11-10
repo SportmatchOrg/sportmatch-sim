@@ -133,3 +133,4 @@
 - 2026-11-08 08:13 · calificó a Tony y Mace, pidió unirse al pádel de Sam en Club Belgrano y armó pádel el martes 21 h en Club Belgrano
 - 2026-11-08 20:14 · calificó a Sam y pidió unirse al pádel del jueves en Club Belgrano
 - 2026-11-09 04:15 · aceptó a Sam y Bruce en su pádel del martes; no encontró otro partido en CABA
+- 2026-11-10 12:15 · pidió unirse al pádel BEGINNER del viernes de Sam en Club Belgrano (suma gente)

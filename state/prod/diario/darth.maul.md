@@ -2,3 +2,4 @@
 - 2026-11-03 04:15 · miró el fútbol del norte, todavía no se anotó
 - 2026-11-03 08:15 · se unió al básquet del miércoles en Campus Austral (para despejarse)
 - 2026-11-09 08:15 · leyó que Neo lo aceptó en el básquet; solo miró
+- 2026-11-10 12:14 · entró, leyó notificaciones y solo miró
