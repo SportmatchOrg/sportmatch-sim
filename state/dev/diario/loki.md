@@ -1,0 +1,1 @@
+- 2026-11-10 12:12 · primera entrada: miró partidos y pidió unirse al tenis del sáb 14/11 a la mañana en Club Pilar (finde)

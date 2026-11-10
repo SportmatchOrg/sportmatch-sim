@@ -17,3 +17,4 @@
 - 2026-10-31 12:11 · calificó el pádel y pidió unirse al pádel del domingo 8:00 en Tigre (finde a la mañana)
 - 2026-11-05 00:13 · leyó que Tony lo aceptó; no hay pádel de finde a la mañana en Pilar, no se anotó
 - 2026-11-05 04:12 · leyó notificaciones y solo miró; hoy no se anotó a nada
+- 2026-11-10 12:13 · leyó notificaciones y solo miró

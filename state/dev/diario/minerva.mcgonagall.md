@@ -5,3 +5,4 @@
 - 2026-11-08 04:12 · leyó notificaciones; hoy solo miró
 - 2026-11-09 04:13 · armó un fútbol ADVANCED el jue 12/11 17:00 en River Courts (tarde libre); no se unió a nada más
 - 2026-11-09 08:12 · entró, leyó notificaciones y solo miró; ya tiene armado su fútbol del jueves
+- 2026-11-10 12:12 · aceptó a Héctor Barbossa en su fútbol ADVANCED

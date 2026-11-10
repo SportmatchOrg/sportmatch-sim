@@ -23,3 +23,4 @@
 - 2026-11-09 00:13 · pidió unirse al pádel del mar 10/11 en Pádel Point Pilar (se suma a todo)
 - 2026-11-10 00:12 · leyó que Indiana lo aceptó; calificó el partido y pidió unirse al fútbol del dom 15/11 de Wanda en Del Viso (conoce gente nueva)
 - 2026-11-10 08:12 · calificó el partido y pidió unirse al fútbol del mié 11/11 de Han Solo en Nordelta (se suma a todo)
+- 2026-11-10 12:13 · leyó que Han Solo lo aceptó en su fútbol de Nordelta; solo miró
