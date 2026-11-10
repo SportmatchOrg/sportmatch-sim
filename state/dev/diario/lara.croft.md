@@ -1,1 +1,2 @@
 - 2026-11-09 20:13 · primera vez: pidió unirse al tenis del jue 12/11 8:00 en Club Pilar (madruga)
+- 2026-11-10 16:13 · entró, ya tiene el tenis del jueves a la mañana; solo miró

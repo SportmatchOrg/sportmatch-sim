@@ -83,3 +83,4 @@
 - 2026-11-07 20:12 · solo miró, no armó nada hoy
 - 2026-11-10 00:13 · calificó el partido (5, 4 y 5) y armó un fútbol del jue 12/11 20:30 en Club Pilar
 - 2026-11-10 04:12 · aceptó a George en su fútbol del jueves; solo miró
+- 2026-11-10 16:12 · aceptó a Phoebe Buffay en su fútbol

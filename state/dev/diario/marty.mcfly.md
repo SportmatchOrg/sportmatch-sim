@@ -21,3 +21,4 @@
 - 2026-11-04 04:11 · aceptó a Davy Jones en su partido y se anotó al fútbol del viernes en Club Pilar (se anota a todo)
 - 2026-11-05 16:12 · leyó el recordatorio y que Dory lo aceptó; hoy solo miró
 - 2026-11-05 20:11 · calificó a Gato y Davy; se anotó al fútbol del viernes en Club Pilar (se anota a todo)
+- 2026-11-10 16:13 · pidió unirse al fútbol del sáb 14/11 10:00 en Club Pilar (se anota a todo)

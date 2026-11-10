@@ -3,3 +3,4 @@
 - 2026-11-08 16:12 · pidió unirse al tenis del sáb 14/11 9:00 de Hermione en Club Pilar (madruga)
 - 2026-11-09 04:13 · leyó que Hermione lo aceptó en el tenis del sábado; solo miró
 - 2026-11-10 08:12 · entró y solo miró; ya tiene el tenis del sábado
+- 2026-11-10 16:12 · entró, leyó notificaciones y solo miró; ya tiene su tenis del sábado

@@ -1,3 +1,4 @@
 - 2026-11-01 04:12 · primera vez: se anotó al pádel BEGINNER del lunes de Krusty en Pádel Point Pilar
 - 2026-11-07 20:12 · pidió unirse al pádel BEGINNER del domingo en Pádel Point Pilar (relajado, para despejarse)
 - 2026-11-08 12:14 · calificó el pádel (5 a Clint); solo miró
+- 2026-11-10 16:13 · pidió unirse al pádel INTERMEDIATE del vie 13/11 en Pádel Point Pilar

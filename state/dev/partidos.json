@@ -7282,7 +7282,8 @@
       "bart.simpson"
     ],
     "calificaron": [
-      "bart.simpson"
+      "bart.simpson",
+      "timon"
     ],
     "cancelado": false,
     "organizador": "timon",
@@ -8053,7 +8054,9 @@
       "phoebe.buffay",
       "clark.kent"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "marty.mcfly"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -8143,12 +8146,10 @@
   },
   "cmw87l2h000zd01tj2233wo2z": {
     "jugadores": [
-      "gollum"
+      "gollum",
+      "draco.malfoy"
     ],
-    "pendientes": [
-      "draco.malfoy",
-      "loki"
-    ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -8258,7 +8259,7 @@
     "cupo": 9,
     "creado": "2026-11-09T07:12:57.942Z",
     "pendientesHumanos": 0,
-    "anotados": 0
+    "anotados": 1
   },
   "cmw95w8ft01n801tjkkmc2g5l": {
     "jugadores": [
@@ -8416,10 +8417,10 @@
     "anotados": 2
   },
   "cmwa4658402f901tjq6wnirkp": {
-    "jugadores": [],
-    "pendientes": [
+    "jugadores": [
       "han.solo"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -8435,11 +8436,10 @@
   },
   "cmwa47pmd02gk01tje2getejx": {
     "jugadores": [
-      "george.weasley"
-    ],
-    "pendientes": [
+      "george.weasley",
       "phoebe.buffay"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -8469,13 +8469,15 @@
     "cupo": 9,
     "creado": "2026-11-10T03:13:49.969Z",
     "pendientesHumanos": 0,
-    "anotados": 0
+    "anotados": 1
   },
   "cmwalcb1j02qw01tjvoahwpwz": {
     "jugadores": [
       "krusty"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "rey"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -8487,7 +8489,7 @@
     "cupo": 3,
     "creado": "2026-11-10T11:12:32.912Z",
     "pendientesHumanos": 0,
-    "anotados": 0
+    "anotados": 1
   },
   "cmwald43y02ri01tjko9ogxuv": {
     "jugadores": [],
@@ -8504,5 +8506,19 @@
     "creado": "2026-11-10T11:13:10.560Z",
     "pendientesHumanos": 0,
     "anotados": 0
+  },
+  "cmwb2hvxl031z01tjlphtq0d8": {
+    "jugadores": [],
+    "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "dory",
+    "fecha": "2026-11-13T23:30:00.000Z",
+    "deporte": "FUTBOL",
+    "cupo": 9,
+    "creado": "2026-11-10T19:12:46.692Z"
   }
 }
