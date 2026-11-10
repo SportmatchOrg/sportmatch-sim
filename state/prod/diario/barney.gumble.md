@@ -65,3 +65,5 @@
 - 2026-11-09 20:14 · entró, no había a quién calificar; solo miró
 - 2026-11-10 00:15 · leyó que lo aceptaron; nada para calificar, solo miró
 - 2026-11-10 04:14 · entró, no había a quién calificar; solo miró
+- 2026-11-10 08:14 · armó un pádel ADVANCED el domingo 15 a las 10 en Pádel Point Pilar (prefiere finde a la mañana)
+- 2026-11-10 08:14 · se dio cuenta de que ya tenía el pádel ADVANCED del domingo 15 armado y canceló el repetido

@@ -42,3 +42,4 @@
 - 2026-10-29 16:14 · pidió unirse al pádel del sábado en Pádel Point Pilar (conocer gente)
 - 2026-10-30 00:16 · leyó que Rey la aceptó; pidió unirse al running del domingo 1/11 en Parque Pilar (se anota a todo)
 - 2026-11-02 08:15 · entró, leyó que Molly la aceptó y solo miró
+- 2026-11-10 08:15 · pidió unirse al running del miércoles 11 en Parque Pilar de Poe (conocer gente)

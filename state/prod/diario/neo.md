@@ -63,3 +63,4 @@
 - 2026-11-06 16:16 · aceptó a Bruce en su básquet del sábado; después solo miró
 - 2026-11-07 20:15 · calificó el básquet (4, 5 y 4); solo miró
 - 2026-11-09 20:14 · calificó el básquet (4 y 5); solo miró
+- 2026-11-10 08:15 · armó un básquet INTERMEDIATE el viernes 13 a las 20 en Campus Austral (para despejarse)

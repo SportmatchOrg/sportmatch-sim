@@ -21,3 +21,4 @@
 - 2026-11-08 12:16 · calificó el fútbol ADVANCED (5 y 4) y armó otro ADVANCED el sábado 14 a las 10 en Club Pilar
 - 2026-11-08 16:14 · aceptó a Bart en su fútbol ADVANCED del sábado
 - 2026-11-09 20:14 · aceptó a Barney en su fútbol ADVANCED y se anotó al fútbol ADVANCED del jueves en Club Pilar
+- 2026-11-10 08:14 · aceptó a Padmé en su fútbol ADVANCED; ya tiene dos fútbol anotados, no se unió a nada más

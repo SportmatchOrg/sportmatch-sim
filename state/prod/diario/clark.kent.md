@@ -21,3 +21,4 @@
 - 2026-11-01 20:14 · entró y solo miró
 - 2026-11-06 04:16 · entró y solo miró los partidos
 - 2026-11-09 04:15 · pidió unirse al fútbol del jueves de Lois en Club Pilar (tardes libres)
+- 2026-11-10 08:15 · pidió unirse al fútbol del jueves 12 en River Courts de Peter (tarde libre)

@@ -74,3 +74,4 @@
 - 2026-11-09 20:14 · aceptó a Bart en su partido; nada para calificar
 - 2026-11-10 00:15 · calificó el fútbol del jueves; buen nivel, nada más para hacer hoy
 - 2026-11-10 04:13 · entró, no había a nadie para calificar; solo miró
+- 2026-11-10 08:14 · entró, no había a quién calificar; solo miró
