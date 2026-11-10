@@ -34,3 +34,4 @@
 - 2026-11-06 00:13 · corrección: el singles no salió; armó un tenis dobles ADVANCED el mié 11/11 20:30 en Club Pilar
 - 2026-11-08 08:12 · entró, leyó notificaciones y solo miró
 - 2026-11-09 00:12 · canceló su partido que iba 1/9 y pidió unirse al fútbol de Phoebe en Club Pilar (lun 21:00)
+- 2026-11-10 00:13 · leyó que Phoebe lo aceptó; calificó el fútbol (4, 5 y 4) y nada más

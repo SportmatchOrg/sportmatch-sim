@@ -7210,9 +7210,32 @@
     ],
     "pendientes": [],
     "bajasSorteadas": true,
-    "asistencia": null,
-    "calificaran": [],
-    "calificaron": [],
+    "asistencia": {
+      "phoebe.buffay": true,
+      "george.weasley": true,
+      "lois.lane": true,
+      "chewbacca": true,
+      "padme.amidala": true,
+      "arya.stark": true,
+      "pumba": true,
+      "hector.barbossa": true
+    },
+    "calificaran": [
+      "phoebe.buffay",
+      "george.weasley",
+      "lois.lane",
+      "chewbacca",
+      "padme.amidala",
+      "hector.barbossa"
+    ],
+    "calificaron": [
+      "padme.amidala",
+      "chewbacca",
+      "lois.lane",
+      "hector.barbossa",
+      "george.weasley",
+      "phoebe.buffay"
+    ],
     "cancelado": false,
     "organizador": "phoebe.buffay",
     "fecha": "2026-11-10T00:00:00.000Z",
@@ -7330,9 +7353,19 @@
     ],
     "pendientes": [],
     "bajasSorteadas": true,
-    "asistencia": null,
-    "calificaran": [],
-    "calificaron": [],
+    "asistencia": {
+      "elrond": true,
+      "george.weasley": false,
+      "han.solo": true
+    },
+    "calificaran": [
+      "elrond",
+      "han.solo"
+    ],
+    "calificaron": [
+      "elrond",
+      "han.solo"
+    ],
     "cancelado": false,
     "organizador": "elrond",
     "fecha": "2026-11-09T23:30:00.000Z",
@@ -7746,7 +7779,9 @@
     "cupo": 9,
     "creado": "2026-11-06T23:11:26.562Z",
     "pendientesHumanos": 0,
-    "anotados": 0
+    "anotados": 0,
+    "cancelSorteado": true,
+    "cancelar": false
   },
   "cd094niwfzrenxmneg516bnap": {
     "jugadores": [],
@@ -8039,7 +8074,7 @@
     "cupo": 7,
     "creado": "2026-11-08T11:12:11.502Z",
     "pendientesHumanos": 0,
-    "anotados": 3
+    "anotados": 4
   },
   "cmw7z1d9e00sj01tjv2k524sh": {
     "jugadores": [],
@@ -8059,11 +8094,10 @@
   },
   "cmw7z27xw00t801tjwf595iru": {
     "jugadores": [
-      "davy.jones"
-    ],
-    "pendientes": [
+      "davy.jones",
       "montgomery.burns"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -8210,10 +8244,10 @@
     "anotados": 0
   },
   "cmw95w8ft01n801tjkkmc2g5l": {
-    "jugadores": [],
-    "pendientes": [
+    "jugadores": [
       "lara.croft"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -8275,13 +8309,14 @@
     "cupo": 9,
     "creado": "2026-11-09T15:11:31.425Z",
     "pendientesHumanos": 0,
-    "anotados": 0
+    "anotados": 1
   },
   "cmw9egpk701sj01tjckik8ok1": {
-    "jugadores": [],
-    "pendientes": [
-      "george.weasley"
+    "jugadores": [
+      "george.weasley",
+      "chewbacca"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -8316,7 +8351,9 @@
       "bart.simpson",
       "walle"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "padme.amidala"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -8328,7 +8365,7 @@
     "cupo": 7,
     "creado": "2026-11-09T19:12:04.942Z",
     "pendientesHumanos": 0,
-    "anotados": 0
+    "anotados": 2
   },
   "cmw9n1los01x901tjlutgct3l": {
     "jugadores": [],
@@ -8359,6 +8396,51 @@
     "organizador": "humano:cnycxbdwna79p3a0l2vm39z6a",
     "fecha": "2026-11-26T23:30:00.000Z",
     "deporte": "BASQUET",
-    "cupo": 9
+    "cupo": 9,
+    "anotados": 2
+  },
+  "cmwa4658402f901tjq6wnirkp": {
+    "jugadores": [],
+    "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "elrond",
+    "fecha": "2026-11-13T23:30:00.000Z",
+    "deporte": "FUTBOL",
+    "cupo": 9,
+    "creado": "2026-11-10T03:11:51.947Z"
+  },
+  "cmwa47pmd02gk01tje2getejx": {
+    "jugadores": [],
+    "pendientes": [
+      "george.weasley"
+    ],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "lois.lane",
+    "fecha": "2026-11-12T23:30:00.000Z",
+    "deporte": "FUTBOL",
+    "cupo": 9,
+    "creado": "2026-11-10T03:13:05.037Z"
+  },
+  "cmwa48oav02hv01tjxl24q8q5": {
+    "jugadores": [],
+    "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "han.solo",
+    "fecha": "2026-11-11T23:30:00.000Z",
+    "deporte": "FUTBOL",
+    "cupo": 9,
+    "creado": "2026-11-10T03:13:49.969Z"
   }
 }

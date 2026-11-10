@@ -2982,3 +2982,34 @@
 2026-11-09T23:13:05.633Z saul.goodman leer-notificaciones 2
 2026-11-09T23:13:11.241Z nala unirse c96xsu74v93nm1014si2z7mid
 2026-11-09T23:13:18.724Z theoden unirse chxukgwomc2kwr8vyb1m2dyj6
+2026-11-10T03:10:41.028Z sorteo cmw1jkjk602ni01plito72v2l faltaron=[] calificaran=[phoebe.buffay,george.weasley,lois.lane,chewbacca,padme.amidala,hector.barbossa]
+2026-11-10T03:10:45.161Z sorteo cmw2yyx52005b01rpo3yw8mt3 faltaron=[george.weasley] calificaran=[elrond,han.solo]
+2026-11-10T03:11:42.446Z elrond leer-notificaciones 4
+2026-11-10T03:11:47.112Z elrond calificar cmw2yyx52005b01rpo3yw8mt3 ratings=1 noShows=1
+2026-11-10T03:11:51.949Z elrond crear cmwa4658402f901tjq6wnirkp FUTBOL 2026-11-13T23:30:00.000Z
+2026-11-10T03:12:21.706Z padme.amidala leer-notificaciones 2
+2026-11-10T03:12:32.122Z padme.amidala calificar cmw1jkjk602ni01plito72v2l ratings=3 noShows=0
+2026-11-10T03:12:34.230Z padme.amidala unirse cmw9n150u01wx01tj0dy473wm
+2026-11-10T03:12:37.527Z chewbacca leer-notificaciones 2
+2026-11-10T03:12:43.016Z chewbacca calificar cmw1jkjk602ni01plito72v2l ratings=3 noShows=0
+2026-11-10T03:12:45.137Z chewbacca unirse cmw9egpk701sj01tjckik8ok1
+2026-11-10T03:12:48.506Z molly.weasley leer-notificaciones 1
+2026-11-10T03:12:54.383Z molly.weasley aceptar cmw7z27xw00t801tjwf595iru montgomery.burns
+2026-11-10T03:12:57.532Z lois.lane leer-notificaciones 1
+2026-11-10T03:13:03.000Z lois.lane calificar cmw1jkjk602ni01plito72v2l ratings=3 noShows=0
+2026-11-10T03:13:05.040Z lois.lane crear cmwa47pmd02gk01tje2getejx FUTBOL 2026-11-12T23:30:00.000Z
+2026-11-10T03:13:08.200Z hector.barbossa leer-notificaciones 1
+2026-11-10T03:13:13.042Z hector.barbossa calificar cmw1jkjk602ni01plito72v2l ratings=3 noShows=0
+2026-11-10T03:13:14.880Z george.weasley leer-notificaciones 1
+2026-11-10T03:13:19.982Z george.weasley calificar cmw1jkjk602ni01plito72v2l ratings=3 noShows=0
+2026-11-10T03:13:22.073Z george.weasley unirse cmwa47pmd02gk01tje2getejx
+2026-11-10T03:13:29.298Z phoebe.buffay leer-notificaciones 1
+2026-11-10T03:13:34.926Z phoebe.buffay calificar cmw1jkjk602ni01plito72v2l ratings=3 noShows=0
+2026-11-10T03:13:36.609Z indiana.jones leer-notificaciones 2
+2026-11-10T03:13:41.322Z indiana.jones aceptar cmw95w8ft01n801tjkkmc2g5l lara.croft
+2026-11-10T03:13:43.114Z han.solo leer-notificaciones 2
+2026-11-10T03:13:48.094Z han.solo calificar cmw2yyx52005b01rpo3yw8mt3 ratings=1 noShows=1
+2026-11-10T03:13:49.972Z han.solo crear cmwa48oav02hv01tjxl24q8q5 FUTBOL 2026-11-11T23:30:00.000Z
+2026-11-10T03:13:53.162Z wanda.maximoff leer-notificaciones 2
+2026-11-10T03:13:57.846Z wanda.maximoff aceptar cmw9egpk701sj01tjckik8ok1 george.weasley
+2026-11-10T03:13:59.784Z wanda.maximoff aceptar cmw9egpk701sj01tjckik8ok1 chewbacca
