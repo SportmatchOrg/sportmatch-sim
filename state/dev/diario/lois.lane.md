@@ -87,3 +87,4 @@
 - 2026-11-11 04:12 · aceptó a Wanda en su fútbol; después solo miró
 - 2026-11-11 12:11 · aceptó a Bart en su fútbol, pidió unirse al del sábado de Wanda y armó un fútbol del mar 17/11 en Del Viso
 - 2026-11-11 16:11 · aceptó a Trinity en su fútbol y se unió al del viernes en Del Viso
+- 2026-11-11 20:13 · leyó que aceptaron a Dory y a Wanda; solo miró

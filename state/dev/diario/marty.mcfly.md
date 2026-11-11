@@ -22,3 +22,4 @@
 - 2026-11-05 16:12 · leyó el recordatorio y que Dory lo aceptó; hoy solo miró
 - 2026-11-05 20:11 · calificó a Gato y Davy; se anotó al fútbol del viernes en Club Pilar (se anota a todo)
 - 2026-11-10 16:13 · pidió unirse al fútbol del sáb 14/11 10:00 en Club Pilar (se anota a todo)
+- 2026-11-11 20:13 · leyó que Wanda lo aceptó en el fútbol del sábado; solo miró

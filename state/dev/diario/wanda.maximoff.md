@@ -12,3 +12,4 @@
 - 2026-11-11 00:12 · aceptó a Phoebe en su fútbol y se unió al fútbol del jueves en Club Pilar (le gusta jugar de noche)
 - 2026-11-11 08:12 · aceptó a Rocket en su fútbol del domingo; solo miró
 - 2026-11-11 16:11 · aceptó a Lois en su fútbol; solo miró
+- 2026-11-11 20:12 · aceptó a Bart Simpson en su fútbol; solo miró

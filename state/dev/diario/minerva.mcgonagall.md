@@ -7,3 +7,4 @@
 - 2026-11-09 08:12 · entró, leyó notificaciones y solo miró; ya tiene armado su fútbol del jueves
 - 2026-11-10 12:12 · aceptó a Héctor Barbossa en su fútbol ADVANCED
 - 2026-11-11 16:12 · solo miró, nada para hacer
+- 2026-11-11 20:13 · pidió unirse al fútbol ADVANCED del mié 18/11 en Complejo Belgrano (tardes libres)

@@ -85,3 +85,4 @@
 - 2026-11-10 20:12 · canceló su pádel de Belgrano porque no se llenaba; hoy no armó otro
 - 2026-11-11 00:12 · armó un pádel BEGINNER el vie 13/11 20:00 en Club Belgrano (principiante entusiasta)
 - 2026-11-11 04:12 · se unió al fútbol BEGINNER del domingo 22/11 en Belgrano
+- 2026-11-11 20:12 · aceptó a Bruce Wayne en su pádel y se unió al pádel BEGINNER del vie 13/11 en Belgrano Pádel

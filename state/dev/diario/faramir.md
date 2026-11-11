@@ -41,3 +41,4 @@
 - 2026-11-07 16:11 · aceptó a Montgomery en su running del domingo; ya tenía uno armado, no organizó otro
 - 2026-11-08 12:12 · calificó el running (5 a Montgomery) y armó un running el sáb 14/11 9:30 en Parque Pilar (para despejarse)
 - 2026-11-11 08:11 · aceptó a Montgomery; ya tenía el running del sábado armado, no organizó otro
+- 2026-11-11 20:11 · aceptó a Selina Kyle; ya tenía el running del sábado armado, no organizó otro
