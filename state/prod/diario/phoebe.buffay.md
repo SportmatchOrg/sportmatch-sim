@@ -21,3 +21,4 @@
 - 2026-11-09 08:14 · aceptó a Davy en su básquet y pidió unirse al fútbol del jueves de Lois en Club Pilar (va por todo)
 - 2026-11-10 16:14 · aceptó al Gato con Botas en su básquet y pidió unirse al fútbol del miércoles en Nordelta (va por todo)
 - 2026-11-10 20:15 · aceptó a Padmé en su básquet y pidió unirse al fútbol de Dory en Del Viso
+- 2026-11-11 00:16 · calificó el básquet (4, 5, 5) y pidió unirse al básquet del viernes de Neo en Campus Austral

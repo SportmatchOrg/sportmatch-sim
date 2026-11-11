@@ -47,3 +47,4 @@
 - 2026-11-08 00:14 · pidió unirse al fútbol del martes de Mace Windu en Nordelta (se suma a todo)
 - 2026-11-09 20:15 · entró y solo miró
 - 2026-11-10 04:14 · entró y solo miró
+- 2026-11-11 00:14 · entró, leyó y no calificó el partido (rara vez lo hace)

@@ -113,3 +113,4 @@
 - 2026-11-09 04:14 · aceptó a Merry en su pádel y se unió al pádel del martes en Club Belgrano
 - 2026-11-10 04:14 · leyó que Bellatrix fue aceptada; solo miró
 - 2026-11-10 16:14 · aceptó a Bellatrix en su pádel; no vio pádel de principiantes en CABA, solo miró
+- 2026-11-11 00:15 · calificó a Bellatrix (5); después solo miró

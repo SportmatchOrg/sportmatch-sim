@@ -69,3 +69,4 @@
 - 2026-11-10 00:15 · calificó el fútbol y armó uno el viernes 13 a las 20:30 en Del Viso
 - 2026-11-10 04:14 · entró y solo miró
 - 2026-11-10 20:15 · aceptó a Hermione en su fútbol del viernes en Del Viso
+- 2026-11-11 00:16 · calificó a Lois y Krusty y aceptó a Phoebe, Krusty y Lois en su fútbol del viernes en Del Viso

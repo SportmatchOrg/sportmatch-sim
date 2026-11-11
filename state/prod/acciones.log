@@ -3091,3 +3091,53 @@
 2026-11-10T23:15:28.416Z peter.parker unirse cmwau018t05t301ohks9jjz29
 2026-11-10T23:15:30.099Z ned.flanders unirse cmwb2l5ru05x301ohgixit4it
 2026-11-10T23:15:31.829Z krusty unirse cmwa4bc8n05il01ohnj3f1k5g
+2026-11-11T03:13:49.681Z sorteo cmw4ek5iw031r01oh2z30ovac faltaron=[arya.stark] calificaran=[dory,hector.barbossa,krusty,lois.lane,pumba]
+2026-11-11T03:13:50.246Z sorteo cmw5cu2oh03fs01ohp7ml09p2 faltaron=[] calificaran=[elrond,obiwan.kenobi]
+2026-11-11T03:13:50.826Z sorteo cmw62erqo03s101ohrw012aas faltaron=[] calificaran=[mace.windu,fred.weasley,elrond]
+2026-11-11T03:13:55.794Z sorteo cmw70u46t04c701ohvpmy2bd6 faltaron=[] calificaran=[phoebe.buffay,davy.jones,gato.con.botas,padme.amidala]
+2026-11-11T03:13:56.316Z sorteo cmw7qid7m04jy01ohx1ks7nn3 faltaron=[] calificaran=[bellatrix.lestrange,sam.gamyi]
+2026-11-11T03:14:36.591Z elrond calificar cmw5cu2oh03fs01ohp7ml09p2 ratings=2 noShows=0
+2026-11-11T03:14:38.198Z elrond calificar cmw62erqo03s101ohrw012aas ratings=2 noShows=0
+2026-11-11T03:14:44.475Z mace.windu calificar cmw62erqo03s101ohrw012aas ratings=2 noShows=0
+2026-11-11T03:14:46.084Z mace.windu crear cmwbjpq97063y01ohz714a3bk FUTBOL 2026-11-14T00:00:00.000Z
+2026-11-11T03:14:47.873Z bellatrix.lestrange leer-notificaciones 2
+2026-11-11T03:14:54.364Z bellatrix.lestrange calificar cmw7qid7m04jy01ohx1ks7nn3 ratings=1 noShows=0
+2026-11-11T03:14:55.988Z bellatrix.lestrange unirse cmwb2l5ru05x301ohgixit4it
+2026-11-11T03:15:01.886Z sam.gamyi calificar cmw7qid7m04jy01ohx1ks7nn3 ratings=1 noShows=0
+2026-11-11T03:15:03.754Z padme.amidala leer-notificaciones 1
+2026-11-11T03:15:09.359Z padme.amidala calificar cmw70u46t04c701ohvpmy2bd6 ratings=3 noShows=0
+2026-11-11T03:15:11.262Z obiwan.kenobi leer-notificaciones 1
+2026-11-11T03:15:18.503Z obiwan.kenobi calificar cmw5cu2oh03fs01ohp7ml09p2 ratings=2 noShows=0
+2026-11-11T03:15:20.065Z obiwan.kenobi unirse cmwbjpq97063y01ohz714a3bk
+2026-11-11T03:15:21.916Z davy.jones leer-notificaciones 1
+2026-11-11T03:15:28.287Z davy.jones calificar cmw70u46t04c701ohvpmy2bd6 ratings=3 noShows=0
+2026-11-11T03:15:29.876Z davy.jones unirse cmwalfrl905pw01ohgtbphy9p
+2026-11-11T03:15:36.698Z lois.lane calificar cmw4ek5iw031r01oh2z30ovac ratings=3 noShows=1
+2026-11-11T03:15:38.316Z lois.lane unirse cmwa4bc8n05il01ohnj3f1k5g
+2026-11-11T03:15:46.407Z hector.barbossa calificar cmw4ek5iw031r01oh2z30ovac ratings=3 noShows=1
+2026-11-11T03:15:49.644Z rachel.green leer-notificaciones 2
+2026-11-11T03:15:55.163Z hector.barbossa crear cmwbjr7kn066701ohstvmotbx TENIS 2026-11-17T00:00:00.000Z
+2026-11-11T03:15:56.861Z rachel.green aceptar cmwb2l5ru05x301ohgixit4it ned.flanders
+2026-11-11T03:15:58.489Z rachel.green aceptar cmwb2l5ru05x301ohgixit4it bellatrix.lestrange
+2026-11-11T03:16:03.178Z dory leer-notificaciones 5
+2026-11-11T03:16:13.275Z dory calificar cmw4ek5iw031r01oh2z30ovac ratings=2 noShows=1
+2026-11-11T03:16:14.962Z dory aceptar cmwa4bc8n05il01ohnj3f1k5g phoebe.buffay
+2026-11-11T03:16:16.669Z dory aceptar cmwa4bc8n05il01ohnj3f1k5g krusty
+2026-11-11T03:16:18.313Z dory aceptar cmwa4bc8n05il01ohnj3f1k5g lois.lane
+2026-11-11T03:16:20.090Z phoebe.buffay leer-notificaciones 5
+2026-11-11T03:16:25.666Z phoebe.buffay calificar cmw70u46t04c701ohvpmy2bd6 ratings=3 noShows=0
+2026-11-11T03:16:27.422Z phoebe.buffay unirse cmwalfrl905pw01ohgtbphy9p
+2026-11-11T03:16:29.192Z burro leer-notificaciones 1
+2026-11-11T03:16:33.737Z burro aceptar cmwau018t05t301ohks9jjz29 peter.parker
+2026-11-11T03:16:35.517Z ned.flanders leer-notificaciones 3
+2026-11-11T03:16:45.243Z ned.flanders aceptar cmwa4bjrz05iv01ohogla4n6z rex
+2026-11-11T03:16:46.866Z ned.flanders crear cmwbjsbgw067w01oh0asyhqe6 FUTBOL 2026-11-15T14:00:00.000Z
+2026-11-11T03:16:50.060Z krusty leer-notificaciones 3
+2026-11-11T03:16:56.644Z krusty calificar cmw4ek5iw031r01oh2z30ovac ratings=3 noShows=1
+2026-11-11T03:16:58.248Z krusty unirse cmw8g9ljm04ve01ohirgyl143
+2026-11-11T03:17:00.125Z pumba leer-notificaciones 2
+2026-11-11T03:17:05.078Z pumba calificar cmw4ek5iw031r01oh2z30ovac ratings=2 noShows=1
+2026-11-11T03:17:06.705Z pumba unirse cmwa4bc8n05il01ohnj3f1k5g
+2026-11-11T03:17:08.609Z gato.con.botas leer-notificaciones 1
+2026-11-11T03:17:13.207Z gato.con.botas calificar cmw70u46t04c701ohvpmy2bd6 ratings=3 noShows=0
+2026-11-11T03:17:15.128Z gato.con.botas unirse cmwalfrl905pw01ohgtbphy9p

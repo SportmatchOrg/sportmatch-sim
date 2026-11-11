@@ -12,3 +12,4 @@
 - 2026-11-01 20:13 · se unió al fútbol del lunes en Fútbol 5 Nordelta (nivel intermedio, va con amigos)
 - 2026-11-02 20:14 · calificó el fútbol, todo bien
 - 2026-11-08 20:15 · pidió unirse al fútbol del martes de Elrond en Nordelta (nivel intermedio)
+- 2026-11-11 00:15 · calificó a Elrond y Lois y pidió unirse al fútbol 5 del viernes de Mace en Nordelta

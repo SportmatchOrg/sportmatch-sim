@@ -14,3 +14,4 @@
 - 2026-11-09 00:15 · leyó que Elrond lo aceptó y pidió unirse al fútbol del sábado 14 en Del Viso
 - 2026-11-09 20:15 · aceptó a Cara de Papa en su pádel y pidió unirse al pádel del domingo en Tigre Pádel Club (se anota a todo)
 - 2026-11-10 20:15 · aceptó a Kylo en su partido y pidió unirse al fútbol de Dory en Del Viso
+- 2026-11-11 00:16 · calificó el fútbol (4, 4, 5) y pidió unirse al pádel del domingo de Barney en Pádel Point Pilar
