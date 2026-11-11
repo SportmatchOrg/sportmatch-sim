@@ -12,3 +12,4 @@
 - 2026-10-30 16:15 · pidió unirse al fútbol intermedio del lunes 2 en Club Pilar (nivel parejo)
 - 2026-11-03 00:14 · calificó el fútbol generoso y pidió unirse al fútbol intermedio del miércoles en Club Pilar
 - 2026-11-05 00:15 · calificó el fútbol generoso (4 y 5); solo miró
+- 2026-11-11 04:15 · entró y solo miró; nada nuevo

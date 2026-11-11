@@ -53,3 +53,4 @@
 - 2026-11-10 20:15 · no tenía nada para calificar; solo miró
 - 2026-11-11 00:15 · calificó el fútbol (4, 4, 5) y armó un tenis ADVANCED el lunes 16 a las 21 h en Club Pilar
 - 2026-11-11 00:16 · armó un tenis dobles ADVANCED el lunes 16 a las 21 h en Club Pilar
+- 2026-11-11 04:14 · entró y solo miró; nada para calificar

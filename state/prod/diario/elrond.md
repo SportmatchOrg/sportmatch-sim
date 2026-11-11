@@ -138,3 +138,4 @@
 - 2026-11-09 00:14 · aceptó a Obi-Wan y a Théoden en sus partidos
 - 2026-11-10 20:15 · aceptó a Phoebe en su fútbol del miércoles en Nordelta
 - 2026-11-11 00:14 · calificó dos partidos con buenas notas
+- 2026-11-11 04:15 · armó un tenis dobles el sábado 14 a las 11 en Tigre Pádel Club (para despejarse)

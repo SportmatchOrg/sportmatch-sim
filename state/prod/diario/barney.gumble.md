@@ -67,3 +67,4 @@
 - 2026-11-10 04:14 · entró, no había a quién calificar; solo miró
 - 2026-11-10 08:14 · armó un pádel ADVANCED el domingo 15 a las 10 en Pádel Point Pilar (prefiere finde a la mañana)
 - 2026-11-10 08:14 · se dio cuenta de que ya tenía el pádel ADVANCED del domingo 15 armado y canceló el repetido
+- 2026-11-11 04:14 · aceptó a Krusty en su partido

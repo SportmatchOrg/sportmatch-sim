@@ -4,3 +4,4 @@
 - 2026-11-04 08:16 · armó un pádel INTERMEDIATE el domingo 8 a las 11 en Club Belgrano; nada de fútbol en CABA que le encaje
 - 2026-11-04 16:17 · aceptó a Tomás y a Bellatrix en su pádel del domingo
 - 2026-11-08 08:14 · leyó las solicitudes pero solo miró hoy
+- 2026-11-11 04:15 · armó un pádel el viernes 13 a las 20 en Club Belgrano

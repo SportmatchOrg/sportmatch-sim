@@ -16,3 +16,4 @@
 - 2026-11-04 08:15 · entró a mirar; no hay running en Pilar, no se anotó a nada
 - 2026-11-07 04:12 · miró partidos de running y no se anotó a nada
 - 2026-11-08 00:14 · entró a mirar running; nada en Pilar, no se anotó
+- 2026-11-11 04:15 · pidió unirse al running del miércoles en Parque Pilar (el único en su zona)

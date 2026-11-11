@@ -18,3 +18,4 @@
 - 2026-11-10 04:14 · aceptó a Rocket en su fútbol del jueves; sigue sin haber fútbol en CABA para unirse
 - 2026-11-10 12:14 · aceptó a Clark Kent en su fútbol del jueves; no hay otro fútbol en CABA para unirse
 - 2026-11-10 20:15 · aceptó a George en su fútbol del jueves y pidió unirse al de Burro en River Courts
+- 2026-11-11 04:15 · pidió unirse al fútbol del domingo de Ned en River Courts
