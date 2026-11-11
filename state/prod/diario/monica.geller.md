@@ -6,3 +6,4 @@
 - 2026-11-08 08:14 · leyó las solicitudes pero solo miró hoy
 - 2026-11-11 04:15 · armó un pádel el viernes 13 a las 20 en Club Belgrano
 - 2026-11-11 12:15 · entró y solo miró; ya tiene su pádel del viernes armado
+- 2026-11-11 20:15 · aceptó a Alfred en su pádel del viernes

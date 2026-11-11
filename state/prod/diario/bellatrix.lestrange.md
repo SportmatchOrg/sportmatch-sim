@@ -135,3 +135,4 @@
 - 2026-11-09 04:15 · aceptó a Sam y Bruce en su pádel del martes; no encontró otro partido en CABA
 - 2026-11-10 12:15 · pidió unirse al pádel BEGINNER del viernes de Sam en Club Belgrano (suma gente)
 - 2026-11-11 00:14 · calificó a Sam (5) y pidió unirse al fútbol del sábado de Rachel en River Courts
+- 2026-11-11 20:14 · calificó a Sam (5) y Lisa (4); pidió unirse al fútbol del domingo 15 en River Courts

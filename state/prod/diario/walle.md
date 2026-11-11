@@ -11,3 +11,4 @@
 - 2026-11-02 08:15 · entró, leyó notificaciones y solo miró
 - 2026-11-09 12:14 · pidió unirse al fútbol del sábado 14 de Hermione en Del Viso (de a poco, a la mañana)
 - 2026-11-10 12:14 · pidió unirse al básquet del viernes de Neo en Campus Austral (de a poco, vuelve a hacer deporte)
+- 2026-11-11 20:15 · leyó que Neo lo aceptó en el básquet; de a poco, solo miró

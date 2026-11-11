@@ -72,3 +72,4 @@
 - 2026-11-11 00:16 · calificó a Lois y Krusty y aceptó a Phoebe, Krusty y Lois en su fútbol del viernes en Del Viso
 - 2026-11-11 04:14 · aceptó a Pumba en su fútbol
 - 2026-11-11 16:15 · aceptó a Héctor en su fútbol del jueves en Club Pilar
+- 2026-11-11 20:15 · aceptó a Bart, Arthur y George en sus fútbols
