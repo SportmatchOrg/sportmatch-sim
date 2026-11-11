@@ -13,3 +13,4 @@
 - 2026-11-10 00:16 · aceptó a Rex y armó un básquet el viernes 13 a las 20:00 en Club Belgrano
 - 2026-11-10 20:15 · aceptó a Morfeo en su básquet y pidió unirse al fútbol de Rachel en River Courts
 - 2026-11-11 00:16 · aceptó a Rex en su básquet y armó un fútbol el domingo 15 a las 11 h en River Courts
+- 2026-11-11 08:14 · aceptó a Peter en su fútbol del domingo en River Courts; solo miró

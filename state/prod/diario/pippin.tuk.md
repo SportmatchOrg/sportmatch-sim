@@ -78,3 +78,4 @@
 - 2026-11-07 08:12 · entró y solo miró; ya tiene fútbol anotado
 - 2026-11-07 20:14 · calificó el fútbol con notas duras (3, 2 y 3); no organizó nada
 - 2026-11-08 12:15 · calificó el fútbol con notas duras (2 y 3) y pidió sumarse al del jueves de Lois en Club Pilar
+- 2026-11-11 08:14 · leyó que Lois lo aceptó en el fútbol del jueves; solo miró

@@ -7925,7 +7925,9 @@
       "barney.gumble",
       "padme.amidala"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "neville.longbottom"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -8068,14 +8070,15 @@
     "cupo": 3,
     "creado": "2026-11-08T23:14:56.106Z",
     "pendientesHumanos": 0,
-    "anotados": 0
+    "anotados": 1
   },
   "cmw95zdd3055101oh2sn34crn": {
     "jugadores": [
-      "eowyn"
+      "eowyn",
+      "montgomery.burns"
     ],
     "pendientes": [
-      "montgomery.burns"
+      "gato.con.botas"
     ],
     "bajasSorteadas": false,
     "asistencia": null,
@@ -8219,7 +8222,7 @@
     "cupo": 9,
     "creado": "2026-11-10T03:15:54.303Z",
     "pendientesHumanos": 0,
-    "anotados": 4
+    "anotados": 5
   },
   "cmwa4bjrz05iv01ohogla4n6z": {
     "jugadores": [
@@ -8293,7 +8296,9 @@
       "phoebe.buffay",
       "gato.con.botas"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "simba"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -8305,7 +8310,7 @@
     "cupo": 7,
     "creado": "2026-11-10T11:15:14.307Z",
     "pendientesHumanos": 0,
-    "anotados": 1
+    "anotados": 4
   },
   "cmwau018t05t301ohks9jjz29": {
     "jugadores": [
@@ -8360,7 +8365,7 @@
     "cupo": 9,
     "creado": "2026-11-11T03:14:46.081Z",
     "pendientesHumanos": 0,
-    "anotados": 0
+    "anotados": 1
   },
   "cmwbjr7kn066701ohstvmotbx": {
     "jugadores": [],
@@ -8379,10 +8384,10 @@
     "anotados": 0
   },
   "cmwbjsbgw067w01oh0asyhqe6": {
-    "jugadores": [],
-    "pendientes": [
+    "jugadores": [
       "peter.parker"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -8408,7 +8413,9 @@
     "fecha": "2026-11-14T14:00:00.000Z",
     "deporte": "TENIS",
     "cupo": 3,
-    "creado": "2026-11-11T07:15:00.116Z"
+    "creado": "2026-11-11T07:15:00.116Z",
+    "pendientesHumanos": 0,
+    "anotados": 0
   },
   "cmwbsappq06cl01ohjxhnp30m": {
     "jugadores": [],
@@ -8422,6 +8429,8 @@
     "fecha": "2026-11-13T23:00:00.000Z",
     "deporte": "PADEL",
     "cupo": 3,
-    "creado": "2026-11-11T07:15:02.119Z"
+    "creado": "2026-11-11T07:15:02.119Z",
+    "pendientesHumanos": 0,
+    "anotados": 0
   }
 }

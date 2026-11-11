@@ -2,3 +2,4 @@
 - 2026-11-06 16:16 · leyó que Jack lo aceptó en el running; solo miró
 - 2026-11-09 08:14 · armó un running tranqui el miércoles 11 a las 19 en Parque Pilar (para despejarse)
 - 2026-11-10 12:14 · aceptó a Éowyn en su running del miércoles; solo miró
+- 2026-11-11 08:14 · aceptó a Montgomery en su running del miércoles; solo miró
