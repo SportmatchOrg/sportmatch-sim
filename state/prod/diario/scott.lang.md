@@ -7,3 +7,4 @@
 - 2026-11-07 08:12 · pidió unirse al fútbol del martes de Elrond en Nordelta
 - 2026-11-07 16:14 · leyó que Elrond lo aceptó en el fútbol de Nordelta; no se anotó a nada más
 - 2026-11-10 12:14 · pidió unirse al tenis ADVANCED del domingo de Hermione en Club Pilar (le importa el nivel)
+- 2026-11-11 12:15 · leyó que Hermione lo aceptó en el tenis ADVANCED; nada más con el nivel que le gusta, no se anotó

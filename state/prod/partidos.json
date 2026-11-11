@@ -7923,11 +7923,10 @@
     "jugadores": [
       "bart.simpson",
       "barney.gumble",
-      "padme.amidala"
-    ],
-    "pendientes": [
+      "padme.amidala",
       "neville.longbottom"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -7945,7 +7944,9 @@
     "jugadores": [
       "davy.jones"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "gato.con.botas"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -8090,7 +8091,7 @@
     "cupo": 5,
     "creado": "2026-11-09T11:14:48.942Z",
     "pendientesHumanos": 0,
-    "anotados": 1,
+    "anotados": 3,
     "cancelSorteado": true,
     "cancelar": false
   },
@@ -8117,11 +8118,10 @@
   },
   "cmw9eitz9057b01oh376ml7bk": {
     "jugadores": [
-      "krusty"
-    ],
-    "pendientes": [
+      "krusty",
       "cedric.diggory"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -8224,7 +8224,7 @@
     "cupo": 9,
     "creado": "2026-11-10T03:15:54.303Z",
     "pendientesHumanos": 0,
-    "anotados": 5
+    "anotados": 6
   },
   "cmwa4bjrz05iv01ohogla4n6z": {
     "jugadores": [
@@ -8296,12 +8296,11 @@
       "walle",
       "davy.jones",
       "phoebe.buffay",
-      "gato.con.botas"
-    ],
-    "pendientes": [
+      "gato.con.botas",
       "simba",
       "frodo.bolson"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -8402,7 +8401,7 @@
     "cupo": 9,
     "creado": "2026-11-11T03:16:46.863Z",
     "pendientesHumanos": 0,
-    "anotados": 0
+    "anotados": 1
   },
   "cmwbsao6s06ci01oh7o4892t0": {
     "jugadores": [],
@@ -8438,7 +8437,9 @@
   },
   "cmwc25ebl06ir01ohmv09xida": {
     "jugadores": [],
-    "pendientes": [],
+    "pendientes": [
+      "hector.barbossa"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -8448,7 +8449,9 @@
     "fecha": "2026-11-12T23:30:00.000Z",
     "deporte": "FUTBOL",
     "cupo": 9,
-    "creado": "2026-11-11T11:50:50.049Z"
+    "creado": "2026-11-11T11:50:50.049Z",
+    "pendientesHumanos": 0,
+    "anotados": 0
   },
   "cmwc2589406ij01oht02kh1y0": {
     "jugadores": [],
@@ -8462,6 +8465,22 @@
     "fecha": "2026-11-14T23:30:00.000Z",
     "deporte": "TENIS",
     "cupo": 3,
-    "creado": "2026-11-11T11:50:42.185Z"
+    "creado": "2026-11-11T11:50:42.185Z",
+    "pendientesHumanos": 0,
+    "anotados": 0
+  },
+  "cmwc9gbf806mj01ohsp28scay": {
+    "jugadores": [],
+    "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "molly.weasley",
+    "fecha": "2026-11-14T12:00:00.000Z",
+    "deporte": "RUNNING",
+    "cupo": 5,
+    "creado": "2026-11-11T15:15:17.001Z"
   }
 }

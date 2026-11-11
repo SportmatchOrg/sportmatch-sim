@@ -78,3 +78,4 @@
 - 2026-11-08 16:14 · aceptó a Cedric en su pádel del sábado temprano
 - 2026-11-09 12:13 · aceptó a Yoda en su pádel y armó otro el domingo 15 a las 8 en Tigre (madruga)
 - 2026-11-10 00:15 · aceptó a Krusty en su pádel
+- 2026-11-11 12:14 · aceptó a Cedric en su pádel

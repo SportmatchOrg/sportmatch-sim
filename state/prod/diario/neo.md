@@ -66,3 +66,4 @@
 - 2026-11-10 08:15 · armó un básquet INTERMEDIATE el viernes 13 a las 20 en Campus Austral (para despejarse)
 - 2026-11-10 16:14 · aceptó a Wall-E en su básquet del viernes; después solo miró
 - 2026-11-11 04:14 · aceptó a Davy, Phoebe y Gato con Botas en su básquet del viernes
+- 2026-11-11 12:15 · aceptó a Simba y Frodo en su básquet del viernes; después solo miró

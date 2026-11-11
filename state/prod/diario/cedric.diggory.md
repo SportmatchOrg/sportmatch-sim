@@ -16,3 +16,4 @@
 - 2026-11-07 12:21 · calificó el pádel (5 y 4) y pidió unirse al pádel del domingo en Pádel Point Pilar
 - 2026-11-08 12:17 · calificó el pádel (5 y 4), pidió unirse al pádel del sábado de Tony en Tigre y armó uno ADVANCED el jueves 12 a las 21 en Tigre Pádel Club
 - 2026-11-10 00:16 · calificó a Mace (5); los pádel de norte le chocan con su horario, no se unió a nada
+- 2026-11-11 12:15 · leyó que Tony lo aceptó en el pádel del domingo; los otros pádel le chocan con horario o zona, no se anotó a nada más
