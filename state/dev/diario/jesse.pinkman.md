@@ -6,3 +6,4 @@
 - 2026-11-10 20:13 · pidió unirse al básquet del mié 11/11 en Del Viso (se anota con entusiasmo)
 - 2026-11-10 20:13 · (corrección) ahora sí pidió unirse al básquet del mié 11/11 en Del Viso
 - 2026-11-11 04:12 · aceptó a Kylo en su básquet y se anotó al básquet BEGINNER del sábado en Del Viso
+- 2026-11-11 12:12 · aceptó a Nelson y a Luke en su básquet; no encontró nada nuevo cerca para anotarse

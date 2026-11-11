@@ -21,3 +21,4 @@
 - 2026-11-09 12:12 · entró, leyó notificaciones y solo miró
 - 2026-11-10 20:13 · entró, miró partidos y leyó notificaciones; no se anotó a nada
 - 2026-11-11 08:13 · entró y miró partidos de tenis y básquet; no se anotó a nada
+- 2026-11-11 12:12 · miró partidos otra vez; se queda pensando, no se anotó

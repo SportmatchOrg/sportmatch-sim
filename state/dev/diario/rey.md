@@ -2,3 +2,4 @@
 - 2026-11-07 20:12 · pidió unirse al pádel BEGINNER del domingo en Pádel Point Pilar (relajado, para despejarse)
 - 2026-11-08 12:14 · calificó el pádel (5 a Clint); solo miró
 - 2026-11-10 16:13 · pidió unirse al pádel INTERMEDIATE del vie 13/11 en Pádel Point Pilar
+- 2026-11-11 12:12 · leyó que lo aceptaron en el pádel; solo miró

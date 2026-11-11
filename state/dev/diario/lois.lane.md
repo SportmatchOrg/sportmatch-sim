@@ -85,3 +85,4 @@
 - 2026-11-10 04:12 · aceptó a George en su fútbol del jueves; solo miró
 - 2026-11-10 16:12 · aceptó a Phoebe Buffay en su fútbol
 - 2026-11-11 04:12 · aceptó a Wanda en su fútbol; después solo miró
+- 2026-11-11 12:11 · aceptó a Bart en su fútbol, pidió unirse al del sábado de Wanda y armó un fútbol del mar 17/11 en Del Viso

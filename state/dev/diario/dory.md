@@ -34,3 +34,4 @@
 - 2026-11-08 08:12 · entró, leyó notificaciones y solo miró
 - 2026-11-10 16:12 · armó un fútbol el vie 13/11 20:30 en Polideportivo Del Viso (quiere conocer gente nueva)
 - 2026-11-11 04:12 · aceptó a George en su fútbol; solo miró
+- 2026-11-11 12:11 · aceptó a Pippin en su fútbol del viernes; después solo miró

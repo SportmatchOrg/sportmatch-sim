@@ -51,3 +51,4 @@
 - 2026-11-03 20:11 · no pudo anotarse al running: está suspendida hasta el 7/11
 - 2026-11-04 16:12 · leyó notificaciones; sigue suspendida, solo miró
 - 2026-11-05 04:12 · sigue suspendida hasta el 7/11, no pudo anotarse al básquet; solo miró
+- 2026-11-11 12:12 · se anotó al básquet del sáb 14/11 en Campus Austral (se une a todo)
