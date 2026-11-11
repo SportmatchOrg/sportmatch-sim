@@ -284,11 +284,14 @@ export const api = async <T = any>(
  * primer request autenticado (FirebaseAuthGuard → ensureExists). Sincroniza el nombre. Devuelve el id.
  */
 export const altaPersona = async (p: Persona): Promise<string> => {
+  // Primero login: las cuentas de Firebase se comparten entre entornos y cada signUp, aunque dé
+  // EMAIL_EXISTS, cuenta para el límite por IP (TOO_MANY_ATTEMPTS_TRY_LATER al reiniciar un entorno).
   if (!usuarios()[p.handle]) {
     try {
-      await signUp(p);
+      await token(p.handle);
     } catch (error) {
-      if (!String(error).includes('EMAIL_EXISTS')) throw error;
+      if (!/EMAIL_NOT_FOUND|INVALID_LOGIN_CREDENTIALS/.test(String(error))) throw error;
+      await signUp(p);
     }
   }
   const me = await api<{ id: string; name: string }>(p.handle, 'GET', '/users/me');

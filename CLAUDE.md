@@ -39,9 +39,9 @@ partido, si se baja tarde, si le toca organizar o unirse hoy) ya lo sortea el CL
 4. Al final, `node src/cli.ts estado` y un resumen de 3–5 líneas de qué pasó.
 
 Si la corrida no se puede hacer (el CLI falla de entrada, no hay conexión, falta configuración), no
-intentes rodearlo: explicá el motivo en una línea y terminá tu respuesta con `CORRIDA_FALLIDA`. Así el
-workflow la marca como fallida y avisa. Si solo fallan acciones sueltas (cupo lleno, etc.), la corrida
-sigue siendo exitosa.
+intentes rodearlo: explicá el motivo en una línea y terminá tu respuesta con `CORRIDA_FALLIDA` **solo, en
+la última línea**. Así el workflow la marca como fallida y avisa. Si solo fallan acciones sueltas (cupo
+lleno, etc.), la corrida sigue siendo exitosa: en ese caso no escribas la palabra en ningún lado.
 
 ## Reglas
 

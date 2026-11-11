@@ -58,7 +58,11 @@ jobs:
       SIM_ENV: ${{ matrix.entorno }}
 
     steps:
+      # La punta de main, no github.sha: un "Re-run" reusa el sha del evento original y arrancaría con un
+      # state/ viejo; si ese intento ya había pusheado su estado, el push choca con conflictos.
       - uses: actions/checkout@v4
+        with:
+          ref: main
 
       - uses: actions/setup-node@v4
         with:

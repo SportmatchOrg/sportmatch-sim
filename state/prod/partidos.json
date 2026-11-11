@@ -8075,11 +8075,10 @@
   "cmw95zdd3055101oh2sn34crn": {
     "jugadores": [
       "eowyn",
-      "montgomery.burns"
-    ],
-    "pendientes": [
+      "montgomery.burns",
       "gato.con.botas"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -8120,7 +8119,9 @@
     "jugadores": [
       "krusty"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "cedric.diggory"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -8208,7 +8209,8 @@
       "phoebe.buffay",
       "krusty",
       "lois.lane",
-      "pumba"
+      "pumba",
+      "poe.dameron"
     ],
     "pendientes": [],
     "bajasSorteadas": false,
@@ -8297,7 +8299,8 @@
       "gato.con.botas"
     ],
     "pendientes": [
-      "simba"
+      "simba",
+      "frodo.bolson"
     ],
     "bajasSorteadas": false,
     "asistencia": null,
@@ -8432,5 +8435,33 @@
     "creado": "2026-11-11T07:15:02.119Z",
     "pendientesHumanos": 0,
     "anotados": 0
+  },
+  "cmwc25ebl06ir01ohmv09xida": {
+    "jugadores": [],
+    "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "dory",
+    "fecha": "2026-11-12T23:30:00.000Z",
+    "deporte": "FUTBOL",
+    "cupo": 9,
+    "creado": "2026-11-11T11:50:50.049Z"
+  },
+  "cmwc2589406ij01oht02kh1y0": {
+    "jugadores": [],
+    "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "jessie",
+    "fecha": "2026-11-14T23:30:00.000Z",
+    "deporte": "TENIS",
+    "cupo": 3,
+    "creado": "2026-11-11T11:50:42.185Z"
   }
 }

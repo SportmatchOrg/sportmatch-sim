@@ -13,6 +13,8 @@ console.log(
     `costo equivalente API: US$ ${salida.total_cost_usd?.toFixed(2) ?? '?'}`,
 );
 
-// CLAUDE.md le pide a Claude que termine con CORRIDA_FALLIDA si no pudo hacer la corrida.
-const fallida = /CORRIDA_FALLIDA/.test(salida.result ?? '');
+// CLAUDE.md le pide a Claude que termine con CORRIDA_FALLIDA, sola en la última línea, si no pudo hacer
+// la corrida. Solo cuenta así: nombrarlo en una frase ("así que no corresponde `CORRIDA_FALLIDA`.") no
+// es una corrida fallida (falso positivo del 11/11 08:10).
+const fallida = /(^|\n)[\s`*]*CORRIDA_FALLIDA[\s`*]*$/.test(salida.result ?? '');
 if (salida.is_error || salida.subtype !== 'success' || fallida) process.exit(1);
