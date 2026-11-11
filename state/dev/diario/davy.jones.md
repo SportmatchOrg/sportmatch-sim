@@ -25,3 +25,4 @@
 - 2026-11-08 16:12 · pidió unirse al running del dom 15/11 9:00 de Molly en Parque Pilar (principiante entusiasta)
 - 2026-11-09 12:12 · leyó que Molly lo aceptó en el running; pidió unirse al básquet para principiantes de Fiona en Del Viso
 - 2026-11-09 12:12 · corrección: el básquet de Fiona estaba lleno, no se anotó a nada
+- 2026-11-11 04:12 · se anotó al básquet BEGINNER del sábado en Del Viso (principiante entusiasta)

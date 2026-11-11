@@ -61,3 +61,4 @@
 - 2026-11-09 20:13 · pidió unirse al fútbol del dom 15/11 11:00 en Del Viso (se anota a todo); Wanda lo aceptó en Club Pilar
 - 2026-11-10 00:13 · se enteró de que lo marcaron no-show en un partido; calificó el fútbol (5, 4 y 5) y pidió unirse al fútbol del jue 12/11 de Lois en Club Pilar (se anota a todo)
 - 2026-11-11 00:13 · pidió unirse al fútbol del vie 13/11 de Dory en Del Viso (se anota a todo)
+- 2026-11-11 04:12 · se anotó al fútbol del sábado en Club Pilar y al del domingo en Del Viso

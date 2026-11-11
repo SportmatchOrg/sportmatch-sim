@@ -5,3 +5,4 @@
 - 2026-11-10 04:12 · aceptó a Padmé en su básquet del jueves; no calificó (rara vez lo hace)
 - 2026-11-10 20:13 · pidió unirse al básquet del mié 11/11 en Del Viso (se anota con entusiasmo)
 - 2026-11-10 20:13 · (corrección) ahora sí pidió unirse al básquet del mié 11/11 en Del Viso
+- 2026-11-11 04:12 · aceptó a Kylo en su básquet y se anotó al básquet BEGINNER del sábado en Del Viso
