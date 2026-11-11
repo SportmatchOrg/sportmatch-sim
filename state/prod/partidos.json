@@ -7938,15 +7938,14 @@
     "cupo": 9,
     "creado": "2026-11-08T15:16:31.076Z",
     "pendientesHumanos": 0,
-    "anotados": 3
+    "anotados": 4
   },
   "cmw7z6usg04oz01ohxo61zq53": {
     "jugadores": [
-      "davy.jones"
-    ],
-    "pendientes": [
+      "davy.jones",
       "gato.con.botas"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -8133,7 +8132,7 @@
     "cupo": 3,
     "creado": "2026-11-09T15:13:53.863Z",
     "pendientesHumanos": 0,
-    "anotados": 1
+    "anotados": 2
   },
   "cmw9n3ieq05a501ohf6qlgqr5": {
     "jugadores": [
@@ -8212,7 +8211,9 @@
       "pumba",
       "poe.dameron"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "bart.simpson"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -8312,7 +8313,7 @@
     "cupo": 7,
     "creado": "2026-11-10T11:15:14.307Z",
     "pendientesHumanos": 0,
-    "anotados": 4
+    "anotados": 6
   },
   "cmwau018t05t301ohks9jjz29": {
     "jugadores": [
@@ -8421,7 +8422,9 @@
   },
   "cmwbsappq06cl01ohjxhnp30m": {
     "jugadores": [],
-    "pendientes": [],
+    "pendientes": [
+      "alfred.pennyworth"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -8436,9 +8439,12 @@
     "anotados": 0
   },
   "cmwc25ebl06ir01ohmv09xida": {
-    "jugadores": [],
-    "pendientes": [
+    "jugadores": [
       "hector.barbossa"
+    ],
+    "pendientes": [
+      "arthur.curry",
+      "george.weasley"
     ],
     "bajasSorteadas": false,
     "asistencia": null,
@@ -8481,6 +8487,23 @@
     "fecha": "2026-11-14T12:00:00.000Z",
     "deporte": "RUNNING",
     "cupo": 5,
-    "creado": "2026-11-11T15:15:17.001Z"
+    "creado": "2026-11-11T15:15:17.001Z",
+    "pendientesHumanos": 0,
+    "anotados": 0
+  },
+  "cup1kti3nnxlv99ytaxrwu17q": {
+    "jugadores": [],
+    "pendientes": [
+      "milhouse.van.houten"
+    ],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "humano:ce1ywjmdj84lghj5ea5f6m6fi",
+    "fecha": "2026-11-18T20:00:00.000Z",
+    "deporte": "BASQUET",
+    "cupo": 9
   }
 }

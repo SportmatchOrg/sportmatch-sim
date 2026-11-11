@@ -22,3 +22,4 @@
 - 2026-10-30 20:14 · calificó el básquet generoso (5, 4 y 5)
 - 2026-11-08 16:14 · pidió unirse al básquet intermedio del martes en Club Belgrano
 - 2026-11-10 20:15 · calificó el básquet (generoso) y pidió unirse al de Phoebe en Del Viso
+- 2026-11-11 16:15 · pidió unirse al básquet del miércoles 18 de Milagros

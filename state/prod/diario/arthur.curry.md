@@ -3,3 +3,4 @@
 - 2026-11-05 00:17 · calificó el fútbol generoso (5 y 5); solo miró
 - 2026-11-06 20:15 · pidió unirse al tenis BEGINNER del lunes en River Courts (recién empieza)
 - 2026-11-09 20:15 · calificó el tenis generoso (5 y 4); solo miró
+- 2026-11-11 16:15 · pidió unirse al fútbol del jueves en Club Pilar

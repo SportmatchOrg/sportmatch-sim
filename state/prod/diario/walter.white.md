@@ -2,3 +2,4 @@
 - 2026-10-14 20:15 · entró a mirar, no vio nada de fútbol o pádel en CABA que le sirva
 - 2026-11-01 04:15 · entró a mirar; nada de fútbol o pádel en CABA que le sirva
 - 2026-11-09 08:14 · entró a mirar; nada de fútbol o pádel en CABA que le sirva
+- 2026-11-11 16:15 · entró y solo miró

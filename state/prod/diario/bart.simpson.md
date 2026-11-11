@@ -17,3 +17,4 @@
 - 2026-11-09 16:14 · pidió unirse al fútbol del sábado 14 en Polideportivo Del Viso (a ganar)
 - 2026-11-10 00:16 · calificó el fútbol y pidió unirse al de Lois del jueves en Club Pilar (a ganar)
 - 2026-11-10 12:14 · aceptó a Davy Jones en su básquet y pidió unirse al fútbol ADVANCED del jueves de Steve en Club Pilar (a ganar)
+- 2026-11-11 16:15 · aceptó a Gato con Botas y pidió unirse al fútbol del viernes en Del Viso (a ganar)
