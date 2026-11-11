@@ -33,3 +33,4 @@
 - 2026-11-10 08:12 · calificó el partido (4 y 5) y armó un pádel INTERMEDIATE el vie 13/11 8:00 en Pádel Point Pilar (madruga)
 - 2026-11-10 12:12 · aceptó a Krusty en su partido
 - 2026-11-10 20:12 · aceptó a Rey en su pádel del viernes; nada más
+- 2026-11-11 08:12 · calificó el básquet (5, 4 y 5); nada más

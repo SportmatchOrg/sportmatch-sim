@@ -19,3 +19,4 @@
 - 2026-11-09 08:13 · leyó que Nelson lo aceptó y pidió unirse al básquet del martes 10/11 en Del Viso (fanático)
 - 2026-11-09 16:12 · se anotó al básquet del jue 12/11 en Del Viso (se anota a todo)
 - 2026-11-10 20:12 · calificó el básquet y se anotó al fútbol del sáb 14/11 en Club Pilar (competitivo)
+- 2026-11-11 08:12 · calificó el básquet (5, 4 y 4) y pidió unirse al fútbol del jue 12/11 en Club Pilar (competitivo)

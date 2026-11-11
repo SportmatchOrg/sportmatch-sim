@@ -30,3 +30,4 @@
 - 2026-11-08 12:14 · aceptó a Draco en su básquet para principiantes; solo miró
 - 2026-11-09 12:12 · aceptó a Bart en su básquet para principiantes; solo miró
 - 2026-11-10 20:12 · calificó el básquet y armó otro para principiantes el sáb 14/11 en Del Viso
+- 2026-11-11 08:12 · aceptó a Jesse y a Davy en su básquet del sábado; ya tenía uno armado, no organizó otro

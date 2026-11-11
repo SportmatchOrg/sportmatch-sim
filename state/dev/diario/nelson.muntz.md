@@ -20,3 +20,4 @@
 - 2026-11-09 12:11 · aceptó a Groot en su básquet del miércoles; nada antes de las 9 en Pilar, no se anotó
 - 2026-11-09 20:12 · aceptó a Indiana en su básquet del miércoles; nada antes de las 9 en Pilar, no se anotó
 - 2026-11-11 00:12 · aceptó a Jesse y a Luke en su básquet del miércoles; nada antes de las 9 en Pilar, no se anotó
+- 2026-11-11 08:12 · calificó el básquet (4, 5 y 4) y pidió unirse al básquet del jue 12/11 en Del Viso

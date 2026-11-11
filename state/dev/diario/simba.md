@@ -3,3 +3,4 @@
 - 2026-10-22 00:13 · calificó el básquet, sin más por hoy
 - 2026-11-04 16:12 · volvió a entrar, leyó notificaciones y solo miró
 - 2026-11-05 08:13 · volvió a entrar; hoy solo miró
+- 2026-11-11 08:13 · volvió a entrar a mirar básquet y fútbol; hoy solo miró
