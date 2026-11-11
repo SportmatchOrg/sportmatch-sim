@@ -3,3 +3,4 @@
 - 2026-10-26 16:12 · pidió unirse al fútbol del domingo en Del Viso (entusiasmado, sin fijarse mucho en el nivel)
 - 2026-10-29 12:13 · leyó que Finn y Sam lo aceptaron; solo miró, no se anotó a nada más
 - 2026-11-02 12:13 · leyó notificaciones, nada más
+- 2026-11-11 00:13 · pidió unirse al fútbol BEGINNER del dom 22/11 en Complejo Belgrano (principiante entusiasta)

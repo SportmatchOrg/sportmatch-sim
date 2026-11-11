@@ -21,3 +21,4 @@
 - 2026-11-06 20:12 · calificó a Moe (5); hoy no hizo más
 - 2026-11-08 16:12 · armó un tenis dobles INTERMEDIATE el mié 11/11 20:00 en River Courts (vuelve al deporte)
 - 2026-11-10 16:12 · entró, leyó notificaciones y solo miró
+- 2026-11-11 00:12 · aceptó a Carol en su tenis; miró tenis en CABA y nada le cerró, no se anotó

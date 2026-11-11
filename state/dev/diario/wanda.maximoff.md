@@ -9,3 +9,4 @@
 - 2026-11-09 12:12 · aceptó a Clark en su fútbol del sábado y armó otro fútbol el dom 15/11 11:00 en Del Viso
 - 2026-11-10 00:13 · aceptó a George y a Chewbacca en su fútbol del dom 15/11 en Del Viso
 - 2026-11-10 20:13 · aceptó a Marty y a Bart en su fútbol del sábado; no se unió a nada
+- 2026-11-11 00:12 · aceptó a Phoebe en su fútbol y se unió al fútbol del jueves en Club Pilar (le gusta jugar de noche)

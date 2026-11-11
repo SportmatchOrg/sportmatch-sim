@@ -2,3 +2,4 @@
 - 2026-11-02 12:12 · miró básquet y tenis, nada a su nivel; no se anotó
 - 2026-11-03 08:13 · calificó el partido (Jaime 3); no se anotó a nada, ya casi no usa la app
 - 2026-11-05 04:12 · entró, no hay novedades; ya casi no usa la app
+- 2026-11-11 00:13 · leyó notificaciones y no hizo nada; ya casi no usa la app

@@ -19,3 +19,4 @@
 - 2026-11-09 04:12 · aceptó a James Bond en su básquet del miércoles; nada antes de las 9 para anotarse
 - 2026-11-09 12:11 · aceptó a Groot en su básquet del miércoles; nada antes de las 9 en Pilar, no se anotó
 - 2026-11-09 20:12 · aceptó a Indiana en su básquet del miércoles; nada antes de las 9 en Pilar, no se anotó
+- 2026-11-11 00:12 · aceptó a Jesse y a Luke en su básquet del miércoles; nada antes de las 9 en Pilar, no se anotó

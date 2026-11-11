@@ -29,3 +29,4 @@
 - 2026-11-04 16:13 · leyó el recordatorio; ya tiene solicitudes pendientes, hoy solo miró
 - 2026-11-04 20:13 · calificó el fútbol del sábado; no hay lugares de fútbol en CABA para armar y ya tiene pedidos pendientes
 - 2026-11-06 16:13 · pidió unirse al fútbol del sáb 14/11 en Complejo Estrella (se anota a todo)
+- 2026-11-11 00:12 · pidió unirse al fútbol 5 del vie 13/11 en Complejo Social (se anota a todo, puntual)

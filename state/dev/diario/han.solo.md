@@ -3,3 +3,4 @@
 - 2026-11-06 04:13 · leyó el recordatorio y pidió unirse al fútbol del lun 9/11 de Elrond en Nordelta (puntual)
 - 2026-11-10 00:13 · calificó a Elrond (5) y armó un fútbol 5 el mié 11/11 20:30 en Nordelta (puntual)
 - 2026-11-10 12:12 · aceptó a Chewbacca en su fútbol y pidió unirse al fútbol del vie 13/11 en Nordelta (puntual)
+- 2026-11-11 00:12 · canceló su fútbol del mié (iba 1/9 y no se llenó)

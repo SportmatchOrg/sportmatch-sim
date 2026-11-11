@@ -14,3 +14,4 @@
 - 2026-11-05 08:13 · pidió unirse al básquet del vie 20/11 en Polideportivo Municipal CABA (competitivo)
 - 2026-11-08 04:12 · leyó notificaciones; hoy solo miró
 - 2026-11-10 04:12 · pidió unirse al básquet del sáb 14/11 en Polideportivo Municipal CABA (competitivo)
+- 2026-11-11 00:12 · pidió unirse al básquet ADVANCED del dom 27/12 en Polideportivo Municipal CABA (competitivo)
