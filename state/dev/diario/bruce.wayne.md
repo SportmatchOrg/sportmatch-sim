@@ -14,3 +14,4 @@
 - 2026-10-29 12:12 · Sam lo aceptó; pidió unirse al pádel BEGINNER del sábado de Sam en Club Belgrano (le queda cómodo en CABA)
 - 2026-10-31 12:12 · calificó el pádel (5 y 4); hoy solo miró
 - 2026-11-09 12:12 · se unió al pádel BEGINNER del 10/12 en Belgrano Pádel (vuelve de a poco)
+- 2026-11-11 16:12 · pidió unirse al pádel BEGINNER del viernes en Club Belgrano

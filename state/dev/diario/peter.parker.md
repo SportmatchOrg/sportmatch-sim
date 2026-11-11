@@ -31,3 +31,4 @@
 - 2026-11-06 16:13 · pidió unirse al fútbol del sáb 14/11 en Complejo Estrella (se anota a todo)
 - 2026-11-11 00:12 · pidió unirse al fútbol 5 del vie 13/11 en Complejo Social (se anota a todo, puntual)
 - 2026-11-11 08:13 · pidió unirse al fútbol del jue 12/11 en Complejo Defensores (se anota a todo)
+- 2026-11-11 16:12 · pidió unirse al fútbol del sáb 14/11 en Parque Centenario (CABA, se anota a todo)

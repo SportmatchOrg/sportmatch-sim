@@ -1,1 +1,2 @@
 - 2026-11-05 12:12 · entró a mirar, no se anotó a nada
+- 2026-11-11 16:12 · se unió al running del sábado en Parque Pilar (tarde libre, vuelve con ganas)
