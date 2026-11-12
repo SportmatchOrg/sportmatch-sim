@@ -13,3 +13,4 @@
 - 2026-11-02 20:14 · calificó el fútbol, todo bien
 - 2026-11-08 20:15 · pidió unirse al fútbol del martes de Elrond en Nordelta (nivel intermedio)
 - 2026-11-11 00:15 · calificó a Elrond y Lois y pidió unirse al fútbol 5 del viernes de Mace en Nordelta
+- 2026-11-12 20:15 · pidió unirse al fútbol del martes 17 de Frodo en Nordelta (nivel intermedio)

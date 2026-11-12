@@ -3273,3 +3273,33 @@
 2026-11-12T19:14:36.737Z finn crear cmwdxfy5201cg01nx1i2hnya2 FUTBOL 2026-11-15T13:00:00.000Z
 2026-11-12T19:14:38.918Z frodo.bolson crear cmwdxfztp01cj01nx6430woee FUTBOL 2026-11-17T23:30:00.000Z
 2026-11-12T19:14:40.916Z frodo.bolson unirse cmwbjpq97063y01ohz714a3bk
+2026-11-12T23:13:37.314Z kylo.ren baja-tarde cmw7z74tr04pf01oh5i39rzhk
+2026-11-12T23:13:40.165Z sorteo cmw87ow8b04sz01oh96cceu57 faltaron=[] calificaran=[minerva.mcgonagall,bellatrix.lestrange]
+2026-11-12T23:13:44.659Z nick.fury baja-tarde cmw95zm8i055801ohf02zi29y
+2026-11-12T23:13:47.337Z sorteo cmw9n40rb05at01ohos983lru faltaron=[] calificaran=[burro]
+2026-11-12T23:13:47.940Z sorteo cmwa4aa2105h401ohcn7vpepd faltaron=[ginny.weasley] calificaran=[mace.windu]
+2026-11-12T23:14:20.788Z bellatrix.lestrange leer-notificaciones 1
+2026-11-12T23:14:34.600Z bellatrix.lestrange calificar cmw87ow8b04sz01oh96cceu57 ratings=1 noShows=0
+2026-11-12T23:14:36.644Z bellatrix.lestrange unirse cmwau018t05t301ohks9jjz29
+2026-11-12T23:14:40.409Z mace.windu leer-notificaciones 1
+2026-11-12T23:14:45.593Z mace.windu aceptar cmwbjpq97063y01ohz714a3bk frodo.bolson
+2026-11-12T23:14:47.288Z hermione.granger leer-notificaciones 3
+2026-11-12T23:14:53.338Z hermione.granger aceptar cmw87nuyk04rq01oh3jp407pr cmv877slj023d01ljf5ob2mit
+2026-11-12T23:14:54.919Z hermione.granger aceptar cmw87nuyk04rq01oh3jp407pr cmwdzef8x01ep01nx4c6dd47x
+2026-11-12T23:14:56.564Z frodo.bolson leer-notificaciones 4
+2026-11-12T23:15:00.947Z frodo.bolson aceptar cmwdxfztp01cj01nx6430woee cmwdzef8x01ep01nx4c6dd47x
+2026-11-12T23:15:02.688Z dory leer-notificaciones 2
+2026-11-12T23:15:07.217Z dory aceptar cmwa4bc8n05il01ohnj3f1k5g john.wick
+2026-11-12T23:15:11.766Z burro leer-notificaciones 3
+2026-11-12T23:15:18.016Z burro aceptar cmwau018t05t301ohks9jjz29 cmwdzef8x01ep01nx4c6dd47x
+2026-11-12T23:15:19.551Z burro aceptar cmwau018t05t301ohks9jjz29 bellatrix.lestrange
+2026-11-12T23:15:21.220Z ned.flanders leer-notificaciones 4
+2026-11-12T23:15:27.593Z ned.flanders aceptar cmwa4bjrz05iv01ohogla4n6z davy.jones
+2026-11-12T23:15:29.725Z ned.flanders aceptar cmwbjsbgw067w01oh0asyhqe6 cmv877slj023d01ljf5ob2mit
+2026-11-12T23:15:31.374Z ned.flanders aceptar cmwbjsbgw067w01oh0asyhqe6 cmwdzef8x01ep01nx4c6dd47x
+2026-11-12T23:15:33.359Z minerva.mcgonagall leer-notificaciones 1
+2026-11-12T23:15:38.523Z minerva.mcgonagall calificar cmw87ow8b04sz01oh96cceu57 ratings=1 noShows=0
+2026-11-12T23:15:40.455Z minerva.mcgonagall crear cmwe61yeu00yo01lr4tqzzj26 PADEL 2026-11-14T20:30:00.000Z
+2026-11-12T23:15:43.595Z monica.geller leer-notificaciones 1
+2026-11-12T23:15:51.307Z obiwan.kenobi leer-notificaciones 1
+2026-11-12T23:15:58.531Z obiwan.kenobi unirse cmwdxfztp01cj01nx6430woee
