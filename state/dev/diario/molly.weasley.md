@@ -28,3 +28,4 @@
 - 2026-11-08 12:13 · calificó el running (4 a Qui-Gon) y armó un running el dom 15/11 9:00 en Parque Pilar (ritmo parejo)
 - 2026-11-08 20:12 · aceptó a Davy Jones en su running del domingo 15/11
 - 2026-11-10 00:12 · aceptó a Montgomery Burns en su running; ya tiene uno armado el 15/11, no armó otro
+- 2026-11-12 08:12 · entró a mirar, nada de running que le cierre

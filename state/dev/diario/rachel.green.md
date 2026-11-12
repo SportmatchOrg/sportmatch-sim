@@ -14,3 +14,4 @@
 - 2026-10-29 20:12 · solo miró y leyó notificaciones, nada nuevo en CABA
 - 2026-11-08 20:13 · pidió unirse al fútbol del 24/11 en Club Atlético Belgrano (suma gente)
 - 2026-11-09 12:12 · leyó notificaciones y solo miró; ya tiene su fútbol del 24/11
+- 2026-11-12 08:12 · miró partidos de fútbol en CABA, sin novedades

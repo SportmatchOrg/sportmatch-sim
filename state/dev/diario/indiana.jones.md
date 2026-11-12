@@ -34,3 +34,4 @@
 - 2026-11-10 12:12 · aceptó a Krusty en su partido
 - 2026-11-10 20:12 · aceptó a Rey en su pádel del viernes; nada más
 - 2026-11-11 08:12 · calificó el básquet (5, 4 y 5); nada más
+- 2026-11-12 08:11 · calificó el tenis: nadie para calificar, solo faltó Lara

@@ -2,3 +2,4 @@
 - 2026-10-24 08:12 · pidió unirse al fútbol del sábado de noche en Nordelta (conoce gente)
 - 2026-10-24 20:12 · calificó el fútbol (5 y 4)
 - 2026-11-02 16:13 · pidió unirse al fútbol del miércoles de Elrond en Nordelta (conoce gente)
+- 2026-11-12 08:12 · leyó que Elrond aceptó su pedido; solo miró
