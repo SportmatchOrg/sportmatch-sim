@@ -14,3 +14,4 @@
 - 2026-11-01 12:16 · entró a mirar fútbol y pádel; no se anotó a nada
 - 2026-11-03 12:15 · entró a mirar fútbol y pádel; no se anotó a nada
 - 2026-11-10 12:15 · entró a mirar fútbol y pádel; no se anotó a nada
+- 2026-11-12 12:14 · entró a mirar fútbol y pádel; no se anotó a nada

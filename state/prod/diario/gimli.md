@@ -50,3 +50,4 @@
 - 2026-11-03 12:15 · entró a mirar; nada de fútbol en CABA, no se anotó
 - 2026-11-06 04:16 · leyó notificaciones y miró; sigue sin fútbol en CABA
 - 2026-11-10 08:14 · entró a mirar; sigue sin haber fútbol en CABA, no se anotó
+- 2026-11-12 12:14 · entró a mirar; no encontró fútbol en CABA, no se anotó

@@ -18,3 +18,4 @@
 - 2026-11-08 00:14 · entró a mirar running; nada en Pilar, no se anotó
 - 2026-11-11 04:15 · pidió unirse al running del miércoles en Parque Pilar (el único en su zona)
 - 2026-11-11 20:15 · calificó a Poe (5), Gato (4) y Éowyn (5); pidió unirse al running ADVANCED del sábado 14 a la mañana en Parque Pilar
+- 2026-11-12 12:14 · entró a mirar running, esperando respuesta a su solicitud; no se anotó a nada más

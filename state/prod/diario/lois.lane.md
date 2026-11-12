@@ -115,3 +115,4 @@
 - 2026-11-11 00:15 · calificó el fútbol (5, 4, 4) y pidió unirse al fútbol del viernes de Dory en Del Viso
 - 2026-11-12 00:14 · pidió unirse al fútbol del viernes en River Courts
 - 2026-11-12 08:14 · entró, leyó que Burro la aceptó y solo miró
+- 2026-11-12 12:14 · pidió unirse al fútbol del viernes 13 en Fútbol 5 Nordelta (de Mace)

@@ -116,3 +116,4 @@
 - 2026-11-11 00:15 · calificó a Bellatrix (5); después solo miró
 - 2026-11-11 20:15 · calificó a Lisa y Bellatrix (5) con comentario; después solo miró
 - 2026-11-12 00:15 · entró, leyó notificaciones y solo miró
+- 2026-11-12 12:14 · entró, leyó notificaciones y solo miró

@@ -8227,7 +8227,7 @@
     "cupo": 3,
     "creado": "2026-11-10T03:15:04.876Z",
     "pendientesHumanos": 0,
-    "anotados": 0,
+    "anotados": 1,
     "cancelSorteado": true,
     "cancelar": false
   },
@@ -8408,7 +8408,9 @@
       "obiwan.kenobi",
       "elrond"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "lois.lane"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -8443,7 +8445,9 @@
       "peter.parker",
       "bellatrix.lestrange"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "george.weasley"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -8600,7 +8604,9 @@
   },
   "cmwdga019014101nxc6frsfwx": {
     "jugadores": [],
-    "pendientes": [],
+    "pendientes": [
+      "bellatrix.lestrange"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -8610,7 +8616,9 @@
     "fecha": "2026-11-15T21:00:00.000Z",
     "deporte": "PADEL",
     "cupo": 3,
-    "creado": "2026-11-12T11:14:05.781Z"
+    "creado": "2026-11-12T11:14:05.781Z",
+    "pendientesHumanos": 0,
+    "anotados": 0
   },
   "cmwdgaklr014e01nxbnvx353t": {
     "jugadores": [],
@@ -8624,7 +8632,9 @@
     "fecha": "2026-11-15T00:00:00.000Z",
     "deporte": "FUTBOL",
     "cupo": 9,
-    "creado": "2026-11-12T11:14:32.442Z"
+    "creado": "2026-11-12T11:14:32.442Z",
+    "pendientesHumanos": 0,
+    "anotados": 0
   },
   "cmwdgam8a014h01nx8a8sa0ek": {
     "jugadores": [],
@@ -8638,6 +8648,8 @@
     "fecha": "2026-11-15T13:00:00.000Z",
     "deporte": "PADEL",
     "cupo": 3,
-    "creado": "2026-11-12T11:14:34.582Z"
+    "creado": "2026-11-12T11:14:34.582Z",
+    "pendientesHumanos": 0,
+    "anotados": 0
   }
 }
