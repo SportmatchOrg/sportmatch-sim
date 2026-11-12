@@ -10,3 +10,4 @@
 - 2026-11-04 16:13 · leyó la app; no hay pádel en Pilar, nada por hoy
 - 2026-11-08 20:13 · pidió unirse al pádel del miércoles 11/11 20:00 de Mónica en Club Pilar (le gusta conocer gente)
 - 2026-11-09 08:13 · leyó que Mónica lo aceptó y pidió unirse al pádel del sáb 14/11 de Clint en Pádel Point Pilar (cerca de casa)
+- 2026-11-12 00:12 · miró partidos de pádel, nada que le encaje; no se anotó

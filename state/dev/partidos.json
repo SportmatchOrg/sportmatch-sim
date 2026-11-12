@@ -7222,12 +7222,12 @@
       "hector.barbossa": true
     },
     "calificaran": [
-      "phoebe.buffay",
-      "george.weasley",
-      "lois.lane",
-      "chewbacca",
       "padme.amidala",
-      "hector.barbossa"
+      "chewbacca",
+      "lois.lane",
+      "hector.barbossa",
+      "george.weasley",
+      "phoebe.buffay"
     ],
     "calificaron": [
       "padme.amidala",
@@ -7603,9 +7603,15 @@
     "jugadores": [],
     "pendientes": [],
     "bajasSorteadas": true,
-    "asistencia": null,
-    "calificaran": [],
-    "calificaron": [],
+    "asistencia": {
+      "hector.barbossa": true
+    },
+    "calificaran": [
+      "hector.barbossa"
+    ],
+    "calificaron": [
+      "hector.barbossa"
+    ],
     "cancelado": false,
     "organizador": "hector.barbossa",
     "fecha": "2026-11-11T23:30:00.000Z",
@@ -7948,7 +7954,9 @@
     "jugadores": [
       "anakin.skywalker"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "rey"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -8159,7 +8167,7 @@
     "cupo": 5,
     "creado": "2026-11-08T15:12:38.658Z",
     "pendientesHumanos": 0,
-    "anotados": 1
+    "anotados": 2
   },
   "cmw7z27xw00t801tjwf595iru": {
     "jugadores": [
@@ -8407,7 +8415,7 @@
     "cupo": 9,
     "creado": "2026-11-09T15:12:14.857Z",
     "pendientesHumanos": 0,
-    "anotados": 4
+    "anotados": 5
   },
   "cy93fl5e7qm5aspo82avkt1e8": {
     "jugadores": [],
@@ -8508,7 +8516,9 @@
       "bart.simpson",
       "trinity"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "neville.longbottom"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -8568,14 +8578,16 @@
     "asistencia": null,
     "calificaran": [],
     "calificaron": [],
-    "cancelado": false,
+    "cancelado": true,
     "organizador": "steve.rogers",
     "fecha": "2026-11-12T23:30:00.000Z",
     "deporte": "FUTBOL",
     "cupo": 9,
     "creado": "2026-11-10T11:13:10.560Z",
     "pendientesHumanos": 0,
-    "anotados": 0
+    "anotados": 0,
+    "cancelSorteado": true,
+    "cancelar": true
   },
   "cmwb2hvxl031z01tjlphtq0d8": {
     "jugadores": [
@@ -8595,7 +8607,7 @@
     "cupo": 9,
     "creado": "2026-11-10T19:12:46.692Z",
     "pendientesHumanos": 0,
-    "anotados": 2
+    "anotados": 3
   },
   "cmwbb1ogr038h01tjyxqnfd94": {
     "jugadores": [],
@@ -8664,7 +8676,7 @@
     "cupo": 3,
     "creado": "2026-11-11T03:12:48.872Z",
     "pendientesHumanos": 0,
-    "anotados": 0
+    "anotados": 1
   },
   "ch87v5agb00jlhy0yd41w6mlg": {
     "jugadores": [],
@@ -8825,7 +8837,8 @@
     "organizador": "humano:c3ry25k6m80n5yjy16tuuoxhz",
     "fecha": "2026-11-14T02:30:00.000Z",
     "deporte": "PADEL",
-    "cupo": 3
+    "cupo": 3,
+    "anotados": 1
   },
   "cmwcqhnw0051h01tjl36vxtmu": {
     "jugadores": [],
@@ -8839,7 +8852,9 @@
     "fecha": "2026-11-14T13:00:00.000Z",
     "deporte": "TENIS",
     "cupo": 3,
-    "creado": "2026-11-11T23:12:13.292Z"
+    "creado": "2026-11-11T23:12:13.292Z",
+    "pendientesHumanos": 0,
+    "anotados": 0
   },
   "cmwcqi2yt051z01tjcbpard8j": {
     "jugadores": [],
@@ -8853,7 +8868,9 @@
     "fecha": "2026-11-15T23:30:00.000Z",
     "deporte": "FUTBOL",
     "cupo": 9,
-    "creado": "2026-11-11T23:12:32.855Z"
+    "creado": "2026-11-11T23:12:32.855Z",
+    "pendientesHumanos": 0,
+    "anotados": 0
   },
   "crbl5ksbzq6jnq3q56pm124s9": {
     "jugadores": [],
@@ -8868,7 +8885,8 @@
     "organizador": "humano:crn8ylx4i3k5dzb2zkvtrnrrb",
     "fecha": "2026-11-19T19:30:00.000Z",
     "deporte": "FUTBOL",
-    "cupo": 13
+    "cupo": 13,
+    "anotados": 7
   },
   "c9bzaxmhtfpcwce2uyfn27c3v": {
     "jugadores": [],
@@ -8883,7 +8901,8 @@
     "organizador": "humano:cx2gdjloxucsym29usz1nlukx",
     "fecha": "2026-11-19T21:00:00.000Z",
     "deporte": "BASQUET",
-    "cupo": 9
+    "cupo": 9,
+    "anotados": 1
   },
   "c6mui6sy37jp6mx0qrd0vmsaj": {
     "jugadores": [],
@@ -8897,6 +8916,37 @@
     "cancelado": false,
     "organizador": "humano:cvhmvylwg3s1n51fgzlv2j9ur",
     "fecha": "2026-11-18T22:00:00.000Z",
+    "deporte": "FUTBOL",
+    "cupo": 9,
+    "anotados": 1
+  },
+  "czh9930183ymbw68h7x1o4yzg": {
+    "jugadores": [],
+    "pendientes": [
+      "galadriel"
+    ],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "humano:c1zpo13mwpm75xruu7zug8c3m",
+    "fecha": "2026-12-25T23:00:00.000Z",
+    "deporte": "BASQUET",
+    "cupo": 9
+  },
+  "corh60cdg0468u26yzreb2qj3": {
+    "jugadores": [],
+    "pendientes": [
+      "peter.parker"
+    ],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "humano:ce4wnm67m5uuhnwjjv9bsfl7d",
+    "fecha": "2026-11-23T22:00:00.000Z",
     "deporte": "FUTBOL",
     "cupo": 9
   }

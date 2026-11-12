@@ -3,3 +3,4 @@
 - 2026-10-20 08:12 · miró partidos, nada en CABA que le encaje; no se anotó
 - 2026-11-06 12:12 · miró partidos, nada en CABA que le encaje; no se anotó
 - 2026-11-11 04:12 · se unió al fútbol del sábado en Parque Centenario (tardes libres)
+- 2026-11-12 00:12 · entró, leyó la notificación y no hizo nada más

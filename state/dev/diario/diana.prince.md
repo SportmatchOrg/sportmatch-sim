@@ -5,3 +5,4 @@
 - 2026-10-28 16:12 · pidió unirse al fútbol del jueves de noche de Lois en Club Pilar (le gusta jugar de noche)
 - 2026-10-30 12:12 · pidió unirse al fútbol del martes 3/11 de noche de Lois en Club Pilar
 - 2026-11-02 08:13 · miró la app, le aceptaron una solicitud; hoy no se anotó a nada
+- 2026-11-12 00:12 · entró y solo miró

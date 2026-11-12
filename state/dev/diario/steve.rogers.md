@@ -133,3 +133,4 @@
 - 2026-11-05 08:13 · leyó que cancelaron un partido; hoy solo miró
 - 2026-11-10 08:13 · armó un fútbol 9 ADVANCED el jue 12/11 20:30 en Club Pilar (exigente con el nivel)
 - 2026-11-11 20:12 · armó un fútbol 9 ADVANCED el dom 15/11 20:30 en Club Pilar (exigente con el nivel)
+- 2026-11-12 00:11 · canceló el fútbol en Pilar porque no se llenaba (0/9)
