@@ -41,3 +41,4 @@
 - 2026-11-01 12:15 · calificó a Luke con un 3; no armó nada hoy
 - 2026-11-08 20:15 · entró, leyó notificaciones y solo miró
 - 2026-11-11 12:15 · armó un running ADVANCED el sábado 14 a las 9 en Parque Pilar (exigente con el nivel)
+- 2026-11-12 00:13 · aceptó la solicitud de Montgomery y armó otro running ADVANCED el domingo 15 a las 9 en Campus Austral

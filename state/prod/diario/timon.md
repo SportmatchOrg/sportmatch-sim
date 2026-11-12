@@ -13,3 +13,4 @@
 - 2026-11-06 04:15 · entró, no calificó (rara vez lo hace) y ya tiene básquet anotado; solo miró
 - 2026-11-06 08:15 · por fin calificó el básquet (4, 5 y 4)
 - 2026-11-10 16:15 · entró, leyó notificaciones; solo miró
+- 2026-11-12 00:14 · se anotó al básquet del viernes en Club Belgrano (ya veremos si va)

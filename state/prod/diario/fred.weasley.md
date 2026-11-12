@@ -54,3 +54,4 @@
 - 2026-11-11 12:14 · entró, leyó y no calificó el partido (rara vez lo hace)
 - 2026-11-11 16:15 · entró, no calificó el partido (rara vez lo hace)
 - 2026-11-11 20:14 · entró, no calificó el partido (rara vez lo hace)
+- 2026-11-12 00:13 · entró, quiso anotarse al fútbol de Del Viso pero la cuenta sigue suspendida; no calificó (rara vez lo hace)

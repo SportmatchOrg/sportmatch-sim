@@ -3212,3 +3212,27 @@
 2026-11-11T23:15:45.584Z bart.simpson leer-notificaciones 1
 2026-11-11T23:15:51.476Z davy.jones leer-notificaciones 2
 2026-11-11T23:15:53.351Z walle leer-notificaciones 1
+2026-11-12T03:12:37.604Z sorteo cmw6jtpuf041s01ohwoz1d103 faltaron=[] calificaran=[elrond,krusty,phoebe.buffay]
+2026-11-12T03:12:44.129Z sorteo cmw7z6usg04oz01ohxo61zq53 faltaron=[] calificaran=[bart.simpson]
+2026-11-12T03:13:34.219Z elrond leer-notificaciones 2
+2026-11-12T03:13:39.613Z elrond calificar cmw6jtpuf041s01ohwoz1d103 ratings=3 noShows=0
+2026-11-12T03:13:43.908Z elrond unirse cmwbjpq97063y01ohz714a3bk
+2026-11-12T03:13:47.166Z molly.weasley leer-notificaciones 1
+2026-11-12T03:13:52.610Z molly.weasley aceptar cmwc9gbf806mj01ohsp28scay montgomery.burns
+2026-11-12T03:13:54.459Z molly.weasley crear cmwcz4h3000wf01nx5ynmsbuc RUNNING 2026-11-15T12:00:00.000Z
+2026-11-12T03:13:57.795Z dory leer-notificaciones 1
+2026-11-12T03:13:59.097Z dory cancelar cmwc25ebl06ir01ohmv09xida
+2026-11-12T03:14:00.802Z phoebe.buffay leer-notificaciones 3
+2026-11-12T03:14:06.113Z phoebe.buffay calificar cmw6jtpuf041s01ohwoz1d103 ratings=3 noShows=0
+2026-11-12T03:14:11.263Z phoebe.buffay unirse cmwa4bjrz05iv01ohogla4n6z
+2026-11-12T03:14:14.423Z ned.flanders leer-notificaciones 2
+2026-11-12T03:14:18.924Z ned.flanders aceptar cmwbjsbgw067w01oh0asyhqe6 bellatrix.lestrange
+2026-11-12T03:14:20.648Z bart.simpson leer-notificaciones 2
+2026-11-12T03:14:25.273Z bart.simpson calificar cmw7z6usg04oz01ohxo61zq53 ratings=2 noShows=0
+2026-11-12T03:14:26.948Z krusty leer-notificaciones 4
+2026-11-12T03:14:31.854Z krusty calificar cmw6jtpuf041s01ohwoz1d103 ratings=3 noShows=0
+2026-11-12T03:14:33.956Z krusty unirse cmwbsappq06cl01ohjxhnp30m
+2026-11-12T03:14:37.044Z lois.lane leer-notificaciones 3
+2026-11-12T03:14:43.631Z lois.lane unirse cmwau018t05t301ohks9jjz29
+2026-11-12T03:14:51.089Z woody unirse cmwbsappq06cl01ohjxhnp30m
+2026-11-12T03:14:58.705Z timon unirse cmwa4bjrz05iv01ohogla4n6z
