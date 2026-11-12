@@ -3247,3 +3247,30 @@
 2026-11-12T19:12:15.646Z han.solo crear cmwdxcx9v05oc01tj2nstxf4g FUTBOL 2026-11-17T23:30:00.000Z
 2026-11-12T19:12:17.389Z indiana.jones crear cmwdxcyme05of01tjm1501i2c PADEL 2026-11-14T11:00:00.000Z
 2026-11-12T19:12:24.042Z moe.szyslak leer-notificaciones 2
+2026-11-12T23:10:34.482Z sorteo cmw6jo6rc009301qh9jyj6j78 faltaron=[carol.danvers] calificaran=[]
+2026-11-12T23:10:36.807Z sorteo cmw7hvwzi00jg01tjlx6lt9mz faltaron=[] calificaran=[cedric.diggory]
+2026-11-12T23:10:41.762Z sorteo cmw8xccm801jf01tj5j6dswf4 faltaron=[] calificaran=[minerva.mcgonagall,hector.barbossa]
+2026-11-12T23:10:47.711Z kylo.ren baja-tarde cmw9n150u01wx01tj0dy473wm
+2026-11-12T23:10:50.627Z trinity baja-tarde cmwa47pmd02gk01tje2getejx
+2026-11-12T23:11:19.953Z sam.gamyi leer-notificaciones 2
+2026-11-12T23:11:26.985Z sam.gamyi aceptar cmwbjn7s803im01tje1mhz8ek sherlock.holmes
+2026-11-12T23:11:32.701Z hector.barbossa calificar cmw8xccm801jf01tj5j6dswf4 ratings=1 noShows=0
+2026-11-12T23:11:34.287Z burro leer-notificaciones 1
+2026-11-12T23:11:40.275Z burro aceptar cmwcqhnw0051h01tjl36vxtmu gollum
+2026-11-12T23:11:42.031Z burro crear cmwe5wugn06ax01tj6zefiqdy TENIS 2026-11-17T23:00:00.000Z
+2026-11-12T23:11:43.605Z fiona leer-notificaciones 3
+2026-11-12T23:11:51.573Z fiona aceptar cmwbb2as5039d01tjamhv8dq5 kylo.ren
+2026-11-12T23:11:53.092Z fiona aceptar cmwbb2as5039d01tjamhv8dq5 phoebe.buffay
+2026-11-12T23:11:54.606Z fiona aceptar cmwbb2as5039d01tjamhv8dq5 nick.fury
+2026-11-12T23:11:56.523Z cedric.diggory leer-notificaciones 1
+2026-11-12T23:12:09.103Z cedric.diggory calificar cmw7hvwzi00jg01tjlx6lt9mz ratings=2 noShows=0
+2026-11-12T23:12:13.948Z cedric.diggory unirse c27hiofjhftw9ispa88bps49y
+2026-11-12T23:12:21.413Z minerva.mcgonagall calificar cmw8xccm801jf01tj5j6dswf4 ratings=1 noShows=0
+2026-11-12T23:12:23.611Z minerva.mcgonagall crear cmwe5xqhz06bw01tjy14a69di FUTBOL 2026-11-16T20:00:00.000Z
+2026-11-12T23:12:25.309Z wanda.maximoff leer-notificaciones 2
+2026-11-12T23:12:30.006Z wanda.maximoff aceptar cmw9egpk701sj01tjckik8ok1 cmvwl01hc00fi01nqthafo5h1
+2026-11-12T23:12:43.013Z boromir unirse cex6l8jee0k9nf7r1t9wy7pb2
+2026-11-12T23:12:45.357Z padme.amidala leer-notificaciones 1
+2026-11-12T23:12:53.244Z padme.amidala unirse cmwc9buvl045p01tjcon4atsf
+2026-11-12T23:13:02.120Z woody unirse cllb56zb0zblwrwrf1eu0cxgu
+2026-11-12T23:13:04.914Z lois.lane leer-notificaciones 2

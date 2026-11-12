@@ -11,3 +11,4 @@
 - 2026-11-08 12:14 · aceptó a Ginny en su pádel; no se unió a nada hoy
 - 2026-11-08 20:12 · aceptó a Qui-Gon en su pádel del jueves y pidió unirse al pádel del 24/11 en Norte Pádel (competitivo)
 - 2026-11-12 00:12 · miró partidos de pádel, hoy no se anotó a nada
+- 2026-11-12 20:12 · calificó el pádel (4 y 5) y pidió unirse al pádel ADVANCED del jue 19/11 en Norte Pádel (competitivo)

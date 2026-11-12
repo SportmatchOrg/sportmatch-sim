@@ -37,3 +37,4 @@
 - 2026-11-10 00:13 · leyó que Phoebe lo aceptó; calificó el fútbol (4, 5 y 4) y nada más
 - 2026-11-10 08:13 · pidió unirse al fútbol ADVANCED del jue 12/11 de Minerva en River Courts
 - 2026-11-12 00:11 · calificó el fútbol jugado (no había a quién puntuar); nada más
+- 2026-11-12 20:11 · calificó el fútbol de Minerva (4)

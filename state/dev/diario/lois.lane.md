@@ -91,3 +91,4 @@
 - 2026-11-12 04:11 · aceptó a Neville en su fútbol; solo miró
 - 2026-11-12 08:11 · aceptó a Arya en su fútbol; solo miró
 - 2026-11-12 16:12 · aceptó a Dory en su fútbol; solo miró
+- 2026-11-12 20:13 · leyó que Padmé pidió unirse y que Trinity se bajó; solo miró

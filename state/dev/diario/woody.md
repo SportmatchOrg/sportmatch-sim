@@ -4,3 +4,4 @@
 - 2026-11-06 12:12 · miró partidos, nada en CABA que le encaje; no se anotó
 - 2026-11-11 04:12 · se unió al fútbol del sábado en Parque Centenario (tardes libres)
 - 2026-11-12 00:12 · entró, leyó la notificación y no hizo nada más
+- 2026-11-12 20:13 · pidió unirse al pádel BEGINNER del vie 13/11 en Belgrano Pádel (estudiante)
