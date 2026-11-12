@@ -56,3 +56,4 @@
 - 2026-11-06 12:12 · leyó notificaciones; hoy solo miró
 - 2026-11-09 04:12 · pidió unirse al fútbol 5 del dom 15/11 en Complejo Belgrano (le gusta conocer gente)
 - 2026-11-10 16:13 · leyó notificaciones; espera respuesta del fútbol 5 del domingo, solo miró
+- 2026-11-12 12:12 · leyó notificaciones; sigue esperando el fútbol del domingo, solo miró

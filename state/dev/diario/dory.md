@@ -36,3 +36,4 @@
 - 2026-11-11 04:12 · aceptó a George en su fútbol; solo miró
 - 2026-11-11 12:11 · aceptó a Pippin en su fútbol del viernes; después solo miró
 - 2026-11-11 20:12 · aceptó a Lois Lane en su fútbol; solo miró
+- 2026-11-12 12:11 · aceptó a Bart en su fútbol y pidió unirse al fútbol del martes en Del Viso

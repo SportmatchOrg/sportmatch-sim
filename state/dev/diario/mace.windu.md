@@ -77,3 +77,4 @@
 - 2026-11-11 12:12 · armó un pádel INTERMEDIATE el vie 13/11 20:30 en Tigre Pádel Club (le gusta conocer gente)
 - 2026-11-11 16:12 · miró las notificaciones, nada nuevo
 - 2026-11-12 00:12 · entró, miró partidos y no se anotó a nada
+- 2026-11-12 12:11 · aceptó a Ginny en su pádel del viernes y pidió unirse al fútbol 5 del domingo en Nordelta

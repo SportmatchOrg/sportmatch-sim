@@ -8,3 +8,4 @@
 - 2026-11-03 00:13 · leyó notificaciones, sin novedades; solo miró
 - 2026-11-08 08:12 · pidió unirse al pádel del martes 10/11 en Pádel Point Pilar (nivel intermedio, cerca de casa)
 - 2026-11-10 08:12 · calificó el pádel (5 y 5); ya tiene el pádel del martes pedido, ninguno cerca le cerró
+- 2026-11-12 12:12 · leyó notificaciones; no encontró pádel cerca que le cierre, solo miró

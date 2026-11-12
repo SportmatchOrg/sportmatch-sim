@@ -24,3 +24,4 @@
 - 2026-11-09 00:13 · pidió unirse al básquet BEGINNER del mar 10/11 21:00 en Polideportivo CABA (principiante entusiasta)
 - 2026-11-11 20:13 · pidió unirse al básquet BEGINNER del jue 19/11 en Club Belgrano (principiante entusiasta)
 - 2026-11-12 00:12 · pidió unirse al básquet BEGINNER del 25/12 en Club Central
+- 2026-11-12 12:12 · leyó notificaciones, nada nuevo; solo miró

@@ -16,3 +16,4 @@
 - 2026-11-07 12:17 · calificó el running (4 y 5); ya tiene su fútbol del domingo, no armó otro
 - 2026-11-08 12:14 · calificó el fútbol (5, 4, 4); solo miró
 - 2026-11-12 08:12 · entró un rato entre semana, solo miró
+- 2026-11-12 12:12 · pidió unirse al running del sábado de Faramir en Parque Pilar (tiene la mañana libre)

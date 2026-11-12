@@ -8154,7 +8154,9 @@
       "montgomery.burns",
       "selina.kyle"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "bucky.barnes"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -8387,7 +8389,9 @@
     "jugadores": [
       "arya.stark"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "mace.windu"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -8598,11 +8602,10 @@
     "jugadores": [
       "george.weasley",
       "pippin.tuk",
-      "lois.lane"
-    ],
-    "pendientes": [
+      "lois.lane",
       "bart.simpson"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -8754,7 +8757,9 @@
     "jugadores": [
       "arya.stark"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "dory"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -8766,7 +8771,7 @@
     "cupo": 9,
     "creado": "2026-11-11T15:11:48.890Z",
     "pendientesHumanos": 0,
-    "anotados": 0
+    "anotados": 1
   },
   "cn5nnng3i32qqx2g8mpama7zs": {
     "jugadores": [],
@@ -8784,10 +8789,10 @@
     "cupo": 3
   },
   "cmwc9cwja046m01tjlnomjibn": {
-    "jugadores": [],
-    "pendientes": [
+    "jugadores": [
       "ginny.weasley"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -8803,11 +8808,10 @@
   },
   "cmwc9d69f046u01tj389x4050": {
     "jugadores": [
-      "eowyn"
-    ],
-    "pendientes": [
+      "eowyn",
       "milhouse.van.houten"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -8871,7 +8875,9 @@
   },
   "cmwcqi2yt051z01tjcbpard8j": {
     "jugadores": [],
-    "pendientes": [],
+    "pendientes": [
+      "padme.amidala"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -9041,6 +9047,22 @@
     "fecha": "2026-11-16T23:30:00.000Z",
     "deporte": "BASQUET",
     "cupo": 9,
-    "creado": "2026-11-12T11:11:35.930Z"
+    "creado": "2026-11-12T11:11:35.930Z",
+    "pendientesHumanos": 0,
+    "anotados": 0
+  },
+  "cmwdosjeq05ju01tj4iz4m3ye": {
+    "jugadores": [],
+    "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "faramir",
+    "fecha": "2026-11-15T13:00:00.000Z",
+    "deporte": "PADEL",
+    "cupo": 3,
+    "creado": "2026-11-12T15:12:27.639Z"
   }
 }

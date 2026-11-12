@@ -42,3 +42,4 @@
 - 2026-11-08 12:12 · calificó el running (5 a Montgomery) y armó un running el sáb 14/11 9:30 en Parque Pilar (para despejarse)
 - 2026-11-11 08:11 · aceptó a Montgomery; ya tenía el running del sábado armado, no organizó otro
 - 2026-11-11 20:11 · aceptó a Selina Kyle; ya tenía el running del sábado armado, no organizó otro
+- 2026-11-12 12:12 · armó un pádel INTERMEDIATE el dom 15/11 10:00 en Pádel Point Pilar (para despejarse)

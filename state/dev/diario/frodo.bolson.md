@@ -58,3 +58,4 @@
 - 2026-11-07 12:15 · calificó el básquet (4 y 5) y pidió unirse al básquet del domingo 20:00 de Timón en Campus Austral
 - 2026-11-11 12:12 · armó un básquet INTERMEDIATE el sáb 14/11 20:00 en Campus Austral (competitivo)
 - 2026-11-11 16:11 · aceptó a Éowyn en su básquet; solo miró
+- 2026-11-12 12:11 · aceptó a Milhouse en su básquet del sábado; no encontró nada para anotarse
