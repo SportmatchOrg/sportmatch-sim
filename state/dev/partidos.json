@@ -7952,11 +7952,10 @@
   },
   "cmw79az4i00f401tjeu6b1gr5": {
     "jugadores": [
-      "anakin.skywalker"
-    ],
-    "pendientes": [
+      "anakin.skywalker",
       "rey"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -8514,11 +8513,10 @@
       "phoebe.buffay",
       "wanda.maximoff",
       "bart.simpson",
-      "trinity"
-    ],
-    "pendientes": [
+      "trinity",
       "neville.longbottom"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -8745,7 +8743,9 @@
   },
   "cmwc9buvl045p01tjcon4atsf": {
     "jugadores": [],
-    "pendientes": [],
+    "pendientes": [
+      "arya.stark"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -8933,7 +8933,8 @@
     "organizador": "humano:c1zpo13mwpm75xruu7zug8c3m",
     "fecha": "2026-12-25T23:00:00.000Z",
     "deporte": "BASQUET",
-    "cupo": 9
+    "cupo": 9,
+    "anotados": 1
   },
   "corh60cdg0468u26yzreb2qj3": {
     "jugadores": [],
@@ -8948,6 +8949,67 @@
     "organizador": "humano:ce4wnm67m5uuhnwjjv9bsfl7d",
     "fecha": "2026-11-23T22:00:00.000Z",
     "deporte": "FUTBOL",
+    "cupo": 9,
+    "anotados": 1
+  },
+  "cbcd6rx0rak20e9hqkksqom1x": {
+    "jugadores": [],
+    "pendientes": [
+      "will.turner"
+    ],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "humano:cetc7qn1mlukelel74pqaxxfl",
+    "fecha": "2026-11-20T11:30:00.000Z",
+    "deporte": "FUTBOL",
     "cupo": 9
+  },
+  "csufei4qosvpeu0a214roxd8y": {
+    "jugadores": [],
+    "pendientes": [
+      "elrond"
+    ],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "humano:cu2ulsa8vtv84hx12ugag53q2",
+    "fecha": "2026-11-19T00:30:00.000Z",
+    "deporte": "FUTBOL",
+    "cupo": 13
+  },
+  "cft2vo9xzbw2j0efs76ecllz7": {
+    "jugadores": [],
+    "pendientes": [
+      "boromir"
+    ],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "humano:c5ab6c2hp9n84gzirulfhd2is",
+    "fecha": "2026-12-31T23:00:00.000Z",
+    "deporte": "TENIS",
+    "cupo": 3
+  },
+  "cmw03l0lc00y801plunfixpfk": {
+    "jugadores": [],
+    "pendientes": [
+      "peter.parker"
+    ],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "humano:cmw03fuyo00uz01plw3xebcqt",
+    "fecha": "2026-11-12T22:00:00.000Z",
+    "deporte": "FUTBOL",
+    "cupo": 10
   }
 }

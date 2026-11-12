@@ -1,3 +1,4 @@
 - 2026-10-29 04:11 · primera vez en la app
 - 2026-10-29 04:11 · miró básquet en Pilar, no se anotó a nada hoy
 - 2026-11-02 08:12 · se anotó al básquet del martes en Polideportivo Del Viso (cerca de Pilar)
+- 2026-11-12 04:12 · solo miró los partidos de básquet

@@ -7,3 +7,4 @@
 - 2026-10-26 16:12 · pidió unirse al fútbol del martes de George en Club Pilar (para despejarse)
 - 2026-10-26 20:13 · leyó que George lo aceptó en su fútbol; solo miró
 - 2026-11-09 04:12 · leyó notificaciones (cancelaron el fútbol de Dory); solo miró
+- 2026-11-12 04:12 · solo miró, nada que hacer hoy

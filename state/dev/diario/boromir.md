@@ -23,3 +23,4 @@
 - 2026-11-01 16:13 · pidió unirse al básquet del miércoles 21:00 de Frodo en Campus Austral
 - 2026-11-02 04:13 · leyó que Frodo lo aceptó; se anotó al básquet del vie 6/11 en Club Norte
 - 2026-11-08 20:13 · leyó que Frodo canceló y el recordatorio; solo miró
+- 2026-11-12 04:12 · pidió unirse al tenis del 31/12 en Club de Tenis Norte

@@ -33,3 +33,4 @@
 - 2026-11-11 08:13 · pidió unirse al fútbol del jue 12/11 en Complejo Defensores (se anota a todo)
 - 2026-11-11 16:12 · pidió unirse al fútbol del sáb 14/11 en Parque Centenario (CABA, se anota a todo)
 - 2026-11-12 00:12 · pidió unirse al fútbol del lunes 23/11 en Club Atlético Belgrano
+- 2026-11-12 04:12 · pidió unirse al fútbol del jue 12/11 en CABA (se anota a todo)
