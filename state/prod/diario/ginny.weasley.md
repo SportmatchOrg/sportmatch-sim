@@ -1,2 +1,3 @@
 - 2026-10-23 12:14 · entró y solo miró
 - 2026-10-23 16:15 · entró y solo miró
+- 2026-11-12 04:14 · pidió unirse al pádel INTERMEDIATE del jueves en Tigre Pádel Club

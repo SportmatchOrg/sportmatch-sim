@@ -7,3 +7,4 @@
 - 2026-11-05 00:17 · (corrección) el singles no se pudo crear (cupo mínimo 2); si salió el de dobles se ve arriba
 - 2026-11-05 00:17 · (corrección) armó dobles el viernes 21:00 en Club Pilar (cupo 3)
 - 2026-11-06 00:17 · canceló el dobles de tenis de hoy (no se llenó)
+- 2026-11-12 04:13 · armó un dobles de tenis INTERMEDIATE el sábado 14 a las 20:30 en Club Pilar

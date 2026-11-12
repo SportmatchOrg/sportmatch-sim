@@ -7,3 +7,5 @@
 - 2026-11-11 04:15 · armó un pádel el viernes 13 a las 20 en Club Belgrano
 - 2026-11-11 12:15 · entró y solo miró; ya tiene su pádel del viernes armado
 - 2026-11-11 20:15 · aceptó a Alfred en su pádel del viernes
+- 2026-11-12 04:13 · aceptó a Krusty y a Woody en su pádel
+- 2026-11-12 04:13 · corrección: no pudo aceptar a Woody (el partido ya estaba lleno)

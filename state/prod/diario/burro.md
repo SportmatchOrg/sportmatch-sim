@@ -39,3 +39,4 @@
 - 2026-11-09 20:14 · calificó el tenis/fútbol (5 y 4); nada de CABA para anotarse
 - 2026-11-10 12:14 · armó un fútbol INTERMEDIATE el viernes 13 a las 20 h en River Courts
 - 2026-11-11 00:16 · aceptó a Peter en su fútbol del viernes en River Courts
+- 2026-11-12 04:13 · aceptó a Lois en su fútbol del viernes

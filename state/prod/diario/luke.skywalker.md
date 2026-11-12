@@ -2,3 +2,4 @@
 - 2026-10-29 00:14 · pidió unirse al running del domingo en Parque Pilar
 - 2026-11-01 12:16 · calificó a Molly (5) y pidió unirse al básquet del jueves en Campus Austral
 - 2026-11-05 20:16 · calificó el básquet (Fiona, Timón y Kylo)
+- 2026-11-12 04:14 · entró y solo miró

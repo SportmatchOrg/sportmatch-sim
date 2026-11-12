@@ -95,3 +95,4 @@
 - 2026-11-10 04:14 · entró y solo miró
 - 2026-11-11 00:14 · calificó a Elrond y Fred y armó un fútbol 5 el viernes 13 a las 21:00 en Nordelta
 - 2026-11-11 04:14 · aceptó a Obi-Wan en su partido
+- 2026-11-12 04:13 · aceptó a Elrond en su partido

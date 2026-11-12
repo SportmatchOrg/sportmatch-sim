@@ -8213,7 +8213,9 @@
   },
   "cmwa4aa2105h401ohcn7vpepd": {
     "jugadores": [],
-    "pendientes": [],
+    "pendientes": [
+      "ginny.weasley"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -8274,12 +8276,11 @@
   "cmwa4bjrz05iv01ohogla4n6z": {
     "jugadores": [
       "morfeo",
-      "rex"
-    ],
-    "pendientes": [
+      "rex",
       "phoebe.buffay",
       "timon"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -8366,11 +8367,10 @@
   },
   "cmwau018t05t301ohks9jjz29": {
     "jugadores": [
-      "peter.parker"
-    ],
-    "pendientes": [
+      "peter.parker",
       "lois.lane"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -8405,11 +8405,10 @@
   },
   "cmwbjpq97063y01ohz714a3bk": {
     "jugadores": [
-      "obiwan.kenobi"
-    ],
-    "pendientes": [
+      "obiwan.kenobi",
       "elrond"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -8456,7 +8455,7 @@
     "cupo": 9,
     "creado": "2026-11-11T03:16:46.863Z",
     "pendientesHumanos": 0,
-    "anotados": 1
+    "anotados": 2
   },
   "cmwbsao6s06ci01oh7o4892t0": {
     "jugadores": [],
@@ -8476,10 +8475,10 @@
   },
   "cmwbsappq06cl01ohjxhnp30m": {
     "jugadores": [
-      "alfred.pennyworth"
+      "alfred.pennyworth",
+      "krusty"
     ],
     "pendientes": [
-      "krusty",
       "woody"
     ],
     "bajasSorteadas": false,
@@ -8549,7 +8548,7 @@
     "cupo": 5,
     "creado": "2026-11-11T15:15:17.001Z",
     "pendientesHumanos": 0,
-    "anotados": 0
+    "anotados": 1
   },
   "cup1kti3nnxlv99ytaxrwu17q": {
     "jugadores": [],
@@ -8579,6 +8578,22 @@
     "fecha": "2026-11-15T12:00:00.000Z",
     "deporte": "RUNNING",
     "cupo": 5,
-    "creado": "2026-11-12T03:13:54.454Z"
+    "creado": "2026-11-12T03:13:54.454Z",
+    "pendientesHumanos": 0,
+    "anotados": 0
+  },
+  "cmwd7p03e011c01nxj2ay63y6": {
+    "jugadores": [],
+    "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "jessie",
+    "fecha": "2026-11-14T23:30:00.000Z",
+    "deporte": "TENIS",
+    "cupo": 3,
+    "creado": "2026-11-12T07:13:49.180Z"
   }
 }
