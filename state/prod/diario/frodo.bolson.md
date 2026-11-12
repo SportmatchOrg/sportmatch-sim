@@ -29,3 +29,4 @@
 - 2026-11-05 20:15 · aceptó a Bart en su básquet del viernes
 - 2026-11-07 04:12 · aceptó a Bart en su básquet del domingo
 - 2026-11-07 12:20 · aceptó a Kylo en su básquet del domingo
+- 2026-11-12 16:14 · armó un fútbol el martes 17 en Nordelta y pidió unirse al de Mace del viernes

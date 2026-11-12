@@ -16,3 +16,4 @@
 - 2026-11-11 08:14 · aceptó a Peter en su fútbol del domingo en River Courts; solo miró
 - 2026-11-12 00:14 · aceptó a Bellatrix en su fútbol del domingo en River Courts
 - 2026-11-12 04:13 · aceptó a Phoebe y a Timón en su partido
+- 2026-11-12 16:14 · aceptó a George en su fútbol del domingo en River Courts

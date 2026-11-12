@@ -11,3 +11,4 @@
 - 2026-11-12 04:13 · corrección: no pudo aceptar a Woody (el partido ya estaba lleno)
 - 2026-11-12 08:14 · armó un pádel el domingo 15 a las 18:00 en Club Belgrano; no pudo aceptar a Woody (el otro partido ya estaba lleno)
 - 2026-11-12 12:14 · intentó aceptar a Woody pero el partido ya estaba lleno; después solo miró
+- 2026-11-12 16:14 · aceptó a Bellatrix en su pádel del domingo; no pudo aceptar a Woody (partido lleno)

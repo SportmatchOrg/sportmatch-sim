@@ -97,3 +97,4 @@
 - 2026-11-11 04:14 · aceptó a Obi-Wan en su partido
 - 2026-11-12 04:13 · aceptó a Elrond en su partido
 - 2026-11-12 08:14 · aceptó a Ginny en su pádel del jueves
+- 2026-11-12 16:14 · aceptó a Lois en su fútbol de Nordelta

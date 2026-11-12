@@ -8259,7 +8259,9 @@
       "poe.dameron",
       "bart.simpson"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "john.wick"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -8280,7 +8282,9 @@
       "phoebe.buffay",
       "timon"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "davy.jones"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -8406,10 +8410,11 @@
   "cmwbjpq97063y01ohz714a3bk": {
     "jugadores": [
       "obiwan.kenobi",
-      "elrond"
+      "elrond",
+      "lois.lane"
     ],
     "pendientes": [
-      "lois.lane"
+      "frodo.bolson"
     ],
     "bajasSorteadas": false,
     "asistencia": null,
@@ -8443,11 +8448,10 @@
   "cmwbjsbgw067w01oh0asyhqe6": {
     "jugadores": [
       "peter.parker",
-      "bellatrix.lestrange"
-    ],
-    "pendientes": [
+      "bellatrix.lestrange",
       "george.weasley"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -8603,10 +8607,10 @@
     "anotados": 0
   },
   "cmwdga019014101nxc6frsfwx": {
-    "jugadores": [],
-    "pendientes": [
+    "jugadores": [
       "bellatrix.lestrange"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -8651,5 +8655,33 @@
     "creado": "2026-11-12T11:14:34.582Z",
     "pendientesHumanos": 0,
     "anotados": 0
+  },
+  "cmwdxfy5201cg01nx1i2hnya2": {
+    "jugadores": [],
+    "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "finn",
+    "fecha": "2026-11-15T13:00:00.000Z",
+    "deporte": "FUTBOL",
+    "cupo": 9,
+    "creado": "2026-11-12T19:14:36.734Z"
+  },
+  "cmwdxfztp01cj01nx6430woee": {
+    "jugadores": [],
+    "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "frodo.bolson",
+    "fecha": "2026-11-17T23:30:00.000Z",
+    "deporte": "FUTBOL",
+    "cupo": 9,
+    "creado": "2026-11-12T19:14:38.915Z"
   }
 }

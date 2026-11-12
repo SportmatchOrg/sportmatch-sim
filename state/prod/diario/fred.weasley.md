@@ -58,3 +58,4 @@
 - 2026-11-12 04:13 · entró, leyó y no calificó el partido (rara vez lo hace)
 - 2026-11-12 08:13 · entró, no calificó el partido (rara vez lo hace); no intentó anotarse, sigue con la cuenta suspendida
 - 2026-11-12 12:14 · entró, no calificó el partido (rara vez lo hace); sigue con la cuenta suspendida, no intentó anotarse
+- 2026-11-12 16:14 · entró, no calificó el partido (rara vez lo hace); sigue suspendido, no pudo anotarse
