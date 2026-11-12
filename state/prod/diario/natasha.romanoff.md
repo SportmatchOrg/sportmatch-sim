@@ -10,3 +10,4 @@
 - 2026-10-26 00:14 · aceptó a Héctor, rechazó a Padmé y canceló el fútbol porque no se llenaba
 - 2026-11-01 08:14 · entró y solo miró
 - 2026-11-06 20:15 · entró y solo miró
+- 2026-11-12 08:14 · armó un fútbol ADVANCED el sábado 14 a las 21:00 en Club Pilar

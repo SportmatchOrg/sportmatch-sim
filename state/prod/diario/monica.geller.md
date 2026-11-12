@@ -9,3 +9,4 @@
 - 2026-11-11 20:15 · aceptó a Alfred en su pádel del viernes
 - 2026-11-12 04:13 · aceptó a Krusty y a Woody en su pádel
 - 2026-11-12 04:13 · corrección: no pudo aceptar a Woody (el partido ya estaba lleno)
+- 2026-11-12 08:14 · armó un pádel el domingo 15 a las 18:00 en Club Belgrano; no pudo aceptar a Woody (el otro partido ya estaba lleno)

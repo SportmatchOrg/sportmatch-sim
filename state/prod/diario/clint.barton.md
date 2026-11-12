@@ -1,0 +1,1 @@
+- 2026-11-12 08:14 · armó un pádel BEGINNER el domingo 15 a las 10:00 en Pádel Point Pilar (vuelve de a poco)

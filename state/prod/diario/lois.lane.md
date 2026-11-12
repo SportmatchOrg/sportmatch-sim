@@ -114,3 +114,4 @@
 - 2026-11-10 04:14 · aceptó a Bart en su fútbol y armó uno nuevo el jueves 12 a las 20:30 en Fútbol 5 Nordelta
 - 2026-11-11 00:15 · calificó el fútbol (5, 4, 4) y pidió unirse al fútbol del viernes de Dory en Del Viso
 - 2026-11-12 00:14 · pidió unirse al fútbol del viernes en River Courts
+- 2026-11-12 08:14 · entró, leyó que Burro la aceptó y solo miró

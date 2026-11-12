@@ -8212,10 +8212,10 @@
     "cancelar": false
   },
   "cmwa4aa2105h401ohcn7vpepd": {
-    "jugadores": [],
-    "pendientes": [
+    "jugadores": [
       "ginny.weasley"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -8292,7 +8292,7 @@
     "cupo": 7,
     "creado": "2026-11-10T03:16:04.096Z",
     "pendientesHumanos": 0,
-    "anotados": 2
+    "anotados": 4
   },
   "cmwactde305lr01oharoujxvo": {
     "jugadores": [],
@@ -8382,7 +8382,7 @@
     "cupo": 9,
     "creado": "2026-11-10T15:14:56.853Z",
     "pendientesHumanos": 0,
-    "anotados": 1
+    "anotados": 2
   },
   "cmwb2l5ru05x301ohgixit4it": {
     "jugadores": [
@@ -8420,7 +8420,7 @@
     "cupo": 9,
     "creado": "2026-11-11T03:14:46.081Z",
     "pendientesHumanos": 0,
-    "anotados": 1
+    "anotados": 2
   },
   "cmwbjr7kn066701ohstvmotbx": {
     "jugadores": [],
@@ -8492,7 +8492,7 @@
     "cupo": 3,
     "creado": "2026-11-11T07:15:02.119Z",
     "pendientesHumanos": 0,
-    "anotados": 1
+    "anotados": 2
   },
   "cmwc25ebl06ir01ohmv09xida": {
     "jugadores": [
@@ -8594,6 +8594,50 @@
     "fecha": "2026-11-14T23:30:00.000Z",
     "deporte": "TENIS",
     "cupo": 3,
-    "creado": "2026-11-12T07:13:49.180Z"
+    "creado": "2026-11-12T07:13:49.180Z",
+    "pendientesHumanos": 0,
+    "anotados": 0
+  },
+  "cmwdga019014101nxc6frsfwx": {
+    "jugadores": [],
+    "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "monica.geller",
+    "fecha": "2026-11-15T21:00:00.000Z",
+    "deporte": "PADEL",
+    "cupo": 3,
+    "creado": "2026-11-12T11:14:05.781Z"
+  },
+  "cmwdgaklr014e01nxbnvx353t": {
+    "jugadores": [],
+    "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "natasha.romanoff",
+    "fecha": "2026-11-15T00:00:00.000Z",
+    "deporte": "FUTBOL",
+    "cupo": 9,
+    "creado": "2026-11-12T11:14:32.442Z"
+  },
+  "cmwdgam8a014h01nx8a8sa0ek": {
+    "jugadores": [],
+    "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "clint.barton",
+    "fecha": "2026-11-15T13:00:00.000Z",
+    "deporte": "PADEL",
+    "cupo": 3,
+    "creado": "2026-11-12T11:14:34.582Z"
   }
 }

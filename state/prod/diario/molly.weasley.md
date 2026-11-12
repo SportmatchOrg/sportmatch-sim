@@ -42,3 +42,4 @@
 - 2026-11-08 20:15 · entró, leyó notificaciones y solo miró
 - 2026-11-11 12:15 · armó un running ADVANCED el sábado 14 a las 9 en Parque Pilar (exigente con el nivel)
 - 2026-11-12 00:13 · aceptó la solicitud de Montgomery y armó otro running ADVANCED el domingo 15 a las 9 en Campus Austral
+- 2026-11-12 08:14 · entró y miró running; nada a su nivel ni cerca de la zona, no se anotó
