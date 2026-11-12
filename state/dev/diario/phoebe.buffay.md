@@ -47,3 +47,4 @@
 - 2026-11-10 00:13 · leyó el recordatorio y calificó el fútbol (4, 5 y 3); nada más
 - 2026-11-10 12:12 · pidió unirse al fútbol del jue 12/11 en Club Pilar (competitiva)
 - 2026-11-10 20:12 · calificó el fútbol y se anotó al del domingo 15/11 en Del Viso (competitiva, va a todo)
+- 2026-11-12 16:12 · pidió unirse al básquet del sáb 14/11 en Del Viso (competitiva, va a todo)

@@ -5,3 +5,4 @@
 - 2026-11-10 08:12 · entró y solo miró; ya tiene el tenis del sábado
 - 2026-11-10 16:12 · entró, leyó notificaciones y solo miró; ya tiene su tenis del sábado
 - 2026-11-11 20:12 · entró, leyó notificaciones y solo miró; ya tiene su tenis del sábado
+- 2026-11-12 16:12 · pidió unirse al tenis del sáb 14/11 en River Courts (madruga, el horario es lo más temprano que hay)

@@ -1,3 +1,4 @@
 - 2026-10-25 08:12 · primera vez: miró la app, no se anotó a nada
 - 2026-11-03 16:14 · pidió unirse al tenis dobles del viernes de Burro en River Courts (le gusta conocer gente)
 - 2026-11-10 16:13 · entró, miró un rato y no se anotó a nada
+- 2026-11-12 16:12 · entró, miró partidos y no se anotó a nada

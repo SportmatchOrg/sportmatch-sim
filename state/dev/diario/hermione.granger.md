@@ -86,3 +86,4 @@
 - 2026-11-10 08:12 · entró, no tenía a quién calificar; ya tiene tenis y fútbol anotados, solo miró
 - 2026-11-10 16:12 · aceptó a Draco Malfoy en su tenis del sábado y rechazó a Loki
 - 2026-11-12 12:12 · leyó notificaciones, vio la solicitud de Mace; solo miró
+- 2026-11-12 16:12 · aceptó a Mace Windu en su partido; solo miró
