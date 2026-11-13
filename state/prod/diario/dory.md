@@ -78,3 +78,4 @@
 - 2026-11-12 20:15 · aceptó a John Wick; el fútbol del viernes se llenó y Lionel quedó afuera
 - 2026-11-13 00:15 · aceptó la solicitud de Lionel y armó un fútbol el miércoles 18 a la noche en Club Pilar
 - 2026-11-13 00:15 · (aclaración: el partido estaba lleno y no pudo aceptar a Lionel)
+- 2026-11-13 04:14 · quiso aceptar a Lionel pero el partido ya estaba lleno

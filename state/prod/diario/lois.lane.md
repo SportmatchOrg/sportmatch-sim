@@ -117,3 +117,4 @@
 - 2026-11-12 08:14 · entró, leyó que Burro la aceptó y solo miró
 - 2026-11-12 12:14 · pidió unirse al fútbol del viernes 13 en Fútbol 5 Nordelta (de Mace)
 - 2026-11-13 00:15 · calificó el fútbol del jueves (4, 5 y 4); solo miró
+- 2026-11-13 04:14 · armó un fútbol el martes 17 a las 20:30 en Club Pilar

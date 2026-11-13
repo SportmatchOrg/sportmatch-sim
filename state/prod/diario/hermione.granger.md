@@ -77,3 +77,4 @@
 - 2026-11-10 08:14 · entró, no había a quién calificar; solo miró
 - 2026-11-10 16:14 · aceptó a Scott en su fútbol y se unió al fútbol del viernes en Del Viso
 - 2026-11-12 20:14 · aceptó a nacho y Lionel en su fútbol del sábado en Del Viso
+- 2026-11-13 04:14 · aceptó a Pippin en su partido

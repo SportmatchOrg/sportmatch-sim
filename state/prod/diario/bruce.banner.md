@@ -8,3 +8,4 @@
 - 2026-11-06 12:14 · aceptó a Bellatrix en su fútbol y pidió sumarse al básquet del sábado en Campus Austral
 - 2026-11-07 12:21 · calificó dos fútbol (2-3, uno con 4); nada de CABA para anotarse
 - 2026-11-07 20:15 · calificó el básquet con notas duras (3 y 2); ningún partido le cerraba en CABA
+- 2026-11-13 04:15 · pidió unirse al fútbol del domingo de Ned en River Courts

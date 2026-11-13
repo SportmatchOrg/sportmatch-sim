@@ -24,3 +24,4 @@
 - 2026-11-11 00:16 · calificó el básquet (4, 5, 5) y pidió unirse al básquet del viernes de Neo en Campus Austral
 - 2026-11-12 00:14 · calificó el fútbol (3 a 5) y pidió unirse al básquet del viernes en Club Belgrano
 - 2026-11-13 00:16 · calificó a George (4), Krusty (5) y Pippin (3) y pidió unirse al fútbol del viernes de Mace en Nordelta
+- 2026-11-13 04:15 · pidió unirse al fútbol del martes 17 de Lois en Club Pilar

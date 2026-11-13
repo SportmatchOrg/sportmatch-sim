@@ -80,3 +80,4 @@
 - 2026-11-10 00:15 · aceptó a Krusty en su pádel
 - 2026-11-11 12:14 · aceptó a Cedric en su pádel
 - 2026-11-12 08:14 · entró y solo miró
+- 2026-11-13 04:15 · entró, leyó notificaciones y solo miró

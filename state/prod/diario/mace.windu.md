@@ -100,3 +100,4 @@
 - 2026-11-12 16:14 · aceptó a Lois en su fútbol de Nordelta
 - 2026-11-12 20:14 · aceptó a Frodo en su fútbol de Nordelta
 - 2026-11-13 00:15 · armó un fútbol el lunes 16 a la noche en Nordelta (le gusta sumar gente nueva)
+- 2026-11-13 04:14 · aceptó a Phoebe, Peter y Rocket en su fútbol (le gusta conocer gente nueva)

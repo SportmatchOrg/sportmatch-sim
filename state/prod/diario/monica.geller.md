@@ -15,3 +15,4 @@
 - 2026-11-12 20:15 · no pudo aceptar a Woody otra vez: el pádel del domingo está lleno
 - 2026-11-13 00:15 · aceptó a Woody en su partido; solo miró
 - 2026-11-13 00:15 · (aclaración: el partido estaba lleno y no pudo aceptar a Woody)
+- 2026-11-13 04:15 · no pudo aceptar a Woody (pádel lleno) y pidió unirse al fútbol del viernes de Burro en River Courts
