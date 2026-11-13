@@ -27,3 +27,4 @@
 - 2026-11-08 12:12 · calificó el running (5 a Faramir); no encontró running en Pilar que le cierre, no se anotó
 - 2026-11-09 20:13 · pidió unirse al running del dom 15/11 9:00 en Parque Pilar (fin de semana a la mañana)
 - 2026-11-11 04:12 · se anotó al running del sábado a la mañana en Parque Pilar
+- 2026-11-13 04:12 · leyó que lo aceptaron en el running; hoy no encontró otro, solo miró

@@ -135,3 +135,4 @@
 - 2026-11-11 20:12 · armó un fútbol 9 ADVANCED el dom 15/11 20:30 en Club Pilar (exigente con el nivel)
 - 2026-11-12 00:11 · canceló el fútbol en Pilar porque no se llenaba (0/9)
 - 2026-11-12 16:12 · aceptó a Padmé en su fútbol; solo miró
+- 2026-11-13 04:11 · aceptó a Phoebe en su fútbol y armó un fútbol 9 ADVANCED el sáb 14/11 20:30 en Del Viso

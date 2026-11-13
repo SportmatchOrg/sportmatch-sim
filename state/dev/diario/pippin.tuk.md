@@ -62,3 +62,4 @@
 - 2026-11-07 12:13 · calificó duro dos partidos de fútbol (2 y 3); solo leyó notificaciones
 - 2026-11-09 08:12 · entró, leyó notificaciones y solo miró
 - 2026-11-11 08:13 · pidió unirse al fútbol del vie 13/11 en Del Viso de Dory (vuelve de a poco)
+- 2026-11-13 04:12 · leyó el recordatorio y pidió unirse al fútbol del dom 15/11 en Del Viso (de a poco)

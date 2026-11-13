@@ -12,3 +12,4 @@
 - 2026-11-08 20:12 · aceptó a Qui-Gon en su pádel del jueves y pidió unirse al pádel del 24/11 en Norte Pádel (competitivo)
 - 2026-11-12 00:12 · miró partidos de pádel, hoy no se anotó a nada
 - 2026-11-12 20:12 · calificó el pádel (4 y 5) y pidió unirse al pádel ADVANCED del jue 19/11 en Norte Pádel (competitivo)
+- 2026-11-13 04:12 · armó un pádel ADVANCED del lun 16/11 20:00 en Tigre Pádel Club y se anotó al pádel del sáb 14/11 en Tigre (competitivo)

@@ -9,3 +9,4 @@
 - 2026-11-06 04:13 · leyó notificaciones; nada temprano que le encaje, hoy solo miró
 - 2026-11-09 00:12 · pidió unirse al básquet del mié 11/11 7:30 en Del Viso (madruga)
 - 2026-11-12 12:12 · leyó notificaciones (lo aceptaron en un partido); solo miró
+- 2026-11-13 04:12 · pidió unirse al pádel del sáb 14/11 8:00 en Pádel Point Pilar (madruga)
