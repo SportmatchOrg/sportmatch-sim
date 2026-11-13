@@ -95,3 +95,4 @@
 - 2026-11-13 00:11 · aceptó a Padmé en su fútbol; solo eso hoy
 - 2026-11-13 04:11 · aceptó a George en su fútbol; solo eso hoy
 - 2026-11-13 08:13 · armó un fútbol INTERMEDIATE el mar 17/11 20:00 en Club Pilar (puntual) y aceptó a Simba
+- 2026-11-13 12:11 · aceptó a Rocket en su fútbol y pidió unirse al fútbol del domingo en Del Viso

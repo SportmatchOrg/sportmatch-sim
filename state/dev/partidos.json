@@ -8406,7 +8406,7 @@
     "cupo": 3,
     "creado": "2026-11-09T11:12:46.558Z",
     "pendientesHumanos": 0,
-    "anotados": 0
+    "anotados": 1
   },
   "cmw9efs1801rk01tjvf3dvm5y": {
     "jugadores": [
@@ -8436,7 +8436,9 @@
       "bart.simpson",
       "pippin.tuk"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "lois.lane"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -8448,7 +8450,7 @@
     "cupo": 9,
     "creado": "2026-11-09T15:12:14.857Z",
     "pendientesHumanos": 0,
-    "anotados": 6
+    "anotados": 7
   },
   "cy93fl5e7qm5aspo82avkt1e8": {
     "jugadores": [],
@@ -8714,11 +8716,10 @@
       "davy.jones",
       "kylo.ren",
       "phoebe.buffay",
-      "nick.fury"
-    ],
-    "pendientes": [
+      "nick.fury",
       "bart.simpson"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -8838,11 +8839,10 @@
       "dory",
       "padme.amidala",
       "george.weasley",
-      "simba"
-    ],
-    "pendientes": [
+      "simba",
       "rocket"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -8854,7 +8854,7 @@
     "cupo": 9,
     "creado": "2026-11-11T15:11:48.890Z",
     "pendientesHumanos": 0,
-    "anotados": 4
+    "anotados": 5
   },
   "cn5nnng3i32qqx2g8mpama7zs": {
     "jugadores": [],
@@ -8888,12 +8888,13 @@
     "cupo": 3,
     "creado": "2026-11-11T15:12:37.703Z",
     "pendientesHumanos": 0,
-    "anotados": 1
+    "anotados": 2
   },
   "cmwc9d69f046u01tj389x4050": {
     "jugadores": [
       "eowyn",
-      "milhouse.van.houten"
+      "milhouse.van.houten",
+      "phoebe.buffay"
     ],
     "pendientes": [],
     "bajasSorteadas": false,
@@ -8912,7 +8913,8 @@
   "cmwc23a6j03yf01tjnwuc6lat": {
     "jugadores": [],
     "pendientes": [
-      "peter.parker"
+      "peter.parker",
+      "senor.cara.de.papa"
     ],
     "bajasSorteadas": false,
     "asistencia": null,
@@ -9111,11 +9113,10 @@
     "jugadores": [
       "padme.amidala",
       "jesse.pinkman",
-      "phoebe.buffay"
-    ],
-    "pendientes": [
+      "phoebe.buffay",
       "gato.con.botas"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -9127,11 +9128,13 @@
     "cupo": 9,
     "creado": "2026-11-12T11:11:35.930Z",
     "pendientesHumanos": 0,
-    "anotados": 2
+    "anotados": 3
   },
   "cmwdosjeq05ju01tj4iz4m3ye": {
     "jugadores": [],
-    "pendientes": [],
+    "pendientes": [
+      "kylo.ren"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -9177,7 +9180,7 @@
     "cupo": 3,
     "creado": "2026-11-12T19:12:17.387Z",
     "pendientesHumanos": 0,
-    "anotados": 0,
+    "anotados": 1,
     "cancelSorteado": true,
     "cancelar": false
   },
@@ -9261,7 +9264,7 @@
     "cupo": 9,
     "creado": "2026-11-13T07:11:20.502Z",
     "pendientesHumanos": 0,
-    "anotados": 0
+    "anotados": 1
   },
   "cmwen33w506pv01tjzppvbwt3": {
     "jugadores": [],
@@ -9277,7 +9280,9 @@
     "cupo": 9,
     "creado": "2026-11-13T07:12:27.730Z",
     "pendientesHumanos": 0,
-    "anotados": 0
+    "anotados": 0,
+    "cancelSorteado": true,
+    "cancelar": false
   },
   "cmwen3by606q001tjxdxxtinl": {
     "jugadores": [],
@@ -9297,7 +9302,9 @@
   },
   "cmwevmztz06tg01tjnkvt8mob": {
     "jugadores": [],
-    "pendientes": [],
+    "pendientes": [
+      "bart.simpson"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -9307,7 +9314,9 @@
     "fecha": "2026-11-17T23:00:00.000Z",
     "deporte": "FUTBOL",
     "cupo": 9,
-    "creado": "2026-11-13T11:11:52.462Z"
+    "creado": "2026-11-13T11:11:52.462Z",
+    "pendientesHumanos": 0,
+    "anotados": 0
   },
   "cmwevo6cj06uu01tjyjf87vpc": {
     "jugadores": [],
@@ -9321,6 +9330,22 @@
     "fecha": "2026-11-19T23:00:00.000Z",
     "deporte": "FUTBOL",
     "cupo": 9,
-    "creado": "2026-11-13T11:12:47.580Z"
+    "creado": "2026-11-13T11:12:47.580Z",
+    "pendientesHumanos": 0,
+    "anotados": 0
+  },
+  "cmwf48p7k071o01tjmeyzmejq": {
+    "jugadores": [],
+    "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "frodo.bolson",
+    "fecha": "2026-11-19T00:00:00.000Z",
+    "deporte": "FUTBOL",
+    "cupo": 9,
+    "creado": "2026-11-13T15:12:42.094Z"
   }
 }

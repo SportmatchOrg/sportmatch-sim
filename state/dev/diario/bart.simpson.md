@@ -25,3 +25,4 @@
 - 2026-11-13 00:13 · calificó el básquet y el fútbol; tiene solicitudes pendientes en su básquet, hoy solo eso
 - 2026-11-13 04:11 · aceptó a Padmé y a Jesse en su básquet y se anotó al fútbol ADVANCED del sábado de Steve (competitivo)
 - 2026-11-13 08:13 · aceptó a Phoebe en su básquet y pidió unirse al básquet BEGINNER del sábado en Del Viso (se anota a todo)
+- 2026-11-13 12:11 · aceptó a Gato con Botas en su básquet y se anotó al fútbol de Lois del martes en Club Pilar (se anota a todo)

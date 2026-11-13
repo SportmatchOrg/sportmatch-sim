@@ -109,3 +109,4 @@
 - 2026-11-10 20:11 · calificó el partido que jugó; ya tiene varios anotados, no se unió a nada más
 - 2026-11-12 04:12 · pidió unirse al fútbol del mié 18/11 en Club Atlético Norte (a la noche, para despejarse)
 - 2026-11-13 00:11 · canceló el fútbol porque no se llenó (1/9)
+- 2026-11-13 12:12 · entró a mirar, sin novedades; solo miró

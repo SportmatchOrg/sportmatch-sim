@@ -13,3 +13,4 @@
 - 2026-11-10 04:12 · entró, solo miró
 - 2026-11-11 00:13 · pidió unirse al básquet del jue 12/11 de Jesse en Del Viso (sociable, se anota a todo)
 - 2026-11-12 16:12 · pidió unirse al básquet del sáb 14/11 en Del Viso (sociable)
+- 2026-11-13 12:12 · pidió unirse al pádel del dom 15/11 en Pádel Point Pilar (sociable, quiere conocer gente)

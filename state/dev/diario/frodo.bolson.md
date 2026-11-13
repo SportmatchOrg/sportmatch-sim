@@ -59,3 +59,4 @@
 - 2026-11-11 12:12 · armó un básquet INTERMEDIATE el sáb 14/11 20:00 en Campus Austral (competitivo)
 - 2026-11-11 16:11 · aceptó a Éowyn en su básquet; solo miró
 - 2026-11-12 12:11 · aceptó a Milhouse en su básquet del sábado; no encontró nada para anotarse
+- 2026-11-13 12:12 · armó un fútbol INTERMEDIATE el mié 18/11 21:00 en Fútbol 5 Nordelta y aceptó a Phoebe en su básquet

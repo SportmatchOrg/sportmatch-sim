@@ -11,3 +11,4 @@
 - 2026-11-03 08:12 · aceptó a Trinity en su fútbol y pidió unirse al fútbol del martes en Club Pilar
 - 2026-11-04 00:13 · calificó el fútbol (George 5, Phoebe 4, Lois 5) y pidió unirse al fútbol del jueves 5/11 de Dory en Club Pilar
 - 2026-11-07 12:16 · calificó el fútbol (5, 4 y 4) y pidió unirse al fútbol del domingo 10:00 de Wanda en Club Pilar (juega con amigos)
+- 2026-11-13 12:12 · leyó que Wanda lo aceptó en su fútbol del domingo; solo miró

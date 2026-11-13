@@ -8,3 +8,4 @@
 - 2026-10-08 12:17 · aceptó a Milhouse Van Houten en su basquet del jue 08/10 20:00
 - 2026-10-13 04:12 · pidió unirse al tenis del domingo 18/10 en Club Pilar (le queda cerca, aunque no es tan temprano)
 - 2026-10-16 12:11 · entró un rato a mirar, no se anotó
+- 2026-11-13 12:12 · entró a mirar; los partidos son de noche y ella prefiere antes de las 9, no se anotó
