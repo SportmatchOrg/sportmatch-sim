@@ -7,3 +7,4 @@
 - 2026-10-23 12:14 · entró a mirar partidos, no se anotó
 - 2026-10-26 08:14 · entró a mirar partidos; no se anotó a nada
 - 2026-11-06 04:16 · curioseó los fútbol, no se anotó
+- 2026-11-13 08:15 · curioseó los fútbol de CABA, sociable pero no se anotó

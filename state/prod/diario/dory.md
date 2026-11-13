@@ -79,3 +79,4 @@
 - 2026-11-13 00:15 · aceptó la solicitud de Lionel y armó un fútbol el miércoles 18 a la noche en Club Pilar
 - 2026-11-13 00:15 · (aclaración: el partido estaba lleno y no pudo aceptar a Lionel)
 - 2026-11-13 04:14 · quiso aceptar a Lionel pero el partido ya estaba lleno
+- 2026-11-13 08:14 · aceptó a Krusty y a Lois en su fútbol del miércoles; lo de Lionel sigue sin lugar

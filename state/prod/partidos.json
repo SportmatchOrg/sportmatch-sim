@@ -8047,7 +8047,9 @@
     "calificaran": [
       "krusty"
     ],
-    "calificaron": [],
+    "calificaron": [
+      "krusty"
+    ],
     "cancelado": false,
     "organizador": "krusty",
     "fecha": "2026-11-12T23:30:00.000Z",
@@ -8099,7 +8101,7 @@
     "cupo": 9,
     "creado": "2026-11-08T19:14:04.926Z",
     "pendientesHumanos": 0,
-    "anotados": 6
+    "anotados": 7
   },
   "cmw87ow8b04sz01oh96cceu57": {
     "jugadores": [
@@ -8278,7 +8280,9 @@
     "calificaran": [
       "burro"
     ],
-    "calificaron": [],
+    "calificaron": [
+      "burro"
+    ],
     "cancelado": false,
     "organizador": "burro",
     "fecha": "2026-11-12T23:00:00.000Z",
@@ -8303,7 +8307,9 @@
     "calificaran": [
       "mace.windu"
     ],
-    "calificaron": [],
+    "calificaron": [
+      "mace.windu"
+    ],
     "cancelado": false,
     "organizador": "mace.windu",
     "fecha": "2026-11-12T23:00:00.000Z",
@@ -8390,7 +8396,9 @@
     "calificaran": [
       "lois.lane"
     ],
-    "calificaron": [],
+    "calificaron": [
+      "lois.lane"
+    ],
     "cancelado": false,
     "organizador": "lois.lane",
     "fecha": "2026-11-12T23:30:00.000Z",
@@ -8464,11 +8472,10 @@
       "bellatrix.lestrange",
       "chewbacca",
       "george.weasley",
-      "krusty"
-    ],
-    "pendientes": [
+      "krusty",
       "monica.geller"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -8480,7 +8487,7 @@
     "cupo": 9,
     "creado": "2026-11-10T15:14:56.853Z",
     "pendientesHumanos": 0,
-    "anotados": 4,
+    "anotados": 7,
     "cancelSorteado": true,
     "cancelar": false
   },
@@ -8525,7 +8532,7 @@
     "cupo": 9,
     "creado": "2026-11-11T03:14:46.081Z",
     "pendientesHumanos": 0,
-    "anotados": 4
+    "anotados": 7
   },
   "cmwbjr7kn066701ohstvmotbx": {
     "jugadores": [],
@@ -8549,11 +8556,10 @@
       "bellatrix.lestrange",
       "george.weasley",
       "clark.kent",
-      "bart.simpson"
-    ],
-    "pendientes": [
+      "bart.simpson",
       "bruce.banner"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -8565,7 +8571,7 @@
     "cupo": 9,
     "creado": "2026-11-11T03:16:46.863Z",
     "pendientesHumanos": 0,
-    "anotados": 5
+    "anotados": 7
   },
   "cmwbsao6s06ci01oh7o4892t0": {
     "jugadores": [],
@@ -8841,10 +8847,11 @@
     "anotados": 0
   },
   "cmweemq7g018301lrugn0i31p": {
-    "jugadores": [],
-    "pendientes": [
-      "krusty"
+    "jugadores": [
+      "krusty",
+      "lois.lane"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -8891,10 +8898,10 @@
     "anotados": 0
   },
   "cmwen66qc01f401lrx18xr1ys": {
-    "jugadores": [],
-    "pendientes": [
+    "jugadores": [
       "phoebe.buffay"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -8904,6 +8911,53 @@
     "fecha": "2026-11-17T23:30:00.000Z",
     "deporte": "FUTBOL",
     "cupo": 9,
-    "creado": "2026-11-13T07:14:51.339Z"
+    "creado": "2026-11-13T07:14:51.339Z",
+    "pendientesHumanos": 0,
+    "anotados": 0
+  },
+  "cgaag1bwotw1utmyfjw7bvhzg": {
+    "jugadores": [],
+    "pendientes": [
+      "cedric.diggory"
+    ],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "humano:c3gn4fo3s81d32hmnb561btod",
+    "fecha": "2026-11-29T00:00:00.000Z",
+    "deporte": "PADEL",
+    "cupo": 3
+  },
+  "c8ldhuv5fin9en3yaydipt3de": {
+    "jugadores": [],
+    "pendientes": [
+      "nick.fury"
+    ],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "humano:ccuz0bmmua42dw4ii9hqhnec0",
+    "fecha": "2026-11-21T14:30:00.000Z",
+    "deporte": "FUTBOL",
+    "cupo": 9
+  },
+  "cex6l8jee0k9nf7r1t9wy7pb2": {
+    "jugadores": [],
+    "pendientes": [
+      "boromir"
+    ],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "humano:cgh4kg4wzz3qz9vgax6a3cm8z",
+    "fecha": "2026-11-28T18:00:00.000Z",
+    "deporte": "BASQUET",
+    "cupo": 5
   }
 }

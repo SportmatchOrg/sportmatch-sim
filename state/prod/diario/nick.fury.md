@@ -1,3 +1,4 @@
 - 2026-11-03 04:15 · pidió unirse al fútbol del sábado a la mañana en River Courts
 - 2026-11-06 12:14 · pidió unirse al básquet del martes en Club Belgrano
 - 2026-11-09 12:14 · pidió unirse al fútbol del jueves de Peter en River Courts (se anota a todo)
+- 2026-11-13 08:15 · pidió unirse al fútbol del sábado 21 a la mañana en Complejo La Arboleda (prefiere fines de semana a la mañana)

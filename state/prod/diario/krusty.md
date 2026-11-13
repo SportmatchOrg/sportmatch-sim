@@ -18,3 +18,4 @@
 - 2026-11-12 00:14 · calificó el fútbol (4, 5, 4) y pidió unirse al pádel del viernes en Club Belgrano
 - 2026-11-13 00:17 · calificó a Pippin (4), Bart (5) y Bellatrix (5) y pidió unirse al fútbol del viernes de Burro en River Courts
 - 2026-11-13 04:15 · pidió unirse al fútbol del miércoles 18 de Dory en Club Pilar (se anota a todo)
+- 2026-11-13 08:15 · calificó el fútbol: senor.cara.de.papa no vino; ya tiene pádel del domingo pendiente, no se anotó a más

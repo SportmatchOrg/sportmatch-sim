@@ -44,3 +44,4 @@
 - 2026-11-13 00:16 · armó un singles de tenis el jueves 19 en River Courts; vio solicitudes de George y Chewbacca para su fútbol
 - 2026-11-13 00:16 · (aclaración: el singles falló; armó dobles de tenis el jueves 19 en River Courts)
 - 2026-11-13 04:14 · aceptó a Chewbacca, George y Krusty en su fútbol
+- 2026-11-13 08:14 · aceptó a Monica en su partido; calificó sin nadie a quien puntuar

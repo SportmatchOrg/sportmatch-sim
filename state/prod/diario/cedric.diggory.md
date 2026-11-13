@@ -19,3 +19,4 @@
 - 2026-11-11 12:15 · leyó que Tony lo aceptó en el pádel del domingo; los otros pádel le chocan con horario o zona, no se anotó a nada más
 - 2026-11-13 00:17 · leyó notificaciones; solo miró, no hay nadie para calificar
 - 2026-11-13 04:15 · miró los pádel; ninguno en norte que le cierre, no se anotó
+- 2026-11-13 08:15 · pidió unirse al pádel del sábado 28 en Norte Pádel (competitivo, se anota a todo)

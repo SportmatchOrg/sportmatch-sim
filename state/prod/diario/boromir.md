@@ -16,3 +16,4 @@
 - 2026-10-25 12:14 · calificó con 5 a Hermione; solo miró
 - 2026-10-26 04:14 · se anotó al tenis del jueves 29 en Tigre (puntual, organizado)
 - 2026-10-29 04:13 · leyó que Thanos lo aceptó; solo miró
+- 2026-11-13 08:15 · pidió unirse al básquet del sábado 28 en Club Norte (puntual, de su zona)
