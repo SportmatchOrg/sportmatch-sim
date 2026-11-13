@@ -1,1 +1,2 @@
 - 2026-11-11 12:15 · primera vez en la app: entró a curiosear y solo miró
+- 2026-11-13 12:15 · entró y solo miró

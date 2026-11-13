@@ -42,3 +42,4 @@
 - 2026-10-29 00:14 · calificó el fútbol (Nala 5, Elrond 4); después solo miró
 - 2026-10-29 20:14 · aceptó a Tomás Valle en su partido y pidió unirse al fútbol 5 del martes en Nordelta
 - 2026-10-31 00:15 · calificó el fútbol y solo miró
+- 2026-11-13 12:15 · entró y solo miró

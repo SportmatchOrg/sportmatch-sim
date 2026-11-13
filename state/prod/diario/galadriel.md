@@ -34,3 +34,4 @@
 - 2026-11-08 04:14 · entró y solo miró
 - 2026-11-09 00:15 · entró y solo miró
 - 2026-11-09 16:14 · pidió unirse al básquet del martes 10 a las 20 en Club Belgrano
+- 2026-11-13 12:15 · pidió unirse al básquet BEGINNER del 29 en Club Belgrano

@@ -38,3 +38,4 @@
 - 2026-11-11 00:15 · calificó el básquet (5, 4, 5) y pidió unirse al básquet del viernes de Neo en Campus Austral
 - 2026-11-11 20:15 · leyó que Neo lo aceptó en su básquet; solo miró
 - 2026-11-12 16:14 · pidió unirse al básquet del viernes de Ned en Club Belgrano
+- 2026-11-13 12:15 · leyó que Ned lo aceptó en el básquet del viernes; solo miró

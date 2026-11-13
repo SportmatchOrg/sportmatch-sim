@@ -25,3 +25,4 @@
 - 2026-10-31 08:14 · calificó el pádel (4 y 5) y armó un pádel el martes 3 a las 8 en Tigre Pádel Club (madruga)
 - 2026-10-31 12:15 · aceptó a Cedric y Qui-Gon en su pádel del martes
 - 2026-11-12 16:14 · entró, leyó notificaciones y solo miró
+- 2026-11-13 12:15 · armó un pádel INTERMEDIATE el sábado 14 a las 8 en Pádel Point Pilar (madruga)

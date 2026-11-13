@@ -20,3 +20,4 @@
 - 2026-11-13 00:17 · leyó notificaciones; solo miró, no hay nadie para calificar
 - 2026-11-13 04:15 · miró los pádel; ninguno en norte que le cierre, no se anotó
 - 2026-11-13 08:15 · pidió unirse al pádel del sábado 28 en Norte Pádel (competitivo, se anota a todo)
+- 2026-11-13 12:14 · pidió unirse al pádel ADVANCED del jueves 19 en Norte Pádel (competitivo)

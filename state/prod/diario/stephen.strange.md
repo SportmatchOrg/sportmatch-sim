@@ -4,3 +4,4 @@
 - 2026-10-30 20:16 · entró, no había a quién calificar; solo miró
 - 2026-10-31 16:15 · miró tenis; no había nada en el norte, no se anotó
 - 2026-11-01 20:14 · entró y solo miró; nada de tenis en el norte
+- 2026-11-13 12:15 · entró y solo miró; tenis ADVANCED solo en otras zonas

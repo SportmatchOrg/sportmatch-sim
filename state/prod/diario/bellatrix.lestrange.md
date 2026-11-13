@@ -139,3 +139,4 @@
 - 2026-11-12 12:14 · pidió unirse al pádel del domingo 15 de Monica en Club Belgrano
 - 2026-11-12 20:14 · calificó a Minerva (5) y pidió unirse al fútbol del viernes de Burro en River Courts
 - 2026-11-13 00:15 · calificó a Lois (5), Chewbacca (4) y Clark (5) y pidió unirse al pádel del sábado en Polideportivo Municipal
+- 2026-11-13 12:15 · pidió unirse al pádel del sábado 14 de Minerva en Club Belgrano (se anota a todo)
