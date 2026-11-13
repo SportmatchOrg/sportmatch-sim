@@ -15,3 +15,4 @@
 - 2026-11-11 20:12 · aceptó a Bart Simpson en su fútbol; solo miró
 - 2026-11-12 20:12 · aceptó a nacho en su fútbol; solo miró
 - 2026-11-13 00:13 · calificó el fútbol (5, 4 y 4); entre semana casi no entra, solo eso
+- 2026-11-13 08:13 · aceptó a Pippin en su fútbol; solo eso hoy

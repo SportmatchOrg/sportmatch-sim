@@ -4,3 +4,4 @@
 - 2026-11-10 16:13 · pidió unirse al pádel INTERMEDIATE del vie 13/11 en Pádel Point Pilar
 - 2026-11-11 12:12 · leyó que lo aceptaron en el pádel; solo miró
 - 2026-11-12 00:12 · pidió unirse al pádel BEGINNER del sábado en Pádel Point Pilar (relajado)
+- 2026-11-13 08:12 · calificó el pádel (5 y 5) con comentario; ya tiene sus pádel, no se anotó a otro

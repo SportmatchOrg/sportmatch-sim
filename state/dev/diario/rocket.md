@@ -1,2 +1,3 @@
 - 2026-11-03 08:13 · se anotó al fútbol del sábado 10:00 de Hermione en Club Pilar
 - 2026-11-11 04:12 · se unió al fútbol del domingo en Del Viso (suma gente de sus amigos)
+- 2026-11-13 08:13 · se unió al fútbol del martes de Lois en Del Viso (de noche)

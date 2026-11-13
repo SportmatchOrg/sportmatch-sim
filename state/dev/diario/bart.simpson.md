@@ -24,3 +24,4 @@
 - 2026-11-12 08:11 · pidió unirse al fútbol del vie 13/11 en Del Viso y armó un básquet del lun 16/11 en Del Viso (competitivo)
 - 2026-11-13 00:13 · calificó el básquet y el fútbol; tiene solicitudes pendientes en su básquet, hoy solo eso
 - 2026-11-13 04:11 · aceptó a Padmé y a Jesse en su básquet y se anotó al fútbol ADVANCED del sábado de Steve (competitivo)
+- 2026-11-13 08:13 · aceptó a Phoebe en su básquet y pidió unirse al básquet BEGINNER del sábado en Del Viso (se anota a todo)

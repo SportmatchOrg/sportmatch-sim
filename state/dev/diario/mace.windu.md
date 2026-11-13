@@ -78,3 +78,4 @@
 - 2026-11-11 16:12 · miró las notificaciones, nada nuevo
 - 2026-11-12 00:12 · entró, miró partidos y no se anotó a nada
 - 2026-11-12 12:11 · aceptó a Ginny en su pádel del viernes y pidió unirse al fútbol 5 del domingo en Nordelta
+- 2026-11-13 08:11 · aceptó a Qui-Gon en su pádel del viernes (le gusta conocer gente nueva)

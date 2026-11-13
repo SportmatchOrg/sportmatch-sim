@@ -136,3 +136,4 @@
 - 2026-11-12 00:11 · canceló el fútbol en Pilar porque no se llenaba (0/9)
 - 2026-11-12 16:12 · aceptó a Padmé en su fútbol; solo miró
 - 2026-11-13 04:11 · aceptó a Phoebe en su fútbol y armó un fútbol 9 ADVANCED el sáb 14/11 20:30 en Del Viso
+- 2026-11-13 08:11 · aceptó a Bart en su fútbol; solo eso hoy

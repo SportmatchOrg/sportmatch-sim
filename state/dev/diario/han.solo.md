@@ -5,3 +5,4 @@
 - 2026-11-10 12:12 · aceptó a Chewbacca en su fútbol y pidió unirse al fútbol del vie 13/11 en Nordelta (puntual)
 - 2026-11-11 00:12 · canceló su fútbol del mié (iba 1/9 y no se llenó)
 - 2026-11-12 16:12 · armó un fútbol 5 INTERMEDIATE el mar 17/11 20:30 en Nordelta (puntual)
+- 2026-11-13 08:13 · armó un fútbol 5 INTERMEDIATE el jue 19/11 20:00 en Nordelta (puntual)
