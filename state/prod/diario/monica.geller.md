@@ -18,3 +18,4 @@
 - 2026-11-13 04:15 · no pudo aceptar a Woody (pádel lleno) y pidió unirse al fútbol del viernes de Burro en River Courts
 - 2026-11-13 08:15 · leyó que Burro la aceptó; la solicitud de Woody sigue sin lugar, no insistió
 - 2026-11-13 12:14 · otra vez no pudo aceptar a Woody: el pádel del domingo sigue lleno
+- 2026-11-13 16:14 · Woody sigue sin lugar en el pádel lleno; no insistió

@@ -8654,7 +8654,9 @@
     "jugadores": [
       "montgomery.burns"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "eowyn"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -8803,10 +8805,10 @@
     "anotados": 2
   },
   "cmwe61yeu00yo01lr4tqzzj26": {
-    "jugadores": [],
-    "pendientes": [
+    "jugadores": [
       "bellatrix.lestrange"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -8982,7 +8984,8 @@
     "organizador": "humano:cri6gy42qakl5lxv55xqf919l",
     "fecha": "2026-11-19T23:00:00.000Z",
     "deporte": "PADEL",
-    "cupo": 3
+    "cupo": 3,
+    "anotados": 1
   },
   "cmwf4bvg601pr01lrguc44yk3": {
     "jugadores": [],
@@ -8996,7 +8999,11 @@
     "fecha": "2026-11-14T11:00:00.000Z",
     "deporte": "PADEL",
     "cupo": 3,
-    "creado": "2026-11-13T15:15:10.122Z"
+    "creado": "2026-11-13T15:15:10.122Z",
+    "pendientesHumanos": 0,
+    "anotados": 0,
+    "cancelSorteado": true,
+    "cancelar": false
   },
   "crmbmqyu4is1no6j6sshsabot": {
     "jugadores": [],
@@ -9011,6 +9018,66 @@
     "organizador": "humano:cjx5zrwbzus0vzk4m1iopmx7u",
     "fecha": "2026-11-29T23:30:00.000Z",
     "deporte": "BASQUET",
+    "cupo": 9,
+    "anotados": 6
+  },
+  "czwckkg9pa7yjh2gewxb3zhj0": {
+    "jugadores": [],
+    "pendientes": [
+      "cedric.diggory"
+    ],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "humano:cabwl0xm2iqfzbkea5ms0832a",
+    "fecha": "2026-12-19T00:30:00.000Z",
+    "deporte": "PADEL",
+    "cupo": 3
+  },
+  "cmwfcvwcx01w601lr4f70rw6v": {
+    "jugadores": [],
+    "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "steve.rogers",
+    "fecha": "2026-11-18T00:00:00.000Z",
+    "deporte": "FUTBOL",
+    "cupo": 9,
+    "creado": "2026-11-13T19:14:41.322Z"
+  },
+  "cslsun2stwohdsmx2c9t6oqzy": {
+    "jugadores": [],
+    "pendientes": [
+      "rachel.green"
+    ],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "humano:ct8bv7zx8zr8a7313y4cusxj4",
+    "fecha": "2026-11-14T21:00:00.000Z",
+    "deporte": "FUTBOL",
     "cupo": 9
+  },
+  "ckgq6ludw16yenqns2tgzm5w0": {
+    "jugadores": [],
+    "pendientes": [
+      "scott.lang"
+    ],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "humano:czrq2kihj04vz9lqs202qw39e",
+    "fecha": "2026-12-23T01:00:00.000Z",
+    "deporte": "TENIS",
+    "cupo": 3
   }
 }

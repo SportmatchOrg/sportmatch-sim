@@ -44,3 +44,4 @@
 - 2026-11-02 08:15 · entró, leyó que Molly la aceptó y solo miró
 - 2026-11-10 08:15 · pidió unirse al running del miércoles 11 en Parque Pilar de Poe (conocer gente)
 - 2026-11-11 20:14 · calificó el partido (4-5) con un comentario
+- 2026-11-13 16:14 · pidió unirse al running del sábado 14 en Parque Pilar (se anota a todo)

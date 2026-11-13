@@ -12,3 +12,4 @@
 - 2026-10-31 12:15 · calificó el pádel (5 y 5)
 - 2026-11-07 04:12 · solo miró la app
 - 2026-11-08 08:14 · entró y solo miró
+- 2026-11-13 16:14 · entró y solo miró

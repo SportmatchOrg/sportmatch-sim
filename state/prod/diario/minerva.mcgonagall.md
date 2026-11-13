@@ -2,3 +2,4 @@
 - 2026-11-08 16:14 · armó un pádel ADVANCED el jueves 12 a las 18:30 en Club Belgrano (tardes libres)
 - 2026-11-09 00:15 · aceptó a Bellatrix en su pádel ADVANCED; no se anotó a nada
 - 2026-11-12 20:15 · calificó a Bellatrix (4) y armó pádel ADVANCED el sábado 14 a las 17:30 en Club Belgrano
+- 2026-11-13 16:14 · aceptó a Bellatrix en su pádel ADVANCED
