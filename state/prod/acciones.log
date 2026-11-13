@@ -3303,3 +3303,59 @@
 2026-11-12T23:15:43.595Z monica.geller leer-notificaciones 1
 2026-11-12T23:15:51.307Z obiwan.kenobi leer-notificaciones 1
 2026-11-12T23:15:58.531Z obiwan.kenobi unirse cmwdxfztp01cj01nx6430woee
+2026-11-13T03:13:39.156Z sorteo cmw6jujjy042k01ohfy8citc2 faltaron=[finn] calificaran=[steve.rogers,hector.barbossa,barney.gumble,bart.simpson]
+2026-11-13T03:13:39.820Z sorteo cmw6jvfdr043e01ohqyj0u9xb faltaron=[] calificaran=[lois.lane,bellatrix.lestrange,chewbacca,krusty,pippin.tuk,george.weasley,clark.kent,phoebe.buffay,bart.simpson]
+2026-11-13T03:13:42.895Z sorteo cmw7z74tr04pf01oh5i39rzhk faltaron=[senor.cara.de.papa] calificaran=[krusty]
+2026-11-13T03:13:43.456Z sorteo cmw7z7gll04pt01oha5wu1osc faltaron=[] calificaran=[cedric.diggory]
+2026-11-13T03:13:47.226Z sorteo cmw95zm8i055801ohf02zi29y faltaron=[clark.kent] calificaran=[peter.parker,rocket,george.weasley]
+2026-11-13T03:13:52.959Z sorteo cmwactde305lr01oharoujxvo faltaron=[] calificaran=[lois.lane]
+2026-11-13T03:14:23.025Z pippin.tuk leer-notificaciones 1
+2026-11-13T03:14:24.670Z pippin.tuk calificar cmw6jvfdr043e01ohqyj0u9xb ratings=3 noShows=0
+2026-11-13T03:14:40.264Z pippin.tuk unirse cmw87nuyk04rq01oh3jp407pr
+2026-11-13T03:14:49.276Z bellatrix.lestrange leer-notificaciones 2
+2026-11-13T03:15:00.248Z bellatrix.lestrange calificar cmw6jvfdr043e01ohqyj0u9xb ratings=3 noShows=0
+2026-11-13T03:15:02.165Z bellatrix.lestrange unirse demo-match-f07
+2026-11-13T03:15:03.585Z mace.windu leer-notificaciones 1
+2026-11-13T03:15:05.192Z mace.windu crear cmweeluc3016m01lr2zpdlhww FUTBOL 2026-11-16T23:30:00.000Z
+2026-11-13T03:15:06.607Z steve.rogers leer-notificaciones 1
+2026-11-13T03:15:08.378Z steve.rogers calificar cmw6jujjy042k01ohfy8citc2 ratings=2 noShows=1
+2026-11-13T03:15:12.175Z chewbacca leer-notificaciones 3
+2026-11-13T03:15:14.318Z lois.lane leer-notificaciones 4
+2026-11-13T03:15:17.361Z hector.barbossa leer-notificaciones 4
+2026-11-13T03:15:25.468Z chewbacca calificar cmw6jvfdr043e01ohqyj0u9xb ratings=3 noShows=0
+2026-11-13T03:15:26.940Z chewbacca unirse cmwau018t05t301ohks9jjz29
+2026-11-13T03:15:28.625Z lois.lane calificar cmw6jvfdr043e01ohqyj0u9xb ratings=3 noShows=0
+2026-11-13T03:15:30.325Z hector.barbossa calificar cmw6jujjy042k01ohfy8citc2 ratings=2 noShows=1
+2026-11-13T03:15:31.728Z frodo.bolson leer-notificaciones 2
+2026-11-13T03:15:33.871Z dory leer-notificaciones 1
+2026-11-13T03:15:43.165Z frodo.bolson aceptar cmwdxfztp01cj01nx6430woee obiwan.kenobi
+2026-11-13T03:15:46.521Z dory crear cmweemq7g018301lrugn0i31p FUTBOL 2026-11-18T23:30:00.000Z
+2026-11-13T03:15:55.669Z clark.kent leer-notificaciones 3
+2026-11-13T03:15:57.818Z george.weasley leer-notificaciones 1
+2026-11-13T03:16:00.779Z phoebe.buffay leer-notificaciones 4
+2026-11-13T03:16:11.886Z clark.kent calificar cmw6jvfdr043e01ohqyj0u9xb ratings=3 noShows=0
+2026-11-13T03:16:13.549Z clark.kent unirse cmwbjsbgw067w01oh0asyhqe6
+2026-11-13T03:16:15.185Z george.weasley calificar cmw6jvfdr043e01ohqyj0u9xb ratings=3 noShows=0
+2026-11-13T03:16:16.793Z george.weasley calificar cmw95zm8i055801ohf02zi29y ratings=2 noShows=1
+2026-11-13T03:16:18.145Z george.weasley unirse cmwau018t05t301ohks9jjz29
+2026-11-13T03:16:19.827Z phoebe.buffay calificar cmw6jvfdr043e01ohqyj0u9xb ratings=3 noShows=0
+2026-11-13T03:16:21.189Z phoebe.buffay unirse cmwbjpq97063y01ohz714a3bk
+2026-11-13T03:16:24.807Z peter.parker leer-notificaciones 4
+2026-11-13T03:16:26.929Z burro leer-notificaciones 2
+2026-11-13T03:16:29.175Z bart.simpson leer-notificaciones 1
+2026-11-13T03:16:40.153Z peter.parker calificar cmw95zm8i055801ohf02zi29y ratings=2 noShows=1
+2026-11-13T03:16:41.653Z peter.parker unirse cmwbjpq97063y01ohz714a3bk
+2026-11-13T03:16:44.921Z bart.simpson calificar cmw6jujjy042k01ohfy8citc2 ratings=3 noShows=1
+2026-11-13T03:16:46.523Z bart.simpson calificar cmw6jvfdr043e01ohqyj0u9xb ratings=3 noShows=0
+2026-11-13T03:16:47.948Z bart.simpson unirse cmwbjsbgw067w01oh0asyhqe6
+2026-11-13T03:16:53.031Z burro crear cmweeo5jg01ag01lr1cl9ix2e TENIS 2026-11-19T22:30:00.000Z
+2026-11-13T03:16:54.457Z krusty leer-notificaciones 4
+2026-11-13T03:16:57.444Z cedric.diggory leer-notificaciones 1
+2026-11-13T03:16:59.694Z rocket leer-notificaciones 2
+2026-11-13T03:17:02.415Z barney.gumble leer-notificaciones 1
+2026-11-13T03:17:12.919Z krusty calificar cmw6jvfdr043e01ohqyj0u9xb ratings=3 noShows=0
+2026-11-13T03:17:15.411Z krusty unirse cmwau018t05t301ohks9jjz29
+2026-11-13T03:17:17.522Z rocket calificar cmw95zm8i055801ohf02zi29y ratings=2 noShows=1
+2026-11-13T03:17:19.080Z rocket unirse cmwbjpq97063y01ohz714a3bk
+2026-11-13T03:17:21.009Z barney.gumble calificar cmw6jujjy042k01ohfy8citc2 ratings=2 noShows=1
+2026-11-13T03:17:22.799Z barney.gumble crear cmweeoshj01bj01lrb4i8vouf PADEL 2026-11-15T13:00:00.000Z

@@ -22,3 +22,4 @@
 - 2026-11-06 04:16 · entró y solo miró los partidos
 - 2026-11-09 04:15 · pidió unirse al fútbol del jueves de Lois en Club Pilar (tardes libres)
 - 2026-11-10 08:15 · pidió unirse al fútbol del jueves 12 en River Courts de Peter (tarde libre)
+- 2026-11-13 00:16 · calificó a Phoebe (5), George (4) y Krusty (4) y pidió unirse al fútbol del domingo en River Courts (tarde libre)

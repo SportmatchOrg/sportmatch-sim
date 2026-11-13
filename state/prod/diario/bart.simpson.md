@@ -20,3 +20,4 @@
 - 2026-11-11 16:15 · aceptó a Gato con Botas y pidió unirse al fútbol del viernes en Del Viso (a ganar)
 - 2026-11-11 20:15 · leyó que Dory lo aceptó en su fútbol; ya tiene varios pedidos, solo miró
 - 2026-11-12 00:14 · calificó el partido (5 y 4); después solo miró
+- 2026-11-13 00:16 · calificó dos partidos (4–5) y pidió unirse al fútbol del domingo en River Courts

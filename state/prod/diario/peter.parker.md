@@ -19,3 +19,4 @@
 - 2026-11-10 12:14 · aceptó a Clark Kent en su fútbol del jueves; no hay otro fútbol en CABA para unirse
 - 2026-11-10 20:15 · aceptó a George en su fútbol del jueves y pidió unirse al de Burro en River Courts
 - 2026-11-11 04:15 · pidió unirse al fútbol del domingo de Ned en River Courts
+- 2026-11-13 00:16 · calificó a Rocket (5) y George (5) y pidió unirse al fútbol del viernes de Mace en Nordelta

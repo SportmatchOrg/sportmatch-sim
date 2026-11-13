@@ -124,3 +124,4 @@
 - 2026-11-10 00:15 · aceptó a Finn y armó otro fútbol ADVANCED el sábado 14 en Club Pilar
 - 2026-11-10 08:14 · aceptó a Héctor en su fútbol ADVANCED del sábado; después solo miró
 - 2026-11-10 16:14 · aceptó a Bart en su fútbol ADVANCED del jueves; nada más
+- 2026-11-13 00:15 · calificó a Bart (4) y Barney (3); solo miró

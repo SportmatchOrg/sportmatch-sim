@@ -13,3 +13,5 @@
 - 2026-11-12 12:14 · intentó aceptar a Woody pero el partido ya estaba lleno; después solo miró
 - 2026-11-12 16:14 · aceptó a Bellatrix en su pádel del domingo; no pudo aceptar a Woody (partido lleno)
 - 2026-11-12 20:15 · no pudo aceptar a Woody otra vez: el pádel del domingo está lleno
+- 2026-11-13 00:15 · aceptó a Woody en su partido; solo miró
+- 2026-11-13 00:15 · (aclaración: el partido estaba lleno y no pudo aceptar a Woody)

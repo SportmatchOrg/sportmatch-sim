@@ -68,3 +68,4 @@
 - 2026-11-10 08:14 · armó un pádel ADVANCED el domingo 15 a las 10 en Pádel Point Pilar (prefiere finde a la mañana)
 - 2026-11-10 08:14 · se dio cuenta de que ya tenía el pádel ADVANCED del domingo 15 armado y canceló el repetido
 - 2026-11-11 04:14 · aceptó a Krusty en su partido
+- 2026-11-13 00:17 · calificó a Héctor (4) y Steve (3) y armó un pádel ADVANCED el domingo 15 a la mañana en Pádel Point Pilar

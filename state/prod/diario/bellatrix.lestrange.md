@@ -138,3 +138,4 @@
 - 2026-11-11 20:14 · calificó a Sam (5) y Lisa (4); pidió unirse al fútbol del domingo 15 en River Courts
 - 2026-11-12 12:14 · pidió unirse al pádel del domingo 15 de Monica en Club Belgrano
 - 2026-11-12 20:14 · calificó a Minerva (5) y pidió unirse al fútbol del viernes de Burro en River Courts
+- 2026-11-13 00:15 · calificó a Lois (5), Chewbacca (4) y Clark (5) y pidió unirse al pádel del sábado en Polideportivo Municipal
