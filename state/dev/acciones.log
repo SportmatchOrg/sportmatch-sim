@@ -3274,3 +3274,31 @@
 2026-11-12T23:12:53.244Z padme.amidala unirse cmwc9buvl045p01tjcon4atsf
 2026-11-12T23:13:02.120Z woody unirse cllb56zb0zblwrwrf1eu0cxgu
 2026-11-12T23:13:04.914Z lois.lane leer-notificaciones 2
+2026-11-13T03:10:42.910Z sorteo cmw9n150u01wx01tj0dy473wm faltaron=[walle] calificaran=[jesse.pinkman,bart.simpson,padme.amidala,nelson.muntz,luke.skywalker]
+2026-11-13T03:10:44.668Z sorteo cmwa47pmd02gk01tje2getejx faltaron=[] calificaran=[george.weasley,phoebe.buffay,wanda.maximoff,bart.simpson]
+2026-11-13T03:11:23.504Z elrond leer-notificaciones 1
+2026-11-13T03:11:24.674Z elrond cancelar cmwa4658402f901tjq6wnirkp
+2026-11-13T03:11:26.853Z albus.dumbledore leer-notificaciones 2
+2026-11-13T03:11:27.855Z albus.dumbledore cancelar cmwbb1ogr038h01tjyxqnfd94
+2026-11-13T03:11:29.445Z lois.lane leer-notificaciones 1
+2026-11-13T03:11:38.241Z padme.amidala calificar cmw9n150u01wx01tj0dy473wm ratings=3 noShows=1
+2026-11-13T03:11:42.424Z lois.lane aceptar cmwc9buvl045p01tjcon4atsf padme.amidala
+2026-11-13T03:11:54.687Z padme.amidala unirse cmwdg6sdm05fa01tjk4rzgkzz
+2026-11-13T03:11:56.528Z george.weasley leer-notificaciones 3
+2026-11-13T03:11:59.198Z phoebe.buffay leer-notificaciones 1
+2026-11-13T03:12:01.750Z jesse.pinkman leer-notificaciones 2
+2026-11-13T03:12:04.864Z nelson.muntz leer-notificaciones 2
+2026-11-13T03:12:12.987Z george.weasley calificar cmwa47pmd02gk01tje2getejx ratings=3 noShows=0
+2026-11-13T03:12:15.036Z phoebe.buffay calificar cmwa47pmd02gk01tje2getejx ratings=3 noShows=0
+2026-11-13T03:12:17.806Z jesse.pinkman calificar cmw9n150u01wx01tj0dy473wm ratings=2 noShows=1
+2026-11-13T03:12:20.056Z nelson.muntz calificar cmw9n150u01wx01tj0dy473wm ratings=2 noShows=1
+2026-11-13T03:12:38.134Z george.weasley unirse cmwc9buvl045p01tjcon4atsf
+2026-11-13T03:12:40.120Z phoebe.buffay unirse cmwcqi2yt051z01tjcbpard8j
+2026-11-13T03:12:42.099Z jesse.pinkman unirse cmwdg6sdm05fa01tjk4rzgkzz
+2026-11-13T03:12:43.966Z luke.skywalker leer-notificaciones 2
+2026-11-13T03:12:46.631Z bart.simpson leer-notificaciones 4
+2026-11-13T03:12:52.523Z milhouse.van.houten leer-notificaciones 1
+2026-11-13T03:13:00.571Z luke.skywalker calificar cmw9n150u01wx01tj0dy473wm ratings=2 noShows=1
+2026-11-13T03:13:02.698Z bart.simpson calificar cmw9n150u01wx01tj0dy473wm ratings=3 noShows=1
+2026-11-13T03:13:04.597Z bart.simpson calificar cmwa47pmd02gk01tje2getejx ratings=3 noShows=0
+2026-11-13T03:13:06.704Z wanda.maximoff calificar cmwa47pmd02gk01tje2getejx ratings=3 noShows=0

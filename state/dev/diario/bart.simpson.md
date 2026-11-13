@@ -22,3 +22,4 @@
 - 2026-11-11 08:12 · calificó el básquet (5, 4 y 4) y pidió unirse al fútbol del jue 12/11 en Club Pilar (competitivo)
 - 2026-11-11 16:12 · leyó que Lois lo aceptó y se anotó al fútbol del dom 15/11 en Del Viso (se anota a todo)
 - 2026-11-12 08:11 · pidió unirse al fútbol del vie 13/11 en Del Viso y armó un básquet del lun 16/11 en Del Viso (competitivo)
+- 2026-11-13 00:13 · calificó el básquet y el fútbol; tiene solicitudes pendientes en su básquet, hoy solo eso

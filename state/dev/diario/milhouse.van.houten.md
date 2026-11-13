@@ -15,3 +15,4 @@
 - 2026-11-08 00:12 · pidió unirse al básquet INTERMEDIATE del miércoles en el Polideportivo San Isidro
 - 2026-11-11 16:12 · entró a mirar, no hizo nada
 - 2026-11-12 08:12 · pidió unirse al básquet INTERMEDIATE del sáb 14/11 en Campus Austral (exigente con el nivel)
+- 2026-11-13 00:13 · entró a mirar; esperando respuesta por el básquet de Campus Austral, no hizo nada

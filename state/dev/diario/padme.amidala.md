@@ -35,3 +35,4 @@
 - 2026-11-10 00:12 · leyó que Phoebe la aceptó; calificó el partido y pidió unirse al básquet del jue 12/11 en Del Viso (quiere ganar)
 - 2026-11-12 12:12 · leyó notificaciones (la aceptó Jesse) y pidió unirse al fútbol ADVANCED del dom 15/11 en Club Pilar (quiere ganar)
 - 2026-11-12 20:12 · leyó que Steve la aceptó y pidió unirse al fútbol del mar 17/11 de Lois en Del Viso (quiere ganar)
+- 2026-11-13 00:11 · calificó el básquet y se unió al de Bart del lun 16/11 en Del Viso (quiere ganar)
