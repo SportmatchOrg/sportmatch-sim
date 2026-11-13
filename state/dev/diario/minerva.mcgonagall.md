@@ -9,3 +9,4 @@
 - 2026-11-11 16:12 · solo miró, nada para hacer
 - 2026-11-11 20:13 · pidió unirse al fútbol ADVANCED del mié 18/11 en Complejo Belgrano (tardes libres)
 - 2026-11-12 20:12 · calificó a Héctor (4) y armó un fútbol ADVANCED el lun 16/11 17:00 en River Courts (tarde libre)
+- 2026-11-13 16:12 · entró y solo miró

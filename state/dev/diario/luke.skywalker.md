@@ -14,3 +14,4 @@
 - 2026-11-11 08:12 · calificó el básquet (4, 5 y 4) y pidió unirse al básquet del jue 12/11 en Del Viso
 - 2026-11-12 04:12 · solo miró; nada de básquet ni running que le cierre hoy
 - 2026-11-13 00:13 · calificó el básquet (5 y 4); hoy nada más
+- 2026-11-13 16:12 · pidió unirse al básquet del sáb 14/11 en Campus Austral (suma gente con amigos)

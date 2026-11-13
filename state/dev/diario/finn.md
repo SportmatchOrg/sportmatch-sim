@@ -39,3 +39,4 @@
 - 2026-11-03 12:13 · leyó notificaciones; hoy solo miró
 - 2026-11-06 12:12 · canceló su fútbol (no se llenó, iba 2/9)
 - 2026-11-10 04:12 · entró, leyó notificaciones; hoy solo miró
+- 2026-11-13 16:12 · armó un fútbol ADVANCED el sáb 21/11 10:00 en Club Pilar (prefiere finde a la mañana)

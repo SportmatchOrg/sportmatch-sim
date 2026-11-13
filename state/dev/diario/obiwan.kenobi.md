@@ -19,3 +19,4 @@
 - 2026-11-02 04:13 · pidió unirse al running del mié 11/11 en Parque Norte (intermedio, tranqui)
 - 2026-11-04 20:13 · leyó notificaciones, sin novedades; solo miró
 - 2026-11-08 00:12 · entró y solo miró
+- 2026-11-13 16:12 · miró partidos de running y fútbol de su zona; nada le cerró, no se anotó

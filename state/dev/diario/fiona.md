@@ -34,3 +34,4 @@
 - 2026-11-11 16:12 · miró básquet, ya tiene el del sábado armado; no se anotó a nada
 - 2026-11-12 20:11 · aceptó a Kylo, Phoebe y Nick en su básquet del sábado
 - 2026-11-13 12:11 · aceptó a Bart en su básquet del sábado; ya tiene uno armado, no organizó otro
+- 2026-11-13 16:12 · pidió unirse al básquet del lun 16/11 en Del Viso (principiante entusiasta)

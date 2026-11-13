@@ -44,3 +44,4 @@
 - 2026-11-11 20:11 · aceptó a Selina Kyle; ya tenía el running del sábado armado, no organizó otro
 - 2026-11-12 12:12 · armó un pádel INTERMEDIATE el dom 15/11 10:00 en Pádel Point Pilar (para despejarse)
 - 2026-11-12 16:12 · aceptó a Bucky Barnes en su running; solo miró
+- 2026-11-13 16:12 · aceptó a Kylo en su running; solo eso

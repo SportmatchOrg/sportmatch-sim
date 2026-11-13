@@ -34,3 +34,4 @@
 - 2026-11-09 04:11 · entró, no había a quién calificar y solo leyó notificaciones
 - 2026-11-09 08:11 · entró un lunes, no había a quién calificar y ya tenía solicitudes de pádel pendientes; no se anotó a nada más
 - 2026-11-13 04:12 · leyó el recordatorio y pidió unirse al pádel de hoy en Tigre Pádel Club (le gusta conocer gente)
+- 2026-11-13 16:12 · armó un pádel INTERMEDIATE el dom 15/11 11:00 en Tigre Pádel Club y pidió unirse al pádel del 2/1 en Norte Pádel (le gusta conocer gente)
