@@ -45,3 +45,4 @@
 - 2026-11-12 12:12 · armó un pádel INTERMEDIATE el dom 15/11 10:00 en Pádel Point Pilar (para despejarse)
 - 2026-11-12 16:12 · aceptó a Bucky Barnes en su running; solo miró
 - 2026-11-13 16:12 · aceptó a Kylo en su running; solo eso
+- 2026-11-13 20:13 · leyó notificaciones; solo miró

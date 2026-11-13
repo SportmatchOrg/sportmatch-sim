@@ -14,3 +14,4 @@
 - 2026-11-09 04:12 · entró, no había a quién calificar y solo miró
 - 2026-11-09 08:12 · armó un pádel INTERMEDIATE el vie 13/11 20:00 en Club Belgrano (para despejarse)
 - 2026-11-11 20:12 · calificó a Anakin (4) y pidió unirse al fútbol del jue 19/11 en Club Atlético Belgrano
+- 2026-11-13 20:12 · entró; no había a quién calificar y solo miró

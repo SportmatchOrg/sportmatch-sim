@@ -51,3 +51,4 @@
 - 2026-11-13 00:12 · calificó el fútbol y pidió unirse al ADVANCED del dom 15/11 en Club Pilar (competitiva)
 - 2026-11-13 04:12 · leyó que Steve la aceptó y se anotó al básquet del lun 16/11 en Del Viso (competitiva)
 - 2026-11-13 12:12 · pidió unirse al básquet del sáb 14/11 en Campus Austral (competitiva, va a todo)
+- 2026-11-13 20:12 · leyó que Frodo la aceptó y pidió unirse al fútbol INTERMEDIATE del mar 17/11 de Lois en Club Pilar (competitiva)

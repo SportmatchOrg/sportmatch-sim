@@ -8185,7 +8185,9 @@
       "davy.jones",
       "montgomery.burns"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "luke.skywalker"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -8376,8 +8378,12 @@
     "jugadores": [],
     "pendientes": [],
     "bajasSorteadas": false,
-    "asistencia": null,
-    "calificaran": [],
+    "asistencia": {
+      "monica.geller": true
+    },
+    "calificaran": [
+      "monica.geller"
+    ],
     "calificaron": [],
     "cancelado": false,
     "organizador": "monica.geller",
@@ -8449,7 +8455,7 @@
     "cupo": 9,
     "creado": "2026-11-09T15:12:14.857Z",
     "pendientesHumanos": 0,
-    "anotados": 7
+    "anotados": 8
   },
   "cy93fl5e7qm5aspo82avkt1e8": {
     "jugadores": [],
@@ -8678,7 +8684,7 @@
       "bart.simpson"
     ],
     "pendientes": [],
-    "bajasSorteadas": false,
+    "bajasSorteadas": true,
     "asistencia": null,
     "calificaran": [],
     "calificaron": [],
@@ -8755,9 +8761,19 @@
     ],
     "pendientes": [],
     "bajasSorteadas": false,
-    "asistencia": null,
-    "calificaran": [],
-    "calificaron": [],
+    "asistencia": {
+      "sam.gamyi": true,
+      "bruce.wayne": true,
+      "sherlock.holmes": false
+    },
+    "calificaran": [
+      "sam.gamyi",
+      "bruce.wayne"
+    ],
+    "calificaron": [
+      "sam.gamyi",
+      "bruce.wayne"
+    ],
     "cancelado": false,
     "organizador": "sam.gamyi",
     "fecha": "2026-11-13T23:00:00.000Z",
@@ -8876,7 +8892,7 @@
       "quigon.jinn"
     ],
     "pendientes": [],
-    "bajasSorteadas": false,
+    "bajasSorteadas": true,
     "asistencia": null,
     "calificaran": [],
     "calificaron": [],
@@ -8893,10 +8909,11 @@
     "jugadores": [
       "eowyn",
       "milhouse.van.houten",
-      "phoebe.buffay"
+      "phoebe.buffay",
+      "luke.skywalker"
     ],
     "pendientes": [
-      "luke.skywalker"
+      "bart.simpson"
     ],
     "bajasSorteadas": false,
     "asistencia": null,
@@ -9116,11 +9133,10 @@
       "padme.amidala",
       "jesse.pinkman",
       "phoebe.buffay",
-      "gato.con.botas"
-    ],
-    "pendientes": [
+      "gato.con.botas",
       "fiona"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -9150,7 +9166,7 @@
     "cupo": 3,
     "creado": "2026-11-12T15:12:27.639Z",
     "pendientesHumanos": 0,
-    "anotados": 0
+    "anotados": 1
   },
   "cmwdxcx9v05oc01tj2nstxf4g": {
     "jugadores": [],
@@ -9308,7 +9324,9 @@
     "jugadores": [
       "bart.simpson"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "phoebe.buffay"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -9320,7 +9338,7 @@
     "cupo": 9,
     "creado": "2026-11-13T11:11:52.462Z",
     "pendientesHumanos": 0,
-    "anotados": 0
+    "anotados": 1
   },
   "cmwevo6cj06uu01tjyjf87vpc": {
     "jugadores": [],
@@ -9367,7 +9385,8 @@
     "organizador": "humano:cvmvr3uou4fwjtdnh64t4sau5",
     "fecha": "2026-12-05T18:00:00.000Z",
     "deporte": "PADEL",
-    "cupo": 3
+    "cupo": 3,
+    "anotados": 1
   },
   "cmwfcsoma077c01tjnjsssx3p": {
     "jugadores": [],
@@ -9381,7 +9400,9 @@
     "fecha": "2026-11-21T13:00:00.000Z",
     "deporte": "FUTBOL",
     "cupo": 9,
-    "creado": "2026-11-13T19:12:11.385Z"
+    "creado": "2026-11-13T19:12:11.385Z",
+    "pendientesHumanos": 0,
+    "anotados": 0
   },
   "cmwfct1xa077i01tjx0zu5xcb": {
     "jugadores": [],
@@ -9395,7 +9416,9 @@
     "fecha": "2026-11-15T14:00:00.000Z",
     "deporte": "PADEL",
     "cupo": 3,
-    "creado": "2026-11-13T19:12:28.605Z"
+    "creado": "2026-11-13T19:12:28.605Z",
+    "pendientesHumanos": 0,
+    "anotados": 0
   },
   "cf702xm2xny9ya0booei53hqr": {
     "jugadores": [],
@@ -9410,6 +9433,23 @@
     "organizador": "humano:c9gde8itxc8igh6scuo8nsgz6",
     "fecha": "2027-01-02T17:00:00.000Z",
     "deporte": "PADEL",
-    "cupo": 3
+    "cupo": 3,
+    "anotados": 1
+  },
+  "cmwflck0l07c501tjxqmfb909": {
+    "jugadores": [],
+    "pendientes": [
+      "bruce.wayne"
+    ],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "sam.gamyi",
+    "fecha": "2026-11-17T23:00:00.000Z",
+    "deporte": "PADEL",
+    "cupo": 3,
+    "creado": "2026-11-13T23:11:35.405Z"
   }
 }
