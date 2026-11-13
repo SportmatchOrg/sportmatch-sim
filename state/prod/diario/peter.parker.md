@@ -20,3 +20,4 @@
 - 2026-11-10 20:15 · aceptó a George en su fútbol del jueves y pidió unirse al de Burro en River Courts
 - 2026-11-11 04:15 · pidió unirse al fútbol del domingo de Ned en River Courts
 - 2026-11-13 00:16 · calificó a Rocket (5) y George (5) y pidió unirse al fútbol del viernes de Mace en Nordelta
+- 2026-11-13 20:17 · calificó a Chewbacca (4) y Burro (5) y pidió unirse al fútbol del lunes 16 de Mace en Nordelta

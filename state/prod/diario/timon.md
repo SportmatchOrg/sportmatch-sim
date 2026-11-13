@@ -14,3 +14,4 @@
 - 2026-11-06 08:15 · por fin calificó el básquet (4, 5 y 4)
 - 2026-11-10 16:15 · entró, leyó notificaciones; solo miró
 - 2026-11-12 00:14 · se anotó al básquet del viernes en Club Belgrano (ya veremos si va)
+- 2026-11-13 20:16 · se anotó al básquet del miércoles 18 de Neo en Campus Austral; el de calificar lo deja para después

@@ -3415,3 +3415,57 @@
 2026-11-13T19:14:50.615Z eowyn unirse cmwc9gbf806mj01ohsp28scay
 2026-11-13T19:14:57.399Z rachel.green unirse cslsun2stwohdsmx2c9t6oqzy
 2026-11-13T19:15:04.302Z scott.lang unirse ckgq6ludw16yenqns2tgzm5w0
+2026-11-13T23:13:45.065Z merry.brandigamo baja-tarde cmw8g9agj04v201ohphk8qw3q
+2026-11-13T23:13:51.513Z sorteo cmwa4bjrz05iv01ohogla4n6z faltaron=[morfeo] calificaran=[ned.flanders,rex,phoebe.buffay,timon,davy.jones]
+2026-11-13T23:13:53.134Z sorteo cmwalfrl905pw01ohgtbphy9p faltaron=[] calificaran=[neo,walle,davy.jones,phoebe.buffay,gato.con.botas,simba,frodo.bolson]
+2026-11-13T23:13:53.685Z sorteo cmwau018t05t301ohks9jjz29 faltaron=[bellatrix.lestrange] calificaran=[burro,peter.parker,lois.lane,george.weasley,krusty,monica.geller]
+2026-11-13T23:13:56.455Z obiwan.kenobi baja-tarde cmwbjpq97063y01ohz714a3bk
+2026-11-13T23:13:57.099Z frodo.bolson baja-tarde cmwbjpq97063y01ohz714a3bk
+2026-11-13T23:14:00.819Z sorteo cmwbsappq06cl01ohjxhnp30m faltaron=[] calificaran=[monica.geller,krusty]
+2026-11-13T23:14:32.728Z molly.weasley leer-notificaciones 1
+2026-11-13T23:14:36.634Z molly.weasley aceptar cmwc9gbf806mj01ohsp28scay eowyn
+2026-11-13T23:15:00.196Z davy.jones calificar cmwa4bjrz05iv01ohogla4n6z ratings=3 noShows=1
+2026-11-13T23:15:02.325Z davy.jones calificar cmwalfrl905pw01ohgtbphy9p ratings=3 noShows=0
+2026-11-13T23:15:16.358Z davy.jones unirse cmwe1tcns01qg01nxbsxrfn0y
+2026-11-13T23:15:17.899Z lois.lane leer-notificaciones 1
+2026-11-13T23:15:22.427Z lois.lane calificar cmwau018t05t301ohks9jjz29 ratings=3 noShows=1
+2026-11-13T23:15:24.001Z neo leer-notificaciones 1
+2026-11-13T23:15:31.039Z neo calificar cmwalfrl905pw01ohgtbphy9p ratings=3 noShows=0
+2026-11-13T23:15:32.858Z neo crear cmwflhn82021x01lrip03cc5k BASQUET 2026-11-18T23:30:00.000Z
+2026-11-13T23:15:34.550Z walle leer-notificaciones 2
+2026-11-13T23:15:40.137Z walle calificar cmwalfrl905pw01ohgtbphy9p ratings=3 noShows=0
+2026-11-13T23:15:46.001Z walle unirse cmwen66qc01f401lrx18xr1ys
+2026-11-13T23:15:51.808Z frodo.bolson calificar cmwalfrl905pw01ohgtbphy9p ratings=3 noShows=0
+2026-11-13T23:15:53.873Z george.weasley leer-notificaciones 2
+2026-11-13T23:15:59.624Z george.weasley calificar cmwau018t05t301ohks9jjz29 ratings=3 noShows=1
+2026-11-13T23:16:01.395Z george.weasley crear cmwfli996022u01lriwtbyxrq FUTBOL 2026-11-20T23:00:00.000Z
+2026-11-13T23:16:03.569Z george.weasley unirse cmweemq7g018301lrugn0i31p
+2026-11-13T23:16:07.100Z rex leer-notificaciones 3
+2026-11-13T23:16:14.678Z rex calificar cmwa4bjrz05iv01ohogla4n6z ratings=3 noShows=1
+2026-11-13T23:16:16.420Z rex unirse cmweeluc3016m01lr2zpdlhww
+2026-11-13T23:16:18.117Z simba leer-notificaciones 2
+2026-11-13T23:16:23.679Z simba calificar cmwalfrl905pw01ohgtbphy9p ratings=3 noShows=0
+2026-11-13T23:16:25.463Z simba unirse cmwflhn82021x01lrip03cc5k
+2026-11-13T23:16:27.013Z dory leer-notificaciones 1
+2026-11-13T23:16:35.906Z dory aceptar cmweemq7g018301lrugn0i31p george.weasley
+2026-11-13T23:16:41.492Z timon unirse cmwflhn82021x01lrip03cc5k
+2026-11-13T23:16:43.105Z phoebe.buffay leer-notificaciones 1
+2026-11-13T23:16:50.314Z phoebe.buffay calificar cmwa4bjrz05iv01ohogla4n6z ratings=2 noShows=1
+2026-11-13T23:16:52.083Z phoebe.buffay calificar cmwalfrl905pw01ohgtbphy9p ratings=3 noShows=0
+2026-11-13T23:16:54.263Z phoebe.buffay unirse cmwe1tcns01qg01nxbsxrfn0y
+2026-11-13T23:16:57.168Z peter.parker leer-notificaciones 1
+2026-11-13T23:17:02.976Z peter.parker calificar cmwau018t05t301ohks9jjz29 ratings=2 noShows=1
+2026-11-13T23:17:05.084Z peter.parker unirse cmweeluc3016m01lr2zpdlhww
+2026-11-13T23:17:11.246Z burro calificar cmwau018t05t301ohks9jjz29 ratings=2 noShows=1
+2026-11-13T23:17:12.971Z ned.flanders leer-notificaciones 1
+2026-11-13T23:17:19.605Z ned.flanders calificar cmwa4bjrz05iv01ohogla4n6z ratings=2 noShows=1
+2026-11-13T23:17:21.612Z ned.flanders crear cmwfljz31025e01lrnh418chp BASQUET 2026-11-20T00:00:00.000Z
+2026-11-13T23:17:23.402Z krusty leer-notificaciones 1
+2026-11-13T23:17:29.681Z krusty calificar cmwau018t05t301ohks9jjz29 ratings=3 noShows=1
+2026-11-13T23:17:31.511Z krusty calificar cmwbsappq06cl01ohjxhnp30m ratings=2 noShows=0
+2026-11-13T23:17:37.739Z cedric.diggory crear cmwflkbla025x01lrfsqpygty PADEL 2026-11-18T00:00:00.000Z
+2026-11-13T23:17:43.995Z gato.con.botas leer-notificaciones 3
+2026-11-13T23:17:49.866Z gato.con.botas calificar cmwalfrl905pw01ohgtbphy9p ratings=3 noShows=0
+2026-11-13T23:17:51.817Z gato.con.botas unirse cmwflhn82021x01lrip03cc5k
+2026-11-13T23:17:58.717Z monica.geller calificar cmwau018t05t301ohks9jjz29 ratings=3 noShows=1
+2026-11-13T23:18:00.542Z monica.geller calificar cmwbsappq06cl01ohjxhnp30m ratings=2 noShows=0

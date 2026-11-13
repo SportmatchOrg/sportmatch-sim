@@ -8,3 +8,4 @@
 - 2026-11-05 12:15 · entró, leyó notificaciones y solo miró
 - 2026-11-09 20:15 · se anotó al básquet INTERMEDIATE del martes en Club Belgrano (quiere conocer gente)
 - 2026-11-10 20:15 · calificó el básquet con buena onda y pidió unirse al de Ned en Belgrano
+- 2026-11-13 20:16 · calificó el básquet (5, 5 y 4) y pidió unirse al fútbol del lunes 16 de Mace en Nordelta (quiere conocer gente)

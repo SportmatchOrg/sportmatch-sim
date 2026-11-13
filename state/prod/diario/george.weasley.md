@@ -54,3 +54,4 @@
 - 2026-11-11 16:15 · pidió unirse al fútbol del jueves en Club Pilar (le gusta conocer gente)
 - 2026-11-12 12:14 · pidió unirse al fútbol del domingo 15 a la mañana en River Courts (conoce gente)
 - 2026-11-13 00:16 · calificó dos partidos (todo 4–5) y pidió unirse al fútbol del viernes de Burro en River Courts
+- 2026-11-13 20:16 · calificó el fútbol (5, 4 y 5), armó uno el viernes 20 a las 20 en Club Pilar y pidió unirse al de Dory del miércoles

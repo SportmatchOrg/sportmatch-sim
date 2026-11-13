@@ -32,3 +32,4 @@
 - 2026-11-12 16:14 · armó un fútbol el martes 17 en Nordelta y pidió unirse al de Mace del viernes
 - 2026-11-12 20:15 · aceptó a Lionel en su fútbol del martes
 - 2026-11-13 00:15 · aceptó a Obi-Wan en su fútbol del martes en Nordelta; no armó nada nuevo
+- 2026-11-13 20:15 · calificó el básquet (4, 4 y 5); solo miró

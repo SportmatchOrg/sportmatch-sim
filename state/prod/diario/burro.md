@@ -45,3 +45,4 @@
 - 2026-11-13 00:16 · (aclaración: el singles falló; armó dobles de tenis el jueves 19 en River Courts)
 - 2026-11-13 04:14 · aceptó a Chewbacca, George y Krusty en su fútbol
 - 2026-11-13 08:14 · aceptó a Monica en su partido; calificó sin nadie a quien puntuar
+- 2026-11-13 20:17 · calificó el fútbol (5 y 4); solo miró

@@ -44,3 +44,4 @@
 - 2026-11-12 00:13 · aceptó la solicitud de Montgomery y armó otro running ADVANCED el domingo 15 a las 9 en Campus Austral
 - 2026-11-12 08:14 · entró y miró running; nada a su nivel ni cerca de la zona, no se anotó
 - 2026-11-13 16:14 · entró, leyó y solo miró
+- 2026-11-13 20:14 · aceptó la solicitud de Éowyn a su running; después solo miró

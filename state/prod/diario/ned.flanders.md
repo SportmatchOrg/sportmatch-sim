@@ -20,3 +20,4 @@
 - 2026-11-12 20:15 · aceptó a Davy en su básquet y a nacho y Lionel en su fútbol
 - 2026-11-13 04:14 · aceptó a Clark y Bart en su partido
 - 2026-11-13 08:15 · aceptó a Bruce en su fútbol del domingo
+- 2026-11-13 20:17 · calificó el básquet (4 y 5) y armó otro básquet INTERMEDIATE el jueves 19 a las 21 en Club Belgrano

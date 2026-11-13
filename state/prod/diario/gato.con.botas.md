@@ -6,3 +6,4 @@
 - 2026-11-11 00:17 · calificó el básquet (5, 4, 4) y pidió unirse al básquet del viernes de Neo en Campus Austral
 - 2026-11-11 08:15 · leyó que Neo lo aceptó en el básquet del viernes y pidió unirse al running de Poe en Parque Pilar
 - 2026-11-11 12:15 · leyó que Poe lo aceptó en el running y pidió unirse al básquet de hoy de noche en Campus Austral
+- 2026-11-13 20:17 · calificó el básquet (4, 5 y 4) y pidió unirse al básquet de Neo del miércoles 18 de noche en Campus Austral
