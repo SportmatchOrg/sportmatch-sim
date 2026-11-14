@@ -23,3 +23,4 @@
 - 2026-11-13 12:14 · pidió unirse al pádel ADVANCED del jueves 19 en Norte Pádel (competitivo)
 - 2026-11-13 16:14 · pidió unirse al pádel del viernes 18 a la noche en Norte Pádel (se anota a todo)
 - 2026-11-13 20:17 · armó un pádel ADVANCED el martes 17 a las 21 en Tigre Pádel Club (competitivo)
+- 2026-11-14 00:17 · pidió unirse al pádel del sábado de Indiana en Pádel Point Pilar

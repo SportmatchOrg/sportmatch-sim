@@ -6,3 +6,4 @@
 - 2026-11-08 08:14 · pidió unirse al fútbol del martes en Club Pilar (suma gente con amigos)
 - 2026-11-10 00:16 · calificó el fútbol y pidió unirse al de Peter del jueves en River Courts
 - 2026-11-13 00:17 · calificó a George (4) y Peter (5) y pidió unirse al fútbol del viernes de Mace en Nordelta
+- 2026-11-14 00:17 · calificó el fútbol (4–5) y pidió unirse al fútbol del miércoles de Dory en Club Pilar

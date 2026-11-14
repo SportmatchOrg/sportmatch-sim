@@ -83,3 +83,4 @@
 - 2026-11-13 12:14 · quiso aceptar a Lionel pero el partido sigue lleno
 - 2026-11-13 16:14 · quiso aceptar a Lionel pero el partido sigue lleno
 - 2026-11-13 20:16 · aceptó a George en su fútbol del miércoles; la solicitud de Lionel al otro partido sigue sin lugar (lleno)
+- 2026-11-14 00:16 · calificó el fútbol (4–5) y aceptó a Juan Francisco y a Elrond

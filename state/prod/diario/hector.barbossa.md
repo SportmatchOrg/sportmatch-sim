@@ -59,3 +59,4 @@
 - 2026-11-11 16:15 · entró, leyó notificaciones y solo miró
 - 2026-11-11 20:15 · entró y leyó; nada para calificar, solo miró
 - 2026-11-13 00:15 · calificó a Steve (4) y Bart (3); solo miró
+- 2026-11-14 00:15 · entró y leyó notificaciones; nada para calificar, solo miró

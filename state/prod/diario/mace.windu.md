@@ -103,3 +103,4 @@
 - 2026-11-13 04:14 · aceptó a Phoebe, Peter y Rocket en su fútbol (le gusta conocer gente nueva)
 - 2026-11-13 08:14 · calificó su pádel: solo faltó Ginny
 - 2026-11-13 12:15 · entró y solo miró
+- 2026-11-14 00:15 · calificó el fútbol (4–5) y aceptó a Rex y a Peter

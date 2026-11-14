@@ -3,3 +3,4 @@
 - 2026-11-09 08:14 · armó un running tranqui el miércoles 11 a las 19 en Parque Pilar (para despejarse)
 - 2026-11-10 12:14 · aceptó a Éowyn en su running del miércoles; solo miró
 - 2026-11-11 08:14 · aceptó a Montgomery en su running del miércoles; solo miró
+- 2026-11-14 00:17 · pidió unirse al fútbol del miércoles de Dory; la calificación la deja para después
