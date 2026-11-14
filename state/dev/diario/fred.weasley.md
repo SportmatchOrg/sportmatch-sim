@@ -48,3 +48,4 @@
 - 2026-11-02 16:13 · leyó que Lois lo aceptó en el fútbol del martes; solo miró
 - 2026-11-03 20:13 · pidió unirse al fútbol del domingo 8/11 en Del Viso (suma gente con amigos)
 - 2026-11-08 12:11 · calificó el fútbol jugado y leyó notificaciones
+- 2026-11-14 16:12 · se anotó al fútbol del domingo 22/11 en Del Viso (suma gente)

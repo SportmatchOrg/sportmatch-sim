@@ -25,3 +25,4 @@
 - 2026-11-08 04:12 · pidió unirse al pádel ADVANCED del miércoles 11/11 en Belgrano Pádel (exigente con el nivel)
 - 2026-11-10 08:13 · leyó notificaciones; ya tiene pedido el pádel ADVANCED del miércoles, nada intermedio le convenció
 - 2026-11-11 12:12 · entró, no había notificaciones; solo miró
+- 2026-11-14 16:13 · pidió unirse al pádel ADVANCED del lun 16/11 en Atenas Pádel (exigente con el nivel)

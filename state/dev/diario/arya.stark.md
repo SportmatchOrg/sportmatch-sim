@@ -12,3 +12,4 @@
 - 2026-11-08 00:12 · pidió unirse al fútbol del lunes de Phoebe en Club Pilar (tardes libres)
 - 2026-11-09 16:12 · pidió unirse al fútbol del domingo de Hermione en Nordelta (tardes libres)
 - 2026-11-12 04:12 · pidió unirse al fútbol del mar 17/11 de Lois en Del Viso (tardes libres)
+- 2026-11-14 16:12 · pidió unirse al pádel del domingo 15/11 de Faramir en Pádel Point Pilar (tardes libres)
