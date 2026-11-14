@@ -24,3 +24,4 @@
 - 2026-11-11 00:12 · aceptó a Carol en su tenis; miró tenis en CABA y nada le cerró, no se anotó
 - 2026-11-11 20:12 · calificó a Carol (4) y armó un tenis dobles BEGINNER el sáb 14/11 10:00 en River Courts
 - 2026-11-12 20:11 · aceptó a Gollum en su tenis y armó un tenis dobles INTERMEDIATE el mar 17/11 20:00 en River Courts
+- 2026-11-14 08:11 · aceptó a Nala en su tenis; solo eso hoy

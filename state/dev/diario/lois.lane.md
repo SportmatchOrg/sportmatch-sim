@@ -98,3 +98,4 @@
 - 2026-11-13 12:11 · aceptó a Rocket en su fútbol y pidió unirse al fútbol del domingo en Del Viso
 - 2026-11-13 16:12 · aceptó a Bart en su fútbol; solo eso
 - 2026-11-14 00:12 · calificó el fútbol (5, 4, 5) y aceptó a Phoebe y a Pippin en el del martes
+- 2026-11-14 08:11 · aceptó a Pippin y a George en su fútbol y pidió unirse al fútbol del jueves 19/11 en Nordelta

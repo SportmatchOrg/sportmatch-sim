@@ -7959,7 +7959,7 @@
       "rey"
     ],
     "pendientes": [],
-    "bajasSorteadas": false,
+    "bajasSorteadas": true,
     "asistencia": null,
     "calificaran": [],
     "calificaron": [],
@@ -8096,7 +8096,6 @@
   },
   "cmw7qff0e00mt01tjagjnz9ct": {
     "jugadores": [
-      "chewbacca",
       "george.weasley",
       "hermione.granger",
       "phoebe.buffay",
@@ -8106,7 +8105,7 @@
       "lois.lane"
     ],
     "pendientes": [],
-    "bajasSorteadas": false,
+    "bajasSorteadas": true,
     "asistencia": null,
     "calificaran": [],
     "calificaron": [],
@@ -8167,7 +8166,7 @@
       "bucky.barnes"
     ],
     "pendientes": [],
-    "bajasSorteadas": false,
+    "bajasSorteadas": true,
     "asistencia": null,
     "calificaran": [],
     "calificaron": [],
@@ -8199,7 +8198,7 @@
     "cupo": 5,
     "creado": "2026-11-08T15:13:18.395Z",
     "pendientesHumanos": 0,
-    "anotados": 3
+    "anotados": 4
   },
   "cmw7z40vt00vw01tji20wr3yj": {
     "jugadores": [
@@ -8228,11 +8227,10 @@
   },
   "cmw87l2h000zd01tj2233wo2z": {
     "jugadores": [
-      "gollum",
-      "draco.malfoy"
+      "gollum"
     ],
     "pendientes": [],
-    "bajasSorteadas": false,
+    "bajasSorteadas": true,
     "asistencia": null,
     "calificaran": [],
     "calificaron": [],
@@ -8743,7 +8741,7 @@
       "bart.simpson"
     ],
     "pendientes": [],
-    "bajasSorteadas": false,
+    "bajasSorteadas": true,
     "asistencia": null,
     "calificaran": [],
     "calificaron": [],
@@ -8873,11 +8871,10 @@
       "padme.amidala",
       "george.weasley",
       "simba",
-      "rocket"
-    ],
-    "pendientes": [
+      "rocket",
       "pippin.tuk"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -8976,12 +8973,11 @@
   },
   "cmwcqhnw0051h01tjl36vxtmu": {
     "jugadores": [
-      "gollum"
-    ],
-    "pendientes": [
+      "gollum",
       "nala"
     ],
-    "bajasSorteadas": false,
+    "pendientes": [],
+    "bajasSorteadas": true,
     "asistencia": null,
     "calificaran": [],
     "calificaron": [],
@@ -8999,7 +8995,9 @@
       "padme.amidala",
       "phoebe.buffay"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "jon.snow"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -9205,9 +9203,18 @@
       "clark.kent"
     ],
     "bajasSorteadas": false,
-    "asistencia": null,
-    "calificaran": [],
-    "calificaron": [],
+    "asistencia": {
+      "indiana.jones": true,
+      "james.bond": true
+    },
+    "calificaran": [
+      "indiana.jones",
+      "james.bond"
+    ],
+    "calificaron": [
+      "james.bond",
+      "indiana.jones"
+    ],
     "cancelado": false,
     "organizador": "indiana.jones",
     "fecha": "2026-11-14T11:00:00.000Z",
@@ -9306,7 +9313,7 @@
   "cmwen33w506pv01tjzppvbwt3": {
     "jugadores": [],
     "pendientes": [],
-    "bajasSorteadas": false,
+    "bajasSorteadas": true,
     "asistencia": null,
     "calificaran": [],
     "calificaron": [],
@@ -9341,11 +9348,10 @@
     "jugadores": [
       "bart.simpson",
       "phoebe.buffay",
-      "pippin.tuk"
-    ],
-    "pendientes": [
+      "pippin.tuk",
       "george.weasley"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -9361,7 +9367,9 @@
   },
   "cmwevo6cj06uu01tjyjf87vpc": {
     "jugadores": [],
-    "pendientes": [],
+    "pendientes": [
+      "lois.lane"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -9425,7 +9433,9 @@
   },
   "cmwfct1xa077i01tjx0zu5xcb": {
     "jugadores": [],
-    "pendientes": [],
+    "pendientes": [
+      "ginny.weasley"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -9505,6 +9515,35 @@
     "cupo": 9,
     "creado": "2026-11-14T03:12:48.534Z",
     "pendientesHumanos": 0,
-    "anotados": 0
+    "anotados": 1
+  },
+  "cmwgb32vg007d01o9mkcetdq5": {
+    "jugadores": [],
+    "pendientes": [],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "indiana.jones",
+    "fecha": "2026-11-16T11:00:00.000Z",
+    "deporte": "PADEL",
+    "cupo": 3,
+    "creado": "2026-11-14T11:12:03.344Z"
+  },
+  "c1tw9loyxv8ycx8po530w40p1": {
+    "jugadores": [],
+    "pendientes": [
+      "bruce.wayne"
+    ],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "humano:c2z0micfqv8otu5bjlxc2tfn6",
+    "fecha": "2026-11-15T12:30:00.000Z",
+    "deporte": "PADEL",
+    "cupo": 3
   }
 }

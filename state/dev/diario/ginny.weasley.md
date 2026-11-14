@@ -13,3 +13,4 @@
 - 2026-11-09 08:12 · aceptaron su pedido de pádel del jueves y armó un pádel INTERMEDIATE el sáb 14/11 19:00 en Tigre Pádel Club (exigente con el nivel)
 - 2026-11-12 08:12 · leyó recordatorio y pidió unirse al pádel INTERMEDIATE del vie 13/11 en Tigre Pádel Club (nivel acorde)
 - 2026-11-13 08:11 · aceptó a Cedric en su pádel; no se anotó a nada más
+- 2026-11-14 08:12 · leyó el recordatorio y el no-show; pidió unirse al pádel INTERMEDIATE del dom 15/11 11:00 de Qui-Gon en Tigre Pádel Club

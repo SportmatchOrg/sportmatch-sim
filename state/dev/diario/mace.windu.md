@@ -80,3 +80,4 @@
 - 2026-11-12 12:11 · aceptó a Ginny en su pádel del viernes y pidió unirse al fútbol 5 del domingo en Nordelta
 - 2026-11-13 08:11 · aceptó a Qui-Gon en su pádel del viernes (le gusta conocer gente nueva)
 - 2026-11-14 00:11 · calificó a Qui-Gon (5) en el pádel; Ginny no apareció
+- 2026-11-14 08:12 · leyó notificaciones; sin novedades, solo miró

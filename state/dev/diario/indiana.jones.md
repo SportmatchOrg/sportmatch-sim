@@ -37,3 +37,4 @@
 - 2026-11-12 08:11 · calificó el tenis: nadie para calificar, solo faltó Lara
 - 2026-11-12 16:12 · armó un pádel INTERMEDIATE el sáb 14/11 8:00 en Pádel Point Pilar (madruga)
 - 2026-11-13 08:12 · calificó el partido (5 y 4) y aceptó a James en su pádel del sábado
+- 2026-11-14 08:12 · calificó a James (4) y armó un pádel INTERMEDIATE el lun 16/11 8:00 en Pádel Point Pilar (madruga)

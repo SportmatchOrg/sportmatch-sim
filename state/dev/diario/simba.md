@@ -6,3 +6,4 @@
 - 2026-11-11 08:13 · volvió a entrar a mirar básquet y fútbol; hoy solo miró
 - 2026-11-12 08:12 · revisó la app, solo miró
 - 2026-11-13 04:12 · se anotó al fútbol del martes 17/11 en Del Viso de Lois (tardes libres)
+- 2026-11-14 08:12 · leyó que Lois lo aceptó en el fútbol del martes; solo miró

@@ -3,3 +3,4 @@
 - 2026-11-04 00:13 · calificó el básquet (Neo 5, Davy 4, Timón 4); ya está anotado al del jueves de noche en Del Viso, nada más
 - 2026-11-05 20:13 · calificó el básquet (Davy 4, Marty 5); timón no vino
 - 2026-11-13 08:13 · se anotó al básquet del lunes de noche de Bart en Del Viso
+- 2026-11-14 08:12 · leyó que Bart lo aceptó en el básquet del lunes; solo miró
