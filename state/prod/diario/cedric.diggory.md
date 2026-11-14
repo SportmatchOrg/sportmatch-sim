@@ -27,3 +27,4 @@
 - 2026-11-14 04:14 · pidió unirse al pádel ADVANCED del jueves 26 en Norte Pádel (competitivo)
 - 2026-11-14 08:15 · calificó dos pádel (3 a 5); nada más
 - 2026-11-14 12:18 · entró y leyó; nada para calificar, solo miró
+- 2026-11-14 16:14 · pidió unirse al pádel del lunes 23 en Norte Pádel (se anota a todo)

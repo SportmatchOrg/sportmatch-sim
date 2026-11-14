@@ -36,3 +36,4 @@
 - 2026-10-23 12:14 · entró y solo miró
 - 2026-10-31 16:15 · pidió unirse al fútbol del domingo a la mañana en River Courts (para despejarse)
 - 2026-11-05 04:15 · entró, hoy es jueves y solo miró
+- 2026-11-14 16:14 · entró, leyó y solo miró

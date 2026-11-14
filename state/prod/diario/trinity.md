@@ -3,3 +3,4 @@
 - 2026-11-02 08:15 · se anotó al fútbol del miércoles en Club Pilar (se anota a todo)
 - 2026-11-05 00:17 · calificó el fútbol (4 y 5) y pidió unirse al de Lois del sábado en Club Pilar
 - 2026-11-09 04:15 · se anotó al fútbol del martes de Dory en Club Pilar (se anota a todo)
+- 2026-11-14 16:15 · se unió al fútbol del domingo de Hermione en Club Pilar (le gusta conocer gente)

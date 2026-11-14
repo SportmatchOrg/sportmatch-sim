@@ -21,3 +21,4 @@
 - 2026-11-08 04:14 · aceptó a Arya en su partido
 - 2026-11-08 08:14 · leyó notificaciones y solo miró (entre semana no organiza)
 - 2026-11-08 12:16 · calificó el pádel (5 y 4); después solo miró
+- 2026-11-14 16:14 · entró, leyó notificaciones y solo miró

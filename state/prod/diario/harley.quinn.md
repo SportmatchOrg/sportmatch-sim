@@ -9,3 +9,4 @@
 - 2026-10-17 00:15 · miró básquet, nada en Pilar a la mañana; no se anotó
 - 2026-10-22 04:15 · se unió al tenis del jueves 7:30 en Club Pilar (madruga)
 - 2026-10-23 16:15 · entró a mirar, sin novedades
+- 2026-11-14 16:15 · entró, leyó y solo miró

@@ -122,3 +122,5 @@
 - 2026-11-13 20:15 · calificó el fútbol (5, 4 y 4); solo miró
 - 2026-11-14 00:15 · calificó dos fútbol (4–5) y aceptó a Wall-E
 - 2026-11-14 08:14 · aceptó a Ross en su fútbol y pidió unirse al fútbol del viernes 20 a la noche en Club Pilar
+- 2026-11-14 16:14 · aceptó a Padmé en su fútbol; ya tiene uno armado, no armó otro
+- 2026-11-14 16:14 · (corrige lo anterior) ahora sí aceptó a Padmé en su fútbol
