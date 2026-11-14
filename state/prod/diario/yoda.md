@@ -21,3 +21,4 @@
 - 2026-11-07 08:13 · entró, leyó una notificación y solo miró
 - 2026-11-09 08:14 · pidió unirse al pádel del sábado 14 a la mañana de Tony en Tigre (le gustan los findes temprano)
 - 2026-11-14 04:15 · pidió unirse al pádel del domingo 15 a las 10 en Pádel Point Pilar (le gustan los findes a la mañana)
+- 2026-11-14 08:14 · calificó el pádel (Cedric 5, Tony 4) y pidió unirse al pádel del martes 17 a la mañana de Indiana en Pádel Point Pilar

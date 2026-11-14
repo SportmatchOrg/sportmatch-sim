@@ -81,3 +81,4 @@
 - 2026-11-11 12:14 · aceptó a Cedric en su pádel
 - 2026-11-12 08:14 · entró y solo miró
 - 2026-11-13 04:15 · entró, leyó notificaciones y solo miró
+- 2026-11-14 08:15 · calificó el pádel (Yoda 4, Cedric 5); nada más

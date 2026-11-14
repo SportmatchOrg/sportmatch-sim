@@ -69,3 +69,5 @@
 - 2026-11-10 08:14 · se dio cuenta de que ya tenía el pádel ADVANCED del domingo 15 armado y canceló el repetido
 - 2026-11-11 04:14 · aceptó a Krusty en su partido
 - 2026-11-13 00:17 · calificó a Héctor (4) y Steve (3) y armó un pádel ADVANCED el domingo 15 a la mañana en Pádel Point Pilar
+- 2026-11-14 08:14 · aceptó a Yoda en su pádel y pidió unirse al fútbol ADVANCED del sábado a la mañana en Club Pilar
+- 2026-11-14 08:14 · (corrección: ya estaba anotado al fútbol del sábado de Finn; no pidió nada nuevo)

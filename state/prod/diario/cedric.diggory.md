@@ -25,3 +25,4 @@
 - 2026-11-13 20:17 · armó un pádel ADVANCED el martes 17 a las 21 en Tigre Pádel Club (competitivo)
 - 2026-11-14 00:17 · pidió unirse al pádel del sábado de Indiana en Pádel Point Pilar
 - 2026-11-14 04:14 · pidió unirse al pádel ADVANCED del jueves 26 en Norte Pádel (competitivo)
+- 2026-11-14 08:15 · calificó dos pádel (3 a 5); nada más

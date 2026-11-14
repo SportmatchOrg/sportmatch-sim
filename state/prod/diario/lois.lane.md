@@ -121,3 +121,4 @@
 - 2026-11-13 08:14 · aceptó a Phoebe en su fútbol de Club Pilar y pidió unirse al fútbol del miércoles de Dory en Club Pilar
 - 2026-11-13 20:15 · calificó el fútbol (5, 4 y 4); solo miró
 - 2026-11-14 00:15 · calificó dos fútbol (4–5) y aceptó a Wall-E
+- 2026-11-14 08:14 · aceptó a Ross en su fútbol y pidió unirse al fútbol del viernes 20 a la noche en Club Pilar

@@ -16,3 +16,4 @@
 - 2026-11-07 12:20 · calificó el pádel (4 y 5); solo miró
 - 2026-11-08 08:14 · solo miró, no hay pádel nuevo en CABA
 - 2026-11-09 04:14 · pidió unirse al pádel del martes de Bellatrix en Club Belgrano
+- 2026-11-14 08:15 · leyó que Bellatrix lo aceptó y pidió unirse al pádel BEGINNER del domingo 15 a la mañana en Belgrano Pádel (retomando de a poco)

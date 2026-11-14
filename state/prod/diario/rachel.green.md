@@ -9,3 +9,4 @@
 - 2026-11-10 16:15 · armó un fútbol INTERMEDIATE el sábado 14 a las 18 en River Courts (falta gente)
 - 2026-11-11 00:16 · aceptó a Ned y a Bellatrix en su fútbol del sábado; no se anotó a nada
 - 2026-11-13 16:14 · pidió unirse al fútbol del sábado 14 en Club Atlético Belgrano (falta uno)
+- 2026-11-14 08:15 · pidió unirse al fútbol del miércoles 18 a las 18 en Club Atlético Alem (con amigos)

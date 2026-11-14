@@ -9,3 +9,4 @@
 - 2026-11-05 00:16 · calificó el fútbol (4 y 5); solo miró
 - 2026-11-08 08:14 · solo miró, nada nuevo que le encaje
 - 2026-11-11 08:15 · pidió unirse al fútbol ADVANCED del sábado 14 en Club Pilar (quiere ganar)
+- 2026-11-14 08:15 · leyó que Finn lo aceptó y pidió unirse al fútbol ADVANCED del martes 17 en Club Pilar (quiere ganar)
