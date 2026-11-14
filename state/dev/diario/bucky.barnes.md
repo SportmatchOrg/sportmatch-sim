@@ -18,3 +18,4 @@
 - 2026-11-12 08:12 · entró un rato entre semana, solo miró
 - 2026-11-12 12:12 · pidió unirse al running del sábado de Faramir en Parque Pilar (tiene la mañana libre)
 - 2026-11-13 04:12 · armó un fútbol del sáb 14/11 10:00 en Fútbol 5 Nordelta (mañana de finde)
+- 2026-11-14 12:14 · calificó el running (4, 4, 5) y armó un fútbol 5 el sábado 21/11 a las 10 en Club Pilar

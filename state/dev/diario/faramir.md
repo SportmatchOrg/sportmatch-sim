@@ -47,3 +47,4 @@
 - 2026-11-13 16:12 · aceptó a Kylo en su running; solo eso
 - 2026-11-13 20:13 · leyó notificaciones; solo miró
 - 2026-11-14 08:12 · leyó notificaciones; sin novedades, solo miró
+- 2026-11-14 12:12 · calificó el running y armó un running tranqui el domingo 9:30 en Parque Pilar

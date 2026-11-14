@@ -7,3 +7,4 @@
 - 2026-11-12 16:12 · armó un fútbol 5 INTERMEDIATE el mar 17/11 20:30 en Nordelta (puntual)
 - 2026-11-13 08:13 · armó un fútbol 5 INTERMEDIATE el jue 19/11 20:00 en Nordelta (puntual)
 - 2026-11-13 20:12 · entró, leyó notificaciones y solo miró
+- 2026-11-14 12:11 · aceptó a Lois en su fútbol del jueves

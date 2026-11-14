@@ -10,3 +10,4 @@
 - 2026-11-08 12:14 · calificó el pádel (5 a Rey); ya tiene sus pádel armados, nada más
 - 2026-11-09 12:12 · aceptó a Anakin en su pádel; solo miró
 - 2026-11-12 04:11 · aceptó a Rey en su pádel del sábado; solo miró
+- 2026-11-14 12:12 · calificó el pádel (4 y 5) y pidió unirse al pádel de hoy en Los Pinos

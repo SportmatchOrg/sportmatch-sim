@@ -1,2 +1,3 @@
 - 2026-11-05 12:12 · entró a mirar, no se anotó a nada
 - 2026-11-11 16:12 · se unió al running del sábado en Parque Pilar (tarde libre, vuelve con ganas)
+- 2026-11-14 12:14 · calificó el running (4, 5, 4) y pidió unirse al fútbol del viernes 20/11 en Complejo Norte

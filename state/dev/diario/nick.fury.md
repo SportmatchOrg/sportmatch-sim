@@ -1,3 +1,4 @@
 - 2026-10-29 20:12 · primera vez en la app: pidió unirse al básquet de Ned en Club Belgrano (se anota a todo)
 - 2026-11-09 00:13 · pidió unirse al fútbol del dom 15/11 10:30 en Club Rivadavia (prefiere findes a la mañana)
 - 2026-11-12 16:12 · pidió unirse al básquet del sáb 14/11 a la mañana (le gustan los findes)
+- 2026-11-14 12:13 · calificó el básquet (5, 4, 4) y pidió unirse al fútbol del domingo a la mañana en Nordelta

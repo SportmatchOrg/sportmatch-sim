@@ -137,3 +137,4 @@
 - 2026-11-12 16:12 · aceptó a Padmé en su fútbol; solo miró
 - 2026-11-13 04:11 · aceptó a Phoebe en su fútbol y armó un fútbol 9 ADVANCED el sáb 14/11 20:30 en Del Viso
 - 2026-11-13 08:11 · aceptó a Bart en su fútbol; solo eso hoy
+- 2026-11-14 12:11 · aceptó a Jon Snow en su fútbol

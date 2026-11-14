@@ -28,3 +28,4 @@
 - 2026-11-13 12:11 · aceptó a Gato con Botas en su básquet y se anotó al fútbol de Lois del martes en Club Pilar (se anota a todo)
 - 2026-11-13 20:12 · aceptó a Fiona en su básquet y pidió unirse al básquet INTERMEDIATE del sáb 14/11 de Frodo en Campus Austral (se anota a todo)
 - 2026-11-14 00:13 · calificó el fútbol (4, 5, 4) y pidió unirse al fútbol del jue 19/11 de Dory en Del Viso (se anota a todo)
+- 2026-11-14 12:13 · calificó fútbol y básquet y pidió unirse al fútbol del domingo en Nordelta

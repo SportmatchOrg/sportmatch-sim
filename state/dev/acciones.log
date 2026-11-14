@@ -3453,3 +3453,51 @@
 2026-11-14T11:12:39.155Z ginny.weasley unirse cmwfct1xa077i01tjx0zu5xcb
 2026-11-14T11:12:40.973Z bruce.wayne unirse c1tw9loyxv8ycx8po530w40p1
 2026-11-14T11:12:42.779Z jon.snow unirse cmwcqi2yt051z01tjcbpard8j
+2026-11-14T15:10:28.336Z sorteo cmw79az4i00f401tjeu6b1gr5 faltaron=[] calificaran=[clint.barton,anakin.skywalker]
+2026-11-14T15:10:28.974Z sorteo cmw7qff0e00mt01tjagjnz9ct faltaron=[hermione.granger] calificaran=[wanda.maximoff,george.weasley,phoebe.buffay,clark.kent,bart.simpson,lois.lane]
+2026-11-14T15:10:29.586Z sorteo cmw7z1d9e00sj01tjv2k524sh faltaron=[] calificaran=[faramir,selina.kyle,bucky.barnes]
+2026-11-14T15:10:31.189Z sorteo cmw87l2h000zd01tj2233wo2z faltaron=[] calificaran=[gollum]
+2026-11-14T15:10:34.945Z sorteo cmwbb2as5039d01tjamhv8dq5 faltaron=[] calificaran=[fiona,kylo.ren,phoebe.buffay,nick.fury,bart.simpson]
+2026-11-14T15:10:40.663Z sorteo cmwcqhnw0051h01tjl36vxtmu faltaron=[] calificaran=[burro,gollum,nala]
+2026-11-14T15:10:58.176Z sorteo cmwen33w506pv01tjzppvbwt3 faltaron=[] calificaran=[bucky.barnes]
+2026-11-14T15:11:14.470Z quigon.jinn leer-notificaciones 2
+2026-11-14T15:11:32.809Z quigon.jinn aceptar cmwfct1xa077i01tjx0zu5xcb ginny.weasley
+2026-11-14T15:11:34.425Z quigon.jinn unirse cmwgb32vg007d01o9mkcetdq5
+2026-11-14T15:11:40.924Z steve.rogers leer-notificaciones 2
+2026-11-14T15:11:43.128Z han.solo leer-notificaciones 1
+2026-11-14T15:11:47.882Z steve.rogers aceptar cmwcqi2yt051z01tjcbpard8j jon.snow
+2026-11-14T15:11:49.615Z han.solo aceptar cmwevo6cj06uu01tjyjf87vpc lois.lane
+2026-11-14T15:11:51.144Z faramir leer-notificaciones 1
+2026-11-14T15:11:56.672Z faramir calificar cmw7z1d9e00sj01tjv2k524sh ratings=3 noShows=0
+2026-11-14T15:11:58.273Z faramir crear cmwgjnm3u00e401o9wm0tc0a8 RUNNING 2026-11-15T12:30:00.000Z
+2026-11-14T15:12:16.568Z lois.lane calificar cmw7qff0e00mt01tjagjnz9ct ratings=3 noShows=1
+2026-11-14T15:12:18.328Z lois.lane unirse cmw9efs1801rk01tjvf3dvm5y
+2026-11-14T15:12:20.312Z clark.kent calificar cmw7qff0e00mt01tjagjnz9ct ratings=3 noShows=1
+2026-11-14T15:12:22.971Z george.weasley calificar cmw7qff0e00mt01tjagjnz9ct ratings=3 noShows=1
+2026-11-14T15:12:30.240Z george.weasley unirse cmwdxcx9v05oc01tj2nstxf4g
+2026-11-14T15:12:41.669Z anakin.skywalker calificar cmw79az4i00f401tjeu6b1gr5 ratings=2 noShows=0
+2026-11-14T15:12:43.312Z anakin.skywalker unirse cmwgb32vg007d01o9mkcetdq5
+2026-11-14T15:12:44.990Z clint.barton calificar cmw79az4i00f401tjeu6b1gr5 ratings=2 noShows=0
+2026-11-14T15:12:46.640Z clint.barton unirse c4usswe6jf7cokveczkv1svav
+2026-11-14T15:13:05.277Z nala calificar cmwcqhnw0051h01tjl36vxtmu ratings=2 noShows=0
+2026-11-14T15:13:07.015Z burro calificar cmwcqhnw0051h01tjl36vxtmu ratings=2 noShows=0
+2026-11-14T15:13:08.727Z gollum calificar cmwcqhnw0051h01tjl36vxtmu ratings=2 noShows=0
+2026-11-14T15:13:10.337Z gollum calificar cmw87l2h000zd01tj2233wo2z ratings=1 noShows=0
+2026-11-14T15:13:12.080Z phoebe.buffay calificar cmw7qff0e00mt01tjagjnz9ct ratings=3 noShows=1
+2026-11-14T15:13:13.745Z phoebe.buffay calificar cmwbb2as5039d01tjamhv8dq5 ratings=3 noShows=0
+2026-11-14T15:13:23.258Z phoebe.buffay unirse cm4srud9brdjz3jx8f36dqkuu
+2026-11-14T15:13:24.908Z fiona calificar cmwbb2as5039d01tjamhv8dq5 ratings=3 noShows=0
+2026-11-14T15:13:26.564Z fiona crear cmwgjpi8b00gt01o91ct4yjws BASQUET 2026-11-18T23:00:00.000Z
+2026-11-14T15:13:36.125Z kylo.ren calificar cmwbb2as5039d01tjamhv8dq5 ratings=3 noShows=0
+2026-11-14T15:13:37.735Z bart.simpson calificar cmw7qff0e00mt01tjagjnz9ct ratings=2 noShows=1
+2026-11-14T15:13:39.364Z bart.simpson calificar cmwbb2as5039d01tjamhv8dq5 ratings=3 noShows=0
+2026-11-14T15:13:40.934Z nick.fury calificar cmwbb2as5039d01tjamhv8dq5 ratings=3 noShows=0
+2026-11-14T15:13:53.909Z kylo.ren unirse c6svi4499gn35dp2w0yq6w1w5
+2026-11-14T15:13:55.736Z bart.simpson unirse cmw9efs1801rk01tjvf3dvm5y
+2026-11-14T15:13:57.500Z nick.fury unirse cmw9efs1801rk01tjvf3dvm5y
+2026-11-14T15:14:09.697Z bucky.barnes calificar cmw7z1d9e00sj01tjv2k524sh ratings=3 noShows=0
+2026-11-14T15:14:11.239Z bucky.barnes crear cmwgjqgpf00i801o9ki8bitl0 FUTBOL 2026-11-21T13:00:00.000Z
+2026-11-14T15:14:12.911Z selina.kyle calificar cmw7z1d9e00sj01tjv2k524sh ratings=3 noShows=0
+2026-11-14T15:14:14.447Z selina.kyle unirse cuyz8e2kxdt8folbwskd6kag9
+2026-11-14T15:14:16.106Z wanda.maximoff calificar cmw7qff0e00mt01tjagjnz9ct ratings=2 noShows=1
+2026-11-14T15:14:17.720Z wanda.maximoff crear cmwgjqlpk00ip01o92vn5qt7o FUTBOL 2026-11-22T13:00:00.000Z

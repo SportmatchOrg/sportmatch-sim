@@ -17,3 +17,4 @@
 - 2026-11-13 00:13 · calificó el fútbol (5, 4 y 4); entre semana casi no entra, solo eso
 - 2026-11-13 08:13 · aceptó a Pippin en su fútbol; solo eso hoy
 - 2026-11-13 16:12 · aceptó a Lois en su fútbol; solo eso
+- 2026-11-14 12:14 · calificó el fútbol (5 y 4) y armó un fútbol el domingo 22/11 a las 10 en Del Viso

@@ -20,3 +20,4 @@
 - 2026-11-08 20:13 · entró, nada en el norte que le encaje y solo miró
 - 2026-11-09 20:13 · pidió unirse al básquet BEGINNER del jue 26/11 en San Isidro (recién empieza, busca algo para principiantes)
 - 2026-11-14 04:12 · pidió unirse al tenis BEGINNER del sábado en River Courts (recién empieza)
+- 2026-11-14 12:13 · calificó el partido (5 y 4), contenta; solo miró
