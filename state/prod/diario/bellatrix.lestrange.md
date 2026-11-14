@@ -141,3 +141,4 @@
 - 2026-11-13 00:15 · calificó a Lois (5), Chewbacca (4) y Clark (5) y pidió unirse al pádel del sábado en Polideportivo Municipal
 - 2026-11-13 12:15 · pidió unirse al pádel del sábado 14 de Minerva en Club Belgrano (se anota a todo)
 - 2026-11-14 00:15 · calificó a Sam (5); después solo miró
+- 2026-11-14 20:15 · calificó a Ned y Rachel (5 y 4) y a Minerva (5); pidió unirse al fútbol del miércoles 18 en Club Atlético Alem

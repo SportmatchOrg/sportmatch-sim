@@ -80,3 +80,4 @@
 - 2026-11-13 04:14 · aceptó a Pippin en su partido
 - 2026-11-14 00:15 · aceptó a Juan Francisco en su fútbol del sábado
 - 2026-11-14 12:16 · calificó el fútbol (4–5) y armó un fútbol 5 el domingo 15 a las 10 en Club Pilar
+- 2026-11-14 20:15 · entró, leyó que Trinity pidió unirse a su fútbol del domingo; no pudo aceptarla (falló la app)

@@ -8163,8 +8163,8 @@
       "bellatrix.lestrange": true
     },
     "calificaran": [
-      "minerva.mcgonagall",
-      "bellatrix.lestrange"
+      "bellatrix.lestrange",
+      "minerva.mcgonagall"
     ],
     "calificaron": [
       "bellatrix.lestrange",
@@ -8382,7 +8382,7 @@
       "hector.barbossa"
     ],
     "pendientes": [],
-    "bajasSorteadas": false,
+    "bajasSorteadas": true,
     "asistencia": null,
     "calificaran": [],
     "calificaron": [],
@@ -8650,9 +8650,19 @@
     ],
     "pendientes": [],
     "bajasSorteadas": true,
-    "asistencia": null,
-    "calificaran": [],
-    "calificaron": [],
+    "asistencia": {
+      "rachel.green": true,
+      "ned.flanders": true,
+      "bellatrix.lestrange": true
+    },
+    "calificaran": [
+      "rachel.green",
+      "bellatrix.lestrange"
+    ],
+    "calificaron": [
+      "bellatrix.lestrange",
+      "rachel.green"
+    ],
     "cancelado": false,
     "organizador": "rachel.green",
     "fecha": "2026-11-14T21:00:00.000Z",
@@ -8824,7 +8834,7 @@
   "cmwc2589406ij01oht02kh1y0": {
     "jugadores": [],
     "pendientes": [],
-    "bajasSorteadas": false,
+    "bajasSorteadas": true,
     "asistencia": null,
     "calificaran": [],
     "calificaron": [],
@@ -8905,7 +8915,7 @@
   "cmwd7p03e011c01nxj2ay63y6": {
     "jugadores": [],
     "pendientes": [],
-    "bajasSorteadas": false,
+    "bajasSorteadas": true,
     "asistencia": null,
     "calificaran": [],
     "calificaron": [],
@@ -8941,7 +8951,7 @@
   "cmwdgaklr014e01nxbnvx353t": {
     "jugadores": [],
     "pendientes": [],
-    "bajasSorteadas": false,
+    "bajasSorteadas": true,
     "asistencia": null,
     "calificaran": [],
     "calificaron": [],
@@ -9016,9 +9026,17 @@
     ],
     "pendientes": [],
     "bajasSorteadas": true,
-    "asistencia": null,
-    "calificaran": [],
-    "calificaron": [],
+    "asistencia": {
+      "minerva.mcgonagall": true,
+      "bellatrix.lestrange": true
+    },
+    "calificaran": [
+      "minerva.mcgonagall",
+      "bellatrix.lestrange"
+    ],
+    "calificaron": [
+      "bellatrix.lestrange"
+    ],
     "cancelado": false,
     "organizador": "minerva.mcgonagall",
     "fecha": "2026-11-14T20:30:00.000Z",
@@ -9033,7 +9051,7 @@
       "bellatrix.lestrange"
     ],
     "pendientes": [],
-    "bajasSorteadas": false,
+    "bajasSorteadas": true,
     "asistencia": null,
     "calificaran": [],
     "calificaron": [],
@@ -9140,7 +9158,7 @@
     "cupo": 9,
     "creado": "2026-11-13T07:14:51.339Z",
     "pendientesHumanos": 0,
-    "anotados": 3
+    "anotados": 4
   },
   "cgaag1bwotw1utmyfjw7bvhzg": {
     "jugadores": [],
@@ -9286,22 +9304,6 @@
     "pendientesHumanos": 0,
     "anotados": 2
   },
-  "cslsun2stwohdsmx2c9t6oqzy": {
-    "jugadores": [],
-    "pendientes": [
-      "rachel.green"
-    ],
-    "bajasSorteadas": true,
-    "asistencia": null,
-    "calificaran": [],
-    "calificaron": [],
-    "cancelado": false,
-    "organizador": "humano:ct8bv7zx8zr8a7313y4cusxj4",
-    "fecha": "2026-11-14T21:00:00.000Z",
-    "deporte": "FUTBOL",
-    "cupo": 9,
-    "anotados": 7
-  },
   "ckgq6ludw16yenqns2tgzm5w0": {
     "jugadores": [],
     "pendientes": [
@@ -9318,33 +9320,15 @@
     "cupo": 3,
     "anotados": 0
   },
-  "cmwe1tcns01qg01nxbsxrfn0y": {
-    "jugadores": [],
-    "pendientes": [
-      "davy.jones",
-      "phoebe.buffay"
-    ],
-    "bajasSorteadas": false,
-    "asistencia": null,
-    "calificaran": [],
-    "calificaron": [],
-    "cancelado": false,
-    "organizador": "humano:cmv877slj023d01ljf5ob2mit",
-    "fecha": "2026-11-14T22:00:00.000Z",
-    "deporte": "BASQUET",
-    "cupo": 11,
-    "anotados": 0
-  },
   "cmwflhn82021x01lrip03cc5k": {
     "jugadores": [
       "simba",
       "timon",
       "gato.con.botas",
-      "bart.simpson"
-    ],
-    "pendientes": [
+      "bart.simpson",
       "eowyn"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -9441,7 +9425,7 @@
     "cupo": 3,
     "creado": "2026-11-14T07:14:36.223Z",
     "pendientesHumanos": 0,
-    "anotados": 1
+    "anotados": 2
   },
   "c62xelymyhq7asahj1n6su088": {
     "jugadores": [],
@@ -9523,7 +9507,9 @@
     "fecha": "2026-11-16T23:00:00.000Z",
     "deporte": "FUTBOL",
     "cupo": 9,
-    "creado": "2026-11-14T19:14:18.925Z"
+    "creado": "2026-11-14T19:14:18.925Z",
+    "pendientesHumanos": 0,
+    "anotados": 0
   },
   "cq0fsfn96nskft26uaaysl1to": {
     "jugadores": [],
@@ -9538,7 +9524,8 @@
     "organizador": "humano:cr2mr2eclfu2w565hcxcnfafo",
     "fecha": "2026-11-23T13:30:00.000Z",
     "deporte": "PADEL",
-    "cupo": 3
+    "cupo": 3,
+    "anotados": 1
   },
   "cmwgscq9c013x01p6zkonna3g": {
     "jugadores": [],
@@ -9552,6 +9539,55 @@
     "fecha": "2026-11-15T14:00:00.000Z",
     "deporte": "FUTBOL",
     "cupo": 9,
-    "creado": "2026-11-14T19:15:26.972Z"
+    "creado": "2026-11-14T19:15:26.972Z",
+    "pendientesHumanos": 0,
+    "anotados": 0,
+    "cancelSorteado": true,
+    "cancelar": false
+  },
+  "c078aemuqpwe18f69170bs2v3": {
+    "jugadores": [],
+    "pendientes": [
+      "bellatrix.lestrange"
+    ],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "humano:cpjknuo4k6z7rlse2b5ykoc9s",
+    "fecha": "2026-11-19T01:00:00.000Z",
+    "deporte": "FUTBOL",
+    "cupo": 9
+  },
+  "corh60cdg0468u26yzreb2qj3": {
+    "jugadores": [],
+    "pendientes": [
+      "rachel.green"
+    ],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "humano:ce4wnm67m5uuhnwjjv9bsfl7d",
+    "fecha": "2026-11-23T22:00:00.000Z",
+    "deporte": "FUTBOL",
+    "cupo": 9
+  },
+  "cbbqldqdc88ii67w4t0md18a1": {
+    "jugadores": [],
+    "pendientes": [
+      "cedric.diggory"
+    ],
+    "bajasSorteadas": false,
+    "asistencia": null,
+    "calificaran": [],
+    "calificaron": [],
+    "cancelado": false,
+    "organizador": "humano:czdvl395dolsuegs8by2hiqbf",
+    "fecha": "2026-12-16T02:00:00.000Z",
+    "deporte": "PADEL",
+    "cupo": 3
   }
 }

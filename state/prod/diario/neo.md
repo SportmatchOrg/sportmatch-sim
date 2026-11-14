@@ -70,3 +70,4 @@
 - 2026-11-13 20:15 · calificó el básquet (5, 4 y 5) y armó otro básquet INTERMEDIATE el miércoles 18 a las 20:30 en Campus Austral
 - 2026-11-14 00:15 · aceptó a Simba, Timón y Gato con Botas en su básquet
 - 2026-11-14 04:14 · aceptó a Bart en su básquet del miércoles
+- 2026-11-14 20:15 · aceptó a Éowyn en su básquet del miércoles
