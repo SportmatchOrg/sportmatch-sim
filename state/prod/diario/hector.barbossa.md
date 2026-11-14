@@ -60,3 +60,4 @@
 - 2026-11-11 20:15 · entró y leyó; nada para calificar, solo miró
 - 2026-11-13 00:15 · calificó a Steve (4) y Bart (3); solo miró
 - 2026-11-14 00:15 · entró y leyó notificaciones; nada para calificar, solo miró
+- 2026-11-14 04:14 · pidió unirse al fútbol del martes en Club Pilar y armó un running ADVANCED el jueves 19 a las 20 h en Parque Pilar

@@ -4,3 +4,4 @@
 - 2026-11-10 12:14 · aceptó a Éowyn en su running del miércoles; solo miró
 - 2026-11-11 08:14 · aceptó a Montgomery en su running del miércoles; solo miró
 - 2026-11-14 00:17 · pidió unirse al fútbol del miércoles de Dory; la calificación la deja para después
+- 2026-11-14 04:14 · por fin calificó el partido (4–5)

@@ -1,3 +1,4 @@
 - 2026-10-12 04:14 · primera vez en la app, miró y no se anotó
 - 2026-10-17 04:14 · entró a mirar; nada para hacer
 - 2026-10-25 16:14 · entró a mirar; solo miró
+- 2026-11-14 04:15 · pidió unirse al fútbol INTERMEDIATE del martes 17 en Club Pilar (principiante entusiasta)

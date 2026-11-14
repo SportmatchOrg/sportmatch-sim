@@ -16,3 +16,4 @@
 - 2026-11-12 00:14 · se anotó al básquet del viernes en Club Belgrano (ya veremos si va)
 - 2026-11-13 20:16 · se anotó al básquet del miércoles 18 de Neo en Campus Austral; el de calificar lo deja para después
 - 2026-11-14 00:16 · entró, leyó y solo miró; el de calificar lo deja para después
+- 2026-11-14 04:14 · calificó el básquet (4 y 5); no se anotó a nada más

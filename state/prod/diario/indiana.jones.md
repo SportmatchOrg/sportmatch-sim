@@ -27,3 +27,4 @@
 - 2026-11-12 16:14 · entró, leyó notificaciones y solo miró
 - 2026-11-13 12:15 · armó un pádel INTERMEDIATE el sábado 14 a las 8 en Pádel Point Pilar (madruga)
 - 2026-11-14 00:16 · aceptó a Juan Francisco en su pádel del sábado
+- 2026-11-14 04:14 · aceptó a Cedric en su pádel y armó otro pádel el martes 17 a las 8 en Pádel Point Pilar (madruga)

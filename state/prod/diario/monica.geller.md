@@ -20,3 +20,4 @@
 - 2026-11-13 12:14 · otra vez no pudo aceptar a Woody: el pádel del domingo sigue lleno
 - 2026-11-13 16:14 · Woody sigue sin lugar en el pádel lleno; no insistió
 - 2026-11-13 20:18 · calificó dos fútbols (4, 5, 5 y 4, 5); lo de Woody sigue sin lugar, no insistió
+- 2026-11-14 04:14 · entró, leyó y solo miró
