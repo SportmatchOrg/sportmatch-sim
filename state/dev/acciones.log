@@ -3399,3 +3399,27 @@
 2026-11-13T23:12:57.506Z luke.skywalker leer-notificaciones 1
 2026-11-13T23:13:11.114Z luke.skywalker unirse cmw7z27xw00t801tjwf595iru
 2026-11-13T23:13:12.801Z molly.weasley leer-notificaciones 1
+2026-11-14T03:10:41.106Z sorteo cmwb2hvxl031z01tjlphtq0d8 faltaron=[] calificaran=[dory,pippin.tuk,lois.lane,bart.simpson]
+2026-11-14T03:10:44.125Z sorteo cmwc9cwja046m01tjlnomjibn faltaron=[ginny.weasley] calificaran=[mace.windu]
+2026-11-14T03:11:28.030Z pippin.tuk leer-notificaciones 1
+2026-11-14T03:11:38.416Z pippin.tuk calificar cmwb2hvxl031z01tjlphtq0d8 ratings=3 noShows=0
+2026-11-14T03:11:46.951Z pippin.tuk unirse cmwevmztz06tg01tjnkvt8mob
+2026-11-14T03:11:53.422Z mace.windu calificar cmwc9cwja046m01tjlnomjibn ratings=1 noShows=1
+2026-11-14T03:11:55.179Z sam.gamyi leer-notificaciones 1
+2026-11-14T03:11:59.245Z sam.gamyi aceptar cmwflck0l07c501tjxqmfb909 bruce.wayne
+2026-11-14T03:12:10.689Z sam.gamyi crear cmwftxy9x07hp01tjc5gx8x3j TENIS 2026-11-18T23:00:00.000Z
+2026-11-14T03:12:16.456Z molly.weasley aceptar cmw7z27xw00t801tjwf595iru luke.skywalker
+2026-11-14T03:12:18.600Z lois.lane leer-notificaciones 3
+2026-11-14T03:12:24.885Z lois.lane calificar cmwb2hvxl031z01tjlphtq0d8 ratings=3 noShows=0
+2026-11-14T03:12:30.291Z lois.lane aceptar cmwevmztz06tg01tjnkvt8mob phoebe.buffay
+2026-11-14T03:12:32.434Z lois.lane aceptar cmwevmztz06tg01tjnkvt8mob pippin.tuk
+2026-11-14T03:12:34.310Z frodo.bolson leer-notificaciones 1
+2026-11-14T03:12:38.503Z frodo.bolson aceptar cmwc9d69f046u01tj389x4050 bart.simpson
+2026-11-14T03:12:40.337Z dory leer-notificaciones 2
+2026-11-14T03:12:46.391Z dory calificar cmwb2hvxl031z01tjlphtq0d8 ratings=3 noShows=0
+2026-11-14T03:12:48.539Z dory crear cmwftyrim07is01tj022o6f56 FUTBOL 2026-11-19T23:30:00.000Z
+2026-11-14T03:12:52.894Z bart.simpson leer-notificaciones 2
+2026-11-14T03:13:03.241Z bart.simpson calificar cmwb2hvxl031z01tjlphtq0d8 ratings=3 noShows=0
+2026-11-14T03:13:05.275Z bart.simpson unirse cmwftyrim07is01tj022o6f56
+2026-11-14T03:13:10.746Z monica.geller calificar cmw95wgaw01nd01tjwlma9eyh ratings=0 noShows=0
+2026-11-14T03:13:23.897Z poe.dameron unirse cmw7z27xw00t801tjwf595iru

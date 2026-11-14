@@ -1,1 +1,2 @@
 - 2026-11-05 16:12 · primer día en la app: miró partidos, sin anotarse todavía
+- 2026-11-14 00:13 · pidió unirse al running del dom 15/11 en Parque Pilar (para despejarse)

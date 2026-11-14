@@ -6,3 +6,4 @@
 - 2026-10-27 00:12 · calificó el fútbol (5, 5 y 4); no hizo más
 - 2026-10-27 04:12 · miró la app; sin novedades de su solicitud, nada más
 - 2026-11-06 16:13 · miró la app; sin novedades, hoy no hizo nada
+- 2026-11-14 00:13 · entró, leyó notificaciones y solo miró

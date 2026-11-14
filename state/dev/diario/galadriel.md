@@ -26,3 +26,4 @@
 - 2026-11-12 00:12 · pidió unirse al básquet BEGINNER del 25/12 en Club Central
 - 2026-11-12 12:12 · leyó notificaciones, nada nuevo; solo miró
 - 2026-11-13 16:12 · entró, leyó notificaciones y solo miró
+- 2026-11-14 00:13 · entró, leyó notificaciones y solo miró

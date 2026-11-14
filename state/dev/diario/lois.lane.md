@@ -97,3 +97,4 @@
 - 2026-11-13 08:13 · armó un fútbol INTERMEDIATE el mar 17/11 20:00 en Club Pilar (puntual) y aceptó a Simba
 - 2026-11-13 12:11 · aceptó a Rocket en su fútbol y pidió unirse al fútbol del domingo en Del Viso
 - 2026-11-13 16:12 · aceptó a Bart en su fútbol; solo eso
+- 2026-11-14 00:12 · calificó el fútbol (5, 4, 5) y aceptó a Phoebe y a Pippin en el del martes

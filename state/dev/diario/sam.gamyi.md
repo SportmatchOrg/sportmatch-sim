@@ -88,3 +88,4 @@
 - 2026-11-11 20:12 · aceptó a Bruce Wayne en su pádel y se unió al pádel BEGINNER del vie 13/11 en Belgrano Pádel
 - 2026-11-12 20:11 · aceptó a Sherlock Holmes en su pádel
 - 2026-11-13 20:11 · calificó a Bruce (5) y armó un pádel BEGINNER el mar 17/11 20:00 en Club Belgrano
+- 2026-11-14 00:12 · aceptó a Bruce en su pádel y armó un tenis BEGINNER el mié 18/11 20:00 en River Courts

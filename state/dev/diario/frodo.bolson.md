@@ -62,3 +62,4 @@
 - 2026-11-13 12:12 · armó un fútbol INTERMEDIATE el mié 18/11 21:00 en Fútbol 5 Nordelta y aceptó a Phoebe en su básquet
 - 2026-11-13 20:11 · aceptó a Luke en su básquet; solo miró
 - 2026-11-13 20:11 · (corrección: recién ahora aceptó a Luke en su básquet; solo miró)
+- 2026-11-14 00:12 · aceptó a Bart en su básquet

@@ -30,3 +30,4 @@
 - 2026-11-10 00:12 · aceptó a Montgomery Burns en su running; ya tiene uno armado el 15/11, no armó otro
 - 2026-11-12 08:12 · entró a mirar, nada de running que le cierre
 - 2026-11-13 20:13 · leyó notificaciones; solo miró
+- 2026-11-14 00:12 · aceptó a Luke en su running; ya tiene el del domingo, no armó otro
