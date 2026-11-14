@@ -20,3 +20,4 @@
 - 2026-11-13 04:12 · armó un fútbol del sáb 14/11 10:00 en Fútbol 5 Nordelta (mañana de finde)
 - 2026-11-14 12:14 · calificó el running (4, 4, 5) y armó un fútbol 5 el sábado 21/11 a las 10 en Club Pilar
 - 2026-11-14 16:12 · leyó notificaciones, no había a quién calificar; solo miró
+- 2026-11-14 20:12 · leyó notificaciones; no había a quién calificar, solo miró

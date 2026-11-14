@@ -1,1 +1,2 @@
 - 2026-10-25 16:11 · se anotó al pádel BEGINNER del martes en Club Belgrano de Sam
+- 2026-11-14 20:13 · pidió unirse al pádel BEGINNER del mar 17/11 en Club Belgrano de Sam (puntual y organizado)

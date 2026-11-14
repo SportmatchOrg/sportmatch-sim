@@ -53,3 +53,4 @@
 - 2026-11-13 12:12 · pidió unirse al básquet del sáb 14/11 en Campus Austral (competitiva, va a todo)
 - 2026-11-13 20:12 · leyó que Frodo la aceptó y pidió unirse al fútbol INTERMEDIATE del mar 17/11 de Lois en Club Pilar (competitiva)
 - 2026-11-14 12:13 · calificó fútbol y básquet y pidió unirse al básquet del jueves en Club Del Parque (juega para ganar)
+- 2026-11-14 20:12 · calificó (5, 4 y 5) y pidió unirse al fútbol del dom 22/11 en Del Viso de Wanda (competitiva)

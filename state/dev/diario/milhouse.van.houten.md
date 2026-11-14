@@ -16,3 +16,4 @@
 - 2026-11-11 16:12 · entró a mirar, no hizo nada
 - 2026-11-12 08:12 · pidió unirse al básquet INTERMEDIATE del sáb 14/11 en Campus Austral (exigente con el nivel)
 - 2026-11-13 00:13 · entró a mirar; esperando respuesta por el básquet de Campus Austral, no hizo nada
+- 2026-11-14 20:11 · calificó el básquet (5, 5 y 4) y armó un básquet BEGINNER el mar 17/11 20:00 en Campus Austral

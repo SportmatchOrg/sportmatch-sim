@@ -63,3 +63,4 @@
 - 2026-11-13 20:11 · aceptó a Luke en su básquet; solo miró
 - 2026-11-13 20:11 · (corrección: recién ahora aceptó a Luke en su básquet; solo miró)
 - 2026-11-14 00:12 · aceptó a Bart en su básquet
+- 2026-11-14 20:11 · calificó el básquet (4, 5 y 4); solo eso

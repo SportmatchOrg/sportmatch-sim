@@ -16,3 +16,4 @@
 - 2026-11-13 00:13 · calificó el básquet (5 y 4); hoy nada más
 - 2026-11-13 16:12 · pidió unirse al básquet del sáb 14/11 en Campus Austral (suma gente con amigos)
 - 2026-11-13 20:13 · leyó que Frodo lo aceptó y pidió unirse al running INTERMEDIATE del dom 15/11 9:00 de Molly en Parque Pilar
+- 2026-11-14 20:12 · calificó el básquet (5, 4 y 4) y pidió unirse al básquet del lun 16/11 en Del Viso de Bart

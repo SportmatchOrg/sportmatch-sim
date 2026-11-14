@@ -48,3 +48,4 @@
 - 2026-11-13 20:13 · leyó notificaciones; solo miró
 - 2026-11-14 08:12 · leyó notificaciones; sin novedades, solo miró
 - 2026-11-14 12:12 · calificó el running y armó un running tranqui el domingo 9:30 en Parque Pilar
+- 2026-11-14 20:11 · aceptó a Arya Stark y a Éowyn en sus partidos; solo eso
