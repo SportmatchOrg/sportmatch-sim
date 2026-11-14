@@ -31,3 +31,4 @@
 - 2026-11-12 08:12 · entró a mirar, nada de running que le cierre
 - 2026-11-13 20:13 · leyó notificaciones; solo miró
 - 2026-11-14 00:12 · aceptó a Luke en su running; ya tiene el del domingo, no armó otro
+- 2026-11-14 04:11 · aceptó a Poe en su running del domingo; ya tiene uno armado, no armó otro

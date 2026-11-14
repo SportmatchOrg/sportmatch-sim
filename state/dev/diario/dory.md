@@ -38,3 +38,4 @@
 - 2026-11-11 20:12 · aceptó a Lois Lane en su fútbol; solo miró
 - 2026-11-12 12:11 · aceptó a Bart en su fútbol y pidió unirse al fútbol del martes en Del Viso
 - 2026-11-14 00:12 · calificó el fútbol (5, 4, 4) y armó un fútbol INTERMEDIATE el jue 19/11 20:30 en Del Viso
+- 2026-11-14 04:11 · aceptó a Bart en su fútbol; después solo miró

@@ -115,3 +115,4 @@
 - 2026-11-07 12:13 · no había a quién calificar; ya tiene cinco pedidos pendientes, hoy solo miró
 - 2026-11-07 16:11 · ya tiene varios pedidos pendientes, hoy solo miró
 - 2026-11-07 20:12 · entró, no había nada para calificar y ya tiene pedidos pendientes; solo miró
+- 2026-11-14 04:12 · pidió unirse al fútbol del sábado en Parque Centenario (se anota a todo)

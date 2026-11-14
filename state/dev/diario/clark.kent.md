@@ -20,3 +20,4 @@
 - 2026-11-08 00:12 · pidió unirse al pádel del lunes de Indiana en Pádel Point Pilar
 - 2026-11-09 08:12 · calificó el pádel (5 a Indiana) y pidió unirse al fútbol del sábado 14/11 de Wanda en Club Pilar (tarde libre)
 - 2026-11-12 04:12 · solo miró, leyó notificaciones
+- 2026-11-14 04:12 · pidió unirse al pádel del sábado en Pádel Point Pilar (tarde libre)

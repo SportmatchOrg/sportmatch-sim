@@ -8184,11 +8184,10 @@
     "jugadores": [
       "davy.jones",
       "montgomery.burns",
-      "luke.skywalker"
-    ],
-    "pendientes": [
+      "luke.skywalker",
       "poe.dameron"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -8200,7 +8199,7 @@
     "cupo": 5,
     "creado": "2026-11-08T15:13:18.395Z",
     "pendientesHumanos": 0,
-    "anotados": 2
+    "anotados": 3
   },
   "cmw7z40vt00vw01tji20wr3yj": {
     "jugadores": [
@@ -8876,7 +8875,9 @@
       "simba",
       "rocket"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "pippin.tuk"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -8952,14 +8953,15 @@
     "cupo": 7,
     "creado": "2026-11-11T15:12:51.282Z",
     "pendientesHumanos": 0,
-    "anotados": 4
+    "anotados": 5
   },
   "cmwc23a6j03yf01tjnwuc6lat": {
     "jugadores": [],
     "pendientes": [
       "peter.parker",
       "senor.cara.de.papa",
-      "bruce.banner"
+      "bruce.banner",
+      "bellatrix.lestrange"
     ],
     "bajasSorteadas": false,
     "asistencia": null,
@@ -8976,7 +8978,9 @@
     "jugadores": [
       "gollum"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "nala"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -9197,7 +9201,9 @@
     "jugadores": [
       "james.bond"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "clark.kent"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -9337,7 +9343,9 @@
       "phoebe.buffay",
       "pippin.tuk"
     ],
-    "pendientes": [],
+    "pendientes": [
+      "george.weasley"
+    ],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -9349,7 +9357,7 @@
     "cupo": 9,
     "creado": "2026-11-13T11:11:52.462Z",
     "pendientesHumanos": 0,
-    "anotados": 1
+    "anotados": 3
   },
   "cmwevo6cj06uu01tjyjf87vpc": {
     "jugadores": [],
@@ -9463,7 +9471,7 @@
     "cupo": 3,
     "creado": "2026-11-13T23:11:35.405Z",
     "pendientesHumanos": 0,
-    "anotados": 0
+    "anotados": 1
   },
   "cmwftxy9x07hp01tjc5gx8x3j": {
     "jugadores": [],
@@ -9477,13 +9485,15 @@
     "fecha": "2026-11-18T23:00:00.000Z",
     "deporte": "TENIS",
     "cupo": 3,
-    "creado": "2026-11-14T03:12:10.684Z"
+    "creado": "2026-11-14T03:12:10.684Z",
+    "pendientesHumanos": 0,
+    "anotados": 0
   },
   "cmwftyrim07is01tj022o6f56": {
-    "jugadores": [],
-    "pendientes": [
+    "jugadores": [
       "bart.simpson"
     ],
+    "pendientes": [],
     "bajasSorteadas": false,
     "asistencia": null,
     "calificaran": [],
@@ -9493,6 +9503,8 @@
     "fecha": "2026-11-19T23:30:00.000Z",
     "deporte": "FUTBOL",
     "cupo": 9,
-    "creado": "2026-11-14T03:12:48.534Z"
+    "creado": "2026-11-14T03:12:48.534Z",
+    "pendientesHumanos": 0,
+    "anotados": 0
   }
 }
