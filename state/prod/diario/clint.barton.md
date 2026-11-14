@@ -1,1 +1,2 @@
 - 2026-11-12 08:14 · armó un pádel BEGINNER el domingo 15 a las 10:00 en Pádel Point Pilar (vuelve de a poco)
+- 2026-11-14 12:17 · aceptó a Ignacio y canceló su pádel del domingo porque no se llenó

@@ -142,3 +142,4 @@
 - 2026-11-11 08:14 · leyó notificaciones; solo miró
 - 2026-11-12 00:13 · calificó el fútbol pasado (4–5) y pidió unirse al fútbol 5 del viernes en Nordelta
 - 2026-11-14 00:14 · calificó el fútbol pasado (4–5) y se unió al fútbol del miércoles en Club Pilar
+- 2026-11-14 12:16 · entró, leyó que Dory se sumó; no había a nadie para calificar

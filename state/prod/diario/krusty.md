@@ -21,3 +21,4 @@
 - 2026-11-13 08:15 · calificó el fútbol: senor.cara.de.papa no vino; ya tiene pádel del domingo pendiente, no se anotó a más
 - 2026-11-13 20:17 · calificó dos fútbols (5, 4, 4 y 4, 5); solo miró
 - 2026-11-14 00:17 · calificó el fútbol (4–5) y pidió unirse al fútbol del miércoles de Dory en Club Pilar
+- 2026-11-14 12:17 · calificó el fútbol (4, 5, 4) y se anotó al pádel del martes 17 de Indiana en Pádel Point Pilar

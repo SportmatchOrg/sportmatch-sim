@@ -31,3 +31,4 @@
 - 2026-11-10 04:14 · pidió unirse al fútbol ADVANCED del sábado 14 a las 10 en Club Pilar (competitiva)
 - 2026-11-10 16:15 · pidió unirse al básquet de Phoebe en Del Viso (competitiva)
 - 2026-11-11 00:15 · calificó el básquet (4-5) y leyó que Phoebe la aceptó
+- 2026-11-14 12:16 · calificó el fútbol (4–5) y pidió unirse al fútbol del martes 17 de Lois en Club Pilar

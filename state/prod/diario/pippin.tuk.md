@@ -80,3 +80,4 @@
 - 2026-11-08 12:15 · calificó el fútbol con notas duras (2 y 3) y pidió sumarse al del jueves de Lois en Club Pilar
 - 2026-11-11 08:14 · leyó que Lois lo aceptó en el fútbol del jueves; solo miró
 - 2026-11-13 00:14 · calificó el fútbol con notas duras (2 y 3) y se anotó al del sábado a la mañana en Del Viso
+- 2026-11-14 12:15 · calificó el fútbol con notas duras (3, 2 y 3); no hizo más

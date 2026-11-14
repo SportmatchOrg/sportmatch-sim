@@ -24,3 +24,4 @@
 - 2026-11-10 08:14 · aceptó a Padmé en su fútbol ADVANCED; ya tiene dos fútbol anotados, no se unió a nada más
 - 2026-11-11 12:15 · aceptó a Neville en su fútbol ADVANCED del sábado
 - 2026-11-12 16:14 · armó un fútbol ADVANCED el domingo 15 a las 10:00 en River Courts
+- 2026-11-14 12:17 · calificó el fútbol (4, 5 y 4); nada más hoy

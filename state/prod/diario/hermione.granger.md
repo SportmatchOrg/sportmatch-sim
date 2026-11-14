@@ -79,3 +79,4 @@
 - 2026-11-12 20:14 · aceptó a nacho y Lionel en su fútbol del sábado en Del Viso
 - 2026-11-13 04:14 · aceptó a Pippin en su partido
 - 2026-11-14 00:15 · aceptó a Juan Francisco en su fútbol del sábado
+- 2026-11-14 12:16 · calificó el fútbol (4–5) y armó un fútbol 5 el domingo 15 a las 10 en Club Pilar
